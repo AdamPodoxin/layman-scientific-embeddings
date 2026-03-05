@@ -8,7 +8,7 @@ from sentence_transformers import (
 from datasets import Dataset, load_dataset
 
 
-EMBEDDING_MODEL = "KISTI-AI/Scideberta-full"
+EMBEDDING_MODEL = "answerdotai/ModernBERT-large"
 
 PAIRS_PATH = Path("data") / "all_pairs.parquet.gzip"
 MODEL_PATH = Path("models") / "scideberta-full-jargon-layman-keywords"

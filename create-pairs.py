@@ -1,3 +1,4 @@
+import random
 import json
 import itertools
 from pathlib import Path
@@ -8,14 +9,18 @@ DATA_PATH = Path("data")
 KEYWORDS_PATH = DATA_PATH / "keywords"
 PAIRS_PATH = DATA_PATH / "all_pairs.parquet.gzip"
 
+SAMPLE_PROPORTION = 1.0
+
 
 def create_pairs(list1: list[str], list2: list[str]):
-    return [
+    pairs = [
         (item1, item2)
         for item1 in list1
         for item2 in list2
         if item1 != item2
     ]
+
+    return random.sample(pairs, int(SAMPLE_PROPORTION * len(pairs)))
 
 
 def create_pairs_for_file(path: str):
