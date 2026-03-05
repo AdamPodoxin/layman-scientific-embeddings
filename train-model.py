@@ -5,6 +5,7 @@ from sentence_transformers import (
         SentenceTransformerTrainingArguments,
         losses, 
     )
+from sentence_transformers.training_args import BatchSamplers
 from datasets import Dataset, load_dataset
 
 
@@ -43,6 +44,7 @@ def train(
         output_dir=output_dir,
         learning_rate=learning_rate,
         weight_decay=weight_decay,
+        batch_sampler=BatchSamplers.NO_DUPLICATES,
     )
 
     trainer = SentenceTransformerTrainer(

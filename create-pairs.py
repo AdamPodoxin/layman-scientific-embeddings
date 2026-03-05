@@ -10,7 +10,8 @@ KEYWORDS_PATH = DATA_PATH / "keywords"
 ALL_PAIRS_PATH = DATA_PATH / "all_pairs.parquet.gzip"
 JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "jargon-layman_pairs.parquet.gzip"
 
-SAMPLE_PROPORTION = 0.1
+# Lower this to only take a subset of pairs
+SAMPLE_PROPORTION = 1.0
 
 
 def create_pairs(list1: list[str], list2: list[str]):
