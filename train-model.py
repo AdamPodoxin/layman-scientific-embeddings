@@ -5,10 +5,10 @@ from sentence_transformers import (
         SentenceTransformerTrainingArguments,
         losses, 
     )
-from datasets import Dataset, load_dataset
+from datasets import load_dataset
 
 
-EMBEDDING_MODEL = "answerdotai/ModernBERT-large"
+EMBEDDING_MODEL = "allenai/scibert_scivocab_uncased"
 
 PAIRS_PATH = Path("data") / "all_pairs.parquet.gzip"
 MODEL_PATH = Path("models") / "scideberta-full-jargon-layman-keywords"
@@ -18,7 +18,7 @@ NUM_PAIRS_PER_ABSTRACT = 15 * 14 * 3
 NUM_ABSRACTS_IN_BATCH = 5
 MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSRACTS_IN_BATCH
 
-LEARNING_RATE = 2e-5
+LEARNING_RATE = 1e-5
 
 
 def main():

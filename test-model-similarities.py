@@ -7,9 +7,9 @@ MODEL_PATH = Path("models") / "scideberta-full-jargon-layman-keywords"
 
 def main():
     keywords = [
-        "AI-based detection methods",
-        "system structure",
-        "foam nest",
+        "Lithostratigraphy",
+        "Layered rock layers",
+        "Social production",
     ]
 
     model = SentenceTransformer(str(MODEL_PATH))
