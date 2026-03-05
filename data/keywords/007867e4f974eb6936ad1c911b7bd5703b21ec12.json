@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Search results clustering",
+      "layman": "Grouping similar search pages"
+    },
+    {
+      "jargon": "Search engine",
+      "layman": "Website that finds web pages"
+    },
+    {
+      "jargon": "Open Directory Project",
+      "layman": "High-quality topic list"
+    },
+    {
+      "jargon": "Document references",
+      "layman": "Web pages about specific topics"
+    },
+    {
+      "jargon": "ODP categories",
+      "layman": "Topic groups from Open Directory"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Experimental evaluation",
+      "layman": "Testing in a controlled way"
+    },
+    {
+      "jargon": "Mixing documents",
+      "layman": "Combining different web pages"
+    },
+    {
+      "jargon": "On-line grouping",
+      "layman": "Automatically sorting results in real time"
+    },
+    {
+      "jargon": "Algorithm named Lingo",
+      "layman": "Automatic sorting tool"
+    },
+    {
+      "jargon": "Comparing clusters",
+      "layman": "Checking how groups match expectations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Expected set of ODP categories",
+      "layman": "Known topic groups"
+    },
+    {
+      "jargon": "Algorithm\u2019s strengths",
+      "layman": "What works well"
+    },
+    {
+      "jargon": "Algorithm\u2019s weaknesses",
+      "layman": "What fails or does poorly"
+    },
+    {
+      "jargon": "Research directions",
+      "layman": "Future improvements"
+    },
+    {
+      "jargon": "Test sets",
+      "layman": "Groups of sample documents"
+    }
+  ]
+}

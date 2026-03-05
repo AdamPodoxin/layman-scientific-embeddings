@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Real vector space",
+      "layman": "Space of vectors with real numbers"
+    },
+    {
+      "jargon": "n dimensions",
+      "layman": "n-dimensional space"
+    },
+    {
+      "jargon": "Quaternions",
+      "layman": "Four-number system"
+    },
+    {
+      "jargon": "Hamilton's Hypercomplex",
+      "layman": "Hamilton's extended number system"
+    },
+    {
+      "jargon": "Vector multiplication",
+      "layman": "Multiplying vectors"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Proving impossibility",
+      "layman": "Showing something can't work"
+    },
+    {
+      "jargon": "Constructing a system",
+      "layman": "Building a mathematical system"
+    },
+    {
+      "jargon": "Reminding fundamental concepts",
+      "layman": "Reviewing basic ideas"
+    },
+    {
+      "jargon": "Deep work with concepts",
+      "layman": "Carefully exploring ideas"
+    },
+    {
+      "jargon": "Multiplication without commutativity",
+      "layman": "Multiplying in a non-symmetrical way"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cannot define such a system",
+      "layman": "No such system exists"
+    },
+    {
+      "jargon": "Construction possible in four dimensions",
+      "layman": "Works in 4D space"
+    },
+    {
+      "jargon": "System contains real numbers",
+      "layman": "Includes real numbers"
+    },
+    {
+      "jargon": "Non-commutative multiplication",
+      "layman": "Multiplication order matters"
+    },
+    {
+      "jargon": "Resulting system is quaternions",
+      "layman": "Ends up as quaternions"
+    }
+  ]
+}

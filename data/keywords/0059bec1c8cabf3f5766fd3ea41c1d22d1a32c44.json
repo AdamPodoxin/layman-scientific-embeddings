@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "mobile cloud computing",
+      "layman": "mobile cloud computing"
+    },
+    {
+      "jargon": "cyber threats",
+      "layman": "online attacks"
+    },
+    {
+      "jargon": "data integrity",
+      "layman": "data accuracy"
+    },
+    {
+      "jargon": "users' confidentiality",
+      "layman": "user privacy"
+    },
+    {
+      "jargon": "service availability",
+      "layman": "system uptime"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "deep learning approach",
+      "layman": "advanced AI learning"
+    },
+    {
+      "jargon": "detect and isolate",
+      "layman": "find and stop threats"
+    },
+    {
+      "jargon": "experimental results",
+      "layman": "test outcomes"
+    },
+    {
+      "jargon": "machine learning-based approaches",
+      "layman": "AI-based detection methods"
+    },
+    {
+      "jargon": "framework",
+      "layman": "system structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "high accuracy",
+      "layman": "very correct detection"
+    },
+    {
+      "jargon": "97.11% accuracy",
+      "layman": "97% correct detection"
+    },
+    {
+      "jargon": "recognizes diverse cyberattacks",
+      "layman": "detects many types of attacks"
+    },
+    {
+      "jargon": "effectiveness",
+      "layman": "works well"
+    },
+    {
+      "jargon": "comparisons with current approaches",
+      "layman": "better than existing methods"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pulmonary arterial hypertension",
+      "layman": "High blood pressure in lung arteries"
+    },
+    {
+      "jargon": "Right heart failure",
+      "layman": "Heart on the right side fails"
+    },
+    {
+      "jargon": "Brain natriuretic peptide",
+      "layman": "Hormone released when heart is stressed"
+    },
+    {
+      "jargon": "6-min walk distance",
+      "layman": "How far a person walks in 6 minutes"
+    },
+    {
+      "jargon": "PAH etiology",
+      "layman": "Cause of the lung disease"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Risk assessment",
+      "layman": "Evaluating disease risk"
+    },
+    {
+      "jargon": "Serial fashion",
+      "layman": "Over time, step by step"
+    },
+    {
+      "jargon": "Clinical parameters",
+      "layman": "Medical symptoms and signs"
+    },
+    {
+      "jargon": "Hemodynamic parameters",
+      "layman": "Blood pressure and flow measurements"
+    },
+    {
+      "jargon": "Risk equations",
+      "layman": "Math formulas for risk prediction"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Disease progression",
+      "layman": "Worsening of the disease"
+    },
+    {
+      "jargon": "Increased hospitalizations",
+      "layman": "More hospital visits"
+    },
+    {
+      "jargon": "Prognosis",
+      "layman": "Expected future health outcome"
+    },
+    {
+      "jargon": "Treatment response",
+      "layman": "How well treatment works"
+    },
+    {
+      "jargon": "Resource allocation",
+      "layman": "Deciding who gets care first"
+    }
+  ]
+}

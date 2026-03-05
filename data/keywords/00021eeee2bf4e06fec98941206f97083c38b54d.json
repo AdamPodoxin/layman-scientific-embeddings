@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "E-Commerce",
+      "layman": "Online shopping"
+    },
+    {
+      "jargon": "Information Technology (IT) infrastructure",
+      "layman": "Digital systems and networks"
+    },
+    {
+      "jargon": "Socioeconomic condition",
+      "layman": "People's income and living standards"
+    },
+    {
+      "jargon": "Internet usage",
+      "layman": "How often people use the internet"
+    },
+    {
+      "jargon": "Government and regulatory initiatives",
+      "layman": "Government rules and policies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analysis",
+      "layman": "Reviewing data"
+    },
+    {
+      "jargon": "Investigations",
+      "layman": "Looking into problems"
+    },
+    {
+      "jargon": "Review",
+      "layman": "Checking existing information"
+    },
+    {
+      "jargon": "Evaluation",
+      "layman": "Assessing strengths and weaknesses"
+    },
+    {
+      "jargon": "E-readiness",
+      "layman": "Preparation for online shopping"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Uptrend direction",
+      "layman": "Growing faster over time"
+    },
+    {
+      "jargon": "Challenges",
+      "layman": "Problems slowing growth"
+    },
+    {
+      "jargon": "Opportunities",
+      "layman": "Good chances for growth"
+    },
+    {
+      "jargon": "High rate of education",
+      "layman": "Many people are well-educated"
+    },
+    {
+      "jargon": "Strategic position",
+      "layman": "Good location for growth"
+    }
+  ]
+}

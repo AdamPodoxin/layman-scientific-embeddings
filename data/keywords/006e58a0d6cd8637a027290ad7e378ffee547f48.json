@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Dynamic dataflow models",
+      "layman": "Flexible models for processing signals"
+    },
+    {
+      "jargon": "Signal processing applications",
+      "layman": "Applications that process signals"
+    },
+    {
+      "jargon": "Processing unit",
+      "layman": "Computer processor"
+    },
+    {
+      "jargon": "Dataflow network",
+      "layman": "Network of data movements"
+    },
+    {
+      "jargon": "System-on-chip",
+      "layman": "Chip with integrated system components"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mapping and scheduling",
+      "layman": "Assigning tasks to processors"
+    },
+    {
+      "jargon": "Static scheduling",
+      "layman": "Scheduling before program runs"
+    },
+    {
+      "jargon": "Quasi-static composition",
+      "layman": "Partial pre-planning of data flow"
+    },
+    {
+      "jargon": "Network partition",
+      "layman": "Splitting network into parts"
+    },
+    {
+      "jargon": "Transformation of network partitions",
+      "layman": "Changing network structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Run-time penalties",
+      "layman": "Performance slowdown during operation"
+    },
+    {
+      "jargon": "Speedup",
+      "layman": "Faster processing"
+    },
+    {
+      "jargon": "Reduction of dynamic dataflow networks",
+      "layman": "Fewer changing parts in system"
+    },
+    {
+      "jargon": "Predictable behaviour",
+      "layman": "Consistent and reliable operation"
+    },
+    {
+      "jargon": "Achievable speedup",
+      "layman": "Measurable performance gain"
+    }
+  ]
+}

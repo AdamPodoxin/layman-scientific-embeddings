@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Diplomatic documents",
+      "layman": "Government records of talks"
+    },
+    {
+      "jargon": "Great War",
+      "layman": "World War One"
+    },
+    {
+      "jargon": "Victorious powers",
+      "layman": "Winning countries"
+    },
+    {
+      "jargon": "Defeated powers",
+      "layman": "Losing countries"
+    },
+    {
+      "jargon": "Government interpretations",
+      "layman": "Official stories told by governments"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Publishing historical records",
+      "layman": "Releasing old government papers"
+    },
+    {
+      "jargon": "Projecting interpretations",
+      "layman": "Sharing biased versions of history"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying past events"
+    },
+    {
+      "jargon": "Government narrative shaping",
+      "layman": "Creating official stories"
+    },
+    {
+      "jargon": "Document selection",
+      "layman": "Picking which records to share"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Subjective interpretations",
+      "layman": "Biased views of the past"
+    },
+    {
+      "jargon": "Distorted historical truth",
+      "layman": "False version of reality"
+    },
+    {
+      "jargon": "Political propaganda",
+      "layman": "Spreading biased messages"
+    },
+    {
+      "jargon": "Selective publishing",
+      "layman": "Only sharing favorable records"
+    },
+    {
+      "jargon": "National self-justification",
+      "layman": "Justifying a country's actions"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Magnetic thermoplastic nanofibers",
+      "layman": "Tiny magnetic fibers made from plastic"
+    },
+    {
+      "jargon": "Poly(vinyl alcohol-co-ethylene) (PVA-co-PE)",
+      "layman": "Special blended plastic polymer"
+    },
+    {
+      "jargon": "Fe3O4 nanoparticles",
+      "layman": "Tiny magnetic particles"
+    },
+    {
+      "jargon": "Cellulose acetate butyrate matrix",
+      "layman": "Base plastic layer"
+    },
+    {
+      "jargon": "Superparamagnetic behavior",
+      "layman": "Magnetic response without permanent magnetism"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Melt extrusion",
+      "layman": "Heating and pulling plastic into fibers"
+    },
+    {
+      "jargon": "Phase separation of immiscible polymer blends",
+      "layman": "Polymers separating into layers when heated"
+    },
+    {
+      "jargon": "Scanning electron microscopy",
+      "layman": "Microscope to see fiber shapes"
+    },
+    {
+      "jargon": "Transmission electron microscopy",
+      "layman": "Microscope to see tiny particles"
+    },
+    {
+      "jargon": "Wide angle X-ray diffraction",
+      "layman": "Test to check crystal structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Uniform dispersion of Fe3O4 nanoparticles",
+      "layman": "Even distribution of magnetic particles"
+    },
+    {
+      "jargon": "Saturation magnetization",
+      "layman": "Maximum magnetic strength"
+    },
+    {
+      "jargon": "Thermogravimetric analysis",
+      "layman": "Measure how much material burns"
+    },
+    {
+      "jargon": "Improved saturation magnetization",
+      "layman": "Stronger magnetic response"
+    },
+    {
+      "jargon": "Potential applications in sensors and bio-molecular separation",
+      "layman": "Could be used in medical sensors or separating molecules"
+    }
+  ]
+}

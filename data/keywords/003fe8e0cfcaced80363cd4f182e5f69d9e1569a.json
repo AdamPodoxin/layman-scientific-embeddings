@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Market production",
+      "layman": "Goods made for sale"
+    },
+    {
+      "jargon": "Non-market production",
+      "layman": "Goods made without selling"
+    },
+    {
+      "jargon": "Capitalist firms",
+      "layman": "Profit-driven companies"
+    },
+    {
+      "jargon": "Profit-motivated purposes",
+      "layman": "Doing things to make money"
+    },
+    {
+      "jargon": "Resistance cultures",
+      "layman": "Cultures that oppose market rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analyzing data",
+      "layman": "Looking at information"
+    },
+    {
+      "jargon": "Evaluating critically",
+      "layman": "Judging carefully"
+    },
+    {
+      "jargon": "Measuring activity volume",
+      "layman": "Counting how much is done"
+    },
+    {
+      "jargon": "Revealing trends",
+      "layman": "Finding patterns over time"
+    },
+    {
+      "jargon": "Identifying contradictions",
+      "layman": "Spotting hidden conflicts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shallow penetration of market sphere",
+      "layman": "Market influence is weak"
+    },
+    {
+      "jargon": "Growth of non-market sphere",
+      "layman": "Non-market activities are rising"
+    },
+    {
+      "jargon": "Persistence of non-market activity",
+      "layman": "Non-market actions last longer"
+    },
+    {
+      "jargon": "Marketization thesis",
+      "layman": "Theory that markets have won"
+    },
+    {
+      "jargon": "Alternative futures",
+      "layman": "Other possible worlds beyond markets"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "\u03bb-calculus",
+      "layman": "Mathematical system for computing"
+    },
+    {
+      "jargon": "Effectively computable functions",
+      "layman": "Functions that can be computed by a machine"
+    },
+    {
+      "jargon": "Functional programming languages",
+      "layman": "Programming languages based on functions"
+    },
+    {
+      "jargon": "Arithmetical computations",
+      "layman": "Mathematical calculations"
+    },
+    {
+      "jargon": "Recursive functions",
+      "layman": "Functions that call themselves"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Define recursive functions",
+      "layman": "Create functions that call themselves"
+    },
+    {
+      "jargon": "Perform arithmetical computations",
+      "layman": "Do math using the system"
+    },
+    {
+      "jargon": "Use unnamed functions",
+      "layman": "Work with functions without names"
+    },
+    {
+      "jargon": "Study mathematical properties",
+      "layman": "Analyze how things behave mathematically"
+    },
+    {
+      "jargon": "Formalism",
+      "layman": "Structured system of rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strong theoretical foundation",
+      "layman": "Solid base for programming"
+    },
+    {
+      "jargon": "Popular formalism",
+      "layman": "Widely used system"
+    },
+    {
+      "jargon": "Computations using \u03bb-calculus",
+      "layman": "Math and logic done in the system"
+    },
+    {
+      "jargon": "No explicit self-reference",
+      "layman": "Can't directly name or call itself"
+    },
+    {
+      "jargon": "Theoretical basis for functional languages",
+      "layman": "Gives logic to programming languages"
+    }
+  ]
+}

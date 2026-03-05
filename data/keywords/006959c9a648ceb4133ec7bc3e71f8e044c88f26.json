@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "gut microbiota",
+      "layman": "gut bacteria"
+    },
+    {
+      "jargon": "mammalian species",
+      "layman": "types of mammals"
+    },
+    {
+      "jargon": "diet",
+      "layman": "what animals eat"
+    },
+    {
+      "jargon": "herbivores",
+      "layman": "plant-eaters"
+    },
+    {
+      "jargon": "omnivores",
+      "layman": "mixed eaters"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "16S ribosomal RNA analysis",
+      "layman": "bacterial DNA testing"
+    },
+    {
+      "jargon": "network-based analyses",
+      "layman": "pattern mapping of bacteria"
+    },
+    {
+      "jargon": "tree-based analyses",
+      "layman": "evolutionary family tree study"
+    },
+    {
+      "jargon": "faecal bacterial communities census",
+      "layman": "counting gut bacteria in poop"
+    },
+    {
+      "jargon": "phylogeny",
+      "layman": "evolutionary relationships"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "microbial community diversity",
+      "layman": "variety of gut bacteria"
+    },
+    {
+      "jargon": "co-diversification",
+      "layman": "bacteria and hosts evolve together"
+    },
+    {
+      "jargon": "inter-generational transfer",
+      "layman": "babies get gut bacteria from parents"
+    },
+    {
+      "jargon": "similar microbial communities",
+      "layman": "same bacteria in different animals"
+    },
+    {
+      "jargon": "microbial solution to herbivory",
+      "layman": "bacteria help plants-eaters digest food"
+    }
+  ]
+}

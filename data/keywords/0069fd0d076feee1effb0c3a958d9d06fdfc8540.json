@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "IIB flux vacua",
+      "layman": "Possible universes with specific physical laws"
+    },
+    {
+      "jargon": "Calabi-Yau orientifolds",
+      "layman": "Special geometric shapes in string theory"
+    },
+    {
+      "jargon": "Moduli space",
+      "layman": "Space of possible shapes and sizes"
+    },
+    {
+      "jargon": "Conifold point",
+      "layman": "Key point in shape space"
+    },
+    {
+      "jargon": "D3 charge",
+      "layman": "Type of energy in the system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Constructing vacua",
+      "layman": "Building possible universe models"
+    },
+    {
+      "jargon": "Characterizing vacua",
+      "layman": "Describing properties of models"
+    },
+    {
+      "jargon": "Analyzing curvature",
+      "layman": "Measuring shape bending"
+    },
+    {
+      "jargon": "Studying functional dependence",
+      "layman": "Seeing how things grow together"
+    },
+    {
+      "jargon": "Mapping moduli space",
+      "layman": "Plotting possible shapes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Density of vacua governed by det(-R-\u03c9)",
+      "layman": "Vacua cluster near a key point"
+    },
+    {
+      "jargon": "Attractor at \u03c8 = 1",
+      "layman": "Most vacua gather near one spot"
+    },
+    {
+      "jargon": "Small neighborhood around \u03c8 = 1",
+      "layman": "Tiny region with many models"
+    },
+    {
+      "jargon": "Power law growth",
+      "layman": "Number grows steadily with exponent"
+    },
+    {
+      "jargon": "Support for Ashok and Douglas prediction",
+      "layman": "Theory is confirmed by data"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ischemic stroke",
+      "layman": "Blocked blood flow to the brain"
+    },
+    {
+      "jargon": "Antithrombotic medications",
+      "layman": "Medications to prevent blood clots"
+    },
+    {
+      "jargon": "Deep vein thrombosis",
+      "layman": "Blood clots in deep veins"
+    },
+    {
+      "jargon": "Atrial fibrillation",
+      "layman": "Irregular heart rhythm"
+    },
+    {
+      "jargon": "Medicare fee-for-service beneficiaries",
+      "layman": "Older Americans using Medicare for care"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Random selection",
+      "layman": "Choosing patients by chance"
+    },
+    {
+      "jargon": "Stratified by age",
+      "layman": "Grouping patients by age"
+    },
+    {
+      "jargon": "Descriptive models",
+      "layman": "Statistical patterns to find links"
+    },
+    {
+      "jargon": "Discharge assessment",
+      "layman": "Checking what meds were given at hospital exit"
+    },
+    {
+      "jargon": "Exclusion criteria",
+      "layman": "Rules to remove certain patients"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "14.9% received DVT prophylaxis",
+      "layman": "Few got clot-prevention drugs"
+    },
+    {
+      "jargon": "83.9% received antiplatelet drugs",
+      "layman": "Most got blood-thinning drugs"
+    },
+    {
+      "jargon": "82.8% received anticoagulants for atrial fibrillation",
+      "layman": "Most got heart-rhythm drugs"
+    },
+    {
+      "jargon": "74.2% discharged on antithrombotic meds",
+      "layman": "Most left with clot-prevention drugs"
+    },
+    {
+      "jargon": "Treatment rates decreased with age",
+      "layman": "Older patients got fewer treatments"
+    }
+  ]
+}

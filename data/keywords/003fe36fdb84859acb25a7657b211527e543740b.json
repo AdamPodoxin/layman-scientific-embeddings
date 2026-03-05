@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Energy efficient durable goods",
+      "layman": "Energy-saving appliances"
+    },
+    {
+      "jargon": "Sales agents",
+      "layman": "Retail staff"
+    },
+    {
+      "jargon": "Consumers",
+      "layman": "Buyers"
+    },
+    {
+      "jargon": "Rebates",
+      "layman": "Money back for purchases"
+    },
+    {
+      "jargon": "Energy use information",
+      "layman": "Energy usage details"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Natural field experiment",
+      "layman": "Real-world test without artificial setup"
+    },
+    {
+      "jargon": "Sales incentives",
+      "layman": "Bonuses for sales staff"
+    },
+    {
+      "jargon": "Follow-up surveys",
+      "layman": "Post-purchase questions"
+    },
+    {
+      "jargon": "Information disclosure",
+      "layman": "Sharing energy facts"
+    },
+    {
+      "jargon": "Targeting",
+      "layman": "Focusing on specific groups"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Statistically and economically insignificant effects",
+      "layman": "No real impact"
+    },
+    {
+      "jargon": "Partial compliance",
+      "layman": "Only some staff followed rules"
+    },
+    {
+      "jargon": "Overestimate benets",
+      "layman": "Think benefits are larger than they are"
+    },
+    {
+      "jargon": "Imperfect information",
+      "layman": "Incomplete or wrong facts"
+    },
+    {
+      "jargon": "Demand for energy efficient goods",
+      "layman": "How much people want energy-saving items"
+    }
+  ]
+}

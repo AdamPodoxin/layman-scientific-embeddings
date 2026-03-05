@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Palaeoproterozoic geology",
+      "layman": "Ancient Earth rock history"
+    },
+    {
+      "jargon": "Trans-Hudson Orogen",
+      "layman": "Ancient mountain belt"
+    },
+    {
+      "jargon": "Crustal domains",
+      "layman": "Large rock regions"
+    },
+    {
+      "jargon": "Uranium mineralization",
+      "layman": "Uranium deposits"
+    },
+    {
+      "jargon": "Lithostratigraphy",
+      "layman": "Layered rock layers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Database system",
+      "layman": "Digital data storage"
+    },
+    {
+      "jargon": "Geochronological information",
+      "layman": "Age measurements of rocks"
+    },
+    {
+      "jargon": "Time-space correlation charts",
+      "layman": "Maps of time and location"
+    },
+    {
+      "jargon": "Time-slice tectonic reconstructions",
+      "layman": "Snapshots of ancient Earth plates"
+    },
+    {
+      "jargon": "Isotopic evolution",
+      "layman": "Change in atomic ratios over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Geological summary",
+      "layman": "Summary of rock history"
+    },
+    {
+      "jargon": "Contrast of geochronology",
+      "layman": "Comparison of rock ages"
+    },
+    {
+      "jargon": "Tectonic reconstructions",
+      "layman": "Reconstructed ancient plate positions"
+    },
+    {
+      "jargon": "Knowledge potential",
+      "layman": "Value of stored scientific data"
+    },
+    {
+      "jargon": "Origin of uranium mineralization",
+      "layman": "Where uranium deposits formed"
+    }
+  ]
+}

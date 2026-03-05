@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Greek Tragedy",
+      "layman": "Ancient Greek drama"
+    },
+    {
+      "jargon": "American Modern Dance",
+      "layman": "Modern dance in the U.S."
+    },
+    {
+      "jargon": "Gesamtkunstwerke",
+      "layman": "Total art experience"
+    },
+    {
+      "jargon": "Theban Cycles",
+      "layman": "A series of Greek tragedies about Thebes"
+    },
+    {
+      "jargon": "Oedipus Tyrannus",
+      "layman": "Oedipus the King"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Performance groups",
+      "layman": "Theater companies"
+    },
+    {
+      "jargon": "Visual choreography",
+      "layman": "Movement with visual design"
+    },
+    {
+      "jargon": "Choreography and music",
+      "layman": "Movement and music together"
+    },
+    {
+      "jargon": "Reenvisioning",
+      "layman": "Rewriting the story"
+    },
+    {
+      "jargon": "Deconstructing fatality",
+      "layman": "Breaking down fate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Democratizing Greek Tragedy",
+      "layman": "Making tragedy more accessible"
+    },
+    {
+      "jargon": "Political reinterpretation",
+      "layman": "Telling tragedy with political meaning"
+    },
+    {
+      "jargon": "Medea as ethnic other",
+      "layman": "Medea as a minority figure"
+    },
+    {
+      "jargon": "Communal reconciliation",
+      "layman": "Peace among people"
+    },
+    {
+      "jargon": "Abandonment",
+      "layman": "Being left behind"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "DNA molecules",
+      "layman": "Genetic material"
+    },
+    {
+      "jargon": "Cationic lipid bilayers",
+      "layman": "Positive-lipid membranes"
+    },
+    {
+      "jargon": "Plasmid DNA",
+      "layman": "Circular DNA in bacteria"
+    },
+    {
+      "jargon": "High-valence cations",
+      "layman": "Strongly charged ions"
+    },
+    {
+      "jargon": "Mg2+ ions",
+      "layman": "Magnesium ions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Condensed DNA structure",
+      "layman": "DNA packed tightly"
+    },
+    {
+      "jargon": "Interhelical distance",
+      "layman": "Spacing between DNA strands"
+    },
+    {
+      "jargon": "Ion concentration",
+      "layman": "Amount of ions in solution"
+    },
+    {
+      "jargon": "Spermidine concentration",
+      "layman": "Amount of spermidine added"
+    },
+    {
+      "jargon": "2-D condensation",
+      "layman": "DNA folding into flat layers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Minimum interhelical distance",
+      "layman": "Smallest spacing between DNA strands"
+    },
+    {
+      "jargon": "No change with Mn2+ ions",
+      "layman": "No effect from manganese ions"
+    },
+    {
+      "jargon": "DNA leaves bilayers",
+      "layman": "DNA detaches from membrane"
+    },
+    {
+      "jargon": "0.05 mM spermidine",
+      "layman": "Low concentration triggers release"
+    },
+    {
+      "jargon": "Understanding 2-D condensation",
+      "layman": "Learning how DNA forms flat layers"
+    }
+  ]
+}

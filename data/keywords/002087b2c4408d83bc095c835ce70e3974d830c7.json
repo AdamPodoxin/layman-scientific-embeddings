@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "trachytic lavas",
+      "layman": "Volcanic rock from fast-moving lava"
+    },
+    {
+      "jargon": "trachyphonolitic lavas",
+      "layman": "A type of volcanic rock with specific mineral content"
+    },
+    {
+      "jargon": "alkaline and mildly peralkaline",
+      "layman": "Rocks with high amounts of certain minerals"
+    },
+    {
+      "jargon": "volcanic shield",
+      "layman": "Large flat area made of volcanic flows"
+    },
+    {
+      "jargon": "magma",
+      "layman": "Hot molten rock beneath the Earth"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "petrographical studies",
+      "layman": "Examining rock textures under a microscope"
+    },
+    {
+      "jargon": "geochemical studies",
+      "layman": "Testing rock chemical makeup"
+    },
+    {
+      "jargon": "crystallisation",
+      "layman": "Lava cooling and forming crystals"
+    },
+    {
+      "jargon": "feldspar fractionation",
+      "layman": "Minerals separating out over time"
+    },
+    {
+      "jargon": "differentiation",
+      "layman": "Changes in rock composition during cooling"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "major element composition modified",
+      "layman": "Main rock elements changed"
+    },
+    {
+      "jargon": "residual trace elements",
+      "layman": "Tiny leftover elements in rock"
+    },
+    {
+      "jargon": "protracted feldspar fractionation",
+      "layman": "Long process of mineral separation"
+    },
+    {
+      "jargon": "widely dispersed centres",
+      "layman": "Many eruption points spread out"
+    },
+    {
+      "jargon": "extensive volcanic shield",
+      "layman": "Large area of volcanic rock formed"
+    }
+  ]
+}

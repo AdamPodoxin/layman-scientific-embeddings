@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Images",
+      "layman": "Pictures"
+    },
+    {
+      "jargon": "Categories",
+      "layman": "Groups"
+    },
+    {
+      "jargon": "Euclidean distances",
+      "layman": "Straight-line distances"
+    },
+    {
+      "jargon": "Vector space",
+      "layman": "Number space"
+    },
+    {
+      "jargon": "Face, leaf, video image datasets",
+      "layman": "Picture data sets"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Semi-supervised clustering",
+      "layman": "Grouping data with some labels"
+    },
+    {
+      "jargon": "Constraint propagation",
+      "layman": "Spreading known rules to unknown data"
+    },
+    {
+      "jargon": "Quadratic Program (QP)",
+      "layman": "Optimization process"
+    },
+    {
+      "jargon": "Triangle inequality",
+      "layman": "Distance rule that keeps things consistent"
+    },
+    {
+      "jargon": "Distance learning",
+      "layman": "Learning how far things are from each other"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Stronger clustering results",
+      "layman": "Better grouping"
+    },
+    {
+      "jargon": "Outperforms state-of-the-art methods",
+      "layman": "Better than current best methods"
+    },
+    {
+      "jargon": "Preserves key properties of distances",
+      "layman": "Keeps distance rules intact"
+    },
+    {
+      "jargon": "Real world clustering datasets",
+      "layman": "Actual-world data used"
+    },
+    {
+      "jargon": "Success depends on constraint effectiveness",
+      "layman": "Good results come from good rules"
+    }
+  ]
+}

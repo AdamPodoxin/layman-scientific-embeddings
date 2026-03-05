@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Marine mammals",
+      "layman": "Sea animals like whales and seals"
+    },
+    {
+      "jargon": "Environmental changes",
+      "layman": "Changes in climate or nature"
+    },
+    {
+      "jargon": "Anthropogenic impacts",
+      "layman": "Human-caused damage"
+    },
+    {
+      "jargon": "Abundance",
+      "layman": "How many there are"
+    },
+    {
+      "jargon": "Distribution",
+      "layman": "Where they are found"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Paraphyletic group",
+      "layman": "Group that doesn't include all descendants"
+    },
+    {
+      "jargon": "Current abundance",
+      "layman": "How many are left now"
+    },
+    {
+      "jargon": "Past environmental changes",
+      "layman": "Old climate shifts"
+    },
+    {
+      "jargon": "Anthropogenic impacts",
+      "layman": "Human-caused damage"
+    },
+    {
+      "jargon": "Distribution patterns",
+      "layman": "Where they live over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Current abundance",
+      "layman": "How many there are"
+    },
+    {
+      "jargon": "Distribution",
+      "layman": "Where they are found"
+    },
+    {
+      "jargon": "Past environmental changes",
+      "layman": "Old climate shifts"
+    },
+    {
+      "jargon": "Anthropogenic impacts",
+      "layman": "Human-caused damage"
+    },
+    {
+      "jargon": "Shaped by",
+      "layman": "Influenced by"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "monolignol",
+      "layman": "Lignin building block"
+    },
+    {
+      "jargon": "dilignol",
+      "layman": "Lignin precursor"
+    },
+    {
+      "jargon": "phospholipid bilayer",
+      "layman": "Cell membrane layer"
+    },
+    {
+      "jargon": "ammonium sulfate",
+      "layman": "Salt in solution"
+    },
+    {
+      "jargon": "hydrophobicity",
+      "layman": "Lack of water attraction"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "immobilized liposome chromatography",
+      "layman": "Membrane testing using beads"
+    },
+    {
+      "jargon": "temperature dependence",
+      "layman": "Effect of heat on process"
+    },
+    {
+      "jargon": "partitioning",
+      "layman": "Moving between layers"
+    },
+    {
+      "jargon": "octanol/water partitioning",
+      "layman": "How substances split between oil and water"
+    },
+    {
+      "jargon": "passive diffusion",
+      "layman": "Spontaneous movement through membrane"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "retention",
+      "layman": "How long substance stays in system"
+    },
+    {
+      "jargon": "hydrophobic effects",
+      "layman": "Attraction to fats"
+    },
+    {
+      "jargon": "polar interactions",
+      "layman": "Electrical attraction between molecules"
+    },
+    {
+      "jargon": "good correlation",
+      "layman": "Strong match between values"
+    },
+    {
+      "jargon": "transport route",
+      "layman": "Pathway for moving through cell"
+    }
+  ]
+}

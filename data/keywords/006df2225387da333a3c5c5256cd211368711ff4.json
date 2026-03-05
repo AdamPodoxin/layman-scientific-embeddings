@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Buyouts",
+      "layman": "Large corporate acquisitions"
+    },
+    {
+      "jargon": "Enterprise value",
+      "layman": "Total value of a company"
+    },
+    {
+      "jargon": "Leverage",
+      "layman": "Borrowing to fund purchases"
+    },
+    {
+      "jargon": "Public firms",
+      "layman": "Publicly traded companies"
+    },
+    {
+      "jargon": "Economy-wide cost of borrowing",
+      "layman": "Overall cost of loans across the economy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Empirical analysis",
+      "layman": "Data-based investigation"
+    },
+    {
+      "jargon": "Cross-sectional analysis",
+      "layman": "Comparing different cases at one time"
+    },
+    {
+      "jargon": "Matched firms",
+      "layman": "Comparable public companies"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering financial details"
+    },
+    {
+      "jargon": "Statistical observation",
+      "layman": "Noticing patterns in data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cross-sectionally unrelated",
+      "layman": "No clear link between groups"
+    },
+    {
+      "jargon": "Driven by economy-wide borrowing costs",
+      "layman": "Funded by overall loan costs"
+    },
+    {
+      "jargon": "Prices related to public market prices",
+      "layman": "Buyout prices match public prices"
+    },
+    {
+      "jargon": "Strongly affected by borrowing costs",
+      "layman": "Prices change with loan costs"
+    },
+    {
+      "jargon": "Consistent with financing availability impacting market booms and busts",
+      "layman": "Financing affects market highs and lows"
+    }
+  ]
+}

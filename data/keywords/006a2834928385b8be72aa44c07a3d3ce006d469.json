@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nonlinear optics",
+      "layman": "Light behavior in special materials"
+    },
+    {
+      "jargon": "Delayed choice",
+      "layman": "Choice made after an event happens"
+    },
+    {
+      "jargon": "EPR-type correlations",
+      "layman": "Strange linked measurements"
+    },
+    {
+      "jargon": "Faster-than-light communication",
+      "layman": "Sending messages faster than light"
+    },
+    {
+      "jargon": "Quantum entanglement",
+      "layman": "Linked particles that act together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Nonlinear optics",
+      "layman": "Light behavior in special materials"
+    },
+    {
+      "jargon": "Delayed choice",
+      "layman": "Choice made after an event happens"
+    },
+    {
+      "jargon": "EPR-type correlations",
+      "layman": "Strange linked measurements"
+    },
+    {
+      "jargon": "Attempts to refute",
+      "layman": "Trying to disprove a claim"
+    },
+    {
+      "jargon": "Experimental setup",
+      "layman": "Test configuration"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Faster-than-light communication appears not totally implausible",
+      "layman": "Message faster than light might be possible"
+    },
+    {
+      "jargon": "Possibility is discussed",
+      "layman": "The idea is debated"
+    },
+    {
+      "jargon": "Claims are put forward",
+      "layman": "Arguments are presented"
+    },
+    {
+      "jargon": "Refutation attempts",
+      "layman": "Efforts to prove wrong"
+    },
+    {
+      "jargon": "Implications are explored",
+      "layman": "Possible effects are considered"
+    }
+  ]
+}

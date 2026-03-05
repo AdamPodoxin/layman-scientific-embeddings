@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Generative Adversarial Networks",
+      "layman": "AI systems that learn to create realistic data"
+    },
+    {
+      "jargon": "Latent space",
+      "layman": "Hidden data space where patterns are stored"
+    },
+    {
+      "jargon": "Generators",
+      "layman": "AI components that create data"
+    },
+    {
+      "jargon": "Inverse mapping",
+      "layman": "Going back from data to hidden space"
+    },
+    {
+      "jargon": "Feature representations",
+      "layman": "Patterns that describe data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Bidirectional Generative Adversarial Networks",
+      "layman": "AI that can go both ways between data and hidden space"
+    },
+    {
+      "jargon": "Learning inverse mapping",
+      "layman": "Teaching AI to go back from data to hidden space"
+    },
+    {
+      "jargon": "Supervised discrimination tasks",
+      "layman": "Tasks where AI learns to classify data"
+    },
+    {
+      "jargon": "Unsupervised feature learning",
+      "layman": "Learning data patterns without labeled examples"
+    },
+    {
+      "jargon": "Self-supervised feature learning",
+      "layman": "Learning patterns from data without labels"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Linearize semantics",
+      "layman": "Make meanings simple and clear in hidden space"
+    },
+    {
+      "jargon": "Useful feature representation",
+      "layman": "Good patterns for other AI tasks"
+    },
+    {
+      "jargon": "Competitive with contemporary approaches",
+      "layman": "Performs as well as current methods"
+    },
+    {
+      "jargon": "Empirically demonstrated",
+      "layman": "Proven through experiments"
+    },
+    {
+      "jargon": "Auxiliary problems",
+      "layman": "Extra tasks using learned patterns"
+    }
+  ]
+}

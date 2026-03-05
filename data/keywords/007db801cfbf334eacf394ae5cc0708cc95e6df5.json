@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Caledonian\u2013Appalachian Orogen",
+      "layman": "Mountain belt formed by collision"
+    },
+    {
+      "jargon": "Iapetus Ocean",
+      "layman": "Ancient ocean between continents"
+    },
+    {
+      "jargon": "Miogeoclines",
+      "layman": "Coastal regions before mountains formed"
+    },
+    {
+      "jargon": "Ophiolitic vestiges",
+      "layman": "Pieces of oceanic crust pushed onto land"
+    },
+    {
+      "jargon": "Microcontinents",
+      "layman": "Small land masses from ancient continents"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Deformed early Paleozoic miogeoclines",
+      "layman": "Warped coastal rocks from early era"
+    },
+    {
+      "jargon": "Structural emplacement",
+      "layman": "Moving rock layers into new positions"
+    },
+    {
+      "jargon": "Closing of an ocean",
+      "layman": "Oceans shrinking by continent collision"
+    },
+    {
+      "jargon": "Opening of the North Atlantic Ocean",
+      "layman": "Atlantic Ocean forming between continents"
+    },
+    {
+      "jargon": "Assembly of terranes",
+      "layman": "Putting together pieces of crust"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Continent assembly",
+      "layman": "Continents coming together"
+    },
+    {
+      "jargon": "Disjunct terrane arrangement",
+      "layman": "Pieces of land scattered apart"
+    },
+    {
+      "jargon": "Present borderland configuration",
+      "layman": "Current layout of land fragments"
+    },
+    {
+      "jargon": "Volcanic arcs",
+      "layman": "Mountain chains from volcanic activity"
+    },
+    {
+      "jargon": "Oceanic plateaus",
+      "layman": "Flat oceanic landforms rising from sea floor"
+    }
+  ]
+}

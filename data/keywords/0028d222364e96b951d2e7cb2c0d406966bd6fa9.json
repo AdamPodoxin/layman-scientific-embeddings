@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Josephus-numbers",
+      "layman": "Josephus numbers"
+    },
+    {
+      "jargon": "n",
+      "layman": "number of people"
+    },
+    {
+      "jargon": "k",
+      "layman": "step size"
+    },
+    {
+      "jargon": "i",
+      "layman": "position"
+    },
+    {
+      "jargon": "bounds",
+      "layman": "range limits"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "non-recursive formulas",
+      "layman": "direct formulas"
+    },
+    {
+      "jargon": "fast algorithm",
+      "layman": "quick calculation method"
+    },
+    {
+      "jargon": "explicit upper and lower bounds",
+      "layman": "clear high and low limits"
+    },
+    {
+      "jargon": "compute",
+      "layman": "calculate"
+    },
+    {
+      "jargon": "based upon bounds",
+      "layman": "using limits as foundation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "explicit formulas",
+      "layman": "clear calculation rules"
+    },
+    {
+      "jargon": "differ by 2k\u00b2",
+      "layman": "difference of 2k squared"
+    },
+    {
+      "jargon": "better bounds for k=4",
+      "layman": "tighter limits for k=4"
+    },
+    {
+      "jargon": "calculate j(n,k,i)",
+      "layman": "find the Josephus number"
+    },
+    {
+      "jargon": "new fast algorithm",
+      "layman": "new fast way to compute"
+    }
+  ]
+}

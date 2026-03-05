@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social enterprise",
+      "layman": "Social enterprise"
+    },
+    {
+      "jargon": "Governance structures",
+      "layman": "Leadership systems"
+    },
+    {
+      "jargon": "Stakeholders",
+      "layman": "People involved"
+    },
+    {
+      "jargon": "Strategic level",
+      "layman": "Top decision level"
+    },
+    {
+      "jargon": "Socioeconomic deprivation",
+      "layman": "Poverty and lack of opportunity"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful examination"
+    },
+    {
+      "jargon": "Doctoral investigation",
+      "layman": "In-depth research study"
+    },
+    {
+      "jargon": "Governance models",
+      "layman": "Leadership patterns"
+    },
+    {
+      "jargon": "Policy strategies",
+      "layman": "Government plans"
+    },
+    {
+      "jargon": "Operational efficiency",
+      "layman": "How well things run"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Paradigm shift",
+      "layman": "Major change in approach"
+    },
+    {
+      "jargon": "Financial sustainability",
+      "layman": "Ability to stay in business"
+    },
+    {
+      "jargon": "Decision making",
+      "layman": "Making key choices"
+    },
+    {
+      "jargon": "Governance model influence",
+      "layman": "How leadership affects performance"
+    },
+    {
+      "jargon": "Lack of academic scrutiny",
+      "layman": "Not enough expert study"
+    }
+  ]
+}

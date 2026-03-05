@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Fixed capital",
+      "layman": "Long-term production tools"
+    },
+    {
+      "jargon": "Social production",
+      "layman": "Group-based production"
+    },
+    {
+      "jargon": "Communal conditions",
+      "layman": "Shared social conditions"
+    },
+    {
+      "jargon": "Particular capital",
+      "layman": "Specific business capital"
+    },
+    {
+      "jargon": "Production process",
+      "layman": "How goods are made"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Digression",
+      "layman": "Side topic shift"
+    },
+    {
+      "jargon": "Incidentally",
+      "layman": "By chance"
+    },
+    {
+      "jargon": "Prospect opening",
+      "layman": "New possibility emerging"
+    },
+    {
+      "jargon": "Categorization",
+      "layman": "Grouping into types"
+    },
+    {
+      "jargon": "Definition",
+      "layman": "Setting clear meaning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Specific relation",
+      "layman": "Clear connection"
+    },
+    {
+      "jargon": "Production of communication means",
+      "layman": "Making tools for sharing info"
+    },
+    {
+      "jargon": "Physical conditions of circulation",
+      "layman": "Tools for moving goods"
+    },
+    {
+      "jargon": "Special case",
+      "layman": "Unique situation"
+    },
+    {
+      "jargon": "General conditions of social production",
+      "layman": "Common rules for making things together"
+    }
+  ]
+}

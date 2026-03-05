@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Self-referential problem solvers",
+      "layman": "Systems that rewrite themselves"
+    },
+    {
+      "jargon": "Proof searchers",
+      "layman": "Tools that find mathematical proofs"
+    },
+    {
+      "jargon": "Optimally efficient problem solvers",
+      "layman": "Perfectly efficient solvers"
+    },
+    {
+      "jargon": "Utility function",
+      "layman": "Measure of usefulness"
+    },
+    {
+      "jargon": "Initial code",
+      "layman": "Starting program"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Self-rewrite",
+      "layman": "Rewriting itself"
+    },
+    {
+      "jargon": "Proof techniques",
+      "layman": "Methods to find proofs"
+    },
+    {
+      "jargon": "Systematic proof search",
+      "layman": "Step-by-step proof testing"
+    },
+    {
+      "jargon": "Computable proof techniques",
+      "layman": "Provable proof methods"
+    },
+    {
+      "jargon": "Hardware integration",
+      "layman": "Using computer hardware"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Globally optimal",
+      "layman": "Best possible solution"
+    },
+    {
+      "jargon": "No local maxima",
+      "layman": "Never gets stuck"
+    },
+    {
+      "jargon": "Optimal order of complexity",
+      "layman": "Best efficiency level"
+    },
+    {
+      "jargon": "Reduces slowdowns",
+      "layman": "Speeds up performance"
+    },
+    {
+      "jargon": "Provable speed-ups",
+      "layman": "Speed gains that can be shown"
+    }
+  ]
+}

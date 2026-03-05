@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Eukaryotes",
+      "layman": "Complex cells"
+    },
+    {
+      "jargon": "Prokaryotes",
+      "layman": "Simple cells"
+    },
+    {
+      "jargon": "Archaea",
+      "layman": "Ancient microorganisms"
+    },
+    {
+      "jargon": "\u03b1-Proteobacteria",
+      "layman": "A type of bacteria"
+    },
+    {
+      "jargon": "Candidatus Lokiarcheaota",
+      "layman": "A newly discovered ancient archaeon"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Phylogenetics",
+      "layman": "Evolutionary family trees"
+    },
+    {
+      "jargon": "Paleogeology",
+      "layman": "Study of ancient Earth features"
+    },
+    {
+      "jargon": "Cell biology",
+      "layman": "Study of cell structure and function"
+    },
+    {
+      "jargon": "Microbial diversity",
+      "layman": "Variety of microorganisms"
+    },
+    {
+      "jargon": "Compartmentalisation",
+      "layman": "Cellular organization into spaces"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Eukaryogenesis",
+      "layman": "Origin of complex cells"
+    },
+    {
+      "jargon": "Time frame of emergence",
+      "layman": "When complex cells first appeared"
+    },
+    {
+      "jargon": "Precise ancestral lineages",
+      "layman": "Exact bacterial and archaeal roots"
+    },
+    {
+      "jargon": "Biological features of contributors",
+      "layman": "Key traits of early cell ancestors"
+    },
+    {
+      "jargon": "Key cellular processes",
+      "layman": "Core cell functions like internal structures"
+    }
+  ]
+}
