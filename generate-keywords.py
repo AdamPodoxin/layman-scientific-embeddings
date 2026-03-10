@@ -13,6 +13,9 @@ KEYWORDS_PATH = Path("data") / "keywords"
 MODEL = "unsloth/Qwen3-4B-Instruct-2507"
 MAX_RESPONSE_TOKENS = 256
 
+DATASET_PATH = "allenai/scirepeval"
+DATASET_NAME = "scidocs_mag_mesh"
+
 SYSTEM_PROMPT = \
 """
 # Identity
@@ -99,7 +102,7 @@ def get_keywords_from_response(response: list[dict[str, list[dict[str, str]]]]):
 def main():
     KEYWORDS_PATH.mkdir(parents=True, exist_ok=True)
     
-    ds = load_dataset("allenai/scirepeval", "scidocs_mag_mesh", split="evaluation")
+    ds = load_dataset(DATASET_PATH, DATASET_NAME, split="evaluation")
     ds = ds.filter(lambda row: row["abstract"] is not None)
     ds = ds.take(NUM_ABSTRACTS_TO_PROCESS)
 

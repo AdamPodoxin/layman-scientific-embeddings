@@ -3,70 +3,141 @@ import json
 import itertools
 from pathlib import Path
 import pandas as pd
+from datasets import load_dataset
 
 
 DATA_PATH = Path("data")
 KEYWORDS_PATH = DATA_PATH / "keywords"
-ALL_PAIRS_PATH = DATA_PATH / "all_pairs.parquet.gzip"
-JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "jargon-layman_pairs.parquet.gzip"
+
+ABSTRACT_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-jargon.parquet.gzip"
+ABSTRACT_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-layman.parquet.gzip"
+
+TITLE_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "title-jargon.parquet.gzip"
+TITLE_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "title-layman.parquet.gzip"
+
+JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon.parquet.gzip"
+LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman.parquet.gzip"
+JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman.parquet.gzip"
+
+DATASET_PATH = "allenai/scirepeval"
+DATASET_NAME = "scidocs_mag_mesh"
 
 # Lower this to only take a subset of pairs
 SAMPLE_PROPORTION = 1.0
 
 
 def create_pairs(list1: list[str], list2: list[str]):
-    pairs = [
+    pairs = list(set(
         (item1, item2)
         for item1 in list1
         for item2 in list2
         if item1 != item2
-    ]
+    ))
 
     return random.sample(pairs, int(SAMPLE_PROPORTION * len(pairs)))
 
 
-def create_pairs_for_file(path: str):
+def get_terms_from_file(path: str):
     with open(path) as file:
         data: dict = json.loads(file.read())
     
-    core_entities = data["core_entities"]
-    methodologies = data["methodologies"]
-    outcomes = data["outcomes"]
+    core_entity_terms = data["core_entities"]
+    methodology_terms = data["methodologies"]
+    outcome_terms = data["outcomes"]
 
-    jargon_layman_pairs = core_entities + methodologies + outcomes
-    jargon_terms = [d["jargon"] for d in jargon_layman_pairs]
-    layman_terms = [d["layman"] for d in jargon_layman_pairs]
-
-    jargon_jargon_pairs = set(create_pairs(jargon_terms, jargon_terms))
-    layman_layman_pairs = set(create_pairs(layman_terms, layman_terms))
-    jargon_layman_pairs = set(create_pairs(jargon_terms, layman_terms))
-
-    all_pairs = set(
-        jargon_jargon_pairs
-        | layman_layman_pairs
-        | jargon_layman_pairs
-    )
+    all_terms = core_entity_terms + methodology_terms + outcome_terms
+    jargon_terms: list[str] = list(set(d["jargon"] for d in all_terms))
+    layman_terms: list[str] = list(set(d["layman"] for d in all_terms))
 
     return {
-        "all_pairs": all_pairs,
-        "jargon_layman_pairs": jargon_layman_pairs,
+        "jargon": jargon_terms, 
+        "layman": layman_terms,
     }
 
 
+def save_pairs(pairs: list[tuple[str, str]], path: Path | str):
+    df = pd.DataFrame(pairs, columns=["anchor", "positive"])
+    df.to_parquet(path, compression="gzip", index=False)
+
+
 def main():
-    pair_results_per_file = [create_pairs_for_file(path) for path in KEYWORDS_PATH.iterdir()]
-    all_pairs_per_file = [pair_result["all_pairs"] for pair_result in pair_results_per_file]
-    jargon_layman_pairs_per_file = [pair_result["jargon_layman_pairs"] for pair_result in pair_results_per_file]
-    
-    all_pairs = list(itertools.chain.from_iterable(all_pairs_per_file))
+    file_paths = [path for path in KEYWORDS_PATH.iterdir()]
+    doc_ids = [path.stem for path in file_paths]
 
-    all_pairs_df = pd.DataFrame(data=set(all_pairs), columns=["anchor", "positive"])
-    all_pairs_df.to_parquet(ALL_PAIRS_PATH, compression="gzip", index=False)
+    terms_per_file = [get_terms_from_file(path) for path in file_paths]
+    jargon_terms_per_file = [terms_dict["jargon"] for terms_dict in terms_per_file]
+    layman_terms_per_file = [terms_dict["layman"] for terms_dict in terms_per_file]
+
+    ds = load_dataset(DATASET_PATH, DATASET_NAME, split="evaluation")
+    id_abstract_dict: dict[str, str | None] = dict(zip(ds["doc_id"], ds["abstract"]))
+    id_title_dict: dict[str, str | None] = dict(zip(ds["doc_id"], ds["title"]))
+
+    # Abstracts should not be None because 
+    # keyword generation only runs for valid abstracts. 
+    abstracts = [id_abstract_dict[id] for id in doc_ids]
+    assert all(abstract is not None for abstract in abstracts)
+
+    titles = [id_title_dict[id] for id in doc_ids]
+
+    # Make sure all lists are same length
+    assert len(abstracts) == len(titles)
+    assert len(abstracts) == len(jargon_terms_per_file)
+    assert len(abstracts) == len(layman_terms_per_file)
+
+    abstract_jargon_pairs_per_file = [
+        create_pairs([abstract], jargon_terms)
+        for abstract, jargon_terms in zip(abstracts, jargon_terms_per_file)
+        if abstract is not None
+    ]
+    abstract_layman_pairs_per_file = [
+        create_pairs([abstract], layman_terms)
+        for abstract, layman_terms in zip(abstracts, layman_terms_per_file)
+        if abstract is not None
+    ]
+
+    title_jargon_pairs_per_file = [
+        create_pairs([title], jargon_terms)
+        for title, jargon_terms in zip(titles, jargon_terms_per_file)
+        if title is not None
+    ]
+    title_layman_pairs_per_file = [
+        create_pairs([title], layman_terms)
+        for title, layman_terms in zip(titles, layman_terms_per_file)
+        if title is not None
+    ]
+
+    jargon_jargon_pairs_per_file = [
+        create_pairs(jargon_terms, jargon_terms)
+        for jargon_terms in jargon_terms_per_file
+    ]
+    layman_layman_pairs_per_file = [
+        create_pairs(layman_terms, layman_terms)
+        for layman_terms in layman_terms_per_file
+    ]
+    jargon_layman_pairs_per_file = [
+        create_pairs(jargon_terms, layman_terms)
+        for jargon_terms, layman_terms in zip(jargon_terms_per_file, layman_terms_per_file)
+    ]
+
+    abstract_jargon_pairs = list(itertools.chain.from_iterable(abstract_jargon_pairs_per_file))
+    abstract_layman_pairs = list(itertools.chain.from_iterable(abstract_layman_pairs_per_file))
+
+    title_jargon_pairs = list(itertools.chain.from_iterable(title_jargon_pairs_per_file))
+    title_layman_pairs = list(itertools.chain.from_iterable(title_layman_pairs_per_file))
     
+    jargon_jargon_pairs = list(itertools.chain.from_iterable(jargon_jargon_pairs_per_file))
+    layman_layman_pairs = list(itertools.chain.from_iterable(layman_layman_pairs_per_file))
     jargon_layman_pairs = list(itertools.chain.from_iterable(jargon_layman_pairs_per_file))
+    
+    save_pairs(abstract_jargon_pairs, ABSTRACT_JARGON_PAIRS_PATH)
+    save_pairs(abstract_layman_pairs, ABSTRACT_LAYMAN_PAIRS_PATH)
+    
+    save_pairs(title_jargon_pairs, TITLE_JARGON_PAIRS_PATH)
+    save_pairs(title_layman_pairs, TITLE_LAYMAN_PAIRS_PATH)
 
-    jargon_layman_pairs_df = pd.DataFrame(data=set(jargon_layman_pairs), columns=["anchor", "positive"])
-    jargon_layman_pairs_df.to_parquet(JARGON_LAYMAN_PAIRS_PATH, compression="gzip", index=False)
+    save_pairs(jargon_jargon_pairs, JARGON_JARGON_PAIRS_PATH)
+    save_pairs(layman_layman_pairs, LAYMAN_LAYMAN_PAIRS_PATH)
+    save_pairs(jargon_layman_pairs, JARGON_LAYMAN_PAIRS_PATH)
 
 
 if __name__ == "__main__":
