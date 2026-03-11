@@ -1,60 +1,56 @@
 {
-  "core_entities": [
-    {
-      "jargon": "Secession movement",
-      "layman": "Art movement rejecting tradition"
-    },
-    {
-      "jargon": "Viennese middle class",
-      "layman": "Middle-class people in Vienna"
-    },
-    {
-      "jargon": "Klimt, Hoffmann, Moser",
-      "layman": "Famous Viennese artists"
-    },
-    {
-      "jargon": "Wiener Werkstatte",
-      "layman": "Artistic workshop in Vienna"
-    },
-    {
-      "jargon": "Adolf Loos",
-      "layman": "Viennese architect"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Reform call",
-      "layman": "Call for change"
-    },
-    {
-      "jargon": "Infiltration",
-      "layman": "Spreading influence"
-    },
-    "redefinition",
-    "new understanding",
-    "manipulation of fashion as art",
-    "using fashion as art"
-  ],
-  "outcomes": [
-    {
-      "jargon": "New understanding of acceptable art",
-      "layman": "New idea of what art should be"
-    },
-    {
-      "jargon": "Influence on early 20th century fashion",
-      "layman": "Impact on fashion"
-    },
-    {
-      "jargon": "Distinction between clothing and art",
-      "layman": "Clothing vs. art difference"
-    },
-    {
-      "jargon": "Visual arts redefinition",
-      "layman": "New rules for art and design"
-    },
-    {
-      "jargon": "Fashion as art",
-      "layman": "Fashion as creative expression"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "Secession movement",
+			"layman": "Art movement rejecting tradition"
+		},
+		{
+			"jargon": "Viennese middle class",
+			"layman": "Middle-class people in Vienna"
+		},
+		{
+			"jargon": "Klimt, Hoffmann, Moser",
+			"layman": "Famous Viennese artists"
+		},
+		{
+			"jargon": "Wiener Werkstatte",
+			"layman": "Artistic workshop in Vienna"
+		},
+		{
+			"jargon": "Adolf Loos",
+			"layman": "Viennese architect"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "Reform call",
+			"layman": "Call for change"
+		},
+		{
+			"jargon": "Infiltration",
+			"layman": "Spreading influence"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "New understanding of acceptable art",
+			"layman": "New idea of what art should be"
+		},
+		{
+			"jargon": "Influence on early 20th century fashion",
+			"layman": "Impact on fashion"
+		},
+		{
+			"jargon": "Distinction between clothing and art",
+			"layman": "Clothing vs. art difference"
+		},
+		{
+			"jargon": "Visual arts redefinition",
+			"layman": "New rules for art and design"
+		},
+		{
+			"jargon": "Fashion as art",
+			"layman": "Fashion as creative expression"
+		}
+	]
 }

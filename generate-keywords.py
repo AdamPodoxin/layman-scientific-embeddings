@@ -7,12 +7,11 @@ from transformers import pipeline
 from transformers.pipelines.pt_utils import KeyDataset
 
 
-# TODO: run generation for all 1000 abstracts
 NUM_ABSTRACTS_TO_PROCESS = 1_000
 KEYWORDS_PATH = Path("data") / "keywords"
 
 MODEL = "unsloth/Qwen3-4B-Instruct-2507"
-MAX_RESPONSE_TOKENS = 256
+MAX_RESPONSE_TOKENS = 512
 
 DATASET_PATH = "allenai/scirepeval"
 DATASET_NAME = "scidocs_mag_mesh"

@@ -1,62 +1,56 @@
 {
-  "core_entities": [
-    {
-      "jargon": "Account planning",
-      "layman": "Account planning"
-    },
-    {
-      "jargon": "Consumer insights",
-      "layman": "What consumers think and feel"
-    },
-    {
-      "jargon": "Competitive intelligence",
-      "layman": "Understanding rivals' strategies"
-    },
-    {
-      "jargon": "Business strategy",
-      "layman": "Company's overall direction"
-    },
-    {
-      "jargon": "Brand strategy",
-      "layman": "How a brand is positioned and presented"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Advertising placement",
-      "layman": "Where ads are shown"
-    },
-    {
-      "jargon": "Creative output",
-      "layman": "Ad content produced"
-    },
-    "brand portfolio",
-    "how brands are grouped",
-    "market opportunities",
-    "chances to grow in the market",
-    "core competencies",
-    "company's strengths"
-  ],
-  "outcomes": [
-    {
-      "jargon": "Market opportunities",
-      "layman": "Growth chances in the market"
-    },
-    {
-      "jargon": "Brand opportunities",
-      "layman": "Chances to grow the brand"
-    },
-    {
-      "jargon": "Core competencies",
-      "layman": "Company's key strengths"
-    },
-    {
-      "jargon": "Optimal brand representation",
-      "layman": "Brand shown correctly"
-    },
-    {
-      "jargon": "Brand positioning",
-      "layman": "How brand is seen in market"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "Account planning",
+			"layman": "Account planning"
+		},
+		{
+			"jargon": "Consumer insights",
+			"layman": "What consumers think and feel"
+		},
+		{
+			"jargon": "Competitive intelligence",
+			"layman": "Understanding rivals' strategies"
+		},
+		{
+			"jargon": "Business strategy",
+			"layman": "Company's overall direction"
+		},
+		{
+			"jargon": "Brand strategy",
+			"layman": "How a brand is positioned and presented"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "Advertising placement",
+			"layman": "Where ads are shown"
+		},
+		{
+			"jargon": "Creative output",
+			"layman": "Ad content produced"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "Market opportunities",
+			"layman": "Growth chances in the market"
+		},
+		{
+			"jargon": "Brand opportunities",
+			"layman": "Chances to grow the brand"
+		},
+		{
+			"jargon": "Core competencies",
+			"layman": "Company's key strengths"
+		},
+		{
+			"jargon": "Optimal brand representation",
+			"layman": "Brand shown correctly"
+		},
+		{
+			"jargon": "Brand positioning",
+			"layman": "How brand is seen in market"
+		}
+	]
 }

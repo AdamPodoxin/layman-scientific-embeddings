@@ -1,65 +1,64 @@
 {
-  "core_entities": [
-    {
-      "jargon": "acute bronchiolitis",
-      "layman": "common lung infection in babies"
-    },
-    {
-      "jargon": "paediatricians",
-      "layman": "doctors who treat children"
-    },
-    {
-      "jargon": "bronchodilators",
-      "layman": "medicines to open airways"
-    },
-    {
-      "jargon": "corticosteroids",
-      "layman": "anti-inflammatory medicines"
-    },
-    {
-      "jargon": "inpatient management",
-      "layman": "hospital treatment"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "postal questionnaires",
-      "layman": "mail surveys to doctors"
-    },
-    {
-      "jargon": "expert opinion",
-      "layman": "what experts believe"
-    },
-    "corticosteroids",
-    {
-      "jargon": "natural course of disease",
-      "layman": "how illness progresses without treatment"
-    },
-    {
-      "jargon": "national guidelines",
-      "layman": "official treatment recommendations"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "99% use of bronchodilators",
-      "layman": "almost all doctors use airway openers"
-    },
-    {
-      "jargon": "41% use steroids in outpatient",
-      "layman": "few doctors use steroids at home visits"
-    },
-    {
-      "jargon": "57% use steroids in inpatient",
-      "layman": "most doctors use steroids in hospital"
-    },
-    {
-      "jargon": "variation in treatment",
-      "layman": "different doctors use different treatments"
-    },
-    {
-      "jargon": "lack of evidence of benefit",
-      "layman": "no proof medicines help"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "acute bronchiolitis",
+			"layman": "common lung infection in babies"
+		},
+		{
+			"jargon": "paediatricians",
+			"layman": "doctors who treat children"
+		},
+		{
+			"jargon": "bronchodilators",
+			"layman": "medicines to open airways"
+		},
+		{
+			"jargon": "corticosteroids",
+			"layman": "anti-inflammatory medicines"
+		},
+		{
+			"jargon": "inpatient management",
+			"layman": "hospital treatment"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "postal questionnaires",
+			"layman": "mail surveys to doctors"
+		},
+		{
+			"jargon": "expert opinion",
+			"layman": "what experts believe"
+		},
+		{
+			"jargon": "natural course of disease",
+			"layman": "how illness progresses without treatment"
+		},
+		{
+			"jargon": "national guidelines",
+			"layman": "official treatment recommendations"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "99% use of bronchodilators",
+			"layman": "almost all doctors use airway openers"
+		},
+		{
+			"jargon": "41% use steroids in outpatient",
+			"layman": "few doctors use steroids at home visits"
+		},
+		{
+			"jargon": "57% use steroids in inpatient",
+			"layman": "most doctors use steroids in hospital"
+		},
+		{
+			"jargon": "variation in treatment",
+			"layman": "different doctors use different treatments"
+		},
+		{
+			"jargon": "lack of evidence of benefit",
+			"layman": "no proof medicines help"
+		}
+	]
 }

@@ -1,59 +1,56 @@
 {
-  "core_entities": [
-    {
-      "jargon": "Greek Tragedy",
-      "layman": "Ancient Greek drama"
-    },
-    {
-      "jargon": "American Theater",
-      "layman": "U.S. stage performances"
-    },
-    {
-      "jargon": "Modern Dance",
-      "layman": "Contemporary dance style"
-    },
-    {
-      "jargon": "Gesamtkunstwerke",
-      "layman": "Total art experience"
-    },
-    {
-      "jargon": "Oedipus",
-      "layman": "Tragic hero with family secrets"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Choreography",
-      "layman": "Dance composition"
-    },
-    {
-      "jargon": "Musical Theater",
-      "layman": "Dance and song in performance"
-    },
-    "visual choreography",
-    "performance groups",
-    "reimagining"
-  ],
-  "outcomes": [
-    {
-      "jargon": "Democratizing Greek Tragedy",
-      "layman": "Making tragedies accessible to all"
-    },
-    {
-      "jargon": "Reenvisioning the Hero",
-      "layman": "Changing how heroes are portrayed"
-    },
-    {
-      "jargon": "Deconstructing Fatality",
-      "layman": "Challenging the idea of fate"
-    },
-    {
-      "jargon": "Medea as Ethnic Other",
-      "layman": "Medea seen as a minority figure"
-    },
-    {
-      "jargon": "Plagues",
-      "layman": "Disease as a plot device"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "Greek Tragedy",
+			"layman": "Ancient Greek drama"
+		},
+		{
+			"jargon": "American Theater",
+			"layman": "U.S. stage performances"
+		},
+		{
+			"jargon": "Modern Dance",
+			"layman": "Contemporary dance style"
+		},
+		{
+			"jargon": "Gesamtkunstwerke",
+			"layman": "Total art experience"
+		},
+		{
+			"jargon": "Oedipus",
+			"layman": "Tragic hero with family secrets"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "Choreography",
+			"layman": "Dance composition"
+		},
+		{
+			"jargon": "Musical Theater",
+			"layman": "Dance and song in performance"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "Democratizing Greek Tragedy",
+			"layman": "Making tragedies accessible to all"
+		},
+		{
+			"jargon": "Reenvisioning the Hero",
+			"layman": "Changing how heroes are portrayed"
+		},
+		{
+			"jargon": "Deconstructing Fatality",
+			"layman": "Challenging the idea of fate"
+		},
+		{
+			"jargon": "Medea as Ethnic Other",
+			"layman": "Medea seen as a minority figure"
+		},
+		{
+			"jargon": "Plagues",
+			"layman": "Disease as a plot device"
+		}
+	]
 }

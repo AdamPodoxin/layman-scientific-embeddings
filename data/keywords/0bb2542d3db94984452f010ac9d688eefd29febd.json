@@ -1,59 +1,56 @@
 {
-  "core_entities": [
-    {
-      "jargon": "QCD invariant coupling",
-      "layman": "Strong force strength"
-    },
-    {
-      "jargon": "Infrared region",
-      "layman": "Low-energy behavior"
-    },
-    {
-      "jargon": "Functional integral",
-      "layman": "Mathematical energy sum"
-    },
-    {
-      "jargon": "Dyson--Schwinger equations",
-      "layman": "Equations for force behavior"
-    },
-    {
-      "jargon": "Propagators",
-      "layman": "Particle movement paths"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Lattice simulations",
-      "layman": "Computer grid modeling"
-    },
-    {
-      "jargon": "Solution of approximate Dyson--Schwinger equations",
-      "layman": "Solving force equations"
-    },
-    "mass-dependent coupling constant transformations",
-    "analysis of IR behavior",
-    "comparison between groups"
-  ],
-  "outcomes": [
-    {
-      "jargon": "Puzzling variety of IR behavior",
-      "layman": "Strange low-energy patterns"
-    },
-    {
-      "jargon": "Question of correspondence between results",
-      "layman": "Conflicting findings"
-    },
-    {
-      "jargon": "IR behavior of effective QCD coupling",
-      "layman": "How force behaves at low energy"
-    },
-    {
-      "jargon": "Not a well-defined question",
-      "layman": "Unclear or ambiguous"
-    },
-    {
-      "jargon": "Needs to be more specified",
-      "layman": "Requires clearer definition"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "QCD invariant coupling",
+			"layman": "Strong force strength"
+		},
+		{
+			"jargon": "Infrared region",
+			"layman": "Low-energy behavior"
+		},
+		{
+			"jargon": "Functional integral",
+			"layman": "Mathematical energy sum"
+		},
+		{
+			"jargon": "Dyson--Schwinger equations",
+			"layman": "Equations for force behavior"
+		},
+		{
+			"jargon": "Propagators",
+			"layman": "Particle movement paths"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "Lattice simulations",
+			"layman": "Computer grid modeling"
+		},
+		{
+			"jargon": "Solution of approximate Dyson--Schwinger equations",
+			"layman": "Solving force equations"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "Puzzling variety of IR behavior",
+			"layman": "Strange low-energy patterns"
+		},
+		{
+			"jargon": "Question of correspondence between results",
+			"layman": "Conflicting findings"
+		},
+		{
+			"jargon": "IR behavior of effective QCD coupling",
+			"layman": "How force behaves at low energy"
+		},
+		{
+			"jargon": "Not a well-defined question",
+			"layman": "Unclear or ambiguous"
+		},
+		{
+			"jargon": "Needs to be more specified",
+			"layman": "Requires clearer definition"
+		}
+	]
 }

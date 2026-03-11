@@ -1,59 +1,56 @@
 {
-  "core_entities": [
-    {
-      "jargon": "Stroke patients",
-      "layman": "People who have had a stroke"
-    },
-    {
-      "jargon": "Psychiatric diagnosis",
-      "layman": "Mental health condition"
-    },
-    "hospital admission",
-    "functional milestones",
-    "discharge preparation"
-  ],
-  "methodologies": [
-    {
-      "jargon": "Retrospective chart review",
-      "layman": "Looking back at medical records"
-    },
-    {
-      "jargon": "Patient experience",
-      "layman": "How patients feel during care"
-    },
-    {
-      "jargon": "Quality of life",
-      "layman": "Overall well-being"
-    },
-    {
-      "jargon": "Readmissions",
-      "layman": "Hospital returns after discharge"
-    },
-    {
-      "jargon": "Resource utilization",
-      "layman": "Use of medical services"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Psychological support",
-      "layman": "Emotional care during hospital stay"
-    },
-    {
-      "jargon": "Compliance",
-      "layman": "Following treatment plans"
-    },
-    {
-      "jargon": "Functional milestones",
-      "layman": "Reaching recovery goals"
-    },
-    {
-      "jargon": "Discharge readiness",
-      "layman": "Being ready to leave hospital"
-    },
-    {
-      "jargon": "Pre-existing psychiatric illness",
-      "layman": "Mental health condition before stroke"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "Stroke patients",
+			"layman": "People who have had a stroke"
+		},
+		{
+			"jargon": "Psychiatric diagnosis",
+			"layman": "Mental health condition"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "Retrospective chart review",
+			"layman": "Looking back at medical records"
+		},
+		{
+			"jargon": "Patient experience",
+			"layman": "How patients feel during care"
+		},
+		{
+			"jargon": "Quality of life",
+			"layman": "Overall well-being"
+		},
+		{
+			"jargon": "Readmissions",
+			"layman": "Hospital returns after discharge"
+		},
+		{
+			"jargon": "Resource utilization",
+			"layman": "Use of medical services"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "Psychological support",
+			"layman": "Emotional care during hospital stay"
+		},
+		{
+			"jargon": "Compliance",
+			"layman": "Following treatment plans"
+		},
+		{
+			"jargon": "Functional milestones",
+			"layman": "Reaching recovery goals"
+		},
+		{
+			"jargon": "Discharge readiness",
+			"layman": "Being ready to leave hospital"
+		},
+		{
+			"jargon": "Pre-existing psychiatric illness",
+			"layman": "Mental health condition before stroke"
+		}
+	]
 }

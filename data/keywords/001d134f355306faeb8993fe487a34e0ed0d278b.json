@@ -1,59 +1,56 @@
 {
-  "core_entities": [
-    {
-      "jargon": "Afrikaners",
-      "layman": "Afrikaners"
-    },
-    {
-      "jargon": "Cricket",
-      "layman": "Cricket"
-    },
-    {
-      "jargon": "Political power",
-      "layman": "Government control"
-    },
-    {
-      "jargon": "Socio-economic prosperity",
-      "layman": "Better money and living conditions"
-    },
-    {
-      "jargon": "Post-apartheid era",
-      "layman": "After apartheid ended"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Trajectory",
-      "layman": "Path over time"
-    },
-    {
-      "jargon": "Cultural shifts",
-      "layman": "Changes in culture"
-    },
-    "diffusion",
-    "representation",
-    "assessment"
-  ],
-  "outcomes": [
-    {
-      "jargon": "Mass appeal",
-      "layman": "Popular with many people"
-    },
-    {
-      "jargon": "Greater involvement",
-      "layman": "More people playing"
-    },
-    {
-      "jargon": "Complex identities",
-      "layman": "Mixed or complicated identities"
-    },
-    {
-      "jargon": "Socio-economic prosperity",
-      "layman": "Better money and living conditions"
-    },
-    {
-      "jargon": "Political ascent",
-      "layman": "Rising in power"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "Afrikaners",
+			"layman": "Afrikaners"
+		},
+		{
+			"jargon": "Cricket",
+			"layman": "Cricket"
+		},
+		{
+			"jargon": "Political power",
+			"layman": "Government control"
+		},
+		{
+			"jargon": "Socio-economic prosperity",
+			"layman": "Better money and living conditions"
+		},
+		{
+			"jargon": "Post-apartheid era",
+			"layman": "After apartheid ended"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "Trajectory",
+			"layman": "Path over time"
+		},
+		{
+			"jargon": "Cultural shifts",
+			"layman": "Changes in culture"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "Mass appeal",
+			"layman": "Popular with many people"
+		},
+		{
+			"jargon": "Greater involvement",
+			"layman": "More people playing"
+		},
+		{
+			"jargon": "Complex identities",
+			"layman": "Mixed or complicated identities"
+		},
+		{
+			"jargon": "Socio-economic prosperity",
+			"layman": "Better money and living conditions"
+		},
+		{
+			"jargon": "Political ascent",
+			"layman": "Rising in power"
+		}
+	]
 }

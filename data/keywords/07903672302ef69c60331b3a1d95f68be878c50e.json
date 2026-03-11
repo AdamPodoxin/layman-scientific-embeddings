@@ -1,65 +1,64 @@
 {
-  "core_entities": [
-    {
-      "jargon": "Large shareholders",
-      "layman": "Big owners of companies"
-    },
-    {
-      "jargon": "Bank management",
-      "layman": "Bank leaders"
-    },
-    {
-      "jargon": "Entrenched management",
-      "layman": "Stuck-in-place leadership"
-    },
-    {
-      "jargon": "Banking crisis",
-      "layman": "Financial system collapse"
-    },
-    {
-      "jargon": "Bad loans",
-      "layman": "Unpaid or risky loans"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Empirical results",
-      "layman": "Data-based findings"
-    },
-    {
-      "jargon": "Collusion",
-      "layman": "Secret agreement between parties"
-    },
-    "collusion",
-    {
-      "jargon": "Corporate governance",
-      "layman": "Rules for company oversight"
-    },
-    {
-      "jargon": "Lending extension",
-      "layman": "Increasing loan amounts"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Extended lending",
-      "layman": "More loans given out"
-    },
-    {
-      "jargon": "No restructuring",
-      "layman": "No major changes after crisis"
-    },
-    {
-      "jargon": "Inefficient management",
-      "layman": "Poor leadership decisions"
-    },
-    {
-      "jargon": "Accumulated bad loans",
-      "layman": "Growing number of risky loans"
-    },
-    {
-      "jargon": "Stability of financial system",
-      "layman": "Economic stability"
-    }
-  ]
+	"core_entities": [
+		{
+			"jargon": "Large shareholders",
+			"layman": "Big owners of companies"
+		},
+		{
+			"jargon": "Bank management",
+			"layman": "Bank leaders"
+		},
+		{
+			"jargon": "Entrenched management",
+			"layman": "Stuck-in-place leadership"
+		},
+		{
+			"jargon": "Banking crisis",
+			"layman": "Financial system collapse"
+		},
+		{
+			"jargon": "Bad loans",
+			"layman": "Unpaid or risky loans"
+		}
+	],
+	"methodologies": [
+		{
+			"jargon": "Empirical results",
+			"layman": "Data-based findings"
+		},
+		{
+			"jargon": "Collusion",
+			"layman": "Secret agreement between parties"
+		},
+		{
+			"jargon": "Corporate governance",
+			"layman": "Rules for company oversight"
+		},
+		{
+			"jargon": "Lending extension",
+			"layman": "Increasing loan amounts"
+		}
+	],
+	"outcomes": [
+		{
+			"jargon": "Extended lending",
+			"layman": "More loans given out"
+		},
+		{
+			"jargon": "No restructuring",
+			"layman": "No major changes after crisis"
+		},
+		{
+			"jargon": "Inefficient management",
+			"layman": "Poor leadership decisions"
+		},
+		{
+			"jargon": "Accumulated bad loans",
+			"layman": "Growing number of risky loans"
+		},
+		{
+			"jargon": "Stability of financial system",
+			"layman": "Economic stability"
+		}
+	]
 }
