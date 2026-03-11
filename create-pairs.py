@@ -3,21 +3,21 @@ import json
 import itertools
 from pathlib import Path
 import pandas as pd
-from datasets import load_dataset
+from datasets import Dataset, DatasetDict, load_dataset
 
 
 DATA_PATH = Path("data")
 KEYWORDS_PATH = DATA_PATH / "keywords"
 
-ABSTRACT_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-jargon.parquet.gzip"
-ABSTRACT_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-layman.parquet.gzip"
+ABSTRACT_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-jargon"
+ABSTRACT_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-layman"
 
-TITLE_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "title-jargon.parquet.gzip"
-TITLE_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "title-layman.parquet.gzip"
+TITLE_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "title-jargon"
+TITLE_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "title-layman"
 
-JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon.parquet.gzip"
-LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman.parquet.gzip"
-JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman.parquet.gzip"
+JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon"
+LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman"
+JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman"
 
 DATASET_PATH = "allenai/scirepeval"
 DATASET_NAME = "scidocs_mag_mesh"
@@ -56,8 +56,24 @@ def get_terms_from_file(path: str):
 
 
 def save_pairs(pairs: list[tuple[str, str]], path: Path | str):
-    df = pd.DataFrame(pairs, columns=["anchor", "positive"])
-    df.to_parquet(path, compression="gzip", index=False)
+    # df = pd.DataFrame(pairs, columns=["anchor", "positive"])
+    # df.to_parquet(path, compression="gzip", index=False)
+
+    pairs_dict = {
+        "anchor": [pair[0] for pair in pairs],
+        "positive": [pair[1] for pair in pairs],
+    }
+
+    ds = Dataset.from_dict(pairs_dict)
+    ds_train_test = ds.train_test_split(test_size=0.10)
+    ds_test_val = ds_train_test["test"].train_test_split(test_size=0.5)
+    ds_train_test_val = DatasetDict({
+        "train": ds_train_test["train"],
+        "test": ds_test_val["test"],
+        "val": ds_test_val["train"],
+    })
+
+    ds_train_test_val.save_to_disk(path)
 
 
 def main():
