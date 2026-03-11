@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Science",
+      "layman": "System of knowledge through observation and testing"
+    },
+    {
+      "jargon": "Religion",
+      "layman": "Set of beliefs and practices about the divine"
+    },
+    {
+      "jargon": "Copenhagen interpretation",
+      "layman": "Way of understanding quantum physics"
+    },
+    {
+      "jargon": "Post-Newtonian physics",
+      "layman": "Physics after Newton's laws"
+    },
+    {
+      "jargon": "Indeterminacy",
+      "layman": "Uncertainty in outcomes at quantum level"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Warfare imagery",
+      "layman": "Comparing science and religion as enemies"
+    },
+    {
+      "jargon": "Compatibility systems",
+      "layman": "Frameworks showing science and religion fit together"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Thinking about ideas and beliefs"
+    },
+    {
+      "jargon": "Scientific discoveries",
+      "layman": "New findings from science"
+    },
+    {
+      "jargon": "Community espousal",
+      "layman": "Group acceptance of scientific ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Detente",
+      "layman": "Peaceful understanding between science and religion"
+    },
+    {
+      "jargon": "Ambiguity in physics",
+      "layman": "Unclear or open-ended results in science"
+    },
+    {
+      "jargon": "Victory assured to science",
+      "layman": "Science seen as winning the debate"
+    },
+    {
+      "jargon": "Mutual complement",
+      "layman": "Each fills a gap in the other"
+    },
+    {
+      "jargon": "Earlier analyses were wrong",
+      "layman": "Old views about science and religion were incorrect"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Information and communication technologies",
+      "layman": "New technologies like computers and internet"
+    },
+    {
+      "jargon": "Gender wage gap",
+      "layman": "Pay difference between men and women"
+    },
+    {
+      "jargon": "ICT-users",
+      "layman": "People who use new technologies"
+    },
+    {
+      "jargon": "Non-users",
+      "layman": "People who don't use new technologies"
+    },
+    {
+      "jargon": "Wage distribution",
+      "layman": "How salaries are spread across workers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Quantile regressions",
+      "layman": "Analysis of pay differences at different salary levels"
+    },
+    {
+      "jargon": "Difference-in-difference strategy",
+      "layman": "Comparing changes over time between groups"
+    },
+    {
+      "jargon": "Empirical analysis",
+      "layman": "Data-based investigation"
+    },
+    {
+      "jargon": "French surveys",
+      "layman": "Large-scale questionnaires in France"
+    },
+    {
+      "jargon": "Large sample of employees",
+      "layman": "Many workers surveyed"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Gender gap estimated for ICT-users",
+      "layman": "Pay gap among tech users is similar to non-users"
+    },
+    {
+      "jargon": "Divergence in rewards to identical characteristics",
+      "layman": "Same traits lead to different pay for men and women"
+    },
+    {
+      "jargon": "No real difference in gender gap",
+      "layman": "Men and women earn similarly among tech users"
+    },
+    {
+      "jargon": "Wage differentials",
+      "layman": "Pay differences between genders"
+    },
+    {
+      "jargon": "Identical characteristics",
+      "layman": "Same skills or experience"
+    }
+  ]
+}

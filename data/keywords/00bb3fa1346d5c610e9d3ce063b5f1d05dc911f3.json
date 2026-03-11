@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Skill",
+      "layman": "Ability to do a job well"
+    },
+    {
+      "jargon": "Gender bias",
+      "layman": "Prejudice based on gender"
+    },
+    {
+      "jargon": "Job evaluation systems",
+      "layman": "Systems that rate jobs"
+    },
+    {
+      "jargon": "Comparable worth",
+      "layman": "Equal pay for similar work"
+    },
+    {
+      "jargon": "Labor market",
+      "layman": "Where jobs and workers meet"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Identification of sources",
+      "layman": "Finding where bias comes from"
+    },
+    {
+      "jargon": "Political action",
+      "layman": "Decisions made through power and influence"
+    },
+    {
+      "jargon": "Social construction",
+      "layman": "Creating ideas through culture and power"
+    },
+    {
+      "jargon": "Pay equity initiatives",
+      "layman": "Efforts to ensure fair pay"
+    },
+    {
+      "jargon": "Conflictual process",
+      "layman": "Process with opposing forces"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Simple definitions of skill",
+      "layman": "Easy, basic views of ability"
+    },
+    {
+      "jargon": "Power relations",
+      "layman": "How power affects outcomes"
+    },
+    {
+      "jargon": "Gendered character",
+      "layman": "Gender-based patterns in jobs"
+    },
+    {
+      "jargon": "New definitions of skill",
+      "layman": "Updated views of what counts as skill"
+    },
+    {
+      "jargon": "Blocked definitions",
+      "layman": "New ideas that are rejected"
+    }
+  ]
+}

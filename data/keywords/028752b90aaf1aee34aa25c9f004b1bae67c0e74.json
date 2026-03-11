@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "eschatology",
+      "layman": "End times beliefs"
+    },
+    {
+      "jargon": "political theology",
+      "layman": "Theology in politics"
+    },
+    {
+      "jargon": "Gnosticism",
+      "layman": "Secret religious knowledge"
+    },
+    {
+      "jargon": "collective redemptive efforts",
+      "layman": "Group efforts for salvation"
+    },
+    {
+      "jargon": "theological motives",
+      "layman": "Religious reasons driving actions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "analytical explanation",
+      "layman": "Clear breakdown of ideas"
+    },
+    {
+      "jargon": "conceptual introduction",
+      "layman": "Introducing a key idea"
+    },
+    {
+      "jargon": "historical development",
+      "layman": "How ideas evolved over time"
+    },
+    {
+      "jargon": "ideological devotion",
+      "layman": "Strong belief in a cause"
+    },
+    {
+      "jargon": "theological influence",
+      "layman": "Religious ideas shaping views"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "violent movements",
+      "layman": "Aggressive political actions"
+    },
+    {
+      "jargon": "dogmatic devotions",
+      "layman": "Strict religious beliefs"
+    },
+    {
+      "jargon": "present-day position",
+      "layman": "Current religious view"
+    },
+    {
+      "jargon": "world-negating view",
+      "layman": "Belief that the world is flawed or evil"
+    },
+    {
+      "jargon": "central theme",
+      "layman": "Main focus of belief"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Manganese dioxide",
+      "layman": "Manganese dioxide"
+    },
+    {
+      "jargon": "Metal oxides",
+      "layman": "Metal-based compounds with oxygen"
+    },
+    {
+      "jargon": "Aluminum oxide",
+      "layman": "Aluminum oxide"
+    },
+    {
+      "jargon": "Silicon dioxide",
+      "layman": "Silicon dioxide"
+    },
+    {
+      "jargon": "Titanium dioxide",
+      "layman": "Titanium dioxide"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "SEM images",
+      "layman": "Microscope images of surfaces"
+    },
+    {
+      "jargon": "Pseudofirst-order kinetics",
+      "layman": "Reaction speed measured over time"
+    },
+    {
+      "jargon": "Surface complexation",
+      "layman": "Molecules sticking to surfaces"
+    },
+    {
+      "jargon": "Precipitation",
+      "layman": "Substances forming solid clumps"
+    },
+    {
+      "jargon": "Adsorption",
+      "layman": "Substances sticking to surfaces"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Oxidative reactivity",
+      "layman": "Ability to cause oxidation"
+    },
+    {
+      "jargon": "Inhibitory effect",
+      "layman": "Reduced activity"
+    },
+    {
+      "jargon": "Rate-limiting step",
+      "layman": "Slowest step in a process"
+    },
+    {
+      "jargon": "Electron transfer",
+      "layman": "Movement of electrons"
+    },
+    {
+      "jargon": "Heteroaggregation",
+      "layman": "Different particles sticking together"
+    }
+  ]
+}

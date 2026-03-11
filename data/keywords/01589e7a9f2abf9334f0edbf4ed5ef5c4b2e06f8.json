@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Public sphere",
+      "layman": "Public space for discussion"
+    },
+    {
+      "jargon": "Gender",
+      "layman": "Gender roles"
+    },
+    {
+      "jargon": "Satire",
+      "layman": "Mocking writing"
+    },
+    {
+      "jargon": "Periodical",
+      "layman": "Periodical publication"
+    },
+    {
+      "jargon": "Female specularity",
+      "layman": "Women's reflection in society"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spectatorial public sphere",
+      "layman": "Public watching and reacting"
+    },
+    {
+      "jargon": "Aesthetic failure",
+      "layman": "Poor artistic effect"
+    },
+    {
+      "jargon": "Discursivity",
+      "layman": "Freedom to speak and write"
+    },
+    {
+      "jargon": "Ridicule",
+      "layman": "Mocking or making fun of"
+    },
+    {
+      "jargon": "Whig publicness",
+      "layman": "Political public engagement"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Neutering Addison and Steele",
+      "layman": "Diminishing their influence"
+    },
+    {
+      "jargon": "Anti-Pamelism",
+      "layman": "Opposition to idealized female portrayals"
+    },
+    {
+      "jargon": "Female discursivity",
+      "layman": "Women's ability to express ideas"
+    },
+    {
+      "jargon": "Voyeurism",
+      "layman": "Watching secretly"
+    },
+    {
+      "jargon": "Cultural authority",
+      "layman": "Power to shape culture"
+    }
+  ]
+}

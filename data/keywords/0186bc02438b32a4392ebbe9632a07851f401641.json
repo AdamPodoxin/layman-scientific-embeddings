@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Alfred Chandler",
+      "layman": "Business history scholar"
+    },
+    {
+      "jargon": "Big business",
+      "layman": "Large corporations"
+    },
+    {
+      "jargon": "Strategy and Structure",
+      "layman": "How companies plan and grow"
+    },
+    {
+      "jargon": "The Visible Hand",
+      "layman": "Big companies guiding markets"
+    },
+    {
+      "jargon": "Scale and Scope",
+      "layman": "Size and range of business operations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Intellectual biography",
+      "layman": "Life story of a thinker"
+    },
+    {
+      "jargon": "Essay collection",
+      "layman": "Group of written articles"
+    },
+    {
+      "jargon": "Table of contents",
+      "layman": "Outline of a book's sections"
+    },
+    {
+      "jargon": "Introduction",
+      "layman": "Starting explanation of a book"
+    },
+    {
+      "jargon": "Historical theory",
+      "layman": "Explained pattern over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Evolution of theory",
+      "layman": "Theory changes over time"
+    },
+    {
+      "jargon": "Enormous contribution",
+      "layman": "Major impact on the field"
+    },
+    {
+      "jargon": "Scholarship",
+      "layman": "Academic research"
+    },
+    {
+      "jargon": "Collection of essays",
+      "layman": "Group of written ideas"
+    },
+    {
+      "jargon": "Major books",
+      "layman": "Key works in the field"
+    }
+  ]
+}

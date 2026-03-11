@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Event type",
+      "layman": "Event type"
+    },
+    {
+      "jargon": "Overlay routing network",
+      "layman": "Virtual network for routing"
+    },
+    {
+      "jargon": "Rendezvous nodes",
+      "layman": "Meeting points in the network"
+    },
+    {
+      "jargon": "Fault-tolerance mechanisms",
+      "layman": "System recovery from failures"
+    },
+    {
+      "jargon": "Publish/subscribe model",
+      "layman": "Message delivery system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Type- and attribute-based publish/subscribe",
+      "layman": "Messages grouped by type and details"
+    },
+    {
+      "jargon": "Scalable routing algorithm",
+      "layman": "Smart message routing method"
+    },
+    {
+      "jargon": "Global broadcasts",
+      "layman": "Sending messages to everyone"
+    },
+    {
+      "jargon": "Super-type subscriptions",
+      "layman": "Subscribing to parent types"
+    },
+    {
+      "jargon": "Fault-tolerance mechanisms",
+      "layman": "System recovery from failures"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Scalable system",
+      "layman": "Handles large numbers of users"
+    },
+    {
+      "jargon": "Robust system",
+      "layman": "Stays working during failures"
+    },
+    {
+      "jargon": "Avoids global broadcasts",
+      "layman": "Sends messages only where needed"
+    },
+    {
+      "jargon": "Supports type hierarchies",
+      "layman": "Organizes events in a structure"
+    },
+    {
+      "jargon": "Copes with different failures",
+      "layman": "Handles various system crashes"
+    }
+  ]
+}

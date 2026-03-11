@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Vehicular mechatronics",
+      "layman": "Cars with smart mechanical systems"
+    },
+    {
+      "jargon": "Braking systems",
+      "layman": "Car braking mechanisms"
+    },
+    {
+      "jargon": "Steering systems",
+      "layman": "Car steering mechanisms"
+    },
+    {
+      "jargon": "System architecture",
+      "layman": "Car system layout"
+    },
+    {
+      "jargon": "Legislation and standards",
+      "layman": "Safety rules and guidelines"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "State of the art report",
+      "layman": "Latest industry practice summary"
+    },
+    {
+      "jargon": "Field trips to manufacturers",
+      "layman": "Visiting car factories"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Reviewing scientific papers"
+    },
+    {
+      "jargon": "Thesis analysis",
+      "layman": "Examining academic research papers"
+    },
+    {
+      "jargon": "White papers",
+      "layman": "Official industry reports"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Current research conclusions",
+      "layman": "What researchers currently believe"
+    },
+    {
+      "jargon": "Safety-critical systems",
+      "layman": "Systems where failure is dangerous"
+    },
+    {
+      "jargon": "Design methodologies",
+      "layman": "How systems are built"
+    },
+    {
+      "jargon": "Product examples",
+      "layman": "Real car system cases"
+    },
+    {
+      "jargon": "General system architecture",
+      "layman": "Overall car system design"
+    }
+  ]
+}

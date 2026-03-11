@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Eubacteria",
+      "layman": "Bacteria"
+    },
+    {
+      "jargon": "Eukaryotes",
+      "layman": "Organisms with complex cells"
+    },
+    {
+      "jargon": "Cenancestor",
+      "layman": "Common ancestor of all life forms"
+    },
+    {
+      "jargon": "Archaeabacteria",
+      "layman": "Ancient bacteria-like organisms"
+    },
+    {
+      "jargon": "Protein evolution",
+      "layman": "Change in proteins over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Molecular clock calculations",
+      "layman": "Estimating age using genetic changes"
+    },
+    {
+      "jargon": "Evolutionary distance",
+      "layman": "How different two species are genetically"
+    },
+    {
+      "jargon": "Divergence time",
+      "layman": "When two groups split from a common ancestor"
+    },
+    {
+      "jargon": "Equations for estimating divergence",
+      "layman": "Math formulas to predict split times"
+    },
+    {
+      "jargon": "Genetic mutation rate",
+      "layman": "Rate at which genes change over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Constraints on protein evolution",
+      "layman": "Limits on how proteins change over time"
+    },
+    {
+      "jargon": "Estimated divergence times",
+      "layman": "Predicted time when groups split"
+    },
+    {
+      "jargon": "Support for existing date ranges",
+      "layman": "Agreement with previous estimates"
+    },
+    {
+      "jargon": "Molecular clock effects",
+      "layman": "How clock methods affect results"
+    },
+    {
+      "jargon": "Age of eubacteria/eukaryote split",
+      "layman": "When bacteria and complex life split"
+    }
+  ]
+}

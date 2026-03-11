@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Big data",
+      "layman": "Very large data sets"
+    },
+    {
+      "jargon": "Cyber security",
+      "layman": "Protecting digital systems"
+    },
+    {
+      "jargon": "Data mining",
+      "layman": "Finding patterns in data"
+    },
+    {
+      "jargon": "Visual analytics",
+      "layman": "Using visuals to analyze data"
+    },
+    {
+      "jargon": "Cyber attack",
+      "layman": "Hacking attempt"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Predictive analytics",
+      "layman": "Forecasting future events"
+    },
+    {
+      "jargon": "Data mining algorithms",
+      "layman": "Automated pattern-finding tools"
+    },
+    {
+      "jargon": "Visualization",
+      "layman": "Turning data into pictures"
+    },
+    {
+      "jargon": "Situational awareness",
+      "layman": "Understanding current security state"
+    },
+    {
+      "jargon": "Forensic investigations",
+      "layman": "Digging into past security events"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Needle in the haystack",
+      "layman": "Rare problem in large data"
+    },
+    {
+      "jargon": "Scalable data platforms",
+      "layman": "Systems that handle large data well"
+    },
+    {
+      "jargon": "Human-computer interface",
+      "layman": "How people interact with machines"
+    },
+    {
+      "jargon": "Reduced data volume",
+      "layman": "Less data to analyze"
+    },
+    {
+      "jargon": "Semantic understanding",
+      "layman": "Understanding data meaning"
+    }
+  ]
+}

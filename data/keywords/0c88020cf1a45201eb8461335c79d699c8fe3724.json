@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Time",
+      "layman": "Time"
+    },
+    {
+      "jargon": "Movement",
+      "layman": "Movement"
+    },
+    {
+      "jargon": "Metaphysics",
+      "layman": "Nature of reality"
+    },
+    {
+      "jargon": "Art",
+      "layman": "Art"
+    },
+    {
+      "jargon": "Think-tank",
+      "layman": "Group discussion for ideas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Enacted/installed/read",
+      "layman": "Performed or displayed as experience"
+    },
+    {
+      "jargon": "Think-tank",
+      "layman": "Group discussion for ideas"
+    },
+    {
+      "jargon": "Presented",
+      "layman": "Shared in a talk"
+    },
+    {
+      "jargon": "Published",
+      "layman": "Made available to readers"
+    },
+    {
+      "jargon": "Meditation",
+      "layman": "Reflective thinking session"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Minority report",
+      "layman": "Uncommon perspective"
+    },
+    {
+      "jargon": "Political reflection",
+      "layman": "Thinking about power and rules"
+    },
+    {
+      "jargon": "Adventure",
+      "layman": "Exciting journey"
+    },
+    {
+      "jargon": "Metaphysical inquiry",
+      "layman": "Exploring deep questions about existence"
+    },
+    {
+      "jargon": "GALA reference",
+      "layman": "Cited in a formal record"
+    }
+  ]
+}

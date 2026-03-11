@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Al2O3 ceramic",
+      "layman": "Alumina ceramic"
+    },
+    {
+      "jargon": "Metal Ni",
+      "layman": "Nickel metal"
+    },
+    {
+      "jargon": "Active filler metal",
+      "layman": "Reactive metal mixture"
+    },
+    {
+      "jargon": "CuO",
+      "layman": "Copper oxide"
+    },
+    {
+      "jargon": "Ti",
+      "layman": "Titanium"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "High temperature connection",
+      "layman": "Heating to join materials"
+    },
+    {
+      "jargon": "Scan Electron Microscopy (SEM)",
+      "layman": "Microscope to see tiny surfaces"
+    },
+    {
+      "jargon": "X-ray diffractometer (XRD)",
+      "layman": "Tool to detect crystal structures"
+    },
+    {
+      "jargon": "Interfacial reaction",
+      "layman": "Chemical reaction at the joining surface"
+    },
+    {
+      "jargon": "Micro-analysis",
+      "layman": "Tiny-scale material examination"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cu element concentration",
+      "layman": "Copper buildup at the joint"
+    },
+    {
+      "jargon": "New products formed",
+      "layman": "New materials created"
+    },
+    {
+      "jargon": "Complex compounds",
+      "layman": "Mixed chemical products"
+    },
+    {
+      "jargon": "Ag didn\u2019t take part in reaction",
+      "layman": "Silver stayed unchanged"
+    },
+    {
+      "jargon": "Structure: Al2O3/AlTi + CuAl2O2/TiAg + Ti3Cu + AgZr + Ag/Ni",
+      "layman": "Layered joint with multiple materials"
+    }
+  ]
+}

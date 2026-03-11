@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pseudo-parallel parameterized surfaces",
+      "layman": "Surfaces that stay evenly aligned"
+    },
+    {
+      "jargon": "Offset surfaces",
+      "layman": "Surfaces shifted uniformly from a base shape"
+    },
+    {
+      "jargon": "Scattered points",
+      "layman": "Randomly distributed data points"
+    },
+    {
+      "jargon": "Reference surface",
+      "layman": "Base surface used for comparison"
+    },
+    {
+      "jargon": "Bounded domain",
+      "layman": "Limited region or space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Smoothing Dm-splines",
+      "layman": "Smooth curve-fitting technique"
+    },
+    {
+      "jargon": "Modified Dm-splines",
+      "layman": "Adjusted smoothing method"
+    },
+    {
+      "jargon": "Surface fitting",
+      "layman": "Matching points to a surface"
+    },
+    {
+      "jargon": "Convergence",
+      "layman": "Method approaches the correct answer"
+    },
+    {
+      "jargon": "Numerical examples",
+      "layman": "Computer-based test cases"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Convergence of the method",
+      "layman": "Method stabilizes and works correctly"
+    },
+    {
+      "jargon": "Fitting a set of scattered points",
+      "layman": "Matching random points to a shape"
+    },
+    {
+      "jargon": "Extended notion",
+      "layman": "Broader definition of a concept"
+    },
+    {
+      "jargon": "Classical smoothing",
+      "layman": "Traditional smooth data method"
+    },
+    {
+      "jargon": "Parameterized surfaces",
+      "layman": "Surfaces defined by mathematical formulas"
+    }
+  ]
+}

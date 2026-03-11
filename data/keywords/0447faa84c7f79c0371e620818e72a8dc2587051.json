@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Many-to-many matching markets",
+      "layman": "Multiple groups pairing with multiple others"
+    },
+    {
+      "jargon": "Setwise-stable set",
+      "layman": "Group of stable pairings that don't change"
+    },
+    {
+      "jargon": "Core-like concept",
+      "layman": "Stable outcome in a matching system"
+    },
+    {
+      "jargon": "Pairwise-stable set",
+      "layman": "Stable pairings where no two groups prefer each other"
+    },
+    {
+      "jargon": "Non-cooperative bargaining model",
+      "layman": "Model where groups make deals independently"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Algorithm",
+      "layman": "Step-by-step process to find a solution"
+    },
+    {
+      "jargon": "Conditions for stability",
+      "layman": "Rules that ensure stable pairings"
+    },
+    {
+      "jargon": "Predictions of a bargaining model",
+      "layman": "Outcomes expected from independent deals"
+    },
+    {
+      "jargon": "Core-like solutions",
+      "layman": "Alternative stable matching methods"
+    },
+    {
+      "jargon": "Parallel theory",
+      "layman": "Theory matching known models"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Nonempty setwise-stable set",
+      "layman": "Stable pairings exist and can be found"
+    },
+    {
+      "jargon": "Empty core",
+      "layman": "No stable pairings possible under standard rules"
+    },
+    {
+      "jargon": "Conflict/coincidence of interest",
+      "layman": "Groups sometimes compete, sometimes cooperate"
+    },
+    {
+      "jargon": "Stability parallels",
+      "layman": "Similar results to simpler matching models"
+    },
+    {
+      "jargon": "Predictions match",
+      "layman": "Results match what independent deals would predict"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Tradition",
+      "layman": "Customs passed down through generations"
+    },
+    {
+      "jargon": "Traditional society",
+      "layman": "Society based on old customs"
+    },
+    {
+      "jargon": "Philosophical category",
+      "layman": "Key idea in philosophy"
+    },
+    {
+      "jargon": "Sociological theory",
+      "layman": "Theory about society"
+    },
+    {
+      "jargon": "Cultural development",
+      "layman": "How culture changes over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conceptual development",
+      "layman": "Building ideas over time"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Deep thinking about ideas"
+    },
+    {
+      "jargon": "Theoretical emergence",
+      "layman": "How a theory starts to form"
+    },
+    {
+      "jargon": "Historical interpretation",
+      "layman": "Understanding history through ideas"
+    },
+    {
+      "jargon": "Category formation",
+      "layman": "Creating a key type or group"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Transition from traditional society",
+      "layman": "Shift from old customs to new ways"
+    },
+    {
+      "jargon": "Cornerstone of theory",
+      "layman": "Foundational idea in a field"
+    },
+    {
+      "jargon": "Philosophical explanation",
+      "layman": "A deep reason for a social change"
+    },
+    {
+      "jargon": "Public-term development",
+      "layman": "How common terms evolve"
+    },
+    {
+      "jargon": "Cultural change",
+      "layman": "Shift in societal values or practices"
+    }
+  ]
+}

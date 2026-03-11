@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Logic programming",
+      "layman": "Programming based on logic rules"
+    },
+    {
+      "jargon": "Edinburgh",
+      "layman": "Edinburgh"
+    },
+    {
+      "jargon": "Marseilles",
+      "layman": "Marseilles"
+    },
+    {
+      "jargon": "Early years",
+      "layman": "Beginning stages"
+    },
+    {
+      "jargon": "Inspirations",
+      "layman": "Sources of motivation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Shared influences",
+      "layman": "Common ideas between groups"
+    },
+    {
+      "jargon": "Recollection",
+      "layman": "Personal memory"
+    },
+    {
+      "jargon": "Tracing",
+      "layman": "Following a path or history"
+    },
+    {
+      "jargon": "Connection",
+      "layman": "Link between places or ideas"
+    },
+    {
+      "jargon": "Influences and inspirations",
+      "layman": "Motivating factors"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Early days",
+      "layman": "First phase of development"
+    },
+    {
+      "jargon": "Connected Edinburgh and Marseilles",
+      "layman": "Linked two places"
+    },
+    {
+      "jargon": "Shared inspirations",
+      "layman": "Common sources of ideas"
+    },
+    {
+      "jargon": "Firsthand recollection",
+      "layman": "Personal account"
+    },
+    {
+      "jargon": "Historical tracing",
+      "layman": "Mapping the past"
+    }
+  ]
+}

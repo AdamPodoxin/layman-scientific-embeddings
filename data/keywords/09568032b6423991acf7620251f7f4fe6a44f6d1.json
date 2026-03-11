@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "\u03c4 lepton",
+      "layman": "Tau lepton"
+    },
+    {
+      "jargon": "\u03c0'",
+      "layman": "Pion prime"
+    },
+    {
+      "jargon": "\u03b1\u2081 resonance",
+      "layman": "Alpha one resonance"
+    },
+    {
+      "jargon": "\u03bd_\u03c4",
+      "layman": "Tau neutrino"
+    },
+    {
+      "jargon": "pseudoscalar field",
+      "layman": "Pseudoscalar field"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "chiral Lagrangian",
+      "layman": "Chiral Lagrangian"
+    },
+    {
+      "jargon": "nonrelativistic quark model",
+      "layman": "Quark model for slow particles"
+    },
+    {
+      "jargon": "QCD sum rule",
+      "layman": "QCD sum rule"
+    },
+    {
+      "jargon": "mock meson model",
+      "layman": "Mock meson model"
+    },
+    {
+      "jargon": "multi-Higgs-doublet model",
+      "layman": "Multiple Higgs model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "CP-violating asymmetries",
+      "layman": "Asymmetry in particle decay"
+    },
+    {
+      "jargon": "f_\u03c0'",
+      "layman": "Pion prime decay strength"
+    },
+    {
+      "jargon": "2\u03c3 level",
+      "layman": "Moderate statistical significance"
+    },
+    {
+      "jargon": "10\u00b9\u2070 \u03c4 leptons",
+      "layman": "Ten billion tau leptons"
+    },
+    {
+      "jargon": "10\u2077 \u03c4 leptons",
+      "layman": "Ten million tau leptons"
+    }
+  ]
+}

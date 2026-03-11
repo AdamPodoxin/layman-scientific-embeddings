@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Astronomy",
+      "layman": "Study of stars and the universe"
+    },
+    {
+      "jargon": "Entropy",
+      "layman": "Tendency of things to become more disordered"
+    },
+    {
+      "jargon": "Cosmic evolution",
+      "layman": "Universe changing over time"
+    },
+    {
+      "jargon": "Bildungsroman",
+      "layman": "Story of a person's growth"
+    },
+    {
+      "jargon": "Apocalyptic vision",
+      "layman": "Vision of the end of the world"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Close reading",
+      "layman": "Careful analysis of text"
+    },
+    {
+      "jargon": "Scientific metaphor",
+      "layman": "Using science ideas to explain art"
+    },
+    {
+      "jargon": "Literary transformation",
+      "layman": "Turning science ideas into stories"
+    },
+    {
+      "jargon": "Comparative analysis",
+      "layman": "Comparing different works"
+    },
+    {
+      "jargon": "Narrative form",
+      "layman": "Structure of a story"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Subject formation",
+      "layman": "How a person becomes themselves"
+    },
+    {
+      "jargon": "Creative process",
+      "layman": "How art is made"
+    },
+    {
+      "jargon": "Scientific popularization",
+      "layman": "Making science understandable to the public"
+    },
+    {
+      "jargon": "Metaphorical integration",
+      "layman": "Blending science and art ideas"
+    },
+    {
+      "jargon": "Political imagination",
+      "layman": "Imagining alternative societies or lives"
+    }
+  ]
+}

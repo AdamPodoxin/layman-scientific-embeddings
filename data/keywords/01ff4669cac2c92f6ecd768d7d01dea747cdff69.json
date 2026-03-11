@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "2-acetylthiamin pyrophosphate",
+      "layman": "Acetyl-TPP molecule"
+    },
+    {
+      "jargon": "Thiamin pyrophosphate",
+      "layman": "Thiamin pyrophosphate"
+    },
+    {
+      "jargon": "Pyrimidine ring",
+      "layman": "Ring in the molecule"
+    },
+    {
+      "jargon": "Hydrate form",
+      "layman": "Water-bound form"
+    },
+    {
+      "jargon": "Carbinolamine form",
+      "layman": "Hydroxyl-containing form"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Oxidation",
+      "layman": "Adding oxygen to a molecule"
+    },
+    {
+      "jargon": "Ultraviolet spectroscopy",
+      "layman": "Light absorption test"
+    },
+    {
+      "jargon": "1H NMR",
+      "layman": "Hydrogen atom detection"
+    },
+    {
+      "jargon": "13C NMR",
+      "layman": "Carbon atom detection"
+    },
+    {
+      "jargon": "31P NMR",
+      "layman": "Phosphorus atom detection"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Equilibrium mixture",
+      "layman": "Balanced mix of forms"
+    },
+    {
+      "jargon": "Hydration reaction",
+      "layman": "Water adds to molecule"
+    },
+    {
+      "jargon": "Deacetylation",
+      "layman": "Acetyl group lost"
+    },
+    {
+      "jargon": "Acetyl transfer",
+      "layman": "Acetyl group moved"
+    },
+    {
+      "jargon": "Kinetic and thermodynamic reactivity",
+      "layman": "How fast and stable reactions are"
+    }
+  ]
+}

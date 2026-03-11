@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Welfare state",
+      "layman": "Government support system"
+    },
+    {
+      "jargon": "Community democracy",
+      "layman": "People making decisions together"
+    },
+    {
+      "jargon": "Neo-liberal individualism",
+      "layman": "Focus on personal responsibility"
+    },
+    {
+      "jargon": "Public choice theory",
+      "layman": "How people make choices in public systems"
+    },
+    {
+      "jargon": "Postmodernism",
+      "layman": "New way of thinking about society"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Community-based social policy",
+      "layman": "Policies based on local communities"
+    },
+    {
+      "jargon": "Educational policy analysis",
+      "layman": "Studying how education policies work"
+    },
+    {
+      "jargon": "Politics of interpretation",
+      "layman": "How meaning is shaped by power"
+    },
+    {
+      "jargon": "New Right reforms",
+      "layman": "Government changes favoring individual choice"
+    },
+    {
+      "jargon": "Critique of reason",
+      "layman": "Challenging traditional logic and beliefs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Crisis of the welfare state",
+      "layman": "Welfare system failing"
+    },
+    {
+      "jargon": "Culture of narcissism",
+      "layman": "Focus on self over others"
+    },
+    {
+      "jargon": "Education and the ideal learning community",
+      "layman": "Schools as places of shared growth"
+    },
+    {
+      "jargon": "Politics of difference",
+      "layman": "Recognizing diverse identities"
+    },
+    {
+      "jargon": "Critical social policy",
+      "layman": "Fair and reflective public policies"
+    }
+  ]
+}

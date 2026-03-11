@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Iconography",
+      "layman": "Visual symbols"
+    },
+    {
+      "jargon": "Stylistics",
+      "layman": "Style and presentation"
+    },
+    {
+      "jargon": "Politics",
+      "layman": "Political themes"
+    },
+    {
+      "jargon": "Neorealism",
+      "layman": "Real-life storytelling"
+    },
+    {
+      "jargon": "Southern Question",
+      "layman": "Southern Italy's economic and social struggles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Iconographic analysis",
+      "layman": "Analyzing visual symbols"
+    },
+    {
+      "jargon": "Stylistic examination",
+      "layman": "Looking at film style"
+    },
+    {
+      "jargon": "Political interpretation",
+      "layman": "Reading political messages"
+    },
+    {
+      "jargon": "Narrative structure",
+      "layman": "How the story is built"
+    },
+    {
+      "jargon": "Dialect use",
+      "layman": "Using regional speech"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Resistance",
+      "layman": "Opposition to authority"
+    },
+    {
+      "jargon": "Neopopulism",
+      "layman": "Popular, grassroots politics"
+    },
+    {
+      "jargon": "Psychoanalysis",
+      "layman": "Exploring inner emotions"
+    },
+    {
+      "jargon": "Cinematic crisis",
+      "layman": "Breakdown in film traditions"
+    },
+    {
+      "jargon": "National language",
+      "layman": "Shared cultural identity through language"
+    }
+  ]
+}

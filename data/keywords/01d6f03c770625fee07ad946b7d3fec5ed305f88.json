@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "RE theory",
+      "layman": "Recursive theory"
+    },
+    {
+      "jargon": "non-surjective unordered pairing",
+      "layman": "Pairing without one-to-one mapping"
+    },
+    {
+      "jargon": "axiomatizable",
+      "layman": "Can be fully described by rules"
+    },
+    {
+      "jargon": "scheme",
+      "layman": "Set of rules or formulas"
+    },
+    {
+      "jargon": "theory of non-surjective unordered pairing",
+      "layman": "Theory of pairing without full coverage"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "improvement of Vaught's Theorem",
+      "layman": "Better version of a known rule"
+    },
+    {
+      "jargon": "direct interpretation",
+      "layman": "Clear understanding of a system"
+    },
+    {
+      "jargon": "axiomatization by a scheme",
+      "layman": "Building rules from a set of formulas"
+    },
+    {
+      "jargon": "pairing need not be functional",
+      "layman": "Pairing doesn't have to be one-to-one"
+    },
+    {
+      "jargon": "RE theory interprets",
+      "layman": "A theory understands another theory"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "axiomatizable by a scheme",
+      "layman": "Can be fully described by a rule set"
+    },
+    {
+      "jargon": "any RE theory",
+      "layman": "All such recursive theories"
+    },
+    {
+      "jargon": "directly interprets",
+      "layman": "Clearly understands"
+    },
+    {
+      "jargon": "improved result",
+      "layman": "Stronger conclusion than before"
+    },
+    {
+      "jargon": "the theory of non-surjective pairing",
+      "layman": "A specific pairing rule"
+    }
+  ]
+}

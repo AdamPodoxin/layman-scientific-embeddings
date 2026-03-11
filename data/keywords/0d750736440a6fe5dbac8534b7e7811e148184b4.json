@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Budgets",
+      "layman": "Money plans for organisations"
+    },
+    {
+      "jargon": "Organisations",
+      "layman": "Groups of people working together"
+    },
+    {
+      "jargon": "Individuals",
+      "layman": "Single people in an organisation"
+    },
+    {
+      "jargon": "Stedry's experiments",
+      "layman": "Early studies on budget setting"
+    },
+    {
+      "jargon": "Systems approaches",
+      "layman": "Holistic views of organisation structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Budget-setting",
+      "layman": "Deciding how to allocate money"
+    },
+    {
+      "jargon": "Psychology approach",
+      "layman": "Studying individual behaviour"
+    },
+    {
+      "jargon": "Sociology of organisations",
+      "layman": "Studying how groups work"
+    },
+    {
+      "jargon": "Theoretical emphasis",
+      "layman": "Focus of academic research"
+    },
+    {
+      "jargon": "Mutual influence",
+      "layman": "Two parts affecting each other"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Difference of emphasis",
+      "layman": "Different research focuses"
+    },
+    {
+      "jargon": "Mutual influence",
+      "layman": "Individuals and groups affect each other"
+    },
+    {
+      "jargon": "Traditional approaches",
+      "layman": "Established ways of thinking"
+    },
+    {
+      "jargon": "Disciplinary tradition",
+      "layman": "Long-standing academic focus"
+    },
+    {
+      "jargon": "Organisational aspects",
+      "layman": "Group-level budget effects"
+    }
+  ]
+}

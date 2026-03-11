@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "ZnO/CuO composite",
+      "layman": "Zinc and copper oxide mixture"
+    },
+    {
+      "jargon": "Metal oxide composite",
+      "layman": "Mix of metal oxides"
+    },
+    {
+      "jargon": "Microelectronic circuit",
+      "layman": "Tiny electronic circuits"
+    },
+    {
+      "jargon": "Piezoelectric material",
+      "layman": "Material that generates electricity from pressure"
+    },
+    {
+      "jargon": "Fuel cell",
+      "layman": "Device that produces electricity from fuel"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Electrochemical method",
+      "layman": "Electric current to create material"
+    },
+    {
+      "jargon": "Acetate acid solution",
+      "layman": "Acid solution made from acetate"
+    },
+    {
+      "jargon": "XRD analysis",
+      "layman": "Test to see crystal structure"
+    },
+    {
+      "jargon": "FTIR analysis",
+      "layman": "Test to find chemical bonds"
+    },
+    {
+      "jargon": "Crystallite phase",
+      "layman": "Crystal form of the material"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Crystallite phase",
+      "layman": "Crystal form of the material"
+    },
+    {
+      "jargon": "Structure",
+      "layman": "Molecular arrangement"
+    },
+    {
+      "jargon": "Functional groups",
+      "layman": "Chemical groups in the material"
+    },
+    {
+      "jargon": "Anti-bacterial agent",
+      "layman": "Kills bacteria"
+    },
+    {
+      "jargon": "Catalyst",
+      "layman": "Speeds up chemical reactions"
+    }
+  ]
+}

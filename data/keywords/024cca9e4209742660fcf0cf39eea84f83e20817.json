@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Vortices",
+      "layman": "Whirlpools"
+    },
+    {
+      "jargon": "Corotating vortices",
+      "layman": "Vortices spinning in the same direction"
+    },
+    {
+      "jargon": "Regular polygon",
+      "layman": "Equal-sided shape"
+    },
+    {
+      "jargon": "Annular vortical structure",
+      "layman": "Ring-shaped whirlpool"
+    },
+    {
+      "jargon": "Lamb-Oseen vortex",
+      "layman": "Standard whirlpool model"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Merger process",
+      "layman": "Combining whirlpools"
+    },
+    {
+      "jargon": "Numerical evolution",
+      "layman": "Computer simulation of flow"
+    },
+    {
+      "jargon": "Linear stability analysis",
+      "layman": "Testing which small changes grow or fade"
+    },
+    {
+      "jargon": "Reynolds number",
+      "layman": "Measure of fluid flow strength"
+    },
+    {
+      "jargon": "Inviscid case",
+      "layman": "Flow without viscosity"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Annular vortex formation",
+      "layman": "Ring-shaped whirlpool forms"
+    },
+    {
+      "jargon": "Slowed vortex merger",
+      "layman": "Whirlpools merge slowly"
+    },
+    {
+      "jargon": "Radial elongation",
+      "layman": "Whirlpools stretch outward"
+    },
+    {
+      "jargon": "Azimuthal reorientation",
+      "layman": "Whirlpools align around a circle"
+    },
+    {
+      "jargon": "Decaying turbulence",
+      "layman": "Chaotic flow breaks down"
+    }
+  ]
+}

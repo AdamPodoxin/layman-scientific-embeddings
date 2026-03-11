@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "State",
+      "layman": "Government"
+    },
+    {
+      "jargon": "International functionalism",
+      "layman": "Global cooperation through shared functions"
+    },
+    {
+      "jargon": "Rousseau's republicanism",
+      "layman": "People ruling through direct democracy"
+    },
+    {
+      "jargon": "French syndicalism",
+      "layman": "Worker-led economic control"
+    },
+    {
+      "jargon": "Anarchist internationalism",
+      "layman": "Global system without governments"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Civic activism",
+      "layman": "Public advocacy for change"
+    },
+    {
+      "jargon": "International planning",
+      "layman": "Coordinated global strategy"
+    },
+    {
+      "jargon": "Constitutional reform",
+      "layman": "Changing a country's legal framework"
+    },
+    {
+      "jargon": "Supranational economic framework",
+      "layman": "Economic system beyond national borders"
+    },
+    {
+      "jargon": "Intellectual traditions",
+      "layman": "Historical ideas and schools of thought"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Rejection of the state as desirable",
+      "layman": "No longer seeing government as good"
+    },
+    {
+      "jargon": "Shift to international functionalism",
+      "layman": "Moving to global cooperation model"
+    },
+    {
+      "jargon": "Response to economic depression",
+      "layman": "Change due to global economic crisis"
+    },
+    {
+      "jargon": "Response to Fascism",
+      "layman": "Change due to rise of authoritarian regimes"
+    },
+    {
+      "jargon": "Commitment to civic activism",
+      "layman": "Dedicated public action for justice"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software reliability engineering",
+      "layman": "Ensuring software works without failure"
+    },
+    {
+      "jargon": "Process structure",
+      "layman": "How development workflows are organized"
+    },
+    {
+      "jargon": "Quality metrics",
+      "layman": "Measures of software quality"
+    },
+    {
+      "jargon": "Code stability",
+      "layman": "How consistent and reliable code is"
+    },
+    {
+      "jargon": "Fault convergence",
+      "layman": "When software errors stop appearing over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Metrics re-evaluation",
+      "layman": "Reviewing quality measures over time"
+    },
+    {
+      "jargon": "Integration testing",
+      "layman": "Testing how different software parts work together"
+    },
+    {
+      "jargon": "Quality control chart",
+      "layman": "Graph showing software quality trends"
+    },
+    {
+      "jargon": "Agile development",
+      "layman": "Iterative software building in small steps"
+    },
+    {
+      "jargon": "Project profile",
+      "layman": "Overview of a software project's key traits"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Code stability",
+      "layman": "Code that doesn\u2019t break easily"
+    },
+    {
+      "jargon": "Fault convergence",
+      "layman": "Fewer bugs over time"
+    },
+    {
+      "jargon": "Quality metrics",
+      "layman": "Clear signs of software quality"
+    },
+    {
+      "jargon": "Process structure",
+      "layman": "Clear development workflow"
+    },
+    {
+      "jargon": "Integration testing",
+      "layman": "Fewer connection errors in software"
+    }
+  ]
+}

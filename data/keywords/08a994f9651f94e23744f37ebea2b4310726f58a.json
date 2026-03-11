@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Indigenous cultures",
+      "layman": "Native cultures"
+    },
+    {
+      "jargon": "DK Eyewitness series",
+      "layman": "Popular travel book series"
+    },
+    {
+      "jargon": "Artist book",
+      "layman": "Creative book by an artist"
+    },
+    {
+      "jargon": "Positivist paradigms",
+      "layman": "Scientific views that ignore context"
+    },
+    {
+      "jargon": "New historiography",
+      "layman": "New way of writing history"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Decolonizing methodologies",
+      "layman": "Approach that removes colonial bias"
+    },
+    {
+      "jargon": "Cataloguing",
+      "layman": "Organizing items in lists"
+    },
+    {
+      "jargon": "Consignment to the past",
+      "layman": "Putting things in the past"
+    },
+    {
+      "jargon": "Pleasurable display",
+      "layman": "Showcasing for fun and beauty"
+    },
+    {
+      "jargon": "Arts-based methodologies",
+      "layman": "Using art to teach and express"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Three trajectories",
+      "layman": "Three patterns found"
+    },
+    {
+      "jargon": "Speak back",
+      "layman": "Respond to dominant views"
+    },
+    {
+      "jargon": "Overturn constructions",
+      "layman": "Change false ideas"
+    },
+    {
+      "jargon": "Touristic constructions",
+      "layman": "Ideas based on tourism"
+    },
+    {
+      "jargon": "Museum-based representations",
+      "layman": "How cultures are shown in museums"
+    }
+  ]
+}

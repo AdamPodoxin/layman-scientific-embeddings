@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Threebranes",
+      "layman": "Three-dimensional membranes"
+    },
+    {
+      "jargon": "Twelve dimensions",
+      "layman": "Space with 12 dimensions"
+    },
+    {
+      "jargon": "M-theory",
+      "layman": "Theory of 11-dimensional physics"
+    },
+    {
+      "jargon": "F-theory",
+      "layman": "Theory using (10,2) signature"
+    },
+    {
+      "jargon": "Green-Schwarz threebrane",
+      "layman": "A type of 3D membrane in 12D space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Non-perturbative string theory",
+      "layman": "String theory without small disturbances"
+    },
+    {
+      "jargon": "Signature (10,2)",
+      "layman": "Space with 10 space and 2 time dimensions"
+    },
+    {
+      "jargon": "Formulation",
+      "layman": "Mathematical setup"
+    },
+    {
+      "jargon": "Realisation",
+      "layman": "Discovery or insight"
+    },
+    {
+      "jargon": "Investigate",
+      "layman": "Study or examine"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Great increases in understanding",
+      "layman": "Better comprehension"
+    },
+    {
+      "jargon": "Solved many problems",
+      "layman": "Many issues were resolved"
+    },
+    {
+      "jargon": "Enhanced understanding",
+      "layman": "Improved knowledge"
+    },
+    {
+      "jargon": "Proposed solution",
+      "layman": "Suggested answer"
+    },
+    {
+      "jargon": "Discussed formulation",
+      "layman": "Explained the setup"
+    }
+  ]
+}

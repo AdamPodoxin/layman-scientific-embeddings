@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Customer relationship management",
+      "layman": "Customer relationship management"
+    },
+    {
+      "jargon": "Multinational corporations",
+      "layman": "Companies operating in many countries"
+    },
+    {
+      "jargon": "Knowledge management",
+      "layman": "Managing company knowledge"
+    },
+    {
+      "jargon": "Learning relationships",
+      "layman": "Ongoing customer learning"
+    },
+    {
+      "jargon": "Global knowledge stock",
+      "layman": "Shared global company knowledge"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Strategic approach",
+      "layman": "Long-term business plan"
+    },
+    {
+      "jargon": "Technological dimension",
+      "layman": "Tech-based system"
+    },
+    {
+      "jargon": "Information and communication technologies",
+      "layman": "IT tools for sharing data"
+    },
+    {
+      "jargon": "Knowledge acquisition",
+      "layman": "Gathering company knowledge"
+    },
+    {
+      "jargon": "Local market demands",
+      "layman": "Customer needs in a region"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Customer-focused organization",
+      "layman": "Company focused on customers"
+    },
+    {
+      "jargon": "Learning capability",
+      "layman": "Ability to learn from customers"
+    },
+    {
+      "jargon": "Improved knowledge processes",
+      "layman": "Better knowledge sharing"
+    },
+    {
+      "jargon": "Accurate market understanding",
+      "layman": "Clear view of customer needs"
+    },
+    {
+      "jargon": "Regional market insights",
+      "layman": "Understanding of local markets"
+    }
+  ]
+}

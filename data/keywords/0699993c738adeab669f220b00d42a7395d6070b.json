@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Anthropologists",
+      "layman": "Culture researchers"
+    },
+    {
+      "jargon": "Colonialism",
+      "layman": "Powerful country ruling another"
+    },
+    {
+      "jargon": "Micronesia",
+      "layman": "Group of islands in the Pacific"
+    },
+    {
+      "jargon": "Postwar period",
+      "layman": "Time after World War II"
+    },
+    {
+      "jargon": "Trust Territory",
+      "layman": "Government-controlled region after war"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cultural relativity",
+      "layman": "Understanding cultures on their own terms"
+    },
+    {
+      "jargon": "Fieldwork",
+      "layman": "Direct observation in the field"
+    },
+    {
+      "jargon": "Ethical reflection",
+      "layman": "Thinking about moral issues in research"
+    },
+    {
+      "jargon": "Government sponsorship",
+      "layman": "Research funded by the state"
+    },
+    {
+      "jargon": "Advisory capacity",
+      "layman": "Giving advice to officials"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Colonial agendas",
+      "layman": "Government goals in ruling"
+    },
+    {
+      "jargon": "Competing agendas",
+      "layman": "Different goals in conflict"
+    },
+    {
+      "jargon": "Contested process",
+      "layman": "Process with disagreement"
+    },
+    {
+      "jargon": "Dialectic",
+      "layman": "Ongoing debate and change"
+    },
+    {
+      "jargon": "Power relationships",
+      "layman": "Unequal influence between groups"
+    }
+  ]
+}

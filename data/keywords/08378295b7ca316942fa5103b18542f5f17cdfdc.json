@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "German historical scholarship",
+      "layman": "German history studies"
+    },
+    {
+      "jargon": "Russian historiography",
+      "layman": "Russian history writing"
+    },
+    {
+      "jargon": "L. von Ranke",
+      "layman": "L. von Ranke"
+    },
+    {
+      "jargon": "G. Sybel",
+      "layman": "G. Sybel"
+    },
+    {
+      "jargon": "F. Dalman",
+      "layman": "F. Dalman"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "General logical methods",
+      "layman": "Basic reasoning techniques"
+    },
+    {
+      "jargon": "Analysis",
+      "layman": "Breaking down information"
+    },
+    {
+      "jargon": "Synthesis",
+      "layman": "Putting parts together"
+    },
+    {
+      "jargon": "Ideographical method",
+      "layman": "Studying ideas and concepts"
+    },
+    {
+      "jargon": "Chronological method",
+      "layman": "Studying events in time order"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Popularity of German historiography",
+      "layman": "German history studies were popular"
+    },
+    {
+      "jargon": "Interest in German historical school",
+      "layman": "Russian historians were interested"
+    },
+    {
+      "jargon": "Grouping of periodicals",
+      "layman": "Periodicals sorted into groups"
+    },
+    {
+      "jargon": "Scientific exchange between students",
+      "layman": "Students shared knowledge"
+    },
+    {
+      "jargon": "Leading position of German scholarship in Europe",
+      "layman": "Germany led European history studies"
+    }
+  ]
+}

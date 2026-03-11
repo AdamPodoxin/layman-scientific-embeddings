@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Curves of genus at least 2",
+      "layman": "Complex geometric shapes with holes"
+    },
+    {
+      "jargon": "Jacobians",
+      "layman": "Mathematical objects tied to curves"
+    },
+    {
+      "jargon": "Number fields",
+      "layman": "Extended number systems"
+    },
+    {
+      "jargon": "Finite fields",
+      "layman": "Limited number systems"
+    },
+    {
+      "jargon": "Algorithms",
+      "layman": "Step-by-step math procedures"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Explicit calculations",
+      "layman": "Direct math computations"
+    },
+    {
+      "jargon": "Algorithms",
+      "layman": "Step-by-step math procedures"
+    },
+    {
+      "jargon": "Computational methods",
+      "layman": "Computer-based math solving"
+    },
+    {
+      "jargon": "Numerical computation",
+      "layman": "Using numbers to solve problems"
+    },
+    {
+      "jargon": "Explicit construction",
+      "layman": "Building something directly and clearly"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Miscellaneous examples",
+      "layman": "Various sample cases"
+    },
+    {
+      "jargon": "Future projects",
+      "layman": "Upcoming research ideas"
+    },
+    {
+      "jargon": "Computational results",
+      "layman": "Computer-derived findings"
+    },
+    {
+      "jargon": "Mathematical structures",
+      "layman": "Patterned mathematical forms"
+    },
+    {
+      "jargon": "Geometric properties",
+      "layman": "Shape-based characteristics"
+    }
+  ]
+}

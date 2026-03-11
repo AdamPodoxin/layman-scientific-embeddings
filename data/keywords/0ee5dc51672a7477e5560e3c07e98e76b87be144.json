@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "East Asian economies",
+      "layman": "East Asian countries"
+    },
+    {
+      "jargon": "Factor accumulation",
+      "layman": "Building up resources"
+    },
+    {
+      "jargon": "Demographic transition",
+      "layman": "Change in population patterns"
+    },
+    {
+      "jargon": "Total factor productivity",
+      "layman": "Overall efficiency of production"
+    },
+    {
+      "jargon": "Developmental state",
+      "layman": "Government-led development model"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Literature survey",
+      "layman": "Reviewing past studies"
+    },
+    {
+      "jargon": "Performance evaluation",
+      "layman": "Assessing results"
+    },
+    {
+      "jargon": "Preliminary assessment",
+      "layman": "Initial judgment"
+    },
+    {
+      "jargon": "Crisis aftermath analysis",
+      "layman": "Studying what happens after a crisis"
+    },
+    {
+      "jargon": "Sustainability evaluation",
+      "layman": "Checking long-term viability"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Unusually high factor accumulation",
+      "layman": "High resource buildup"
+    },
+    {
+      "jargon": "Disappointing total factor productivity growth",
+      "layman": "Slow efficiency gains"
+    },
+    {
+      "jargon": "Downside risks",
+      "layman": "Potential problems"
+    },
+    {
+      "jargon": "Less attractive model",
+      "layman": "Model losing appeal"
+    },
+    {
+      "jargon": "Long-term growth prospects",
+      "layman": "Future growth potential"
+    }
+  ]
+}

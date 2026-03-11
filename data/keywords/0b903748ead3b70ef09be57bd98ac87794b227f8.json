@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spacetime",
+      "layman": "Space and time together"
+    },
+    {
+      "jargon": "Physical interactions",
+      "layman": "Forces between things"
+    },
+    {
+      "jargon": "Multidimensional geometric models",
+      "layman": "Shapes in more than three dimensions"
+    },
+    {
+      "jargon": "S-matrix",
+      "layman": "Tool to describe how particles interact"
+    },
+    {
+      "jargon": "Lagrangian",
+      "layman": "Mathematical description of energy in a system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Binary geometrophysics",
+      "layman": "Geometry-based model using two parts"
+    },
+    {
+      "jargon": "Kaluza-Klein models",
+      "layman": "Adding extra dimensions to explain forces"
+    },
+    {
+      "jargon": "Fokker-Feynman action-at-a-distance",
+      "layman": "Forces acting instantly across space"
+    },
+    {
+      "jargon": "Modified S-matrix theory",
+      "layman": "Changed version of interaction prediction model"
+    },
+    {
+      "jargon": "Algebraic description",
+      "layman": "Using math equations to describe geometry"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Transition from microworld geometrophysics",
+      "layman": "Shift from tiny-scale geometry to normal physics"
+    },
+    {
+      "jargon": "Prototype of S-matrix",
+      "layman": "Model that combines interaction rules"
+    },
+    {
+      "jargon": "Prototype of physical action",
+      "layman": "Model showing energy behavior in forces"
+    },
+    {
+      "jargon": "Prototype of multidimensional metric",
+      "layman": "Model showing distance in higher dimensions"
+    },
+    {
+      "jargon": "Conventional physical theory in classical spacetime",
+      "layman": "Standard physics in normal space and time"
+    }
+  ]
+}

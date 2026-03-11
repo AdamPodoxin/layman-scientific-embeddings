@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spiritual Experience Index",
+      "layman": "Spiritual maturity scale"
+    },
+    {
+      "jargon": "Spiritual maturity",
+      "layman": "Level of spiritual growth"
+    },
+    {
+      "jargon": "Dogmatism",
+      "layman": "Strict beliefs"
+    },
+    {
+      "jargon": "Intolerance of ambiguity",
+      "layman": "Difficulty with uncertainty"
+    },
+    {
+      "jargon": "Religious participation",
+      "layman": "Engagement in religious activities"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Developmental conceptualization",
+      "layman": "Growth-based view of faith"
+    },
+    {
+      "jargon": "Scale construction",
+      "layman": "Building a measurement tool"
+    },
+    {
+      "jargon": "Reliability testing",
+      "layman": "Checking consistency of results"
+    },
+    {
+      "jargon": "Correlation analysis",
+      "layman": "Measuring relationships between traits"
+    },
+    {
+      "jargon": "Unidimensional measure",
+      "layman": "Single-factor measurement"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Good reliability",
+      "layman": "Consistent results"
+    },
+    {
+      "jargon": "Significantly related",
+      "layman": "Strongly connected"
+    },
+    {
+      "jargon": "Moderately related",
+      "layman": "Fairly connected"
+    },
+    {
+      "jargon": "Positively correlated",
+      "layman": "Increases together"
+    },
+    {
+      "jargon": "Strongest indicator of adaptive spiritual functioning",
+      "layman": "Best predictor of healthy spiritual life"
+    }
+  ]
+}

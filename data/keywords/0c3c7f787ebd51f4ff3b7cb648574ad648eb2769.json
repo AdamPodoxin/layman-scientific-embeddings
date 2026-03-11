@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Homospory",
+      "layman": "Single type of spore"
+    },
+    {
+      "jargon": "Heterospory",
+      "layman": "Two types of spores"
+    },
+    {
+      "jargon": "Pteridophytes",
+      "layman": "Ferns and related plants"
+    },
+    {
+      "jargon": "Seed plants",
+      "layman": "Plants that produce seeds"
+    },
+    {
+      "jargon": "Gametophyte",
+      "layman": "Haploid plant stage that makes eggs and sperm"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Life cycle alternation",
+      "layman": "Switching between plant stages"
+    },
+    {
+      "jargon": "Spore production",
+      "layman": "Making spores from plants"
+    },
+    {
+      "jargon": "Genetic hypothesis testing",
+      "layman": "Testing plant genetics ideas"
+    },
+    {
+      "jargon": "Reproductive biology",
+      "layman": "How plants reproduce"
+    },
+    {
+      "jargon": "Fossil record",
+      "layman": "Ancient plant remains"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Diversification burst",
+      "layman": "Rapid plant variety growth"
+    },
+    {
+      "jargon": "Evolutionary potential",
+      "layman": "Ability to evolve over time"
+    },
+    {
+      "jargon": "Genetic complexity",
+      "layman": "Complex plant DNA patterns"
+    },
+    {
+      "jargon": "Sister group",
+      "layman": "Closest plant relatives"
+    },
+    {
+      "jargon": "Uniform spores",
+      "layman": "All spores are the same size"
+    }
+  ]
+}

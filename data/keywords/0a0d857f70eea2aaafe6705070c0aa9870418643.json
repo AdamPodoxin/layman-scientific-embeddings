@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Boolean module",
+      "layman": "Logical structure with relations and sets"
+    },
+    {
+      "jargon": "Peirce algebra",
+      "layman": "Boolean module with extra operations"
+    },
+    {
+      "jargon": "Relation algebra",
+      "layman": "Mathematical system for relations between sets"
+    },
+    {
+      "jargon": "Boolean algebra",
+      "layman": "System for logical true/false values"
+    },
+    {
+      "jargon": "Right cylindrification",
+      "layman": "Operation that fixes one part of a relation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Classical representation",
+      "layman": "Set-theoretic interpretation"
+    },
+    {
+      "jargon": "Non-additive representation",
+      "layman": "Ignoring addition rules"
+    },
+    {
+      "jargon": "Non-multiplicative representation",
+      "layman": "Ignoring multiplication rules"
+    },
+    {
+      "jargon": "Interpretation in two-sorted algebra",
+      "layman": "Mapping into a dual system"
+    },
+    {
+      "jargon": "Equational axioms",
+      "layman": "Rules that must always hold true"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Quasi-variety",
+      "layman": "Broad class of structures with shared rules"
+    },
+    {
+      "jargon": "Equational variety",
+      "layman": "Complete set of rules defining a class"
+    },
+    {
+      "jargon": "Straight representation",
+      "layman": "Same base set for key elements"
+    },
+    {
+      "jargon": "Strict inclusion",
+      "layman": "One class is fully inside another"
+    },
+    {
+      "jargon": "Cannot be defined within",
+      "layman": "One system cannot be built from another"
+    }
+  ]
+}

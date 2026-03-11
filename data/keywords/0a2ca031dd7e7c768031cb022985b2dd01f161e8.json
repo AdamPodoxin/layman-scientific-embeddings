@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Archean magmatic rocks",
+      "layman": "Ancient volcanic rocks"
+    },
+    {
+      "jargon": "Brittle granide",
+      "layman": "Hard, fractured granite-like rock"
+    },
+    {
+      "jargon": "Dioritoid",
+      "layman": "Dense, dark igneous rock"
+    },
+    {
+      "jargon": "Dike rock",
+      "layman": "Vertical rock sheets"
+    },
+    {
+      "jargon": "Reservoir space",
+      "layman": "Holes or gaps where oil or water can flow"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Core sampling",
+      "layman": "Drilling for rock samples"
+    },
+    {
+      "jargon": "Rock slice analysis",
+      "layman": "Cutting and studying rock slices"
+    },
+    {
+      "jargon": "Cast preparation",
+      "layman": "Making rock molds from sediment"
+    },
+    {
+      "jargon": "Mercury penetration testing",
+      "layman": "Measuring how fluid enters rock"
+    },
+    {
+      "jargon": "Lithology analysis",
+      "layman": "Studying rock types"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Low porosity",
+      "layman": "Few empty spaces in rock"
+    },
+    {
+      "jargon": "Low permeability",
+      "layman": "Hard for fluids to pass through"
+    },
+    {
+      "jargon": "Pore-fractured reservoir",
+      "layman": "Rock with small holes and cracks"
+    },
+    {
+      "jargon": "Fractures as main reservoir spaces",
+      "layman": "Cracks are main flow paths"
+    },
+    {
+      "jargon": "Dissolved pores and caverns",
+      "layman": "Small holes formed by water dissolving rock"
+    }
+  ]
+}

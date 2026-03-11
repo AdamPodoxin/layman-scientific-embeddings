@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Riot cities",
+      "layman": "Cities that experienced riots"
+    },
+    {
+      "jargon": "Welfare programs",
+      "layman": "Financial aid for people in need"
+    },
+    {
+      "jargon": "Local municipal officials",
+      "layman": "City government leaders"
+    },
+    {
+      "jargon": "City and state expenditures",
+      "layman": "Money spent by cities and states"
+    },
+    {
+      "jargon": "Budgetary increases",
+      "layman": "Rising government spending"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Data comparison",
+      "layman": "Comparing numbers from different groups"
+    },
+    {
+      "jargon": "Control group",
+      "layman": "Cities without riots used for comparison"
+    },
+    {
+      "jargon": "Similar size cities",
+      "layman": "Cities of comparable size"
+    },
+    {
+      "jargon": "Year following riot",
+      "layman": "The next year after the riot"
+    },
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Using math to find patterns"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Larger budgetary increases",
+      "layman": "More money spent on welfare"
+    },
+    {
+      "jargon": "No such pattern",
+      "layman": "No change in spending in nonriot cities"
+    },
+    {
+      "jargon": "Expanded welfare services",
+      "layman": "More welfare support given"
+    },
+    {
+      "jargon": "Local expansion ease",
+      "layman": "Easy to increase spending locally"
+    },
+    {
+      "jargon": "No threat to other groups",
+      "layman": "No risk to other interests"
+    }
+  ]
+}

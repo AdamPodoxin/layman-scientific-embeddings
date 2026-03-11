@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Eclogite",
+      "layman": "High-pressure rock"
+    },
+    {
+      "jargon": "Coronitic garnet",
+      "layman": "Special type of garnet"
+    },
+    {
+      "jargon": "Omphacite",
+      "layman": "Type of amphibole mineral"
+    },
+    {
+      "jargon": "Subducted crust",
+      "layman": "Crust pushed down into the Earth"
+    },
+    {
+      "jargon": "Variscan orogeny",
+      "layman": "Mountain-building event"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Petrofabric",
+      "layman": "Crystal alignment pattern"
+    },
+    {
+      "jargon": "Geochronology",
+      "layman": "Age determination"
+    },
+    {
+      "jargon": "Crystallographic preferred orientation",
+      "layman": "Crystal alignment in rocks"
+    },
+    {
+      "jargon": "Seismic property calculation",
+      "layman": "Measuring how rock responds to sound waves"
+    },
+    {
+      "jargon": "Strain geometry",
+      "layman": "How rocks were stretched or bent"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Maximum P and T of 2.6 GPa and 610\u2013640 \u00b0C",
+      "layman": "High pressure and temperature during formation"
+    },
+    {
+      "jargon": "Non-coaxial constrictional strain",
+      "layman": "Rock squeezed in one direction"
+    },
+    {
+      "jargon": "Non-coaxial flattening strain",
+      "layman": "Rock flattened in a specific way"
+    },
+    {
+      "jargon": "Late Devonian subduction channel",
+      "layman": "Deep trench formed in Devonian time"
+    },
+    {
+      "jargon": "Seismically undetectable or planar high-impedance features",
+      "layman": "May not be detected by earthquakes or show sharp boundaries"
+    }
+  ]
+}

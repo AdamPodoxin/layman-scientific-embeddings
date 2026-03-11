@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "trachytic lavas",
-      "layman": "Volcanic rock from fast-moving lava"
+      "jargon": "Trachyphonolite",
+      "layman": "Type of volcanic rock"
     },
     {
-      "jargon": "trachyphonolitic lavas",
-      "layman": "A type of volcanic rock with specific mineral content"
+      "jargon": "Trachytic lavas",
+      "layman": "Lava flows from volcanic eruptions"
     },
     {
-      "jargon": "alkaline and mildly peralkaline",
-      "layman": "Rocks with high amounts of certain minerals"
+      "jargon": "Alkaline magmas",
+      "layman": "Magma rich in certain minerals"
     },
     {
-      "jargon": "volcanic shield",
-      "layman": "Large flat area made of volcanic flows"
+      "jargon": "Late Pleistocene",
+      "layman": "Time period millions of years ago"
     },
     {
-      "jargon": "magma",
-      "layman": "Hot molten rock beneath the Earth"
+      "jargon": "Volcanic shield",
+      "layman": "Large area of volcanic flows"
     }
   ],
   "methodologies": [
     {
-      "jargon": "petrographical studies",
-      "layman": "Examining rock textures under a microscope"
+      "jargon": "Petrographical studies",
+      "layman": "Examining rock textures"
     },
     {
-      "jargon": "geochemical studies",
+      "jargon": "Geochemical studies",
       "layman": "Testing rock chemical makeup"
     },
     {
-      "jargon": "crystallisation",
-      "layman": "Lava cooling and forming crystals"
+      "jargon": "Feldspar fractionation",
+      "layman": "Separating feldspar minerals over time"
     },
     {
-      "jargon": "feldspar fractionation",
-      "layman": "Minerals separating out over time"
+      "jargon": "Crystallisation",
+      "layman": "Forming crystals from magma"
     },
     {
-      "jargon": "differentiation",
-      "layman": "Changes in rock composition during cooling"
+      "jargon": "Trace element analysis",
+      "layman": "Measuring tiny mineral elements"
     }
   ],
   "outcomes": [
     {
-      "jargon": "major element composition modified",
-      "layman": "Main rock elements changed"
+      "jargon": "Major element composition modified",
+      "layman": "Rock chemistry changed during cooling"
     },
     {
-      "jargon": "residual trace elements",
-      "layman": "Tiny leftover elements in rock"
+      "jargon": "Protracted feldspar fractionation",
+      "layman": "Slow separation of feldspar minerals"
     },
     {
-      "jargon": "protracted feldspar fractionation",
-      "layman": "Long process of mineral separation"
+      "jargon": "Low residual trace elements",
+      "layman": "Few remaining trace minerals"
     },
     {
-      "jargon": "widely dispersed centres",
-      "layman": "Many eruption points spread out"
+      "jargon": "Differentiation within suite",
+      "layman": "Variation in rock types"
     },
     {
-      "jargon": "extensive volcanic shield",
-      "layman": "Large area of volcanic rock formed"
+      "jargon": "Widely dispersed eruption centres",
+      "layman": "Eruptions from many separate spots"
     }
   ]
 }

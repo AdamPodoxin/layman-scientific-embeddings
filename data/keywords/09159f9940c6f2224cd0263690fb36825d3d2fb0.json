@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spin polarization",
+      "layman": "Electrons with aligned spins"
+    },
+    {
+      "jargon": "Ferromagnetic metal",
+      "layman": "Metal that keeps magnetic alignment"
+    },
+    {
+      "jargon": "Semiconductor",
+      "layman": "Material that controls electricity"
+    },
+    {
+      "jargon": "GaAs",
+      "layman": "Gallium arsenide material"
+    },
+    {
+      "jargon": "Magnetic tunneling junction",
+      "layman": "Layered magnetic structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spin-polarized tunneling",
+      "layman": "Electrons tunneling with spin preference"
+    },
+    {
+      "jargon": "Interface resistivity measurement",
+      "layman": "Measuring resistance at material boundary"
+    },
+    {
+      "jargon": "Surface passivation",
+      "layman": "Protecting surface from oxidation"
+    },
+    {
+      "jargon": "Spin injection",
+      "layman": "Injecting spin-aligned electrons into material"
+    },
+    {
+      "jargon": "Fabrication of hybrid structures",
+      "layman": "Building metal-semiconductor layers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "TMR effect",
+      "layman": "Magnetic resistance change in tunneling"
+    },
+    {
+      "jargon": "Negative GMR-like effect",
+      "layman": "Reverse magnetic resistance shift"
+    },
+    {
+      "jargon": "Interdiffusion",
+      "layman": "Metal and semiconductor mixing at interface"
+    },
+    {
+      "jargon": "Oxidation of semiconductor surface",
+      "layman": "Surface layer forming from oxygen"
+    },
+    {
+      "jargon": "Surface spin polarization of 2.6%",
+      "layman": "2.6% of surface electrons have aligned spins"
+    }
+  ]
+}

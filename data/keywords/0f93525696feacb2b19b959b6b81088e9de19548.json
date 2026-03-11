@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Eukaryotic cells",
+      "layman": "Complex cells with nuclei"
+    },
+    {
+      "jargon": "Autogenous hypotheses",
+      "layman": "Models where cells evolve slowly on their own"
+    },
+    {
+      "jargon": "Symbiogenic hypotheses",
+      "layman": "Models where new cells form from merging organisms"
+    },
+    {
+      "jargon": "Symbiosis",
+      "layman": "Two organisms living together"
+    },
+    {
+      "jargon": "Omics data",
+      "layman": "All types of biological data from cells"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Omics data",
+      "layman": "All types of biological data from cells"
+    },
+    {
+      "jargon": "Large and diverse suites of data",
+      "layman": "Wide range of scientific measurements"
+    },
+    {
+      "jargon": "Inference",
+      "layman": "Drawing conclusions from data"
+    },
+    {
+      "jargon": "Modeling",
+      "layman": "Creating scientific simulations"
+    },
+    {
+      "jargon": "Data analysis",
+      "layman": "Looking for patterns in data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Autogeneous hypotheses are a poor fit",
+      "layman": "Slow-evolution models don't match data"
+    },
+    {
+      "jargon": "Origin of eukaryotic cells occurred in a single symbiosis",
+      "layman": "Complex cells formed from one merger"
+    },
+    {
+      "jargon": "Multiple kinds of data support the ring of life",
+      "layman": "Many types of evidence backs the theory"
+    },
+    {
+      "jargon": "Symbiogenic models are better supported",
+      "layman": "Merging models fit the data better"
+    },
+    {
+      "jargon": "Single symbiosis event",
+      "layman": "One major joining event"
+    }
+  ]
+}

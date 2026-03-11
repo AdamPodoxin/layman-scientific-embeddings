@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "gut microbiota",
-      "layman": "gut bacteria"
+      "jargon": "Gut microbiota",
+      "layman": "Gut bacteria"
     },
     {
-      "jargon": "mammalian species",
-      "layman": "types of mammals"
+      "jargon": "Mammalian species",
+      "layman": "Types of mammals"
     },
     {
-      "jargon": "diet",
-      "layman": "what animals eat"
+      "jargon": "Herbivores",
+      "layman": "Plant-eaters"
     },
     {
-      "jargon": "herbivores",
-      "layman": "plant-eaters"
+      "jargon": "Omnivores",
+      "layman": "Both plant and meat eaters"
     },
     {
-      "jargon": "omnivores",
-      "layman": "mixed eaters"
+      "jargon": "Carnivores",
+      "layman": "Meat-eaters"
     }
   ],
   "methodologies": [
     {
       "jargon": "16S ribosomal RNA analysis",
-      "layman": "bacterial DNA testing"
+      "layman": "DNA test for bacteria"
     },
     {
-      "jargon": "network-based analyses",
-      "layman": "pattern mapping of bacteria"
+      "jargon": "Network-based analyses",
+      "layman": "Pattern-based data analysis"
     },
     {
-      "jargon": "tree-based analyses",
-      "layman": "evolutionary family tree study"
+      "jargon": "Tree-based analyses",
+      "layman": "Family tree analysis"
     },
     {
-      "jargon": "faecal bacterial communities census",
-      "layman": "counting gut bacteria in poop"
+      "jargon": "Faecal bacterial census",
+      "layman": "Counting gut bacteria in poop"
     },
     {
-      "jargon": "phylogeny",
-      "layman": "evolutionary relationships"
+      "jargon": "Inter-generational transfer",
+      "layman": "Passing gut bacteria from parent to child"
     }
   ],
   "outcomes": [
     {
-      "jargon": "microbial community diversity",
-      "layman": "variety of gut bacteria"
+      "jargon": "Microbial community diversity",
+      "layman": "Variety of gut bacteria"
     },
     {
-      "jargon": "co-diversification",
-      "layman": "bacteria and hosts evolve together"
+      "jargon": "Co-diversification",
+      "layman": "Bacteria and hosts evolve together"
     },
     {
-      "jargon": "inter-generational transfer",
-      "layman": "babies get gut bacteria from parents"
+      "jargon": "Similar microbial communities",
+      "layman": "Same bacteria in different animals"
     },
     {
-      "jargon": "similar microbial communities",
-      "layman": "same bacteria in different animals"
+      "jargon": "Diet as determinant",
+      "layman": "Diet shapes gut bacteria"
     },
     {
-      "jargon": "microbial solution to herbivory",
-      "layman": "bacteria help plants-eaters digest food"
+      "jargon": "Microbial solution to herbivory",
+      "layman": "Bacteria help plants-eaters digest food"
     }
   ]
 }

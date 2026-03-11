@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Scheelite",
+      "layman": "Tungsten mineral"
+    },
+    {
+      "jargon": "Skarn-limestone layers",
+      "layman": "Rock layers with tungsten minerals"
+    },
+    {
+      "jargon": "Late Svecokarelian granite",
+      "layman": "Ancient igneous rock intrusion"
+    },
+    {
+      "jargon": "Tungsten deposit",
+      "layman": "Tungsten-rich mineral site"
+    },
+    {
+      "jargon": "Supracrustal rocks",
+      "layman": "Old surface rocks beneath the ground"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Epigenetic model",
+      "layman": "Model for how minerals formed naturally"
+    },
+    {
+      "jargon": "Ore forming solutions",
+      "layman": "Mineral-rich fluids that seep into rocks"
+    },
+    {
+      "jargon": "Magma beneath rocks",
+      "layman": "Hot rock deep underground"
+    },
+    {
+      "jargon": "Geological intrusion",
+      "layman": "Rock pushing into surrounding layers"
+    },
+    {
+      "jargon": "Natural mineralization",
+      "layman": "Process where minerals form in rocks"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Tungsten-rich skarn",
+      "layman": "Skarn rock with high tungsten content"
+    },
+    {
+      "jargon": "Granitic magma",
+      "layman": "Hot granite rock from deep underground"
+    },
+    {
+      "jargon": "Mineralization process",
+      "layman": "Formation of valuable minerals"
+    },
+    {
+      "jargon": "Skarn formation",
+      "layman": "Creation of tungsten-bearing rock"
+    },
+    {
+      "jargon": "Deep-seated fluid flow",
+      "layman": "Fluids moving from deep underground"
+    }
+  ]
+}

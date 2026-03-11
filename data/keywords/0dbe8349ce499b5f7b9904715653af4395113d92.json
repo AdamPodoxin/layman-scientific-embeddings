@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Polynomial ideals",
+      "layman": "Sets of polynomial equations"
+    },
+    {
+      "jargon": "Characteristic sets",
+      "layman": "Simple bases for ideal structures"
+    },
+    {
+      "jargon": "Positive data",
+      "layman": "Observed data points"
+    },
+    {
+      "jargon": "Union of ideals",
+      "layman": "Combined set of equations from two ideals"
+    },
+    {
+      "jargon": "Languages in machine learning",
+      "layman": "Patterns learned from data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hilbert's basis theorem",
+      "layman": "Limiting proof of ideal finiteness"
+    },
+    {
+      "jargon": "Correspondence between ideals and languages",
+      "layman": "Link between math structures and learning patterns"
+    },
+    {
+      "jargon": "Computing characteristic sets",
+      "layman": "Finding simple forms of complex equations"
+    },
+    {
+      "jargon": "Finite basis of ideals",
+      "layman": "Simple list that defines all equations"
+    },
+    {
+      "jargon": "Set-theoretic sum",
+      "layman": "Combining two sets of equations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Identifiability from positive data",
+      "layman": "Ability to reconstruct math from observations"
+    },
+    {
+      "jargon": "Concrete form of characteristic set",
+      "layman": "Clear, usable form of the simplified equations"
+    },
+    {
+      "jargon": "General method for union computation",
+      "layman": "Universal way to combine two ideal sets"
+    },
+    {
+      "jargon": "No previous work on union of languages",
+      "layman": "No prior solution for combining learned patterns"
+    },
+    {
+      "jargon": "New problems in algebra and machine learning",
+      "layman": "New challenges in both math and AI"
+    }
+  ]
+}

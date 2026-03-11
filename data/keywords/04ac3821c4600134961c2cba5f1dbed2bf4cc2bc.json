@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ultracold fermions",
+      "layman": "Very cold particles that act like atoms"
+    },
+    {
+      "jargon": "Optical lattices",
+      "layman": "Laser-created crystal-like traps"
+    },
+    {
+      "jargon": "Fermions",
+      "layman": "A type of particle that follows quantum rules"
+    },
+    {
+      "jargon": "Ferromagnetic phases",
+      "layman": "Magnetic alignment in materials"
+    },
+    {
+      "jargon": "FFLO state",
+      "layman": "Special state of matter with paired particles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Bogoliubov-de Gennes equations",
+      "layman": "Math model for quantum behavior"
+    },
+    {
+      "jargon": "Harmonically trapped",
+      "layman": "Particles held in a balanced, shaped well"
+    },
+    {
+      "jargon": "Solving equations",
+      "layman": "Using math to predict behavior"
+    },
+    {
+      "jargon": "Filling densities",
+      "layman": "How many particles are packed in space"
+    },
+    {
+      "jargon": "Experimental proposals",
+      "layman": "Suggested ways to test the results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Bimodal distribution of ferromagnetism",
+      "layman": "Two peaks in magnetic patterns"
+    },
+    {
+      "jargon": "Superfluid-pairing gap oscillates radially",
+      "layman": "Gap changes in a circular pattern"
+    },
+    {
+      "jargon": "Fulde-Ferrell-Larkin-Ovchinnikov state",
+      "layman": "Unique pairing state in cold atoms"
+    },
+    {
+      "jargon": "Gap oscillation along angular direction",
+      "layman": "Gap changes in a spinning pattern"
+    },
+    {
+      "jargon": "Square lattice-like FFLO state",
+      "layman": "Grid-like pattern of paired particles"
+    }
+  ]
+}

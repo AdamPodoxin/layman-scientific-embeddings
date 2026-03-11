@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "EPICS Program",
+      "layman": "Engineering design program with community service"
+    },
+    {
+      "jargon": "K-12 programs",
+      "layman": "Education for students from kindergarten to 12th grade"
+    },
+    {
+      "jargon": "High school",
+      "layman": "Secondary school"
+    },
+    {
+      "jargon": "Community organizations",
+      "layman": "Local groups working with schools"
+    },
+    {
+      "jargon": "Undergraduate experience",
+      "layman": "College student experience"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Service-learning context",
+      "layman": "Learning through helping community"
+    },
+    {
+      "jargon": "Long-term partnerships",
+      "layman": "Ongoing school-community agreements"
+    },
+    {
+      "jargon": "Prototype development",
+      "layman": "Building a working model"
+    },
+    {
+      "jargon": "Patent filing",
+      "layman": "Protecting an invention legally"
+    },
+    {
+      "jargon": "Idea to Product Competition",
+      "layman": "Showcasing ideas to win prizes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Working prototype",
+      "layman": "Functional early version"
+    },
+    {
+      "jargon": "Provisional patent",
+      "layman": "Temporary patent protection"
+    },
+    {
+      "jargon": "3rd place finish",
+      "layman": "Third best result in competition"
+    },
+    {
+      "jargon": "Curriculum integration",
+      "layman": "Adding to school classes"
+    },
+    {
+      "jargon": "Model modification",
+      "layman": "Adapting the program to fit high school"
+    }
+  ]
+}

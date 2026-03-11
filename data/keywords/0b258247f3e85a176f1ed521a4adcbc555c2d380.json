@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Decision tree",
+      "layman": "Flowchart for choices"
+    },
+    {
+      "jargon": "Alphabetic binary tree",
+      "layman": "Tree that sorts letters with yes/no choices"
+    },
+    {
+      "jargon": "Microprocessor",
+      "layman": "Computer's central processor"
+    },
+    {
+      "jargon": "Switch statement",
+      "layman": "Code that chooses actions based on conditions"
+    },
+    {
+      "jargon": "Huffman code",
+      "layman": "Efficient way to compress data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dynamic programming",
+      "layman": "Step-by-step problem solving"
+    },
+    {
+      "jargon": "Optimal binary decision tree",
+      "layman": "Best possible choice tree"
+    },
+    {
+      "jargon": "Predictive branch capabilities",
+      "layman": "Processor that guesses which path to take"
+    },
+    {
+      "jargon": "Static branch prediction",
+      "layman": "Processor guessing based on fixed rules"
+    },
+    {
+      "jargon": "Dynamic branch prediction",
+      "layman": "Processor learning from past choices"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "O(n\u00b3)-time O(n\u00b2)-space algorithms",
+      "layman": "Fast and memory-efficient solutions"
+    },
+    {
+      "jargon": "Entropy-based performance bounds",
+      "layman": "Theoretical speed limits based on probability"
+    },
+    {
+      "jargon": "Faster in practice",
+      "layman": "Works better in real use"
+    },
+    {
+      "jargon": "Extra complexity for better results",
+      "layman": "More work to get better performance"
+    },
+    {
+      "jargon": "Optimal decision trees",
+      "layman": "Best possible decision paths"
+    }
+  ]
+}

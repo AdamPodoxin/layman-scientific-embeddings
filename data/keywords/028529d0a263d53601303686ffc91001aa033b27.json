@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Construction industry",
+      "layman": "Building sector"
+    },
+    {
+      "jargon": "Market dynamics",
+      "layman": "Market changes over time"
+    },
+    {
+      "jargon": "World Trade Organization",
+      "layman": "Global trade group"
+    },
+    {
+      "jargon": "Institutional regulations",
+      "layman": "Government building rules"
+    },
+    {
+      "jargon": "Construction economics",
+      "layman": "Costs and profits in building"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Market analysis",
+      "layman": "Studying market trends"
+    },
+    {
+      "jargon": "Development analysis",
+      "layman": "Examining growth patterns"
+    },
+    {
+      "jargon": "Global environmental context",
+      "layman": "Looking at global conditions"
+    },
+    {
+      "jargon": "Economic development",
+      "layman": "How economies grow"
+    },
+    {
+      "jargon": "Regulatory assessment",
+      "layman": "Evaluating government rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Rapidly increasing demand",
+      "layman": "Fast rise in building needs"
+    },
+    {
+      "jargon": "Challenging opportunities",
+      "layman": "Difficult but good chances"
+    },
+    {
+      "jargon": "Market potential changes",
+      "layman": "Future market shifts"
+    },
+    {
+      "jargon": "Comprehensive image",
+      "layman": "Full picture of the market"
+    },
+    {
+      "jargon": "Global environment",
+      "layman": "International context"
+    }
+  ]
+}

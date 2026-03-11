@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Russian anthropologists",
+      "layman": "Russian scholars studying human bodies"
+    },
+    {
+      "jargon": "Colonial periphery",
+      "layman": "Outer colonial regions"
+    },
+    {
+      "jargon": "Indigenous population",
+      "layman": "Local native people"
+    },
+    {
+      "jargon": "Colonial medicine",
+      "layman": "Medical care in colonies"
+    },
+    {
+      "jargon": "Tsarist colonialism",
+      "layman": "Russian rule in distant lands"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Western racial theories",
+      "layman": "Belief in racial superiority"
+    },
+    {
+      "jargon": "Acculturation process",
+      "layman": "Cultural blending"
+    },
+    {
+      "jargon": "Public Health practices",
+      "layman": "Health care for communities"
+    },
+    {
+      "jargon": "Medical literature analysis",
+      "layman": "Studying old medical texts"
+    },
+    {
+      "jargon": "Archival research",
+      "layman": "Examining historical records"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Biological superiority",
+      "layman": "Claim that one race is naturally better"
+    },
+    {
+      "jargon": "Vital rights",
+      "layman": "Basic human rights to live"
+    },
+    {
+      "jargon": "Resistance to racial ideology",
+      "layman": "Opposition to racial beliefs"
+    },
+    {
+      "jargon": "Critical reflections",
+      "layman": "Careful thinking about colonial actions"
+    },
+    {
+      "jargon": "Indigenous medicine respect",
+      "layman": "Honoring local healing practices"
+    }
+  ]
+}

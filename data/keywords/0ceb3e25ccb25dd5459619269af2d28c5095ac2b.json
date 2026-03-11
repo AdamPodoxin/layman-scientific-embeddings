@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software organizations",
+      "layman": "Software companies"
+    },
+    {
+      "jargon": "Achievements",
+      "layman": "Successes"
+    },
+    {
+      "jargon": "People",
+      "layman": "People"
+    },
+    {
+      "jargon": "Organizations",
+      "layman": "Groups"
+    },
+    {
+      "jargon": "Psychology research",
+      "layman": "Human behavior studies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Psychology research",
+      "layman": "Human behavior studies"
+    },
+    {
+      "jargon": "Self-assessment",
+      "layman": "Evaluating oneself"
+    },
+    {
+      "jargon": "Performance evaluation",
+      "layman": "Measuring how well someone does their job"
+    },
+    {
+      "jargon": "Awareness",
+      "layman": "Knowing something"
+    },
+    {
+      "jargon": "Causal reasoning",
+      "layman": "Understanding why things happen"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lack of awareness",
+      "layman": "Not realizing they're failing"
+    },
+    {
+      "jargon": "Poor performance",
+      "layman": "Doing things badly"
+    },
+    {
+      "jargon": "Unrealized failure",
+      "layman": "Not knowing they're failing"
+    },
+    {
+      "jargon": "Self-perception bias",
+      "layman": "Thinking you're better than you are"
+    },
+    {
+      "jargon": "Inadequate knowledge",
+      "layman": "Not knowing enough"
+    }
+  ]
+}

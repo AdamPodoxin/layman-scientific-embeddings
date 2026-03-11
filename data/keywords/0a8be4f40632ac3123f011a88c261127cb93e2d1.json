@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "TALE homeodomain proteins",
+      "layman": "Proteins that control development"
+    },
+    {
+      "jargon": "Zygote development",
+      "layman": "Early cell formation"
+    },
+    {
+      "jargon": "Unicellular green alga",
+      "layman": "Single-celled green plant"
+    },
+    {
+      "jargon": "Chlamydomonas",
+      "layman": "Chlamydomonas"
+    },
+    {
+      "jargon": "Diploid body plans",
+      "layman": "Two-set-of-chromosome life forms"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Regulate development",
+      "layman": "Control growth patterns"
+    },
+    {
+      "jargon": "Gene loss and diversification",
+      "layman": "Genes disappearing and changing"
+    },
+    {
+      "jargon": "Evolution",
+      "layman": "Change over time"
+    },
+    {
+      "jargon": "Land plant evolution",
+      "layman": "Change from algae to land plants"
+    },
+    {
+      "jargon": "Control zygote development",
+      "layman": "Manage early cell formation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "TALE gene loss",
+      "layman": "Loss of TALE genes"
+    },
+    {
+      "jargon": "Diversification of TALE genes",
+      "layman": "TALE genes becoming different"
+    },
+    {
+      "jargon": "New diploid body plans",
+      "layman": "New two-chromosome life forms"
+    },
+    {
+      "jargon": "Evolution over 450 million years",
+      "layman": "Change over hundreds of millions of years"
+    },
+    {
+      "jargon": "Implicates gene changes in body plan evolution",
+      "layman": "Shows gene changes led to new body forms"
+    }
+  ]
+}

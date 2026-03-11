@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Railway systems",
+      "layman": "Train networks"
+    },
+    {
+      "jargon": "Carload freight",
+      "layman": "Trucks carrying goods"
+    },
+    {
+      "jargon": "Governance",
+      "layman": "Rules and control systems"
+    },
+    {
+      "jargon": "Ownership models",
+      "layman": "Who owns the rail lines"
+    },
+    {
+      "jargon": "Intermodal activities",
+      "layman": "Trains working with trucks and ships"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Literature review",
+      "layman": "Reviewing existing studies"
+    },
+    {
+      "jargon": "Technical discussion",
+      "layman": "Detailed expert conversation"
+    },
+    {
+      "jargon": "Policy analysis",
+      "layman": "Evaluating government rules"
+    },
+    {
+      "jargon": "Comparative analysis",
+      "layman": "Comparing two systems"
+    },
+    {
+      "jargon": "Critical evaluation",
+      "layman": "Careful judgment and critique"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Balanced arguments",
+      "layman": "Fair comparison"
+    },
+    {
+      "jargon": "Robust conclusions",
+      "layman": "Strong final opinions"
+    },
+    {
+      "jargon": "Contextual differences",
+      "layman": "Key background differences"
+    },
+    {
+      "jargon": "Blocking Problem",
+      "layman": "Trains stuck due to delays"
+    },
+    {
+      "jargon": "Commercial realities",
+      "layman": "Real business challenges"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Master's Degree in Electronics Engineering",
+      "layman": "Advanced electronics engineering program"
+    },
+    {
+      "jargon": "University of La Laguna",
+      "layman": "University of La Laguna"
+    },
+    {
+      "jargon": "Curriculum",
+      "layman": "Course structure"
+    },
+    {
+      "jargon": "Electronics Engineering",
+      "layman": "Engineering of electronic systems"
+    },
+    {
+      "jargon": "Spanish regulations",
+      "layman": "Spanish education rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Proposal submission",
+      "layman": "Submitting a plan for approval"
+    },
+    {
+      "jargon": "Compliance check",
+      "layman": "Ensuring rules are followed"
+    },
+    {
+      "jargon": "Regulatory alignment",
+      "layman": "Matching with official standards"
+    },
+    {
+      "jargon": "Academic program design",
+      "layman": "Designing a course plan"
+    },
+    {
+      "jargon": "Educational framework",
+      "layman": "Structure of teaching and learning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New MDEE program",
+      "layman": "New engineering degree"
+    },
+    {
+      "jargon": "Approval by university bodies",
+      "layman": "University approval"
+    },
+    {
+      "jargon": "Curriculum compliance",
+      "layman": "Meeting required standards"
+    },
+    {
+      "jargon": "Educational offering",
+      "layman": "New course offering"
+    },
+    {
+      "jargon": "Regulatory compliance",
+      "layman": "Following legal rules"
+    }
+  ]
+}

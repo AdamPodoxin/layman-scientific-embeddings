@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "vectorial space",
+      "layman": "vector space"
+    },
+    {
+      "jargon": "bilinear operation",
+      "layman": "bilinear operation"
+    },
+    {
+      "jargon": "tensorial product",
+      "layman": "tensor product"
+    },
+    {
+      "jargon": "rewrite system",
+      "layman": "rewrite system"
+    },
+    {
+      "jargon": "algebraic structure",
+      "layman": "algebraic structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "rewrite system",
+      "layman": "algorithmic rule system"
+    },
+    {
+      "jargon": "algorithm on terms",
+      "layman": "rule-based computation"
+    },
+    {
+      "jargon": "define by propositions",
+      "layman": "define by rules"
+    },
+    {
+      "jargon": "validate operations",
+      "layman": "check operations"
+    },
+    {
+      "jargon": "replace propositions",
+      "layman": "replace rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "validates algebraic structure",
+      "layman": "meets mathematical rules"
+    },
+    {
+      "jargon": "defined by algorithm",
+      "layman": "defined by computation"
+    },
+    {
+      "jargon": "validates vector space",
+      "layman": "meets vector space rules"
+    },
+    {
+      "jargon": "validates bilinear operation",
+      "layman": "meets bilinear rules"
+    },
+    {
+      "jargon": "computational definition",
+      "layman": "defined using computation"
+    }
+  ]
+}

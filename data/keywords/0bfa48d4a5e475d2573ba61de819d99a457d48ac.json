@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Noble gas compounds",
+      "layman": "Uncommon gases bonded together"
+    },
+    {
+      "jargon": "Xe-Xe bond",
+      "layman": "Bond between two xenon atoms"
+    },
+    {
+      "jargon": "HXeXeX",
+      "layman": "Xenon compound with hydrogen and halogen ends"
+    },
+    {
+      "jargon": "RXeXeR'",
+      "layman": "Xenon compound with two halogen ends"
+    },
+    {
+      "jargon": "Fluorine",
+      "layman": "Lightest halogen element"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Computational study",
+      "layman": "Computer simulation"
+    },
+    {
+      "jargon": "Natural Bond Orbital",
+      "layman": "Bond analysis method"
+    },
+    {
+      "jargon": "Atom in Molecules",
+      "layman": "Molecular structure analysis"
+    },
+    {
+      "jargon": "Energy Decomposition Analysis",
+      "layman": "Bond strength breakdown"
+    },
+    {
+      "jargon": "Halogen congener",
+      "layman": "Heavier version of a halogen"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Less stable compound",
+      "layman": "Easier to break apart"
+    },
+    {
+      "jargon": "Experimental observation",
+      "layman": "Seeing it in lab"
+    },
+    {
+      "jargon": "Kinetic protection",
+      "layman": "Stays stable longer"
+    },
+    {
+      "jargon": "Decomposition reaction",
+      "layman": "Breaking apart process"
+    },
+    {
+      "jargon": "Stability towards decomposition",
+      "layman": "Resistance to breaking down"
+    }
+  ]
+}

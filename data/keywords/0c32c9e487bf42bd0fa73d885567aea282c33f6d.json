@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Epistemological factors",
+      "layman": "How we know things"
+    },
+    {
+      "jargon": "Philosophical views",
+      "layman": "Beliefs about truth and knowledge"
+    },
+    {
+      "jargon": "Ideological factors",
+      "layman": "Beliefs shaping values and decisions"
+    },
+    {
+      "jargon": "University structure",
+      "layman": "How universities are organized"
+    },
+    {
+      "jargon": "Celtic Studies",
+      "layman": "Study of Celtic culture and history"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Review developments",
+      "layman": "Look back at changes over time"
+    },
+    {
+      "jargon": "Explore implications",
+      "layman": "See what changes mean"
+    },
+    {
+      "jargon": "Case in point",
+      "layman": "Example to illustrate a point"
+    },
+    {
+      "jargon": "Analyze meaning of knowledge",
+      "layman": "Examine what counts as knowledge"
+    },
+    {
+      "jargon": "Assess academic changes",
+      "layman": "Check how education is changing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Survival of traditional humanities",
+      "layman": "Will old humanities last?"
+    },
+    {
+      "jargon": "Changing technologies",
+      "layman": "New tech affecting education"
+    },
+    {
+      "jargon": "Shaping views of knowledge",
+      "layman": "Changing how we see knowledge"
+    },
+    {
+      "jargon": "Implications for academe",
+      "layman": "Effects on universities"
+    },
+    {
+      "jargon": "New century university",
+      "layman": "University in the 21st century"
+    }
+  ]
+}

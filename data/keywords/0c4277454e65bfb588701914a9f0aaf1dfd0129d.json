@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Adequate subgroups",
+      "layman": "Special types of group substructures"
+    },
+    {
+      "jargon": "Big subgroups",
+      "layman": "Large group subparts"
+    },
+    {
+      "jargon": "Absolutely irreducible representations",
+      "layman": "Simplest group action forms"
+    },
+    {
+      "jargon": "SL_2(p^a)",
+      "layman": "Special group of numbers modulo prime powers"
+    },
+    {
+      "jargon": "Classical groups",
+      "layman": "Standard types of mathematical groups"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Automorphy lifting theorems",
+      "layman": "Rules linking group actions to symmetry"
+    },
+    {
+      "jargon": "Modified definition of adequacy",
+      "layman": "Updated rule for adequacy"
+    },
+    {
+      "jargon": "Dimension analysis",
+      "layman": "Study of size in mathematical spaces"
+    },
+    {
+      "jargon": "Field of definition",
+      "layman": "Base number system used in math"
+    },
+    {
+      "jargon": "Classification of modules",
+      "layman": "Categorizing mathematical structures"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Almost all irreducible representations are adequate",
+      "layman": "Most simple group forms are adequate"
+    },
+    {
+      "jargon": "Complete reducibility",
+      "layman": "Can be broken into simple parts"
+    },
+    {
+      "jargon": "Dimension less than 2p-2",
+      "layman": "Size smaller than a certain limit"
+    },
+    {
+      "jargon": "Prove adequacy for SL_2(p^a)",
+      "layman": "Show adequacy for special group"
+    },
+    {
+      "jargon": "Answer Serre's question",
+      "layman": "Solve a long-standing math problem"
+    }
+  ]
+}

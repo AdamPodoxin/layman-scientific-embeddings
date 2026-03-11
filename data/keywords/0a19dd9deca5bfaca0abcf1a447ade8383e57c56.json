@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "rheumatoid arthritis",
+      "layman": "autoimmune joint disease"
+    },
+    {
+      "jargon": "comorbidities",
+      "layman": "other health conditions"
+    },
+    {
+      "jargon": "cardiovascular disease",
+      "layman": "heart disease"
+    },
+    {
+      "jargon": "hypertension",
+      "layman": "high blood pressure"
+    },
+    {
+      "jargon": "diabetes mellitus",
+      "layman": "high blood sugar disease"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "pre-structured pro forma",
+      "layman": "standardized questionnaire"
+    },
+    {
+      "jargon": "multi-center study",
+      "layman": "study across multiple hospitals"
+    },
+    {
+      "jargon": "clinical research associates",
+      "layman": "trained staff collecting data"
+    },
+    {
+      "jargon": "interview and chart verification",
+      "layman": "talk to patients and check medical records"
+    },
+    {
+      "jargon": "demographic factors",
+      "layman": "age, gender, and background details"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "prevalence of comorbidities",
+      "layman": "how common other diseases are"
+    },
+    {
+      "jargon": "mean age",
+      "layman": "average age of patients"
+    },
+    {
+      "jargon": "male-to-female ratio",
+      "layman": "ratio of men to women"
+    },
+    {
+      "jargon": "hypercholesterolemia",
+      "layman": "high cholesterol"
+    },
+    {
+      "jargon": "depression",
+      "layman": "feeling sad or hopeless"
+    }
+  ]
+}

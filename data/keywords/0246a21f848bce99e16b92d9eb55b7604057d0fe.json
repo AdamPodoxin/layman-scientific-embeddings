@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Atomism",
+      "layman": "Theory of indivisible particles"
+    },
+    {
+      "jargon": "Indivisible lines",
+      "layman": "Lines with no smaller parts"
+    },
+    {
+      "jargon": "Incommensurable lines",
+      "layman": "Lines that can't be measured with the same unit"
+    },
+    {
+      "jargon": "Mathematical sciences",
+      "layman": "Mathematical principles and proofs"
+    },
+    {
+      "jargon": "Perceptual phenomena",
+      "layman": "Things we observe through senses"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "De Linas Insecabilibus",
+      "layman": "Treatise on indivisible lines"
+    },
+    {
+      "jargon": "Mathematical proof",
+      "layman": "Logical argument based on math"
+    },
+    {
+      "jargon": "Discussion in the books about time and motion",
+      "layman": "Analysis of time and movement in texts"
+    },
+    {
+      "jargon": "Contradiction analysis",
+      "layman": "Checking for logical conflicts"
+    },
+    {
+      "jargon": "Perceptual observation",
+      "layman": "Observing what we see and feel"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Contradiction with mathematical sciences",
+      "layman": "Conflict with math principles"
+    },
+    {
+      "jargon": "Firmly established conclusion",
+      "layman": "Well-known and proven result"
+    },
+    {
+      "jargon": "Conflict between atomism and perceptual phenomena",
+      "layman": "Disagreement between theory and senses"
+    },
+    {
+      "jargon": "Reputable beliefs",
+      "layman": "Accepted and trusted views"
+    },
+    {
+      "jargon": "Incommensurable lines",
+      "layman": "Lines that can't be measured equally"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Polyelectrolytes",
+      "layman": "Charged polymers"
+    },
+    {
+      "jargon": "Alkaline hydrolysis",
+      "layman": "Base-driven breakdown"
+    },
+    {
+      "jargon": "Esters",
+      "layman": "Organic compounds with carbonyl groups"
+    },
+    {
+      "jargon": "p-Nitrophenyl acetate",
+      "layman": "Chemical used to test reactions"
+    },
+    {
+      "jargon": "4-Acetoxy-3-nitrobenzoic acid",
+      "layman": "Specific organic acid compound"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Saturation kinetics",
+      "layman": "Reaction rate at maximum binding"
+    },
+    {
+      "jargon": "Ion\u2013molecule reactions",
+      "layman": "Charges attract and react"
+    },
+    {
+      "jargon": "Ion\u2013ion reactions",
+      "layman": "Charges interact directly"
+    },
+    {
+      "jargon": "Hydrophobic interactions",
+      "layman": "Non-polar parts stick together"
+    },
+    {
+      "jargon": "Equilibrium association constant",
+      "layman": "Strength of bond at balance"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Acceleration of reactions",
+      "layman": "Reactions speed up"
+    },
+    {
+      "jargon": "Rate coefficients",
+      "layman": "How fast reactions happen"
+    },
+    {
+      "jargon": "Catalytic contributions",
+      "layman": "How much each factor speeds up reaction"
+    },
+    {
+      "jargon": "Hydrophobic character",
+      "layman": "Lack of water attraction"
+    },
+    {
+      "jargon": "Electrostatic interactions",
+      "layman": "Charge-based attractions"
+    }
+  ]
+}

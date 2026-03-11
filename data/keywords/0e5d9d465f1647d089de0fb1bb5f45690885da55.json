@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pipeline graphs",
+      "layman": "Pipeline graphs"
+    },
+    {
+      "jargon": "Heterogeneous platforms",
+      "layman": "Different types of processors"
+    },
+    {
+      "jargon": "Processors",
+      "layman": "Computing units"
+    },
+    {
+      "jargon": "Replication",
+      "layman": "Copying tasks"
+    },
+    {
+      "jargon": "Failure",
+      "layman": "Processor breakdown"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Bi-criteria mapping",
+      "layman": "Balancing two goals at once"
+    },
+    {
+      "jargon": "Mapping applications",
+      "layman": "Assigning tasks to devices"
+    },
+    {
+      "jargon": "Optimizing latency",
+      "layman": "Reducing response time"
+    },
+    {
+      "jargon": "Replicating computations",
+      "layman": "Running tasks multiple times"
+    },
+    {
+      "jargon": "Polynomial algorithms",
+      "layman": "Fast, simple solutions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Latency",
+      "layman": "Response time"
+    },
+    {
+      "jargon": "Reliability",
+      "layman": "Success chance"
+    },
+    {
+      "jargon": "NP-hard problem",
+      "layman": "Very hard to solve"
+    },
+    {
+      "jargon": "Fully homogeneous platforms",
+      "layman": "All processors same"
+    },
+    {
+      "jargon": "Heterogeneity",
+      "layman": "Variety in system parts"
+    }
+  ]
+}

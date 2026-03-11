@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Araygnement of Paris",
+      "layman": "Play about Paris"
+    },
+    {
+      "jargon": "Elizabethan court culture",
+      "layman": "Court life in Elizabethan England"
+    },
+    {
+      "jargon": "Pastoral setting",
+      "layman": "Rural, countryside setting"
+    },
+    {
+      "jargon": "Royal sentiments",
+      "layman": "Feelings about royalty"
+    },
+    {
+      "jargon": "Power relationships",
+      "layman": "Who has authority over whom"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dramaturgy",
+      "layman": "Stage design and structure"
+    },
+    {
+      "jargon": "Interpretation",
+      "layman": "Understanding a text"
+    },
+    {
+      "jargon": "Symbolic forms",
+      "layman": "Repeating patterns in meaning"
+    },
+    {
+      "jargon": "Contextual analysis",
+      "layman": "Studying how setting affects meaning"
+    },
+    {
+      "jargon": "Ideological complexity",
+      "layman": "Multiple conflicting beliefs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hyperbolic royal entertainment",
+      "layman": "Exaggerated royal shows"
+    },
+    {
+      "jargon": "Humble pastoral retirement",
+      "layman": "Simple life in the countryside"
+    },
+    {
+      "jargon": "Glorification of power",
+      "layman": "Celebrating royal power"
+    },
+    {
+      "jargon": "Repudiation of ambition",
+      "layman": "Rejecting the desire for power"
+    },
+    {
+      "jargon": "Recreation of culture",
+      "layman": "Imitating real society"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "T2-symmetric spacetimes",
+      "layman": "Spacetimes with repeating two-dimensional symmetry"
+    },
+    {
+      "jargon": "Cosmological constant",
+      "layman": "Energy of empty space"
+    },
+    {
+      "jargon": "Matter",
+      "layman": "Physical substances"
+    },
+    {
+      "jargon": "Maximal Cauchy development",
+      "layman": "Largest possible spacetime solution from initial conditions"
+    },
+    {
+      "jargon": "Area element of group orbits",
+      "layman": "Surface size of repeating patterns in spacetime"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Strong cosmic censorship",
+      "layman": "Rule about singularities in spacetime"
+    },
+    {
+      "jargon": "Collisionless matter",
+      "layman": "Matter that doesn't collide"
+    },
+    {
+      "jargon": "Vacuum case",
+      "layman": "Empty spacetime scenario"
+    },
+    {
+      "jargon": "Proof of the C2 formulation",
+      "layman": "Mathematical confirmation of a version of the conjecture"
+    },
+    {
+      "jargon": "Past boundary",
+      "layman": "Beginning of time in a spacetime model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Conjecture holds",
+      "layman": "The rule is true"
+    },
+    {
+      "jargon": "Area element does not vanish",
+      "layman": "Surface size remains non-zero"
+    },
+    {
+      "jargon": "Positive cosmological constant",
+      "layman": "Space has inherent energy"
+    },
+    {
+      "jargon": "Spacetime singularities",
+      "layman": "Points where physics breaks down"
+    },
+    {
+      "jargon": "Maximal Cauchy development",
+      "layman": "Full possible evolution of spacetime"
+    }
+  ]
+}

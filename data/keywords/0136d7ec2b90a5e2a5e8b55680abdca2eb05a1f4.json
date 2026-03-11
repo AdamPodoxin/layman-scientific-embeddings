@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Charlie Chaplin",
+      "layman": "Charlie Chaplin"
+    },
+    {
+      "jargon": "The Tramp",
+      "layman": "Chaplin's iconic character"
+    },
+    {
+      "jargon": "Mack Sennett shorts",
+      "layman": "Early comedy films"
+    },
+    {
+      "jargon": "Modern Times",
+      "layman": "Chaplin's major film"
+    },
+    {
+      "jargon": "Monsieur Verdoux",
+      "layman": "Chaplin's serial killer role"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Film analysis",
+      "layman": "Studying movies"
+    },
+    {
+      "jargon": "Social and political interpretation",
+      "layman": "Reading films through society and politics"
+    },
+    {
+      "jargon": "Audience reception",
+      "layman": "How fans responded to films"
+    },
+    {
+      "jargon": "Iconic representation",
+      "layman": "How a figure became a symbol"
+    },
+    {
+      "jargon": "Historical context",
+      "layman": "Understanding the time period"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Defiant spirit of freedom",
+      "layman": "Strong resistance to control"
+    },
+    {
+      "jargon": "Paradoxes",
+      "layman": "Contradictory traits"
+    },
+    {
+      "jargon": "Social and political ideas",
+      "layman": "Views on society and power"
+    },
+    {
+      "jargon": "Exile",
+      "layman": "Living abroad due to conflict"
+    },
+    {
+      "jargon": "Audience appeal",
+      "layman": "Why people loved the films"
+    }
+  ]
+}

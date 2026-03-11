@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Inorganic esters",
+      "layman": "Chemical compounds made from acids and alcohols"
+    },
+    {
+      "jargon": "Weak carboxylic acids",
+      "layman": "Acids that don't fully dissolve in water"
+    },
+    {
+      "jargon": "C\u2014O bond",
+      "layman": "Chemical link between carbon and oxygen"
+    },
+    {
+      "jargon": "Heavy oxygen isotope (18O)",
+      "layman": "Rare form of oxygen with extra weight"
+    },
+    {
+      "jargon": "Hydrolysis",
+      "layman": "Breaking down with water"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hydrolysis of esters",
+      "layman": "Breaking ester bonds with water"
+    },
+    {
+      "jargon": "Excess 18O water",
+      "layman": "Water with extra heavy oxygen added"
+    },
+    {
+      "jargon": "Isotopic labeling",
+      "layman": "Using special atoms to track reactions"
+    },
+    {
+      "jargon": "Break at C\u2014O bond",
+      "layman": "Bond between carbon and oxygen breaks"
+    },
+    {
+      "jargon": "Direct observation",
+      "layman": "Clear, direct proof of what happens"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Break occurs at C\u2014O bond",
+      "layman": "Bond breaks at carbon-oxygen link"
+    },
+    {
+      "jargon": "Definitely shown",
+      "layman": "Proven with certainty"
+    },
+    {
+      "jargon": "Very direct evidence",
+      "layman": "Clear and unambiguous proof"
+    },
+    {
+      "jargon": "Hydrolysis mechanism",
+      "layman": "How the reaction actually happens"
+    },
+    {
+      "jargon": "Ester hydrolysis pathway",
+      "layman": "Route water takes to break esters"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "nanocrystalline Fe73Si15B7.2Cu1Nb3 alloy",
+      "layman": "Tiny crystal metal mixture"
+    },
+    {
+      "jargon": "soft magnetic compact materials",
+      "layman": "Magnetic materials that easily align with fields"
+    },
+    {
+      "jargon": "toroid-shaped samples",
+      "layman": "Doughnut-shaped magnetic pieces"
+    },
+    {
+      "jargon": "resin binder",
+      "layman": "Plastic glue for holding powder together"
+    },
+    {
+      "jargon": "porosity",
+      "layman": "Air spaces in material"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "powder metallurgy methods",
+      "layman": "Making solid parts from metal powder"
+    },
+    {
+      "jargon": "warm-pressing",
+      "layman": "Pressing powder with heat"
+    },
+    {
+      "jargon": "compaction parameters",
+      "layman": "Pressure settings during pressing"
+    },
+    {
+      "jargon": "resin content",
+      "layman": "Amount of glue added"
+    },
+    {
+      "jargon": "ferromagnetic filling factor",
+      "layman": "How much magnetic material is packed in"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "minimum porosity",
+      "layman": "Fewest air holes"
+    },
+    {
+      "jargon": "maximum FFF",
+      "layman": "Best magnetic material filling"
+    },
+    {
+      "jargon": "density of samples",
+      "layman": "How tightly packed the material is"
+    },
+    {
+      "jargon": "optimal experimental conditions",
+      "layman": "Best settings for results"
+    },
+    {
+      "jargon": "ready to use",
+      "layman": "No extra steps needed"
+    }
+  ]
+}

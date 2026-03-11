@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Genome sequencing",
+      "layman": "Reading DNA instructions"
+    },
+    {
+      "jargon": "Short reads",
+      "layman": "Small DNA fragments"
+    },
+    {
+      "jargon": "Reference genome",
+      "layman": "Standard DNA blueprint"
+    },
+    {
+      "jargon": "FPGA",
+      "layman": "Specialized hardware chip"
+    },
+    {
+      "jargon": "Hardware accelerators",
+      "layman": "Faster computing devices"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Map-Reduce framework",
+      "layman": "Divide-and-conquer computing"
+    },
+    {
+      "jargon": "Preprocessing reference genomes",
+      "layman": "Preparing DNA template"
+    },
+    {
+      "jargon": "Iterative jobs",
+      "layman": "Repeated processing steps"
+    },
+    {
+      "jargon": "Read-mapping algorithm",
+      "layman": "Matching DNA fragments"
+    },
+    {
+      "jargon": "Theoretical speedup analysis",
+      "layman": "Predicting faster performance"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shorten response interval",
+      "layman": "Faster results"
+    },
+    {
+      "jargon": "Expedite the task",
+      "layman": "Speed up the process"
+    },
+    {
+      "jargon": "Reduce average waiting time",
+      "layman": "Less waiting time"
+    },
+    {
+      "jargon": "Efficient potential",
+      "layman": "Good performance promise"
+    },
+    {
+      "jargon": "Large scale short reads applications",
+      "layman": "Big DNA data use cases"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Minerals",
+      "layman": "Rock components"
+    },
+    {
+      "jargon": "E'mei mantle plume",
+      "layman": "Hot underground rising column"
+    },
+    {
+      "jargon": "Carboniferous sedimentary bauxite",
+      "layman": "Old rock with aluminum layers"
+    },
+    {
+      "jargon": "Basalt cooper",
+      "layman": "Basalt rock with copper"
+    },
+    {
+      "jargon": "Manganese bearing siderite",
+      "layman": "Rock with manganese and iron carbonate"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Crust and mantle interaction stage",
+      "layman": "Earth's crust and deep mantle touching"
+    },
+    {
+      "jargon": "Geothermal sedimentary process",
+      "layman": "Hot water forming rocks underground"
+    },
+    {
+      "jargon": "Anatexis of the crust",
+      "layman": "Crust melting due to heat"
+    },
+    {
+      "jargon": "Mantle heat flow",
+      "layman": "Heat rising from deep Earth"
+    },
+    {
+      "jargon": "Geologic responses",
+      "layman": "Earth's reactions to changes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Crustal uplift",
+      "layman": "Earth's surface rising"
+    },
+    {
+      "jargon": "Middle-low temperature geothermal deposit",
+      "layman": "Hot water deposits at moderate temps"
+    },
+    {
+      "jargon": "Volcanosedimentary pyrites",
+      "layman": "Pyrite formed from volcanic and sediment layers"
+    },
+    {
+      "jargon": "Mantle plume evolution",
+      "layman": "Change over time of the hot underground column"
+    },
+    {
+      "jargon": "Activation of geothermal deposits",
+      "layman": "Hot deposits becoming active later"
+    }
+  ]
+}

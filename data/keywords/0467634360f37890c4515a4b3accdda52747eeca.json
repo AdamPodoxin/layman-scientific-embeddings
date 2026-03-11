@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Stone algebra",
+      "layman": "Algebra based on logical structures"
+    },
+    {
+      "jargon": "Relation algebra",
+      "layman": "System for handling relationships between things"
+    },
+    {
+      "jargon": "Weighted graphs",
+      "layman": "Graphs with numbers on edges"
+    },
+    {
+      "jargon": "Extended real numbers",
+      "layman": "Numbers including infinity and negative infinity"
+    },
+    {
+      "jargon": "Matrices",
+      "layman": "Tables of numbers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Generalisation",
+      "layman": "Extending a rule or system"
+    },
+    {
+      "jargon": "Formal verification",
+      "layman": "Mathematically proving correctness"
+    },
+    {
+      "jargon": "Matrix representation",
+      "layman": "Using tables to show connections"
+    },
+    {
+      "jargon": "Theorems generalisation",
+      "layman": "Applying rules to broader cases"
+    },
+    {
+      "jargon": "Isabelle/HOL",
+      "layman": "Computer system for math proofs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "No or small changes",
+      "layman": "Minimal adjustments needed"
+    },
+    {
+      "jargon": "Relational concepts apply",
+      "layman": "Relationship rules work"
+    },
+    {
+      "jargon": "All results verified",
+      "layman": "All findings confirmed by computer"
+    },
+    {
+      "jargon": "Generalised theorems",
+      "layman": "Rules work in broader cases"
+    },
+    {
+      "jargon": "Weighted graphs as instance",
+      "layman": "Weighted graphs are a real example"
+    }
+  ]
+}

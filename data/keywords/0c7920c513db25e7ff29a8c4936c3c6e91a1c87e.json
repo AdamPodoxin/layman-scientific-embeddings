@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "patent thicket",
+      "layman": "Tangle of patents"
+    },
+    {
+      "jargon": "licensing agreements",
+      "layman": "Patent-sharing deals"
+    },
+    {
+      "jargon": "hold-up problems",
+      "layman": "Firms getting stuck in legal delays"
+    },
+    {
+      "jargon": "firms",
+      "layman": "Companies"
+    },
+    {
+      "jargon": "technology space",
+      "layman": "Area of tech innovation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "descriptive results",
+      "layman": "Summary of data trends"
+    },
+    {
+      "jargon": "empirical results",
+      "layman": "Findings from real data"
+    },
+    {
+      "jargon": "ex ante licensing",
+      "layman": "Licensing before technology is built"
+    },
+    {
+      "jargon": "ex post licensing",
+      "layman": "Licensing after technology is built"
+    },
+    {
+      "jargon": "market share",
+      "layman": "Size of a company's market presence"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "inverse U-shape",
+      "layman": "Rise then fall pattern"
+    },
+    {
+      "jargon": "degree of blocking",
+      "layman": "How much firms block each other"
+    },
+    {
+      "jargon": "transaction costs",
+      "layman": "Costs of making deals"
+    },
+    {
+      "jargon": "property rights fragmentation",
+      "layman": "Patents getting more scattered"
+    },
+    {
+      "jargon": "research and development investments",
+      "layman": "Money spent on innovation"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Buntsandstein",
+      "layman": "Lower Triassic sandstone"
+    },
+    {
+      "jargon": "illite",
+      "layman": "Mineral formed by heat and pressure"
+    },
+    {
+      "jargon": "crystalline basement",
+      "layman": "Deep, solid rock foundation"
+    },
+    {
+      "jargon": "Rhine Graben",
+      "layman": "Tectonic depression in Europe"
+    },
+    {
+      "jargon": "Vosges Mountains",
+      "layman": "Mountain range in France"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "K-Ar dating",
+      "layman": "Dating rocks by potassium and argon"
+    },
+    {
+      "jargon": "mineralogical study",
+      "layman": "Examining rock minerals"
+    },
+    {
+      "jargon": "morphological analysis",
+      "layman": "Studying rock shapes"
+    },
+    {
+      "jargon": "oxygen isotope analysis",
+      "layman": "Measuring oxygen changes in rocks"
+    },
+    {
+      "jargon": "fluid migration",
+      "layman": "Movement of fluids through rock"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "diagenetic illite formation",
+      "layman": "Illite formed during rock changes"
+    },
+    {
+      "jargon": "tectonic activity",
+      "layman": "Earth movement causing stress"
+    },
+    {
+      "jargon": "illite precipitation",
+      "layman": "Illite mineral forming in rock"
+    },
+    {
+      "jargon": "crystallization episodes",
+      "layman": "Periods when minerals formed"
+    },
+    {
+      "jargon": "fluid circulation",
+      "layman": "Flow of fluids through rock layers"
+    }
+  ]
+}

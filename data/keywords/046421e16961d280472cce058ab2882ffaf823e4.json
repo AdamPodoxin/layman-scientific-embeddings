@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Topographical art",
+      "layman": "Detailed landscape drawings"
+    },
+    {
+      "jargon": "Amateur artists",
+      "layman": "Non-professional artists"
+    },
+    {
+      "jargon": "Ligurian landscape",
+      "layman": "Landscape of Liguria, Italy"
+    },
+    {
+      "jargon": "Historical cartography",
+      "layman": "Old maps from the past"
+    },
+    {
+      "jargon": "Foreign tourists",
+      "layman": "Travelers from outside"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Multidisciplinary approach",
+      "layman": "Using many different fields of study"
+    },
+    {
+      "jargon": "Field surveys",
+      "layman": "On-site visits and observations"
+    },
+    {
+      "jargon": "Oral history",
+      "layman": "Interviews with people's memories"
+    },
+    {
+      "jargon": "Written documents",
+      "layman": "Old records and papers"
+    },
+    {
+      "jargon": "Precise location determination",
+      "layman": "Finding exact places on a map"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Landscape perception",
+      "layman": "How people saw the landscape"
+    },
+    {
+      "jargon": "Cultural context",
+      "layman": "The background of the time and place"
+    },
+    {
+      "jargon": "Interrogation of drawings",
+      "layman": "Analyzing drawings deeply"
+    },
+    {
+      "jargon": "Value addition",
+      "layman": "Adding more meaning to the study"
+    },
+    {
+      "jargon": "Understanding of place",
+      "layman": "Better grasp of the location's meaning"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Wave function",
+      "layman": "Probability wave"
+    },
+    {
+      "jargon": "Complex trajectory",
+      "layman": "Path in complex space"
+    },
+    {
+      "jargon": "Tachyon",
+      "layman": "Faster-than-light particle"
+    },
+    {
+      "jargon": "Vortex in complex space",
+      "layman": "Interaction point in quantum space"
+    },
+    {
+      "jargon": "Quantum vacuum",
+      "layman": "Empty space with quantum activity"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Fourier transform",
+      "layman": "Math tool to convert space to wave data"
+    },
+    {
+      "jargon": "Schr\u00f6dinger equation",
+      "layman": "Equation that describes quantum motion"
+    },
+    {
+      "jargon": "Imaginary diffusion",
+      "layman": "Quantum spreading with imaginary factor"
+    },
+    {
+      "jargon": "Uncertainty relation",
+      "layman": "Limit on knowing position and speed"
+    },
+    {
+      "jargon": "Complex conjugate trajectory",
+      "layman": "Mirror path of a quantum path"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Probability density P = \u03a8\u03a8*",
+      "layman": "Chance of finding a particle"
+    },
+    {
+      "jargon": "Exponential decay in time",
+      "layman": "Wave fades over time"
+    },
+    {
+      "jargon": "No potential energy (U=0)",
+      "layman": "No external forces acting"
+    },
+    {
+      "jargon": "Heisenberg uncertainty",
+      "layman": "Can't know both position and speed exactly"
+    },
+    {
+      "jargon": "Solution \u03a8(t,k) = \u03a8\u2080(k) exp{\u2212iqk\u00b2t}",
+      "layman": "Wave evolves over time in a specific way"
+    }
+  ]
+}

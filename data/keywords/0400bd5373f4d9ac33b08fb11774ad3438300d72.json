@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sn(IV)--Sb--O system",
+      "layman": "Tin-antimony-oxygen mixture"
+    },
+    {
+      "jargon": "doped tin dioxide powder",
+      "layman": "Tin dioxide with added antimony"
+    },
+    {
+      "jargon": "resistive thick films",
+      "layman": "Resistor-like thin layers"
+    },
+    {
+      "jargon": "conducting phase",
+      "layman": "Electrical-conducting material"
+    },
+    {
+      "jargon": "ceramic substrate",
+      "layman": "Hard base material for films"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "calcining",
+      "layman": "Heating to remove moisture or form compounds"
+    },
+    {
+      "jargon": "heterogeneous oxidation",
+      "layman": "Oxidation in different phases"
+    },
+    {
+      "jargon": "homogeneous oxidation",
+      "layman": "Even oxidation throughout mixture"
+    },
+    {
+      "jargon": "laser granulometric analysis",
+      "layman": "Measuring particle sizes with laser"
+    },
+    {
+      "jargon": "mercury porometry",
+      "layman": "Measuring surface area with mercury"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "resistance of resistors",
+      "layman": "How much electricity the resistor blocks"
+    },
+    {
+      "jargon": "temperature coefficient of resistance (TCR)",
+      "layman": "How resistance changes with temperature"
+    },
+    {
+      "jargon": "solid solutions",
+      "layman": "Mixed materials with uniform structure"
+    },
+    {
+      "jargon": "optimum electrical properties",
+      "layman": "Best performance for resistance"
+    },
+    {
+      "jargon": "valence of antimony",
+      "layman": "Antimony's charge state in the material"
+    }
+  ]
+}

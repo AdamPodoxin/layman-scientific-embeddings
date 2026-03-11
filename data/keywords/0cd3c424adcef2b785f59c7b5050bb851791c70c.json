@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Schwarzschild metric",
+      "layman": "Black hole spacetime model"
+    },
+    {
+      "jargon": "Test particles",
+      "layman": "Tiny objects in space"
+    },
+    {
+      "jargon": "Cosmological term",
+      "layman": "Space expansion influence"
+    },
+    {
+      "jargon": "Static spherical source",
+      "layman": "Stationary, round mass"
+    },
+    {
+      "jargon": "Empty space",
+      "layman": "Vacuum"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Modified action",
+      "layman": "Altered gravity rule"
+    },
+    {
+      "jargon": "Compute field",
+      "layman": "Calculate gravitational effect"
+    },
+    {
+      "jargon": "Static potential",
+      "layman": "Stable force field"
+    },
+    {
+      "jargon": "Scale-dependent term",
+      "layman": "Effect that changes with size"
+    },
+    {
+      "jargon": "Pioneers data",
+      "layman": "Spacecraft movement records"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Non-Newtonian component",
+      "layman": "Small gravity deviation"
+    },
+    {
+      "jargon": "Tiny correction",
+      "layman": "Minor change in force"
+    },
+    {
+      "jargon": "Depends on size",
+      "layman": "Changes with particle size"
+    },
+    {
+      "jargon": "Possible relevance",
+      "layman": "May explain observed data"
+    },
+    {
+      "jargon": "Recent Pioneers data",
+      "layman": "Old spacecraft motion clues"
+    }
+  ]
+}

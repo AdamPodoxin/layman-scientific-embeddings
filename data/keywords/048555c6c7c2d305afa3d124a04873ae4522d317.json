@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Self-help vernacular architectural system",
+      "layman": "Local building style using community knowledge"
+    },
+    {
+      "jargon": "Plantation-dominated land tenure system",
+      "layman": "Land system based on large farms"
+    },
+    {
+      "jargon": "Movable chattel housing",
+      "layman": "Housing that can be moved easily"
+    },
+    {
+      "jargon": "Urban housing",
+      "layman": "Housing in cities"
+    },
+    {
+      "jargon": "Bridgetown metropolitan",
+      "layman": "City area of Barbados"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Socio-geographical analysis",
+      "layman": "Study of social and location patterns"
+    },
+    {
+      "jargon": "Comprehensive analysis",
+      "layman": "Detailed investigation"
+    },
+    {
+      "jargon": "Historical forces",
+      "layman": "Past events shaping today"
+    },
+    {
+      "jargon": "Evolution",
+      "layman": "Change over time"
+    },
+    {
+      "jargon": "Land tenure system",
+      "layman": "How land is owned and used"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Marked variations in urban housing quality",
+      "layman": "Big differences in home quality"
+    },
+    {
+      "jargon": "Insecurity of tenure",
+      "layman": "Fear of losing land or home"
+    },
+    {
+      "jargon": "Housing improvement efforts",
+      "layman": "Attempts to upgrade homes"
+    },
+    {
+      "jargon": "Distinctive form of housing",
+      "layman": "Unique type of home"
+    },
+    {
+      "jargon": "First ever comprehensive analysis",
+      "layman": "First full study of housing conditions"
+    }
+  ]
+}

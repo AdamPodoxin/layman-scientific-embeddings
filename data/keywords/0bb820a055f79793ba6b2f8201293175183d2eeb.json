@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Intuitionistic focused sequent calculus",
+      "layman": "Logical system for reasoning with resources"
+    },
+    {
+      "jargon": "Non-idempotent intersection types",
+      "layman": "Type system that tracks shared properties"
+    },
+    {
+      "jargon": "Explicit substitutions",
+      "layman": "Substitution mechanism in logic systems"
+    },
+    {
+      "jargon": "Strongly normalizing terms",
+      "layman": "Terms that always simplify to a fixed point"
+    },
+    {
+      "jargon": "Typing derivations",
+      "layman": "Steps showing how a term fits a type"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Resource aware semantics",
+      "layman": "Logic that tracks resource usage"
+    },
+    {
+      "jargon": "Reduction rules",
+      "layman": "Rules for simplifying expressions"
+    },
+    {
+      "jargon": "Substitution at a distance",
+      "layman": "Remote substitution method"
+    },
+    {
+      "jargon": "Combinatorial arguments",
+      "layman": "Mathematical counting proofs"
+    },
+    {
+      "jargon": "Measure decreasingness",
+      "layman": "Proof by showing things get smaller"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strong normalization characterization",
+      "layman": "Proof that terms always end"
+    },
+    {
+      "jargon": "Typability",
+      "layman": "Ability to assign a type to a term"
+    },
+    {
+      "jargon": "Projection of explicit substitutions",
+      "layman": "Simplifying logic by removing substitutions"
+    },
+    {
+      "jargon": "Size of typing derivations",
+      "layman": "Length of type proof steps"
+    },
+    {
+      "jargon": "Resource-aware interpretation",
+      "layman": "Logic that respects resource limits"
+    }
+  ]
+}

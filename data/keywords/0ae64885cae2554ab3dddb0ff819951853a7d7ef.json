@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social thing",
+      "layman": "Social thing"
+    },
+    {
+      "jargon": "Health professional formation",
+      "layman": "Training of health workers"
+    },
+    {
+      "jargon": "Curriculum",
+      "layman": "Course structure"
+    },
+    {
+      "jargon": "Social processes",
+      "layman": "Social interactions and patterns"
+    },
+    {
+      "jargon": "Values",
+      "layman": "Beliefs that matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conception",
+      "layman": "Understanding or view"
+    },
+    {
+      "jargon": "Integration",
+      "layman": "Putting together"
+    },
+    {
+      "jargon": "Analysis",
+      "layman": "Breaking down to study"
+    },
+    {
+      "jargon": "Evaluation",
+      "layman": "Checking how well it works"
+    },
+    {
+      "jargon": "Determination",
+      "layman": "Finding out what is true"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Role of social aspects",
+      "layman": "Importance of social factors"
+    },
+    {
+      "jargon": "Contribution of social thing",
+      "layman": "Value added by social thing"
+    },
+    {
+      "jargon": "Integration with disciplines",
+      "layman": "Mixing with other subjects"
+    },
+    {
+      "jargon": "Core of processes",
+      "layman": "Central part of training and health"
+    },
+    {
+      "jargon": "Contribution to education",
+      "layman": "Help in teaching health workers"
+    }
+  ]
+}

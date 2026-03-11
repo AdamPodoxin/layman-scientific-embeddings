@@ -1,0 +1,84 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Merged business establishments",
+      "layman": "Businesses that have combined with others"
+    },
+    {
+      "jargon": "Non-merged business establishments",
+      "layman": "Businesses that remain separate"
+    },
+    {
+      "jargon": "Private business establishments",
+      "layman": "Private companies operating independently"
+    },
+    {
+      "jargon": "Manufacturing businesses",
+      "layman": "Businesses that produce goods"
+    },
+    {
+      "jargon": "Service businesses",
+      "layman": "Businesses that provide services"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Workplace Industrial Relations Survey",
+      "layman": "Survey of workplace relationships"
+    },
+    {
+      "jargon": "Structural characteristics analysis",
+      "layman": "Study of business structure"
+    },
+    {
+      "jargon": "Market condition assessment",
+      "layman": "Evaluation of market environment"
+    },
+    {
+      "jargon": "Organizational features analysis",
+      "layman": "Study of business operations"
+    },
+    {
+      "jargon": "Strategic behaviour evaluation",
+      "layman": "Analysis of business strategies"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Older establishments",
+      "layman": "Long-standing businesses"
+    },
+    {
+      "jargon": "Small to medium size",
+      "layman": "Medium-sized companies"
+    },
+    {
+      "jargon": "International market presence",
+      "layman": "Operating globally"
+    },
+    {
+      "jargon": "Oligopolistic markets",
+      "layman": "Few large competitors dominate"
+    },
+    {
+      "jargon": "Competitive operating conditions",
+      "layman": "Facing competition like others"
+    },
+    {
+      "jargon": "Restructuring strategies",
+      "layman": "Major business changes"
+    },
+    {
+      "jargon": "Job cuts",
+      "layman": "Layoffs"
+    },
+    {
+      "jargon": "Productivity gains",
+      "layman": "Improved efficiency"
+    },
+    {
+      "jargon": "Below-average financial performance",
+      "layman": "Poor financial results"
+    }
+  ]
+}

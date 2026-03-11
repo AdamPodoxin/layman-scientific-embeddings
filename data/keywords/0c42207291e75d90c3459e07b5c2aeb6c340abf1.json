@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Prouhet-Tarry-Escott problem",
+      "layman": "Math problem about equal sums of number sets"
+    },
+    {
+      "jargon": "Non-negative integers",
+      "layman": "Whole numbers starting from zero"
+    },
+    {
+      "jargon": "Mutually disjoint sets",
+      "layman": "Groups with no numbers in common"
+    },
+    {
+      "jargon": "Classical Prouhet-Thue-Morse sequence",
+      "layman": "Pattern of 0s and 1s with balanced properties"
+    },
+    {
+      "jargon": "Product generating function",
+      "layman": "Math tool that builds patterns from multiplication"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Deriving a generalization",
+      "layman": "Extending a rule to cover more cases"
+    },
+    {
+      "jargon": "Product generating function formula",
+      "layman": "Math formula using multiplication to build sequences"
+    },
+    {
+      "jargon": "Generalization",
+      "layman": "Broadening a rule to apply in more situations"
+    },
+    {
+      "jargon": "Proof",
+      "layman": "Logical argument showing something is true"
+    },
+    {
+      "jargon": "Mathematical derivation",
+      "layman": "Building a result step by step using math"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Equal sums of like powers",
+      "layman": "Same total when numbers are raised to same power"
+    },
+    {
+      "jargon": "New proof",
+      "layman": "Fresh logical explanation of a known result"
+    },
+    {
+      "jargon": "Solution to the problem",
+      "layman": "Answer to the math puzzle"
+    },
+    {
+      "jargon": "Disjoint sets with equal sums",
+      "layman": "Different groups with same totals"
+    },
+    {
+      "jargon": "Mathematical structure",
+      "layman": "Hidden pattern in numbers"
+    }
+  ]
+}

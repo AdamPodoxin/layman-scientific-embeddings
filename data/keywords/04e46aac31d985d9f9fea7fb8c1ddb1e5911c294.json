@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Humanities",
+      "layman": "Study of human culture"
+    },
+    {
+      "jargon": "European Latinitas",
+      "layman": "Use of Latin in European education"
+    },
+    {
+      "jargon": "Humanist teaching",
+      "layman": "Teaching based on classical texts"
+    },
+    {
+      "jargon": "Polymath",
+      "layman": "Person who studies many subjects"
+    },
+    {
+      "jargon": "Visual arts",
+      "layman": "Art involving images and design"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Correcting knowledge",
+      "layman": "Fixing and improving information"
+    },
+    {
+      "jargon": "Streaming knowledge",
+      "layman": "Sorting knowledge by level or type"
+    },
+    {
+      "jargon": "Gathering knowledge",
+      "layman": "Collecting information from sources"
+    },
+    {
+      "jargon": "Transferring knowledge",
+      "layman": "Sharing knowledge between people"
+    },
+    {
+      "jargon": "Comparative view",
+      "layman": "Looking at different fields side by side"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Disciplines defined",
+      "layman": "Fields given clear identities"
+    },
+    {
+      "jargon": "Academy significance grew",
+      "layman": "Academies became more important"
+    },
+    {
+      "jargon": "Lesser-known figures highlighted",
+      "layman": "Unfamous people got more attention"
+    },
+    {
+      "jargon": "Fields connected to politics",
+      "layman": "Studies linked to power and society"
+    },
+    {
+      "jargon": "Knowledge expanded in 17th\u201318th centuries",
+      "layman": "Knowledge grew over time"
+    }
+  ]
+}

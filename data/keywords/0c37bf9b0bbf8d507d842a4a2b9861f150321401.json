@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "mitochondrial genome",
+      "layman": "Cell's energy-producing organ DNA"
+    },
+    {
+      "jargon": "mt genomes",
+      "layman": "Mitochondrial DNA"
+    },
+    {
+      "jargon": "mosses",
+      "layman": "Mosses"
+    },
+    {
+      "jargon": "angiosperms",
+      "layman": "Flowering plants"
+    },
+    {
+      "jargon": "gene order",
+      "layman": "Sequence of genes on a chromosome"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "assembled complete mt genomes",
+      "layman": "Put together full mitochondrial DNA"
+    },
+    {
+      "jargon": "phylogenetic depth",
+      "layman": "Evolutionary history across species"
+    },
+    {
+      "jargon": "divergence time estimates",
+      "layman": "Estimated time since species split"
+    },
+    {
+      "jargon": "intergenic repeat sequences",
+      "layman": "Repeating DNA between genes"
+    },
+    {
+      "jargon": "intragenomic recombinations",
+      "layman": "Gene swapping within the genome"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "350 My of mt genome stasis",
+      "layman": "350 million years of no change"
+    },
+    {
+      "jargon": "two independent gene losses",
+      "layman": "Two gene deletions"
+    },
+    {
+      "jargon": "single gene relocation",
+      "layman": "One gene moved to a new spot"
+    },
+    {
+      "jargon": "evolutionary stability",
+      "layman": "Stable over long time"
+    },
+    {
+      "jargon": "complete lack of intergenic repeats",
+      "layman": "No repeating DNA between genes"
+    }
+  ]
+}

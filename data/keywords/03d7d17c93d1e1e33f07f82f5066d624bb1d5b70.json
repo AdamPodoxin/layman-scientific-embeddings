@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Collective Intelligence (COIN)",
+      "layman": "Group of smart algorithms working together"
+    },
+    {
+      "jargon": "Reinforcement learning (RL)",
+      "layman": "Algorithm that learns by trial and error"
+    },
+    {
+      "jargon": "Internet traffic routing",
+      "layman": "Pathfinding for data across the internet"
+    },
+    {
+      "jargon": "Global utility function",
+      "layman": "Overall goal that the system tries to maximize"
+    },
+    {
+      "jargon": "Shortest path routing",
+      "layman": "Finding the fastest route for data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Automated design",
+      "layman": "Self-designed system setup"
+    },
+    {
+      "jargon": "Reinforcement learning algorithms",
+      "layman": "Algorithms that learn through experience"
+    },
+    {
+      "jargon": "Collective behavior",
+      "layman": "Group actions that emerge together"
+    },
+    {
+      "jargon": "Optimization",
+      "layman": "Improving performance over time"
+    },
+    {
+      "jargon": "Experimental design",
+      "layman": "Testing setup for real-world results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Outperforms previous RL algorithms",
+      "layman": "Better than older methods"
+    },
+    {
+      "jargon": "Global utility function optimization",
+      "layman": "System achieves best overall performance"
+    },
+    {
+      "jargon": "Improved routing efficiency",
+      "layman": "Faster and smarter data paths"
+    },
+    {
+      "jargon": "Superior to shortest path routing",
+      "layman": "Better than basic route choices"
+    },
+    {
+      "jargon": "Optimal traffic flow",
+      "layman": "Smooth and efficient data movement"
+    }
+  ]
+}

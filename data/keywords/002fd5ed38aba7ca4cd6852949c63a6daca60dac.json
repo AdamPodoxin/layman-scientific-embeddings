@@ -2,11 +2,15 @@
   "core_entities": [
     {
       "jargon": "Diplomatic documents",
-      "layman": "Government records of talks"
+      "layman": "Government records of meetings and agreements"
     },
     {
-      "jargon": "Great War",
-      "layman": "World War One"
+      "jargon": "Government narratives",
+      "layman": "Official stories told by governments"
+    },
+    {
+      "jargon": "World War One",
+      "layman": "First World War"
     },
     {
       "jargon": "Victorious powers",
@@ -15,54 +19,50 @@
     {
       "jargon": "Defeated powers",
       "layman": "Losing countries"
-    },
-    {
-      "jargon": "Government interpretations",
-      "layman": "Official stories told by governments"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Publishing historical records",
-      "layman": "Releasing old government papers"
-    },
-    {
-      "jargon": "Projecting interpretations",
-      "layman": "Sharing biased versions of history"
-    },
-    {
       "jargon": "Historical analysis",
-      "layman": "Studying past events"
+      "layman": "Studying the past to understand events"
     },
     {
-      "jargon": "Government narrative shaping",
-      "layman": "Creating official stories"
+      "jargon": "Document examination",
+      "layman": "Looking at old records"
     },
     {
-      "jargon": "Document selection",
-      "layman": "Picking which records to share"
+      "jargon": "Government publishing",
+      "layman": "Official release of records"
+    },
+    {
+      "jargon": "Narrative construction",
+      "layman": "Creating a story to explain events"
+    },
+    {
+      "jargon": "Interpretation of history",
+      "layman": "Making sense of past events"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Subjective interpretations",
-      "layman": "Biased views of the past"
+      "jargon": "Biased historical accounts",
+      "layman": "Skewed versions of the past"
     },
     {
-      "jargon": "Distorted historical truth",
-      "layman": "False version of reality"
+      "jargon": "Government-led memory",
+      "layman": "Official version of history"
     },
     {
-      "jargon": "Political propaganda",
-      "layman": "Spreading biased messages"
+      "jargon": "Selective presentation",
+      "layman": "Only showing parts that fit a story"
     },
     {
-      "jargon": "Selective publishing",
-      "layman": "Only sharing favorable records"
+      "jargon": "Propaganda-like narratives",
+      "layman": "Stories used to influence public opinion"
     },
     {
-      "jargon": "National self-justification",
-      "layman": "Justifying a country's actions"
+      "jargon": "Distorted origins",
+      "layman": "Misrepresented causes of the war"
     }
   ]
 }

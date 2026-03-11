@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Supercapitalism",
+      "layman": "Globalized, deregulated capitalism"
+    },
+    {
+      "jargon": "Democratic capitalism",
+      "layman": "Capitalism with democratic oversight"
+    },
+    {
+      "jargon": "Globalization",
+      "layman": "Worldwide economic integration"
+    },
+    {
+      "jargon": "Deregulation",
+      "layman": "Reduced government rules on markets"
+    },
+    {
+      "jargon": "Labor unions",
+      "layman": "Worker groups that negotiate wages"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lobbying",
+      "layman": "Influencing laws through pressure"
+    },
+    {
+      "jargon": "Market efficiency",
+      "layman": "Markets quickly responding to demand"
+    },
+    {
+      "jargon": "Wage determination",
+      "layman": "How wages are set in the market"
+    },
+    {
+      "jargon": "Regulatory agencies",
+      "layman": "Government bodies that set rules"
+    },
+    {
+      "jargon": "Aggregate demand",
+      "layman": "Total demand from many people"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Income inequality",
+      "layman": "Growing gap between rich and poor"
+    },
+    {
+      "jargon": "Decline of public interest institutions",
+      "layman": "Loss of government bodies defining public needs"
+    },
+    {
+      "jargon": "Loss of worker income",
+      "layman": "Wages falling behind consumer deals"
+    },
+    {
+      "jargon": "Corporate takeover of democracy",
+      "layman": "Big businesses controlling politics"
+    },
+    {
+      "jargon": "Economic pie enlargement",
+      "layman": "More total wealth created"
+    }
+  ]
+}

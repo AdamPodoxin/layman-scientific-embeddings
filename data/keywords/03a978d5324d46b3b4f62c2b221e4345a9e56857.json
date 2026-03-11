@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hen ovotransferrin",
+      "layman": "Egg protein that binds metals"
+    },
+    {
+      "jargon": "Iron",
+      "layman": "Metal in blood"
+    },
+    {
+      "jargon": "Copper",
+      "layman": "Metal in body fluids"
+    },
+    {
+      "jargon": "Apo-ovotransferrin",
+      "layman": "Empty egg protein"
+    },
+    {
+      "jargon": "Chelate",
+      "layman": "Metal-binding compound"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Kinetics",
+      "layman": "Speed of reaction"
+    },
+    {
+      "jargon": "Absorbance change",
+      "layman": "Color change measurement"
+    },
+    {
+      "jargon": "Pseudo-first-order reaction",
+      "layman": "Reaction speed when one part is in excess"
+    },
+    {
+      "jargon": "Progress curves",
+      "layman": "Graph of reaction over time"
+    },
+    {
+      "jargon": "pH-dependence",
+      "layman": "Reaction affected by acidity or alkalinity"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Biphasic kinetics",
+      "layman": "Two-step reaction process"
+    },
+    {
+      "jargon": "Rate dependence on bicarbonate",
+      "layman": "Reaction speed changes with bicarbonate"
+    },
+    {
+      "jargon": "Ternary complex",
+      "layman": "Three-part protein-metal-chelate mix"
+    },
+    {
+      "jargon": "Color development",
+      "layman": "Formation of colored product"
+    },
+    {
+      "jargon": "Similar kinetics for iron and copper",
+      "layman": "Both metals react at same speed"
+    }
+  ]
+}

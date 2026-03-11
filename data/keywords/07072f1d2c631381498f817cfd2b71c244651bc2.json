@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Special orthogonal matrices",
+      "layman": "Matrices that preserve distance and rotation"
+    },
+    {
+      "jargon": "SO(n,Q)",
+      "layman": "Rotational matrices with rational numbers"
+    },
+    {
+      "jargon": "Rational elements",
+      "layman": "Numbers that can be expressed as fractions"
+    },
+    {
+      "jargon": "Group SO(n,Q)",
+      "layman": "Set of rotation matrices with rational numbers"
+    },
+    {
+      "jargon": "Matrix",
+      "layman": "Grid of numbers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theorem describing structure",
+      "layman": "Rule that defines how matrices are built"
+    },
+    {
+      "jargon": "Random number routines",
+      "layman": "Using random numbers to build matrices"
+    },
+    {
+      "jargon": "Generating matrices",
+      "layman": "Creating matrices step by step"
+    },
+    {
+      "jargon": "Proving a theorem",
+      "layman": "Showing a mathematical rule is true"
+    },
+    {
+      "jargon": "Algorithms",
+      "layman": "Step-by-step procedures for solving problems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Arbitrary matrix from SO(n,Q)",
+      "layman": "Any possible rotation matrix with rational numbers"
+    },
+    {
+      "jargon": "Structure of matrices",
+      "layman": "How the matrices are organized"
+    },
+    {
+      "jargon": "Generated matrices",
+      "layman": "Matrices created by the algorithm"
+    },
+    {
+      "jargon": "Proof of theorem",
+      "layman": "Mathematical confirmation of the rule"
+    },
+    {
+      "jargon": "Rational element matrices",
+      "layman": "Matrices made of fractions"
+    }
+  ]
+}

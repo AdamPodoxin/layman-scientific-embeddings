@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Proterozoic sulfide deposits",
+      "layman": "Ancient metal-rich rock layers"
+    },
+    {
+      "jargon": "Lead isotopic compositions",
+      "layman": "Different types of lead atoms"
+    },
+    {
+      "jargon": "Phanerozoic lead component",
+      "layman": "Recent lead from later time"
+    },
+    {
+      "jargon": "Caledonian orogeny",
+      "layman": "Mountain-building event"
+    },
+    {
+      "jargon": "Fault, fracture, and shear zones",
+      "layman": "Cracks and breaks in rock"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lead isotope analysis",
+      "layman": "Testing lead types in rocks"
+    },
+    {
+      "jargon": "Geological deformation",
+      "layman": "Rock bending and breaking"
+    },
+    {
+      "jargon": "Metal leaching",
+      "layman": "Metals being washed out of rock"
+    },
+    {
+      "jargon": "Fluid flow along faults",
+      "layman": "Liquid moving through cracks"
+    },
+    {
+      "jargon": "Metal precipitation",
+      "layman": "Metals forming in solution"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mixing line in Pb isotope diagram",
+      "layman": "Lead types mixed together"
+    },
+    {
+      "jargon": "Radiogenic lead component",
+      "layman": "Lead with more radioactive atoms"
+    },
+    {
+      "jargon": "Higher lead, zinc, and gold contents",
+      "layman": "More metals in broken zones"
+    },
+    {
+      "jargon": "Metals introduced at a later event",
+      "layman": "Metals added later in time"
+    },
+    {
+      "jargon": "Proterozoic deposits as metal traps",
+      "layman": "Old rocks caught metals"
+    }
+  ]
+}

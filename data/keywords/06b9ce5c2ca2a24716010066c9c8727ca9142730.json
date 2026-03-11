@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "marginal boy",
+      "layman": "marginal boy"
+    },
+    {
+      "jargon": "post-dictatorship culture",
+      "layman": "society after dictatorship"
+    },
+    {
+      "jargon": "Chilean literary canon",
+      "layman": "classic Chilean literature"
+    },
+    {
+      "jargon": "body representation",
+      "layman": "how the body is shown"
+    },
+    {
+      "jargon": "anatomy",
+      "layman": "body structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "rhetorical strategies",
+      "layman": "writing techniques"
+    },
+    {
+      "jargon": "textual analysis",
+      "layman": "reading texts closely"
+    },
+    {
+      "jargon": "political desire",
+      "layman": "desire in politics"
+    },
+    {
+      "jargon": "literary rewriting",
+      "layman": "changing classic stories"
+    },
+    {
+      "jargon": "critical reading",
+      "layman": "deep reading by experts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "seduction of playwrights",
+      "layman": "attracts writers"
+    },
+    {
+      "jargon": "representation of desire",
+      "layman": "shows how desire is expressed"
+    },
+    {
+      "jargon": "marginal boy\u2019s place in politics",
+      "layman": "where the boy fits in society"
+    },
+    {
+      "jargon": "cultural reinterpretation",
+      "layman": "new meaning in culture"
+    },
+    {
+      "jargon": "desire in post-dictatorship",
+      "layman": "desire after dictatorship"
+    }
+  ]
+}

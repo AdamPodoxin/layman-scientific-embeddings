@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Protozoan parasite",
+      "layman": "Tiny parasitic organism"
+    },
+    {
+      "jargon": "Trypanosomatids",
+      "layman": "Parasites like trypanosomes"
+    },
+    {
+      "jargon": "Apicomplexans",
+      "layman": "Parasites with apical structures"
+    },
+    {
+      "jargon": "Leishmania spp.",
+      "layman": "Leishmania species"
+    },
+    {
+      "jargon": "Trypanosoma spp.",
+      "layman": "Trypanosoma species"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Morphological phenotype",
+      "layman": "Visible cell changes"
+    },
+    {
+      "jargon": "Molecular pathways",
+      "layman": "Cellular processes involving molecules"
+    },
+    {
+      "jargon": "Addiction modules",
+      "layman": "Genetic dependencies in cells"
+    },
+    {
+      "jargon": "Proteases",
+      "layman": "Enzymes that cut proteins"
+    },
+    {
+      "jargon": "Nucleases",
+      "layman": "Enzymes that cut DNA"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Apoptosis",
+      "layman": "Programmed cell death"
+    },
+    {
+      "jargon": "Morphological phenotype akin to apoptosis",
+      "layman": "Cell shape changes like programmed death"
+    },
+    {
+      "jargon": "Ancient death mechanism",
+      "layman": "Old cell death process"
+    },
+    {
+      "jargon": "Multicellularity",
+      "layman": "Cells working together in groups"
+    },
+    {
+      "jargon": "Multifaceted beginnings",
+      "layman": "Multiple origins for death pathways"
+    }
+  ]
+}

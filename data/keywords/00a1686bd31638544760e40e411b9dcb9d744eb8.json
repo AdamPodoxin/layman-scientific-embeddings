@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Command economy",
+      "layman": "Government-controlled economy"
+    },
+    {
+      "jargon": "Market socialism",
+      "layman": "Economy with market rules but state control"
+    },
+    {
+      "jargon": "Price reforms",
+      "layman": "Changing prices for goods and services"
+    },
+    {
+      "jargon": "Profit motivation",
+      "layman": "Encouraging people to earn money through work"
+    },
+    {
+      "jargon": "Material incentives",
+      "layman": "Rewards like money or goods for effort"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conceptual framework",
+      "layman": "Model to organize ideas"
+    },
+    {
+      "jargon": "Empirical indicators",
+      "layman": "Measurable data to test claims"
+    },
+    {
+      "jargon": "Economic restructuring",
+      "layman": "Major changes to how an economy works"
+    },
+    {
+      "jargon": "Critical examination",
+      "layman": "Careful analysis and review"
+    },
+    {
+      "jargon": "Trend analysis",
+      "layman": "Looking at patterns over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Economic transformation",
+      "layman": "Change in how the economy functions"
+    },
+    {
+      "jargon": "Direction of reforms",
+      "layman": "Where reforms are heading"
+    },
+    {
+      "jargon": "Limitations of reforms",
+      "layman": "What reforms cannot achieve"
+    },
+    {
+      "jargon": "Movement toward market socialism",
+      "layman": "Shifting toward market-based economy"
+    },
+    {
+      "jargon": "Disagreement among scholars",
+      "layman": "Experts don't agree on conclusions"
+    }
+  ]
+}

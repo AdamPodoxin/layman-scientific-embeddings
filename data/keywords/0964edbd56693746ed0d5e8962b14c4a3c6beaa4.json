@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Intellectual property rights",
+      "layman": "Rights to inventions"
+    },
+    {
+      "jargon": "Start-up innovators",
+      "layman": "New companies creating new ideas"
+    },
+    {
+      "jargon": "Product licensing",
+      "layman": "Selling rights to use a product"
+    },
+    {
+      "jargon": "Third-party financing",
+      "layman": "Money from outside investors"
+    },
+    {
+      "jargon": "Primary patent",
+      "layman": "Main patent covering an invention"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Empirical examination",
+      "layman": "Data-based analysis"
+    },
+    {
+      "jargon": "Patent filing",
+      "layman": "Applying for a patent"
+    },
+    {
+      "jargon": "Patent allowance",
+      "layman": "Patent being approved"
+    },
+    {
+      "jargon": "Commercialization strategy",
+      "layman": "Plan to bring a product to market"
+    },
+    {
+      "jargon": "Financial signaling",
+      "layman": "Sending signals to investors"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Increased likelihood of raising finance",
+      "layman": "More likely to get outside money"
+    },
+    {
+      "jargon": "Delay in licensing",
+      "layman": "Postponing product sales"
+    },
+    {
+      "jargon": "Positive effect on licensing",
+      "layman": "More likely to sell rights"
+    },
+    {
+      "jargon": "Appropriability mechanisms",
+      "layman": "Ways to keep profits"
+    },
+    {
+      "jargon": "Dual effects of IP rights",
+      "layman": "Two different impacts of patents"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Black Death",
+      "layman": "Plague pandemic"
+    },
+    {
+      "jargon": "Peasants",
+      "layman": "Farm workers"
+    },
+    {
+      "jargon": "Town dwellers",
+      "layman": "City residents"
+    },
+    {
+      "jargon": "Clergy",
+      "layman": "Church officials"
+    },
+    {
+      "jargon": "Landed nobility",
+      "layman": "Rich landowners"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying past records"
+    },
+    {
+      "jargon": "Demographic change",
+      "layman": "Population shifts"
+    },
+    {
+      "jargon": "Social adaptation",
+      "layman": "Adjusting to new social conditions"
+    },
+    {
+      "jargon": "Political fracture",
+      "layman": "Breakdown in government stability"
+    },
+    {
+      "jargon": "Heresy",
+      "layman": "False religious beliefs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "40% population loss",
+      "layman": "One in every three people died"
+    },
+    {
+      "jargon": "Economic change",
+      "layman": "Shift in wealth and work"
+    },
+    {
+      "jargon": "Peasants\u2019 Revolt",
+      "layman": "Peasant uprising"
+    },
+    {
+      "jargon": "Deposition of Richard II",
+      "layman": "King removed from power"
+    },
+    {
+      "jargon": "War with France and Scotland",
+      "layman": "England fought foreign wars"
+    }
+  ]
+}

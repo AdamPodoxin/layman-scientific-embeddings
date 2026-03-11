@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mercy",
+      "layman": "Compassion"
+    },
+    {
+      "jargon": "Christian understanding",
+      "layman": "Religious compassion"
+    },
+    {
+      "jargon": "Artistic system",
+      "layman": "Creative framework"
+    },
+    {
+      "jargon": "Concept word-nominee",
+      "layman": "Concept with a specific name"
+    },
+    {
+      "jargon": "M. Gorky's creative works",
+      "layman": "Gorky's writings"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conceptualization",
+      "layman": "Creating a concept"
+    },
+    {
+      "jargon": "Implementation",
+      "layman": "Putting into practice"
+    },
+    {
+      "jargon": "Special understanding",
+      "layman": "Unique interpretation"
+    },
+    {
+      "jargon": "Artistic expression",
+      "layman": "Creative portrayal"
+    },
+    {
+      "jargon": "Two independent aspects",
+      "layman": "Two separate forms"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Vivid expression",
+      "layman": "Strong representation"
+    },
+    {
+      "jargon": "Significance",
+      "layman": "Important meaning"
+    },
+    {
+      "jargon": "Effective assistance",
+      "layman": "Helping those in need"
+    },
+    {
+      "jargon": "Special understanding",
+      "layman": "Unique interpretation"
+    },
+    {
+      "jargon": "Conceptual expression",
+      "layman": "Clear concept shown"
+    }
+  ]
+}

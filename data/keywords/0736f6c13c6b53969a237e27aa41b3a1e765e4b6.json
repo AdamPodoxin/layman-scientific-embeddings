@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Transparent maps",
+      "layman": "Maps showing real-world views"
+    },
+    {
+      "jargon": "Opaque maps",
+      "layman": "Maps hiding real-world views"
+    },
+    {
+      "jargon": "Graphical representation",
+      "layman": "Visual symbols on maps"
+    },
+    {
+      "jargon": "Drawing standards",
+      "layman": "Rules for map drawings"
+    },
+    {
+      "jargon": "Map makers",
+      "layman": "People who create maps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Structural analysis",
+      "layman": "Breaking down map design"
+    },
+    {
+      "jargon": "Sociology of maps",
+      "layman": "Studying map makers and users"
+    },
+    {
+      "jargon": "Cultural context",
+      "layman": "Understanding maps in history"
+    },
+    {
+      "jargon": "Definitional boundaries",
+      "layman": "Where cartography starts and ends"
+    },
+    {
+      "jargon": "Perception and logic",
+      "layman": "How people see and remember maps"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Links between maps and culture",
+      "layman": "Maps reflect culture"
+    },
+    {
+      "jargon": "Maps as language",
+      "layman": "Maps communicate ideas"
+    },
+    {
+      "jargon": "Maps as instruments of power",
+      "layman": "Maps control influence"
+    },
+    {
+      "jargon": "Mnemonics",
+      "layman": "Memory tricks for maps"
+    },
+    {
+      "jargon": "New research questions",
+      "layman": "New ideas for studying maps"
+    }
+  ]
+}

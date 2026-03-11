@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Paternaltarianism",
+      "layman": "Authoritarian family-style rule"
+    },
+    {
+      "jargon": "State collapse",
+      "layman": "Government falls apart"
+    },
+    {
+      "jargon": "Ethnopolitical conflict",
+      "layman": "Conflict between ethnic groups"
+    },
+    {
+      "jargon": "Monocentric governance",
+      "layman": "Power in one central place"
+    },
+    {
+      "jargon": "Unitary sovereignty",
+      "layman": "One central government controls all"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sociopolitical and institutional approach",
+      "layman": "Study of society and power structures"
+    },
+    {
+      "jargon": "Institutional analysis framework",
+      "layman": "Framework to study how rules affect decisions"
+    },
+    {
+      "jargon": "Continuum of circular causation",
+      "layman": "Loop of causes and effects in politics"
+    },
+    {
+      "jargon": "Historical case study",
+      "layman": "Detailed study of past events"
+    },
+    {
+      "jargon": "Prescriptive intent",
+      "layman": "Offering solutions based on analysis"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Deadly conflict",
+      "layman": "Violent fighting"
+    },
+    {
+      "jargon": "Democratic inclusiveness",
+      "layman": "Including all people in politics"
+    },
+    {
+      "jargon": "Political transition",
+      "layman": "Change in government"
+    },
+    {
+      "jargon": "Structural flaw",
+      "layman": "Deep-rooted problem in system"
+    },
+    {
+      "jargon": "Limited or shared sovereignty",
+      "layman": "Power shared among groups"
+    }
+  ]
+}

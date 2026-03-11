@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Dimensional analysis",
+      "layman": "Measuring units and scales"
+    },
+    {
+      "jargon": "Solids",
+      "layman": "Rigid materials"
+    },
+    {
+      "jargon": "Fluids",
+      "layman": "Liquid or gas substances"
+    },
+    {
+      "jargon": "Classical Mechanics",
+      "layman": "Physics of motion and forces"
+    },
+    {
+      "jargon": "Foundational aspects",
+      "layman": "Basic principles of a system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dimensional analysis",
+      "layman": "Checking units and scales"
+    },
+    {
+      "jargon": "Comparative analysis",
+      "layman": "Comparing solids and fluids"
+    },
+    {
+      "jargon": "Physical modeling",
+      "layman": "Simulating real-world behavior"
+    },
+    {
+      "jargon": "Structural analysis",
+      "layman": "Studying how things hold shape"
+    },
+    {
+      "jargon": "Mechanical behavior study",
+      "layman": "Testing how materials move under force"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Foundational aspects",
+      "layman": "Basic rules of nature"
+    },
+    {
+      "jargon": "Structural differences",
+      "layman": "How solids and fluids behave differently"
+    },
+    {
+      "jargon": "Dimensional consistency",
+      "layman": "Units match logically"
+    },
+    {
+      "jargon": "Physical behavior patterns",
+      "layman": "How things move or respond"
+    },
+    {
+      "jargon": "Core principles",
+      "layman": "Basic truths in physics"
+    }
+  ]
+}

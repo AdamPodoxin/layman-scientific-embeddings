@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Inductive-deductive systems",
+      "layman": "Systems that combine reasoning and learning"
+    },
+    {
+      "jargon": "Mathematical logic",
+      "layman": "Rules of logical reasoning"
+    },
+    {
+      "jargon": "Statistical learning",
+      "layman": "Learning from data patterns"
+    },
+    {
+      "jargon": "Arithmetic",
+      "layman": "Basic number operations"
+    },
+    {
+      "jargon": "Axioms",
+      "layman": "Starting truths in a system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Probabilistic analysis",
+      "layman": "Analysis using probabilities"
+    },
+    {
+      "jargon": "Worst-case analysis",
+      "layman": "Looking at the worst possible scenario"
+    },
+    {
+      "jargon": "Convergence of axioms",
+      "layman": "Axioms getting closer to the target"
+    },
+    {
+      "jargon": "Turing oracles",
+      "layman": "AI that guesses truth of statements"
+    },
+    {
+      "jargon": "Computable approximations",
+      "layman": "Close estimates that can be calculated"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Non-decidable clauses",
+      "layman": "Statements that can't be proven true or false"
+    },
+    {
+      "jargon": "Convergence rate",
+      "layman": "How fast things settle down"
+    },
+    {
+      "jargon": "Completeness",
+      "layman": "All correct answers are found"
+    },
+    {
+      "jargon": "Incompleteness of arithmetic",
+      "layman": "Some truths can't be proven in math"
+    },
+    {
+      "jargon": "Real-world domain applications",
+      "layman": "Practical uses in everyday situations"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Polymeric sulfur",
+      "layman": "Sulfur chains"
+    },
+    {
+      "jargon": "Sulfur melts",
+      "layman": "Liquid sulfur"
+    },
+    {
+      "jargon": "\u03b1,\u03b1,\u03b1,\u03b1\u2032,\u03b1\u2032,\u03b1\u2032-hexachloro-p-xylene",
+      "layman": "Chemical compound with chlorine and xylene"
+    },
+    {
+      "jargon": "Stabilized polymeric sulfur",
+      "layman": "Long-lasting sulfur chains"
+    },
+    {
+      "jargon": "Complex systems",
+      "layman": "Mixtures of chemicals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Rapid cooling",
+      "layman": "Fast freezing"
+    },
+    {
+      "jargon": "Melts",
+      "layman": "Heated liquids"
+    },
+    {
+      "jargon": "Presence of complex systems",
+      "layman": "Adding special chemicals"
+    },
+    {
+      "jargon": "Synthesis",
+      "layman": "Creating in lab"
+    },
+    {
+      "jargon": "Examining possibility",
+      "layman": "Testing if something works"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Raised yield",
+      "layman": "More product made"
+    },
+    {
+      "jargon": "Stabilized",
+      "layman": "Longer-lasting"
+    },
+    {
+      "jargon": "Previously unstudied",
+      "layman": "Never tested before"
+    },
+    {
+      "jargon": "Possible improvement",
+      "layman": "Better results possible"
+    },
+    {
+      "jargon": "Examination of possibility",
+      "layman": "Checking if it works"
+    }
+  ]
+}

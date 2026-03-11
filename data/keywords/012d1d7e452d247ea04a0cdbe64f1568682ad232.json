@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Oil price increases",
+      "layman": "Higher oil prices"
+    },
+    {
+      "jargon": "Egyptian economy",
+      "layman": "Egypt's economy"
+    },
+    {
+      "jargon": "Energy sources",
+      "layman": "Types of energy used"
+    },
+    {
+      "jargon": "Power consumption",
+      "layman": "Energy usage"
+    },
+    {
+      "jargon": "Energy policy",
+      "layman": "Government energy rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Simulation economic model",
+      "layman": "Computer economic model"
+    },
+    {
+      "jargon": "Input-output analysis",
+      "layman": "Economic interdependence analysis"
+    },
+    {
+      "jargon": "Price subsidies",
+      "layman": "Government price support"
+    },
+    {
+      "jargon": "Public finance",
+      "layman": "Government spending and revenue"
+    },
+    {
+      "jargon": "National income",
+      "layman": "Total income of a country"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Energy conservation",
+      "layman": "Using less energy"
+    },
+    {
+      "jargon": "Impact on trade",
+      "layman": "Effect on imports and exports"
+    },
+    {
+      "jargon": "Industrial development",
+      "layman": "Growth of factories and industries"
+    },
+    {
+      "jargon": "Agricultural development",
+      "layman": "Improvement in farming"
+    },
+    {
+      "jargon": "Employment levels",
+      "layman": "Number of jobs created"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "The Church Militant",
+      "layman": "The Church Militant"
+    },
+    {
+      "jargon": "Neo-Latin poetic genre",
+      "layman": "Latin-style poetry from the early modern period"
+    },
+    {
+      "jargon": "Anglo-Latin miniature epics",
+      "layman": "Short Latin poems from England about historical events"
+    },
+    {
+      "jargon": "Gunpowder Plot",
+      "layman": "1605 plot to blow up Parliament"
+    },
+    {
+      "jargon": "Manuscript translation",
+      "layman": "Handwritten version of a poem"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Contextual analysis",
+      "layman": "Studying a text in its historical background"
+    },
+    {
+      "jargon": "Textual revision",
+      "layman": "Changing a text to fit a different style"
+    },
+    {
+      "jargon": "Comparative reading",
+      "layman": "Comparing two texts to find similarities"
+    },
+    {
+      "jargon": "Historical siting",
+      "layman": "Placing a text in its time and place"
+    },
+    {
+      "jargon": "Poetic genre mapping",
+      "layman": "Matching a poem to a known style or type"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Generic ties",
+      "layman": "Strong connections in style or form"
+    },
+    {
+      "jargon": "Vernacular choice",
+      "layman": "Using everyday language instead of Latin"
+    },
+    {
+      "jargon": "Textual revision",
+      "layman": "Changing the original text to fit a different style"
+    },
+    {
+      "jargon": "Surprising proximity",
+      "layman": "Unexpected closeness to another tradition"
+    },
+    {
+      "jargon": "New light on Herbert\u2019s choice",
+      "layman": "New understanding of why Herbert wrote in English"
+    }
+  ]
+}

@@ -7,7 +7,8 @@ from transformers import pipeline
 from transformers.pipelines.pt_utils import KeyDataset
 
 
-NUM_ABSTRACTS_TO_PROCESS = 35
+# TODO: run generation for all 1000 abstracts
+NUM_ABSTRACTS_TO_PROCESS = 1_000
 KEYWORDS_PATH = Path("data") / "keywords"
 
 MODEL = "unsloth/Qwen3-4B-Instruct-2507"
@@ -43,14 +44,15 @@ You must provide 5 pairs for each of the following categories:
 """
 
 
-def create_user_prompt(abstract: str):
+def create_user_prompt(title: str, abstract: str):
     return \
     f"""
-    ### INPUT ABSTRACT
+    ### INPUT TITLE AND ABSTRACT
+    {title}
     {abstract}
 
     ### INSTRUCTIONS
-    Generate 15 Jargon-to-Layman keyword pairs from the abstract above. Follow the Core Entities, Methodologies, and Outcomes taxonomy.
+    Generate 15 Jargon-to-Layman keyword pairs from the title and abstract above. Follow the Core Entities, Methodologies, and Outcomes taxonomy.
 
     ### EXAMPLE FORMATTING (FEW-SHOT)
     {{
@@ -73,13 +75,15 @@ def create_user_prompt(abstract: str):
 
 
 def create_messages_for_pipe(row: Dataset):
+    title = row["title"]
     abstract = row["abstract"]
-    if not abstract:
+
+    if not title or not abstract:
         return {"prompt": None}
 
     prompt = [
         {"role": "system", "content": SYSTEM_PROMPT},
-        {"role": "user", "content": create_user_prompt(abstract)},
+        {"role": "user", "content": create_user_prompt(title, abstract)},
     ]
 
     return {"prompt": prompt}
@@ -103,9 +107,10 @@ def main():
     KEYWORDS_PATH.mkdir(parents=True, exist_ok=True)
     
     ds = load_dataset(DATASET_PATH, DATASET_NAME, split="evaluation")
-    ds = ds.filter(lambda row: row["abstract"] is not None)
+    ds = ds.filter(lambda row: row["title"] is not None and row["abstract"] is not None)
     ds = ds.take(NUM_ABSTRACTS_TO_PROCESS)
 
+    # Don't re-generate keywords for already done abstracts 
     ds_to_generate = ds.filter(lambda row: not (KEYWORDS_PATH / f"{row["doc_id"]}.json").exists())
     ds_to_generate = ds_to_generate.map(create_messages_for_pipe)
 

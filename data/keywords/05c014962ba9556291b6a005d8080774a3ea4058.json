@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ni-Al-based particle composite coatings",
+      "layman": "Nickel-aluminum mixed coating"
+    },
+    {
+      "jargon": "Nickel matrix",
+      "layman": "Nickel base layer"
+    },
+    {
+      "jargon": "Aluminum particles",
+      "layman": "Tiny aluminum pieces"
+    },
+    {
+      "jargon": "Intermetallic phases",
+      "layman": "Mixed metal structures"
+    },
+    {
+      "jargon": "\u03b3\u2032Ni3Al",
+      "layman": "Nickel-aluminum compound"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Electrodeposited metal matrix/metal particle composite",
+      "layman": "Coating built by electric current"
+    },
+    {
+      "jargon": "Light optical microscopy",
+      "layman": "Basic microscope for surface view"
+    },
+    {
+      "jargon": "Scanning electron microscopy",
+      "layman": "High-power microscope for surface details"
+    },
+    {
+      "jargon": "Electron probe microanalysis",
+      "layman": "Test to check material composition"
+    },
+    {
+      "jargon": "Differential thermal analysis",
+      "layman": "Heating test to see phase changes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "20 vol pct aluminum particles",
+      "layman": "20% aluminum volume"
+    },
+    {
+      "jargon": "Formation of intermetallic phases",
+      "layman": "Metal mixtures form at boundaries"
+    },
+    {
+      "jargon": "NiAl islands",
+      "layman": "Small nickel-aluminum spots"
+    },
+    {
+      "jargon": "Diffusional reaction",
+      "layman": "Slow mixing of metals"
+    },
+    {
+      "jargon": "Final equilibrium microstructure",
+      "layman": "Stable final coating pattern"
+    }
+  ]
+}

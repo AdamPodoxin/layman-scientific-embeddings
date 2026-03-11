@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Casimir pressure",
+      "layman": "Force between close surfaces in vacuum"
+    },
+    {
+      "jargon": "Magnetic metallic mirrors",
+      "layman": "Metallic surfaces that respond to magnetic fields"
+    },
+    {
+      "jargon": "Lifshitz-Matsubara sum formula",
+      "layman": "Mathematical formula for vacuum forces"
+    },
+    {
+      "jargon": "Theory",
+      "layman": "Scientific explanation"
+    },
+    {
+      "jargon": "Experiment",
+      "layman": "Real-world test"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Comment",
+      "layman": "Criticism or feedback on a paper"
+    },
+    {
+      "jargon": "Misrepresent",
+      "layman": "Give a false or distorted version"
+    },
+    {
+      "jargon": "Resolve conflict",
+      "layman": "Fix a disagreement between theory and test"
+    },
+    {
+      "jargon": "Provide resolution",
+      "layman": "Offer a solution to a problem"
+    },
+    {
+      "jargon": "Reply to comment",
+      "layman": "Respond to criticism"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Conflict between theory and experiment",
+      "layman": "Mismatch between prediction and real result"
+    },
+    {
+      "jargon": "Plausible resolution",
+      "layman": "A reasonable explanation for the mismatch"
+    },
+    {
+      "jargon": "Fail to provide",
+      "layman": "Does not offer"
+    },
+    {
+      "jargon": "Misrepresentation",
+      "layman": "False description"
+    },
+    {
+      "jargon": "Believe the comment is wrong",
+      "layman": "Think the criticism is incorrect"
+    }
+  ]
+}

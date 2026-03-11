@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "spinal cord injury",
+      "layman": "spinal cord injury"
+    },
+    {
+      "jargon": "spinal cord disease",
+      "layman": "spinal cord disease"
+    },
+    {
+      "jargon": "depression",
+      "layman": "depression"
+    },
+    {
+      "jargon": "pain",
+      "layman": "pain"
+    },
+    {
+      "jargon": "neurological function",
+      "layman": "nerve function"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "cross-sectional study",
+      "layman": "snapshot study"
+    },
+    {
+      "jargon": "medical records review",
+      "layman": "reviewing patient files"
+    },
+    {
+      "jargon": "Patient Health Questionnaire 9",
+      "layman": "depression test"
+    },
+    {
+      "jargon": "pain ratings",
+      "layman": "pain level scores"
+    },
+    {
+      "jargon": "admission and discharge scores",
+      "layman": "scores at start and end of stay"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "moderate-to-severe depression",
+      "layman": "bad depression"
+    },
+    {
+      "jargon": "pain severity",
+      "layman": "how bad the pain is"
+    },
+    {
+      "jargon": "PHQ-9 scores associated with pain",
+      "layman": "depression scores linked to pain"
+    },
+    {
+      "jargon": "higher pain ratings in traumatic injuries",
+      "layman": "more pain after accidents"
+    },
+    {
+      "jargon": "age related to pain",
+      "layman": "younger patients have more pain"
+    }
+  ]
+}

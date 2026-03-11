@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Endosymbiotic bacteria",
+      "layman": "Bacteria living inside host cells"
+    },
+    {
+      "jargon": "Mammalian pathogens",
+      "layman": "Diseases that affect mammals"
+    },
+    {
+      "jargon": "Invertebrates",
+      "layman": "Animals without backbones"
+    },
+    {
+      "jargon": "Mutualistic bacteria",
+      "layman": "Bacteria that help the host"
+    },
+    {
+      "jargon": "Parasitic bacteria",
+      "layman": "Bacteria that harm the host"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Genetic information",
+      "layman": "DNA instructions"
+    },
+    {
+      "jargon": "Symbiotic interactions",
+      "layman": "Bacteria and host working together"
+    },
+    {
+      "jargon": "Evolutionary levels",
+      "layman": "Different stages of evolution"
+    },
+    {
+      "jargon": "Detailed characterization",
+      "layman": "Close study of how things work"
+    },
+    {
+      "jargon": "Host interactions",
+      "layman": "How bacteria and hosts relate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Similar factors",
+      "layman": "Same underlying causes"
+    },
+    {
+      "jargon": "Early in evolution",
+      "layman": "Long ago in history"
+    },
+    {
+      "jargon": "Profound insights",
+      "layman": "Deep understanding"
+    },
+    {
+      "jargon": "Basic mechanisms",
+      "layman": "Core ways things work"
+    },
+    {
+      "jargon": "Evolution of interactions",
+      "layman": "How relationships changed over time"
+    }
+  ]
+}

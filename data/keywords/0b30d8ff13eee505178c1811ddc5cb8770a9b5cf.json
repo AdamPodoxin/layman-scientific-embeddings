@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Uninformed buyers",
+      "layman": "Buyers without information"
+    },
+    {
+      "jargon": "Informed seller",
+      "layman": "Seller who knows the true value"
+    },
+    {
+      "jargon": "Liquidity shock",
+      "layman": "Sudden loss of market funds"
+    },
+    {
+      "jargon": "Private information",
+      "layman": "Hidden knowledge"
+    },
+    {
+      "jargon": "Dynamic market",
+      "layman": "Changing market over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Equilibrium analysis",
+      "layman": "Finding stable market outcomes"
+    },
+    {
+      "jargon": "Compete inter- and intra-temporarily",
+      "layman": "Compete across and within time periods"
+    },
+    {
+      "jargon": "Public versus private price offers",
+      "layman": "Offering prices openly or secretly"
+    },
+    {
+      "jargon": "Trade timing with deadline",
+      "layman": "Trading before a fixed end time"
+    },
+    {
+      "jargon": "Market breakdown",
+      "layman": "Market stops trading"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Equilibria coincide",
+      "layman": "Both options reach same result"
+    },
+    {
+      "jargon": "Pareto-dominance",
+      "layman": "One option is better for all"
+    },
+    {
+      "jargon": "Efficiency loss",
+      "layman": "Wasted trading potential"
+    },
+    {
+      "jargon": "Trade never stops",
+      "layman": "Trading continues without end"
+    },
+    {
+      "jargon": "Market breakdown",
+      "layman": "Market stops trading"
+    }
+  ]
+}

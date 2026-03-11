@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Economic agents",
+      "layman": "People or businesses making financial decisions"
+    },
+    {
+      "jargon": "Firms",
+      "layman": "Businesses"
+    },
+    {
+      "jargon": "Dwelling citizens",
+      "layman": "Homeowners"
+    },
+    {
+      "jargon": "Public Administration",
+      "layman": "Government agencies"
+    },
+    {
+      "jargon": "Financial activities",
+      "layman": "Money-related actions like investing or saving"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Two-population evolutionary game",
+      "layman": "Model showing how groups make decisions over time"
+    },
+    {
+      "jargon": "Dynamical context",
+      "layman": "Changing over time system"
+    },
+    {
+      "jargon": "Adoption process",
+      "layman": "How people start using new behaviors"
+    },
+    {
+      "jargon": "Regulated market",
+      "layman": "Market controlled by rules"
+    },
+    {
+      "jargon": "Exchange of financial activities",
+      "layman": "Trading money-based actions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Behavioral effects",
+      "layman": "Changes in how people act"
+    },
+    {
+      "jargon": "Basic features of dynamics",
+      "layman": "Key patterns in how things change"
+    },
+    {
+      "jargon": "Interest of agents",
+      "layman": "Motivation behind decisions"
+    },
+    {
+      "jargon": "Environmental protection mechanism",
+      "layman": "System to protect nature"
+    },
+    {
+      "jargon": "Evolutionary dynamics",
+      "layman": "How choices change over time"
+    }
+  ]
+}

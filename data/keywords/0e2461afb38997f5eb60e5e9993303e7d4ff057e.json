@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Acute coronary syndromes",
+      "layman": "Heart attacks or severe heart problems"
+    },
+    {
+      "jargon": "Electrocardiographic findings",
+      "layman": "Heart's electrical pattern at first check"
+    },
+    {
+      "jargon": "ST-elevation",
+      "layman": "Raised heart electrical signal"
+    },
+    {
+      "jargon": "Non-STE",
+      "layman": "No raised heart signal"
+    },
+    {
+      "jargon": "Non-diagnostic ECG abnormalities",
+      "layman": "ECG can't clearly show heart issue"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Retrospective cohort study",
+      "layman": "Looking back at patient records"
+    },
+    {
+      "jargon": "Adjusting for risk factors",
+      "layman": "Accounting for age, sex, and other health issues"
+    },
+    {
+      "jargon": "Enrollment of survivors",
+      "layman": "Including patients who survived the first 24 hours"
+    },
+    {
+      "jargon": "ECG and biochemical indices",
+      "layman": "Heart test and blood markers for heart damage"
+    },
+    {
+      "jargon": "Categorization of ECG findings",
+      "layman": "Grouping ECG results into types"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "In-hospital mortality",
+      "layman": "Death during hospital stay"
+    },
+    {
+      "jargon": "30-day outcome",
+      "layman": "Result within 30 days after leaving hospital"
+    },
+    {
+      "jargon": "Event rate",
+      "layman": "How often something bad happens"
+    },
+    {
+      "jargon": "Death or re-hospitalization due to CVD",
+      "layman": "Dying or going back to hospital for heart issues"
+    },
+    {
+      "jargon": "Risk of dying",
+      "layman": "Chance of dying"
+    }
+  ]
+}

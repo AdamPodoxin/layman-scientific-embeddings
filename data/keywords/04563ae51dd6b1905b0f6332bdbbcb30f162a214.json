@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Utopian fiction",
+      "layman": "Stories of perfect societies"
+    },
+    {
+      "jargon": "Dystopian fiction",
+      "layman": "Stories of broken societies"
+    },
+    {
+      "jargon": "Social perfection",
+      "layman": "Ideal social systems"
+    },
+    {
+      "jargon": "Plato's Republic",
+      "layman": "Ancient ideal society book"
+    },
+    {
+      "jargon": "Sir Thomas More",
+      "layman": "Author of Utopia"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical assessment",
+      "layman": "Careful evaluation"
+    },
+    {
+      "jargon": "Sociological perspective",
+      "layman": "Looking at society"
+    },
+    {
+      "jargon": "Psychological perspective",
+      "layman": "Looking at minds"
+    },
+    {
+      "jargon": "Political perspective",
+      "layman": "Looking at power"
+    },
+    {
+      "jargon": "Aesthetic perspective",
+      "layman": "Looking at beauty"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Roots of utopian thought",
+      "layman": "Origins of ideal society ideas"
+    },
+    {
+      "jargon": "Contemporary actors",
+      "layman": "Modern people"
+    },
+    {
+      "jargon": "Costume dance",
+      "layman": "Modern lives in idealized forms"
+    },
+    {
+      "jargon": "No place else but here",
+      "layman": "Ideals exist in today's world"
+    },
+    {
+      "jargon": "Fictional narratives",
+      "layman": "Imagined stories"
+    }
+  ]
+}

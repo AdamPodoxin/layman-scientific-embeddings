@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Appropriability mechanisms",
+      "layman": "Ways to protect inventions"
+    },
+    {
+      "jargon": "Innovation",
+      "layman": "New ideas or products"
+    },
+    {
+      "jargon": "Productivity",
+      "layman": "Output per worker"
+    },
+    {
+      "jargon": "Intellectual Property (IP)",
+      "layman": "Firm's protected ideas or inventions"
+    },
+    {
+      "jargon": "Formal methods",
+      "layman": "Official IP protection"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Crepon, Duguet and Mairesse model",
+      "layman": "Standard innovation model"
+    },
+    {
+      "jargon": "Innovation spending",
+      "layman": "Money spent on new ideas"
+    },
+    {
+      "jargon": "R&D spending",
+      "layman": "Money spent on research and development"
+    },
+    {
+      "jargon": "Simultaneous innovation and choice",
+      "layman": "Firms choose protection while innovating"
+    },
+    {
+      "jargon": "Estimation conditional on choice",
+      "layman": "Measuring results based on protection type"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Firms with formal IP protection are more productive",
+      "layman": "Protected ideas lead to better performance"
+    },
+    {
+      "jargon": "No productivity gain with informal IP protection",
+      "layman": "Unofficial protection doesn't help performance"
+    },
+    {
+      "jargon": "Strongest effect in services, trade, utility sectors",
+      "layman": "Big impact in service-based businesses"
+    },
+    {
+      "jargon": "Negative effect in manufacturing sector",
+      "layman": "Worse performance in factories"
+    },
+    {
+      "jargon": "Difference by firm size (large vs SME)",
+      "layman": "Big firms benefit more than small ones"
+    }
+  ]
+}

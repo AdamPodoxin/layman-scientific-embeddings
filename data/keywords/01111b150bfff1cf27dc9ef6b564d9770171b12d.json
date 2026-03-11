@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Women economists",
+      "layman": "Female economists"
+    },
+    {
+      "jargon": "Economic contributions",
+      "layman": "Impact on economics"
+    },
+    {
+      "jargon": "Biographical dictionary",
+      "layman": "Life story reference book"
+    },
+    {
+      "jargon": "Academic writings",
+      "layman": "Written work by scholars"
+    },
+    {
+      "jargon": "Economic issues",
+      "layman": "Economic problems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Specially commissioned articles",
+      "layman": "Articles written specifically"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past events"
+    },
+    {
+      "jargon": "Disciplinary participation",
+      "layman": "Engagement in the field"
+    },
+    {
+      "jargon": "Reference work",
+      "layman": "Comprehensive guide"
+    },
+    {
+      "jargon": "Research stimulation",
+      "layman": "Encouraging further study"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Transform widely-held views",
+      "layman": "Change common beliefs"
+    },
+    {
+      "jargon": "Shed new light",
+      "layman": "Reveal new insights"
+    },
+    {
+      "jargon": "Neglected heritage",
+      "layman": "Overlooked history"
+    },
+    {
+      "jargon": "Underdeveloped field",
+      "layman": "Unexplored area"
+    },
+    {
+      "jargon": "Pioneer in the field",
+      "layman": "Early leader in the field"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Retail payment services",
+      "layman": "Payment methods for everyday purchases"
+    },
+    {
+      "jargon": "Consumption bundle",
+      "layman": "Set of activities people do with money"
+    },
+    {
+      "jargon": "Capabilities",
+      "layman": "Skills people have to use new tech"
+    },
+    {
+      "jargon": "Preferences",
+      "layman": "Favors people have for certain services"
+    },
+    {
+      "jargon": "Innovation",
+      "layman": "New products or services introduced"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Trial-and-error",
+      "layman": "Testing things until they work"
+    },
+    {
+      "jargon": "Learning by consuming",
+      "layman": "Getting better by using something"
+    },
+    {
+      "jargon": "Evolution of capabilities",
+      "layman": "Skills growing over time"
+    },
+    {
+      "jargon": "Empirical evidence",
+      "layman": "Real-world data from observations"
+    },
+    {
+      "jargon": "Patterns of use",
+      "layman": "How people actually use services"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Demand for banking technologies",
+      "layman": "People's interest in banking tools"
+    },
+    {
+      "jargon": "Interwoven evolution",
+      "layman": "How skills and choices grow together"
+    },
+    {
+      "jargon": "Consumption routines",
+      "layman": "Regular ways people spend money"
+    },
+    {
+      "jargon": "Discovery processes",
+      "layman": "Finding new ways through experience"
+    },
+    {
+      "jargon": "Shaped by demand",
+      "layman": "Influenced by what people choose"
+    }
+  ]
+}

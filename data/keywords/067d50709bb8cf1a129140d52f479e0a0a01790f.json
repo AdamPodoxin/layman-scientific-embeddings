@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "SU(2) YM theory",
+      "layman": "Gauge theory for strong force"
+    },
+    {
+      "jargon": "FRW cosmological equations",
+      "layman": "Universe expansion rules"
+    },
+    {
+      "jargon": "Three-dimensional universe",
+      "layman": "Small universe model"
+    },
+    {
+      "jargon": "Big bang \u2013 big crunch",
+      "layman": "Universe starts and ends in collapse"
+    },
+    {
+      "jargon": "Holographic entropy bounds",
+      "layman": "Entropy limits from space to matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Gauge formulation of gravity",
+      "layman": "Linking gravity to particle forces"
+    },
+    {
+      "jargon": "Mapping universe back to YM",
+      "layman": "Turning cosmic model into force model"
+    },
+    {
+      "jargon": "Equations of motion",
+      "layman": "How systems move over time"
+    },
+    {
+      "jargon": "Thermal solution",
+      "layman": "Hot, stable system state"
+    },
+    {
+      "jargon": "Cardy\u2013Verlinde formula",
+      "layman": "Rule for entropy in systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cosmological entropy bounds",
+      "layman": "Entropy limits in universe"
+    },
+    {
+      "jargon": "Universal character of holographic relations",
+      "layman": "Same rules apply everywhere"
+    },
+    {
+      "jargon": "Periodic universe",
+      "layman": "Universe repeats its cycle"
+    },
+    {
+      "jargon": "Radiation in universe",
+      "layman": "Energy from light and particles"
+    },
+    {
+      "jargon": "Holographic entropy bounds in YM theory",
+      "layman": "Entropy limits in particle theory"
+    }
+  ]
+}

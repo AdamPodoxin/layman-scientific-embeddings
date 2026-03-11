@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Boltzmannian statistical mechanics",
+      "layman": "Statistical mechanics based on Boltzmann"
+    },
+    {
+      "jargon": "Probabilities",
+      "layman": "Chances"
+    },
+    {
+      "jargon": "Chances",
+      "layman": "Chances"
+    },
+    {
+      "jargon": "David Lewis\u2019s sense",
+      "layman": "David Lewis\u2019s idea of chances"
+    },
+    {
+      "jargon": "Epistemic interpretation",
+      "layman": "Knowledge-based interpretation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Precise formulation",
+      "layman": "Clear explanation"
+    },
+    {
+      "jargon": "Raise objections",
+      "layman": "Point out problems"
+    },
+    {
+      "jargon": "Interpret probabilities",
+      "layman": "Assign chances to events"
+    },
+    {
+      "jargon": "Overcome objections",
+      "layman": "Fix the problems"
+    },
+    {
+      "jargon": "Epistemic interpretation",
+      "layman": "Knowledge-based interpretation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fundamental objections",
+      "layman": "Major problems"
+    },
+    {
+      "jargon": "Only at the price of",
+      "layman": "Only if we change the view"
+    },
+    {
+      "jargon": "Interpret probabilities epistemically",
+      "layman": "See probabilities as based on knowledge"
+    },
+    {
+      "jargon": "Suggested interpretation",
+      "layman": "Proposed idea"
+    },
+    {
+      "jargon": "Conclude",
+      "layman": "Final judgment"
+    }
+  ]
+}

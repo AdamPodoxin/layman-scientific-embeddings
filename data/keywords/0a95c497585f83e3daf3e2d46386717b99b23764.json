@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Categories",
+      "layman": "Collections of objects and relationships"
+    },
+    {
+      "jargon": "Posets",
+      "layman": "Ordered sets"
+    },
+    {
+      "jargon": "Monads",
+      "layman": "Mathematical structures that combine operations"
+    },
+    {
+      "jargon": "Limits",
+      "layman": "Final results in a system"
+    },
+    {
+      "jargon": "Free categories",
+      "layman": "Categories built from basic parts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Completing categories",
+      "layman": "Adding missing structures to categories"
+    },
+    {
+      "jargon": "Adjoint functors",
+      "layman": "Pair of processes that work together"
+    },
+    {
+      "jargon": "Limit formation",
+      "layman": "Creating final outcomes from parts"
+    },
+    {
+      "jargon": "Categorical algebra",
+      "layman": "Math rules for categories"
+    },
+    {
+      "jargon": "Unit and structure adjunction",
+      "layman": "Matching building blocks with their rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Completeness of a category",
+      "layman": "A category has all necessary limits"
+    },
+    {
+      "jargon": "Adjoint to units",
+      "layman": "A process that fits perfectly with basic rules"
+    },
+    {
+      "jargon": "Freely completed categories",
+      "layman": "Categories built fully from simple rules"
+    },
+    {
+      "jargon": "Limit formation admits adjoint",
+      "layman": "Final results come with a matching process"
+    },
+    {
+      "jargon": "Monad theoretic description",
+      "layman": "Explained using monad math"
+    }
+  ]
+}

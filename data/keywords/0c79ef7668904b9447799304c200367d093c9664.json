@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Gravitational potential",
+      "layman": "Gravity's strength at a point"
+    },
+    {
+      "jargon": "Hubble red shift",
+      "layman": "Stretched light from far galaxies"
+    },
+    {
+      "jargon": "Pioneer 10 and 11",
+      "layman": "Space probes sent to outer solar system"
+    },
+    {
+      "jargon": "Anomalous acceleration",
+      "layman": "Unexplained speed change in space probes"
+    },
+    {
+      "jargon": "Universe",
+      "layman": "Everything that exists"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Linear time dependence",
+      "layman": "Change at a steady rate over time"
+    },
+    {
+      "jargon": "Hypothesis",
+      "layman": "Testable explanation"
+    },
+    {
+      "jargon": "Explain",
+      "layman": "Give a reason for"
+    },
+    {
+      "jargon": "Observation",
+      "layman": "Noted fact from data"
+    },
+    {
+      "jargon": "Time variation",
+      "layman": "Change over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hubble red shift",
+      "layman": "Stretched light from far galaxies"
+    },
+    {
+      "jargon": "Anomalous acceleration",
+      "layman": "Unexplained speed change in space probes"
+    },
+    {
+      "jargon": "Gravitational potential change",
+      "layman": "Gravity getting weaker or stronger over time"
+    },
+    {
+      "jargon": "Linear change with time",
+      "layman": "Constant rate of change over time"
+    },
+    {
+      "jargon": "Explanatory model",
+      "layman": "Model that explains observations"
+    }
+  ]
+}

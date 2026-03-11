@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Adaptive middleware",
+      "layman": "Software that changes behavior automatically"
+    },
+    {
+      "jargon": "Aspect-oriented programming",
+      "layman": "Way to separate cross-cutting software features"
+    },
+    {
+      "jargon": "Java Management Extensions",
+      "layman": "Java tool for monitoring and managing apps"
+    },
+    {
+      "jargon": "Trace-data collection",
+      "layman": "Recording of system activity details"
+    },
+    {
+      "jargon": "Profiling techniques",
+      "layman": "Methods to measure system performance"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Aspect-oriented programming",
+      "layman": "Separates shared system behaviors"
+    },
+    {
+      "jargon": "Fine-grained profiling",
+      "layman": "Detailed monitoring of system actions"
+    },
+    {
+      "jargon": "JMX integration",
+      "layman": "Connecting Java apps to management tools"
+    },
+    {
+      "jargon": "Dynamic adaptation",
+      "layman": "System adjusting in real time"
+    },
+    {
+      "jargon": "Customizable profiling",
+      "layman": "Tailoring monitoring to specific needs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Increased system complexity",
+      "layman": "More complicated to manage"
+    },
+    {
+      "jargon": "Flexible adaptive systems",
+      "layman": "Systems that can change easily"
+    },
+    {
+      "jargon": "Structured support for crosscutting concerns",
+      "layman": "Clear way to handle shared system tasks"
+    },
+    {
+      "jargon": "Feasibility study",
+      "layman": "Test to check if idea works"
+    },
+    {
+      "jargon": "Synergy between JMX and AOP",
+      "layman": "JMX and AOP work well together"
+    }
+  ]
+}

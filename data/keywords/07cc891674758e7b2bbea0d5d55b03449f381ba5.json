@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Race",
+      "layman": "Racial background"
+    },
+    {
+      "jargon": "Ethnicity",
+      "layman": "Cultural identity"
+    },
+    {
+      "jargon": "Psychotherapeutic process",
+      "layman": "Therapy journey"
+    },
+    {
+      "jargon": "Treatment alliance",
+      "layman": "Therapist-patient bond"
+    },
+    {
+      "jargon": "Transference",
+      "layman": "Emotional attachment to therapist"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Clinical examples",
+      "layman": "Real patient cases"
+    },
+    {
+      "jargon": "Critical review",
+      "layman": "Careful analysis"
+    },
+    {
+      "jargon": "Negotiation",
+      "layman": "Mutual discussion"
+    },
+    {
+      "jargon": "Bodily context",
+      "layman": "Physical experiences"
+    },
+    {
+      "jargon": "Social context",
+      "layman": "Societal environment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Anxiety in discourse",
+      "layman": "Fear in talking about race"
+    },
+    {
+      "jargon": "Overgeneralizations",
+      "layman": "Broad and inaccurate ideas"
+    },
+    {
+      "jargon": "Clinically relevant",
+      "layman": "Important for treatment"
+    },
+    {
+      "jargon": "Idealized conceptualizations",
+      "layman": "Over-simplified ideas"
+    },
+    {
+      "jargon": "Racial themes illuminated",
+      "layman": "Race issues made clearer"
+    }
+  ]
+}

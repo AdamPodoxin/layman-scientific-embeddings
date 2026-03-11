@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Semiabelian varieties",
+      "layman": "Generalized types of geometric objects in math"
+    },
+    {
+      "jargon": "Positive characteristic fields",
+      "layman": "Fields where numbers wrap around in a cycle"
+    },
+    {
+      "jargon": "Diophantine geometry",
+      "layman": "Study of integer solutions to equations"
+    },
+    {
+      "jargon": "Difference fields",
+      "layman": "Fields with a shift operation"
+    },
+    {
+      "jargon": "Model theory",
+      "layman": "Mathematical study of structures and their properties"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Model theory of difference fields",
+      "layman": "Using logic to study shifting mathematical systems"
+    },
+    {
+      "jargon": "Proof sketched",
+      "layman": "Outline of a proof, not fully worked out"
+    },
+    {
+      "jargon": "Algebraic proofs",
+      "layman": "Proofs using algebraic methods"
+    },
+    {
+      "jargon": "Hrushovski's approach",
+      "layman": "Method developed by Hrushovski"
+    },
+    {
+      "jargon": "Diophantine geometry from model theory",
+      "layman": "Using logic to solve number-related geometry problems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Manin-Mumford conjecture",
+      "layman": "Conjecture about special points on curves"
+    },
+    {
+      "jargon": "Positive characteristic version",
+      "layman": "Version of the theorem in fields with wrapping numbers"
+    },
+    {
+      "jargon": "Proof presented",
+      "layman": "A complete demonstration of the theory"
+    },
+    {
+      "jargon": "Pink & Roessler's proofs",
+      "layman": "Earlier algebraic solutions to the problem"
+    },
+    {
+      "jargon": "Pillay's work",
+      "layman": "Earlier contributions to the same mathematical problem"
+    }
+  ]
+}

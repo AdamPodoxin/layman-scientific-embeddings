@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Osmolytes",
+      "layman": "Small molecules in cells"
+    },
+    {
+      "jargon": "Proteins",
+      "layman": "Cellular workhorses"
+    },
+    {
+      "jargon": "Silica",
+      "layman": "Silica surface"
+    },
+    {
+      "jargon": "Silanol groups",
+      "layman": "Silicon-based surface groups"
+    },
+    {
+      "jargon": "Protons",
+      "layman": "Hydrogen ions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Frequency modulation-AFM",
+      "layman": "Ultra-precise surface measurement"
+    },
+    {
+      "jargon": "Interfacial viscosity measurement",
+      "layman": "Measure liquid stickiness at surface"
+    },
+    {
+      "jargon": "Gouy-Chapman-Stern model",
+      "layman": "Surface charge prediction model"
+    },
+    {
+      "jargon": "Surface reaction constants",
+      "layman": "Rates of surface chemical reactions"
+    },
+    {
+      "jargon": "Dielectric constant",
+      "layman": "Material's ability to store electric fields"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Surface charge enhancement",
+      "layman": "Surface becomes more charged"
+    },
+    {
+      "jargon": "pH equivalent change",
+      "layman": "Charge change like pH shift"
+    },
+    {
+      "jargon": "Surface charge neutralization",
+      "layman": "Surface charge disappears"
+    },
+    {
+      "jargon": "4-fold overestimation",
+      "layman": "Model misses the real effect"
+    },
+    {
+      "jargon": "Coulomb interactions",
+      "layman": "Electrical forces between charges"
+    }
+  ]
+}

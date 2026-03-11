@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Collaborative enterprises",
+      "layman": "Businesses that work together"
+    },
+    {
+      "jargon": "Knowledge management",
+      "layman": "Sharing and organizing knowledge"
+    },
+    {
+      "jargon": "Portal-based systems",
+      "layman": "Online platforms for collaboration"
+    },
+    {
+      "jargon": "Business partners",
+      "layman": "Other companies working together"
+    },
+    {
+      "jargon": "Intellectual capital",
+      "layman": "Valuable knowledge and skills"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Knowledge sharing",
+      "layman": "Exchanging ideas and information"
+    },
+    {
+      "jargon": "Knowledge cataloguing",
+      "layman": "Organizing knowledge in a database"
+    },
+    {
+      "jargon": "Retrieval systems",
+      "layman": "Finding information quickly"
+    },
+    {
+      "jargon": "Best practices",
+      "layman": "Proven working methods"
+    },
+    {
+      "jargon": "Lessons learned",
+      "layman": "Wise experiences from past events"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Collective knowledge",
+      "layman": "Shared group knowledge"
+    },
+    {
+      "jargon": "Operational working",
+      "layman": "Day-to-day collaboration process"
+    },
+    {
+      "jargon": "Business strategy",
+      "layman": "Long-term business plan"
+    },
+    {
+      "jargon": "Competitive products",
+      "layman": "Products that stand out in the market"
+    },
+    {
+      "jargon": "High-quality services",
+      "layman": "Excellent customer services"
+    }
+  ]
+}

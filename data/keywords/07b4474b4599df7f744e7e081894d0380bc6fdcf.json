@@ -1,0 +1,92 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Polyethylene",
+      "layman": "Plastic polymer"
+    },
+    {
+      "jargon": "Chemical impurities",
+      "layman": "Foreign chemicals in material"
+    },
+    {
+      "jargon": "Band gap",
+      "layman": "Energy gap in material"
+    },
+    {
+      "jargon": "Valence band",
+      "layman": "Top energy level for electrons"
+    },
+    {
+      "jargon": "Conduction band",
+      "layman": "Bottom energy level for electrons"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Density functional theory",
+      "layman": "Computer simulation of electrons"
+    },
+    {
+      "jargon": "Wavefunction",
+      "layman": "Electron probability pattern"
+    },
+    {
+      "jargon": "First-principles calculation",
+      "layman": "Direct physics-based modeling"
+    },
+    {
+      "jargon": "Charge transfer",
+      "layman": "Electron movement between chains"
+    },
+    {
+      "jargon": "High field conduction",
+      "layman": "Electron flow under strong electric field"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Impurity states in band gap",
+      "layman": "Foreign electrons trapped in gap"
+    },
+    {
+      "jargon": "Trap for carriers",
+      "layman": "Place where electrons get stuck"
+    },
+    {
+      "jargon": "Extended wavefunctions",
+      "layman": "Electrons spread across chains"
+    },
+    {
+      "jargon": "Increased conductivity",
+      "layman": "Better electricity flow"
+    },
+    {
+      "jargon": "Hole mobility",
+      "layman": "How fast positive charges move"
+    },
+    {
+      "jargon": "Electron mobility",
+      "layman": "How fast negative charges move"
+    },
+    {
+      "jargon": "Activation energy",
+      "layman": "Energy needed to start flow"
+    },
+    {
+      "jargon": "Conductivity increase",
+      "layman": "Electricity flow improves"
+    },
+    {
+      "jargon": "Wavefunction localization",
+      "layman": "Electron stays on one chain"
+    },
+    {
+      "jargon": "Iodine doping",
+      "layman": "Adding iodine to plastic"
+    },
+    {
+      "jargon": "Depth of impurity states",
+      "layman": "How far impurities are from energy levels"
+    }
+  ]
+}

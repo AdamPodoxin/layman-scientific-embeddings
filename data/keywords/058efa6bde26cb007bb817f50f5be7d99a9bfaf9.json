@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Tektites",
+      "layman": "Impact glass fragments"
+    },
+    {
+      "jargon": "Impact glasses",
+      "layman": "Glass formed by meteorite impacts"
+    },
+    {
+      "jargon": "Phyllites",
+      "layman": "Metamorphosed shale"
+    },
+    {
+      "jargon": "Metagraywackes",
+      "layman": "Weathered sedimentary rock"
+    },
+    {
+      "jargon": "Bosumtwi Crater",
+      "layman": "Meteorite impact crater in Ghana"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Oxygen isotope studies",
+      "layman": "Measuring oxygen variations in rocks"
+    },
+    {
+      "jargon": "K-Ar dating",
+      "layman": "Dating rock using potassium and argon"
+    },
+    {
+      "jargon": "Melt fractionation",
+      "layman": "Change in composition during melting"
+    },
+    {
+      "jargon": "Meteoric water incorporation",
+      "layman": "Water from rain mixing into rock"
+    },
+    {
+      "jargon": "Major and trace element analysis",
+      "layman": "Testing rock chemistry"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "No significant oxygen isotope modification",
+      "layman": "No major change in oxygen ratios"
+    },
+    {
+      "jargon": "818O values of 11.7\u201312.9%",
+      "layman": "High oxygen isotope levels in tektites"
+    },
+    {
+      "jargon": "4 to 5% decrease in 818O",
+      "layman": "Oxygen ratio drops in other tektites"
+    },
+    {
+      "jargon": "Pepiakese Granodiorite",
+      "layman": "Large intrusive rock in crater"
+    },
+    {
+      "jargon": "818O values from 8.6 to 13.6%",
+      "layman": "Wide range of oxygen ratios in rocks"
+    }
+  ]
+}

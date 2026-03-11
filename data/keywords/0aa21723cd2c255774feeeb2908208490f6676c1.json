@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "One-dimensional quantum systems",
+      "layman": "Particles in a line"
+    },
+    {
+      "jargon": "Nontrivial spatial asymptotics",
+      "layman": "Unusual behavior at edges"
+    },
+    {
+      "jargon": "Schrodinger operator",
+      "layman": "Mathematical model for quantum energy"
+    },
+    {
+      "jargon": "Reflectionless potentials",
+      "layman": "Potentials with no reflection"
+    },
+    {
+      "jargon": "Solitons",
+      "layman": "Stable particle-like waves"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Stationary scattering theory",
+      "layman": "Stable way to study particle interactions"
+    },
+    {
+      "jargon": "Single (Crum-Darboux) commutation",
+      "layman": "Adding energy levels to waves"
+    },
+    {
+      "jargon": "Double commutation method",
+      "layman": "Adding two energy levels to waves"
+    },
+    {
+      "jargon": "Spectral multiplicities",
+      "layman": "How many times a frequency appears"
+    },
+    {
+      "jargon": "Diagonal Green's function",
+      "layman": "Tool to track wave behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reflectionless potentials",
+      "layman": "No reflection of waves"
+    },
+    {
+      "jargon": "Insert eigenvalues into spectral gaps",
+      "layman": "Place energy levels in empty zones"
+    },
+    {
+      "jargon": "Background potential is reflectionless",
+      "layman": "Base wave has no reflection"
+    },
+    {
+      "jargon": "Impurity scattering in half-crystals",
+      "layman": "Defects scatter waves in half-materials"
+    },
+    {
+      "jargon": "Charge transport in mesoscopic devices",
+      "layman": "Electric current in tiny quantum devices"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Granitic rocks",
+      "layman": "Hard, light-colored rocks"
+    },
+    {
+      "jargon": "Continental crust",
+      "layman": "Earth's top layer on land"
+    },
+    {
+      "jargon": "Basaltic rocks",
+      "layman": "Dark rocks from ocean floor"
+    },
+    {
+      "jargon": "Source rock composition",
+      "layman": "Original rock makeup"
+    },
+    {
+      "jargon": "Formation depth",
+      "layman": "How deep rocks formed"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sr and Yb contents",
+      "layman": "Levels of two minerals in rock"
+    },
+    {
+      "jargon": "Classification criteria",
+      "layman": "Rules for sorting rocks"
+    },
+    {
+      "jargon": "Geological tracing",
+      "layman": "Mapping rock history"
+    },
+    {
+      "jargon": "Composition analysis",
+      "layman": "Testing rock makeup"
+    },
+    {
+      "jargon": "Vertical movement tracking",
+      "layman": "Monitoring upward or downward shifts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Variation of Sr and Yb",
+      "layman": "Changes in mineral levels"
+    },
+    {
+      "jargon": "Crust thickness",
+      "layman": "How thick the land layer is"
+    },
+    {
+      "jargon": "Evolution of tectonics",
+      "layman": "Change in Earth's plate movements"
+    },
+    {
+      "jargon": "Ancient plateaus",
+      "layman": "Old flat land areas"
+    },
+    {
+      "jargon": "Mountain ranges",
+      "layman": "Long chains of mountains"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Late Cretaceous intrusions",
+      "layman": "Ancient mountain rock formations"
+    },
+    {
+      "jargon": "Altered rocks",
+      "layman": "Changed rocks"
+    },
+    {
+      "jargon": "Mineralized rocks",
+      "layman": "Rocks with minerals"
+    },
+    {
+      "jargon": "Big Belt Mountains",
+      "layman": "Big Belt Mountains"
+    },
+    {
+      "jargon": "Isotopic data",
+      "layman": "Element ratio measurements"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Isotopic data",
+      "layman": "Element ratio measurements"
+    },
+    {
+      "jargon": "Rock alteration",
+      "layman": "Rock changes over time"
+    },
+    {
+      "jargon": "Mineralization process",
+      "layman": "Mineral formation in rocks"
+    },
+    {
+      "jargon": "Geochronological analysis",
+      "layman": "Dating rock layers"
+    },
+    {
+      "jargon": "Geochemical profiling",
+      "layman": "Measuring chemical makeup"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Isotopic signatures",
+      "layman": "Unique element patterns"
+    },
+    {
+      "jargon": "Magmatic intrusion timing",
+      "layman": "When magma entered the rocks"
+    },
+    {
+      "jargon": "Thermal history",
+      "layman": "Heat changes over time"
+    },
+    {
+      "jargon": "Fluid-rock interaction",
+      "layman": "Liquid-rock mixing"
+    },
+    {
+      "jargon": "Mineral deposit formation",
+      "layman": "Creation of mineral deposits"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "intra-EU trade",
+      "layman": "Trade between European countries"
+    },
+    {
+      "jargon": "national economies",
+      "layman": "Economies of individual countries"
+    },
+    {
+      "jargon": "market integration",
+      "layman": "Connected markets"
+    },
+    {
+      "jargon": "technological interconnection",
+      "layman": "Shared technologies"
+    },
+    {
+      "jargon": "company competition",
+      "layman": "Companies competing"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "statistics",
+      "layman": "Numbers used to analyze data"
+    },
+    {
+      "jargon": "process of integration",
+      "layman": "Growing unity between countries"
+    },
+    {
+      "jargon": "interpenetration",
+      "layman": "Deep connection between systems"
+    },
+    {
+      "jargon": "cost and price competition",
+      "layman": "Fighting over prices and costs"
+    },
+    {
+      "jargon": "time-to-market",
+      "layman": "Speed to bring products to customers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "increasing competition",
+      "layman": "More intense rivalry"
+    },
+    {
+      "jargon": "product quality",
+      "layman": "How good a product is"
+    },
+    {
+      "jargon": "cost efficiency",
+      "layman": "Lower costs for the same result"
+    },
+    {
+      "jargon": "ongoing process",
+      "layman": "Continuing change"
+    },
+    {
+      "jargon": "market integration",
+      "layman": "Markets working together"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pan-European economic history",
+      "layman": "Europe's shared economic story"
+    },
+    {
+      "jargon": "Globalization",
+      "layman": "Worldwide economic connections"
+    },
+    {
+      "jargon": "Deglobalization",
+      "layman": "Loss of global economic links"
+    },
+    {
+      "jargon": "Economic growth",
+      "layman": "Economy getting bigger over time"
+    },
+    {
+      "jargon": "Business cycles",
+      "layman": "Economic ups and downs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Topic-based organization",
+      "layman": "Grouping by subject, not country"
+    },
+    {
+      "jargon": "Country-by-country approach",
+      "layman": "Looking at each country separately"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying the past to understand trends"
+    },
+    {
+      "jargon": "Thematic coverage",
+      "layman": "Focusing on key themes"
+    },
+    {
+      "jargon": "Cross-national comparison",
+      "layman": "Comparing different countries"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "European economic dominance",
+      "layman": "Europe leading the world economy"
+    },
+    {
+      "jargon": "First World War",
+      "layman": "Major global conflict"
+    },
+    {
+      "jargon": "Depression",
+      "layman": "Economic collapse"
+    },
+    {
+      "jargon": "Economic integration",
+      "layman": "Countries working together economically"
+    },
+    {
+      "jargon": "Population and living standards",
+      "layman": "People's numbers and quality of life"
+    }
+  ]
+}

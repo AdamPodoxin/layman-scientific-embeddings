@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Distributed database systems",
+      "layman": "Database spread across multiple locations"
+    },
+    {
+      "jargon": "Multiusers",
+      "layman": "Multiple people using the system"
+    },
+    {
+      "jargon": "Concurrency control",
+      "layman": "Managing simultaneous user access"
+    },
+    {
+      "jargon": "Deadlock",
+      "layman": "Two users stuck waiting for each other"
+    },
+    {
+      "jargon": "Locks in relational database",
+      "layman": "Access restrictions to prevent conflicts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Concurrency control algorithms",
+      "layman": "Rules for managing shared access"
+    },
+    {
+      "jargon": "Correctness criteria",
+      "layman": "Rules to ensure data accuracy"
+    },
+    {
+      "jargon": "Implementation techniques",
+      "layman": "Ways to build the system"
+    },
+    {
+      "jargon": "Deadlock detection",
+      "layman": "Finding when users are stuck"
+    },
+    {
+      "jargon": "Robustness testing",
+      "layman": "Checking system under stress"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Correctness of concurrency control",
+      "layman": "Data remains accurate"
+    },
+    {
+      "jargon": "System robustness",
+      "layman": "System stays stable under load"
+    },
+    {
+      "jargon": "Deadlock prevention",
+      "layman": "Avoiding user conflicts"
+    },
+    {
+      "jargon": "Data consistency",
+      "layman": "All users see same data"
+    },
+    {
+      "jargon": "Performance under load",
+      "layman": "System runs smoothly with many users"
+    }
+  ]
+}

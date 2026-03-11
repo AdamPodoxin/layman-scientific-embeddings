@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "threat emotions",
+      "layman": "fear and anxiety"
+    },
+    {
+      "jargon": "challenge emotions",
+      "layman": "confidence and excitement"
+    },
+    {
+      "jargon": "recovery experiences",
+      "layman": "after-work relaxation"
+    },
+    {
+      "jargon": "psychological detachment",
+      "layman": "mental unconnection from work"
+    },
+    {
+      "jargon": "job control",
+      "layman": "ability to control work tasks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "work diary",
+      "layman": "daily work log"
+    },
+    {
+      "jargon": "multilevel analyses",
+      "layman": "statistical analysis of repeated data"
+    },
+    {
+      "jargon": "diary study",
+      "layman": "daily recording over time"
+    },
+    {
+      "jargon": "moderating role",
+      "layman": "how a factor changes the effect"
+    },
+    {
+      "jargon": "N = 1104",
+      "layman": "data from 1104 individuals"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "decrease in psychological detachment",
+      "layman": "less mental unconnection from work"
+    },
+    {
+      "jargon": "boost in mastery after work",
+      "layman": "feeling more skilled after work"
+    },
+    {
+      "jargon": "increase in control after work",
+      "layman": "feeling more in charge after work"
+    },
+    {
+      "jargon": "negative effect of threat emotions",
+      "layman": "fear reduces recovery"
+    },
+    {
+      "jargon": "positive effect of challenge emotions",
+      "layman": "confidence improves recovery"
+    }
+  ]
+}

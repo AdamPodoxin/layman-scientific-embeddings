@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Recursive function",
+      "layman": "Function that calls itself"
+    },
+    {
+      "jargon": "Terminal property",
+      "layman": "Property that ends a process"
+    },
+    {
+      "jargon": "Decreasing measure",
+      "layman": "Measure that gets smaller each time"
+    },
+    {
+      "jargon": "Coq system",
+      "layman": "Automated proof tool"
+    },
+    {
+      "jargon": "ProPre system",
+      "layman": "Automated proof tool"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Constructing a tree",
+      "layman": "Building a structure from data"
+    },
+    {
+      "jargon": "Verifying formal correctness",
+      "layman": "Checking proof steps are valid"
+    },
+    {
+      "jargon": "Extending terminal property",
+      "layman": "Expanding the ending rule"
+    },
+    {
+      "jargon": "Searching for decreasing measure",
+      "layman": "Looking for a shrinking value"
+    },
+    {
+      "jargon": "Automated termination proof",
+      "layman": "Auto-checking if function ends"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Inductive termination proofs",
+      "layman": "Proofs using induction"
+    },
+    {
+      "jargon": "Non-inductive termination",
+      "layman": "Function ends without induction"
+    },
+    {
+      "jargon": "Automated proof extension",
+      "layman": "Broader automatic proof capability"
+    },
+    {
+      "jargon": "Formal correctness",
+      "layman": "Mathematically proven accuracy"
+    },
+    {
+      "jargon": "Larger class of functions",
+      "layman": "More types of functions can be checked"
+    }
+  ]
+}

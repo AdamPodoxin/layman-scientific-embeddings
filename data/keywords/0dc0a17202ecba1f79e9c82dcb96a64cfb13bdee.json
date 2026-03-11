@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Property",
+      "layman": "Ownership of resources"
+    },
+    {
+      "jargon": "Right",
+      "layman": "Legal or moral entitlement"
+    },
+    {
+      "jargon": "Cosmopolitan right",
+      "layman": "Rights for all people, globally"
+    },
+    {
+      "jargon": "State",
+      "layman": "Government system"
+    },
+    {
+      "jargon": "Society",
+      "layman": "Community of people"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Applying the concept of right",
+      "layman": "Using rights to guide decisions"
+    },
+    {
+      "jargon": "Reappraisal",
+      "layman": "Reevaluating a previous idea"
+    },
+    {
+      "jargon": "Theoretical framework",
+      "layman": "System of ideas to explain things"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Deep thinking about ideas"
+    },
+    {
+      "jargon": "Political philosophy",
+      "layman": "Study of government and justice"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fichte's theory of property",
+      "layman": "How property is justified in society"
+    },
+    {
+      "jargon": "Moral connection between right and virtue",
+      "layman": "Right actions lead to good character"
+    },
+    {
+      "jargon": "Virtue in public speech",
+      "layman": "Good character in national addresses"
+    },
+    {
+      "jargon": "Right to morality",
+      "layman": "Morality is built on rights"
+    },
+    {
+      "jargon": "Babeuf's influence on Fichte",
+      "layman": "Fichte was shaped by Babeuf's ideas"
+    }
+  ]
+}

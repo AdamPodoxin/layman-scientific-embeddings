@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Query answers",
+      "layman": "Database results"
+    },
+    {
+      "jargon": "Non-answers",
+      "layman": "Missing database results"
+    },
+    {
+      "jargon": "Input relations",
+      "layman": "Database tables"
+    },
+    {
+      "jargon": "Relational operations",
+      "layman": "Database actions"
+    },
+    {
+      "jargon": "Aggregate functions",
+      "layman": "Sum or average calculations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Functional causes",
+      "layman": "Cause based on function and effect"
+    },
+    {
+      "jargon": "Provenance",
+      "layman": "Origin tracking"
+    },
+    {
+      "jargon": "Query plan",
+      "layman": "Step-by-step database process"
+    },
+    {
+      "jargon": "Causality framework",
+      "layman": "Cause-effect model"
+    },
+    {
+      "jargon": "Complexity results",
+      "layman": "Performance analysis"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Graded responsibility",
+      "layman": "Different levels of blame"
+    },
+    {
+      "jargon": "Ranked causes",
+      "layman": "Cause order by importance"
+    },
+    {
+      "jargon": "Explanations",
+      "layman": "Why results happen"
+    },
+    {
+      "jargon": "Uniform application",
+      "layman": "Same rules for all cases"
+    },
+    {
+      "jargon": "Polynomial algorithms",
+      "layman": "Fast calculation methods"
+    }
+  ]
+}

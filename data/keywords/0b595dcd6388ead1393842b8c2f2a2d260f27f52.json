@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pseudo-scalar field [phi]",
+      "layman": "Pseudo-scalar field"
+    },
+    {
+      "jargon": "Electric field F",
+      "layman": "Electric field"
+    },
+    {
+      "jargon": "Magnetic field F",
+      "layman": "Magnetic field"
+    },
+    {
+      "jargon": "External fields",
+      "layman": "Outside fields"
+    },
+    {
+      "jargon": "Vacuum energy",
+      "layman": "Empty space energy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Small fluctuations around constant fields",
+      "layman": "Tiny changes near steady fields"
+    },
+    {
+      "jargon": "Coupling g[phi]F~F",
+      "layman": "Connection between fields and particles"
+    },
+    {
+      "jargon": "Analysis of perturbations",
+      "layman": "Study of small changes"
+    },
+    {
+      "jargon": "Critical value",
+      "layman": "Threshold value"
+    },
+    {
+      "jargon": "Exact evaluation",
+      "layman": "Precise calculation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mass generation",
+      "layman": "Particles gain mass"
+    },
+    {
+      "jargon": "Tachyonic mass generation",
+      "layman": "Unstable, faster-than-light mass"
+    },
+    {
+      "jargon": "Imaginary part of vacuum energy",
+      "layman": "Negative energy in vacuum"
+    },
+    {
+      "jargon": "Critical field strength",
+      "layman": "Field strength beyond which effect changes"
+    },
+    {
+      "jargon": "Stable vs. unstable vacuum",
+      "layman": "Stable or unstable empty space state"
+    }
+  ]
+}

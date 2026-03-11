@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Faster-than-light motion",
+      "layman": "Speed faster than light"
+    },
+    {
+      "jargon": "Electrodynamics",
+      "layman": "How electric and magnetic fields interact"
+    },
+    {
+      "jargon": "Fields",
+      "layman": "Invisible forces in space"
+    },
+    {
+      "jargon": "Particles with real masses",
+      "layman": "Tiny things that have weight"
+    },
+    {
+      "jargon": "3-velocity",
+      "layman": "Speed in three dimensions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Transformational properties",
+      "layman": "How things change under different conditions"
+    },
+    {
+      "jargon": "Construct version of electrodynamics",
+      "layman": "Build a new version of the rules for electricity and magnetism"
+    },
+    {
+      "jargon": "Transformation of momentum",
+      "layman": "How momentum changes with speed"
+    },
+    {
+      "jargon": "Transformation of energy",
+      "layman": "How energy changes with speed"
+    },
+    {
+      "jargon": "Transformation of electromagnetic field",
+      "layman": "How electric and magnetic fields change with speed"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Faster-than-light motions of fields and particles",
+      "layman": "Fields and particles move faster than light"
+    },
+    {
+      "jargon": "Real masses",
+      "layman": "Things that have actual weight"
+    },
+    {
+      "jargon": "Transformational properties",
+      "layman": "New rules for how things change"
+    },
+    {
+      "jargon": "Extended physics framework",
+      "layman": "Broader set of physical rules"
+    },
+    {
+      "jargon": "Physics/0405085",
+      "layman": "Earlier research paper"
+    }
+  ]
+}

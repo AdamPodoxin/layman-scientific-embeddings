@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Kolmogorov-random strings",
+      "layman": "Random strings with no pattern"
+    },
+    {
+      "jargon": "BPP",
+      "layman": "Efficient probabilistic algorithms"
+    },
+    {
+      "jargon": "PSPACE",
+      "layman": "Complexity class for problems with large memory needs"
+    },
+    {
+      "jargon": "P/poly",
+      "layman": "Class of problems with efficient advice"
+    },
+    {
+      "jargon": "ZF",
+      "layman": "Standard set theory foundation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Polynomial-time truth-table reducibility",
+      "layman": "Reduction using efficient computation"
+    },
+    {
+      "jargon": "Proof in extensions of ZF",
+      "layman": "Proving statements in stronger mathematical systems"
+    },
+    {
+      "jargon": "Efficient reducibility",
+      "layman": "Reducing problems using fast methods"
+    },
+    {
+      "jargon": "Investigation of upper bounds",
+      "layman": "Testing limits of known results"
+    },
+    {
+      "jargon": "Characterization of complexity classes",
+      "layman": "Defining classes by their problem difficulty"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "C lies between BPP and PSPACE",
+      "layman": "A middle complexity class exists"
+    },
+    {
+      "jargon": "BPP C PSPACE \\ P/poly",
+      "layman": "The class is above probabilistic models with advice"
+    },
+    {
+      "jargon": "Conjecture that C = BPP = P",
+      "layman": "Guess that all these classes are equal"
+    },
+    {
+      "jargon": "Equality of BPP and P",
+      "layman": "Probabilistic and deterministic computation are same"
+    },
+    {
+      "jargon": "True statements in arithmetic",
+      "layman": "Valid mathematical facts about numbers"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Benito Perez Galdos",
+      "layman": "Spanish novelist"
+    },
+    {
+      "jargon": "La Fontana de Oro",
+      "layman": "Historical novel"
+    },
+    {
+      "jargon": "Fortunata y Jacinta",
+      "layman": "Masterpiece novel"
+    },
+    {
+      "jargon": "European novel",
+      "layman": "Novel as a literary form"
+    },
+    {
+      "jargon": "Nineteenth century novel",
+      "layman": "1800s literary style"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical study",
+      "layman": "In-depth analysis"
+    },
+    {
+      "jargon": "Artistic growth",
+      "layman": "Development of style"
+    },
+    {
+      "jargon": "Genre tracing",
+      "layman": "Following literary trends"
+    },
+    {
+      "jargon": "Historical fable",
+      "layman": "Fiction based on history"
+    },
+    {
+      "jargon": "Literary cycle",
+      "layman": "Series of connected novels"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Artistic growth",
+      "layman": "Improved writing style"
+    },
+    {
+      "jargon": "Masterpiece",
+      "layman": "Most celebrated work"
+    },
+    {
+      "jargon": "Critical study",
+      "layman": "Scholarly evaluation"
+    },
+    {
+      "jargon": "Genre tracing",
+      "layman": "Identified literary patterns"
+    },
+    {
+      "jargon": "Print-on-demand",
+      "layman": "Reprinting books efficiently"
+    }
+  ]
+}

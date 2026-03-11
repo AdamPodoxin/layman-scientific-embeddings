@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Socioeconomic condition",
-      "layman": "People's income and living standards"
+      "layman": "People's income and social status"
     },
     {
       "jargon": "Internet usage",
@@ -27,20 +27,20 @@
       "layman": "Reviewing data"
     },
     {
-      "jargon": "Investigations",
-      "layman": "Looking into problems"
+      "jargon": "Review",
+      "layman": "Looking over information"
     },
     {
-      "jargon": "Review",
-      "layman": "Checking existing information"
+      "jargon": "Investigation",
+      "layman": "Exploring a problem"
     },
     {
       "jargon": "Evaluation",
-      "layman": "Assessing strengths and weaknesses"
+      "layman": "Checking how well something works"
     },
     {
-      "jargon": "E-readiness",
-      "layman": "Preparation for online shopping"
+      "jargon": "Theoretical approach",
+      "layman": "Using ideas instead of data"
     }
   ],
   "outcomes": [
@@ -57,12 +57,12 @@
       "layman": "Good chances for growth"
     },
     {
-      "jargon": "High rate of education",
-      "layman": "Many people are well-educated"
+      "jargon": "E-readiness",
+      "layman": "Ability to use online services"
     },
     {
-      "jargon": "Strategic position",
-      "layman": "Good location for growth"
+      "jargon": "High rate of education",
+      "layman": "Many people are well-educated"
     }
   ]
 }

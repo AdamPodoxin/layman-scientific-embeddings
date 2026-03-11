@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "symptomatic referrals",
+      "layman": "women with breast symptoms"
+    },
+    {
+      "jargon": "patient delay",
+      "layman": "time between symptom start and seeing a doctor"
+    },
+    {
+      "jargon": "system delay",
+      "layman": "time between first doctor visit and clinic visit"
+    },
+    {
+      "jargon": "psychiatric morbidity",
+      "layman": "mental health issues"
+    },
+    {
+      "jargon": "breast cancer diagnosis",
+      "layman": "being diagnosed with breast cancer"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "odds ratio",
+      "layman": "how likely a delay is due to a factor"
+    },
+    {
+      "jargon": "confidence interval",
+      "layman": "range showing how sure we are in a result"
+    },
+    {
+      "jargon": "median",
+      "layman": "middle value in a group"
+    },
+    {
+      "jargon": "cohort study",
+      "layman": "long-term group study of patients over time"
+    },
+    {
+      "jargon": "multivariate analysis",
+      "layman": "checking how many factors affect a result together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "4 weeks or more delay",
+      "layman": "delay of 28 days or more"
+    },
+    {
+      "jargon": "median 13 days delay",
+      "layman": "average delay of 13 days"
+    },
+    {
+      "jargon": "median 7 days delay",
+      "layman": "average delay of 7 days for cancer cases"
+    },
+    {
+      "jargon": "median 18 days system delay",
+      "layman": "average 18-day gap between visits"
+    },
+    {
+      "jargon": "OR = 3.6\u20138.0",
+      "layman": "strong link between belief and delay"
+    }
+  ]
+}

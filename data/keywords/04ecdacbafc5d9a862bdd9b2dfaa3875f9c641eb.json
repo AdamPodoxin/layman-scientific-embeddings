@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Character",
+      "layman": "Personal values and ethics"
+    },
+    {
+      "jargon": "Leadership",
+      "layman": "Influencing others to achieve goals"
+    },
+    {
+      "jargon": "Moral choices",
+      "layman": "Decisions based on right and wrong"
+    },
+    {
+      "jargon": "Ethical behavior",
+      "layman": "Doing what is right, even when no one is watching"
+    },
+    {
+      "jargon": "Integrity",
+      "layman": "Staying honest and consistent"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Example",
+      "layman": "Leading by doing the right thing"
+    },
+    {
+      "jargon": "Education",
+      "layman": "Learning through training and teaching"
+    },
+    {
+      "jargon": "Experience",
+      "layman": "Gaining wisdom through real-life situations"
+    },
+    {
+      "jargon": "Evaluation",
+      "layman": "Checking and assessing performance"
+    },
+    {
+      "jargon": "Environment",
+      "layman": "Influences from surroundings and culture"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Positive influence",
+      "layman": "Helping others grow and do well"
+    },
+    {
+      "jargon": "Strong leadership character",
+      "layman": "Leaders who act with honesty and courage"
+    },
+    {
+      "jargon": "Deficit leadership",
+      "layman": "Leadership with weaknesses or poor ethics"
+    },
+    {
+      "jargon": "Leadership success",
+      "layman": "Good results from strong leadership"
+    },
+    {
+      "jargon": "Character development",
+      "layman": "Growing better personal values over time"
+    }
+  ]
+}

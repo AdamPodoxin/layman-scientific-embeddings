@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Pulmonary arterial hypertension",
-      "layman": "High blood pressure in lung arteries"
+      "layman": "High blood pressure in the lungs"
     },
     {
       "jargon": "Right heart failure",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "PAH etiology",
-      "layman": "Cause of the lung disease"
+      "layman": "Cause of pulmonary arterial hypertension"
     }
   ],
   "methodologies": [
     {
       "jargon": "Risk assessment",
-      "layman": "Evaluating disease risk"
+      "layman": "Evaluating risk of disease worsening"
     },
     {
-      "jargon": "Serial fashion",
-      "layman": "Over time, step by step"
+      "jargon": "Serial monitoring",
+      "layman": "Checking over time"
     },
     {
-      "jargon": "Clinical parameters",
-      "layman": "Medical symptoms and signs"
+      "jargon": "Prognostic scores",
+      "layman": "Predictive tools for disease outcome"
     },
     {
       "jargon": "Hemodynamic parameters",
       "layman": "Blood pressure and flow measurements"
     },
     {
-      "jargon": "Risk equations",
-      "layman": "Math formulas for risk prediction"
+      "jargon": "Clinical parameters",
+      "layman": "Medical symptoms and signs"
     }
   ],
   "outcomes": [
     {
       "jargon": "Disease progression",
-      "layman": "Worsening of the disease"
+      "layman": "Disease gets worse over time"
     },
     {
       "jargon": "Increased hospitalizations",
       "layman": "More hospital visits"
     },
     {
-      "jargon": "Prognosis",
-      "layman": "Expected future health outcome"
-    },
-    {
       "jargon": "Treatment response",
       "layman": "How well treatment works"
     },
     {
+      "jargon": "Prognosis",
+      "layman": "Likelihood of disease outcome"
+    },
+    {
       "jargon": "Resource allocation",
-      "layman": "Deciding who gets care first"
+      "layman": "How care is distributed"
     }
   ]
 }

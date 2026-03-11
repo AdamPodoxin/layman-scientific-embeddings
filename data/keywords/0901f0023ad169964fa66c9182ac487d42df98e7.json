@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "British painting",
+      "layman": "British painting"
+    },
+    {
+      "jargon": "Walter Sickert",
+      "layman": "Walter Sickert"
+    },
+    {
+      "jargon": "Francis Bacon",
+      "layman": "Francis Bacon"
+    },
+    {
+      "jargon": "Lucian Freud",
+      "layman": "Lucian Freud"
+    },
+    {
+      "jargon": "LS Lowry",
+      "layman": "LS Lowry"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Exhibition",
+      "layman": "Art show"
+    },
+    {
+      "jargon": "Curated",
+      "layman": "Carefully selected"
+    },
+    {
+      "jargon": "Organised",
+      "layman": "Planned and arranged"
+    },
+    {
+      "jargon": "Artistic representation",
+      "layman": "Artistic depiction"
+    },
+    {
+      "jargon": "Painting",
+      "layman": "Painting"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strong reference to the real world",
+      "layman": "Real-life inspiration"
+    },
+    {
+      "jargon": "Harsh realities",
+      "layman": "Difficult truths"
+    },
+    {
+      "jargon": "Urban environment",
+      "layman": "City life"
+    },
+    {
+      "jargon": "Social issues",
+      "layman": "Community problems"
+    },
+    {
+      "jargon": "Painting as a simple act",
+      "layman": "Painting as a basic practice"
+    }
+  ]
+}

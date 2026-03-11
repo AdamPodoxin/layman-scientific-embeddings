@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Domestic abuse",
+      "layman": "Family violence"
+    },
+    {
+      "jargon": "Policy-making",
+      "layman": "Government decision-making"
+    },
+    {
+      "jargon": "Children's rights",
+      "layman": "Rights of young people"
+    },
+    {
+      "jargon": "Young people",
+      "layman": "Young people"
+    },
+    {
+      "jargon": "Participatory action research",
+      "layman": "Joint research with community members"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Co-production of knowledge",
+      "layman": "Creating knowledge together"
+    },
+    {
+      "jargon": "Participatory Action Research Process",
+      "layman": "Research where participants take action"
+    },
+    {
+      "jargon": "Qualitative first part",
+      "layman": "Initial interviews and observations"
+    },
+    {
+      "jargon": "Critical friendship",
+      "layman": "Deep, respectful relationship with leaders"
+    },
+    {
+      "jargon": "Ethical principles",
+      "layman": "Guiding rules for fairness and safety"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Enjoyment, Empowerment and Emancipation",
+      "layman": "Feeling safe, in control, and free"
+    },
+    {
+      "jargon": "Public online awareness campaign",
+      "layman": "Online campaign to raise awareness"
+    },
+    {
+      "jargon": "Film production",
+      "layman": "Making a film to share stories"
+    },
+    {
+      "jargon": "Multi-million fund",
+      "layman": "Large funding amount"
+    },
+    {
+      "jargon": "Conditions of grant",
+      "layman": "Rules for receiving money"
+    }
+  ]
+}

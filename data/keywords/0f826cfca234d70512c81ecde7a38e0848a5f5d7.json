@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spirituality of the desert",
+      "layman": "Seeking the divine in solitude"
+    },
+    {
+      "jargon": "Origen of Alexandria",
+      "layman": "Ancient theologian from Alexandria"
+    },
+    {
+      "jargon": "Desert",
+      "layman": "Remote, quiet place"
+    },
+    {
+      "jargon": "Divine encounter",
+      "layman": "Meeting with the divine"
+    },
+    {
+      "jargon": "Inner voice",
+      "layman": "Personal intuition"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mystic phenomenology",
+      "layman": "Studying mystical experiences"
+    },
+    {
+      "jargon": "Theological reflection",
+      "layman": "Deep thinking about religion"
+    },
+    {
+      "jargon": "Homilies on Exodus",
+      "layman": "Sermons based on the Exodus story"
+    },
+    {
+      "jargon": "Analytical framework",
+      "layman": "Systematic way of examining ideas"
+    },
+    {
+      "jargon": "Historical influence",
+      "layman": "Impact over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Freedom",
+      "layman": "Being unbound and free"
+    },
+    {
+      "jargon": "Peace",
+      "layman": "Inner calm"
+    },
+    {
+      "jargon": "Risk and uncertainty",
+      "layman": "Doubt and danger"
+    },
+    {
+      "jargon": "Success in search of God",
+      "layman": "Finding God through struggle"
+    },
+    {
+      "jargon": "Validity for contemporary world",
+      "layman": "Relevance today"
+    }
+  ]
+}

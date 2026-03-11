@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Amino acid methyl esters",
+      "layman": "Modified amino acids"
+    },
+    {
+      "jargon": "Cupric ions",
+      "layman": "Copper ions"
+    },
+    {
+      "jargon": "Oligoglycines",
+      "layman": "Short chains of glycine"
+    },
+    {
+      "jargon": "Trifunctional amino acid",
+      "layman": "Amino acid with three functional groups"
+    },
+    {
+      "jargon": "Montmorillonite",
+      "layman": "Clay mineral"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Polymerization",
+      "layman": "Chain growth reaction"
+    },
+    {
+      "jargon": "Catalyzed by cupric ions",
+      "layman": "Speeded up by copper ions"
+    },
+    {
+      "jargon": "Complexed with substances",
+      "layman": "Bound to other materials"
+    },
+    {
+      "jargon": "Extended to aqueous medium",
+      "layman": "Try in water"
+    },
+    {
+      "jargon": "Prebiotic significance",
+      "layman": "Relevance to early life"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Degree of polymerization up to nine",
+      "layman": "Chain length up to nine units"
+    },
+    {
+      "jargon": "Low yield and degree of polymerization",
+      "layman": "Small amount and short chains"
+    },
+    {
+      "jargon": "Not successful in aqueous medium",
+      "layman": "Failed in water"
+    },
+    {
+      "jargon": "Prebiotic significance discussed",
+      "layman": "Early life relevance explored"
+    },
+    {
+      "jargon": "Organic solvents",
+      "layman": "Non-water liquids"
+    }
+  ]
+}

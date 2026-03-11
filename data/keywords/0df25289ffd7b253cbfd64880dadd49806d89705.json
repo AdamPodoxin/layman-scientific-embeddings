@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Culture",
+      "layman": "Shared values and practices"
+    },
+    {
+      "jargon": "Class consciousness",
+      "layman": "Awareness of one's social class"
+    },
+    {
+      "jargon": "Industrial militancy",
+      "layman": "Strong worker resistance to employers"
+    },
+    {
+      "jargon": "Workplace life",
+      "layman": "Daily life in a job setting"
+    },
+    {
+      "jargon": "Cultural materialism",
+      "layman": "Studying everyday life and traditions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cultural analysis",
+      "layman": "Studying shared beliefs and practices"
+    },
+    {
+      "jargon": "Historical examination",
+      "layman": "Looking at past events and patterns"
+    },
+    {
+      "jargon": "Contestation of meaning",
+      "layman": "Different groups arguing over what something means"
+    },
+    {
+      "jargon": "Anthropological approach",
+      "layman": "Studying people's traditions and lifestyles"
+    },
+    {
+      "jargon": "Theoretical development",
+      "layman": "Creating new ideas to explain culture"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Political concept",
+      "layman": "A concept tied to power and values"
+    },
+    {
+      "jargon": "Expanded definition of culture",
+      "layman": "Culture includes everyday life, not just art"
+    },
+    {
+      "jargon": "Dismissal of cultural processes",
+      "layman": "Ignoring cultural activities as unimportant"
+    },
+    {
+      "jargon": "New research agenda",
+      "layman": "New direction for future study"
+    },
+    {
+      "jargon": "Collective ethos",
+      "layman": "Shared spirit or identity in a group"
+    }
+  ]
+}

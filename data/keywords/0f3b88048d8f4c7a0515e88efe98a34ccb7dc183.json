@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Degas' nudes",
+      "layman": "Degas' nudes"
+    },
+    {
+      "jargon": "Gissing's even-handed oddness",
+      "layman": "Gissing's balanced strangeness"
+    },
+    {
+      "jargon": "Henry James and the battle of the sexes",
+      "layman": "Henry James and gender conflict"
+    },
+    {
+      "jargon": "Hitchcock's couples",
+      "layman": "Hitchcock's couples"
+    },
+    {
+      "jargon": "Randall Jarrell's sinister beings",
+      "layman": "Jarrell's dark figures"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Artistic gaze",
+      "layman": "Looking through art"
+    },
+    {
+      "jargon": "Visual analysis",
+      "layman": "Analyzing images"
+    },
+    {
+      "jargon": "Narrative interpretation",
+      "layman": "Reading stories in art"
+    },
+    {
+      "jargon": "Gendered representation",
+      "layman": "How gender is shown in art"
+    },
+    {
+      "jargon": "Emotional resonance",
+      "layman": "Emotional impact of art"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Divided selves",
+      "layman": "Split identities"
+    },
+    {
+      "jargon": "The disembodied body",
+      "layman": "Body without a person"
+    },
+    {
+      "jargon": "Stanwyck closing the circle",
+      "layman": "Stanwyck completing the theme"
+    },
+    {
+      "jargon": "Beaton's ladies",
+      "layman": "Beaton's elegant women"
+    },
+    {
+      "jargon": "Marilyn Monroe's body",
+      "layman": "Marilyn Monroe's image"
+    }
+  ]
+}

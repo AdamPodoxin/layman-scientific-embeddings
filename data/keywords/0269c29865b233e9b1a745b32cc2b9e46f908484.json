@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "H2CN",
+      "layman": "Hydrogen cyanide with two hydrogens"
+    },
+    {
+      "jargon": "trans-HCNH",
+      "layman": "Straight hydrogen cyanide isomer"
+    },
+    {
+      "jargon": "cis-HCNH",
+      "layman": "Bent hydrogen cyanide isomer"
+    },
+    {
+      "jargon": "Hydrogen cyanide",
+      "layman": "Hydrogen cyanide"
+    },
+    {
+      "jargon": "Radical",
+      "layman": "Unstable, missing electron molecule"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Iterative Extended H\u00fcckel Theory",
+      "layman": "Quantum chemistry model"
+    },
+    {
+      "jargon": "Energy-conformation studies",
+      "layman": "Studying energy and shape"
+    },
+    {
+      "jargon": "Stepwise addition",
+      "layman": "Adding one piece at a time"
+    },
+    {
+      "jargon": "Unpaired electron density distribution",
+      "layman": "Where electrons are missing"
+    },
+    {
+      "jargon": "ESR spectra",
+      "layman": "Magnetic signal from unpaired electrons"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Thermodynamic stability",
+      "layman": "Most stable form"
+    },
+    {
+      "jargon": "Kinetic favorability",
+      "layman": "Forms faster"
+    },
+    {
+      "jargon": "Minimum energy conformers",
+      "layman": "Lowest energy shapes"
+    },
+    {
+      "jargon": "Bonding nature",
+      "layman": "How atoms are connected"
+    },
+    {
+      "jargon": "Relevance to prebiotic chemistry",
+      "layman": "Role in early life processes"
+    }
+  ]
+}

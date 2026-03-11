@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Perpetual American options",
+      "layman": "Options with no expiration date"
+    },
+    {
+      "jargon": "Call-Put duality",
+      "layman": "Symmetry between call and put options"
+    },
+    {
+      "jargon": "Payoff function",
+      "layman": "Profit outcome rule"
+    },
+    {
+      "jargon": "Monotonicity",
+      "layman": "Steady increase or decrease"
+    },
+    {
+      "jargon": "Concavity",
+      "layman": "Curving downward shape"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analytical form",
+      "layman": "Mathematical formula"
+    },
+    {
+      "jargon": "Optimal strategy",
+      "layman": "Best decision rule"
+    },
+    {
+      "jargon": "Monotonicity and concavity assumptions",
+      "layman": "Simple shape rules for payoff"
+    },
+    {
+      "jargon": "Derivation",
+      "layman": "Logical step-by-step proof"
+    },
+    {
+      "jargon": "Generalization",
+      "layman": "Extending to broader cases"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Duality still holds",
+      "layman": "Symmetry remains valid"
+    },
+    {
+      "jargon": "Calculations easier",
+      "layman": "Math becomes simpler"
+    },
+    {
+      "jargon": "Specific analytical form not crucial",
+      "layman": "Exact formula isn't needed"
+    },
+    {
+      "jargon": "Optimal strategy known explicitly",
+      "layman": "Best action is clearly defined"
+    },
+    {
+      "jargon": "Call-Put duality equality",
+      "layman": "Equal value between call and put"
+    }
+  ]
+}

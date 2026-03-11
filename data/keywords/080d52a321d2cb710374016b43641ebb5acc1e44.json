@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Curry-typed logic",
+      "layman": "Typed logic with function types"
+    },
+    {
+      "jargon": "Intensionality",
+      "layman": "How something is expressed, not just what it is"
+    },
+    {
+      "jargon": "Turner\u2019s typed predicate logic",
+      "layman": "Logical system for reasoning about properties"
+    },
+    {
+      "jargon": "Property theory",
+      "layman": "Theory of how properties work in language"
+    },
+    {
+      "jargon": "Lambda-calculus",
+      "layman": "Mathematical system for functions and computation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Formulate",
+      "layman": "Create a formal system"
+    },
+    {
+      "jargon": "Operational interpretation",
+      "layman": "Give a practical meaning to a concept"
+    },
+    {
+      "jargon": "Fine-grained intensionality",
+      "layman": "Detailed way of tracking how things are expressed"
+    },
+    {
+      "jargon": "Federation of languages",
+      "layman": "Combining multiple language systems"
+    },
+    {
+      "jargon": "Model of computation",
+      "layman": "Mathematical way to simulate computing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Elegant presentation",
+      "layman": "Clean and simple explanation"
+    },
+    {
+      "jargon": "No need for federation",
+      "layman": "No need to combine multiple systems"
+    },
+    {
+      "jargon": "Expressions as terms",
+      "layman": "Statements act like computation units"
+    },
+    {
+      "jargon": "Operational account",
+      "layman": "Practical explanation of how it works"
+    },
+    {
+      "jargon": "Theory corresponds to Fox and Lappin",
+      "layman": "Matches existing linguistic theory"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Geographical environment",
+      "layman": "Natural landscape"
+    },
+    {
+      "jargon": "Man-induced changes",
+      "layman": "Human-caused changes"
+    },
+    {
+      "jargon": "Oases",
+      "layman": "Green areas in deserts"
+    },
+    {
+      "jargon": "Natural landscape",
+      "layman": "Natural landscape"
+    },
+    {
+      "jargon": "Artificial, technological environment",
+      "layman": "Man-made technology environment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Creation of oases",
+      "layman": "Building green spaces in deserts"
+    },
+    {
+      "jargon": "Differentiation",
+      "layman": "Separating types"
+    },
+    {
+      "jargon": "Analysis of landscape structure",
+      "layman": "Studying landscape patterns"
+    },
+    {
+      "jargon": "Environmental assessment",
+      "layman": "Evaluating environmental changes"
+    },
+    {
+      "jargon": "Contend",
+      "layman": "Argue a point"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Radical changes",
+      "layman": "Major transformations"
+    },
+    {
+      "jargon": "Affect all components",
+      "layman": "Change everything in the system"
+    },
+    {
+      "jargon": "Man-altered natural environment",
+      "layman": "Changed natural surroundings"
+    },
+    {
+      "jargon": "Man-created artificial environment",
+      "layman": "Human-made technology areas"
+    },
+    {
+      "jargon": "Landscape structure",
+      "layman": "How the land is arranged"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "AECs",
+      "layman": "Mathematical structures for classifying theories"
+    },
+    {
+      "jargon": "Tameness",
+      "layman": "Controlled growth of theories"
+    },
+    {
+      "jargon": "Good \u03bb-frames",
+      "layman": "Well-organized theory frameworks"
+    },
+    {
+      "jargon": "Nonforking",
+      "layman": "Predictable theory behavior"
+    },
+    {
+      "jargon": "Limit models",
+      "layman": "Final model in a sequence"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Stability transfer theorem",
+      "layman": "Moving stability between sizes"
+    },
+    {
+      "jargon": "Classification theory",
+      "layman": "Categorizing mathematical theories"
+    },
+    {
+      "jargon": "Frame construction",
+      "layman": "Building theory frameworks"
+    },
+    {
+      "jargon": "Cardinality analysis",
+      "layman": "Studying size of mathematical objects"
+    },
+    {
+      "jargon": "Uniqueness proof",
+      "layman": "Showing only one possible model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Well-behaved nonforking",
+      "layman": "Predictable and stable theory rules"
+    },
+    {
+      "jargon": "Longstanding gap filled",
+      "layman": "Missing piece solved"
+    },
+    {
+      "jargon": "Applicability increased",
+      "layman": "More useful in real cases"
+    },
+    {
+      "jargon": "Complete stability transfer",
+      "layman": "Full stability moved across sizes"
+    },
+    {
+      "jargon": "Uniqueness of limit models",
+      "layman": "Only one final model exists"
+    }
+  ]
+}

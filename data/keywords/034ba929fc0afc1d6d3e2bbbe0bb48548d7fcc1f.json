@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Charitable sector",
+      "layman": "Charities"
+    },
+    {
+      "jargon": "Social policy",
+      "layman": "Government efforts to help society"
+    },
+    {
+      "jargon": "Corporate governance",
+      "layman": "Rules for how organizations are managed"
+    },
+    {
+      "jargon": "Governmental attention",
+      "layman": "Government focus"
+    },
+    {
+      "jargon": "Legislative measures",
+      "layman": "New laws"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical context",
+      "layman": "Past background"
+    },
+    {
+      "jargon": "Debate",
+      "layman": "Discussion"
+    },
+    {
+      "jargon": "Battery of measures",
+      "layman": "Set of actions taken together"
+    },
+    {
+      "jargon": "Policy analysis",
+      "layman": "Evaluating policies"
+    },
+    {
+      "jargon": "Reinforcing centrality",
+      "layman": "Strengthening importance"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improvements in corporate governance climate",
+      "layman": "Better management in charities"
+    },
+    {
+      "jargon": "Centrality of charity",
+      "layman": "Charities are key in social policy"
+    },
+    {
+      "jargon": "Dormant issue",
+      "layman": "Problem ignored for years"
+    },
+    {
+      "jargon": "Governmental response",
+      "layman": "Government takes action"
+    },
+    {
+      "jargon": "Varying fortunes",
+      "layman": "Mixed results over time"
+    }
+  ]
+}

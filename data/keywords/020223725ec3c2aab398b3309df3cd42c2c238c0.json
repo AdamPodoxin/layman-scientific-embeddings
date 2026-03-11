@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Private transnational governance",
+      "layman": "Private rules across countries"
+    },
+    {
+      "jargon": "Southern hemisphere",
+      "layman": "Developing countries"
+    },
+    {
+      "jargon": "Northern interests",
+      "layman": "Rich country priorities"
+    },
+    {
+      "jargon": "Southern stakeholders",
+      "layman": "People from developing nations"
+    },
+    {
+      "jargon": "Sustainability politics",
+      "layman": "Efforts to protect the planet"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Comparative perspective",
+      "layman": "Comparing different cases"
+    },
+    {
+      "jargon": "Discursive shifts",
+      "layman": "Changing how issues are talked about"
+    },
+    {
+      "jargon": "Regulatory frameworks",
+      "layman": "Rules that govern actions"
+    },
+    {
+      "jargon": "Decision-making processes",
+      "layman": "How choices are made"
+    },
+    {
+      "jargon": "Knowledge-centered elements",
+      "layman": "Focusing on information and data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Significant influence",
+      "layman": "Strong impact"
+    },
+    {
+      "jargon": "Normative concepts",
+      "layman": "Core values or principles"
+    },
+    {
+      "jargon": "New regulatory frameworks",
+      "layman": "New rules created"
+    },
+    {
+      "jargon": "Low representation",
+      "layman": "Underrepresented voices"
+    },
+    {
+      "jargon": "Political framing",
+      "layman": "How issues are presented as political matters"
+    }
+  ]
+}

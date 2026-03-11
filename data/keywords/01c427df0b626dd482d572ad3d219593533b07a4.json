@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "copper(I) glutathione complexes",
+      "layman": "Copper-glutathione complexes"
+    },
+    {
+      "jargon": "glutathione",
+      "layman": "Glutathione"
+    },
+    {
+      "jargon": "thiolate sulfur",
+      "layman": "Sulfur in thiol form"
+    },
+    {
+      "jargon": "Cu(II)",
+      "layman": "Copper(II)"
+    },
+    {
+      "jargon": "Cu(I)",
+      "layman": "Copper(I)"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "1H-NMR and 13C-NMR spectroscopy",
+      "layman": "Magnetic resonance to see molecular structure"
+    },
+    {
+      "jargon": "X-ray absorption spectroscopy",
+      "layman": "X-ray technique to see atom positions"
+    },
+    {
+      "jargon": "pH values",
+      "layman": "Acidity or alkalinity levels"
+    },
+    {
+      "jargon": "molar ratios",
+      "layman": "Amounts of chemicals relative to each other"
+    },
+    {
+      "jargon": "rate of exchange",
+      "layman": "How fast molecules swap places"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "1:1 stoichiometry",
+      "layman": "One copper to one glutathione"
+    },
+    {
+      "jargon": "3.1\u00b10.3 sulfur atoms",
+      "layman": "About three sulfur atoms bonded"
+    },
+    {
+      "jargon": "0.222 nm coordination distance",
+      "layman": "Sulfur atoms at 0.222 nm from copper"
+    },
+    {
+      "jargon": "high thermodynamic stability",
+      "layman": "Very strong bond"
+    },
+    {
+      "jargon": "kinetic lability",
+      "layman": "Quick to break and reform"
+    }
+  ]
+}

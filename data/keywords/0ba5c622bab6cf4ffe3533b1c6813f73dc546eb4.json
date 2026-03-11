@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rational languages",
+      "layman": "Simple patterns of strings"
+    },
+    {
+      "jargon": "Finite automata",
+      "layman": "Simple machines that follow rules"
+    },
+    {
+      "jargon": "Star-free problems",
+      "layman": "Problems about patterns without repetition"
+    },
+    {
+      "jargon": "Star-height problem",
+      "layman": "How deep can pattern repetition go"
+    },
+    {
+      "jargon": "Dot-depth problem",
+      "layman": "How deeply nested are patterns"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Product of rational languages",
+      "layman": "Combining language patterns"
+    },
+    {
+      "jargon": "McNaughton's problem",
+      "layman": "Solving pattern complexity"
+    },
+    {
+      "jargon": "Eggan's problem",
+      "layman": "Testing pattern nesting depth"
+    },
+    {
+      "jargon": "Brzozowski's problem",
+      "layman": "Studying pattern structure"
+    },
+    {
+      "jargon": "Theoretical analysis",
+      "layman": "Mathematical reasoning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Deep connections",
+      "layman": "Strong links between fields"
+    },
+    {
+      "jargon": "Expanding results",
+      "layman": "Growing understanding"
+    },
+    {
+      "jargon": "Mathematical insights",
+      "layman": "New ways of thinking"
+    },
+    {
+      "jargon": "Interdisciplinary links",
+      "layman": "Connections across subjects"
+    },
+    {
+      "jargon": "Understanding of product",
+      "layman": "Better grasp of combining patterns"
+    }
+  ]
+}

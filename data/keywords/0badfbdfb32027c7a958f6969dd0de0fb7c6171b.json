@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Enlightenment figures",
+      "layman": "Smart thinkers of the 18th century"
+    },
+    {
+      "jargon": "Prussian explorer",
+      "layman": "German traveler and scientist"
+    },
+    {
+      "jargon": "American statesman",
+      "layman": "Political leader in the U.S."
+    },
+    {
+      "jargon": "Naturalist",
+      "layman": "Person who studies nature"
+    },
+    {
+      "jargon": "Geographer",
+      "layman": "Person who studies maps and Earth's features"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Corresponded",
+      "layman": "Wrote letters to each other"
+    },
+    {
+      "jargon": "Speculated",
+      "layman": "Made educated guesses together"
+    },
+    {
+      "jargon": "Explored",
+      "layman": "Traveled and studied new places"
+    },
+    {
+      "jargon": "Interacted",
+      "layman": "Met and talked face to face"
+    },
+    {
+      "jargon": "Shared ideas",
+      "layman": "Exchanged thoughts and opinions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Friendly relationship",
+      "layman": "Positive and lasting bond"
+    },
+    {
+      "jargon": "Intellectual exchange",
+      "layman": "Sharing of knowledge and thoughts"
+    },
+    {
+      "jargon": "Mutual interest",
+      "layman": "Shared passions and topics"
+    },
+    {
+      "jargon": "Hope in democratic model",
+      "layman": "Belief in democracy as a good system"
+    },
+    {
+      "jargon": "Influence on Latin America",
+      "layman": "Impact on independence movements"
+    }
+  ]
+}

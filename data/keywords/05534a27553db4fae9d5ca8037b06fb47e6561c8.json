@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Inhaled corticosteroids",
+      "layman": "Inhaler steroids"
+    },
+    {
+      "jargon": "COPD",
+      "layman": "Chronic lung disease"
+    },
+    {
+      "jargon": "Placebo arm",
+      "layman": "No-treatment group"
+    },
+    {
+      "jargon": "Vital status",
+      "layman": "Death or survival status"
+    },
+    {
+      "jargon": "Patient withdrawal",
+      "layman": "Patients stopping treatment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Pooled analysis",
+      "layman": "Combining data from multiple studies"
+    },
+    {
+      "jargon": "Incomplete ascertainment",
+      "layman": "Missing death data"
+    },
+    {
+      "jargon": "Trial comparison",
+      "layman": "Comparing treatment groups"
+    },
+    {
+      "jargon": "Withdrawal patterns",
+      "layman": "How patients stop treatment"
+    },
+    {
+      "jargon": "Statistical impact",
+      "layman": "Effect of data on results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mortality",
+      "layman": "Death rate"
+    },
+    {
+      "jargon": "Overall results",
+      "layman": "Final study conclusion"
+    },
+    {
+      "jargon": "Imbalance in withdrawal",
+      "layman": "More deaths in steroid group"
+    },
+    {
+      "jargon": "Meaningful impact",
+      "layman": "Big effect on findings"
+    },
+    {
+      "jargon": "No significant difference",
+      "layman": "No clear benefit shown"
+    }
+  ]
+}

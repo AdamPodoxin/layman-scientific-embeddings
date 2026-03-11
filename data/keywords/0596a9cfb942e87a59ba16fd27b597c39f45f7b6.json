@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "University",
+      "layman": "University"
+    },
+    {
+      "jargon": "Industry",
+      "layman": "Business sector"
+    },
+    {
+      "jargon": "Cooperation",
+      "layman": "Working together"
+    },
+    {
+      "jargon": "Parties to the transaction",
+      "layman": "The two sides involved"
+    },
+    {
+      "jargon": "Relations",
+      "layman": "Connections between groups"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cooperative relations",
+      "layman": "Joint efforts"
+    },
+    {
+      "jargon": "Advancement",
+      "layman": "Progress"
+    },
+    {
+      "jargon": "Tendency",
+      "layman": "Growing pattern"
+    },
+    {
+      "jargon": "Continuation",
+      "layman": "Ongoing process"
+    },
+    {
+      "jargon": "Transaction",
+      "layman": "Exchange of goods or services"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Distinct advance",
+      "layman": "Clear progress"
+    },
+    {
+      "jargon": "Great advantage",
+      "layman": "Major benefit"
+    },
+    {
+      "jargon": "Hope and belief",
+      "layman": "Positive expectation"
+    },
+    {
+      "jargon": "Benefit to both parties",
+      "layman": "Win-win result"
+    },
+    {
+      "jargon": "Tendency to continue",
+      "layman": "Likely to keep going"
+    }
+  ]
+}

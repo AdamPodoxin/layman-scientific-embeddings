@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Interactive multimedia applications",
+      "layman": "Real-time media apps"
+    },
+    {
+      "jargon": "Multicore hardware architectures",
+      "layman": "Multiple processor chips"
+    },
+    {
+      "jargon": "Dependency graphs",
+      "layman": "Flow charts of tasks and links"
+    },
+    {
+      "jargon": "Directed acyclic graphs",
+      "layman": "Flow charts without loops"
+    },
+    {
+      "jargon": "Parallelization domains",
+      "layman": "Types of parallel work"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Parallel programming models",
+      "layman": "Ways to write parallel code"
+    },
+    {
+      "jargon": "Run-time system support",
+      "layman": "System that runs code in background"
+    },
+    {
+      "jargon": "Partitioning",
+      "layman": "Splitting work into pieces"
+    },
+    {
+      "jargon": "Scheduling",
+      "layman": "Deciding when to run tasks"
+    },
+    {
+      "jargon": "Agglomeration",
+      "layman": "Grouping tasks together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Arbitrarily complex dependency graphs",
+      "layman": "Complex task flows with loops"
+    },
+    {
+      "jargon": "Cycles and branches in graphs",
+      "layman": "Loops and splits in task flow"
+    },
+    {
+      "jargon": "Deadlines",
+      "layman": "Time limits for tasks"
+    },
+    {
+      "jargon": "Support for data, task, pipeline, and nested parallelism",
+      "layman": "Handles multiple types of parallel work"
+    },
+    {
+      "jargon": "Scalability of the solution",
+      "layman": "Works well with growing size"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rehabilitation procedures",
+      "layman": "Processes to help businesses recover"
+    },
+    {
+      "jargon": "Enterprise debtors",
+      "layman": "Businesses that are in financial trouble"
+    },
+    {
+      "jargon": "Financial recovery",
+      "layman": "Getting businesses back on their feet"
+    },
+    {
+      "jargon": "Creditors",
+      "layman": "People or groups who lend money"
+    },
+    {
+      "jargon": "Solvency",
+      "layman": "Ability to pay debts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "International approaches",
+      "layman": "Global best practices"
+    },
+    {
+      "jargon": "Building a new system",
+      "layman": "Creating a new process"
+    },
+    {
+      "jargon": "Transparency",
+      "layman": "Clear and open information"
+    },
+    {
+      "jargon": "Financial improvement procedures",
+      "layman": "Steps to fix business finances"
+    },
+    {
+      "jargon": "Efficiency in procedures",
+      "layman": "Doing things quickly and well"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Effectiveness in overcoming financial difficulties",
+      "layman": "Helping businesses fix money problems"
+    },
+    {
+      "jargon": "Lack of confidence in current procedures",
+      "layman": "Businesses don't trust current methods"
+    },
+    {
+      "jargon": "Temporary financial difficulties",
+      "layman": "Short-term money problems"
+    },
+    {
+      "jargon": "Restoration of solvency",
+      "layman": "Getting back to being financially stable"
+    },
+    {
+      "jargon": "Confidence in solving financial issues",
+      "layman": "Trust that problems can be solved"
+    }
+  ]
+}

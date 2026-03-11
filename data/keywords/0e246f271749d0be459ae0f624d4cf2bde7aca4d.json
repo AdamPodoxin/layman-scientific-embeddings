@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "S(IV)",
+      "layman": "Sulfur in +4 state"
+    },
+    {
+      "jargon": "N(III) oxoacids",
+      "layman": "Nitrogen-based acids with N in +3 state"
+    },
+    {
+      "jargon": "Hydroxylaminedisulphonate",
+      "layman": "Sulfur-nitrogen compound formed"
+    },
+    {
+      "jargon": "Metal ions",
+      "layman": "Dissolved metal atoms"
+    },
+    {
+      "jargon": "HONO",
+      "layman": "Nitrous acid"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Ion-pair chromatography",
+      "layman": "Separates chemical compounds by charge"
+    },
+    {
+      "jargon": "Stopped-flow spectroscopy",
+      "layman": "Speeds up chemical reaction observation"
+    },
+    {
+      "jargon": "Conventional spectroscopy",
+      "layman": "Measures light absorption by chemicals"
+    },
+    {
+      "jargon": "Empirical rate law",
+      "layman": "Rule based on experimental data"
+    },
+    {
+      "jargon": "Boedeker reaction",
+      "layman": "Reaction where nitrosyl compound reacts with sulfite"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Product identification",
+      "layman": "Finding what chemicals are formed"
+    },
+    {
+      "jargon": "Sulfur-nitrogen oxides",
+      "layman": "New compounds with sulfur and nitrogen"
+    },
+    {
+      "jargon": "Catalytic effect",
+      "layman": "Reaction speed increases with a catalyst"
+    },
+    {
+      "jargon": "Reaction rate",
+      "layman": "How fast the reaction happens"
+    },
+    {
+      "jargon": "pH range 3.5\u20135.2",
+      "layman": "Acidic conditions studied"
+    }
+  ]
+}

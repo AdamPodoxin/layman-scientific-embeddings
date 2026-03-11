@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Nonlinear optics",
-      "layman": "Light behavior in special materials"
+      "layman": "Light behaving in complex ways"
     },
     {
       "jargon": "Delayed choice",
-      "layman": "Choice made after an event happens"
+      "layman": "Deciding later what happened before"
     },
     {
       "jargon": "EPR-type correlations",
-      "layman": "Strange linked measurements"
+      "layman": "Linked measurements that match instantly"
     },
     {
       "jargon": "Faster-than-light communication",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Quantum entanglement",
-      "layman": "Linked particles that act together"
+      "layman": "Particles acting as one, even apart"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Nonlinear optics",
-      "layman": "Light behavior in special materials"
-    },
-    {
-      "jargon": "Delayed choice",
-      "layman": "Choice made after an event happens"
+      "jargon": "Delayed choice experiment",
+      "layman": "Testing decisions made after events"
     },
     {
       "jargon": "EPR-type correlations",
-      "layman": "Strange linked measurements"
+      "layman": "Measuring linked particles at a distance"
     },
     {
-      "jargon": "Attempts to refute",
-      "layman": "Trying to disprove a claim"
+      "jargon": "Nonlinear optical setup",
+      "layman": "Setup where light changes in complex ways"
     },
     {
-      "jargon": "Experimental setup",
-      "layman": "Test configuration"
+      "jargon": "Quantum state measurement",
+      "layman": "Checking a quantum system's state"
+    },
+    {
+      "jargon": "Correlation analysis",
+      "layman": "Looking for patterns in results"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Message faster than light might be possible"
     },
     {
-      "jargon": "Possibility is discussed",
-      "layman": "The idea is debated"
+      "jargon": "Attempts to refute the claim",
+      "layman": "People tried to prove it's impossible"
     },
     {
-      "jargon": "Claims are put forward",
-      "layman": "Arguments are presented"
+      "jargon": "Nonlocal correlations",
+      "layman": "Results that link distant events"
     },
     {
-      "jargon": "Refutation attempts",
-      "layman": "Efforts to prove wrong"
+      "jargon": "Quantum correlations",
+      "layman": "Strong links between measurements"
     },
     {
-      "jargon": "Implications are explored",
-      "layman": "Possible effects are considered"
+      "jargon": "Spooky action at a distance",
+      "layman": "Instant connection between faraway things"
     }
   ]
 }

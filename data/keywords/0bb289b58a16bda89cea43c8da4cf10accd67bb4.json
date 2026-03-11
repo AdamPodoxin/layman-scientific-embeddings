@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cost models",
+      "layman": "Cost models"
+    },
+    {
+      "jargon": "Database systems",
+      "layman": "Database systems"
+    },
+    {
+      "jargon": "Query execution performance",
+      "layman": "How fast queries run"
+    },
+    {
+      "jargon": "Energy consumption",
+      "layman": "Power usage"
+    },
+    {
+      "jargon": "Monetary cost estimation",
+      "layman": "Money cost prediction"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Meta modeling techniques",
+      "layman": "Structured modeling method"
+    },
+    {
+      "jargon": "Repository persistence",
+      "layman": "Saving models in a central place"
+    },
+    {
+      "jargon": "User-friendly interface",
+      "layman": "Easy-to-use interface"
+    },
+    {
+      "jargon": "Explicitation",
+      "layman": "Making clear and visible"
+    },
+    {
+      "jargon": "Conceptualization",
+      "layman": "Creating a clear mental model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Dark entity",
+      "layman": "Hidden and hard to access"
+    },
+    {
+      "jargon": "Scattered details",
+      "layman": "Missing or spread out info"
+    },
+    {
+      "jargon": "Limited access for researchers",
+      "layman": "Hard for experts to use"
+    },
+    {
+      "jargon": "Limited access for students",
+      "layman": "Hard for learners to use"
+    },
+    {
+      "jargon": "Reproduction purposes",
+      "layman": "Ability to recreate or study again"
+    }
+  ]
+}

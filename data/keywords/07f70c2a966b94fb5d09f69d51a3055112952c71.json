@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Business processes",
+      "layman": "Company workflows"
+    },
+    {
+      "jargon": "Organizational resources",
+      "layman": "Company documents and tools"
+    },
+    {
+      "jargon": "Legal documents repositories",
+      "layman": "Places where laws are stored"
+    },
+    {
+      "jargon": "Standards and regulations",
+      "layman": "Rules and guidelines"
+    },
+    {
+      "jargon": "Business process frameworks",
+      "layman": "Process templates used in companies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Knowledge extraction",
+      "layman": "Pulling out useful info"
+    },
+    {
+      "jargon": "Ontology storage",
+      "layman": "Storing knowledge in structured format"
+    },
+    {
+      "jargon": "Machine-readable format",
+      "layman": "Format computers can read"
+    },
+    {
+      "jargon": "External and internal sources",
+      "layman": "Inside and outside company data"
+    },
+    {
+      "jargon": "Process modeling phase",
+      "layman": "Step to design workflows"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Accurate and realistic process model",
+      "layman": "Realistic workflow design"
+    },
+    {
+      "jargon": "Embedded knowledge",
+      "layman": "Knowledge built into systems"
+    },
+    {
+      "jargon": "Service model design",
+      "layman": "Designed knowledge system"
+    },
+    {
+      "jargon": "Machine-readable knowledge",
+      "layman": "Knowledge computers can use"
+    },
+    {
+      "jargon": "Initial analysis phase",
+      "layman": "First step of study"
+    }
+  ]
+}

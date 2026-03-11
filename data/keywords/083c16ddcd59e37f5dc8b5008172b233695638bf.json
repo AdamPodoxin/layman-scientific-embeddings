@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Biblical specialists",
+      "layman": "Experts in the Bible"
+    },
+    {
+      "jargon": "Popular media",
+      "layman": "Mass media"
+    },
+    {
+      "jargon": "Legitimacy",
+      "layman": "Credibility"
+    },
+    {
+      "jargon": "Biblical scholars",
+      "layman": "People who study the Bible"
+    },
+    {
+      "jargon": "Communication style",
+      "layman": "How people share information"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Building legitimacy",
+      "layman": "Gaining trust"
+    },
+    {
+      "jargon": "Forming scholars in communication",
+      "layman": "Training scholars to speak clearly"
+    },
+    {
+      "jargon": "Developing a new style",
+      "layman": "Creating a new way of communicating"
+    },
+    {
+      "jargon": "Media representation",
+      "layman": "How the Bible is shown in media"
+    },
+    {
+      "jargon": "Public engagement",
+      "layman": "Interacting with the public"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Relative optimism",
+      "layman": "Hope for better media coverage"
+    },
+    {
+      "jargon": "Underrepresentation",
+      "layman": "Not being shown enough"
+    },
+    {
+      "jargon": "Advantages",
+      "layman": "Unique strengths"
+    },
+    {
+      "jargon": "Improved communication",
+      "layman": "Better sharing with the public"
+    },
+    {
+      "jargon": "Greater visibility",
+      "layman": "More exposure in media"
+    }
+  ]
+}

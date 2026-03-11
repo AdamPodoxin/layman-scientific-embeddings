@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Graph",
+      "layman": "Network of connections"
+    },
+    {
+      "jargon": "Nodes",
+      "layman": "Points in a network"
+    },
+    {
+      "jargon": "Three-dimensional space",
+      "layman": "3D virtual environment"
+    },
+    {
+      "jargon": "Web-page bookmarks",
+      "layman": "Saved web pages"
+    },
+    {
+      "jargon": "Sub-structures",
+      "layman": "Reference patterns in a layout"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Layout algorithm",
+      "layman": "Rule for arranging nodes"
+    },
+    {
+      "jargon": "User viewpoint manipulation",
+      "layman": "Changing perspective in 3D"
+    },
+    {
+      "jargon": "Edge-tracing",
+      "layman": "Following lines between nodes"
+    },
+    {
+      "jargon": "Recall of sub-structures",
+      "layman": "Remembering key patterns"
+    },
+    {
+      "jargon": "Asymmetric information diagrams",
+      "layman": "Unbalanced visual layouts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Memorable structure",
+      "layman": "Easy-to-remember layout"
+    },
+    {
+      "jargon": "High number of nodes",
+      "layman": "Many connections shown"
+    },
+    {
+      "jargon": "User recall",
+      "layman": "Viewer remembers key parts"
+    },
+    {
+      "jargon": "No need for symmetry",
+      "layman": "No need for balanced shape"
+    },
+    {
+      "jargon": "Relational information",
+      "layman": "How things are connected"
+    }
+  ]
+}

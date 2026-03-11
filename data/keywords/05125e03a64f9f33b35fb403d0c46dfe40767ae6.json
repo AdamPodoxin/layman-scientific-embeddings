@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "IEEE Transactions on Automation Science and Engineering",
+      "layman": "Journal for robotics and automation research"
+    },
+    {
+      "jargon": "Steering Committee",
+      "layman": "Group that guides direction"
+    },
+    {
+      "jargon": "Robotics and Automation",
+      "layman": "Field of machines that move and perform tasks"
+    },
+    {
+      "jargon": "Research community",
+      "layman": "Group of scientists working together"
+    },
+    {
+      "jargon": "Publication",
+      "layman": "Scientific journal or paper"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Convened",
+      "layman": "Called together to discuss"
+    },
+    {
+      "jargon": "Stepped back",
+      "layman": "Looked at the bigger picture"
+    },
+    {
+      "jargon": "Conceived",
+      "layman": "Thought of or created from scratch"
+    },
+    {
+      "jargon": "Worked closely",
+      "layman": "Collaborated tightly"
+    },
+    {
+      "jargon": "Concluded",
+      "layman": "Reached a final decision"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New publication",
+      "layman": "New journal launched"
+    },
+    {
+      "jargon": "Expanded community",
+      "layman": "More people joined the field"
+    },
+    {
+      "jargon": "Essential to expand",
+      "layman": "Needed to grow the field"
+    },
+    {
+      "jargon": "Fundamental role",
+      "layman": "Key contribution"
+    },
+    {
+      "jargon": "Co-founder",
+      "layman": "Helped start something new"
+    }
+  ]
+}

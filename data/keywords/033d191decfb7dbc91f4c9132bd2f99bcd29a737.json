@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hydrostatic pressure",
+      "layman": "Fluid pressure"
+    },
+    {
+      "jargon": "Defects",
+      "layman": "Flaws in material"
+    },
+    {
+      "jargon": "Diffusion-limited processes",
+      "layman": "Slow processes due to movement limits"
+    },
+    {
+      "jargon": "Volume changes",
+      "layman": "Size changes"
+    },
+    {
+      "jargon": "Specimen temperature",
+      "layman": "Sample temperature"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Precise measurement",
+      "layman": "Accurate measurement"
+    },
+    {
+      "jargon": "Motional volume",
+      "layman": "Movement-related size"
+    },
+    {
+      "jargon": "Subtraction",
+      "layman": "Removing a part to find the real value"
+    },
+    {
+      "jargon": "Direct measurement",
+      "layman": "Measuring directly"
+    },
+    {
+      "jargon": "Formation and motion",
+      "layman": "Creation and movement"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Intrinsic volume changes",
+      "layman": "Natural size changes"
+    },
+    {
+      "jargon": "Unambiguous results",
+      "layman": "Clear results"
+    },
+    {
+      "jargon": "Defect formation volume",
+      "layman": "Size when flaw forms"
+    },
+    {
+      "jargon": "Rate of diffusion",
+      "layman": "Speed of spread"
+    },
+    {
+      "jargon": "Pressure effect",
+      "layman": "Impact of pressure"
+    }
+  ]
+}

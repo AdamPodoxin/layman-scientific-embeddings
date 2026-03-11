@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Trade policy preferences",
+      "layman": "People's views on trade rules"
+    },
+    {
+      "jargon": "Factor type",
+      "layman": "Types of labor skills"
+    },
+    {
+      "jargon": "Industry of employment",
+      "layman": "What people work in"
+    },
+    {
+      "jargon": "Skilled labor",
+      "layman": "Highly trained workers"
+    },
+    {
+      "jargon": "Manufacturing mix",
+      "layman": "Types of factories in a region"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Individual-level data set",
+      "layman": "Data from single people"
+    },
+    {
+      "jargon": "Empirical results",
+      "layman": "Findings from real-world data"
+    },
+    {
+      "jargon": "Regression analysis",
+      "layman": "Statistical pattern matching"
+    },
+    {
+      "jargon": "Correlation",
+      "layman": "Two things that go together"
+    },
+    {
+      "jargon": "Factor endowment",
+      "layman": "What a country has in abundance"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Support for trade barriers",
+      "layman": "Backing against trade rules"
+    },
+    {
+      "jargon": "High intersectoral labor mobility",
+      "layman": "Workers move between jobs easily"
+    },
+    {
+      "jargon": "Home ownership",
+      "layman": "Living in a house you own"
+    },
+    {
+      "jargon": "Comparative disadvantage",
+      "layman": "Not good at making certain goods"
+    },
+    {
+      "jargon": "Asset values",
+      "layman": "Value of people's property"
+    }
+  ]
+}

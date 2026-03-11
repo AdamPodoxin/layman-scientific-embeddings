@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Melancholy",
+      "layman": "Deep sadness"
+    },
+    {
+      "jargon": "Fetishism",
+      "layman": "Strong obsession with objects"
+    },
+    {
+      "jargon": "Atrabiliarios",
+      "layman": "Atrabiliarios"
+    },
+    {
+      "jargon": "Museum displays",
+      "layman": "How art is shown in museums"
+    },
+    {
+      "jargon": "Memory",
+      "layman": "Past experiences stored in mind"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Politics of looking",
+      "layman": "How power shapes what we see"
+    },
+    {
+      "jargon": "Museum curation",
+      "layman": "How exhibits are selected and arranged"
+    },
+    {
+      "jargon": "Artistic representation",
+      "layman": "How emotions are shown through art"
+    },
+    {
+      "jargon": "Visual symbolism",
+      "layman": "Meaning behind images"
+    },
+    {
+      "jargon": "Critical engagement",
+      "layman": "Careful thinking about art and power"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mechanisms of melancholy",
+      "layman": "How sadness works in people"
+    },
+    {
+      "jargon": "Link between fetishism and memory",
+      "layman": "Objects hold strong emotional memories"
+    },
+    {
+      "jargon": "Public interpretation of trauma",
+      "layman": "How society understands pain"
+    },
+    {
+      "jargon": "Emotional resonance in art",
+      "layman": "Art creates strong emotional reactions"
+    },
+    {
+      "jargon": "Power dynamics in museums",
+      "layman": "Who controls what we see and remember"
+    }
+  ]
+}

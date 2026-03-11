@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social network",
+      "layman": "Group of people connected through relationships"
+    },
+    {
+      "jargon": "Node thresholds",
+      "layman": "How hard it is for someone to be influenced"
+    },
+    {
+      "jargon": "Arc weights",
+      "layman": "Strength of influence between people"
+    },
+    {
+      "jargon": "Influence",
+      "layman": "Changing someone's opinion or behavior"
+    },
+    {
+      "jargon": "Robustness budget",
+      "layman": "Amount of uncertainty allowed in the system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Branch-and-Cut algorithm",
+      "layman": "Smart search method to find best solution"
+    },
+    {
+      "jargon": "Influence maximization",
+      "layman": "Finding the best people to spread ideas"
+    },
+    {
+      "jargon": "Optimization",
+      "layman": "Finding the best possible outcome"
+    },
+    {
+      "jargon": "Worst-case scenario",
+      "layman": "Most difficult possible situation"
+    },
+    {
+      "jargon": "Numerical experiments",
+      "layman": "Computer tests with numbers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Optimal solution",
+      "layman": "Best possible result found"
+    },
+    {
+      "jargon": "Solve to optimality",
+      "layman": "Find the perfect answer"
+    },
+    {
+      "jargon": "Robust version",
+      "layman": "Version that handles uncertainty"
+    },
+    {
+      "jargon": "Performance comparable",
+      "layman": "Works as well as other methods"
+    },
+    {
+      "jargon": "Instances of size",
+      "layman": "Problem sizes that are large enough"
+    }
+  ]
+}

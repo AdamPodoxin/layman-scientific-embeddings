@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Jew",
+      "layman": "Jew"
+    },
+    {
+      "jargon": "Aujkldrer",
+      "layman": "Enlightenment idealist"
+    },
+    {
+      "jargon": "Freud",
+      "layman": "Freud"
+    },
+    {
+      "jargon": "Enlightenment ideals",
+      "layman": "Values of reason and science"
+    },
+    {
+      "jargon": "Binary opposition",
+      "layman": "Two opposing groups"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Tacit dichotomy",
+      "layman": "Unspoken division"
+    },
+    {
+      "jargon": "Presupposed",
+      "layman": "Assumed without proof"
+    },
+    {
+      "jargon": "Commitment",
+      "layman": "Strong dedication"
+    },
+    {
+      "jargon": "Heritage",
+      "layman": "Family history"
+    },
+    {
+      "jargon": "Critical critique",
+      "layman": "Careful examination"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fundamental wrong",
+      "layman": "Major error"
+    },
+    {
+      "jargon": "Proud of being both",
+      "layman": "Happy to be both"
+    },
+    {
+      "jargon": "Dual identity",
+      "layman": "Two identities together"
+    },
+    {
+      "jargon": "Challenging assumptions",
+      "layman": "Questioning common beliefs"
+    },
+    {
+      "jargon": "Reversing the table",
+      "layman": "Flipping the usual view"
+    }
+  ]
+}

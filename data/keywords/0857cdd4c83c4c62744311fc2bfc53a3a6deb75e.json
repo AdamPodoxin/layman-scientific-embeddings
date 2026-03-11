@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cosmological density perturbations",
+      "layman": "Tiny variations in matter distribution in the early universe"
+    },
+    {
+      "jargon": "Einstein-Cartan gravity",
+      "layman": "A version of gravity that includes spin"
+    },
+    {
+      "jargon": "de Sitter metric",
+      "layman": "A model of space that expands smoothly and evenly"
+    },
+    {
+      "jargon": "Spin-torsion background density",
+      "layman": "A connection between particle spin and gravitational twist"
+    },
+    {
+      "jargon": "Density fluctuations",
+      "layman": "Small changes in how matter is spread out"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Evolution equation",
+      "layman": "Math rule showing how things change over time"
+    },
+    {
+      "jargon": "Fluctuation computation",
+      "layman": "Calculating small changes in a system"
+    },
+    {
+      "jargon": "Background density",
+      "layman": "Average matter level in space"
+    },
+    {
+      "jargon": "Spin-torsion coupling",
+      "layman": "How spin and gravity twist influence each other"
+    },
+    {
+      "jargon": "Linear perturbation analysis",
+      "layman": "Studying small changes in a system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Density perturbation evolution",
+      "layman": "How small matter variations grow over time"
+    },
+    {
+      "jargon": "Metric fluctuation",
+      "layman": "Small changes in space structure"
+    },
+    {
+      "jargon": "Spin-torsion background",
+      "layman": "Spin and twist in space as a base condition"
+    },
+    {
+      "jargon": "Cosmic expansion model",
+      "layman": "How the universe grows and spreads"
+    },
+    {
+      "jargon": "Fluctuation in de Sitter space",
+      "layman": "Small wiggles in evenly expanding space"
+    }
+  ]
+}

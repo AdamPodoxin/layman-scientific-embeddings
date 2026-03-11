@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lower gastrointestinal tract bleeding",
+      "layman": "Bleeding in the lower digestive system"
+    },
+    {
+      "jargon": "In-hospital mortality",
+      "layman": "Death during hospital stay"
+    },
+    {
+      "jargon": "Comorbidities",
+      "layman": "Existing health conditions"
+    },
+    {
+      "jargon": "Congestive heart failure",
+      "layman": "Heart failure due to fluid buildup"
+    },
+    {
+      "jargon": "Renal disease",
+      "layman": "Kidney disease"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Retrospective study",
+      "layman": "Looking back at past records"
+    },
+    {
+      "jargon": "Diagnosis Procedure Combination database",
+      "layman": "National medical data system"
+    },
+    {
+      "jargon": "Multivariable logistic regression",
+      "layman": "Statistical model to find risk factors"
+    },
+    {
+      "jargon": "Blood transfusion",
+      "layman": "Giving blood to patients"
+    },
+    {
+      "jargon": "Interventional radiology",
+      "layman": "Imaging-guided treatment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "In-hospital death",
+      "layman": "Death during hospital stay"
+    },
+    {
+      "jargon": "Blood transfusion requirement",
+      "layman": "Need for blood transfusion"
+    },
+    {
+      "jargon": "2.5% mortality rate",
+      "layman": "2.5% chance of dying in hospital"
+    },
+    {
+      "jargon": "Higher BMI",
+      "layman": "Higher body weight"
+    },
+    {
+      "jargon": "Male sex",
+      "layman": "Being male"
+    }
+  ]
+}

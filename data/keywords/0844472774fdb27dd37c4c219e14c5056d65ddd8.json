@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "RSOS models",
+      "layman": "Types of physical systems with critical behavior"
+    },
+    {
+      "jargon": "Unitary minimal models",
+      "layman": "Simplest mathematical models of critical points"
+    },
+    {
+      "jargon": "Z_n parafermions",
+      "layman": "Particles with discrete symmetry"
+    },
+    {
+      "jargon": "Virasoro Algebra",
+      "layman": "Mathematical structure of symmetries in physics"
+    },
+    {
+      "jargon": "Boundary conditions",
+      "layman": "Rules at the edges of a system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analytically compute",
+      "layman": "Calculate exactly using math"
+    },
+    {
+      "jargon": "Expand around critical points",
+      "layman": "Look at small changes near a turning point"
+    },
+    {
+      "jargon": "Compare with field theory",
+      "layman": "Check against known physical predictions"
+    },
+    {
+      "jargon": "Entanglement spectrum",
+      "layman": "Pattern of quantum connections between parts"
+    },
+    {
+      "jargon": "Choose boundary conditions",
+      "layman": "Set rules for system edges"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Renyi entropies",
+      "layman": "Measure of quantum connection strength"
+    },
+    {
+      "jargon": "Unusual corrections",
+      "layman": "Unexpected deviations from theory"
+    },
+    {
+      "jargon": "Operator content",
+      "layman": "Types of physical actions in the system"
+    },
+    {
+      "jargon": "Symmetries",
+      "layman": "Conserved patterns in the system"
+    },
+    {
+      "jargon": "Logarithmic corrections",
+      "layman": "Slow, unexpected changes in growth"
+    }
+  ]
+}

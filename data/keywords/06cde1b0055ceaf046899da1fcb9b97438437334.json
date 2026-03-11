@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Negative social capital",
+      "layman": "Harmful social connections"
+    },
+    {
+      "jargon": "Welfare regime",
+      "layman": "Government's social safety system"
+    },
+    {
+      "jargon": "Helping behavior",
+      "layman": "People helping others"
+    },
+    {
+      "jargon": "Political legitimacy",
+      "layman": "Public trust in government"
+    },
+    {
+      "jargon": "Time given helping others",
+      "layman": "Time spent helping people"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Case study",
+      "layman": "In-depth country analysis"
+    },
+    {
+      "jargon": "Cross-country comparison",
+      "layman": "Comparing countries"
+    },
+    {
+      "jargon": "Within-country comparison",
+      "layman": "Comparing groups in one country"
+    },
+    {
+      "jargon": "Measure distribution",
+      "layman": "Track how things are spread"
+    },
+    {
+      "jargon": "Interpret as credit slip",
+      "layman": "See helping as social credit"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Detrimental consequences",
+      "layman": "Harmful effects"
+    },
+    {
+      "jargon": "Consistent results",
+      "layman": "Same findings across cases"
+    },
+    {
+      "jargon": "Confidence in democracy",
+      "layman": "Trust in democratic government"
+    },
+    {
+      "jargon": "Micro mechanisms",
+      "layman": "Small, hidden factors"
+    },
+    {
+      "jargon": "Effect on political legitimacy",
+      "layman": "Impact on public trust"
+    }
+  ]
+}

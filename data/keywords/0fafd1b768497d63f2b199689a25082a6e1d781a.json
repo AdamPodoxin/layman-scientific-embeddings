@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Reductive thinking",
+      "layman": "Breaking things down into smaller parts"
+    },
+    {
+      "jargon": "Teaching",
+      "layman": "Instructing students"
+    },
+    {
+      "jargon": "Theory",
+      "layman": "A well-thought explanation"
+    },
+    {
+      "jargon": "Cognitive processes",
+      "layman": "How the mind works"
+    },
+    {
+      "jargon": "Learning",
+      "layman": "Acquiring new knowledge"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reductionism",
+      "layman": "Simplifying complex ideas"
+    },
+    {
+      "jargon": "Instructional design",
+      "layman": "Planning how to teach"
+    },
+    {
+      "jargon": "Curriculum development",
+      "layman": "Creating lesson plans"
+    },
+    {
+      "jargon": "Pedagogical strategies",
+      "layman": "Teaching techniques"
+    },
+    {
+      "jargon": "Conceptual scaffolding",
+      "layman": "Building knowledge step by step"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved understanding",
+      "layman": "Better grasp of ideas"
+    },
+    {
+      "jargon": "Enhanced problem-solving",
+      "layman": "Better at solving problems"
+    },
+    {
+      "jargon": "Cognitive clarity",
+      "layman": "Clearer thinking"
+    },
+    {
+      "jargon": "Knowledge transfer",
+      "layman": "Learning to apply knowledge"
+    },
+    {
+      "jargon": "Student engagement",
+      "layman": "Students stay involved"
+    }
+  ]
+}

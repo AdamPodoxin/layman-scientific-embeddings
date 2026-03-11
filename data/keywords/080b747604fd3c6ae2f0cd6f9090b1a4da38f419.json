@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Graph",
+      "layman": "Network of connections"
+    },
+    {
+      "jargon": "Node",
+      "layman": "Point in a network"
+    },
+    {
+      "jargon": "Neighbor",
+      "layman": "Connected point"
+    },
+    {
+      "jargon": "Regular graph",
+      "layman": "Equal connections for each point"
+    },
+    {
+      "jargon": "Common neighbor",
+      "layman": "Shared connection between two points"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Combinatorial proof",
+      "layman": "Proof using counting and arrangements"
+    },
+    {
+      "jargon": "Generalization",
+      "layman": "Extending the rule to more cases"
+    },
+    {
+      "jargon": "Algebraic methods",
+      "layman": "Mathematical equations and formulas"
+    },
+    {
+      "jargon": "Natural assumption",
+      "layman": "Simple and logical rule"
+    },
+    {
+      "jargon": "Proof by contradiction",
+      "layman": "Showing a rule must be true by assuming it's false"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Friendship Theorem",
+      "layman": "All connections form a regular pattern"
+    },
+    {
+      "jargon": "Every pair has \u22652 common neighbors",
+      "layman": "Each pair shares at least two links"
+    },
+    {
+      "jargon": "Graph is regular",
+      "layman": "All points have same number of links"
+    },
+    {
+      "jargon": "Purely combinatorial proof",
+      "layman": "Proof using only counting rules"
+    },
+    {
+      "jargon": "Generalized friendship condition",
+      "layman": "Extended rule for shared connections"
+    }
+  ]
+}

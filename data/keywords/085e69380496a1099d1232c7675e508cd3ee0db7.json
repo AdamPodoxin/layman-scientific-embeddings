@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Atmospheric CO2",
+      "layman": "Carbon dioxide in the air"
+    },
+    {
+      "jargon": "Land use",
+      "layman": "How humans use land"
+    },
+    {
+      "jargon": "Deforestation",
+      "layman": "Cutting down forests"
+    },
+    {
+      "jargon": "Agricultural expansion",
+      "layman": "Growing crops on more land"
+    },
+    {
+      "jargon": "Carbon sink",
+      "layman": "Place that absorbs carbon dioxide"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Climate simulations",
+      "layman": "Computer models of climate"
+    },
+    {
+      "jargon": "Scenario modeling",
+      "layman": "Testing different future situations"
+    },
+    {
+      "jargon": "Emission inventories",
+      "layman": "Lists of greenhouse gases released"
+    },
+    {
+      "jargon": "Land-use change analysis",
+      "layman": "Studying how land use changes over time"
+    },
+    {
+      "jargon": "Global climate models",
+      "layman": "Large computer models of Earth's climate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "CO2 concentration increase",
+      "layman": "More carbon dioxide in the air"
+    },
+    {
+      "jargon": "Positive feedback loop",
+      "layman": "A cycle that makes things worse"
+    },
+    {
+      "jargon": "Carbon sequestration",
+      "layman": "Storing carbon in plants or soil"
+    },
+    {
+      "jargon": "Regional climate response",
+      "layman": "Climate changes in specific areas"
+    },
+    {
+      "jargon": "Equilibrium concentration",
+      "layman": "Stable level of CO2 over time"
+    }
+  ]
+}

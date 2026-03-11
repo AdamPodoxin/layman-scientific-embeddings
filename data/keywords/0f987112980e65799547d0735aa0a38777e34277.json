@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Unitarity",
+      "layman": "Conservation of probability"
+    },
+    {
+      "jargon": "Massive gravity",
+      "layman": "Gravity with mass"
+    },
+    {
+      "jargon": "General relativity",
+      "layman": "Theory of gravity"
+    },
+    {
+      "jargon": "Spin-2 modes",
+      "layman": "Gravity-carrying particles"
+    },
+    {
+      "jargon": "Higher-derivative extension",
+      "layman": "Gravity with more complex math"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Linearized approximation",
+      "layman": "Simple version of a complex model"
+    },
+    {
+      "jargon": "Tree-level analysis",
+      "layman": "Basic level of calculation"
+    },
+    {
+      "jargon": "Model generalization",
+      "layman": "Extending a model to more dimensions"
+    },
+    {
+      "jargon": "Equivalence",
+      "layman": "Being mathematically the same"
+    },
+    {
+      "jargon": "Dimensional extension",
+      "layman": "Moving from 3D to more dimensions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Unitary in three dimensions",
+      "layman": "Works properly in 3D space"
+    },
+    {
+      "jargon": "Non-unitary in higher dimensions",
+      "layman": "Fails in more than 3D space"
+    },
+    {
+      "jargon": "Massless spin-2 modes",
+      "layman": "Unwanted gravity particles"
+    },
+    {
+      "jargon": "Higher-dimensional model",
+      "layman": "Gravity model in more than 3D"
+    },
+    {
+      "jargon": "Appearance of non-unitary modes",
+      "layman": "Emergence of broken rules"
+    }
+  ]
+}

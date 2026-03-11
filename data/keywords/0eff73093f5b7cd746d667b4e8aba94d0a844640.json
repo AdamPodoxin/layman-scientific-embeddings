@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Political Studies Program",
+      "layman": "Program studying politics"
+    },
+    {
+      "jargon": "Graduate courses",
+      "layman": "Advanced university classes"
+    },
+    {
+      "jargon": "Undergraduate courses",
+      "layman": "College-level classes"
+    },
+    {
+      "jargon": "American government",
+      "layman": "U.S. government system"
+    },
+    {
+      "jargon": "Laboratory sessions",
+      "layman": "Hands-on class activities"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Research-oriented situation",
+      "layman": "Real-world research setup"
+    },
+    {
+      "jargon": "Student observation",
+      "layman": "Watching students in action"
+    },
+    {
+      "jargon": "Student participation",
+      "layman": "Students joining in"
+    },
+    {
+      "jargon": "Accompanying laboratory sessions",
+      "layman": "Class with hands-on practice"
+    },
+    {
+      "jargon": "Begun in 1957",
+      "layman": "Started over 60 years ago"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Excellent results",
+      "layman": "Good success"
+    },
+    {
+      "jargon": "Social science research",
+      "layman": "Study of human behavior"
+    },
+    {
+      "jargon": "Teaching of politics",
+      "layman": "Teaching about political systems"
+    },
+    {
+      "jargon": "Research features",
+      "layman": "Key aspects of research"
+    },
+    {
+      "jargon": "Program's outstanding features",
+      "layman": "Notable strengths of the program"
+    }
+  ]
+}

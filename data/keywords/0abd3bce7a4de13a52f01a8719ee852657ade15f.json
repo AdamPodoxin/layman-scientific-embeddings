@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Donor materials",
+      "layman": "Materials that give up electrons"
+    },
+    {
+      "jargon": "Small molecular-based",
+      "layman": "Tiny molecules used in the device"
+    },
+    {
+      "jargon": "Bulk heterojunction",
+      "layman": "Mixed layer of two materials"
+    },
+    {
+      "jargon": "Organic photovoltaic devices",
+      "layman": "Solar cells made from organic materials"
+    },
+    {
+      "jargon": "Metal complexes",
+      "layman": "Molecules with metal atoms in them"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Material selection",
+      "layman": "Choosing the best materials"
+    },
+    {
+      "jargon": "Bulk heterojunction structure",
+      "layman": "Mixing two materials together"
+    },
+    {
+      "jargon": "Optical absorption",
+      "layman": "Capturing light energy"
+    },
+    {
+      "jargon": "Charge separation",
+      "layman": "Splitting electrons from holes"
+    },
+    {
+      "jargon": "Device fabrication",
+      "layman": "Building the solar cell"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Power conversion efficiency",
+      "layman": "How well the device converts light to power"
+    },
+    {
+      "jargon": "Open-circuit voltage",
+      "layman": "Voltage when no current flows"
+    },
+    {
+      "jargon": "Short-circuit current",
+      "layman": "Current when no resistance"
+    },
+    {
+      "jargon": "Fill factor",
+      "layman": "How efficiently the device uses power"
+    },
+    {
+      "jargon": "J-V characteristics",
+      "layman": "Graph of voltage vs. current performance"
+    }
+  ]
+}

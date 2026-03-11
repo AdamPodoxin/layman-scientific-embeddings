@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Governmentality",
+      "layman": "Way of governing through rules and practices"
+    },
+    {
+      "jargon": "Pedagogical practices",
+      "layman": "Teaching methods and behaviors"
+    },
+    {
+      "jargon": "Modernities",
+      "layman": "Modern ways of living and organizing society"
+    },
+    {
+      "jargon": "Self-governance",
+      "layman": "People managing themselves"
+    },
+    {
+      "jargon": "Foucault",
+      "layman": "Philosopher who studied power and education"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Genealogical work",
+      "layman": "Tracing how ideas evolve over time"
+    },
+    {
+      "jargon": "Archaeological work",
+      "layman": "Examining historical roots of ideas"
+    },
+    {
+      "jargon": "Analysis of conduct practices",
+      "layman": "Studying how people behave in daily life"
+    },
+    {
+      "jargon": "Case studies",
+      "layman": "Detailed examples from real situations"
+    },
+    {
+      "jargon": "Historical interpretation",
+      "layman": "Understanding past events through context"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Centrality of pedagogical practices",
+      "layman": "Teaching methods are central to control"
+    },
+    {
+      "jargon": "Privileged conduct practices",
+      "layman": "Key ways people follow rules"
+    },
+    {
+      "jargon": "Government of life",
+      "layman": "How society manages daily lives"
+    },
+    {
+      "jargon": "Contemporary forms of government",
+      "layman": "Modern ways of running society"
+    },
+    {
+      "jargon": "Educational issues in Foucault",
+      "layman": "Teaching is hidden in his theory"
+    }
+  ]
+}

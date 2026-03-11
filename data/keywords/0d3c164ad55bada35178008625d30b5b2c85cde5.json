@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Product sector",
+      "layman": "Housing supply side"
+    },
+    {
+      "jargon": "Consumer sector",
+      "layman": "Homebuyers group"
+    },
+    {
+      "jargon": "Developer sector",
+      "layman": "Real estate builders"
+    },
+    {
+      "jargon": "Housing market",
+      "layman": "Home price system"
+    },
+    {
+      "jargon": "Residential policies",
+      "layman": "Home ownership rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "System dynamics model",
+      "layman": "Market behavior simulation"
+    },
+    {
+      "jargon": "Intra-sector relationships",
+      "layman": "Internal connections within groups"
+    },
+    {
+      "jargon": "Inter-sector interactions",
+      "layman": "Connections between market groups"
+    },
+    {
+      "jargon": "Predictive modeling",
+      "layman": "Forecasting future prices"
+    },
+    {
+      "jargon": "Data-driven analysis",
+      "layman": "Using data to understand trends"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Price prediction",
+      "layman": "Forecasting home prices"
+    },
+    {
+      "jargon": "Policy support",
+      "layman": "Helps governments make decisions"
+    },
+    {
+      "jargon": "Investment guidance",
+      "layman": "Advice for developers on where to build"
+    },
+    {
+      "jargon": "Rational consumption",
+      "layman": "Smart home buying choices"
+    },
+    {
+      "jargon": "Market behavior",
+      "layman": "How the market reacts to changes"
+    }
+  ]
+}

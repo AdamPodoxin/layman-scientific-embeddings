@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social myth",
+      "layman": "Shared belief about society"
+    },
+    {
+      "jargon": "Political aesthetics",
+      "layman": "Art that influences politics"
+    },
+    {
+      "jargon": "Anarchism",
+      "layman": "Anti-government movement"
+    },
+    {
+      "jargon": "Syndicalism",
+      "layman": "Worker-led economic control"
+    },
+    {
+      "jargon": "Modernism",
+      "layman": "Art and thought of the 20th century"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Heteroglossia",
+      "layman": "Multiple voices in a narrative"
+    },
+    {
+      "jargon": "Monoglossia",
+      "layman": "Single, dominant voice"
+    },
+    {
+      "jargon": "Narrative structure",
+      "layman": "How a story is told"
+    },
+    {
+      "jargon": "Aesthetic function",
+      "layman": "How art shapes ideas"
+    },
+    {
+      "jargon": "Sorelian perspective",
+      "layman": "View through Sorel's theory"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Desubjection",
+      "layman": "Freedom from control"
+    },
+    {
+      "jargon": "Subjection",
+      "layman": "Being controlled"
+    },
+    {
+      "jargon": "Violence in narrative",
+      "layman": "Violence shown in stories"
+    },
+    {
+      "jargon": "Political change",
+      "layman": "Shift in government or power"
+    },
+    {
+      "jargon": "Aesthetico-ideological functions",
+      "layman": "How art shapes beliefs"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spreadsheet grids",
+      "layman": "Spreadsheet grids"
+    },
+    {
+      "jargon": "Visual programming environments",
+      "layman": "Visual program builders"
+    },
+    {
+      "jargon": "Forms/3",
+      "layman": "Visual spreadsheet language"
+    },
+    {
+      "jargon": "Checkbox devices",
+      "layman": "Checkboxes"
+    },
+    {
+      "jargon": "Coloring mechanisms",
+      "layman": "Color changes"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Visual testing methodology",
+      "layman": "Testing with visuals"
+    },
+    {
+      "jargon": "Scaling up",
+      "layman": "Expanding to larger systems"
+    },
+    {
+      "jargon": "Integrated testing",
+      "layman": "Built-in testing"
+    },
+    {
+      "jargon": "User interaction via checkboxes",
+      "layman": "Using checkboxes to test"
+    },
+    {
+      "jargon": "Formalized notions of testing",
+      "layman": "Structured testing rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "End-user benefits",
+      "layman": "Better for regular users"
+    },
+    {
+      "jargon": "Testing correctness",
+      "layman": "Checking if program works"
+    },
+    {
+      "jargon": "Naive level of testing",
+      "layman": "Simple testing"
+    },
+    {
+      "jargon": "Program validation",
+      "layman": "Confirming program is correct"
+    },
+    {
+      "jargon": "Improved understanding",
+      "layman": "Easier to understand programs"
+    }
+  ]
+}

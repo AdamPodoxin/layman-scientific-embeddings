@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Abstract Elementary Class",
+      "layman": "Abstract Elementary Class"
+    },
+    {
+      "jargon": "Morley theorem",
+      "layman": "Rule about how models behave in different sizes"
+    },
+    {
+      "jargon": "Uncountable models",
+      "layman": "Very large mathematical structures"
+    },
+    {
+      "jargon": "Categorical structures",
+      "layman": "Mathematical systems with unique properties"
+    },
+    {
+      "jargon": "Complex exponentiation",
+      "layman": "Advanced algebra involving exponents"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Shelah's generalization",
+      "layman": "Extending rules to larger logic systems"
+    },
+    {
+      "jargon": "Model theory",
+      "layman": "Study of mathematical structures"
+    },
+    {
+      "jargon": "Infinitary logic",
+      "layman": "Logic that allows infinite operations"
+    },
+    {
+      "jargon": "Categoricity theorem",
+      "layman": "Rule that says only one model exists in certain sizes"
+    },
+    {
+      "jargon": "Trichotomy conjecture",
+      "layman": "Prediction about three possible types of structures"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Excellence",
+      "layman": "Key property for structure stability"
+    },
+    {
+      "jargon": "Refutation of conjecture",
+      "layman": "Proving a prediction wrong"
+    },
+    {
+      "jargon": "New results in algebraic geometry",
+      "layman": "New discoveries in geometric math"
+    },
+    {
+      "jargon": "Structure theory",
+      "layman": "Understanding how systems are built"
+    },
+    {
+      "jargon": "Canonical mathematical structures",
+      "layman": "Standard, well-defined mathematical forms"
+    }
+  ]
+}

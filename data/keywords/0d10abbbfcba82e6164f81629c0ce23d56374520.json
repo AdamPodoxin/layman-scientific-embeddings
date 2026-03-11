@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Zoological knowledge",
+      "layman": "Animal knowledge"
+    },
+    {
+      "jargon": "Aristotelian groups",
+      "layman": "Animal categories from Aristotle"
+    },
+    {
+      "jargon": "Zoophyta",
+      "layman": "Animal-like plants"
+    },
+    {
+      "jargon": "Fabulous animals",
+      "layman": "Mythical animals"
+    },
+    {
+      "jargon": "Animal parts",
+      "layman": "Animal body parts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Aristotelian methodological principles",
+      "layman": "Aristotle's scientific rules"
+    },
+    {
+      "jargon": "Indexation method",
+      "layman": "Organized listing system"
+    },
+    {
+      "jargon": "Critical annotations",
+      "layman": "Careful notes and comments"
+    },
+    {
+      "jargon": "Differentiation",
+      "layman": "Separating by features"
+    },
+    {
+      "jargon": "Nomenclature",
+      "layman": "Naming system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "First zoological system",
+      "layman": "First organized animal classification"
+    },
+    {
+      "jargon": "Improved precision of identification",
+      "layman": "Better animal identification"
+    },
+    {
+      "jargon": "New beginning in ancient zoology",
+      "layman": "Fresh start in animal study"
+    },
+    {
+      "jargon": "Summary of ancient knowledge",
+      "layman": "Collection of old animal facts"
+    },
+    {
+      "jargon": "Progressive mind",
+      "layman": "Open-minded thinking"
+    }
+  ]
+}

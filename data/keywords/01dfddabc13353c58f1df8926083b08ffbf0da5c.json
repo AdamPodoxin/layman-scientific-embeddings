@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Proofs",
+      "layman": "Logical evidence"
+    },
+    {
+      "jargon": "Models",
+      "layman": "Representations of possible situations"
+    },
+    {
+      "jargon": "Automated deduction tools",
+      "layman": "Computer tools that reason automatically"
+    },
+    {
+      "jargon": "Satisfiability",
+      "layman": "Whether a condition can be met"
+    },
+    {
+      "jargon": "High-integrity systems",
+      "layman": "Critical systems requiring high reliability"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Proof search",
+      "layman": "Finding logical evidence"
+    },
+    {
+      "jargon": "Model refinement",
+      "layman": "Improving a possible scenario"
+    },
+    {
+      "jargon": "Simultaneous search",
+      "layman": "Searching for both proof and model at once"
+    },
+    {
+      "jargon": "Deduction tools",
+      "layman": "Tools that derive logical conclusions"
+    },
+    {
+      "jargon": "Search relying on proofs and models",
+      "layman": "Using evidence and examples to find answers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Feasible program executions",
+      "layman": "Working program steps"
+    },
+    {
+      "jargon": "Certificates for unsatisfiability",
+      "layman": "Proofs that a condition cannot be met"
+    },
+    {
+      "jargon": "Integration into application tools",
+      "layman": "Used directly in real tools"
+    },
+    {
+      "jargon": "Synergies between subcommunities",
+      "layman": "Collaborative benefits from different groups"
+    },
+    {
+      "jargon": "Next generation of automated deduction tools",
+      "layman": "Improved future reasoning tools"
+    }
+  ]
+}

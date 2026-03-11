@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Satellite Power System",
+      "layman": "Space-based solar power system"
+    },
+    {
+      "jargon": "Ground Receiving Station",
+      "layman": "Earth-based receiver station"
+    },
+    {
+      "jargon": "Rose Valley/Coso",
+      "layman": "Desert site in California"
+    },
+    {
+      "jargon": "California desert",
+      "layman": "Dry, arid region in California"
+    },
+    {
+      "jargon": "Microwave health and safety",
+      "layman": "Health effects of microwave radiation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Prototype assessment",
+      "layman": "Early version of an evaluation"
+    },
+    {
+      "jargon": "Baseline data",
+      "layman": "Starting environmental measurements"
+    },
+    {
+      "jargon": "Siting",
+      "layman": "Choosing a location"
+    },
+    {
+      "jargon": "Construction",
+      "layman": "Building the station"
+    },
+    {
+      "jargon": "Environmental impact assessment",
+      "layman": "Study of how a project affects nature"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Non-microwave-related impacts",
+      "layman": "Effects not from microwave radiation"
+    },
+    {
+      "jargon": "Reference system",
+      "layman": "Standard system used for comparison"
+    },
+    {
+      "jargon": "Critical parameters",
+      "layman": "Most important factors"
+    },
+    {
+      "jargon": "Actual baseline data",
+      "layman": "Real-world starting environmental data"
+    },
+    {
+      "jargon": "Natural environment",
+      "layman": "Ecosystem and surroundings"
+    }
+  ]
+}

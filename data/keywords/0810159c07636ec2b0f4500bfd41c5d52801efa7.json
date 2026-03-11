@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Agile Architect",
+      "layman": "Architect using agile methods"
+    },
+    {
+      "jargon": "Hurricane Meteorologist",
+      "layman": "Weather expert who studies hurricanes"
+    },
+    {
+      "jargon": "Chemical abstracts",
+      "layman": "Chemical data summaries"
+    },
+    {
+      "jargon": "SATURN conference",
+      "layman": "Conference on software architecture"
+    },
+    {
+      "jargon": "Agile point of view",
+      "layman": "Flexible, iterative approach to building systems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Agile methodology",
+      "layman": "Iterative development with feedback"
+    },
+    {
+      "jargon": "Weather forecasting",
+      "layman": "Predicting weather patterns"
+    },
+    {
+      "jargon": "System adaptation",
+      "layman": "Changing systems to respond to changes"
+    },
+    {
+      "jargon": "Iterative design",
+      "layman": "Building in small steps and improving"
+    },
+    {
+      "jargon": "Real-time monitoring",
+      "layman": "Watching systems as they operate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Architectural wisdom",
+      "layman": "Practical insights for design"
+    },
+    {
+      "jargon": "Adaptive systems",
+      "layman": "Systems that adjust over time"
+    },
+    {
+      "jargon": "Predictive modeling",
+      "layman": "Making forecasts based on data"
+    },
+    {
+      "jargon": "Resilience in design",
+      "layman": "Ability to recover from problems"
+    },
+    {
+      "jargon": "Dynamic response",
+      "layman": "Quick reaction to changes"
+    }
+  ]
+}

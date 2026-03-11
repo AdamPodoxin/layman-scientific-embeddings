@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rectal cancer",
+      "layman": "Cancer in the rectum"
+    },
+    {
+      "jargon": "Health-related quality of life (HR-QOL)",
+      "layman": "Overall well-being after illness"
+    },
+    {
+      "jargon": "Bowel function",
+      "layman": "Stool movement and digestion"
+    },
+    {
+      "jargon": "Patient and partner",
+      "layman": "Cancer survivor and their spouse"
+    },
+    {
+      "jargon": "Survivorship",
+      "layman": "Life after cancer treatment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Qualitative descriptive study",
+      "layman": "In-depth interviews to understand experiences"
+    },
+    {
+      "jargon": "Purposive sampling",
+      "layman": "Selecting participants based on relevance"
+    },
+    {
+      "jargon": "Semi-structured interviews",
+      "layman": "Guided conversations with open questions"
+    },
+    {
+      "jargon": "Content analysis",
+      "layman": "Systematic review of interview themes"
+    },
+    {
+      "jargon": "Face-to-face interviews",
+      "layman": "In-person conversations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Chronic bowel function alterations",
+      "layman": "Long-term digestive problems"
+    },
+    {
+      "jargon": "Symptom unpredictability",
+      "layman": "Symptoms come and go without warning"
+    },
+    {
+      "jargon": "Nutrition intolerances",
+      "layman": "Trouble eating certain foods"
+    },
+    {
+      "jargon": "Social concerns",
+      "layman": "Difficulty in social situations"
+    },
+    {
+      "jargon": "Work and financial strains",
+      "layman": "Job and money problems after treatment"
+    }
+  ]
+}

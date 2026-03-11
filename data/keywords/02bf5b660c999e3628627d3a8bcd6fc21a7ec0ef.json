@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Anti-B meson",
+      "layman": "Antiparticle of B meson"
+    },
+    {
+      "jargon": "Charm quark",
+      "layman": "Type of quark in particles"
+    },
+    {
+      "jargon": "Neutrino",
+      "layman": "Nearly massless particle"
+    },
+    {
+      "jargon": "CKM element",
+      "layman": "Component of quark mixing"
+    },
+    {
+      "jargon": "Hadronic tensor",
+      "layman": "Measure of particle interactions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Power counting",
+      "layman": "Estimating size of effects"
+    },
+    {
+      "jargon": "Effective field theory",
+      "layman": "Simplified physics model"
+    },
+    {
+      "jargon": "NLO accuracy",
+      "layman": "High-precision calculation"
+    },
+    {
+      "jargon": "Shape-function region",
+      "layman": "Part of decay behavior"
+    },
+    {
+      "jargon": "Radiative corrections",
+      "layman": "Adjustments for energy loss"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shape-function independent relation",
+      "layman": "Decay pattern not affected by shape"
+    },
+    {
+      "jargon": "Partially integrated spectra",
+      "layman": "Partial decay data"
+    },
+    {
+      "jargon": "First-order corrections",
+      "layman": "Small adjustments in results"
+    },
+    {
+      "jargon": "Cross-check on |Vub|",
+      "layman": "Independent verification of measurement"
+    },
+    {
+      "jargon": "Leading power in 1/mb",
+      "layman": "Main effect from heavy quark mass"
+    }
+  ]
+}

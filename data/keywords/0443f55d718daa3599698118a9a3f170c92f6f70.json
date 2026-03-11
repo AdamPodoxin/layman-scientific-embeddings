@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "thiazide-type diuretics",
+      "layman": "water pill for blood pressure"
+    },
+    {
+      "jargon": "hypertension",
+      "layman": "high blood pressure"
+    },
+    {
+      "jargon": "diabetes mellitus",
+      "layman": "high blood sugar disease"
+    },
+    {
+      "jargon": "renal disease",
+      "layman": "kidney disease"
+    },
+    {
+      "jargon": "myocardial infarction",
+      "layman": "heart attack"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "pharmacological antihypertensive treatment",
+      "layman": "medication for high blood pressure"
+    },
+    {
+      "jargon": "prescription analysis",
+      "layman": "reviewing filled prescriptions"
+    },
+    {
+      "jargon": "time-period comparison",
+      "layman": "comparing different time spans"
+    },
+    {
+      "jargon": "managed care organization",
+      "layman": "healthcare system that manages patient care"
+    },
+    {
+      "jargon": "guideline implementation",
+      "layman": "applying medical recommendations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "percentage increase in thiazide use",
+      "layman": "more patients started using water pills"
+    },
+    {
+      "jargon": "P<0.001",
+      "layman": "highly significant change"
+    },
+    {
+      "jargon": "adherence to guidelines",
+      "layman": "following medical recommendations"
+    },
+    {
+      "jargon": "sustained increase",
+      "layman": "continued growth over time"
+    },
+    {
+      "jargon": "initial pharmacological treatment",
+      "layman": "first medication given for treatment"
+    }
+  ]
+}

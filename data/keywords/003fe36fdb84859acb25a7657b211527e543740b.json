@@ -6,37 +6,37 @@
     },
     {
       "jargon": "Sales agents",
-      "layman": "Retail staff"
+      "layman": "Retail staff who sell products"
     },
     {
       "jargon": "Consumers",
-      "layman": "Buyers"
+      "layman": "People buying products"
     },
     {
       "jargon": "Rebates",
-      "layman": "Money back for purchases"
+      "layman": "Money back for buying efficient products"
     },
     {
-      "jargon": "Energy use information",
-      "layman": "Energy usage details"
+      "jargon": "Information disclosure",
+      "layman": "Sharing energy-saving facts"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Natural field experiment",
-      "layman": "Real-world test without artificial setup"
+      "jargon": "Field experiment",
+      "layman": "Real-world test with people"
+    },
+    {
+      "jargon": "Natural experiment",
+      "layman": "Unplanned real-life situation used for study"
     },
     {
       "jargon": "Sales incentives",
-      "layman": "Bonuses for sales staff"
+      "layman": "Rewards for sales staff"
     },
     {
       "jargon": "Follow-up surveys",
-      "layman": "Post-purchase questions"
-    },
-    {
-      "jargon": "Information disclosure",
-      "layman": "Sharing energy facts"
+      "layman": "Later interviews to check opinions"
     },
     {
       "jargon": "Targeting",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Statistically and economically insignificant effects",
-      "layman": "No real impact"
+      "layman": "No real impact on sales"
     },
     {
       "jargon": "Partial compliance",
-      "layman": "Only some staff followed rules"
+      "layman": "Agents do only some of the work"
     },
     {
-      "jargon": "Overestimate benets",
-      "layman": "Think benefits are larger than they are"
-    },
-    {
-      "jargon": "Imperfect information",
-      "layman": "Incomplete or wrong facts"
+      "jargon": "Overestimation of benefits",
+      "layman": "People think savings are bigger than they are"
     },
     {
       "jargon": "Demand for energy efficient goods",
-      "layman": "How much people want energy-saving items"
+      "layman": "How much people want efficient products"
+    },
+    {
+      "jargon": "Imperfect information not a major barrier",
+      "layman": "Lack of info doesn't stop people from buying"
     }
   ]
 }

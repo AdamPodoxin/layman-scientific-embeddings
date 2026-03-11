@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Aqueous chlorine",
+      "layman": "Chlorine in water"
+    },
+    {
+      "jargon": "Chlorine dioxide",
+      "layman": "A chlorine-based chemical"
+    },
+    {
+      "jargon": "Amino acids",
+      "layman": "Building blocks of proteins"
+    },
+    {
+      "jargon": "Peptides",
+      "layman": "Short protein chains"
+    },
+    {
+      "jargon": "Proteins",
+      "layman": "Large biological molecules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Iodometric technique",
+      "layman": "Chemical test using iodine"
+    },
+    {
+      "jargon": "Spectrophotometric technique",
+      "layman": "Color-based measurement"
+    },
+    {
+      "jargon": "DPD titrimetric technique",
+      "layman": "Test using a dye to measure chlorine byproducts"
+    },
+    {
+      "jargon": "First order kinetics",
+      "layman": "Reaction speed decreases over time"
+    },
+    {
+      "jargon": "Pseudo-first order kinetics",
+      "layman": "Reaction appears slow at first, then speeds up"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Chlorinated derivatives",
+      "layman": "Chemically changed amino acids"
+    },
+    {
+      "jargon": "Decomposition of chlorinated species",
+      "layman": "Breakdown of chlorine byproducts"
+    },
+    {
+      "jargon": "pH dependent rate",
+      "layman": "Reaction speed changes with acidity or alkalinity"
+    },
+    {
+      "jargon": "Only few amino acids react with ClO2",
+      "layman": "Most amino acids don't react with chlorine dioxide"
+    },
+    {
+      "jargon": "Rapid reaction with peptides and proteins",
+      "layman": "Fast chemical reaction with protein-like molecules"
+    }
+  ]
+}

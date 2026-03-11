@@ -1,0 +1,88 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spin-statistics connection",
+      "layman": "Link between particle spin and behavior"
+    },
+    {
+      "jargon": "Exchange wave function",
+      "layman": "Wave function when particles are swapped"
+    },
+    {
+      "jargon": "Spinor ambiguity",
+      "layman": "Uncertainty in spin orientation during swap"
+    },
+    {
+      "jargon": "Single-particle spin-component eigenfunction",
+      "layman": "Spin state of one particle"
+    },
+    {
+      "jargon": "Bosons",
+      "layman": "Particles that behave collectively"
+    },
+    {
+      "jargon": "Fermions",
+      "layman": "Particles that avoid each other"
+    },
+    {
+      "jargon": "Spin-quantization axis",
+      "layman": "Direction to measure spin"
+    },
+    {
+      "jargon": "Azimuthal phase angle",
+      "layman": "Angle in spin orientation plane"
+    },
+    {
+      "jargon": "Negative-energy states",
+      "layman": "Unwanted low-energy particle states"
+    },
+    {
+      "jargon": "Hilbert space",
+      "layman": "Mathematical space for quantum states"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Symmetrization postulate",
+      "layman": "Rule for swapping particles"
+    },
+    {
+      "jargon": "Exchange of azimuthal angle",
+      "layman": "Rotating spin angle when swapping"
+    },
+    {
+      "jargon": "Rotations in one sense",
+      "layman": "Only clockwise or counterclockwise turns"
+    },
+    {
+      "jargon": "Wave function addition",
+      "layman": "Adding wave functions when swapping"
+    },
+    {
+      "jargon": "Constructing exchange wave function",
+      "layman": "Building wave function for swapped particles"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Spin factor (\u22121)\u00b2\u02e2",
+      "layman": "Sign change based on spin"
+    },
+    {
+      "jargon": "Symmetric wave function",
+      "layman": "No sign change when swapping"
+    },
+    {
+      "jargon": "Antisymmetric wave function",
+      "layman": "Sign flips when swapping"
+    },
+    {
+      "jargon": "Integral spin",
+      "layman": "Whole-number spin"
+    },
+    {
+      "jargon": "Half-integral spin",
+      "layman": "Half-odd-number spin"
+    }
+  ]
+}

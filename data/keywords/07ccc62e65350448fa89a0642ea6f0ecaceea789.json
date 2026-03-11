@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Phenomenological research",
+      "layman": "Study of direct experience"
+    },
+    {
+      "jargon": "Ontology",
+      "layman": "Study of what exists"
+    },
+    {
+      "jargon": "Metaphysics",
+      "layman": "Study of reality and existence"
+    },
+    {
+      "jargon": "Artistic work of art",
+      "layman": "Creative artwork"
+    },
+    {
+      "jargon": "Aesthetic experience",
+      "layman": "Sensory and emotional response to art"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Phenomenological research",
+      "layman": "Deep observation of experience"
+    },
+    {
+      "jargon": "Analytical study",
+      "layman": "Careful breakdown of concepts"
+    },
+    {
+      "jargon": "Ontological analysis",
+      "layman": "Examining what things fundamentally are"
+    },
+    {
+      "jargon": "Metaphysical inquiry",
+      "layman": "Exploring the nature of reality"
+    },
+    {
+      "jargon": "Descriptive analysis",
+      "layman": "Detailed description of experience"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Comprehensive program",
+      "layman": "Full research framework"
+    },
+    {
+      "jargon": "Major features",
+      "layman": "Key characteristics"
+    },
+    {
+      "jargon": "Analyses of works of art",
+      "layman": "Examinations of artworks"
+    },
+    {
+      "jargon": "Aesthetic experience",
+      "layman": "Emotional response to art"
+    },
+    {
+      "jargon": "Phenomenological program",
+      "layman": "Holistic study of experience"
+    }
+  ]
+}

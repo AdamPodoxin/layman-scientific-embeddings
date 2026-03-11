@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Eukaryotic cells",
+      "layman": "Cells with nuclei"
+    },
+    {
+      "jargon": "Phylogenetics",
+      "layman": "Evolutionary family trees"
+    },
+    {
+      "jargon": "Population genetics",
+      "layman": "Genes in groups of organisms"
+    },
+    {
+      "jargon": "Host\u2013pathogen interactions",
+      "layman": "Host and disease battle"
+    },
+    {
+      "jargon": "Energy requirements",
+      "layman": "Cell's energy needs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Phylogenetics",
+      "layman": "Evolutionary family trees"
+    },
+    {
+      "jargon": "Population genetics",
+      "layman": "Studying gene changes in groups"
+    },
+    {
+      "jargon": "Energy requirements analysis",
+      "layman": "Measuring cell energy use"
+    },
+    {
+      "jargon": "Host\u2013pathogen interaction studies",
+      "layman": "Testing how hosts fight infections"
+    },
+    {
+      "jargon": "Evolutionary modeling",
+      "layman": "Simulating evolution over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Evolutionary consequences",
+      "layman": "Long-term effects of evolution"
+    },
+    {
+      "jargon": "Diversity in cell origins",
+      "layman": "Variety in how cells began"
+    },
+    {
+      "jargon": "Energy-driven evolution",
+      "layman": "Evolution shaped by energy needs"
+    },
+    {
+      "jargon": "Host\u2013pathogen coevolution",
+      "layman": "Hosts and pathogens evolve together"
+    },
+    {
+      "jargon": "New evolutionary perspectives",
+      "layman": "New ideas about cell origins"
+    }
+  ]
+}

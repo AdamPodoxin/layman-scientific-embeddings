@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Wadati-Benioff zone",
+      "layman": "Deep earthquake zone"
+    },
+    {
+      "jargon": "Magma feeding system",
+      "layman": "Magma supply system"
+    },
+    {
+      "jargon": "Crustal chamber",
+      "layman": "Magma chamber in crust"
+    },
+    {
+      "jargon": "Volcanic dome",
+      "layman": "Volcano dome"
+    },
+    {
+      "jargon": "NW-striking crustal faults",
+      "layman": "Northwest fault lines"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Seismic surveillance",
+      "layman": "Monitoring earthquakes"
+    },
+    {
+      "jargon": "Focal zone geometry",
+      "layman": "Earthquake zone shape"
+    },
+    {
+      "jargon": "Seismicity analysis",
+      "layman": "Studying earthquake patterns"
+    },
+    {
+      "jargon": "Interpretation of seismic data",
+      "layman": "Reading earthquake signals"
+    },
+    {
+      "jargon": "Eruption forecasting",
+      "layman": "Predicting eruptions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "70\u00b0 dip angle",
+      "layman": "70-degree slope"
+    },
+    {
+      "jargon": "Increasing number and energy of earthquakes",
+      "layman": "More and stronger quakes"
+    },
+    {
+      "jargon": "Extrusive-explosive activity",
+      "layman": "Eruption with lava and explosion"
+    },
+    {
+      "jargon": "Most powerful eruption since 1964",
+      "layman": "Largest eruption in decades"
+    },
+    {
+      "jargon": "Successful eruption prediction",
+      "layman": "Eruption was correctly predicted"
+    }
+  ]
+}

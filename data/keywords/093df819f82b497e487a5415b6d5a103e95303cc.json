@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "CDIO innovation and practice center",
+      "layman": "Engineering innovation lab"
+    },
+    {
+      "jargon": "Mechatronics engineering",
+      "layman": "Mechatronics engineering"
+    },
+    {
+      "jargon": "Process of industry production",
+      "layman": "Industrial production process"
+    },
+    {
+      "jargon": "Collegiate laboratory",
+      "layman": "University lab"
+    },
+    {
+      "jargon": "Engineer education",
+      "layman": "Engineering education"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Operational mechanism",
+      "layman": "How the system works"
+    },
+    {
+      "jargon": "Experiment design",
+      "layman": "Planning experiments"
+    },
+    {
+      "jargon": "Teaching projects",
+      "layman": "Hands-on learning tasks"
+    },
+    {
+      "jargon": "Curriculum integration",
+      "layman": "Linking courses together"
+    },
+    {
+      "jargon": "Training plan",
+      "layman": "Educational development plan"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Enhanced comprehensive qualities",
+      "layman": "Better overall skills"
+    },
+    {
+      "jargon": "Completed teaching projects",
+      "layman": "Finished class assignments"
+    },
+    {
+      "jargon": "Technological competitions",
+      "layman": "Tech contests"
+    },
+    {
+      "jargon": "National and international honors",
+      "layman": "Awards at home and abroad"
+    },
+    {
+      "jargon": "Higher requirements for lab teaching",
+      "layman": "Stricter lab education standards"
+    }
+  ]
+}

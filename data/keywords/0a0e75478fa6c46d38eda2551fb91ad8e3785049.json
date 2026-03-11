@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Smart buildings",
+      "layman": "Buildings with automated systems"
+    },
+    {
+      "jargon": "Sensor network",
+      "layman": "Network of sensors"
+    },
+    {
+      "jargon": "Microservices architecture",
+      "layman": "Split system into small, independent parts"
+    },
+    {
+      "jargon": "Jolie programming language",
+      "layman": "Programming language for building systems"
+    },
+    {
+      "jargon": "User interface",
+      "layman": "Screen for users to interact"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Distributed microservices architecture",
+      "layman": "Spreading functions across multiple devices"
+    },
+    {
+      "jargon": "Advanced sensor network",
+      "layman": "Sophisticated sensor system"
+    },
+    {
+      "jargon": "Prototype deployment",
+      "layman": "Testing in real environment"
+    },
+    {
+      "jargon": "Real-world academic building environment",
+      "layman": "Test in actual school building"
+    },
+    {
+      "jargon": "Centralized platform",
+      "layman": "Single control center"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Energy saving",
+      "layman": "Lower energy use"
+    },
+    {
+      "jargon": "Safety improvements",
+      "layman": "Better safety"
+    },
+    {
+      "jargon": "Flexibility",
+      "layman": "Easy to adjust settings"
+    },
+    {
+      "jargon": "Comfort",
+      "layman": "More comfortable living"
+    },
+    {
+      "jargon": "Promising nature of approach",
+      "layman": "Approach works well"
+    }
+  ]
+}

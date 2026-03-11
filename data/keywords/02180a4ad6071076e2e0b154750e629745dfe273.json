@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Business-to-business (B2B) e-commerce",
+      "layman": "Online transactions between companies"
+    },
+    {
+      "jargon": "Transaction costs",
+      "layman": "Costs of making a business deal"
+    },
+    {
+      "jargon": "Coordination costs",
+      "layman": "Costs of organizing a deal"
+    },
+    {
+      "jargon": "Motivation costs",
+      "layman": "Costs of keeping partners motivated"
+    },
+    {
+      "jargon": "Informational asymmetries",
+      "layman": "Unequal access to information"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conceptual framework",
+      "layman": "Model to organize ideas"
+    },
+    {
+      "jargon": "Process improvements",
+      "layman": "Better workflows"
+    },
+    {
+      "jargon": "Marketplace benefits",
+      "layman": "Advantages of online marketplaces"
+    },
+    {
+      "jargon": "Indirect improvements",
+      "layman": "Unseen efficiency gains"
+    },
+    {
+      "jargon": "Performance comparison",
+      "layman": "Comparing results between systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reduces coordination costs",
+      "layman": "Makes deals easier to manage"
+    },
+    {
+      "jargon": "Increases efficiency",
+      "layman": "Work is done better and faster"
+    },
+    {
+      "jargon": "Large process improvements",
+      "layman": "Big workflow gains"
+    },
+    {
+      "jargon": "Large marketplace benefits",
+      "layman": "Big advantages from online marketplaces"
+    },
+    {
+      "jargon": "Mixed evidence of motivation costs",
+      "layman": "Unclear impact on motivation"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "eLearning",
+      "layman": "Online learning"
+    },
+    {
+      "jargon": "European Commission Programme",
+      "layman": "EU funding program for education"
+    },
+    {
+      "jargon": "AFNOR Z 76-001 Standard",
+      "layman": "French quality standard for courses"
+    },
+    {
+      "jargon": "Leonardo da Vinci Programme",
+      "layman": "EU project for vocational training"
+    },
+    {
+      "jargon": "Quality evaluation",
+      "layman": "Measuring course quality"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Euclidian distance",
+      "layman": "Straight-line difference between points"
+    },
+    {
+      "jargon": "Hamming distance",
+      "layman": "Number of differences between two sets"
+    },
+    {
+      "jargon": "Levenshtein distance",
+      "layman": "Number of edits to change one text to another"
+    },
+    {
+      "jargon": "Distance calculus",
+      "layman": "Mathematical method to measure differences"
+    },
+    {
+      "jargon": "Standard evaluation templates",
+      "layman": "Standard checklists for course review"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reference point",
+      "layman": "Benchmark for quality"
+    },
+    {
+      "jargon": "Optimal concept",
+      "layman": "Best possible course idea"
+    },
+    {
+      "jargon": "Quality set evaluation indicators",
+      "layman": "Measures of course quality"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "Real-world example used to test ideas"
+    },
+    {
+      "jargon": "Benefits of method",
+      "layman": "Advantages of using the new approach"
+    }
+  ]
+}

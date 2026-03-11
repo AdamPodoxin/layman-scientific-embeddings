@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "GUI",
+      "layman": "Graphical user interface"
+    },
+    {
+      "jargon": "Subversion",
+      "layman": "Version control system"
+    },
+    {
+      "jargon": "Open source",
+      "layman": "Free software with public code"
+    },
+    {
+      "jargon": "Undergraduate students",
+      "layman": "College students"
+    },
+    {
+      "jargon": "TkSVN",
+      "layman": "GUI tool for Subversion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Shelling out to the command line",
+      "layman": "Using text commands instead of a GUI"
+    },
+    {
+      "jargon": "Project implementation",
+      "layman": "Building the project"
+    },
+    {
+      "jargon": "Course materials",
+      "layman": "Teaching resources"
+    },
+    {
+      "jargon": "GUI frontend",
+      "layman": "User-friendly interface"
+    },
+    {
+      "jargon": "Version control system",
+      "layman": "Tool that tracks file changes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Three teams",
+      "layman": "Three groups of students"
+    },
+    {
+      "jargon": "One team used TkSVN",
+      "layman": "One group used a GUI tool"
+    },
+    {
+      "jargon": "Project implementation provided",
+      "layman": "Final project shared"
+    },
+    {
+      "jargon": "Course materials provided",
+      "layman": "Teaching materials shared"
+    },
+    {
+      "jargon": "Students built a GUI",
+      "layman": "Students created a visual interface"
+    }
+  ]
+}

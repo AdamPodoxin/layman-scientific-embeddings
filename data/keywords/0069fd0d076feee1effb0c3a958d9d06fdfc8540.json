@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "IIB flux vacua",
-      "layman": "Possible universes with specific physical laws"
+      "layman": "Types of stable universes in string theory"
     },
     {
       "jargon": "Calabi-Yau orientifolds",
@@ -14,51 +14,51 @@
     },
     {
       "jargon": "Conifold point",
-      "layman": "Key point in shape space"
+      "layman": "Special point in shape space"
     },
     {
       "jargon": "D3 charge",
-      "layman": "Type of energy in the system"
+      "layman": "Energy of a type of particle in the model"
     }
   ],
   "methodologies": [
     {
       "jargon": "Constructing vacua",
-      "layman": "Building possible universe models"
+      "layman": "Building stable universe models"
     },
     {
       "jargon": "Characterizing vacua",
-      "layman": "Describing properties of models"
+      "layman": "Describing properties of stable models"
     },
     {
       "jargon": "Analyzing curvature",
-      "layman": "Measuring shape bending"
+      "layman": "Measuring how curved space is"
     },
     {
       "jargon": "Studying functional dependence",
-      "layman": "Seeing how things grow together"
+      "layman": "Looking at how one quantity changes with another"
     },
     {
-      "jargon": "Mapping moduli space",
-      "layman": "Plotting possible shapes"
+      "jargon": "Examining moduli space",
+      "layman": "Mapping possible universe shapes"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Density of vacua governed by det(-R-\u03c9)",
-      "layman": "Vacua cluster near a key point"
+      "jargon": "Density of vacua governed by det(-R\u2212\u03c9)",
+      "layman": "Vacua cluster in specific regions"
     },
     {
       "jargon": "Attractor at \u03c8 = 1",
-      "layman": "Most vacua gather near one spot"
+      "layman": "Most vacua gather near a key point"
     },
     {
       "jargon": "Small neighborhood around \u03c8 = 1",
-      "layman": "Tiny region with many models"
+      "layman": "Tiny area containing many models"
     },
     {
       "jargon": "Power law growth",
-      "layman": "Number grows steadily with exponent"
+      "layman": "Number increases steadily with exponent"
     },
     {
       "jargon": "Support for Ashok and Douglas prediction",

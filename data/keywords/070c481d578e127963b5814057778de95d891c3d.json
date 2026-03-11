@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Alcoholics Anonymous",
+      "layman": "Alcoholics Anonymous"
+    },
+    {
+      "jargon": "Workplace dynamics",
+      "layman": "Workplace relationships"
+    },
+    {
+      "jargon": "Post-treatment recovery programs",
+      "layman": "Recovery programs after treatment"
+    },
+    {
+      "jargon": "Employment status",
+      "layman": "Job status"
+    },
+    {
+      "jargon": "Drinking-related problems",
+      "layman": "Problems caused by drinking"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Expanded measure of affiliation",
+      "layman": "Broader way to measure involvement"
+    },
+    {
+      "jargon": "Questionnaire data",
+      "layman": "Survey responses"
+    },
+    {
+      "jargon": "Interview data",
+      "layman": "Personal interviews"
+    },
+    {
+      "jargon": "Recruitment from treatment centers",
+      "layman": "Hiring from rehab programs"
+    },
+    {
+      "jargon": "Assessed approximately three months after discharge",
+      "layman": "Checked three months after leaving treatment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Affiliation with A.A.",
+      "layman": "Participation in A.A."
+    },
+    {
+      "jargon": "Acceptance of major A.A. tenets",
+      "layman": "Believing key A.A. beliefs"
+    },
+    {
+      "jargon": "Perceived serious drinking problem",
+      "layman": "Feeling they had a severe drinking issue"
+    },
+    {
+      "jargon": "Alcohol-related job problems",
+      "layman": "Job issues due to drinking"
+    },
+    {
+      "jargon": "Job stability",
+      "layman": "Job consistency"
+    }
+  ]
+}

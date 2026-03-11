@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "TPEE",
+      "layman": "Training plan for excellent engineers"
+    },
+    {
+      "jargon": "TRIZ",
+      "layman": "Innovation problem-solving method"
+    },
+    {
+      "jargon": "Higher engineering education",
+      "layman": "Advanced engineering training"
+    },
+    {
+      "jargon": "STEM education",
+      "layman": "Science, technology, engineering, and math learning"
+    },
+    {
+      "jargon": "Innovative abilities",
+      "layman": "Ability to create new solutions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "TRIZ framework",
+      "layman": "Structured approach to solving innovation problems"
+    },
+    {
+      "jargon": "Teaching philosophy",
+      "layman": "Core beliefs in education"
+    },
+    {
+      "jargon": "Dissemination of TRIZ",
+      "layman": "Spreading TRIZ across schools and programs"
+    },
+    {
+      "jargon": "Faculty development",
+      "layman": "Improving teachers' skills"
+    },
+    {
+      "jargon": "Platform development",
+      "layman": "Building tools for innovation education"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strong innovative abilities",
+      "layman": "Good at coming up with new ideas"
+    },
+    {
+      "jargon": "Meet economic and social needs",
+      "layman": "Solve real-world problems"
+    },
+    {
+      "jargon": "Scientific methodology",
+      "layman": "Proven way to solve problems"
+    },
+    {
+      "jargon": "Practical guidelines",
+      "layman": "Step-by-step instructions for action"
+    },
+    {
+      "jargon": "Training of technical personnel",
+      "layman": "Development of skilled workers"
+    }
+  ]
+}

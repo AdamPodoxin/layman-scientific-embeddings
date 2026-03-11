@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Women's representation",
+      "layman": "How women are shown"
+    },
+    {
+      "jargon": "War story",
+      "layman": "Stories about war"
+    },
+    {
+      "jargon": "Latin American literature",
+      "layman": "Writing from Latin America"
+    },
+    {
+      "jargon": "Historical contexts",
+      "layman": "Past events and settings"
+    },
+    {
+      "jargon": "Political aims",
+      "layman": "Goals related to politics"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Narrative analysis",
+      "layman": "Studying stories"
+    },
+    {
+      "jargon": "Creative aims",
+      "layman": "Artistic intentions"
+    },
+    {
+      "jargon": "Multiple versions of subjectivity",
+      "layman": "Different ways of seeing oneself"
+    },
+    {
+      "jargon": "Co-existence of experiences",
+      "layman": "Different experiences living together"
+    },
+    {
+      "jargon": "Broad definition of conflict",
+      "layman": "Wider view of conflict"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Multiple narratives of conflict",
+      "layman": "Many different war stories"
+    },
+    {
+      "jargon": "Complex versions of experience",
+      "layman": "Complicated personal experiences"
+    },
+    {
+      "jargon": "Co-existing subjectivities",
+      "layman": "Different self-views sharing space"
+    },
+    {
+      "jargon": "Women's experiences in conflict",
+      "layman": "Women's lives during war"
+    },
+    {
+      "jargon": "Creative and political expression",
+      "layman": "Art and politics coming together"
+    }
+  ]
+}

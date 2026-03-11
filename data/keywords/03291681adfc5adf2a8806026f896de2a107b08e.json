@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Data representation",
+      "layman": "Way data is organized"
+    },
+    {
+      "jargon": "Transformations",
+      "layman": "Changes in data form"
+    },
+    {
+      "jargon": "Sensory cortex",
+      "layman": "Brain's sensory area"
+    },
+    {
+      "jargon": "Feedforward processing",
+      "layman": "Signal flow from input to brain"
+    },
+    {
+      "jargon": "Invariance",
+      "layman": "Same response to different forms"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Representation learning",
+      "layman": "Learning data patterns automatically"
+    },
+    {
+      "jargon": "Mathematical results",
+      "layman": "Proven mathematical findings"
+    },
+    {
+      "jargon": "Transformation invariance",
+      "layman": "Staying the same under change"
+    },
+    {
+      "jargon": "Selectivity",
+      "layman": "Only matching when truly related"
+    },
+    {
+      "jargon": "i-theory",
+      "layman": "Theory of brain processing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Invariance and selectivity",
+      "layman": "Same response to similar inputs"
+    },
+    {
+      "jargon": "Key claims of i-theory",
+      "layman": "Main ideas of brain theory"
+    },
+    {
+      "jargon": "Two points have same representation",
+      "layman": "Same output for similar inputs"
+    },
+    {
+      "jargon": "One transformation of the other",
+      "layman": "One is just a changed version"
+    },
+    {
+      "jargon": "Automatically learned",
+      "layman": "Learned without human input"
+    }
+  ]
+}

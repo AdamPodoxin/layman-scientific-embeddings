@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "ws-compact mappings",
+      "layman": "Compact operators in function spaces"
+    },
+    {
+      "jargon": "Banach spaces",
+      "layman": "Complete vector spaces with distance"
+    },
+    {
+      "jargon": "Fixed point",
+      "layman": "Point that stays unchanged"
+    },
+    {
+      "jargon": "Sadovskii conditions",
+      "layman": "Rules for finding stable points"
+    },
+    {
+      "jargon": "Leray-Schauder conditions",
+      "layman": "Rules for existence of stable points"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Fixed point theorems",
+      "layman": "Rules for finding unchanging points"
+    },
+    {
+      "jargon": "Rothe conditions",
+      "layman": "Rules for stable point existence"
+    },
+    {
+      "jargon": "Altman conditions",
+      "layman": "Rules for stable point conditions"
+    },
+    {
+      "jargon": "Petryshyn conditions",
+      "layman": "Rules for stable point existence"
+    },
+    {
+      "jargon": "Furi-Pera conditions",
+      "layman": "Rules for stable point rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fixed point results",
+      "layman": "Stable point solutions"
+    },
+    {
+      "jargon": "Applicability",
+      "layman": "Usefulness in real problems"
+    },
+    {
+      "jargon": "Example given",
+      "layman": "Real-world case shown"
+    },
+    {
+      "jargon": "Operator conditions",
+      "layman": "Rules for mapping behavior"
+    },
+    {
+      "jargon": "Existence of solutions",
+      "layman": "Solutions are proven to exist"
+    }
+  ]
+}

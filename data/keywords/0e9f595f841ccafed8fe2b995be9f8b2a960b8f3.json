@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Naked singularity",
+      "layman": "Singularity without an event horizon"
+    },
+    {
+      "jargon": "Einstein field equations",
+      "layman": "Equations describing gravity in general relativity"
+    },
+    {
+      "jargon": "Spherical dust collapse",
+      "layman": "Collapse of dust in a spherical shape"
+    },
+    {
+      "jargon": "Cauchy horizon",
+      "layman": "Boundary where predictability breaks down"
+    },
+    {
+      "jargon": "Curvature strength",
+      "layman": "How sharply spacetime bends"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Perturbative calculation",
+      "layman": "Small-change approximation"
+    },
+    {
+      "jargon": "Quantum particle creation",
+      "layman": "Particles appearing from vacuum"
+    },
+    {
+      "jargon": "Backreaction",
+      "layman": "Effect of quantum processes on spacetime"
+    },
+    {
+      "jargon": "Regular evolution",
+      "layman": "Smooth, predictable development"
+    },
+    {
+      "jargon": "Class of solutions",
+      "layman": "Group of possible mathematical models"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Quantum effect prevents NS formation",
+      "layman": "Quantum effects stop singularities from forming"
+    },
+    {
+      "jargon": "Particle creation diverges",
+      "layman": "Particle creation becomes infinite"
+    },
+    {
+      "jargon": "Particle creation is finite",
+      "layman": "Particle creation stays limited"
+    },
+    {
+      "jargon": "Strong NSs disappear or hide",
+      "layman": "Strong singularities vanish or become hidden"
+    },
+    {
+      "jargon": "Weak NSs remain visible",
+      "layman": "Weak singularities stay exposed"
+    }
+  ]
+}

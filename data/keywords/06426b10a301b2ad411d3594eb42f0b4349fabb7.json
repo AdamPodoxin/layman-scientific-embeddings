@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sedimentary fill",
+      "layman": "Layered lake deposits"
+    },
+    {
+      "jargon": "Basinal sediments",
+      "layman": "Deep lake bottom deposits"
+    },
+    {
+      "jargon": "Mean grain size",
+      "layman": "Average particle size"
+    },
+    {
+      "jargon": "Magnetic minerals",
+      "layman": "Tiny iron-containing particles"
+    },
+    {
+      "jargon": "Paleodeclination",
+      "layman": "Past magnetic direction"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hydraulic action",
+      "layman": "Water flow moving material"
+    },
+    {
+      "jargon": "Paleomagnetic record",
+      "layman": "Magnetic history in rocks"
+    },
+    {
+      "jargon": "Remanent magnetic direction",
+      "layman": "Magnetic orientation when deposited"
+    },
+    {
+      "jargon": "Type paleodeclination logs",
+      "layman": "Magnetic direction over time"
+    },
+    {
+      "jargon": "Sedimentary sequence",
+      "layman": "Layered sediment history"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Decreasing grain size with depth",
+      "layman": "Smaller particles go deeper"
+    },
+    {
+      "jargon": "Earth's magnetic field changes",
+      "layman": "Magnetic field shifts over time"
+    },
+    {
+      "jargon": "Paleomagnetic time scale",
+      "layman": "Magnetic timeline for dating"
+    },
+    {
+      "jargon": "Clay deposition in lake proper",
+      "layman": "Clay ends up in the main lake"
+    },
+    {
+      "jargon": "Late Holocene sequence",
+      "layman": "Recent lake layer history"
+    }
+  ]
+}

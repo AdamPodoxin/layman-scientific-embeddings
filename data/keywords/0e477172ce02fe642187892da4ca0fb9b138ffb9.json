@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Vickers Vanguard",
+      "layman": "British turbo-prop airliner"
+    },
+    {
+      "jargon": "Electric system",
+      "layman": "Power system"
+    },
+    {
+      "jargon": "Turbo-prop airliner",
+      "layman": "Jet-powered plane with propellers"
+    },
+    {
+      "jargon": "Flight-testing",
+      "layman": "Testing in the air"
+    },
+    {
+      "jargon": "Electrical components",
+      "layman": "Electrical parts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Flight-testing",
+      "layman": "Testing in the air"
+    },
+    {
+      "jargon": "Electrical system design",
+      "layman": "Planning power system"
+    },
+    {
+      "jargon": "Propulsion system",
+      "layman": "Engine and power delivery"
+    },
+    {
+      "jargon": "Power distribution",
+      "layman": "Sending power to parts of the plane"
+    },
+    {
+      "jargon": "System integration",
+      "layman": "Putting systems together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Flight-testing",
+      "layman": "Plane tested in air"
+    },
+    {
+      "jargon": "Operational reliability",
+      "layman": "System works well"
+    },
+    {
+      "jargon": "Power efficiency",
+      "layman": "Good power use"
+    },
+    {
+      "jargon": "Electrical performance",
+      "layman": "Power system works well"
+    },
+    {
+      "jargon": "System safety",
+      "layman": "No risks in operation"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Vacuum",
+      "layman": "Empty space"
+    },
+    {
+      "jargon": "Particles",
+      "layman": "Tiny building blocks"
+    },
+    {
+      "jargon": "General relativity",
+      "layman": "Theory of gravity"
+    },
+    {
+      "jargon": "Quantum field theories",
+      "layman": "Theories about tiny particles and forces"
+    },
+    {
+      "jargon": "Cosmological constant",
+      "layman": "A value that affects the universe's expansion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Internal dynamics",
+      "layman": "How things move inside"
+    },
+    {
+      "jargon": "One-to-one correspondence",
+      "layman": "Exact matching between two things"
+    },
+    {
+      "jargon": "Proved to be",
+      "layman": "Shown to be true"
+    },
+    {
+      "jargon": "Equations",
+      "layman": "Mathematical rules"
+    },
+    {
+      "jargon": "Interacting particles",
+      "layman": "Particles that influence each other"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "High value for the cosmological constant",
+      "layman": "Large value for universe expansion factor"
+    },
+    {
+      "jargon": "Unifying theories",
+      "layman": "Combining gravity and quantum rules"
+    },
+    {
+      "jargon": "Mass structures",
+      "layman": "How mass is formed"
+    },
+    {
+      "jargon": "Theoretical expectation",
+      "layman": "What theory predicts"
+    },
+    {
+      "jargon": "Equations of general relativity",
+      "layman": "Math rules for gravity"
+    }
+  ]
+}

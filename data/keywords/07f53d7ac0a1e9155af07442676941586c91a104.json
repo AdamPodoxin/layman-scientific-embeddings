@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "EU-1 zeolite",
+      "layman": "Zeolite with specific pore structure"
+    },
+    {
+      "jargon": "Na\u2013EU-1",
+      "layman": "Sodium-based EU-1 zeolite"
+    },
+    {
+      "jargon": "Si/Al ratio",
+      "layman": "Silicon to aluminum balance"
+    },
+    {
+      "jargon": "Hexamethonium bromide",
+      "layman": "Template molecule"
+    },
+    {
+      "jargon": "Ion exchange",
+      "layman": "Swapping ions in material"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Aging time",
+      "layman": "Time spent in mixture before growth"
+    },
+    {
+      "jargon": "Synthesis temperature",
+      "layman": "Heat used to build crystals"
+    },
+    {
+      "jargon": "Synthesis time",
+      "layman": "Time to grow crystals"
+    },
+    {
+      "jargon": "X-ray diffraction",
+      "layman": "Measuring crystal structure"
+    },
+    {
+      "jargon": "Scanning electron microscope",
+      "layman": "Microscope for crystal shape"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Crystallinity",
+      "layman": "How well-ordered the crystal is"
+    },
+    {
+      "jargon": "Pure phase",
+      "layman": "Single, clean crystal form"
+    },
+    {
+      "jargon": "Morphology",
+      "layman": "Crystal shape and structure"
+    },
+    {
+      "jargon": "Reduced crystallinity",
+      "layman": "Weaker crystal order"
+    },
+    {
+      "jargon": "Potential catalyst",
+      "layman": "Could speed up chemical reactions"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Natural organic matter",
+      "layman": "Natural organic matter"
+    },
+    {
+      "jargon": "Manganese oxide",
+      "layman": "Manganese oxide"
+    },
+    {
+      "jargon": "Birnessite",
+      "layman": "Birnessite"
+    },
+    {
+      "jargon": "Lithiophorite",
+      "layman": "Lithiophorite"
+    },
+    {
+      "jargon": "Cryptomelane",
+      "layman": "Cryptomelane"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Adsorption kinetics",
+      "layman": "How fast things stick"
+    },
+    {
+      "jargon": "Surface complexation",
+      "layman": "Molecules bonding to surfaces"
+    },
+    {
+      "jargon": "Ligand exchange",
+      "layman": "Molecules swapping places"
+    },
+    {
+      "jargon": "Diffusion",
+      "layman": "Movement through small spaces"
+    },
+    {
+      "jargon": "pH adjustment",
+      "layman": "Changing acidity or alkalinity"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Increased adsorption at low pH",
+      "layman": "More sticking at acidic levels"
+    },
+    {
+      "jargon": "Enhanced adsorption with calcium",
+      "layman": "More sticking with calcium"
+    },
+    {
+      "jargon": "Preferential adsorption of high molecular weight molecules",
+      "layman": "Big molecules stick more"
+    },
+    {
+      "jargon": "Enrichment of aromatic moieties",
+      "layman": "Aromatic parts stick better"
+    },
+    {
+      "jargon": "Formation of UV-absorbing molecules",
+      "layman": "New light-absorbing compounds form"
+    }
+  ]
+}

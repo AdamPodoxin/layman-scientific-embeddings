@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Inhomogeneous cosmologies",
+      "layman": "Universe with uneven structures"
+    },
+    {
+      "jargon": "Anisotropic models",
+      "layman": "Models with different properties in different directions"
+    },
+    {
+      "jargon": "Homogeneous models",
+      "layman": "Uniform universe models"
+    },
+    {
+      "jargon": "Exact solutions",
+      "layman": "Precise mathematical answers"
+    },
+    {
+      "jargon": "Cosmological structures",
+      "layman": "Large-scale features of the universe"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mathematical classification",
+      "layman": "Organizing solutions by math patterns"
+    },
+    {
+      "jargon": "Perturbation theory",
+      "layman": "Small changes to standard models"
+    },
+    {
+      "jargon": "Solutions classification",
+      "layman": "Categorizing possible universe models"
+    },
+    {
+      "jargon": "Review papers",
+      "layman": "Summaries of existing research"
+    },
+    {
+      "jargon": "Solitonic models",
+      "layman": "Models with stable, localized features"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Implications of anisotropic models",
+      "layman": "Effects of non-uniform universe"
+    },
+    {
+      "jargon": "Standard homogeneous models",
+      "layman": "Commonly used uniform models"
+    },
+    {
+      "jargon": "Exact solutions",
+      "layman": "Precise mathematical answers"
+    },
+    {
+      "jargon": "Mathematical scheme",
+      "layman": "Organized framework for analysis"
+    },
+    {
+      "jargon": "Inhomogeneous structures",
+      "layman": "Uneven features in the cosmos"
+    }
+  ]
+}

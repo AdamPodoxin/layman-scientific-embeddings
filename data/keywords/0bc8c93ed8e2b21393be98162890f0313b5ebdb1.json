@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sexual citizenship",
+      "layman": "Rights to be recognized as a sexual group"
+    },
+    {
+      "jargon": "Civil Partnership Act",
+      "layman": "Law allowing same-sex couples to form partnerships"
+    },
+    {
+      "jargon": "Equality Regulations (Sexual Orientation) 2007",
+      "layman": "Rules banning discrimination based on sexual orientation"
+    },
+    {
+      "jargon": "Lesbian, gay, bisexual, and transgender (LGBT)",
+      "layman": "LGBT people"
+    },
+    {
+      "jargon": "Local government",
+      "layman": "City or town councils"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "ESRC funded study",
+      "layman": "Research supported by government grant"
+    },
+    {
+      "jargon": "Political agendas",
+      "layman": "Goals of political movements"
+    },
+    {
+      "jargon": "Policy making",
+      "layman": "Decisions about laws and rules"
+    },
+    {
+      "jargon": "Feminist critiques",
+      "layman": "Women's perspectives on social issues"
+    },
+    {
+      "jargon": "Theoretical work",
+      "layman": "Academic ideas developed from theory"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Politics of normalisation",
+      "layman": "Pushing LGBTQ+ lives to fit mainstream norms"
+    },
+    {
+      "jargon": "Demands for belonging",
+      "layman": "Seeking acceptance in society"
+    },
+    {
+      "jargon": "Shifts in social movements",
+      "layman": "Changes in how groups fight for rights"
+    },
+    {
+      "jargon": "Changes in policy and practice",
+      "layman": "New rules and actions in government"
+    },
+    {
+      "jargon": "Limits to sexual citizenship",
+      "layman": "Boundaries in how LGBTQ+ people are treated equally"
+    }
+  ]
+}

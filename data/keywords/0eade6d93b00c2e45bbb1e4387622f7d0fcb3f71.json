@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Inter-religious dialogue",
+      "layman": "Dialogue between different religions"
+    },
+    {
+      "jargon": "Creative forms",
+      "layman": "Artistic expressions"
+    },
+    {
+      "jargon": "Literature",
+      "layman": "Books and stories"
+    },
+    {
+      "jargon": "Jewish novelist",
+      "layman": "Jewish writer of novels"
+    },
+    {
+      "jargon": "Christian playwright",
+      "layman": "Christian writer of plays"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Case study",
+      "layman": "In-depth examination of one example"
+    },
+    {
+      "jargon": "Interviews",
+      "layman": "Talks with people"
+    },
+    {
+      "jargon": "Analytical reflections",
+      "layman": "Thinking deeply about findings"
+    },
+    {
+      "jargon": "Holistic approach",
+      "layman": "Looking at the whole picture"
+    },
+    {
+      "jargon": "Personal and creative arena",
+      "layman": "A personal space for creative expression"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fruitful combination",
+      "layman": "Positive and useful results"
+    },
+    {
+      "jargon": "Practical and ethical concerns",
+      "layman": "Real-life and moral issues"
+    },
+    {
+      "jargon": "Theoretical reflections",
+      "layman": "Deep thinking about ideas"
+    },
+    {
+      "jargon": "Empirical examples",
+      "layman": "Real-life evidence"
+    },
+    {
+      "jargon": "Creative forms of dialogue",
+      "layman": "Artistic ways to talk across religions"
+    }
+  ]
+}

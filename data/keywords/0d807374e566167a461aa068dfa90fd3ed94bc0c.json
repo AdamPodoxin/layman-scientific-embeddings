@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Psychology",
+      "layman": "Study of the mind"
+    },
+    {
+      "jargon": "Natural sciences",
+      "layman": "Science of nature"
+    },
+    {
+      "jargon": "Spiritualism",
+      "layman": "Belief in spirits"
+    },
+    {
+      "jargon": "Consciousness",
+      "layman": "State of being aware"
+    },
+    {
+      "jargon": "Behaviorism",
+      "layman": "Study of observable actions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Empirical research",
+      "layman": "Based on observation and data"
+    },
+    {
+      "jargon": "Information-processing psychology",
+      "layman": "Mind as a computer"
+    },
+    {
+      "jargon": "Scientific revolutions",
+      "layman": "Major shifts in scientific thinking"
+    },
+    {
+      "jargon": "Theorization",
+      "layman": "Developing theories"
+    },
+    {
+      "jargon": "Control of human nature",
+      "layman": "Influencing human behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Antispiritualism",
+      "layman": "Rejection of spiritual beliefs"
+    },
+    {
+      "jargon": "Boundary between science and control",
+      "layman": "Unclear line between understanding and influencing people"
+    },
+    {
+      "jargon": "Dominance of cognitive technology",
+      "layman": "Cognitive models now rule psychology"
+    },
+    {
+      "jargon": "Continued alliance with natural sciences",
+      "layman": "Still linked to science of nature"
+    },
+    {
+      "jargon": "Psychological control",
+      "layman": "Using psychology to manage people"
+    }
+  ]
+}

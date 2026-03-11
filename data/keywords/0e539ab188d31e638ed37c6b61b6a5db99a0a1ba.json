@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Acute cerebral infarction",
+      "layman": "Sudden brain blockage"
+    },
+    {
+      "jargon": "Dexamethasone",
+      "layman": "Strong anti-inflammatory drug"
+    },
+    {
+      "jargon": "Placebo therapy",
+      "layman": "Fake treatment"
+    },
+    {
+      "jargon": "Cerebrovascular disease",
+      "layman": "Brain blood vessel disease"
+    },
+    {
+      "jargon": "CSF pressure",
+      "layman": "Spinal fluid pressure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Double-blind study",
+      "layman": "Test where neither doctor nor patient knows treatment"
+    },
+    {
+      "jargon": "Clinical state",
+      "layman": "Patient's overall condition"
+    },
+    {
+      "jargon": "Comparison of patients",
+      "layman": "Matching patients for fair testing"
+    },
+    {
+      "jargon": "Control group",
+      "layman": "Group getting no active treatment"
+    },
+    {
+      "jargon": "14-day course",
+      "layman": "14-day treatment period"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "No significant difference",
+      "layman": "No clear benefit"
+    },
+    {
+      "jargon": "Gastrointestinal tract bleeding",
+      "layman": "Stomach or intestine bleeding"
+    },
+    {
+      "jargon": "No correlation",
+      "layman": "No link found"
+    },
+    {
+      "jargon": "Levels of consciousness",
+      "layman": "Patient's alertness level"
+    },
+    {
+      "jargon": "CSF pressure changes",
+      "layman": "Spinal fluid pressure shifts"
+    }
+  ]
+}

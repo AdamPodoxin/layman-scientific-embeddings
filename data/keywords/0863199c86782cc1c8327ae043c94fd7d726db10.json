@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sparse distributed memory",
+      "layman": "Sparse distributed memory"
+    },
+    {
+      "jargon": "Associative level",
+      "layman": "Memory level that links related ideas"
+    },
+    {
+      "jargon": "Semantic level",
+      "layman": "Level that understands meaning"
+    },
+    {
+      "jargon": "Rule-based level",
+      "layman": "Level that uses rules to make decisions"
+    },
+    {
+      "jargon": "Description-generator level",
+      "layman": "Top level that creates descriptions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Associative information retrieval",
+      "layman": "Finding related ideas by similarity"
+    },
+    {
+      "jargon": "Similarity measurement",
+      "layman": "Measuring how alike two things are"
+    },
+    {
+      "jargon": "Linguistic variable",
+      "layman": "Word-based similarity score"
+    },
+    {
+      "jargon": "Hierarchical knowledge-base model",
+      "layman": "Step-by-step knowledge system"
+    },
+    {
+      "jargon": "Psychological experiment",
+      "layman": "Test based on human behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Retrieval of unknown concepts",
+      "layman": "Finding missing ideas"
+    },
+    {
+      "jargon": "Concept similarity",
+      "layman": "How closely two ideas match"
+    },
+    {
+      "jargon": "Unknown concept handling",
+      "layman": "Dealing with new or missing ideas"
+    },
+    {
+      "jargon": "Memory model implementation",
+      "layman": "Building a memory system"
+    },
+    {
+      "jargon": "Psychological experiment results",
+      "layman": "Results from human behavior tests"
+    }
+  ]
+}

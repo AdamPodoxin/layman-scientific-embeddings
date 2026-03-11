@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Urbanization",
+      "layman": "Cities growing larger and more crowded"
+    },
+    {
+      "jargon": "Violent conflict",
+      "layman": "Fighting between groups"
+    },
+    {
+      "jargon": "Armed conflict",
+      "layman": "Fighting with weapons"
+    },
+    {
+      "jargon": "Colombia",
+      "layman": "Colombia"
+    },
+    {
+      "jargon": "City dynamics",
+      "layman": "How cities change over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Two-way travel",
+      "layman": "Back-and-forth connection"
+    },
+    {
+      "jargon": "Contextualizing",
+      "layman": "Placing in background"
+    },
+    {
+      "jargon": "Linkages",
+      "layman": "Connections between things"
+    },
+    {
+      "jargon": "Analysis",
+      "layman": "Looking closely at data"
+    },
+    {
+      "jargon": "Epilogue",
+      "layman": "Final reflection"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Uniqueness of urban violent conflict",
+      "layman": "City violence is special"
+    },
+    {
+      "jargon": "Reduction and oblivion",
+      "layman": "Forgetting or shrinking"
+    },
+    {
+      "jargon": "Antidote",
+      "layman": "Something that fights off harm"
+    },
+    {
+      "jargon": "National and regional levels",
+      "layman": "Country and area-wide effects"
+    },
+    {
+      "jargon": "Dynamic connections",
+      "layman": "Moving relationships between places"
+    }
+  ]
+}

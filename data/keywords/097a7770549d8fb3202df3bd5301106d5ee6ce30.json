@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "knowledge-intensive firms",
+      "layman": "firms relying on knowledge"
+    },
+    {
+      "jargon": "innovation networks",
+      "layman": "networks of firms collaborating"
+    },
+    {
+      "jargon": "biotechnology firms",
+      "layman": "biotech companies"
+    },
+    {
+      "jargon": "social capital",
+      "layman": "trust and relationships in networks"
+    },
+    {
+      "jargon": "complementary assets",
+      "layman": "supporting resources for innovation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "rare event logit model",
+      "layman": "model for rare partnership choices"
+    },
+    {
+      "jargon": "questionnaire-based face-to-face interviews",
+      "layman": "direct surveys with interviews"
+    },
+    {
+      "jargon": "documentary information",
+      "layman": "official records and documents"
+    },
+    {
+      "jargon": "imprinting",
+      "layman": "learning from early connections"
+    },
+    {
+      "jargon": "network embeddedness",
+      "layman": "being part of a group of similar firms"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "partner selection",
+      "layman": "choosing who to work with"
+    },
+    {
+      "jargon": "resource access",
+      "layman": "getting needed resources"
+    },
+    {
+      "jargon": "persistence in ties",
+      "layman": "keeping existing partnerships"
+    },
+    {
+      "jargon": "novelty in ties",
+      "layman": "forming new partnerships"
+    },
+    {
+      "jargon": "different network strategies",
+      "layman": "varied ways to build networks"
+    }
+  ]
+}

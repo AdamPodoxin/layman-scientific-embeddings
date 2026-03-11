@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Performance-based Logistics",
+      "layman": "Service contracts based on uptime"
+    },
+    {
+      "jargon": "Consumption-based contract",
+      "layman": "Payment based on parts used"
+    },
+    {
+      "jargon": "Product support contracts",
+      "layman": "Agreements for after-sales service"
+    },
+    {
+      "jargon": "Spare product assets",
+      "layman": "Extra parts kept on hand"
+    },
+    {
+      "jargon": "Military service",
+      "layman": "Army, air force, navy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Inventory level setting",
+      "layman": "Deciding how many spare parts to keep"
+    },
+    {
+      "jargon": "Reliability improvement",
+      "layman": "Making products more reliable"
+    },
+    {
+      "jargon": "Contract term setting",
+      "layman": "Choosing contract rules"
+    },
+    {
+      "jargon": "Supplier investment",
+      "layman": "Supplier spending to improve service"
+    },
+    {
+      "jargon": "Efficiency analysis",
+      "layman": "Measuring how well the system works"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Stronger incentives for reliability",
+      "layman": "More motivation to fix problems"
+    },
+    {
+      "jargon": "Savings in spare parts",
+      "layman": "Less money spent on parts"
+    },
+    {
+      "jargon": "Improved PBC efficiency",
+      "layman": "Better results under performance contracts"
+    },
+    {
+      "jargon": "Supplier owns spare assets",
+      "layman": "Supplier keeps the spare parts"
+    },
+    {
+      "jargon": "Shift to total service providers",
+      "layman": "Suppliers offer full support services"
+    }
+  ]
+}

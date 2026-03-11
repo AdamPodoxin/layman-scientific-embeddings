@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Interdisciplinarity",
+      "layman": "Combining different fields of study"
+    },
+    {
+      "jargon": "Cultural knowledge",
+      "layman": "Shared beliefs and practices"
+    },
+    {
+      "jargon": "Popular culture",
+      "layman": "Common media and trends"
+    },
+    {
+      "jargon": "Economy",
+      "layman": "How money and resources are managed"
+    },
+    {
+      "jargon": "Conjunctural analysis",
+      "layman": "Looking at conditions in context"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cultural reading of finance",
+      "layman": "Interpreting money through culture"
+    },
+    {
+      "jargon": "Performance of bad economics",
+      "layman": "Presenting flawed economic ideas"
+    },
+    {
+      "jargon": "Fused culture-economy",
+      "layman": "Culture and economy mixed together"
+    },
+    {
+      "jargon": "Life and death issues",
+      "layman": "Critical situations involving survival"
+    },
+    {
+      "jargon": "Contextual analysis",
+      "layman": "Understanding based on surrounding factors"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reductive 'us versus them' position",
+      "layman": "Simplified group conflict"
+    },
+    {
+      "jargon": "Inseparable culture-economy",
+      "layman": "Culture and economy are always linked"
+    },
+    {
+      "jargon": "Collapse into default positions",
+      "layman": "Falling into simple answers"
+    },
+    {
+      "jargon": "Changing ways of talking about economies",
+      "layman": "New language for discussing money"
+    },
+    {
+      "jargon": "Fused sides of a sheet of paper",
+      "layman": "Two parts that can't be separated"
+    }
+  ]
+}

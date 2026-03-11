@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Graphic elements",
+      "layman": "Visual objects"
+    },
+    {
+      "jargon": "Spatial relationship",
+      "layman": "Positioning between objects"
+    },
+    {
+      "jargon": "Working area",
+      "layman": "Available space"
+    },
+    {
+      "jargon": "Connectivity function",
+      "layman": "Linking between objects"
+    },
+    {
+      "jargon": "Self-adaptive system",
+      "layman": "System that adjusts automatically"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Free space management",
+      "layman": "Managing open space"
+    },
+    {
+      "jargon": "Neighbourhood modeling",
+      "layman": "Modeling nearby areas"
+    },
+    {
+      "jargon": "Relation space management",
+      "layman": "Managing space for connections"
+    },
+    {
+      "jargon": "Automated connection",
+      "layman": "Auto-linking objects"
+    },
+    {
+      "jargon": "Adaptation mechanism",
+      "layman": "Adjustment process"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Irregular occupation",
+      "layman": "Unusual placement"
+    },
+    {
+      "jargon": "Manual rearrangement",
+      "layman": "User fixes manually"
+    },
+    {
+      "jargon": "Flexible adaptation",
+      "layman": "Easy adjustment"
+    },
+    {
+      "jargon": "User-friendly tool",
+      "layman": "Easy for users to use"
+    },
+    {
+      "jargon": "Improved working environment",
+      "layman": "Better available space"
+    }
+  ]
+}

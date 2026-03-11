@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Franciscan formation",
+      "layman": "Franciscan formation"
+    },
+    {
+      "jargon": "Glaucophanitic metamorphism",
+      "layman": "Type of rock transformation"
+    },
+    {
+      "jargon": "Coast Ranges",
+      "layman": "California coast mountain range"
+    },
+    {
+      "jargon": "Metamorphic rocks",
+      "layman": "Rocks changed by heat and pressure"
+    },
+    {
+      "jargon": "Regional metamorphism",
+      "layman": "Widespread rock transformation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Geological characters",
+      "layman": "Rock features studied"
+    },
+    {
+      "jargon": "Petrological characters",
+      "layman": "Rock composition analyzed"
+    },
+    {
+      "jargon": "Exposure",
+      "layman": "Rocks visible on surface"
+    },
+    {
+      "jargon": "Metamorphic processes",
+      "layman": "Changes in rock structure"
+    },
+    {
+      "jargon": "Regional metamorphism",
+      "layman": "Large-scale rock transformation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Glaucophanitic regional metamorphism",
+      "layman": "Specific rock transformation pattern"
+    },
+    {
+      "jargon": "Widespread exposure",
+      "layman": "Found in many areas"
+    },
+    {
+      "jargon": "Geological and petrological characters",
+      "layman": "Observed rock traits"
+    },
+    {
+      "jargon": "Metamorphic features",
+      "layman": "Visible rock changes"
+    },
+    {
+      "jargon": "Rock transformation",
+      "layman": "Rocks changed by heat and pressure"
+    }
+  ]
+}

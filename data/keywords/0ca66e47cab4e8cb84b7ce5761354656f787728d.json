@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Accounting choices",
+      "layman": "Financial decisions"
+    },
+    {
+      "jargon": "British Telecom",
+      "layman": "British Telecom"
+    },
+    {
+      "jargon": "British Gas",
+      "layman": "British Gas"
+    },
+    {
+      "jargon": "Positive accounting theory",
+      "layman": "Theory about financial reporting"
+    },
+    {
+      "jargon": "Socio-economic system",
+      "layman": "Economy and society together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Financial statement analysis",
+      "layman": "Reviewing financial reports"
+    },
+    {
+      "jargon": "Neo-Marxist theory",
+      "layman": "Marxist-inspired crisis theory"
+    },
+    {
+      "jargon": "Habermasian framework",
+      "layman": "Theory based on Habermas's ideas"
+    },
+    {
+      "jargon": "Crisis management",
+      "layman": "Handling potential crises"
+    },
+    {
+      "jargon": "Post-privatization context",
+      "layman": "After companies were sold to private owners"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Explanatory power",
+      "layman": "Ability to explain results"
+    },
+    {
+      "jargon": "Crisis tendencies",
+      "layman": "Tendency to face crises"
+    },
+    {
+      "jargon": "Avoid crises",
+      "layman": "Prevent crises"
+    },
+    {
+      "jargon": "Financial statements",
+      "layman": "Company's financial reports"
+    },
+    {
+      "jargon": "Accounting choices as responses",
+      "layman": "Financial decisions made to avoid problems"
+    }
+  ]
+}

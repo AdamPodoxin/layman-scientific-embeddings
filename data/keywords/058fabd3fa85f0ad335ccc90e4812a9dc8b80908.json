@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Efimov physics",
+      "layman": "Strange three-particle behavior"
+    },
+    {
+      "jargon": "Three-body parameter",
+      "layman": "Key number describing three-particle system"
+    },
+    {
+      "jargon": "Short-range two-body interactions",
+      "layman": "Close-pair forces between two atoms"
+    },
+    {
+      "jargon": "Three-body potentials",
+      "layman": "Forces acting on three particles together"
+    },
+    {
+      "jargon": "Neutral atoms",
+      "layman": "Atoms with no electric charge"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theoretical studies",
+      "layman": "Mathematical modeling"
+    },
+    {
+      "jargon": "Experimental measurements",
+      "layman": "Direct observations in labs"
+    },
+    {
+      "jargon": "Effective barrier",
+      "layman": "Force that blocks particles from getting close"
+    },
+    {
+      "jargon": "Universal effective barrier",
+      "layman": "Universal force blocking close approach"
+    },
+    {
+      "jargon": "Implications of two-body interactions",
+      "layman": "Effects of pair forces on three-particle system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Three-body parameter universality",
+      "layman": "Same key number across different systems"
+    },
+    {
+      "jargon": "Apparent contradiction",
+      "layman": "Unexpected conflict between theory and data"
+    },
+    {
+      "jargon": "Universality emerges",
+      "layman": "Behavior becomes consistent across cases"
+    },
+    {
+      "jargon": "Limitations on universality",
+      "layman": "Not true for all types of particles"
+    },
+    {
+      "jargon": "More likely in neutral atoms",
+      "layman": "Works better with non-charged atoms"
+    }
+  ]
+}

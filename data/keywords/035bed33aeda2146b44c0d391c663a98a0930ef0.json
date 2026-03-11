@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Harmonic numbers",
+      "layman": "Sum of reciprocals of integers"
+    },
+    {
+      "jargon": "Definite integration",
+      "layman": "Area under a curve"
+    },
+    {
+      "jargon": "Randomized WZ procedure",
+      "layman": "Computer method to find series patterns"
+    },
+    {
+      "jargon": "Computer algebra programs",
+      "layman": "Software for symbolic math"
+    },
+    {
+      "jargon": "Series evaluation",
+      "layman": "Finding a value for an infinite sum"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Randomized WZ procedure",
+      "layman": "Computer method to find series patterns"
+    },
+    {
+      "jargon": "Computer proof",
+      "layman": "Using computers to verify math"
+    },
+    {
+      "jargon": "Definite integration",
+      "layman": "Calculating area under a curve"
+    },
+    {
+      "jargon": "Symbolic math",
+      "layman": "Working with equations without numbers"
+    },
+    {
+      "jargon": "Algorithmic proof",
+      "layman": "Using steps to show something is true"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Series evaluation",
+      "layman": "Finding a value for an infinite sum"
+    },
+    {
+      "jargon": "Computer proof",
+      "layman": "Math verified by computer"
+    },
+    {
+      "jargon": "Harmonic numbers",
+      "layman": "Sum of reciprocals of integers"
+    },
+    {
+      "jargon": "Pattern recognition",
+      "layman": "Spotting mathematical patterns"
+    },
+    {
+      "jargon": "Exact evaluation",
+      "layman": "Precise mathematical result"
+    }
+  ]
+}

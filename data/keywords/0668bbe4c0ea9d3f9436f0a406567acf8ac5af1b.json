@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Laughter",
+      "layman": "Laughter"
+    },
+    {
+      "jargon": "Classical Antiquity",
+      "layman": "Ancient Greece and Rome"
+    },
+    {
+      "jargon": "European cultures",
+      "layman": "European societies"
+    },
+    {
+      "jargon": "Salzburg Symposium",
+      "layman": "Laughter conference in Salzburg"
+    },
+    {
+      "jargon": "Seili Island symposia",
+      "layman": "Laughter talks on Suomi island"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Comparative aspect",
+      "layman": "Comparing different cultures"
+    },
+    {
+      "jargon": "Symposium",
+      "layman": "Academic discussion meeting"
+    },
+    {
+      "jargon": "Interdisciplinary approach",
+      "layman": "Combining different fields of study"
+    },
+    {
+      "jargon": "Conference organization",
+      "layman": "Planning and running a conference"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying the past to understand changes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "International attention",
+      "layman": "Global interest"
+    },
+    {
+      "jargon": "Cultural discussion",
+      "layman": "People talking about culture"
+    },
+    {
+      "jargon": "Academic conferences",
+      "layman": "Scholarly gatherings"
+    },
+    {
+      "jargon": "Comparative studies",
+      "layman": "Side-by-side comparisons"
+    },
+    {
+      "jargon": "Historical continuity",
+      "layman": "Same patterns over time"
+    }
+  ]
+}

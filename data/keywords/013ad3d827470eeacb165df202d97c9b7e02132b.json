@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "chronic obstructive pulmonary disease",
+      "layman": "COPD"
+    },
+    {
+      "jargon": "primary care physicians",
+      "layman": "General doctors"
+    },
+    {
+      "jargon": "pulmonologists",
+      "layman": "Lung specialists"
+    },
+    {
+      "jargon": "spirometry",
+      "layman": "Lung function test"
+    },
+    {
+      "jargon": "symptoms",
+      "layman": "Signs like coughing or shortness of breath"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "cross-sectional survey",
+      "layman": "One-time doctor opinion survey"
+    },
+    {
+      "jargon": "face-to-face interviews",
+      "layman": "In-person doctor discussions"
+    },
+    {
+      "jargon": "random selection",
+      "layman": "Doctors picked at random"
+    },
+    {
+      "jargon": "questionnaire",
+      "layman": "Written doctor survey"
+    },
+    {
+      "jargon": "response rate",
+      "layman": "Percent of doctors who answered"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "moderate to severe stages",
+      "layman": "Late disease stage"
+    },
+    {
+      "jargon": "under-diagnosis",
+      "layman": "Too few cases detected"
+    },
+    {
+      "jargon": "under-treatment",
+      "layman": "Too few patients get proper care"
+    },
+    {
+      "jargon": "poor patient compliance",
+      "layman": "Patients don\u2019t follow treatment"
+    },
+    {
+      "jargon": "smoking cessation difficulty",
+      "layman": "Hard to stop smoking"
+    }
+  ]
+}

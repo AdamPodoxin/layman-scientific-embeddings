@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Coastal management programs",
+      "layman": "Rules for protecting coastlines"
+    },
+    {
+      "jargon": "National Estuarine Research Reserves",
+      "layman": "Protected coastal wetlands"
+    },
+    {
+      "jargon": "Coastal Zone Management Act",
+      "layman": "Law for coastal protection"
+    },
+    {
+      "jargon": "National Oceanic and Atmospheric Administration",
+      "layman": "Ocean and weather agency"
+    },
+    {
+      "jargon": "Estuaries",
+      "layman": "Where rivers meet the sea"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Performance Measurement System",
+      "layman": "System to track success"
+    },
+    {
+      "jargon": "Assess",
+      "layman": "Evaluate"
+    },
+    {
+      "jargon": "Develop",
+      "layman": "Create"
+    },
+    {
+      "jargon": "Monitor",
+      "layman": "Keep an eye on"
+    },
+    {
+      "jargon": "Evaluate impact",
+      "layman": "See how effective something is"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "National impact",
+      "layman": "Overall effect across the country"
+    },
+    {
+      "jargon": "State coastal management programs",
+      "layman": "State-level coastal rules"
+    },
+    {
+      "jargon": "Performance metrics",
+      "layman": "Success numbers"
+    },
+    {
+      "jargon": "Effectiveness",
+      "layman": "How well it works"
+    },
+    {
+      "jargon": "Management impact",
+      "layman": "Results of coastal rules"
+    }
+  ]
+}

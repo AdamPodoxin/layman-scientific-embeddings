@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Brand portfolio",
+      "layman": "Set of brands a company owns"
+    },
+    {
+      "jargon": "Consumer markets",
+      "layman": "Markets where people buy goods"
+    },
+    {
+      "jargon": "Firm performance",
+      "layman": "How well a company is doing"
+    },
+    {
+      "jargon": "Marketing effectiveness",
+      "layman": "How well a company retains customers"
+    },
+    {
+      "jargon": "Financial performance",
+      "layman": "Company's financial health"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Regression analysis",
+      "layman": "Statistical testing of relationships"
+    },
+    {
+      "jargon": "Controlled for industry characteristics",
+      "layman": "Accounted for industry differences"
+    },
+    {
+      "jargon": "Longitudinal data analysis",
+      "layman": "Looking at data over time"
+    },
+    {
+      "jargon": "Secondary data sources",
+      "layman": "Using existing data from other sources"
+    },
+    {
+      "jargon": "Multivariate analysis",
+      "layman": "Testing many variables at once"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Market share",
+      "layman": "Percentage of customers a company has"
+    },
+    {
+      "jargon": "Consumer loyalty",
+      "layman": "Customers staying with a brand"
+    },
+    {
+      "jargon": "Advertising spending to sales ratio",
+      "layman": "How much ad money vs. sales"
+    },
+    {
+      "jargon": "Selling, general, and administrative expenses to sales ratio",
+      "layman": "Operating costs relative to sales"
+    },
+    {
+      "jargon": "Tobin\u2019s q",
+      "layman": "Measure of company value vs. investment"
+    }
+  ]
+}

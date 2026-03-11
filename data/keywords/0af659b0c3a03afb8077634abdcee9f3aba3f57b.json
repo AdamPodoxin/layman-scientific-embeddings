@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Acute renal failure",
+      "layman": "Sudden kidney failure"
+    },
+    {
+      "jargon": "Acute kidney injury (AKI)",
+      "layman": "Sudden kidney damage"
+    },
+    {
+      "jargon": "Serum creatinine",
+      "layman": "Kidney function marker"
+    },
+    {
+      "jargon": "Urine output",
+      "layman": "Amount of urine produced"
+    },
+    {
+      "jargon": "Dialysis",
+      "layman": "Kidney replacement therapy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "RIFLE criteria",
+      "layman": "Kidney injury staging rules"
+    },
+    {
+      "jargon": "Fluid challenge",
+      "layman": "Giving fluids to test kidney response"
+    },
+    {
+      "jargon": "Diagnostic criteria",
+      "layman": "Rules to identify kidney injury"
+    },
+    {
+      "jargon": "Staging system",
+      "layman": "Severity scale for kidney damage"
+    },
+    {
+      "jargon": "Cohort study",
+      "layman": "Group study of patients over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hospital mortality",
+      "layman": "Death in hospital"
+    },
+    {
+      "jargon": "Hospital length of stay",
+      "layman": "Time spent in hospital"
+    },
+    {
+      "jargon": "Odds ratio",
+      "layman": "Risk of bad outcome"
+    },
+    {
+      "jargon": "Adverse events",
+      "layman": "Worsening health problems"
+    },
+    {
+      "jargon": "Prognostic value",
+      "layman": "Predicts future health outcome"
+    }
+  ]
+}

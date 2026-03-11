@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "High entropy alloy",
+      "layman": "Multi-element alloy"
+    },
+    {
+      "jargon": "Amorphous phase",
+      "layman": "Non-crystalline structure"
+    },
+    {
+      "jargon": "Body-centered cubic phase",
+      "layman": "Crystal structure with atoms in a cubic pattern"
+    },
+    {
+      "jargon": "Metastable phase",
+      "layman": "Temporary stable state"
+    },
+    {
+      "jargon": "Nano-crystals",
+      "layman": "Tiny crystal particles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "High voltage electron microscopy",
+      "layman": "Electron microscope under high voltage"
+    },
+    {
+      "jargon": "In-situ observation",
+      "layman": "Watching changes in real time"
+    },
+    {
+      "jargon": "Fast electron irradiation",
+      "layman": "Rapid electron beam exposure"
+    },
+    {
+      "jargon": "Thermal crystallization",
+      "layman": "Heating to form crystals"
+    },
+    {
+      "jargon": "Solid state amorphization",
+      "layman": "Turning solid into amorphous form"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Amorphous phase formation",
+      "layman": "Formation of non-crystalline material"
+    },
+    {
+      "jargon": "Phase stability under irradiation",
+      "layman": "How structure holds up under radiation"
+    },
+    {
+      "jargon": "Point defects at grain boundaries",
+      "layman": "Small errors at crystal edges"
+    },
+    {
+      "jargon": "SSA in HEAs",
+      "layman": "Amorphization in multi-element alloys"
+    },
+    {
+      "jargon": "First experimental evidence",
+      "layman": "First proven observation"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Stock market",
+      "layman": "Stock market"
+    },
+    {
+      "jargon": "Trading experts",
+      "layman": "Trading rules"
+    },
+    {
+      "jargon": "Financial time series",
+      "layman": "Stock price history"
+    },
+    {
+      "jargon": "Many-core graphics processors",
+      "layman": "High-performance computing chips"
+    },
+    {
+      "jargon": "Optimization problem",
+      "layman": "Finding the best solution"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hybrid evolutionary algorithm",
+      "layman": "Smart search using nature-inspired methods"
+    },
+    {
+      "jargon": "Population-Based Incremental Learning",
+      "layman": "Learning from groups of solutions"
+    },
+    {
+      "jargon": "Local search",
+      "layman": "Fine-tuning solutions"
+    },
+    {
+      "jargon": "Evolutionary algorithm",
+      "layman": "Natural selection-like problem solving"
+    },
+    {
+      "jargon": "Real data from Paris Stock Exchange",
+      "layman": "Actual stock prices from real market"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved solution qualities",
+      "layman": "Better trading strategies"
+    },
+    {
+      "jargon": "Reduced computing time",
+      "layman": "Faster results"
+    },
+    {
+      "jargon": "Outperforms classic approach",
+      "layman": "Better than old methods"
+    },
+    {
+      "jargon": "Financial relevance of investment strategies",
+      "layman": "Good money-making potential"
+    },
+    {
+      "jargon": "Experiments confirmed",
+      "layman": "Tested and proven"
+    }
+  ]
+}

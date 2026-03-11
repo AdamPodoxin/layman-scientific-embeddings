@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pictorialist aesthetic",
+      "layman": "Old-style artistic photography"
+    },
+    {
+      "jargon": "Urban industrial world",
+      "layman": "City and factory landscapes"
+    },
+    {
+      "jargon": "Die Neue Sachlichkeit",
+      "layman": "New Objectivity style"
+    },
+    {
+      "jargon": "American Zivilisation",
+      "layman": "American civilization"
+    },
+    {
+      "jargon": "Reactionary modernism",
+      "layman": "Traditionalist modern art"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Visual mutability",
+      "layman": "Changing photographic style"
+    },
+    {
+      "jargon": "Commercial opportunism",
+      "layman": "Taking advantage of market demands"
+    },
+    {
+      "jargon": "Publication needs",
+      "layman": "What publishers want to see"
+    },
+    {
+      "jargon": "Contextual publication",
+      "layman": "Publishing in different settings"
+    },
+    {
+      "jargon": "Aesthetic shift",
+      "layman": "Changing artistic style"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shift in photographic style",
+      "layman": "Photography style changed"
+    },
+    {
+      "jargon": "Commercial success",
+      "layman": "Popular with buyers"
+    },
+    {
+      "jargon": "Rejection of technological utopianism",
+      "layman": "Disliked tech-driven optimism"
+    },
+    {
+      "jargon": "Reconciliation of traditions",
+      "layman": "Merging old and new values"
+    },
+    {
+      "jargon": "Publication in reactionary contexts",
+      "layman": "Published in traditionalist spaces"
+    }
+  ]
+}

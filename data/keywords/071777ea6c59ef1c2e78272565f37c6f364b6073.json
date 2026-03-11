@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Egalitarian theory",
+      "layman": "Theory of equal rights"
+    },
+    {
+      "jargon": "Sociological theory",
+      "layman": "Study of society"
+    },
+    {
+      "jargon": "Educational inequality",
+      "layman": "Unequal access to education"
+    },
+    {
+      "jargon": "Distributive justice",
+      "layman": "Fair distribution of resources"
+    },
+    {
+      "jargon": "Critical feminist theory",
+      "layman": "Gender-focused social analysis"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interdisciplinary dialogue",
+      "layman": "Talking across fields"
+    },
+    {
+      "jargon": "Ethical-empirical interface",
+      "layman": "Link between values and facts"
+    },
+    {
+      "jargon": "Theoretical exploration",
+      "layman": "Examining ideas deeply"
+    },
+    {
+      "jargon": "Disciplinary dialogue",
+      "layman": "Sharing ideas between fields"
+    },
+    {
+      "jargon": "Conceptual mapping",
+      "layman": "Connecting ideas visually"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Deepened understanding",
+      "layman": "Better grasp of reality"
+    },
+    {
+      "jargon": "Broadened view of inequality",
+      "layman": "Wider perspective on unfairness"
+    },
+    {
+      "jargon": "Ethical-empirical interrelationship",
+      "layman": "Values and facts are linked"
+    },
+    {
+      "jargon": "Beyond distributive view",
+      "layman": "Moving past simple fairness"
+    },
+    {
+      "jargon": "Four interpretations of equality",
+      "layman": "Four ways equality can be seen"
+    }
+  ]
+}

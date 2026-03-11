@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Equivalence relations",
+      "layman": "Equal-status connections"
+    },
+    {
+      "jargon": "Monomorphisms",
+      "layman": "One-to-one mappings"
+    },
+    {
+      "jargon": "Protomodular categories",
+      "layman": "Generalized mathematical structures"
+    },
+    {
+      "jargon": "Finitely complete categories",
+      "layman": "Categories with basic structure"
+    },
+    {
+      "jargon": "Connector",
+      "layman": "Internal structure component"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Internal structure of connector",
+      "layman": "Detailed internal setup"
+    },
+    {
+      "jargon": "Analyse centrality",
+      "layman": "Study central properties"
+    },
+    {
+      "jargon": "Prove new results",
+      "layman": "Show new findings"
+    },
+    {
+      "jargon": "Work in general context",
+      "layman": "Apply broadly"
+    },
+    {
+      "jargon": "Barr exactness assumption",
+      "layman": "Standard requirement in math"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Classical results",
+      "layman": "Known findings"
+    },
+    {
+      "jargon": "New results",
+      "layman": "New discoveries"
+    },
+    {
+      "jargon": "Clarify classical results",
+      "layman": "Make known results clearer"
+    },
+    {
+      "jargon": "General context",
+      "layman": "Broader applicability"
+    },
+    {
+      "jargon": "Without Barr exactness",
+      "layman": "Without strict conditions"
+    }
+  ]
+}

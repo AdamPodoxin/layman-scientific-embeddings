@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Symbolic computation",
+      "layman": "Mathematical calculations using symbols"
+    },
+    {
+      "jargon": "Symbolic reasoning",
+      "layman": "Logical thinking with symbols"
+    },
+    {
+      "jargon": "QPQ initiative",
+      "layman": "Related research project"
+    },
+    {
+      "jargon": "Research training network",
+      "layman": "Group training young scientists"
+    },
+    {
+      "jargon": "Visiting researchers",
+      "layman": "Young scientists visiting labs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Integration of systems",
+      "layman": "Combining different tools or methods"
+    },
+    {
+      "jargon": "Training measures",
+      "layman": "Educational programs for students"
+    },
+    {
+      "jargon": "Collaborations",
+      "layman": "Working together between groups"
+    },
+    {
+      "jargon": "Midterm report",
+      "layman": "Report after halfway point"
+    },
+    {
+      "jargon": "Person-months",
+      "layman": "Months of work by one person"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "More than 28 young visiting researchers",
+      "layman": "Many young scientists trained"
+    },
+    {
+      "jargon": "Approximately 47 senior researchers involved",
+      "layman": "Many experienced scientists helping"
+    },
+    {
+      "jargon": "Sum approx. 150 financed person-months",
+      "layman": "Total work time supported financially"
+    },
+    {
+      "jargon": "Structure and scientific contributions",
+      "layman": "Organization and key findings"
+    },
+    {
+      "jargon": "Network since September 2000",
+      "layman": "Project started in 2000"
+    }
+  ]
+}

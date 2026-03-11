@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "f-divergences",
+      "layman": "Measures of how different probability distributions are"
+    },
+    {
+      "jargon": "convex real valued function",
+      "layman": "A curved mathematical rule that grows faster than a straight line"
+    },
+    {
+      "jargon": "testing problem",
+      "layman": "A situation where we need to decide between two possibilities"
+    },
+    {
+      "jargon": "Ostrowski\u2019s inequality",
+      "layman": "A rule for how close values can be in a range"
+    },
+    {
+      "jargon": "trapezoid inequality",
+      "layman": "A rule about how well a shape can be approximated by a trapezoid"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "define f-divergences",
+      "layman": "Set up the rules for measuring differences"
+    },
+    {
+      "jargon": "utilise Ostrowski\u2019s inequality",
+      "layman": "Use a mathematical rule to find limits"
+    },
+    {
+      "jargon": "prove bounds",
+      "layman": "Show the limits of how large or small something can be"
+    },
+    {
+      "jargon": "investigate limitations",
+      "layman": "Check where the rules break down"
+    },
+    {
+      "jargon": "adjust parameter f",
+      "layman": "Change a setting to fit a specific need"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "bounds for extended f-divergences",
+      "layman": "Limits on how far apart distributions can be"
+    },
+    {
+      "jargon": "five classes of f-divergences",
+      "layman": "Five types of distance measures"
+    },
+    {
+      "jargon": "strengths of inequalities",
+      "layman": "How well the rules work in practice"
+    },
+    {
+      "jargon": "limitations of inequalities",
+      "layman": "Where the rules fail or don\u2019t apply"
+    },
+    {
+      "jargon": "extended set of f-divergences",
+      "layman": "Broader range of distance measures"
+    }
+  ]
+}

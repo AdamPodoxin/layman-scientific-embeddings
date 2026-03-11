@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Science-and-religion dialogue",
+      "layman": "Talk between science and religion"
+    },
+    {
+      "jargon": "Cultural scientism",
+      "layman": "Belief that science is the only valid source of truth"
+    },
+    {
+      "jargon": "Divine action",
+      "layman": "God acting in the world"
+    },
+    {
+      "jargon": "Theological notions",
+      "layman": "Religious beliefs about God"
+    },
+    {
+      "jargon": "Ian Barbour",
+      "layman": "Ian Barbour"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at the past to understand trends"
+    },
+    {
+      "jargon": "Social-cultural factors",
+      "layman": "Influences from society and culture"
+    },
+    {
+      "jargon": "Debates on divine action",
+      "layman": "Discussions about how God acts"
+    },
+    {
+      "jargon": "Logical positivism",
+      "layman": "Belief that only observable facts count"
+    },
+    {
+      "jargon": "Theological critique",
+      "layman": "Judging religious ideas from a theological view"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Emergence of the field",
+      "layman": "Field appears due to social causes"
+    },
+    {
+      "jargon": "Bias toward science as sole source of rationality",
+      "layman": "Science seen as only rational way"
+    },
+    {
+      "jargon": "Theologically problematic",
+      "layman": "Religious ideas are not well supported"
+    },
+    {
+      "jargon": "Quest for unity",
+      "layman": "Desire to merge science and religion"
+    },
+    {
+      "jargon": "Contingent on social-cultural factors",
+      "layman": "Depends on culture and society"
+    }
+  ]
+}

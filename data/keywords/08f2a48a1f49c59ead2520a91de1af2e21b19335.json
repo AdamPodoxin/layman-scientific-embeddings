@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spin(n)",
+      "layman": "Rotation group"
+    },
+    {
+      "jargon": "Pin group",
+      "layman": "Related rotation group"
+    },
+    {
+      "jargon": "Clifford algebra",
+      "layman": "Mathematical structure for rotations"
+    },
+    {
+      "jargon": "Unit quaternions",
+      "layman": "Rotations using quaternions"
+    },
+    {
+      "jargon": "Unit complex numbers",
+      "layman": "Rotations using complex numbers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Action of a group on R",
+      "layman": "Group-induced rotations"
+    },
+    {
+      "jargon": "Multiplication in an algebra",
+      "layman": "Using algebra to rotate"
+    },
+    {
+      "jargon": "Study of Clifford algebra structure",
+      "layman": "Analyzing algebra rules"
+    },
+    {
+      "jargon": "Defining subgroups of units",
+      "layman": "Selecting key rotation elements"
+    },
+    {
+      "jargon": "Investigating symmetric bilinear forms",
+      "layman": "Examining shape and symmetry"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Generalization of rotations",
+      "layman": "Extended rotation method"
+    },
+    {
+      "jargon": "8-periodicity theorem",
+      "layman": "Pattern repeats every 8 dimensions"
+    },
+    {
+      "jargon": "Well-chosen subgroups",
+      "layman": "Carefully selected rotation sets"
+    },
+    {
+      "jargon": "Action induced by group",
+      "layman": "Rotations caused by group"
+    },
+    {
+      "jargon": "Beautiful mathematical pattern",
+      "layman": "Elegant repeating structure"
+    }
+  ]
+}

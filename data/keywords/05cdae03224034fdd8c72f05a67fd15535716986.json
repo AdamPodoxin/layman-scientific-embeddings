@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Electromagnetic energy",
+      "layman": "Energy from electric and magnetic fields"
+    },
+    {
+      "jargon": "Active vacuum",
+      "layman": "Empty space with hidden energy"
+    },
+    {
+      "jargon": "First principles",
+      "layman": "Basic building blocks of reality"
+    },
+    {
+      "jargon": "Scientific theories",
+      "layman": "Explanations based on evidence"
+    },
+    {
+      "jargon": "Mysteries and surprises",
+      "layman": "Unexplained phenomena"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Extracting energy",
+      "layman": "Pulling energy from empty space"
+    },
+    {
+      "jargon": "Continuous examination",
+      "layman": "Ongoing review of science"
+    },
+    {
+      "jargon": "Modifying concepts",
+      "layman": "Changing how we think about things"
+    },
+    {
+      "jargon": "Open-ended endeavor",
+      "layman": "Never-ending scientific exploration"
+    },
+    {
+      "jargon": "Changing questions",
+      "layman": "Rethinking what to investigate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Science never closed",
+      "layman": "Science always evolves"
+    },
+    {
+      "jargon": "Theories change",
+      "layman": "Explanations get updated"
+    },
+    {
+      "jargon": "Foundations modified",
+      "layman": "Basic ideas are revised"
+    },
+    {
+      "jargon": "Mysteries remain",
+      "layman": "Some things stay unknown"
+    },
+    {
+      "jargon": "Surprises happen",
+      "layman": "New discoveries appear"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Economic institutions",
+      "layman": "Rules that govern the economy"
+    },
+    {
+      "jargon": "Political institutions",
+      "layman": "Rules that govern politics"
+    },
+    {
+      "jargon": "Economic development",
+      "layman": "Improvement in a country's economy"
+    },
+    {
+      "jargon": "Resource distribution",
+      "layman": "How resources are shared"
+    },
+    {
+      "jargon": "Property rights enforcement",
+      "layman": "Protecting ownership of property"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Quasi-natural experiments",
+      "layman": "Historical events that act like experiments"
+    },
+    {
+      "jargon": "Dynamic framework",
+      "layman": "Model that changes over time"
+    },
+    {
+      "jargon": "Social choices",
+      "layman": "Decisions made by society"
+    },
+    {
+      "jargon": "Historical examples",
+      "layman": "Past cases used to explain ideas"
+    },
+    {
+      "jargon": "Power allocation",
+      "layman": "How power is distributed"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Differences in economic development",
+      "layman": "Countries grow at different rates"
+    },
+    {
+      "jargon": "Conflict over institutions",
+      "layman": "Groups fight over rules"
+    },
+    {
+      "jargon": "De jure political power",
+      "layman": "Officially assigned power"
+    },
+    {
+      "jargon": "De facto political power",
+      "layman": "Actual power held by groups"
+    },
+    {
+      "jargon": "Economic growth",
+      "layman": "Economy grows over time"
+    }
+  ]
+}

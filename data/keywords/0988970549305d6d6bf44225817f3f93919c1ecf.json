@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Diagnosis",
+      "layman": "Medical label"
+    },
+    {
+      "jargon": "Professional diagnosis",
+      "layman": "Doctor's diagnosis"
+    },
+    {
+      "jargon": "Lay diagnosis",
+      "layman": "Patient's self-diagnosis"
+    },
+    {
+      "jargon": "Classification",
+      "layman": "Categorization"
+    },
+    {
+      "jargon": "Health and illness",
+      "layman": "Being sick or healthy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Micro-level diagnosis",
+      "layman": "Small-scale diagnosis"
+    },
+    {
+      "jargon": "Macro-level diagnosis",
+      "layman": "Large-scale diagnosis"
+    },
+    {
+      "jargon": "Social framing",
+      "layman": "How society shapes diagnosis"
+    },
+    {
+      "jargon": "Negotiation of diagnosis",
+      "layman": "Discussing diagnosis together"
+    },
+    {
+      "jargon": "Mediation in diagnosis",
+      "layman": "Third party helping with diagnosis"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Sociological questions",
+      "layman": "Big social questions"
+    },
+    {
+      "jargon": "Innovative strand of work",
+      "layman": "New type of research"
+    },
+    {
+      "jargon": "Consequences of diagnosis",
+      "layman": "Effects of being diagnosed"
+    },
+    {
+      "jargon": "Crystallise discussions",
+      "layman": "Clarify debates"
+    },
+    {
+      "jargon": "Social consequences",
+      "layman": "Impact on society"
+    }
+  ]
+}

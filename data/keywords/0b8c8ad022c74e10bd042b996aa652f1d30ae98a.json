@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "(Bi,Pb)2Sr2Ca2Cu3O10",
+      "layman": "Superconducting ceramic material"
+    },
+    {
+      "jargon": "Ag protective sheath",
+      "layman": "Silver protective layer"
+    },
+    {
+      "jargon": "Ni external sheath",
+      "layman": "Nickel outer layer"
+    },
+    {
+      "jargon": "Ceramic core",
+      "layman": "Central ceramic part"
+    },
+    {
+      "jargon": "Critical temperature",
+      "layman": "Temperature at which superconductivity starts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "In-situ synchrotron x-ray diffraction",
+      "layman": "Real-time X-ray analysis of material changes"
+    },
+    {
+      "jargon": "Oxygen supply control",
+      "layman": "Managing oxygen flow during processing"
+    },
+    {
+      "jargon": "Slow cooling rate",
+      "layman": "Cooling the material slowly"
+    },
+    {
+      "jargon": "Single heat treatment",
+      "layman": "One heating and cooling cycle"
+    },
+    {
+      "jargon": "Phase formation kinetics",
+      "layman": "How quickly phases form in material"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Critical current densities up to 35 kA/cm2",
+      "layman": "High current flow in superconductor"
+    },
+    {
+      "jargon": "Improved ceramic density",
+      "layman": "More solid, less empty space in material"
+    },
+    {
+      "jargon": "Unaffected critical temperature",
+      "layman": "Superconducting temperature stays the same"
+    },
+    {
+      "jargon": "Prevention of porosity",
+      "layman": "No air pockets form during growth"
+    },
+    {
+      "jargon": "Higher mechanical strength at high temperature",
+      "layman": "Stronger under heat"
+    }
+  ]
+}

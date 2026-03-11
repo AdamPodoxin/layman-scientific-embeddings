@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Decay",
+      "layman": "Breakdown"
+    },
+    {
+      "jargon": "Particle",
+      "layman": "Tiny building block"
+    },
+    {
+      "jargon": "Resonance",
+      "layman": "Short-lived energy peak"
+    },
+    {
+      "jargon": "Meson",
+      "layman": "Type of subatomic particle"
+    },
+    {
+      "jargon": "Baryon",
+      "layman": "Heavy subatomic particle"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Search",
+      "layman": "Look for something"
+    },
+    {
+      "jargon": "Detection",
+      "layman": "Spotting signals"
+    },
+    {
+      "jargon": "Data analysis",
+      "layman": "Examining data"
+    },
+    {
+      "jargon": "Statistical significance",
+      "layman": "Checking if result is real"
+    },
+    {
+      "jargon": "Background subtraction",
+      "layman": "Removing noise"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Observed decay",
+      "layman": "Decay was seen"
+    },
+    {
+      "jargon": "New resonance state",
+      "layman": "New energy peak found"
+    },
+    {
+      "jargon": "Branching ratio",
+      "layman": "Chance of a decay path"
+    },
+    {
+      "jargon": "Mass measurement",
+      "layman": "Exact weight found"
+    },
+    {
+      "jargon": "Lifetime",
+      "layman": "How long it lasts"
+    }
+  ]
+}

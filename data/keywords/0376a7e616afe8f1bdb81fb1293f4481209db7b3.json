@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Family medicine",
+      "layman": "Primary care for families"
+    },
+    {
+      "jargon": "Primary care",
+      "layman": "First point of medical contact"
+    },
+    {
+      "jargon": "Clinical activity",
+      "layman": "Medical services delivered"
+    },
+    {
+      "jargon": "Family physicians",
+      "layman": "Doctors who care for whole families"
+    },
+    {
+      "jargon": "Medical research",
+      "layman": "Studies to learn more about health"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Published medical research",
+      "layman": "Medical studies shared in journals"
+    },
+    {
+      "jargon": "Non\u2013family physicians",
+      "layman": "Doctors not specializing in family care"
+    },
+    {
+      "jargon": "Clinical activity",
+      "layman": "Medical services delivered"
+    },
+    {
+      "jargon": "Primary care world",
+      "layman": "Main area of family medicine"
+    },
+    {
+      "jargon": "Historical research",
+      "layman": "Older studies from the past"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Preponderance",
+      "layman": "Most common occurrence"
+    },
+    {
+      "jargon": "Arguably",
+      "layman": "Possibly true"
+    },
+    {
+      "jargon": "Research gap",
+      "layman": "Missing studies in family care"
+    },
+    {
+      "jargon": "Published from non\u2013family physicians",
+      "layman": "Studies led by other doctors"
+    },
+    {
+      "jargon": "Family medicine storm",
+      "layman": "Problem in family care system"
+    }
+  ]
+}

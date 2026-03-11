@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Acute severe blood loss",
+      "layman": "Sudden massive bleeding"
+    },
+    {
+      "jargon": "Haemostatic agents",
+      "layman": "Bleeding-stopping drugs"
+    },
+    {
+      "jargon": "Recombinant activated factor VII",
+      "layman": "Lab-made blood clotting factor"
+    },
+    {
+      "jargon": "Postpartum blood loss",
+      "layman": "Bleeding after childbirth"
+    },
+    {
+      "jargon": "Duodenal ulcer",
+      "layman": "Stomach lining sore"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Structured protocol",
+      "layman": "Clear treatment plan"
+    },
+    {
+      "jargon": "Controlled clinical trials",
+      "layman": "Tests with strict rules and groups"
+    },
+    {
+      "jargon": "Surgery",
+      "layman": "Operating procedure"
+    },
+    {
+      "jargon": "Administration of blood products",
+      "layman": "Giving blood components"
+    },
+    {
+      "jargon": "Prophylactic use",
+      "layman": "Using early to prevent problems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Patient recovery",
+      "layman": "Patient gets better"
+    },
+    {
+      "jargon": "Cardiac rhythm disorders",
+      "layman": "Heart rhythm problems"
+    },
+    {
+      "jargon": "Overuse of blood products",
+      "layman": "Too much blood given"
+    },
+    {
+      "jargon": "Treatment failure",
+      "layman": "Treatment doesn\u2019t work"
+    },
+    {
+      "jargon": "Official registration pending",
+      "layman": "Not yet approved for use"
+    }
+  ]
+}

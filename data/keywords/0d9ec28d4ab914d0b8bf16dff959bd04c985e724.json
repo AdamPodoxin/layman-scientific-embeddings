@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Complex Lagrangian",
+      "layman": "Special energy formula with imaginary numbers"
+    },
+    {
+      "jargon": "Scalar field",
+      "layman": "Simple field filling space"
+    },
+    {
+      "jargon": "Dark energy",
+      "layman": "Mysterious force speeding up universe expansion"
+    },
+    {
+      "jargon": "Phantom energy",
+      "layman": "Even stronger force than dark energy"
+    },
+    {
+      "jargon": "PT symmetry",
+      "layman": "Symmetry between particles and their mirror images"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Generalization of quantum theory",
+      "layman": "Extending physics rules to new cases"
+    },
+    {
+      "jargon": "Classical cosmological model",
+      "layman": "Model of the universe using classical physics"
+    },
+    {
+      "jargon": "Symmetry properties",
+      "layman": "Balanced physical rules under change"
+    },
+    {
+      "jargon": "Equations of motion",
+      "layman": "Rules describing how things move"
+    },
+    {
+      "jargon": "Non-Hermitian Hamiltonians",
+      "layman": "Energy formulas that don't follow normal rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Smooth transition",
+      "layman": "Gradual change over time"
+    },
+    {
+      "jargon": "Purely real equations",
+      "layman": "Simple, real-number results from complex math"
+    },
+    {
+      "jargon": "Ordinary dark energy",
+      "layman": "Normal dark energy slowing expansion"
+    },
+    {
+      "jargon": "Phantom dark energy",
+      "layman": "Dark energy speeding up expansion"
+    },
+    {
+      "jargon": "Smooth transition from ordinary to phantom",
+      "layman": "Gradual shift from normal to extreme energy"
+    }
+  ]
+}

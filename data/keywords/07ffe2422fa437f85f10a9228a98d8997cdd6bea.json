@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Inequity aversion",
+      "layman": "Avoiding unfair situations"
+    },
+    {
+      "jargon": "Cooperative behaviour",
+      "layman": "Working together for mutual benefit"
+    },
+    {
+      "jargon": "Nonhuman species",
+      "layman": "Animals other than humans"
+    },
+    {
+      "jargon": "Human response tendencies",
+      "layman": "How humans naturally react"
+    },
+    {
+      "jargon": "Animal responses to inequity",
+      "layman": "Animals' reactions to unfairness"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Continuity assumption",
+      "layman": "Believing humans and animals are similar"
+    },
+    {
+      "jargon": "Intervention processes",
+      "layman": "Actions taken to fix unfairness"
+    },
+    {
+      "jargon": "Comment on Brosnan (2006)",
+      "layman": "Critique of a prior study"
+    },
+    {
+      "jargon": "Proposed mechanism",
+      "layman": "Suggested explanation for behavior"
+    },
+    {
+      "jargon": "Behavioral observation",
+      "layman": "Watching and recording actions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fairness system",
+      "layman": "A system that ensures fairness"
+    },
+    {
+      "jargon": "Cooperative behavior in animals",
+      "layman": "Animals working together"
+    },
+    {
+      "jargon": "Continuity between species",
+      "layman": "Similarity across humans and animals"
+    },
+    {
+      "jargon": "Motivation to intervene",
+      "layman": "Drive to act when unfairness is found"
+    },
+    {
+      "jargon": "Response to unfairness",
+      "layman": "How beings react when treated unfairly"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "KKbar threshold phenomena",
+      "layman": "Energy level where strange quark pairs appear"
+    },
+    {
+      "jargon": "f0 (980) meson",
+      "layman": "A short-lived particle in particle collisions"
+    },
+    {
+      "jargon": "a0 (980) meson",
+      "layman": "A short-lived particle in particle collisions"
+    },
+    {
+      "jargon": "K+K- atom",
+      "layman": "A bound state of positive and negative kaons"
+    },
+    {
+      "jargon": "p+d reaction",
+      "layman": "Collision between proton and deuterium"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "General framework",
+      "layman": "Unified model for studying phenomena"
+    },
+    {
+      "jargon": "Interplay with resonances",
+      "layman": "Interaction between different particles"
+    },
+    {
+      "jargon": "Precision experimental study",
+      "layman": "Careful lab measurements"
+    },
+    {
+      "jargon": "Parameter set",
+      "layman": "A few key numbers that describe behavior"
+    },
+    {
+      "jargon": "Production prediction",
+      "layman": "Forecasting how particles form"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Drastic energy dependence",
+      "layman": "Strong change with energy level"
+    },
+    {
+      "jargon": "Resonance effects",
+      "layman": "Strong peaks in particle production"
+    },
+    {
+      "jargon": "Threshold effects",
+      "layman": "Changes at specific energy levels"
+    },
+    {
+      "jargon": "Energy dependence",
+      "layman": "How results change with energy"
+    },
+    {
+      "jargon": "Nature of f0 and a0 resonances",
+      "layman": "What these particles actually are"
+    }
+  ]
+}

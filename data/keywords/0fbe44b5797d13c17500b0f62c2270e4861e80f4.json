@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Colonial settlers",
+      "layman": "Early American farmers"
+    },
+    {
+      "jargon": "English farming lore",
+      "layman": "Traditional farming knowledge"
+    },
+    {
+      "jargon": "Herbal remedies",
+      "layman": "Plant-based medicines"
+    },
+    {
+      "jargon": "Richard Bradley",
+      "layman": "18th-century English farmer"
+    },
+    {
+      "jargon": "Philip Miller",
+      "layman": "Gardening expert"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Traditional farming practices",
+      "layman": "Old farming methods"
+    },
+    {
+      "jargon": "Manual translation",
+      "layman": "Copying books by hand"
+    },
+    {
+      "jargon": "Access to English works",
+      "layman": "Getting books from England"
+    },
+    {
+      "jargon": "Relied on English texts",
+      "layman": "Used foreign farming books"
+    },
+    {
+      "jargon": "Published gardening authorities",
+      "layman": "Books by known gardeners"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Little farming literature",
+      "layman": "Few written farming guides"
+    },
+    {
+      "jargon": "Depended on English works",
+      "layman": "Used foreign books for advice"
+    },
+    {
+      "jargon": "Adapted to U.S. climates",
+      "layman": "Adjusted to local weather"
+    },
+    {
+      "jargon": "Limited colonial writing",
+      "layman": "Not much was written"
+    },
+    {
+      "jargon": "Gardening practices from England",
+      "layman": "Gardening from British methods"
+    }
+  ]
+}

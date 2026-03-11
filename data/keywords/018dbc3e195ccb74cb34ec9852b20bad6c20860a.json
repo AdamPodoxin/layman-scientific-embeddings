@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Belief revision",
+      "layman": "Updating beliefs"
+    },
+    {
+      "jargon": "Meta-knowledge",
+      "layman": "Knowledge about knowledge"
+    },
+    {
+      "jargon": "Entrenchment information",
+      "layman": "How strong or reliable information is"
+    },
+    {
+      "jargon": "Default reasoning",
+      "layman": "Reasoning with assumptions"
+    },
+    {
+      "jargon": "Monotone operator",
+      "layman": "Operator that doesn't reverse results"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Nonmonotonic framework",
+      "layman": "System that allows beliefs to change"
+    },
+    {
+      "jargon": "Least fixed point",
+      "layman": "Smallest stable conclusion point"
+    },
+    {
+      "jargon": "Logical language",
+      "layman": "Formal system for expressing logic"
+    },
+    {
+      "jargon": "Inference based on operator",
+      "layman": "Drawing conclusions using a rule"
+    },
+    {
+      "jargon": "Poole-style system",
+      "layman": "Framework based on Poole's reasoning model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Consistent set of conclusions",
+      "layman": "Clear and stable results"
+    },
+    {
+      "jargon": "Reliability of information",
+      "layman": "How trustworthy the data is"
+    },
+    {
+      "jargon": "Revision strategies",
+      "layman": "Plans for updating beliefs"
+    },
+    {
+      "jargon": "Consistent theories",
+      "layman": "Theories that don't contradict themselves"
+    },
+    {
+      "jargon": "Meta-knowledge-based reasoning",
+      "layman": "Reasoning using knowledge about knowledge"
+    }
+  ]
+}

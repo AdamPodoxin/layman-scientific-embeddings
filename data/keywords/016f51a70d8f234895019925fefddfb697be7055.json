@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Public-private partnership (PPP)",
+      "layman": "Collaboration between government and businesses"
+    },
+    {
+      "jargon": "Workforce",
+      "layman": "People who work in an industry"
+    },
+    {
+      "jargon": "Labor efficiency",
+      "layman": "How well workers use their time and skills"
+    },
+    {
+      "jargon": "National Development Plan",
+      "layman": "Government's plan for national growth"
+    },
+    {
+      "jargon": "National Education Plan",
+      "layman": "Government's plan for education improvement"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "In-depth interviews",
+      "layman": "One-on-one talks with experts"
+    },
+    {
+      "jargon": "Focus group discussions",
+      "layman": "Group talks with experts to gather opinions"
+    },
+    {
+      "jargon": "Questionnaires",
+      "layman": "Surveys given to collect data"
+    },
+    {
+      "jargon": "Quantitative analysis",
+      "layman": "Statistical data analysis"
+    },
+    {
+      "jargon": "Educational reform",
+      "layman": "Changes in education system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Low level of labor efficiency",
+      "layman": "Workers are not using their skills well"
+    },
+    {
+      "jargon": "Job performance with vocational education",
+      "layman": "Vocational workers do not perform well"
+    },
+    {
+      "jargon": "Job performance with Bachelor degrees",
+      "layman": "University grads perform only moderately"
+    },
+    {
+      "jargon": "Operational problems and continuity",
+      "layman": "Work processes face ongoing issues"
+    },
+    {
+      "jargon": "New model of PPP",
+      "layman": "New government-business cooperation plan"
+    }
+  ]
+}

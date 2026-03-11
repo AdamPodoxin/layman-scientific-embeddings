@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Odd exponent groups",
+      "layman": "Groups with odd exponent"
+    },
+    {
+      "jargon": "Single axioms",
+      "layman": "One fundamental rule"
+    },
+    {
+      "jargon": "Automated reasoning",
+      "layman": "Computer-based logic analysis"
+    },
+    {
+      "jargon": "General schema",
+      "layman": "General pattern"
+    },
+    {
+      "jargon": "Proofs",
+      "layman": "Logical arguments"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Automated reasoning techniques",
+      "layman": "Computer logic tools"
+    },
+    {
+      "jargon": "Proof conversion",
+      "layman": "Turn computer proofs into human-readable ones"
+    },
+    {
+      "jargon": "Logical deduction",
+      "layman": "Following logical steps to reach a conclusion"
+    },
+    {
+      "jargon": "Pattern recognition",
+      "layman": "Spotting recurring structures"
+    },
+    {
+      "jargon": "Mathematical schema",
+      "layman": "General rule in math"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Special cases",
+      "layman": "Specific examples of a general rule"
+    },
+    {
+      "jargon": "One general schema",
+      "layman": "One universal pattern"
+    },
+    {
+      "jargon": "Human-readable proofs",
+      "layman": "Proofs people can understand"
+    },
+    {
+      "jargon": "Previously known axioms",
+      "layman": "Oldly known rules"
+    },
+    {
+      "jargon": "All axioms are special cases",
+      "layman": "All rules fit into one pattern"
+    }
+  ]
+}

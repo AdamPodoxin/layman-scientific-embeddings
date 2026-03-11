@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sequences",
+      "layman": "Lists of items in order"
+    },
+    {
+      "jargon": "Edit distance",
+      "layman": "Number of changes to make between two lists"
+    },
+    {
+      "jargon": "Alphabet letters",
+      "layman": "Letters of the alphabet"
+    },
+    {
+      "jargon": "Analogies",
+      "layman": "Similarities between things"
+    },
+    {
+      "jargon": "Lepage algorithm",
+      "layman": "Old method for finding similarities in sequences"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Definition of analogy",
+      "layman": "Rule for saying two things are similar"
+    },
+    {
+      "jargon": "Edit distance calculation",
+      "layman": "Counting how many changes to match two lists"
+    },
+    {
+      "jargon": "Sequence comparison",
+      "layman": "Matching two lists to find similarities"
+    },
+    {
+      "jargon": "Generalization",
+      "layman": "Extending a rule to work in more cases"
+    },
+    {
+      "jargon": "Compatibility with Yvon's definition",
+      "layman": "Working with another similarity method"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Generalized algorithm",
+      "layman": "Broader method that works in more cases"
+    },
+    {
+      "jargon": "Compatible with Yvon's definition",
+      "layman": "Matches another way of measuring similarity"
+    },
+    {
+      "jargon": "Analogical equations",
+      "layman": "Equations based on similarity"
+    },
+    {
+      "jargon": "Sequence-based analogy",
+      "layman": "Similarity measured through lists"
+    },
+    {
+      "jargon": "New definition of analogy",
+      "layman": "Clear rule for when sequences are alike"
+    }
+  ]
+}

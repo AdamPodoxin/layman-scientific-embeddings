@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Multi-view learning",
+      "layman": "Learning from different types of data"
+    },
+    {
+      "jargon": "Active learning",
+      "layman": "Learning by selecting the most useful examples"
+    },
+    {
+      "jargon": "Labeled data",
+      "layman": "Data with known correct answers"
+    },
+    {
+      "jargon": "Views",
+      "layman": "Different ways of seeing the same thing"
+    },
+    {
+      "jargon": "Robot navigation",
+      "layman": "Robot moving around avoiding obstacles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Co-Testing",
+      "layman": "Ask questions when different views disagree"
+    },
+    {
+      "jargon": "Co-EMT",
+      "layman": "Mixes learning from mistakes and unlabeled data"
+    },
+    {
+      "jargon": "View validation",
+      "layman": "Checks if views work for new tasks"
+    },
+    {
+      "jargon": "Semi-supervised learning",
+      "layman": "Learning from both labeled and unlabeled data"
+    },
+    {
+      "jargon": "Wrapper induction",
+      "layman": "Building a tool to fit a learning task"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Outperforms existing learners",
+      "layman": "Performs better than current methods"
+    },
+    {
+      "jargon": "High accuracy predictions",
+      "layman": "Correct predictions most of the time"
+    },
+    {
+      "jargon": "Reduced need for labeled data",
+      "layman": "Less data needed for training"
+    },
+    {
+      "jargon": "Unreliable performance",
+      "layman": "Gives wrong or inconsistent results"
+    },
+    {
+      "jargon": "Modest training data",
+      "layman": "Small amount of data to learn from"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "textbooks",
+      "layman": "psychology books"
+    },
+    {
+      "jargon": "introductory psychology courses",
+      "layman": "first-year psychology classes"
+    },
+    {
+      "jargon": "learning",
+      "layman": "how people acquire knowledge"
+    },
+    {
+      "jargon": "perception",
+      "layman": "how people see and interpret the world"
+    },
+    {
+      "jargon": "motivation",
+      "layman": "what drives people to act"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "intercountry comparison",
+      "layman": "comparing different countries"
+    },
+    {
+      "jargon": "emphasize",
+      "layman": "focus on"
+    },
+    {
+      "jargon": "teaching abnormal",
+      "layman": "teaching about mental disorders"
+    },
+    {
+      "jargon": "guidance and therapy",
+      "layman": "helping people adjust and heal"
+    },
+    {
+      "jargon": "philosophical orientation",
+      "layman": "focus on ideas and beliefs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "high emphasis on experimental areas",
+      "layman": "strong focus on experiments"
+    },
+    {
+      "jargon": "United States leads in abnormal psychology",
+      "layman": "U.S. teaches mental illness best"
+    },
+    {
+      "jargon": "France has philosophical orientation",
+      "layman": "France teaches from philosophical views"
+    },
+    {
+      "jargon": "Russia emphasizes conditioning",
+      "layman": "Russia teaches behavior training"
+    },
+    {
+      "jargon": "Germany emphasizes theoretical psychology",
+      "layman": "Germany teaches abstract theories"
+    }
+  ]
+}

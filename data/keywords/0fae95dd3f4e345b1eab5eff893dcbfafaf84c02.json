@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Morris-Thorne wormholes",
+      "layman": "Wormholes connecting distant points"
+    },
+    {
+      "jargon": "Exotic region",
+      "layman": "Unusual space with strange matter"
+    },
+    {
+      "jargon": "Metric coefficients",
+      "layman": "Mathematical values describing space shape"
+    },
+    {
+      "jargon": "Quantum field theory",
+      "layman": "How particles and forces work at tiny scales"
+    },
+    {
+      "jargon": "Tidal constraints",
+      "layman": "Limits on gravitational stretching"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Fine-tuning",
+      "layman": "Adjusting values to fit conditions"
+    },
+    {
+      "jargon": "Traversability criteria",
+      "layman": "Rules for safe passage through a wormhole"
+    },
+    {
+      "jargon": "Balancing act",
+      "layman": "Finding a middle ground between two needs"
+    },
+    {
+      "jargon": "Reducing size",
+      "layman": "Making something smaller"
+    },
+    {
+      "jargon": "Satisfying constraints",
+      "layman": "Meeting required conditions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reduced exotic region",
+      "layman": "Smaller area of strange matter"
+    },
+    {
+      "jargon": "Generic feature",
+      "layman": "Common trait in this type"
+    },
+    {
+      "jargon": "Proper distances",
+      "layman": "Measured distances through the wormhole"
+    },
+    {
+      "jargon": "Tidal forces",
+      "layman": "Gravitational stretching"
+    },
+    {
+      "jargon": "Compatibility with quantum field theory",
+      "layman": "Works with quantum rules"
+    }
+  ]
+}

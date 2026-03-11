@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Paul Cullen",
+      "layman": "Paul Cullen"
+    },
+    {
+      "jargon": "John Henry Newman",
+      "layman": "John Henry Newman"
+    },
+    {
+      "jargon": "Catholic University of Ireland",
+      "layman": "Catholic University of Ireland"
+    },
+    {
+      "jargon": "1845",
+      "layman": "1845"
+    },
+    {
+      "jargon": "1865",
+      "layman": "1865"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Book cataloguing",
+      "layman": "Organizing books by topic"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Looking at existing books on a topic"
+    },
+    {
+      "jargon": "Website browsing",
+      "layman": "Searching online book sites"
+    },
+    {
+      "jargon": "Book library access",
+      "layman": "Using a book database"
+    },
+    {
+      "jargon": "Genre classification",
+      "layman": "Sorting books by type"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Book selection",
+      "layman": "Choosing the right book"
+    },
+    {
+      "jargon": "Job deadline relief",
+      "layman": "Saving time before deadline"
+    },
+    {
+      "jargon": "Satisfaction from reading",
+      "layman": "Feeling happy after reading"
+    },
+    {
+      "jargon": "Access to diverse catalogues",
+      "layman": "Finding many types of books"
+    },
+    {
+      "jargon": "Best book recommendation",
+      "layman": "Finding the perfect book"
+    }
+  ]
+}

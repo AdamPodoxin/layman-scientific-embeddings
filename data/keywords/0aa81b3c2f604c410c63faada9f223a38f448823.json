@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "carbon nanotubes",
+      "layman": "tiny cylindrical carbon structures"
+    },
+    {
+      "jargon": "zinc oxide nanowires",
+      "layman": "thin zinc oxide fibers"
+    },
+    {
+      "jargon": "carbon cloth",
+      "layman": "mesh made of carbon fibers"
+    },
+    {
+      "jargon": "iron sulfate",
+      "layman": "iron-based chemical catalyst"
+    },
+    {
+      "jargon": "stainless steel",
+      "layman": "strong metal used as catalyst"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "chemical vapor deposition",
+      "layman": "growing nanostructures from gases"
+    },
+    {
+      "jargon": "physical vapor deposition",
+      "layman": "building materials from vapor"
+    },
+    {
+      "jargon": "field emission",
+      "layman": "electrons jumping from surface"
+    },
+    {
+      "jargon": "electron transport",
+      "layman": "electrons moving through material"
+    },
+    {
+      "jargon": "microscopic observations",
+      "layman": "seeing tiny details under microscope"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "emission current density of 1 mA/cm\u00b2",
+      "layman": "1 milliamp per square centimeter of current"
+    },
+    {
+      "jargon": "field enhancement factor of ~4\u00d710\u2074",
+      "layman": "strong amplification of electric field"
+    },
+    {
+      "jargon": "electric wall-by-wall breakdown",
+      "layman": "electric failure across entire surface"
+    },
+    {
+      "jargon": "non-ballistic transport",
+      "layman": "electrons scatter as they move"
+    },
+    {
+      "jargon": "significant scattering",
+      "layman": "electrons bump into things while moving"
+    }
+  ]
+}

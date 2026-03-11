@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Information graphics",
+      "layman": "Visual data representations"
+    },
+    {
+      "jargon": "Intentions",
+      "layman": "Underlying purposes"
+    },
+    {
+      "jargon": "Natural language dialogue",
+      "layman": "Human conversation"
+    },
+    {
+      "jargon": "Sight-impairments",
+      "layman": "Vision difficulties"
+    },
+    {
+      "jargon": "Interactive system",
+      "layman": "System that responds to user input"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Plan inference techniques",
+      "layman": "Figuring out plans from data"
+    },
+    {
+      "jargon": "System design",
+      "layman": "Building a working system"
+    },
+    {
+      "jargon": "Recognize intentions",
+      "layman": "Detect what someone wants"
+    },
+    {
+      "jargon": "Natural language system",
+      "layman": "System that understands speech"
+    },
+    {
+      "jargon": "Visual analysis",
+      "layman": "Interpreting images"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Recognize intentions",
+      "layman": "Identify what is meant"
+    },
+    {
+      "jargon": "Alternative access",
+      "layman": "Different way to access info"
+    },
+    {
+      "jargon": "User interaction",
+      "layman": "People engaging with the system"
+    },
+    {
+      "jargon": "Content access",
+      "layman": "Getting information from visuals"
+    },
+    {
+      "jargon": "Communication beyond language",
+      "layman": "Sharing meaning without words"
+    }
+  ]
+}

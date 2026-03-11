@@ -1,0 +1,59 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pure magnesium",
+      "layman": "Pure magnesium"
+    },
+    {
+      "jargon": "Magnesium alloys",
+      "layman": "Magnesium alloys"
+    },
+    {
+      "jargon": "Mg2Si compound",
+      "layman": "Mg2Si compound"
+    },
+    {
+      "jargon": "Dislocation density",
+      "layman": "Number of cracks in material"
+    },
+    {
+      "jargon": "Grain size",
+      "layman": "Size of material's tiny crystals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Damping capacity measurement",
+      "layman": "Testing how well material absorbs shock"
+    },
+    {
+      "jargon": "Addition of silicon",
+      "layman": "Adding silicon to metal"
+    },
+    "growth restriction factor",
+    "interface analysis",
+    "microstructural observation"
+  ],
+  "outcomes": [
+    {
+      "jargon": "Damping capacities increase",
+      "layman": "Material absorbs more shock"
+    },
+    {
+      "jargon": "Increased dislocation density",
+      "layman": "More internal cracks form"
+    },
+    {
+      "jargon": "Refinement of grain size",
+      "layman": "Tiny crystals get smaller"
+    },
+    {
+      "jargon": "Big growth restriction factor",
+      "layman": "Silicon strongly limits crystal growth"
+    },
+    {
+      "jargon": "Relation between Si amount and damping",
+      "layman": "More silicon leads to better shock absorption"
+    }
+  ]
+}

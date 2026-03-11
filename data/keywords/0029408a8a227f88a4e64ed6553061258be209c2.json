@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "ASF+SDF Meta-Environment",
-      "layman": "Interactive language development tool"
+      "jargon": "Domain-specific languages",
+      "layman": "Custom languages for specific tasks"
     },
     {
-      "jargon": "Domain-specific languages",
-      "layman": "Custom programming languages"
+      "jargon": "Conditional rewrite rules",
+      "layman": "Rules that change based on conditions"
     },
     {
       "jargon": "Program analysis tools",
-      "layman": "Tools that inspect code"
+      "layman": "Tools that examine code"
     },
     {
       "jargon": "Software renovation tools",
       "layman": "Tools that update old software"
     },
     {
-      "jargon": "Conditional rewrite rules",
-      "layman": "Rules that change code based on conditions"
+      "jargon": "C code",
+      "layman": "C code"
     }
   ],
   "methodologies": [
     {
       "jargon": "Conditional rewrite rules",
-      "layman": "Rules that change code when conditions are met"
-    },
-    {
-      "jargon": "C code generation",
-      "layman": "Turning rules into C programming code"
+      "layman": "Rules that change based on conditions"
     },
     {
       "jargon": "Maximal subterm sharing",
-      "layman": "Sharing repeated code parts to save space"
+      "layman": "Sharing repeated parts to save space"
+    },
+    {
+      "jargon": "Benchmarking",
+      "layman": "Testing performance under real conditions"
+    },
+    {
+      "jargon": "Rewrite rule compilation",
+      "layman": "Turning rules into executable code"
     },
     {
       "jargon": "Efficient run-time storage",
-      "layman": "Fast way to store and access code data"
-    },
-    {
-      "jargon": "Extensive benchmarking",
-      "layman": "Testing performance on many examples"
+      "layman": "Fast and smart storage during use"
     }
   ],
   "outcomes": [
     {
-      "jargon": "High performance in time and space",
-      "layman": "Fast and memory-efficient"
+      "jargon": "High performance",
+      "layman": "Fast and efficient operation"
     },
     {
-      "jargon": "Better than best current compilers",
-      "layman": "Outperforms top tools"
+      "jargon": "Good time and space performance",
+      "layman": "Fast and uses little memory"
     },
     {
-      "jargon": "Handles 10,000+ rules",
-      "layman": "Supports very large rule sets"
+      "jargon": "As good as or better than current compilers",
+      "layman": "At least as fast as best tools"
     },
     {
-      "jargon": "Handles 1,000,000+ node terms",
-      "layman": "Manages huge code structures"
+      "jargon": "Handles large rule sets",
+      "layman": "Works with thousands of rules"
     },
     {
-      "jargon": "Avoids abstract machine bottlenecks",
-      "layman": "Skips slow interface issues"
+      "jargon": "Handles large terms",
+      "layman": "Works with millions of data pieces"
     }
   ]
 }

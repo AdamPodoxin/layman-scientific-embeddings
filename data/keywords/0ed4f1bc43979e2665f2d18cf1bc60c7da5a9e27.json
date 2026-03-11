@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Portfolio managers",
+      "layman": "Investment managers"
+    },
+    {
+      "jargon": "Energy efficiency",
+      "layman": "Using less energy for the same output"
+    },
+    {
+      "jargon": "Cost recovery",
+      "layman": "Getting back the money spent"
+    },
+    {
+      "jargon": "Sales volume",
+      "layman": "Amount of products or services sold"
+    },
+    {
+      "jargon": "Distributed resources",
+      "layman": "Energy sources spread across many locations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Implementing policies",
+      "layman": "Putting new rules into action"
+    },
+    {
+      "jargon": "Removing disincentives",
+      "layman": "Taking away bad incentives"
+    },
+    {
+      "jargon": "Investments in energy efficiency",
+      "layman": "Spending money to save energy"
+    },
+    {
+      "jargon": "Regulatory actions",
+      "layman": "Government rules and decisions"
+    },
+    {
+      "jargon": "State-level policies",
+      "layman": "Policies set by individual states"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Conflict of interest",
+      "layman": "Personal gain vs. public good"
+    },
+    {
+      "jargon": "Cost-effective energy efficiency",
+      "layman": "Energy saving that is affordable"
+    },
+    {
+      "jargon": "Inherent conflict",
+      "layman": "Built-in contradiction"
+    },
+    {
+      "jargon": "Solved",
+      "layman": "Resolved"
+    },
+    {
+      "jargon": "Energy efficiency investments",
+      "layman": "Money spent to reduce energy use"
+    }
+  ]
+}

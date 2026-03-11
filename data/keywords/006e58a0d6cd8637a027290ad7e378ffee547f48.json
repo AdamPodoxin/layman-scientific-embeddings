@@ -1,64 +1,64 @@
 {
   "core_entities": [
     {
-      "jargon": "Dynamic dataflow models",
-      "layman": "Flexible models for processing signals"
-    },
-    {
-      "jargon": "Signal processing applications",
-      "layman": "Applications that process signals"
-    },
-    {
-      "jargon": "Processing unit",
-      "layman": "Computer processor"
+      "jargon": "Dynamic dataflow programs",
+      "layman": "Programs that process data in real time"
     },
     {
       "jargon": "Dataflow network",
-      "layman": "Network of data movements"
+      "layman": "Data processing pipeline"
+    },
+    {
+      "jargon": "Processing unit",
+      "layman": "Computer chip that runs tasks"
     },
     {
       "jargon": "System-on-chip",
-      "layman": "Chip with integrated system components"
+      "layman": "Small chip with all system components"
+    },
+    {
+      "jargon": "Video processing application",
+      "layman": "App that processes video files"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Mapping and scheduling",
-      "layman": "Assigning tasks to processors"
-    },
-    {
       "jargon": "Static scheduling",
-      "layman": "Scheduling before program runs"
+      "layman": "Scheduling tasks before runtime"
     },
     {
       "jargon": "Quasi-static composition",
-      "layman": "Partial pre-planning of data flow"
+      "layman": "Semi-static task grouping"
     },
     {
       "jargon": "Network partition",
-      "layman": "Splitting network into parts"
+      "layman": "Splitting a data pipeline"
     },
     {
-      "jargon": "Transformation of network partitions",
-      "layman": "Changing network structure"
+      "jargon": "Transformation to network partitions",
+      "layman": "Changing how pipeline parts are grouped"
+    },
+    {
+      "jargon": "Run-time scheduling",
+      "layman": "Scheduling tasks during operation"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Run-time penalties",
-      "layman": "Performance slowdown during operation"
+      "jargon": "Reduction of dynamic dataflow networks",
+      "layman": "Fewer changing data paths"
     },
     {
       "jargon": "Speedup",
       "layman": "Faster processing"
     },
     {
-      "jargon": "Reduction of dynamic dataflow networks",
-      "layman": "Fewer changing parts in system"
+      "jargon": "Run-time penalties",
+      "layman": "Performance slowdowns during use"
     },
     {
       "jargon": "Predictable behaviour",
-      "layman": "Consistent and reliable operation"
+      "layman": "Consistent and stable operation"
     },
     {
       "jargon": "Achievable speedup",

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ouachita orogeny",
+      "layman": "Mountain-building event"
+    },
+    {
+      "jargon": "Mississippian tuffs",
+      "layman": "Volcanic rock layers"
+    },
+    {
+      "jargon": "Shale",
+      "layman": "Fine sediment rock"
+    },
+    {
+      "jargon": "Subduction",
+      "layman": "One plate sinking under another"
+    },
+    {
+      "jargon": "Continental arc",
+      "layman": "Mountain chain formed above a subduction zone"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Geochemistry",
+      "layman": "Chemical analysis of rocks"
+    },
+    {
+      "jargon": "Mineralogical sorting",
+      "layman": "Sorting of minerals by type and size"
+    },
+    {
+      "jargon": "Diagenetic effects",
+      "layman": "Changes rocks undergo after formation"
+    },
+    {
+      "jargon": "Trace element ratios",
+      "layman": "Comparing amounts of different elements"
+    },
+    {
+      "jargon": "Geochemical comparison",
+      "layman": "Comparing rock chemistry across locations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Higher SiO2",
+      "layman": "More silica in rock"
+    },
+    {
+      "jargon": "Depletion of Nb and Ta",
+      "layman": "Low levels of certain elements"
+    },
+    {
+      "jargon": "Fractionated rare earth elements",
+      "layman": "Uneven distribution of rare earth elements"
+    },
+    {
+      "jargon": "Southward subduction",
+      "layman": "Plate sinking southward"
+    },
+    {
+      "jargon": "Carboniferous ocean basin closure",
+      "layman": "Ocean basin closed during Carboniferous period"
+    }
+  ]
+}

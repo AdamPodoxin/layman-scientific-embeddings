@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mobility",
+      "layman": "Movement of people or goods"
+    },
+    {
+      "jargon": "Digitalization",
+      "layman": "Use of digital technology"
+    },
+    {
+      "jargon": "New mobility services",
+      "layman": "New ways to move around"
+    },
+    {
+      "jargon": "Transportation markets",
+      "layman": "Places where transport services are bought and sold"
+    },
+    {
+      "jargon": "Virtual mobility providers",
+      "layman": "Companies offering digital transport services"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Competitive-based approach",
+      "layman": "Using competition to improve services"
+    },
+    {
+      "jargon": "B2B sharing",
+      "layman": "Sharing between businesses"
+    },
+    {
+      "jargon": "Workforce sharing",
+      "layman": "Sharing workers among companies"
+    },
+    {
+      "jargon": "Operating supplies sharing",
+      "layman": "Sharing equipment and resources"
+    },
+    {
+      "jargon": "Mobility broker",
+      "layman": "Platform that connects transport companies"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reduced environmental impact",
+      "layman": "Less harm to the environment"
+    },
+    {
+      "jargon": "Strengthened competition",
+      "layman": "More competition among services"
+    },
+    {
+      "jargon": "New business models",
+      "layman": "New ways of running companies"
+    },
+    {
+      "jargon": "Occasional workers",
+      "layman": "Part-time workers"
+    },
+    {
+      "jargon": "Shared services",
+      "layman": "Services provided by multiple companies together"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Institute of Radio Engineers",
+      "layman": "Radio engineering society"
+    },
+    {
+      "jargon": "Wireless Institute",
+      "layman": "Wireless engineering group"
+    },
+    {
+      "jargon": "Society of Wireless Telegraph Engineers",
+      "layman": "Wireless telegraph engineers' group"
+    },
+    {
+      "jargon": "American Institute of Electrical Engineers",
+      "layman": "Electric power engineers' group"
+    },
+    {
+      "jargon": "Radio transmission",
+      "layman": "Wireless sending of signals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Antenna radiation properties",
+      "layman": "How antennas send signals"
+    },
+    {
+      "jargon": "High-voltage insulators",
+      "layman": "Materials that block electricity"
+    },
+    {
+      "jargon": "Vacuum tube amplification",
+      "layman": "Device that boosts weak signals"
+    },
+    {
+      "jargon": "Wireless audio transmission",
+      "layman": "Sending sound wirelessly"
+    },
+    {
+      "jargon": "Radio operation by steamship companies",
+      "layman": "How ships use radio communication"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fewer than fifty members",
+      "layman": "Small membership group"
+    },
+    {
+      "jargon": "Visionary paper",
+      "layman": "Forward-thinking research"
+    },
+    {
+      "jargon": "Public policy recommendations",
+      "layman": "Suggested improvements for technology use"
+    },
+    {
+      "jargon": "Original publications",
+      "layman": "First-time research articles"
+    },
+    {
+      "jargon": "Quarterly journal issues",
+      "layman": "Four papers per year"
+    }
+  ]
+}

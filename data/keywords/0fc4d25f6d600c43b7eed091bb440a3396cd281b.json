@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Genetic Programming",
+      "layman": "Evolutionary computer programming"
+    },
+    {
+      "jargon": "Search space",
+      "layman": "All possible solutions in a problem"
+    },
+    {
+      "jargon": "Introns",
+      "layman": "Non-coding gene parts"
+    },
+    {
+      "jargon": "Grammar rules",
+      "layman": "Rules for building valid programs"
+    },
+    {
+      "jargon": "Probability distribution",
+      "layman": "Chance-based data pattern"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "PBIL",
+      "layman": "Evolution using probability rules"
+    },
+    {
+      "jargon": "Distribution-based evolution",
+      "layman": "Evolution using statistics instead of populations"
+    },
+    {
+      "jargon": "Grammar-based genetic programming",
+      "layman": "Building programs using rule structures"
+    },
+    {
+      "jargon": "Program evolution framework",
+      "layman": "System that grows and improves code over time"
+    },
+    {
+      "jargon": "Real-world like problem",
+      "layman": "Problem that mimics real-life situations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Intron growth",
+      "layman": "Unwanted code expansion"
+    },
+    {
+      "jargon": "Computer resources demand",
+      "layman": "High memory and CPU use"
+    },
+    {
+      "jargon": "Practical solution",
+      "layman": "Workable fix for the problem"
+    },
+    {
+      "jargon": "Massive growth of non-coding segments",
+      "layman": "Too much useless code"
+    },
+    {
+      "jargon": "Efficient search",
+      "layman": "Faster, smarter solution finding"
+    }
+  ]
+}

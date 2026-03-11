@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Involuntary psychiatric treatment",
+      "layman": "Forced mental health treatment"
+    },
+    {
+      "jargon": "1990 law",
+      "layman": "1990 mental health law"
+    },
+    {
+      "jargon": "1838 law",
+      "layman": "1838 mental health law"
+    },
+    {
+      "jargon": "Public extra-hospital psychiatry",
+      "layman": "Community mental health care"
+    },
+    {
+      "jargon": "Social reintegration",
+      "layman": "Reintegration into society"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Assessment studies",
+      "layman": "Patient evaluations"
+    },
+    {
+      "jargon": "Professional contexts",
+      "layman": "Workplace settings"
+    },
+    {
+      "jargon": "Enforcement",
+      "layman": "Implementation"
+    },
+    {
+      "jargon": "Stigmatization",
+      "layman": "Negative public image"
+    },
+    {
+      "jargon": "User perspectives",
+      "layman": "Patient viewpoints"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Individual freedom",
+      "layman": "Personal liberty"
+    },
+    {
+      "jargon": "Segregation",
+      "layman": "Isolation from society"
+    },
+    {
+      "jargon": "Caregiver viewpoints",
+      "layman": "Care provider opinions"
+    },
+    {
+      "jargon": "Family perspectives",
+      "layman": "Family opinions"
+    },
+    {
+      "jargon": "Law enforcement difficulties",
+      "layman": "Hard to apply the law"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "acute pain",
+      "layman": "sudden pain"
+    },
+    {
+      "jargon": "postoperative pain",
+      "layman": "pain after surgery"
+    },
+    {
+      "jargon": "children",
+      "layman": "kids"
+    },
+    {
+      "jargon": "pain management",
+      "layman": "handling pain"
+    },
+    {
+      "jargon": "healthcare professionals",
+      "layman": "doctors and nurses"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "nationwide survey",
+      "layman": "large country-wide survey"
+    },
+    {
+      "jargon": "questionnaires",
+      "layman": "paper forms"
+    },
+    {
+      "jargon": "response rate",
+      "layman": "percentage of people who answered"
+    },
+    {
+      "jargon": "pain assessments",
+      "layman": "checking pain levels"
+    },
+    {
+      "jargon": "formal organization for pain management",
+      "layman": "official pain care system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "23% of patients with postoperative pain",
+      "layman": "one in four kids have moderate to severe pain after surgery"
+    },
+    {
+      "jargon": "31% of patients with pain of other origin",
+      "layman": "one in three kids have moderate to severe pain from other causes"
+    },
+    {
+      "jargon": "45% of physicians and nurses",
+      "layman": "most doctors and nurses say pain could be managed better"
+    },
+    {
+      "jargon": "43% of departments perform regular pain checks",
+      "layman": "most hospitals check pain regularly"
+    },
+    {
+      "jargon": "15% never or infrequently use potent opioids",
+      "layman": "some hospitals rarely use strong pain medicines"
+    }
+  ]
+}

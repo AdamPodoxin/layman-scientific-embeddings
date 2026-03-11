@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Creative groups",
+      "layman": "Group therapy using art and play"
+    },
+    {
+      "jargon": "Relapse prevention",
+      "layman": "Stopping a mental health setback"
+    },
+    {
+      "jargon": "Support team",
+      "layman": "Group of people who help each other"
+    },
+    {
+      "jargon": "Hospitalization review",
+      "layman": "Looking back at hospital stay"
+    },
+    {
+      "jargon": "Crisis game",
+      "layman": "Game to practice handling emergencies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Goal setting",
+      "layman": "Setting clear personal goals"
+    },
+    {
+      "jargon": "Cognitive restructuring",
+      "layman": "Changing negative thoughts"
+    },
+    {
+      "jargon": "Skit",
+      "layman": "Short role-playing scene"
+    },
+    {
+      "jargon": "Simulation for daily living",
+      "layman": "Practice daily tasks in a safe way"
+    },
+    {
+      "jargon": "Impromptu speaking",
+      "layman": "Speaking without preparation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Self-esteem",
+      "layman": "Feeling confident in oneself"
+    },
+    {
+      "jargon": "Socialization",
+      "layman": "Building social connections"
+    },
+    {
+      "jargon": "Motivation",
+      "layman": "Wanting to do something positive"
+    },
+    {
+      "jargon": "Emotional regulation",
+      "layman": "Managing emotions"
+    },
+    {
+      "jargon": "Gratitude",
+      "layman": "Appreciating good things"
+    }
+  ]
+}

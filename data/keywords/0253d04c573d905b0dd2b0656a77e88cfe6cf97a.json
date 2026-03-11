@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Legacy systems",
+      "layman": "Old software systems"
+    },
+    {
+      "jargon": "COBOL",
+      "layman": "Old programming language"
+    },
+    {
+      "jargon": "Type information",
+      "layman": "Data types in code"
+    },
+    {
+      "jargon": "Software architecture",
+      "layman": "Overall structure of software"
+    },
+    {
+      "jargon": "Program understanding tools",
+      "layman": "Tools to read code"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hypertext-based program understanding",
+      "layman": "Web-like navigation of code"
+    },
+    {
+      "jargon": "Inferred type information",
+      "layman": "Guessing data types from code"
+    },
+    {
+      "jargon": "TypeXPLORER",
+      "layman": "Tool for browsing old code"
+    },
+    {
+      "jargon": "Software re-engineering",
+      "layman": "Rewriting old software"
+    },
+    {
+      "jargon": "Browsing individual statements",
+      "layman": "Examining single lines of code"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New levels of abstraction",
+      "layman": "Simpler, higher-level views"
+    },
+    {
+      "jargon": "Meaningful presentation of types",
+      "layman": "Clear display of data types"
+    },
+    {
+      "jargon": "Understanding at statement level",
+      "layman": "Seeing how code works line by line"
+    },
+    {
+      "jargon": "Understanding at architecture level",
+      "layman": "Seeing how software is built"
+    },
+    {
+      "jargon": "100,000 lines of code system",
+      "layman": "Large industrial software system"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Dark matter",
+      "layman": "Hidden mass in space"
+    },
+    {
+      "jargon": "Cosmic repulsion",
+      "layman": "Universe pushing itself apart"
+    },
+    {
+      "jargon": "Standard gravity",
+      "layman": "Normal gravity rules"
+    },
+    {
+      "jargon": "Conformal gravity",
+      "layman": "Gravity adjusted to fit space"
+    },
+    {
+      "jargon": "Fine-tuned universe",
+      "layman": "Universe set to very specific values"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Extrapolation",
+      "layman": "Extending a rule beyond its original range"
+    },
+    {
+      "jargon": "Cosmological distance scales",
+      "layman": "Large distances in the universe"
+    },
+    {
+      "jargon": "Solar system origins",
+      "layman": "Gravity tested in our solar system"
+    },
+    {
+      "jargon": "Gravitational extrapolation",
+      "layman": "Applying gravity rules to far space"
+    },
+    {
+      "jargon": "Theoretical modeling",
+      "layman": "Building models of how things work"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Missing mass problem",
+      "layman": "Missing mass in galaxies"
+    },
+    {
+      "jargon": "Missing energy problem",
+      "layman": "Missing energy in space"
+    },
+    {
+      "jargon": "Fine-tuning challenge",
+      "layman": "Universe needs precise setup"
+    },
+    {
+      "jargon": "Resolved issues",
+      "layman": "Problems solved naturally"
+    },
+    {
+      "jargon": "Natural resolution",
+      "layman": "Problems fixed without new parts"
+    }
+  ]
+}

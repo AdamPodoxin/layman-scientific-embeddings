@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mouse",
+      "layman": "Mouse"
+    },
+    {
+      "jargon": "Word processing",
+      "layman": "Editing text"
+    },
+    {
+      "jargon": "Dynamic links",
+      "layman": "Connecting parts of a document"
+    },
+    {
+      "jargon": "Shared-screen collaboration",
+      "layman": "Working together on one screen"
+    },
+    {
+      "jargon": "Computing technologies",
+      "layman": "Digital tools for computers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Demonstration",
+      "layman": "Showcasing a new tool"
+    },
+    {
+      "jargon": "Computer conference",
+      "layman": "Meeting of computer experts"
+    },
+    {
+      "jargon": "Development",
+      "layman": "Building something new"
+    },
+    {
+      "jargon": "Studying",
+      "layman": "Testing or observing"
+    },
+    {
+      "jargon": "Collaboration",
+      "layman": "Working together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Modern computing",
+      "layman": "Today's computer features"
+    },
+    {
+      "jargon": "First public showcase",
+      "layman": "First time shown to the public"
+    },
+    {
+      "jargon": "Audience amazed",
+      "layman": "People were surprised"
+    },
+    {
+      "jargon": "Technology under development",
+      "layman": "New tech being built"
+    },
+    {
+      "jargon": "Innovation introduced",
+      "layman": "New ideas shared"
+    }
+  ]
+}

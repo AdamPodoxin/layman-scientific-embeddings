@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "carbon nanotubes",
+      "layman": "tiny carbon tubes"
+    },
+    {
+      "jargon": "Inconel 600",
+      "layman": "heat-resistant metal sheet"
+    },
+    {
+      "jargon": "oxidized Inconel plates",
+      "layman": "metal plates treated with oxygen"
+    },
+    {
+      "jargon": "field electron emission",
+      "layman": "electrons emitted under electric field"
+    },
+    {
+      "jargon": "scanning electron microscopy",
+      "layman": "microscope that scans surfaces"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "plasma enhanced hot filament chemical vapor deposition",
+      "layman": "chemical process using plasma and heat to grow nanotubes"
+    },
+    {
+      "jargon": "oxidation treatment",
+      "layman": "heating metal to react with oxygen"
+    },
+    {
+      "jargon": "X-ray diffraction",
+      "layman": "test to identify crystal structure"
+    },
+    {
+      "jargon": "direct growth",
+      "layman": "growing nanotubes without catalysts"
+    },
+    {
+      "jargon": "field electron emission testing",
+      "layman": "measuring electron release under voltage"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "well aligned CNTs",
+      "layman": "straight and organized nanotubes"
+    },
+    {
+      "jargon": "better uniformity",
+      "layman": "even and consistent growth"
+    },
+    {
+      "jargon": "higher treatment temperature",
+      "layman": "hotter heat treatment improves growth"
+    },
+    {
+      "jargon": "no catalyst addition",
+      "layman": "no extra chemicals used"
+    },
+    {
+      "jargon": "better FEE characteristics",
+      "layman": "better electron emission performance"
+    }
+  ]
+}

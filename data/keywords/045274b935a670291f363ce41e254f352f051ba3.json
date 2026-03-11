@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "King Lear",
+      "layman": "King Lear"
+    },
+    {
+      "jargon": "Minor characters",
+      "layman": "Supporting characters"
+    },
+    {
+      "jargon": "True need",
+      "layman": "Real need"
+    },
+    {
+      "jargon": "Sight",
+      "layman": "Vision"
+    },
+    {
+      "jargon": "Action",
+      "layman": "Action"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sight, 'vision', and action",
+      "layman": "Seeing and acting"
+    },
+    {
+      "jargon": "Answering and questioning",
+      "layman": "Asking and responding"
+    },
+    {
+      "jargon": "Speaking what we can",
+      "layman": "Expressing what we know"
+    },
+    {
+      "jargon": "Opening terms",
+      "layman": "Initial ideas"
+    },
+    {
+      "jargon": "The minor characters",
+      "layman": "Supporting characters"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lear and 'true need'",
+      "layman": "King's real need"
+    },
+    {
+      "jargon": "Sight, 'vision', and action",
+      "layman": "Seeing clearly and acting"
+    },
+    {
+      "jargon": "Answering and questioning",
+      "layman": "Engaging in dialogue"
+    },
+    {
+      "jargon": "Speaking what we can",
+      "layman": "Sharing what we can"
+    },
+    {
+      "jargon": "The opening terms",
+      "layman": "Starting points"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mn(II)-substituted human carbonic anhydrase C",
+      "layman": "Manganese-modified enzyme"
+    },
+    {
+      "jargon": "Co(II)-substituted human carbonic anhydrase C",
+      "layman": "Cobalt-modified enzyme"
+    },
+    {
+      "jargon": "p-nitrophenol",
+      "layman": "Nitrophenol molecule"
+    },
+    {
+      "jargon": "acetate",
+      "layman": "Acetate molecule"
+    },
+    {
+      "jargon": "active site",
+      "layman": "Enzyme's working center"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Nuclear relaxation studies",
+      "layman": "Measuring how nuclei lose energy"
+    },
+    {
+      "jargon": "Paramagnetic effect",
+      "layman": "Magnetic influence on atoms"
+    },
+    {
+      "jargon": "Metal-ligand distances",
+      "layman": "Distance between metal and bound molecule"
+    },
+    {
+      "jargon": "Longitudinal nuclear relaxation rates",
+      "layman": "How fast nuclei recover energy"
+    },
+    {
+      "jargon": "Hydrolysis reaction",
+      "layman": "Breaking down a molecule with water"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Direct coordination of phenolic oxygen",
+      "layman": "Molecule binds directly to metal"
+    },
+    {
+      "jargon": "Innersphere distances",
+      "layman": "Close bond within the enzyme center"
+    },
+    {
+      "jargon": "Different orientations of aromatic ring",
+      "layman": "Ring points in different directions"
+    },
+    {
+      "jargon": "Weak innersphere complexation",
+      "layman": "Loose but close bond"
+    },
+    {
+      "jargon": "Differences in reactivities",
+      "layman": "Different reaction speeds"
+    }
+  ]
+}

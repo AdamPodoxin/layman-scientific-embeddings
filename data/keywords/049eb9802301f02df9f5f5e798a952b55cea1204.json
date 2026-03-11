@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Obesity",
+      "layman": "Excess body fat"
+    },
+    {
+      "jargon": "Hospitalized patients",
+      "layman": "People in the hospital"
+    },
+    {
+      "jargon": "Cardiac disease",
+      "layman": "Heart disease"
+    },
+    {
+      "jargon": "Diabetes",
+      "layman": "High blood sugar condition"
+    },
+    {
+      "jargon": "Stroke",
+      "layman": "Brain blood vessel blockage"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Medication dosing",
+      "layman": "Giving correct drug amounts"
+    },
+    {
+      "jargon": "Skin integrity",
+      "layman": "Skin health and strength"
+    },
+    {
+      "jargon": "Testing",
+      "layman": "Medical checks"
+    },
+    {
+      "jargon": "Nutrition",
+      "layman": "Food intake and balance"
+    },
+    {
+      "jargon": "Data summary",
+      "layman": "Reviewing existing information"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Risk factor",
+      "layman": "Increases chance of illness"
+    },
+    {
+      "jargon": "Altered medication dosing",
+      "layman": "Wrong drug amount given"
+    },
+    {
+      "jargon": "Altered testing",
+      "layman": "Unreliable medical tests"
+    },
+    {
+      "jargon": "Altered nutrition",
+      "layman": "Poor or wrong food plans"
+    },
+    {
+      "jargon": "Limited data",
+      "layman": "Not enough research"
+    }
+  ]
+}

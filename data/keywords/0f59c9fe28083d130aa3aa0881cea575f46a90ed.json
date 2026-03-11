@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Market power",
+      "layman": "Power of firms to set prices"
+    },
+    {
+      "jargon": "Overlapping generations",
+      "layman": "Different age groups in economy"
+    },
+    {
+      "jargon": "Equilibrium fluctuations",
+      "layman": "Economic swings around stability"
+    },
+    {
+      "jargon": "Unemployment at low wages",
+      "layman": "People without jobs at low pay"
+    },
+    {
+      "jargon": "Redistributive policies",
+      "layman": "Policies that shift wealth between groups"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dynamic models",
+      "layman": "Models that show changes over time"
+    },
+    {
+      "jargon": "Neoclassical growth",
+      "layman": "Economic growth model based on savings and productivity"
+    },
+    {
+      "jargon": "Partial wage indexation",
+      "layman": "Only some wages adjust to inflation"
+    },
+    {
+      "jargon": "Equilibrium analysis",
+      "layman": "Studying stable economic states"
+    },
+    {
+      "jargon": "Public expenditures",
+      "layman": "Government spending on services"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Unemployment at low wages",
+      "layman": "High joblessness at low pay"
+    },
+    {
+      "jargon": "Redistributive policies",
+      "layman": "Wealth moved from rich to poor"
+    },
+    {
+      "jargon": "Public expenditures",
+      "layman": "Government spends more than before"
+    },
+    {
+      "jargon": "Equilibrium fluctuations",
+      "layman": "Economy wobbles without crashing"
+    },
+    {
+      "jargon": "Wage indexation",
+      "layman": "Wages rise with inflation"
+    }
+  ]
+}

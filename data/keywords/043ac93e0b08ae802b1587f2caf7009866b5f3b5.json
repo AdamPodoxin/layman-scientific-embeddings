@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pamphlets",
+      "layman": "Short printed political articles"
+    },
+    {
+      "jargon": "Political debate",
+      "layman": "Public discussion of government issues"
+    },
+    {
+      "jargon": "Activist readers",
+      "layman": "People who read to take action"
+    },
+    {
+      "jargon": "John Milton",
+      "layman": "John Milton"
+    },
+    {
+      "jargon": "Political theory",
+      "layman": "Ideas about government and power"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying the past to understand today"
+    },
+    {
+      "jargon": "Rhetorical analysis",
+      "layman": "Examining how arguments are framed"
+    },
+    {
+      "jargon": "Propaganda",
+      "layman": "Spreading ideas to influence opinion"
+    },
+    {
+      "jargon": "Literary practices",
+      "layman": "How writers use language"
+    },
+    {
+      "jargon": "Ideological conflict",
+      "layman": "Opposing beliefs in society"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Revolution in reading",
+      "layman": "Change in how people read and share ideas"
+    },
+    {
+      "jargon": "Awakening of politicians",
+      "layman": "Politicians becoming aware of public opinion"
+    },
+    {
+      "jargon": "New class of activist readers",
+      "layman": "New group of readers who act on what they read"
+    },
+    {
+      "jargon": "Unprecedented outpouring of opinion",
+      "layman": "Massive flood of public views"
+    },
+    {
+      "jargon": "Ideological conflict often overlooked",
+      "layman": "Hidden political disagreements"
+    }
+  ]
+}

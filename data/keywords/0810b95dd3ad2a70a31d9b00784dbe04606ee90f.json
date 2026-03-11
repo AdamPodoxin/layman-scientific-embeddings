@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Engineering education",
+      "layman": "Training in engineering"
+    },
+    {
+      "jargon": "Undergraduate enterprise",
+      "layman": "Bachelor's level engineering program"
+    },
+    {
+      "jargon": "Graduate study",
+      "layman": "Advanced degree program"
+    },
+    {
+      "jargon": "Electronics revolution",
+      "layman": "Rapid growth in electronic technology"
+    },
+    {
+      "jargon": "Energy revolution",
+      "layman": "Major shift in energy production and use"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Curriculum development",
+      "layman": "Designing course content"
+    },
+    {
+      "jargon": "Interdisciplinary programs",
+      "layman": "Combining different fields of study"
+    },
+    {
+      "jargon": "Educational shift",
+      "layman": "Changing how engineering is taught"
+    },
+    {
+      "jargon": "Graduate degree expansion",
+      "layman": "Growing focus on advanced degrees"
+    },
+    {
+      "jargon": "Current forces",
+      "layman": "Major trends shaping education"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shift from undergraduate to graduate emphasis",
+      "layman": "More focus on advanced degrees"
+    },
+    {
+      "jargon": "Curriculum problems",
+      "layman": "Issues in course design"
+    },
+    {
+      "jargon": "Graduate degree challenges",
+      "layman": "Difficulties in advanced degree programs"
+    },
+    {
+      "jargon": "Interdisciplinary challenges",
+      "layman": "Problems in combining fields"
+    },
+    {
+      "jargon": "Rapid changes in engineering education",
+      "layman": "Fast transformation in how engineering is taught"
+    }
+  ]
+}

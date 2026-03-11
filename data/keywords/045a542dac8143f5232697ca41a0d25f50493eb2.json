@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social problems",
+      "layman": "Unfair or harmful conditions in society"
+    },
+    {
+      "jargon": "Claims-making activities",
+      "layman": "People demanding change about issues"
+    },
+    {
+      "jargon": "Social conditions",
+      "layman": "Ways society is structured"
+    },
+    {
+      "jargon": "Individuals or groups",
+      "layman": "People or communities"
+    },
+    {
+      "jargon": "Social facts",
+      "layman": "Real societal outcomes"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Review of literature",
+      "layman": "Checking existing research"
+    },
+    {
+      "jargon": "Theoretical development",
+      "layman": "Building new ideas in sociology"
+    },
+    {
+      "jargon": "Empirical study",
+      "layman": "Research based on real-world data"
+    },
+    {
+      "jargon": "Course teaching",
+      "layman": "Teaching students about social issues"
+    },
+    {
+      "jargon": "Systematic statement",
+      "layman": "Clear and organized explanation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Absence of theory",
+      "layman": "No clear explanation or rules"
+    },
+    {
+      "jargon": "Coherent theory",
+      "layman": "Clear, logical explanation"
+    },
+    {
+      "jargon": "Service course",
+      "layman": "Class for general awareness"
+    },
+    {
+      "jargon": "Textbook dominance",
+      "layman": "Textbooks control what is taught"
+    },
+    {
+      "jargon": "Controversial view",
+      "layman": "Debated or disputed opinion"
+    }
+  ]
+}

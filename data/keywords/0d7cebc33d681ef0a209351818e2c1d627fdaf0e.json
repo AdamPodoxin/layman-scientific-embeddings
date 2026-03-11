@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Deliberative democracy",
+      "layman": "People discussing decisions together"
+    },
+    {
+      "jargon": "Deliberative systems",
+      "layman": "Systems where people discuss decisions"
+    },
+    {
+      "jargon": "Political action",
+      "layman": "People taking part in politics"
+    },
+    {
+      "jargon": "Nation states",
+      "layman": "Countries"
+    },
+    {
+      "jargon": "Transnational systems",
+      "layman": "Systems that cross national borders"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Division of deliberative labour",
+      "layman": "Splitting discussion tasks among groups"
+    },
+    {
+      "jargon": "Competing norms",
+      "layman": "Different rules or standards in conflict"
+    },
+    {
+      "jargon": "Competing institutions",
+      "layman": "Different organizations with conflicting goals"
+    },
+    {
+      "jargon": "Powerful interests",
+      "layman": "Strong groups with influence"
+    },
+    {
+      "jargon": "Democratic engagement",
+      "layman": "People actively participating in decisions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Deliberative ideal",
+      "layman": "Goal of fair and thoughtful discussion"
+    },
+    {
+      "jargon": "Theoretical framework",
+      "layman": "Model for how democracy should work"
+    },
+    {
+      "jargon": "Empirical research",
+      "layman": "Real-world observations and studies"
+    },
+    {
+      "jargon": "Implementation challenges",
+      "layman": "Problems in putting ideas into practice"
+    },
+    {
+      "jargon": "Pioneering book",
+      "layman": "First major work on a new idea"
+    }
+  ]
+}

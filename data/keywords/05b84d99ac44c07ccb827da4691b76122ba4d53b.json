@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Pfaffian integration theorem",
+      "layman": "Math rule for integrating certain functions"
+    },
+    {
+      "jargon": "Ginibre's Orthogonal Ensemble",
+      "layman": "Random matrix collection"
+    },
+    {
+      "jargon": "Fredholm Pfaffian",
+      "layman": "Special math object for integration"
+    },
+    {
+      "jargon": "Spectral properties",
+      "layman": "How energy levels are distributed"
+    },
+    {
+      "jargon": "Orthogonal Ensemble",
+      "layman": "Group of random matrices with specific rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Fredholm Pfaffian",
+      "layman": "Math tool using operators and integrals"
+    },
+    {
+      "jargon": "Linear algebraic proof",
+      "layman": "Proof using only matrices and vectors"
+    },
+    {
+      "jargon": "Compact proofs",
+      "layman": "Short and efficient mathematical arguments"
+    },
+    {
+      "jargon": "Spectral analysis",
+      "layman": "Study of energy levels in systems"
+    },
+    {
+      "jargon": "Proof based on structure",
+      "layman": "Using mathematical patterns to show truth"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Two alternative proofs",
+      "layman": "Two different ways to show the result"
+    },
+    {
+      "jargon": "Emergence of the theorem",
+      "layman": "The rule appeared in recent studies"
+    },
+    {
+      "jargon": "Compact formulation",
+      "layman": "Simple and clear mathematical form"
+    },
+    {
+      "jargon": "Integration theorem",
+      "layman": "Rule for combining functions in math"
+    },
+    {
+      "jargon": "Spectral properties of matrices",
+      "layman": "How random matrix energy levels behave"
+    }
+  ]
+}

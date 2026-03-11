@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quantum cosmology",
+      "layman": "Quantum theory of the universe"
+    },
+    {
+      "jargon": "Arrow of time",
+      "layman": "Direction of time"
+    },
+    {
+      "jargon": "Cosmology",
+      "layman": "Study of the universe"
+    },
+    {
+      "jargon": "Boundary condition",
+      "layman": "Initial rule for the universe"
+    },
+    {
+      "jargon": "Black holes",
+      "layman": "Gravity wells that suck in matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Time reversal invariance",
+      "layman": "Laws that work the same forward and backward"
+    },
+    {
+      "jargon": "Formalism",
+      "layman": "Mathematical framework"
+    },
+    {
+      "jargon": "Natural boundary condition",
+      "layman": "Simple rule that naturally applies"
+    },
+    {
+      "jargon": "Irreversible phenomena",
+      "layman": "Things that can't go back"
+    },
+    {
+      "jargon": "Quantum framework",
+      "layman": "Quantum-based model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Observed arrows of time",
+      "layman": "Time moving forward in reality"
+    },
+    {
+      "jargon": "Consequences for black holes",
+      "layman": "Effects on black holes"
+    },
+    {
+      "jargon": "Fundamental laws",
+      "layman": "Basic rules of nature"
+    },
+    {
+      "jargon": "Causal structure",
+      "layman": "Cause-and-effect order"
+    },
+    {
+      "jargon": "Origin of time asymmetry",
+      "layman": "Why time has a direction"
+    }
+  ]
+}

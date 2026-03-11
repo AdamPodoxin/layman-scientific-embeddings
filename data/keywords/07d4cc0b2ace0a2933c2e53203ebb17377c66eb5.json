@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "tuyas",
+      "layman": "Steep-walled, flat-topped volcanoes"
+    },
+    {
+      "jargon": "pillowed lavas",
+      "layman": "Lava that forms pillow shapes underwater"
+    },
+    {
+      "jargon": "hyaloclastites",
+      "layman": "Fragmented volcanic rock from water explosions"
+    },
+    {
+      "jargon": "phreatomagmatic explosions",
+      "layman": "Volcano blasts from magma and water mixing"
+    },
+    {
+      "jargon": "subglacial volcanoes",
+      "layman": "Volcanoes under ice caps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "glass and whole-rock analyses",
+      "layman": "Testing lava composition"
+    },
+    {
+      "jargon": "magmatic differentiation",
+      "layman": "Magma changing composition over time"
+    },
+    {
+      "jargon": "crystallization",
+      "layman": "Magma turning into solid crystals"
+    },
+    {
+      "jargon": "major element variations",
+      "layman": "Changes in key chemical elements"
+    },
+    {
+      "jargon": "elemental composition",
+      "layman": "What chemicals are in the rock"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "monogenetic volcanoes",
+      "layman": "One eruption per volcano"
+    },
+    {
+      "jargon": "magmatic evolution",
+      "layman": "Magma becoming more evolved"
+    },
+    {
+      "jargon": "50 wt.% crystallization",
+      "layman": "Half the lava turned into crystals"
+    },
+    {
+      "jargon": "60\u00b0C temperature range",
+      "layman": "Temperature change of 60 degrees"
+    },
+    {
+      "jargon": "S content decrease",
+      "layman": "Sulfur levels drop upward in lava"
+    }
+  ]
+}

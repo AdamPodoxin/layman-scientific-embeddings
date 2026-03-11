@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Element concentration catalogues in ecosystems",
+      "layman": "Global maps of element levels in ecosystems"
+    },
+    {
+      "jargon": "Synthetic reference systems",
+      "layman": "Standardized chemical samples"
+    },
+    {
+      "jargon": "Ecosystem compartments",
+      "layman": "Different parts of an ecosystem"
+    },
+    {
+      "jargon": "Tropical and subtropical systems",
+      "layman": "Warm climate ecosystems"
+    },
+    {
+      "jargon": "Plant materials",
+      "layman": "Plant samples"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Instrumental multi-element analysis",
+      "layman": "Testing for many elements at once"
+    },
+    {
+      "jargon": "Chemical fingerprinting",
+      "layman": "Unique chemical signature"
+    },
+    {
+      "jargon": "Biogeochemical perspective",
+      "layman": "Study of element cycles in nature"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering environmental measurements"
+    },
+    {
+      "jargon": "Comparative analysis",
+      "layman": "Comparing different ecosystems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "World-wide distribution of elements",
+      "layman": "Global spread of elements"
+    },
+    {
+      "jargon": "Concentrations of individual elements",
+      "layman": "How much of each element is present"
+    },
+    {
+      "jargon": "Toxicity and nutrient effects",
+      "layman": "Harmful or helpful element impacts"
+    },
+    {
+      "jargon": "Element reactions in systems",
+      "layman": "How elements interact in nature"
+    },
+    {
+      "jargon": "Northern hemisphere data bias",
+      "layman": "Missing data from warm regions"
+    }
+  ]
+}

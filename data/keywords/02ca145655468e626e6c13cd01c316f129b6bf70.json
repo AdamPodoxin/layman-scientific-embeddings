@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Corticosteroids",
+      "layman": "Steroid medications"
+    },
+    {
+      "jargon": "Chronic obstructive pulmonary disease",
+      "layman": "COPD"
+    },
+    {
+      "jargon": "Acute exacerbation",
+      "layman": "Worsening of COPD symptoms"
+    },
+    {
+      "jargon": "Forced expiratory volume in 1 second",
+      "layman": "Breathing test measure"
+    },
+    {
+      "jargon": "Hospital stay",
+      "layman": "Time in hospital"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Systemic corticosteroid therapy",
+      "layman": "Oral or IV steroids given to the whole body"
+    },
+    {
+      "jargon": "Clinical trials",
+      "layman": "Medical studies on patients"
+    },
+    {
+      "jargon": "Small clinical trials",
+      "layman": "Limited patient studies"
+    },
+    {
+      "jargon": "Hospitalized patients",
+      "layman": "People admitted to hospital"
+    },
+    {
+      "jargon": "Treatment duration",
+      "layman": "Length of time a treatment is given"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reduces absolute treatment rate by about 10%",
+      "layman": "Fewer people need treatment"
+    },
+    {
+      "jargon": "Increases FEV(1) by about 100 mL",
+      "layman": "Better breathing test result"
+    },
+    {
+      "jargon": "Shortens hospital stay by 1 to 2 days",
+      "layman": "Stays in hospital shorter"
+    },
+    {
+      "jargon": "Hyperglycemia",
+      "layman": "High blood sugar"
+    },
+    {
+      "jargon": "Increased rate of secondary infections",
+      "layman": "More infections after treatment"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Linear logic",
+      "layman": "Logic with strict resource rules"
+    },
+    {
+      "jargon": "MELL proof nets",
+      "layman": "Proof diagrams in linear logic"
+    },
+    {
+      "jargon": "Exponentials",
+      "layman": "Resource substitution tools"
+    },
+    {
+      "jargon": "Rewriting rules",
+      "layman": "Step-by-step transformation rules"
+    },
+    {
+      "jargon": "Reducibility candidates",
+      "layman": "Proof tools for ensuring termination"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Strong normalization",
+      "layman": "All steps eventually end"
+    },
+    {
+      "jargon": "Cut-elimination",
+      "layman": "Removing redundant proof steps"
+    },
+    {
+      "jargon": "Explicit substitutions",
+      "layman": "Directly tracking variable changes"
+    },
+    {
+      "jargon": "Confluence",
+      "layman": "All paths lead to same result"
+    },
+    {
+      "jargon": "Kesner's IE property",
+      "layman": "Rule compatibility under substitution"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strong normalization",
+      "layman": "All proofs end in finite steps"
+    },
+    {
+      "jargon": "No confluence required",
+      "layman": "No need for path consistency"
+    },
+    {
+      "jargon": "Axiomatic proof",
+      "layman": "Proof based on general principles"
+    },
+    {
+      "jargon": "Scales to full linear logic",
+      "layman": "Works for all cases in linear logic"
+    },
+    {
+      "jargon": "Compact proof",
+      "layman": "Simple and short proof"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mutual fund",
+      "layman": "Investment fund"
+    },
+    {
+      "jargon": "Marketing expenses",
+      "layman": "Costs to promote funds"
+    },
+    {
+      "jargon": "Active management",
+      "layman": "Hands-on fund management"
+    },
+    {
+      "jargon": "Investor search",
+      "layman": "Investors looking for funds"
+    },
+    {
+      "jargon": "Manager skill",
+      "layman": "Manager's ability to outperform"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Structural model",
+      "layman": "Mathematical model of real-world behavior"
+    },
+    {
+      "jargon": "Estimate",
+      "layman": "Calculate based on data"
+    },
+    {
+      "jargon": "Learning about unobserved skill",
+      "layman": "Figuring out hidden manager ability"
+    },
+    {
+      "jargon": "Costly investor search",
+      "layman": "Hard work for investors to find funds"
+    },
+    {
+      "jargon": "Empirical observation",
+      "layman": "What is actually seen in data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fund size",
+      "layman": "How large the fund is"
+    },
+    {
+      "jargon": "Welfare improvement",
+      "layman": "Better overall financial well-being"
+    },
+    {
+      "jargon": "Capital shifts",
+      "layman": "Money moves to better funds"
+    },
+    {
+      "jargon": "Average alpha increases",
+      "layman": "Funds outperform more on average"
+    },
+    {
+      "jargon": "Shift towards passive investing",
+      "layman": "More people invest without active management"
+    }
+  ]
+}

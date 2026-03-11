@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ambient intelligence applications",
+      "layman": "Smart environments that respond to people"
+    },
+    {
+      "jargon": "Critical systems",
+      "layman": "Systems where failure could be dangerous"
+    },
+    {
+      "jargon": "Software-engineering-oriented approaches",
+      "layman": "Engineering methods for software"
+    },
+    {
+      "jargon": "Design activities",
+      "layman": "Planning steps for building systems"
+    },
+    {
+      "jargon": "Design artifacts",
+      "layman": "Outputs from the design process"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Formal tools",
+      "layman": "Precise, structured design tools"
+    },
+    {
+      "jargon": "Specification process",
+      "layman": "Step-by-step method to define requirements"
+    },
+    {
+      "jargon": "Design of ambient intelligence applications",
+      "layman": "Creating smart systems that adapt"
+    },
+    {
+      "jargon": "Rigorous software-engineering-oriented approaches",
+      "layman": "Strict engineering methods for software"
+    },
+    {
+      "jargon": "Practical experience",
+      "layman": "Real-world knowledge from past projects"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Formal tools",
+      "layman": "Clear, reliable design tools"
+    },
+    {
+      "jargon": "Specification process",
+      "layman": "Defined way to describe system needs"
+    },
+    {
+      "jargon": "AmI design activities",
+      "layman": "Planned steps to build smart systems"
+    },
+    {
+      "jargon": "Design artifacts",
+      "layman": "Final deliverables from design work"
+    },
+    {
+      "jargon": "Critical systems",
+      "layman": "Systems where failure is dangerous"
+    }
+  ]
+}

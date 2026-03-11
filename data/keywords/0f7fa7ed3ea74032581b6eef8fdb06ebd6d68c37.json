@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "chronic thoracic pain",
+      "layman": "long-term chest pain"
+    },
+    {
+      "jargon": "cardiac surgery",
+      "layman": "heart surgery"
+    },
+    {
+      "jargon": "sternotomy",
+      "layman": "cut through the breastbone"
+    },
+    {
+      "jargon": "patient demographics",
+      "layman": "patient background traits"
+    },
+    {
+      "jargon": "postoperative period",
+      "layman": "after-surgery time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "prospective cohort study",
+      "layman": "long-term patient tracking"
+    },
+    {
+      "jargon": "numeric rating scale",
+      "layman": "pain score from 0 to 10"
+    },
+    {
+      "jargon": "multivariate regression analysis",
+      "layman": "statistical test for multiple factors"
+    },
+    {
+      "jargon": "questionnaire",
+      "layman": "survey to collect patient reports"
+    },
+    {
+      "jargon": "per- and postoperative characteristics",
+      "layman": "medical details before and after surgery"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "incidence of chronic thoracic pain",
+      "layman": "how many patients have long-term chest pain"
+    },
+    {
+      "jargon": "independent predictors",
+      "layman": "factors that clearly cause pain"
+    },
+    {
+      "jargon": "severe pain (\u22654 on scale)",
+      "layman": "pain score of 4 or higher"
+    },
+    {
+      "jargon": "sleep disturbances",
+      "layman": "trouble sleeping"
+    },
+    {
+      "jargon": "frequent analgesic use",
+      "layman": "regular pain medication use"
+    }
+  ]
+}

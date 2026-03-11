@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Concurrent processes",
+      "layman": "Multiple actions happening at once"
+    },
+    {
+      "jargon": "Ready simulation",
+      "layman": "Process comparison method"
+    },
+    {
+      "jargon": "Linear time-branching time spectrum",
+      "layman": "Range of process comparison methods"
+    },
+    {
+      "jargon": "Process preorder",
+      "layman": "Ordering of processes based on behavior"
+    },
+    {
+      "jargon": "Axiomatization",
+      "layman": "Set of rules defining a system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Axiomatization",
+      "layman": "Set of rules defining a system"
+    },
+    {
+      "jargon": "Case-by-case analysis",
+      "layman": "Checking each situation separately"
+    },
+    {
+      "jargon": "Algebraic approach",
+      "layman": "Using mathematical rules to solve problems"
+    },
+    {
+      "jargon": "Uniform treatment",
+      "layman": "One method that works for all cases"
+    },
+    {
+      "jargon": "Proof by generalization",
+      "layman": "Showing it works broadly, not just in examples"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "General proofs",
+      "layman": "Proved true for all cases"
+    },
+    {
+      "jargon": "Uniform result",
+      "layman": "Same rule applies everywhere"
+    },
+    {
+      "jargon": "Coarser preorder",
+      "layman": "Weaker comparison rule"
+    },
+    {
+      "jargon": "Induced equivalence",
+      "layman": "Resulting equal behavior from comparison"
+    },
+    {
+      "jargon": "More general proof",
+      "layman": "Broader and stronger result"
+    }
+  ]
+}

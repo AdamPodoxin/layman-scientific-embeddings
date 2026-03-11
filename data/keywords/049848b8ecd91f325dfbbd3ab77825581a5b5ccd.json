@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Evolutionary multi-objective optimization",
+      "layman": "Optimizing multiple goals at once"
+    },
+    {
+      "jargon": "Pareto front",
+      "layman": "Best possible trade-off solutions"
+    },
+    {
+      "jargon": "Decision makers",
+      "layman": "People making choices"
+    },
+    {
+      "jargon": "Reference region",
+      "layman": "Preferred solution area"
+    },
+    {
+      "jargon": "Sub-problems",
+      "layman": "Smaller parts of the overall problem"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interactive reference region-based algorithm",
+      "layman": "Algorithm that adapts to user input"
+    },
+    {
+      "jargon": "MOEA/D",
+      "layman": "Multi-objective optimization method"
+    },
+    {
+      "jargon": "Decomposition",
+      "layman": "Breaking problems into smaller parts"
+    },
+    {
+      "jargon": "Preference information",
+      "layman": "User's desired choices"
+    },
+    {
+      "jargon": "Rapid interaction",
+      "layman": "Quick user feedback loop"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Converge to reference region",
+      "layman": "Reach preferred solution area"
+    },
+    {
+      "jargon": "Save computational resources",
+      "layman": "Use less computer power"
+    },
+    {
+      "jargon": "Dynamic preference use",
+      "layman": "Adjust to user preferences in real time"
+    },
+    {
+      "jargon": "High efficiency in search",
+      "layman": "Finds good solutions fast"
+    },
+    {
+      "jargon": "Experimental results",
+      "layman": "Test performance shows success"
+    }
+  ]
+}

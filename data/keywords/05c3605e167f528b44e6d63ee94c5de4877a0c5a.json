@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Semiconducting polymers",
+      "layman": "Plastic-like materials that conduct electricity under light"
+    },
+    {
+      "jargon": "Fullerenes",
+      "layman": "Spherical carbon molecules"
+    },
+    {
+      "jargon": "Exciton",
+      "layman": "Electron-hole pair from light absorption"
+    },
+    {
+      "jargon": "Nanoscale film morphology",
+      "layman": "Tiny structure of thin material layers"
+    },
+    {
+      "jargon": "Hydrogel network",
+      "layman": "Water-absorbing mesh-like structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Grazing incidence wide-angle X-ray scattering",
+      "layman": "X-ray technique to see film structure"
+    },
+    {
+      "jargon": "Time-resolved microwave conductivity",
+      "layman": "Measures how fast charges move"
+    },
+    {
+      "jargon": "Small angle X-ray scattering",
+      "layman": "X-ray method to see small structures"
+    },
+    {
+      "jargon": "Transmission electron microscopy",
+      "layman": "Microscope to see tiny details"
+    },
+    {
+      "jargon": "Rheology",
+      "layman": "Study of how material flows and holds shape"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Crystallinity",
+      "layman": "Order in molecular arrangement"
+    },
+    {
+      "jargon": "Exciton diffusion length",
+      "layman": "Distance light-generated charges can travel"
+    },
+    {
+      "jargon": "Local mobilities",
+      "layman": "How fast charges move in small areas"
+    },
+    {
+      "jargon": "Rod-like assembly",
+      "layman": "Long, thin structures formed in water"
+    },
+    {
+      "jargon": "Free charge carriers",
+      "layman": "Separated electric charges that stay stable"
+    }
+  ]
+}

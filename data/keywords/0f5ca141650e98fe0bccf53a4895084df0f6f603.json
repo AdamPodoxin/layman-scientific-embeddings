@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Brans-Dicke theory of gravity",
+      "layman": "Alternative gravity theory"
+    },
+    {
+      "jargon": "Cherenkov radiation",
+      "layman": "Light emitted when charged particles move fast"
+    },
+    {
+      "jargon": "Charged particle",
+      "layman": "Particle with electric charge"
+    },
+    {
+      "jargon": "Gravitational field",
+      "layman": "Region where gravity acts"
+    },
+    {
+      "jargon": "BD parameter \u03c9",
+      "layman": "Key number in gravity theory"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Probing",
+      "layman": "Testing or investigating"
+    },
+    {
+      "jargon": "Kinematical analysis",
+      "layman": "Checking if physics rules allow a process"
+    },
+    {
+      "jargon": "Limiting case",
+      "layman": "Extreme condition to test a theory"
+    },
+    {
+      "jargon": "Einstein theory recovery",
+      "layman": "Returning to standard gravity model"
+    },
+    {
+      "jargon": "Radiation emission",
+      "layman": "Light or energy released"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cherenkov effect disappears",
+      "layman": "Radiation stops appearing"
+    },
+    {
+      "jargon": "Strong signature",
+      "layman": "Clear sign of difference"
+    },
+    {
+      "jargon": "Validity of theory",
+      "layman": "Whether the theory is true"
+    },
+    {
+      "jargon": "Kinematically allowed",
+      "layman": "Possible under physics rules"
+    },
+    {
+      "jargon": "\u03c9 \u2192 \u221e limit",
+      "layman": "Extreme value of the gravity parameter"
+    }
+  ]
+}

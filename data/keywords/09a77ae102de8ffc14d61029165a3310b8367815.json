@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Traditional commercial banks",
+      "layman": "Regular banks"
+    },
+    {
+      "jargon": "Shadow banks",
+      "layman": "Non-traditional financial institutions"
+    },
+    {
+      "jargon": "Deposit insurance",
+      "layman": "Government guarantee for bank deposits"
+    },
+    {
+      "jargon": "Equity capital",
+      "layman": "Bank's own money invested"
+    },
+    {
+      "jargon": "Fixed-income assets",
+      "layman": "Investments that pay steady interest"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mark-to-market valuation",
+      "layman": "Current market value of assets"
+    },
+    {
+      "jargon": "Funding model",
+      "layman": "How banks get money to operate"
+    },
+    {
+      "jargon": "Exit option",
+      "layman": "Right to leave an investment early"
+    },
+    {
+      "jargon": "Collateral liquidation",
+      "layman": "Selling assets to cover losses"
+    },
+    {
+      "jargon": "Asset holding equilibrium",
+      "layman": "Stable investment choices over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Stable source of funding",
+      "layman": "Reliable money supply"
+    },
+    {
+      "jargon": "Fire-sale losses",
+      "layman": "Selling assets at very low prices"
+    },
+    {
+      "jargon": "Transitory price volatility",
+      "layman": "Short-term price swings"
+    },
+    {
+      "jargon": "Comparative advantage",
+      "layman": "Better at doing something specific"
+    },
+    {
+      "jargon": "Runs on banks",
+      "layman": "Many people withdrawing money at once"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Tarski-Kleene algebras",
+      "layman": "Mathematical systems for computing"
+    },
+    {
+      "jargon": "Kleene algebras",
+      "layman": "Mathematical systems for computing"
+    },
+    {
+      "jargon": "Relation algebras",
+      "layman": "Mathematical systems for relationships"
+    },
+    {
+      "jargon": "Theorem proving",
+      "layman": "Proving math statements"
+    },
+    {
+      "jargon": "Isabelle/HOL",
+      "layman": "Math software for proofs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Automated theorem proving",
+      "layman": "Computer that proves math theorems"
+    },
+    {
+      "jargon": "Theory engineering",
+      "layman": "Designing math theories"
+    },
+    {
+      "jargon": "Formal program development",
+      "layman": "Building software with math rules"
+    },
+    {
+      "jargon": "Repository implementation",
+      "layman": "Building a digital library of math"
+    },
+    {
+      "jargon": "Modeling",
+      "layman": "Creating examples to test ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Variants of Kleene algebras",
+      "layman": "Different forms of computing math"
+    },
+    {
+      "jargon": "Many models",
+      "layman": "Multiple real-world examples"
+    },
+    {
+      "jargon": "Application in program verification",
+      "layman": "Using math to check software"
+    },
+    {
+      "jargon": "Present state of repository",
+      "layman": "Current state of the system"
+    },
+    {
+      "jargon": "Future work directions",
+      "layman": "Next steps for improvement"
+    }
+  ]
+}

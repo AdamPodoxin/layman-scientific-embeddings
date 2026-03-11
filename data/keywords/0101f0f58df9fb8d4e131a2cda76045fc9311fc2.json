@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Theory interpretation",
+      "layman": "How one theory fits into another"
+    },
+    {
+      "jargon": "Axioms",
+      "layman": "Basic rules of a system"
+    },
+    {
+      "jargon": "Uninterpreted types and constants",
+      "layman": "Unknown elements in a model"
+    },
+    {
+      "jargon": "Theory instance",
+      "layman": "A specific version of a theory"
+    },
+    {
+      "jargon": "Specification",
+      "layman": "A formal description of what something should do"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mechanization",
+      "layman": "Automating complex reasoning"
+    },
+    {
+      "jargon": "Proof obligations",
+      "layman": "Tasks that must be proven true"
+    },
+    {
+      "jargon": "Theory parameter mechanism",
+      "layman": "Using one theory as input to another"
+    },
+    {
+      "jargon": "Importing theory instances",
+      "layman": "Adding a theory into a system"
+    },
+    {
+      "jargon": "Refinement",
+      "layman": "Making a detailed version of a simple one"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Consistency of a theory",
+      "layman": "Theory doesn't contradict itself"
+    },
+    {
+      "jargon": "Correct refinement",
+      "layman": "Implementation matches the specification"
+    },
+    {
+      "jargon": "Valid interpretation",
+      "layman": "A proper fit between theories"
+    },
+    {
+      "jargon": "Intended models",
+      "layman": "Desired real-world examples"
+    },
+    {
+      "jargon": "Public release",
+      "layman": "Official release to the public"
+    }
+  ]
+}

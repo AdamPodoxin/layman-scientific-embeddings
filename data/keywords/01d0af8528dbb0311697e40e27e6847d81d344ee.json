@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Fairweather fault",
+      "layman": "Major fault line"
+    },
+    {
+      "jargon": "Pacific\u2013North America transform margin",
+      "layman": "Boundary between Pacific and North American plates"
+    },
+    {
+      "jargon": "Chugach\u2013St. Elias belt",
+      "layman": "Mountain belt formed by colliding landmasses"
+    },
+    {
+      "jargon": "Orogenic deformation",
+      "layman": "Mountain-building forces"
+    },
+    {
+      "jargon": "Rock uplift",
+      "layman": "Earth's surface rising"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Low-temperature thermochronometry",
+      "layman": "Measuring rock cooling over time"
+    },
+    {
+      "jargon": "Apatite and zircon (U-Th)/He ages",
+      "layman": "Dating rocks using helium and uranium"
+    },
+    {
+      "jargon": "Bedrock cooling",
+      "layman": "Rock temperature dropping over time"
+    },
+    {
+      "jargon": "Thermochronometry",
+      "layman": "Tracking how rocks cool after movement"
+    },
+    {
+      "jargon": "Glaciation onset",
+      "layman": "Start of ice age conditions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Maximum exhumation rates of nearly 2 mm/a",
+      "layman": "Rocks lifted and exposed at 2 mm per year"
+    },
+    {
+      "jargon": "0.5 mm/a along the entire plate margin",
+      "layman": "Slow uplift across the whole plate border"
+    },
+    {
+      "jargon": "3 mm/a fault-normal convergence",
+      "layman": "Earth moves together at 3 mm per year"
+    },
+    {
+      "jargon": "Slightly transpressive fault",
+      "layman": "Fault pushing rocks together slightly"
+    },
+    {
+      "jargon": "Deficit of 1\u20132 cm/a thrust-sinistral motion",
+      "layman": "Missing motion taken by left-slip undersea fault"
+    }
+  ]
+}

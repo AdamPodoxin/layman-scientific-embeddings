@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Supergravity",
+      "layman": "Strong gravity theory"
+    },
+    {
+      "jargon": "Computational physics",
+      "layman": "Simulating physics on computers"
+    },
+    {
+      "jargon": "High-energy physics",
+      "layman": "Physics at very small scales"
+    },
+    {
+      "jargon": "Quantum fields",
+      "layman": "Tiny energy fields everywhere"
+    },
+    {
+      "jargon": "Gravitational interactions",
+      "layman": "How gravity works between things"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Computational computations",
+      "layman": "Using computers to solve problems"
+    },
+    {
+      "jargon": "Gravity complications",
+      "layman": "Hard parts of gravity calculations"
+    },
+    {
+      "jargon": "Theoretical modeling",
+      "layman": "Building math models of nature"
+    },
+    {
+      "jargon": "Field theory",
+      "layman": "Mathematical description of forces"
+    },
+    {
+      "jargon": "Renormalization",
+      "layman": "Fixing infinite values in math models"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "No gravity complications",
+      "layman": "Cleaner results without messy gravity effects"
+    },
+    {
+      "jargon": "Exact results",
+      "layman": "Precise mathematical answers"
+    },
+    {
+      "jargon": "Consistent predictions",
+      "layman": "Predictions that match known data"
+    },
+    {
+      "jargon": "High-precision calculations",
+      "layman": "Very accurate computer results"
+    },
+    {
+      "jargon": "Simplified framework",
+      "layman": "Easier way to understand complex physics"
+    }
+  ]
+}

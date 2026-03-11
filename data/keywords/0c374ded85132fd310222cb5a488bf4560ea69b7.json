@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Biography",
+      "layman": "Biography"
+    },
+    {
+      "jargon": "Autobiography",
+      "layman": "Autobiography"
+    },
+    {
+      "jargon": "Contemporary biographers",
+      "layman": "Modern biographers"
+    },
+    {
+      "jargon": "Fiction",
+      "layman": "Fiction"
+    },
+    {
+      "jargon": "Literary politics",
+      "layman": "Literary politics"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Ethical analysis",
+      "layman": "Review of moral principles"
+    },
+    {
+      "jargon": "Literary warfare",
+      "layman": "Conflict between writers"
+    },
+    {
+      "jargon": "Satire",
+      "layman": "Humorous criticism"
+    },
+    {
+      "jargon": "Polemics",
+      "layman": "Strong arguments against something"
+    },
+    {
+      "jargon": "Unpublished piece",
+      "layman": "Previously unseen writing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Revelations",
+      "layman": "Surprising disclosures"
+    },
+    {
+      "jargon": "Internal literary conflict",
+      "layman": "Writers fighting among themselves"
+    },
+    {
+      "jargon": "Biographical insight",
+      "layman": "Deeper understanding of a person"
+    },
+    {
+      "jargon": "Personal adventures",
+      "layman": "Personal experiences shared"
+    },
+    {
+      "jargon": "Literary progress",
+      "layman": "Improvement in writing skills"
+    }
+  ]
+}

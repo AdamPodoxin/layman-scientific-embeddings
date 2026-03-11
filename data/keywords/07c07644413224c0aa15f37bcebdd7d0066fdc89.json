@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Eucomed",
+      "layman": "Medical tech trade group"
+    },
+    {
+      "jargon": "Medical technology industry",
+      "layman": "Medical device sector"
+    },
+    {
+      "jargon": "European business",
+      "layman": "Business in Europe"
+    },
+    {
+      "jargon": "Key initiatives",
+      "layman": "Major projects"
+    },
+    {
+      "jargon": "Trade association",
+      "layman": "Industry group"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reports",
+      "layman": "Official summaries"
+    },
+    {
+      "jargon": "Industry outlook",
+      "layman": "Future predictions"
+    },
+    {
+      "jargon": "Key initiatives",
+      "layman": "Major projects"
+    },
+    {
+      "jargon": "Annual review",
+      "layman": "Yearly summary"
+    },
+    {
+      "jargon": "Industry analysis",
+      "layman": "Study of industry trends"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "2003 initiatives",
+      "layman": "Actions taken in 2003"
+    },
+    {
+      "jargon": "Industry expectations",
+      "layman": "What the industry will do next"
+    },
+    {
+      "jargon": "Trade association reports",
+      "layman": "Official industry updates"
+    },
+    {
+      "jargon": "Key developments",
+      "layman": "Major changes"
+    },
+    {
+      "jargon": "Business trends",
+      "layman": "Patterns in business growth"
+    }
+  ]
+}

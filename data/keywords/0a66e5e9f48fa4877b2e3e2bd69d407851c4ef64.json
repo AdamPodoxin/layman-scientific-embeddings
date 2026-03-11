@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bank coalitions",
+      "layman": "Groups of banks working together"
+    },
+    {
+      "jargon": "External aggregate shock",
+      "layman": "Big economic event from outside"
+    },
+    {
+      "jargon": "Payment mechanism",
+      "layman": "System for transferring money"
+    },
+    {
+      "jargon": "Banking assets",
+      "layman": "Money and investments banks hold"
+    },
+    {
+      "jargon": "Real economic activity",
+      "layman": "Actual production and trade"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Framework to analyze",
+      "layman": "Model to study"
+    },
+    {
+      "jargon": "Insurance mechanism",
+      "layman": "Safety net for losses"
+    },
+    {
+      "jargon": "Response to shock",
+      "layman": "How banks react to crisis"
+    },
+    {
+      "jargon": "Equilibrium quantities",
+      "layman": "Stable levels of goods and services"
+    },
+    {
+      "jargon": "Disruption prevention",
+      "layman": "Stopping economic breakdown"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Complete prevention of disruption",
+      "layman": "No economic crash"
+    },
+    {
+      "jargon": "Substantial mitigation",
+      "layman": "Reduced damage"
+    },
+    {
+      "jargon": "Disruption in real activity",
+      "layman": "Economic collapse"
+    },
+    {
+      "jargon": "Temporary drop in asset value",
+      "layman": "Sudden loss in bank value"
+    },
+    {
+      "jargon": "Equilibrium prices",
+      "layman": "Stable prices in market"
+    }
+  ]
+}

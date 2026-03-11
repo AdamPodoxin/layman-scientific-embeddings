@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "CdxCo1\u2212x+tTitFe2\u22122tO4",
+      "layman": "Titanium-coated cobalt-cadmium ferrite"
+    },
+    {
+      "jargon": "Spinel structure",
+      "layman": "Crystal lattice pattern"
+    },
+    {
+      "jargon": "Lattice parameter",
+      "layman": "Crystal size measurement"
+    },
+    {
+      "jargon": "Density",
+      "layman": "How tightly packed the material is"
+    },
+    {
+      "jargon": "Porosity",
+      "layman": "Empty spaces in the material"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Double sintering ceramic technique",
+      "layman": "Two-step heating to form solid material"
+    },
+    {
+      "jargon": "X-ray diffraction",
+      "layman": "X-ray scan to see crystal structure"
+    },
+    {
+      "jargon": "Temperature and magnetic field dependence",
+      "layman": "How properties change with heat and magnetism"
+    },
+    {
+      "jargon": "Effective magnetic moment",
+      "layman": "Overall magnetic strength of the material"
+    },
+    {
+      "jargon": "Mechanical pressure",
+      "layman": "Physical squeezing or compression"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Curie temperature",
+      "layman": "Point where material loses magnetism"
+    },
+    {
+      "jargon": "Susceptibility",
+      "layman": "How easily material is magnetized"
+    },
+    {
+      "jargon": "dc resistivity",
+      "layman": "Electrical resistance at steady current"
+    },
+    {
+      "jargon": "Increased effective magnetic moment",
+      "layman": "Stronger overall magnetism"
+    },
+    {
+      "jargon": "Increase in Curie temperature up to t=0.15",
+      "layman": "Magnetism lasts longer at higher heat"
+    }
+  ]
+}

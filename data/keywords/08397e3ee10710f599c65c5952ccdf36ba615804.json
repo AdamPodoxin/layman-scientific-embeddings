@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "The Tale of Genji",
+      "layman": "Classic Heian-era novel"
+    },
+    {
+      "jargon": "Heian period",
+      "layman": "Ancient Japanese court era"
+    },
+    {
+      "jargon": "Late Heian fiction",
+      "layman": "Later Heian-era stories"
+    },
+    {
+      "jargon": "The Tale of Sagoromo",
+      "layman": "Heian story about Sagoromo"
+    },
+    {
+      "jargon": "The Tale of the Hamamatsu Middle Counselor",
+      "layman": "Heian story about a government official"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical reception",
+      "layman": "How works are judged by experts"
+    },
+    {
+      "jargon": "Cultural and political milieu",
+      "layman": "Social and political context"
+    },
+    {
+      "jargon": "Plot analysis",
+      "layman": "Examining story structure"
+    },
+    {
+      "jargon": "Character analysis",
+      "layman": "Studying characters"
+    },
+    {
+      "jargon": "Motif analysis",
+      "layman": "Looking at recurring themes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Literary canon",
+      "layman": "Official list of important works"
+    },
+    {
+      "jargon": "Readerly expectations",
+      "layman": "What readers expect from stories"
+    },
+    {
+      "jargon": "Literary legacy",
+      "layman": "Influence of a classic work"
+    },
+    {
+      "jargon": "Fictional commentaries",
+      "layman": "Stories that respond to earlier works"
+    },
+    {
+      "jargon": "Tropes and subplots",
+      "layman": "Recurring story patterns"
+    }
+  ]
+}

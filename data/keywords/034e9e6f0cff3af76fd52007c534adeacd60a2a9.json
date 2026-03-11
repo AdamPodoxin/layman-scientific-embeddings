@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hayden White",
+      "layman": "Hayden White"
+    },
+    {
+      "jargon": "Historians",
+      "layman": "People who write history"
+    },
+    {
+      "jargon": "Historical data",
+      "layman": "Records of past events"
+    },
+    {
+      "jargon": "Philosophy of history",
+      "layman": "How history is understood as a discipline"
+    },
+    {
+      "jargon": "Structures",
+      "layman": "Patterns or frameworks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Systematic review",
+      "layman": "Careful, organized analysis"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Thinking deeply about ideas"
+    },
+    {
+      "jargon": "Unifying vision",
+      "layman": "Single clear explanation"
+    },
+    {
+      "jargon": "Critical engagement",
+      "layman": "Careful and thoughtful discussion"
+    },
+    {
+      "jargon": "Scholarly fashion",
+      "layman": "Academic and careful approach"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Freedom of choice",
+      "layman": "Ability to make decisions"
+    },
+    {
+      "jargon": "Responsibility for structures",
+      "layman": "Being held accountable for patterns"
+    },
+    {
+      "jargon": "Plasticity in history writing",
+      "layman": "Flexibility in how history is told"
+    },
+    {
+      "jargon": "Guiding theme",
+      "layman": "Main idea throughout the work"
+    },
+    {
+      "jargon": "Philosophical question",
+      "layman": "A deep, thought-provoking question"
+    }
+  ]
+}

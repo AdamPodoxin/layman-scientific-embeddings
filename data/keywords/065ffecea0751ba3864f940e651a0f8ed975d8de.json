@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quantum ensembles",
+      "layman": "Groups of quantum particles"
+    },
+    {
+      "jargon": "Entanglement",
+      "layman": "Linked quantum states"
+    },
+    {
+      "jargon": "Ideal quantum ensembles",
+      "layman": "Perfectly synchronized quantum groups"
+    },
+    {
+      "jargon": "Quantum states",
+      "layman": "Quantum conditions of particles"
+    },
+    {
+      "jargon": "Particles",
+      "layman": "Tiny building blocks of matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Entanglement generation",
+      "layman": "Creating linked quantum states"
+    },
+    {
+      "jargon": "State preparation",
+      "layman": "Setting up quantum conditions"
+    },
+    {
+      "jargon": "Measurement protocols",
+      "layman": "Rules for observing quantum states"
+    },
+    {
+      "jargon": "Quantum coherence",
+      "layman": "Stable quantum state over time"
+    },
+    {
+      "jargon": "Ensemble averaging",
+      "layman": "Taking average from many particle groups"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Perfect correlation",
+      "layman": "Exact matching of results"
+    },
+    {
+      "jargon": "Violation of Bell inequalities",
+      "layman": "Proving quantum links are stronger than classical"
+    },
+    {
+      "jargon": "High fidelity",
+      "layman": "Accurate quantum state copying"
+    },
+    {
+      "jargon": "No classical explanation",
+      "layman": "No ordinary reason for the results"
+    },
+    {
+      "jargon": "Paper withdrawn",
+      "layman": "Study canceled due to prior work"
+    }
+  ]
+}

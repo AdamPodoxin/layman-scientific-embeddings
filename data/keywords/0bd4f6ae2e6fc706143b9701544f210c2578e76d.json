@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Puiseux series",
+      "layman": "Special mathematical series"
+    },
+    {
+      "jargon": "Oscillatory integrals",
+      "layman": "Wiggly integrals"
+    },
+    {
+      "jargon": "Smooth adapted coordinates",
+      "layman": "Smooth coordinate system"
+    },
+    {
+      "jargon": "Singularities",
+      "layman": "Sharp points or breaks"
+    },
+    {
+      "jargon": "Real-analytic case",
+      "layman": "Smooth, well-behaved functions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Newton's method",
+      "layman": "Iterative calculation process"
+    },
+    {
+      "jargon": "Resolution of singularities",
+      "layman": "Fixing sharp points in math"
+    },
+    {
+      "jargon": "Infinite recursive process",
+      "layman": "Repeated step-by-step calculation"
+    },
+    {
+      "jargon": "Elementary arguments",
+      "layman": "Simple, basic reasoning"
+    },
+    {
+      "jargon": "Convergence proof",
+      "layman": "Showing a series settles down"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Existence of Puiseux series",
+      "layman": "Series exists"
+    },
+    {
+      "jargon": "Convergence of Puiseux series",
+      "layman": "Series stabilizes"
+    },
+    {
+      "jargon": "Existence of smooth adapted coordinates",
+      "layman": "Smooth coordinates exist"
+    },
+    {
+      "jargon": "Proof in two dimensions",
+      "layman": "Result in 2D space"
+    },
+    {
+      "jargon": "General smooth case",
+      "layman": "Works for all smooth cases"
+    }
+  ]
+}

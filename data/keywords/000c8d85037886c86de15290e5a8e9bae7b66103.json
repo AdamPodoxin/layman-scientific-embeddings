@@ -5,64 +5,55 @@
       "layman": "Ancient Greek drama"
     },
     {
-      "jargon": "American Modern Dance",
-      "layman": "Modern dance in the U.S."
+      "jargon": "American Theater",
+      "layman": "U.S. stage performances"
+    },
+    {
+      "jargon": "Modern Dance",
+      "layman": "Contemporary dance style"
     },
     {
       "jargon": "Gesamtkunstwerke",
       "layman": "Total art experience"
     },
     {
-      "jargon": "Theban Cycles",
-      "layman": "A series of Greek tragedies about Thebes"
-    },
-    {
-      "jargon": "Oedipus Tyrannus",
-      "layman": "Oedipus the King"
+      "jargon": "Oedipus",
+      "layman": "Tragic hero with family secrets"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Performance groups",
-      "layman": "Theater companies"
+      "jargon": "Choreography",
+      "layman": "Dance composition"
     },
     {
-      "jargon": "Visual choreography",
-      "layman": "Movement with visual design"
+      "jargon": "Musical Theater",
+      "layman": "Dance and song in performance"
     },
-    {
-      "jargon": "Choreography and music",
-      "layman": "Movement and music together"
-    },
-    {
-      "jargon": "Reenvisioning",
-      "layman": "Rewriting the story"
-    },
-    {
-      "jargon": "Deconstructing fatality",
-      "layman": "Breaking down fate"
-    }
+    "visual choreography",
+    "performance groups",
+    "reimagining"
   ],
   "outcomes": [
     {
       "jargon": "Democratizing Greek Tragedy",
-      "layman": "Making tragedy more accessible"
+      "layman": "Making tragedies accessible to all"
     },
     {
-      "jargon": "Political reinterpretation",
-      "layman": "Telling tragedy with political meaning"
+      "jargon": "Reenvisioning the Hero",
+      "layman": "Changing how heroes are portrayed"
     },
     {
-      "jargon": "Medea as ethnic other",
-      "layman": "Medea as a minority figure"
+      "jargon": "Deconstructing Fatality",
+      "layman": "Challenging the idea of fate"
     },
     {
-      "jargon": "Communal reconciliation",
-      "layman": "Peace among people"
+      "jargon": "Medea as Ethnic Other",
+      "layman": "Medea seen as a minority figure"
     },
     {
-      "jargon": "Abandonment",
-      "layman": "Being left behind"
+      "jargon": "Plagues",
+      "layman": "Disease as a plot device"
     }
   ]
 }

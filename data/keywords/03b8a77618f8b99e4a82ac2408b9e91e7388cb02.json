@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Light dynamical quarks",
+      "layman": "Light quarks that move and interact"
+    },
+    {
+      "jargon": "Hadron physics",
+      "layman": "Study of particles made of quarks"
+    },
+    {
+      "jargon": "QCD",
+      "layman": "Theory of how quarks bind"
+    },
+    {
+      "jargon": "Scalar form factor",
+      "layman": "Measure of how particles interact in decay"
+    },
+    {
+      "jargon": "Kmu3 decay",
+      "layman": "Type of particle decay involving kaons"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lattice QCD",
+      "layman": "Computer simulation of quark behavior"
+    },
+    {
+      "jargon": "NA48 experiment",
+      "layman": "Particle collision study at CERN"
+    },
+    {
+      "jargon": "KTeV experiment",
+      "layman": "Particle decay study at Fermilab"
+    },
+    {
+      "jargon": "Effective low energy theory",
+      "layman": "Simple model for slow particle interactions"
+    },
+    {
+      "jargon": "Progress in lattice simulations",
+      "layman": "Improved computer-based quark modeling"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Puzzling results",
+      "layman": "Unexplained findings"
+    },
+    {
+      "jargon": "Physics beyond Standard Model",
+      "layman": "New physics not yet explained"
+    },
+    {
+      "jargon": "Significance of progress",
+      "layman": "Important advances in understanding"
+    },
+    {
+      "jargon": "Face value interpretation",
+      "layman": "Taking results at first glance"
+    },
+    {
+      "jargon": "Scalar form factor measurements",
+      "layman": "Data on how particles behave in decay"
+    }
+  ]
+}

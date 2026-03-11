@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mineral facies",
+      "layman": "Types of minerals"
+    },
+    {
+      "jargon": "Pelitic rocks",
+      "layman": "Clay-rich rocks"
+    },
+    {
+      "jargon": "Andalusite",
+      "layman": "Hard mineral"
+    },
+    {
+      "jargon": "Cordierite",
+      "layman": "Hard mineral"
+    },
+    {
+      "jargon": "Staurolite",
+      "layman": "Hard mineral"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Regional metamorphism",
+      "layman": "Widespread rock transformation"
+    },
+    {
+      "jargon": "Mineral assemblages",
+      "layman": "Groups of minerals together"
+    },
+    {
+      "jargon": "Isograd forming reactions",
+      "layman": "Reactions marking grade changes"
+    },
+    {
+      "jargon": "Bulk rock analyses",
+      "layman": "Overall rock composition tests"
+    },
+    {
+      "jargon": "Mineral analyses",
+      "layman": "Testing mineral makeup"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Biotite zone",
+      "layman": "Low-grade mineral zone"
+    },
+    {
+      "jargon": "Cordierite zone",
+      "layman": "Medium-grade mineral zone"
+    },
+    {
+      "jargon": "Andalusite zone",
+      "layman": "Higher-grade mineral zone"
+    },
+    {
+      "jargon": "Staurolite zone",
+      "layman": "Highest-grade mineral zone"
+    },
+    {
+      "jargon": "Mg enrichment",
+      "layman": "More magnesium in rocks"
+    }
+  ]
+}

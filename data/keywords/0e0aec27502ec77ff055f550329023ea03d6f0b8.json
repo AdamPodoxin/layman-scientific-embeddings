@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Capital flows",
+      "layman": "Money moving between countries"
+    },
+    {
+      "jargon": "Advanced economies",
+      "layman": "Rich, developed countries"
+    },
+    {
+      "jargon": "Emerging market economies",
+      "layman": "Growing economies"
+    },
+    {
+      "jargon": "Central bank balance sheets",
+      "layman": "Banks' records of money they hold"
+    },
+    {
+      "jargon": "Monetary policy",
+      "layman": "How central banks control money supply"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Monetary policy measures",
+      "layman": "Interest rate changes"
+    },
+    {
+      "jargon": "Macroprudential instruments",
+      "layman": "Tools to manage financial risk"
+    },
+    {
+      "jargon": "Fiscal policy measures",
+      "layman": "Government spending and tax changes"
+    },
+    {
+      "jargon": "Credit growth",
+      "layman": "More loans being given"
+    },
+    {
+      "jargon": "Foreign exchange appreciation",
+      "layman": "Currency becomes stronger"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Deflation risk",
+      "layman": "Prices falling too much"
+    },
+    {
+      "jargon": "Policy rates approaching zero",
+      "layman": "Interest rates near minimum"
+    },
+    {
+      "jargon": "Currency depreciation",
+      "layman": "Currency loses value"
+    },
+    {
+      "jargon": "Negative growth",
+      "layman": "Economy shrinking"
+    },
+    {
+      "jargon": "Surge in capital inflows",
+      "layman": "Rapid increase in foreign money"
+    }
+  ]
+}

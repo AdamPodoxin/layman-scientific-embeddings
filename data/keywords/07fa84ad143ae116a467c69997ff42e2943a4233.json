@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Biosafety Level-4 facility",
+      "layman": "Highest-security lab for dangerous diseases"
+    },
+    {
+      "jargon": "Bioterrorism",
+      "layman": "Using disease to cause harm"
+    },
+    {
+      "jargon": "Public health infrastructure",
+      "layman": "Systems for protecting people from disease"
+    },
+    {
+      "jargon": "Biopolitical formations",
+      "layman": "Ways society organizes life and risk"
+    },
+    {
+      "jargon": "Biological citizenship",
+      "layman": "People\u2019s rights and roles in disease control"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interview",
+      "layman": "Talking to people for insight"
+    },
+    {
+      "jargon": "Observation",
+      "layman": "Watching people and environments"
+    },
+    {
+      "jargon": "Historical research",
+      "layman": "Studying past events and records"
+    },
+    {
+      "jargon": "Multi-sited study",
+      "layman": "Looking at multiple places together"
+    },
+    {
+      "jargon": "Risk assessment",
+      "layman": "Evaluating how likely a threat is"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Public fear of microbes",
+      "layman": "People\u2019s anxiety about germs"
+    },
+    {
+      "jargon": "Environmental geographies",
+      "layman": "How land and space are shaped by risk"
+    },
+    {
+      "jargon": "New spaces of biological citizenship",
+      "layman": "New ways people engage with health and safety"
+    },
+    {
+      "jargon": "Community protest",
+      "layman": "People gathering to express concern"
+    },
+    {
+      "jargon": "Biopreparedness programs",
+      "layman": "Plans to prepare for biological threats"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Fungal evolution",
+      "layman": "Change in fungi over time"
+    },
+    {
+      "jargon": "Plant\u2013fungus interactions",
+      "layman": "How plants and fungi work together"
+    },
+    {
+      "jargon": "Molecular phylogenetics",
+      "layman": "Family tree from DNA"
+    },
+    {
+      "jargon": "Fossil evidence",
+      "layman": "Ancient remains"
+    },
+    {
+      "jargon": "Aquatic\u2013terrestrial transitions",
+      "layman": "Moving from water to land"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Molecular phylogenetics",
+      "layman": "Family tree from DNA"
+    },
+    {
+      "jargon": "Fossil record",
+      "layman": "Ancient rock layers with traces"
+    },
+    {
+      "jargon": "Direct fossil evidence",
+      "layman": "Fossils showing real plant-fungus links"
+    },
+    {
+      "jargon": "Evolutionary history",
+      "layman": "How species changed over time"
+    },
+    {
+      "jargon": "Coevolution",
+      "layman": "Both species change together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hypotheses",
+      "layman": "Possible explanations"
+    },
+    {
+      "jargon": "Fungal diversity",
+      "layman": "Range of fungal types"
+    },
+    {
+      "jargon": "Origin of fungi",
+      "layman": "First appearance of fungi"
+    },
+    {
+      "jargon": "Evolutionary history",
+      "layman": "How fungi changed over time"
+    },
+    {
+      "jargon": "Key traits",
+      "layman": "Important features for survival"
+    }
+  ]
+}

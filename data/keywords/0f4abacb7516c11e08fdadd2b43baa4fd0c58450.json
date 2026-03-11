@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Wildlife ecology",
+      "layman": "Study of animals and their environments"
+    },
+    {
+      "jargon": "Plant ecology",
+      "layman": "Study of plants and their environments"
+    },
+    {
+      "jargon": "Ecosystem ecology",
+      "layman": "Study of how organisms and their environment interact"
+    },
+    {
+      "jargon": "Landscape ecology",
+      "layman": "Study of how land features affect nature across areas"
+    },
+    {
+      "jargon": "South Florida Water Management District",
+      "layman": "Water management agency in South Florida"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Short-term studies",
+      "layman": "Quick observations over a few months"
+    },
+    {
+      "jargon": "Long-term studies",
+      "layman": "Long observations over years"
+    },
+    {
+      "jargon": "Environmental monitoring",
+      "layman": "Regular tracking of environmental conditions"
+    },
+    {
+      "jargon": "Regulations and permitting",
+      "layman": "Rules and approvals for environmental projects"
+    },
+    {
+      "jargon": "Everglades Forever Act",
+      "layman": "Law to protect the Everglades"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "CERP",
+      "layman": "Everglades restoration plan"
+    },
+    {
+      "jargon": "Water management operations",
+      "layman": "Managing water flow and use"
+    },
+    {
+      "jargon": "Mandates",
+      "layman": "Required actions or goals"
+    },
+    {
+      "jargon": "Ecological effects",
+      "layman": "Changes in nature due to water flow"
+    },
+    {
+      "jargon": "Restoration plan",
+      "layman": "Plan to repair damaged ecosystems"
+    }
+  ]
+}

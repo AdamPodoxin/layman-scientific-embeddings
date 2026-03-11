@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "EM1-arithmetic",
+      "layman": "Simple arithmetic without nested rules"
+    },
+    {
+      "jargon": "Classical proofs",
+      "layman": "Standard mathematical arguments"
+    },
+    {
+      "jargon": "Interactive learning strategies",
+      "layman": "Step-by-step learning processes"
+    },
+    {
+      "jargon": "Standard interpretation",
+      "layman": "Real-world values for basic facts"
+    },
+    {
+      "jargon": "Closed atomic formulas",
+      "layman": "Simple true or false statements"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Realizability interpretation",
+      "layman": "Turning proofs into actions"
+    },
+    {
+      "jargon": "Program extraction",
+      "layman": "Getting code from proofs"
+    },
+    {
+      "jargon": "Proof interpretation",
+      "layman": "Understanding proofs as processes"
+    },
+    {
+      "jargon": "Compositional method",
+      "layman": "Pieces fit together smoothly"
+    },
+    {
+      "jargon": "Interactive interaction",
+      "layman": "Learning by exchanging information"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Faithful with respect to proofs",
+      "layman": "Accurate program generation"
+    },
+    {
+      "jargon": "No translation needed",
+      "layman": "Direct conversion from proof to code"
+    },
+    {
+      "jargon": "Nested quantifiers",
+      "layman": "Repeated or layered rules"
+    },
+    {
+      "jargon": "Quantifier-free arithmetic",
+      "layman": "Arithmetic without variables"
+    },
+    {
+      "jargon": "Learning by interaction",
+      "layman": "Gaining knowledge through dialogue"
+    }
+  ]
+}

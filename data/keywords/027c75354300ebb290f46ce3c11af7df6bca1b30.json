@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lisp",
+      "layman": "Programming language"
+    },
+    {
+      "jargon": "PDP-6",
+      "layman": "Old computer system"
+    },
+    {
+      "jargon": "Interlisp",
+      "layman": "Lisp version for early computers"
+    },
+    {
+      "jargon": "MacLisp",
+      "layman": "Lisp version for Mac computers"
+    },
+    {
+      "jargon": "Lisp machines",
+      "layman": "Special computers for running Lisp"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Language extension",
+      "layman": "Adding new features to a language"
+    },
+    {
+      "jargon": "Dialect implementation",
+      "layman": "Creating a new version of a language"
+    },
+    {
+      "jargon": "Technical cleverness",
+      "layman": "Smart engineering tricks"
+    },
+    {
+      "jargon": "Standardization activities",
+      "layman": "Making rules for uniform use"
+    },
+    {
+      "jargon": "Design issues",
+      "layman": "Problems in how a language is built"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Industrial-strength programming language",
+      "layman": "Powerful for real-world use"
+    },
+    {
+      "jargon": "Technically pure dialect",
+      "layman": "Simple and clean for theory"
+    },
+    {
+      "jargon": "Hacker culture",
+      "layman": "Culture of smart, playful innovation"
+    },
+    {
+      "jargon": "One-upsmanship",
+      "layman": "Competition to outdo others"
+    },
+    {
+      "jargon": "Representative language features",
+      "layman": "Key elements that show design choices"
+    }
+  ]
+}

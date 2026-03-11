@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "GIT-fans",
+      "layman": "Geometric invariant theory fans"
+    },
+    {
+      "jargon": "Quivers",
+      "layman": "Directed graphs of vectors"
+    },
+    {
+      "jargon": "G-varieties",
+      "layman": "Spaces with group actions"
+    },
+    {
+      "jargon": "Affine G-varieties",
+      "layman": "Flat spaces with group actions"
+    },
+    {
+      "jargon": "Oriented cycles",
+      "layman": "Closed loops with direction"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "GIT-equivalence",
+      "layman": "Equality under group symmetry"
+    },
+    {
+      "jargon": "Construction of GIT-fan",
+      "layman": "Building the fan structure"
+    },
+    {
+      "jargon": "Cox rings",
+      "layman": "Ring of polynomial functions on a space"
+    },
+    {
+      "jargon": "Geometric Invariant Theory",
+      "layman": "Method to study symmetric spaces"
+    },
+    {
+      "jargon": "Group actions",
+      "layman": "Symmetries applied to objects"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Normal affine G-varieties",
+      "layman": "Well-behaved symmetric spaces"
+    },
+    {
+      "jargon": "Simpler construction",
+      "layman": "Easier method to build"
+    },
+    {
+      "jargon": "No oriented cycles",
+      "layman": "No closed loops with direction"
+    },
+    {
+      "jargon": "Geometriae Dedicata",
+      "layman": "Mathematical journal"
+    },
+    {
+      "jargon": "Cox rings",
+      "layman": "Polynomial structure for geometry"
+    }
+  ]
+}

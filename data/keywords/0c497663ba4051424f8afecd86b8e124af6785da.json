@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Metahistory",
+      "layman": "History of history"
+    },
+    {
+      "jargon": "Rhetoric of history",
+      "layman": "How history is told"
+    },
+    {
+      "jargon": "Positivism",
+      "layman": "Scientific view of history"
+    },
+    {
+      "jargon": "Linguistic turn",
+      "layman": "Shift to language in understanding history"
+    },
+    {
+      "jargon": "Anthropology",
+      "layman": "Study of human cultures"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Rhetorical analysis",
+      "layman": "Analyzing how stories are told"
+    },
+    {
+      "jargon": "Historical interpretation",
+      "layman": "How historians understand past events"
+    },
+    {
+      "jargon": "Disciplinary extension",
+      "layman": "Applying ideas to other fields"
+    },
+    {
+      "jargon": "Response to theory",
+      "layman": "How others react to a new idea"
+    },
+    {
+      "jargon": "Critical engagement",
+      "layman": "Careful discussion and debate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Second revival",
+      "layman": "Second wave of interest"
+    },
+    {
+      "jargon": "Negative or positive responses",
+      "layman": "Criticism or praise"
+    },
+    {
+      "jargon": "Cross-disciplinary use",
+      "layman": "Used in other subjects"
+    },
+    {
+      "jargon": "Trend before 1973",
+      "layman": "Pattern before 1973"
+    },
+    {
+      "jargon": "Trend after 1973",
+      "layman": "Pattern after 1973"
+    }
+  ]
+}

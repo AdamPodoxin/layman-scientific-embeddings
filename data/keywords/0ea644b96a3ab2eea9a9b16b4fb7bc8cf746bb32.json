@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Obliq",
+      "layman": "Obliq"
+    },
+    {
+      "jargon": "Distributed objects",
+      "layman": "Objects that exist on different computers"
+    },
+    {
+      "jargon": "Lexically-scoped",
+      "layman": "Scope based on code location"
+    },
+    {
+      "jargon": "Network connections",
+      "layman": "Links between computers"
+    },
+    {
+      "jargon": "State",
+      "layman": "Data stored by an object"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Distributed lexical scoping",
+      "layman": "Managing code access across computers"
+    },
+    {
+      "jargon": "Roam over the network",
+      "layman": "Move computations between computers"
+    },
+    {
+      "jargon": "Interpreted language",
+      "layman": "Language executed directly, not compiled"
+    },
+    {
+      "jargon": "Object-oriented computation",
+      "layman": "Computing using objects with behaviors"
+    },
+    {
+      "jargon": "Local to a site",
+      "layman": "Bound to a specific computer location"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Distributed object-oriented computation",
+      "layman": "Computing across devices using objects"
+    },
+    {
+      "jargon": "Maintaining network connections",
+      "layman": "Staying connected while moving"
+    },
+    {
+      "jargon": "Lexically-scoped language",
+      "layman": "Code scope defined by where it's written"
+    },
+    {
+      "jargon": "Untyped language",
+      "layman": "No strict rules about data types"
+    },
+    {
+      "jargon": "Networked computation",
+      "layman": "Computing that works across multiple devices"
+    }
+  ]
+}

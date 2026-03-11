@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Atopic eczema",
+      "layman": "Itchy skin condition"
+    },
+    {
+      "jargon": "Spinal manipulative therapy",
+      "layman": "Spinal adjustments"
+    },
+    {
+      "jargon": "Excoriation",
+      "layman": "Skin scratching"
+    },
+    {
+      "jargon": "Pruritus",
+      "layman": "Itching"
+    },
+    {
+      "jargon": "Oedema",
+      "layman": "Swelling"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Diversified technique",
+      "layman": "Type of spinal adjustment"
+    },
+    {
+      "jargon": "Questionnaire",
+      "layman": "Symptom survey"
+    },
+    {
+      "jargon": "Photographic evidence",
+      "layman": "Before-and-after photos"
+    },
+    {
+      "jargon": "Weekly treatment schedule",
+      "layman": "Once-a-week visits"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "Single patient analysis"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Marked improvement",
+      "layman": "Big symptom reduction"
+    },
+    {
+      "jargon": "Psychological ease",
+      "layman": "Less stress and anxiety"
+    },
+    {
+      "jargon": "Lesions",
+      "layman": "Skin bumps or sores"
+    },
+    {
+      "jargon": "Symptom intensity",
+      "layman": "How bad symptoms feel"
+    },
+    {
+      "jargon": "Treatment efficacy",
+      "layman": "How well treatment works"
+    }
+  ]
+}

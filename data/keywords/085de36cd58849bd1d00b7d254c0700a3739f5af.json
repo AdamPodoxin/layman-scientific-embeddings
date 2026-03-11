@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Economic thought",
+      "layman": "Ideas about how economies work"
+    },
+    {
+      "jargon": "Theoretical systems",
+      "layman": "Complete economic models"
+    },
+    {
+      "jargon": "Intellectual climate",
+      "layman": "The environment of ideas and beliefs"
+    },
+    {
+      "jargon": "Historical development",
+      "layman": "How ideas have changed over time"
+    },
+    {
+      "jargon": "Economic theories",
+      "layman": "Explanations of economic behavior"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "History-of-ideas approach",
+      "layman": "Studying how ideas evolved"
+    },
+    {
+      "jargon": "Contextual analysis",
+      "layman": "Understanding the background of ideas"
+    },
+    {
+      "jargon": "Theoretical reconstruction",
+      "layman": "Building back how theories were formed"
+    },
+    {
+      "jargon": "Comparative survey",
+      "layman": "Looking at different theories side by side"
+    },
+    {
+      "jargon": "Intellectual history",
+      "layman": "Tracing the development of ideas over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Contemporary developments",
+      "layman": "Modern economic ideas"
+    },
+    {
+      "jargon": "Remarkable growth in research",
+      "layman": "Big increase in studies"
+    },
+    {
+      "jargon": "Fundamental ideas",
+      "layman": "Core economic principles"
+    },
+    {
+      "jargon": "Theoretical evolution",
+      "layman": "How theories changed and developed"
+    },
+    {
+      "jargon": "New economic theories",
+      "layman": "Updated economic explanations"
+    }
+  ]
+}

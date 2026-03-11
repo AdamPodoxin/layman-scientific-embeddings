@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Patient",
+      "layman": "Patient"
+    },
+    {
+      "jargon": "Treatment plan",
+      "layman": "Care schedule"
+    },
+    {
+      "jargon": "Clinic visit",
+      "layman": "Doctor appointment"
+    },
+    {
+      "jargon": "Previous visits",
+      "layman": "Past appointments"
+    },
+    {
+      "jargon": "Morally reprehensible",
+      "layman": "Unethical behavior"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Treatment plan endorsement",
+      "layman": "Agreeing on care steps"
+    },
+    {
+      "jargon": "Presenting to clinic",
+      "layman": "Going to doctor"
+    },
+    {
+      "jargon": "Professional frustration",
+      "layman": "Doctor feels upset"
+    },
+    {
+      "jargon": "Personal frustration",
+      "layman": "Personal upset"
+    },
+    {
+      "jargon": "Follow-up care",
+      "layman": "Sticking to treatment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Frustrate us professionally",
+      "layman": "Cause doctor stress"
+    },
+    {
+      "jargon": "Frustrate us personally",
+      "layman": "Hurt personal feelings"
+    },
+    {
+      "jargon": "Non-compliance",
+      "layman": "Not following care"
+    },
+    {
+      "jargon": "Treatment deviation",
+      "layman": "Deviating from care plan"
+    },
+    {
+      "jargon": "Clinic dissatisfaction",
+      "layman": "Doctor feels unhappy"
+    }
+  ]
+}

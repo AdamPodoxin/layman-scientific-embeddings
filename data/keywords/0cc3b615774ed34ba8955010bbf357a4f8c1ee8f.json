@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Random variables",
+      "layman": "Outcomes with uncertainty"
+    },
+    {
+      "jargon": "Borel sets",
+      "layman": "Groups of possible events"
+    },
+    {
+      "jargon": "Present portfolio",
+      "layman": "Current investment bundle"
+    },
+    {
+      "jargon": "Future portfolio value",
+      "layman": "Value of investments later"
+    },
+    {
+      "jargon": "Stochastic finance",
+      "layman": "Finance with random outcomes"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Formalization",
+      "layman": "Mathematical structure"
+    },
+    {
+      "jargon": "Discrete time",
+      "layman": "Time in steps, not continuously"
+    },
+    {
+      "jargon": "Special functions",
+      "layman": "Unique mathematical rules"
+    },
+    {
+      "jargon": "Value function",
+      "layman": "How much money a portfolio is worth"
+    },
+    {
+      "jargon": "Portfolio value in future",
+      "layman": "Future worth of investments"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Relation between functions",
+      "layman": "How values connect"
+    },
+    {
+      "jargon": "Value of portfolio in future",
+      "layman": "Future investment value"
+    },
+    {
+      "jargon": "Buying a present portfolio",
+      "layman": "Acquiring current investments"
+    },
+    {
+      "jargon": "Random variables formalized",
+      "layman": "Uncertain outcomes made clear"
+    },
+    {
+      "jargon": "Elements of Borel sets",
+      "layman": "Defined groups of possible events"
+    }
+  ]
+}

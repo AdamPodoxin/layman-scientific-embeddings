@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Corporate sector",
+      "layman": "Business companies"
+    },
+    {
+      "jargon": "Financial crises",
+      "layman": "Economic crashes"
+    },
+    {
+      "jargon": "Balance sheet",
+      "layman": "Company's financial health"
+    },
+    {
+      "jargon": "Equity rights",
+      "layman": "Shareholder protections"
+    },
+    {
+      "jargon": "Creditor rights",
+      "layman": "Debtor protection for lenders"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Modigliani-Miller framework",
+      "layman": "Model for how companies finance themselves"
+    },
+    {
+      "jargon": "Asymmetric information",
+      "layman": "One side has more information than the other"
+    },
+    {
+      "jargon": "Empirical investigation",
+      "layman": "Data-based research"
+    },
+    {
+      "jargon": "Cross-country comparison",
+      "layman": "Comparing countries"
+    },
+    {
+      "jargon": "Institutional environment",
+      "layman": "Rules and systems in a country"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Corporate risk-taking",
+      "layman": "Companies taking financial risks"
+    },
+    {
+      "jargon": "Less risky financing patterns",
+      "layman": "Safer ways to fund businesses"
+    },
+    {
+      "jargon": "Common law countries",
+      "layman": "Countries based on English legal system"
+    },
+    {
+      "jargon": "Market-based financial systems",
+      "layman": "Financial systems driven by markets"
+    },
+    {
+      "jargon": "Stronger protection of rights",
+      "layman": "Better legal safety for investors and lenders"
+    }
+  ]
+}

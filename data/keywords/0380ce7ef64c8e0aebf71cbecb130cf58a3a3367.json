@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Adversarial examples",
+      "layman": "Maliciously altered images"
+    },
+    {
+      "jargon": "Image-classification systems",
+      "layman": "Image recognition systems"
+    },
+    {
+      "jargon": "Convolutional network",
+      "layman": "Image analysis network"
+    },
+    {
+      "jargon": "ImageNet",
+      "layman": "Large image database"
+    },
+    {
+      "jargon": "Gray-box attacks",
+      "layman": "Attacks with partial knowledge"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Bit-depth reduction",
+      "layman": "Reducing image color precision"
+    },
+    {
+      "jargon": "JPEG compression",
+      "layman": "Compressing images using JPEG"
+    },
+    {
+      "jargon": "Total variance minimization",
+      "layman": "Smoothing image details"
+    },
+    {
+      "jargon": "Image quilting",
+      "layman": "Pasting image pieces together"
+    },
+    {
+      "jargon": "Training on transformed images",
+      "layman": "Teaching model with modified images"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "60% elimination of strong gray-box attacks",
+      "layman": "Blocks 60% of known attacks"
+    },
+    {
+      "jargon": "90% elimination of strong black-box attacks",
+      "layman": "Blocks 90% of blind attacks"
+    },
+    {
+      "jargon": "Non-differentiable nature",
+      "layman": "Not smooth or predictable"
+    },
+    {
+      "jargon": "Inherent randomness",
+      "layman": "Built-in unpredictability"
+    },
+    {
+      "jargon": "Defenses against adversarial attacks",
+      "layman": "Protection from trick images"
+    }
+  ]
+}

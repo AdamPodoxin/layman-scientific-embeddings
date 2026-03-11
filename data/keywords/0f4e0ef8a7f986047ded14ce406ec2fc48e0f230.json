@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quebec sovereignty movement",
+      "layman": "Quebec's push for independence"
+    },
+    {
+      "jargon": "Canadian dollar",
+      "layman": "Canada's currency"
+    },
+    {
+      "jargon": "Meech Lake Accord",
+      "layman": "1987 agreement to strengthen Quebec's rights"
+    },
+    {
+      "jargon": "Charlottetown Accord",
+      "layman": "1982 agreement to reform Canadian constitution"
+    },
+    {
+      "jargon": "Defense spending",
+      "layman": "Money spent on national defense"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Economic analysis",
+      "layman": "Studying finances and costs"
+    },
+    {
+      "jargon": "Political negotiation",
+      "layman": "Talks between governments to reach agreement"
+    },
+    {
+      "jargon": "Interest rates",
+      "layman": "Cost of borrowing money"
+    },
+    {
+      "jargon": "Financial considerations",
+      "layman": "Money-related decisions"
+    },
+    {
+      "jargon": "Historical review",
+      "layman": "Looking back at past events"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Political development",
+      "layman": "Changes in government and power"
+    },
+    {
+      "jargon": "Economic implications",
+      "layman": "Effects on finances"
+    },
+    {
+      "jargon": "Defense spending changes",
+      "layman": "Shifts in military budget"
+    },
+    {
+      "jargon": "Right to use Canadian dollar",
+      "layman": "Ability to use Canada's money"
+    },
+    {
+      "jargon": "Sovereignty implications",
+      "layman": "Effects of independence"
+    }
+  ]
+}

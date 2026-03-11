@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Firm",
+      "layman": "Company"
+    },
+    {
+      "jargon": "Product",
+      "layman": "Goods sold"
+    },
+    {
+      "jargon": "Market ideas",
+      "layman": "Company's business vision"
+    },
+    {
+      "jargon": "Political pressures",
+      "layman": "External demands on a company"
+    },
+    {
+      "jargon": "Impact environment",
+      "layman": "Effects of a product on society"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Growth management strategies",
+      "layman": "Plans to grow a business"
+    },
+    {
+      "jargon": "Promotive thinking",
+      "layman": "Seeing challenges as chances"
+    },
+    {
+      "jargon": "Integration",
+      "layman": "Combining different parts together"
+    },
+    {
+      "jargon": "Political context",
+      "layman": "Social and political setting"
+    },
+    {
+      "jargon": "Market expansion",
+      "layman": "Growing market reach"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Failure of growth strategies",
+      "layman": "Plans to grow fail"
+    },
+    {
+      "jargon": "External demands for change",
+      "layman": "Outside requests to change"
+    },
+    {
+      "jargon": "Interdependent aspects",
+      "layman": "Connected parts that influence each other"
+    },
+    {
+      "jargon": "New growth opportunities",
+      "layman": "New ways to grow"
+    },
+    {
+      "jargon": "Expansion of the market",
+      "layman": "Larger customer base"
+    }
+  ]
+}

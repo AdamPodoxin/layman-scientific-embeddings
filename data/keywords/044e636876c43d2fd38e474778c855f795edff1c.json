@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Electrical and Computer Engineering program",
+      "layman": "Engineering program for electricity and computers"
+    },
+    {
+      "jargon": "Combined degree program",
+      "layman": "Program that gives two degrees at once"
+    },
+    {
+      "jargon": "Liberal arts public university",
+      "layman": "College focused on broad studies, public-funded"
+    },
+    {
+      "jargon": "Curriculum",
+      "layman": "Course plan"
+    },
+    {
+      "jargon": "Faculty",
+      "layman": "University professors"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Program approval process",
+      "layman": "Steps to get the program approved"
+    },
+    {
+      "jargon": "Academic integration",
+      "layman": "Adding the program into the college structure"
+    },
+    {
+      "jargon": "Curriculum design",
+      "layman": "Planning the course sequence"
+    },
+    {
+      "jargon": "Faculty hiring",
+      "layman": "Hiring professors for the program"
+    },
+    {
+      "jargon": "Facility design",
+      "layman": "Planning the building spaces needed"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Successful integration",
+      "layman": "Program fits well into the university"
+    },
+    {
+      "jargon": "Institutional support",
+      "layman": "University provides resources"
+    },
+    {
+      "jargon": "Student recruitment",
+      "layman": "Attracting students to join"
+    },
+    {
+      "jargon": "Student retention",
+      "layman": "Keeping students enrolled"
+    },
+    {
+      "jargon": "Resources needed",
+      "layman": "Funding and materials required"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Triumph of Religion",
+      "layman": "Religion decoration cycle"
+    },
+    {
+      "jargon": "Boston Public Library",
+      "layman": "Public library in Boston"
+    },
+    {
+      "jargon": "John Singer Sargent",
+      "layman": "Famous painter"
+    },
+    {
+      "jargon": "Religious opposition",
+      "layman": "Resistance to religious content"
+    },
+    {
+      "jargon": "Spirituality",
+      "layman": "Personal religious feeling"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reconstruction",
+      "layman": "Putting things back together"
+    },
+    {
+      "jargon": "Reception analysis",
+      "layman": "Studying how people responded"
+    },
+    {
+      "jargon": "Public representation",
+      "layman": "Displaying ideas in public spaces"
+    },
+    {
+      "jargon": "Artistic investment",
+      "layman": "Artist's deep personal involvement"
+    },
+    {
+      "jargon": "Cultural exchanges",
+      "layman": "Sharing ideas between cultures"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Unfinished project",
+      "layman": "Work left incomplete"
+    },
+    {
+      "jargon": "Narrative redirection",
+      "layman": "Story changed in meaning"
+    },
+    {
+      "jargon": "Public popularity",
+      "layman": "Widespread public appeal"
+    },
+    {
+      "jargon": "Diverse religious interpretations",
+      "layman": "Many different religious views"
+    },
+    {
+      "jargon": "Modern belief privacy",
+      "layman": "Personal faith, not public religion"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hydroxycinnamic acids",
+      "layman": "Plant-based acids with OH groups"
+    },
+    {
+      "jargon": "Cinnamic acid",
+      "layman": "Simple plant acid"
+    },
+    {
+      "jargon": "Coumaric acid",
+      "layman": "Plant acid with ring structure"
+    },
+    {
+      "jargon": "Caffeic acid",
+      "layman": "Plant acid with multiple OH groups"
+    },
+    {
+      "jargon": "Deprotonable groups",
+      "layman": "Groups that can lose a hydrogen ion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Extended kinetic method (EKM)",
+      "layman": "Way to measure acid strength"
+    },
+    {
+      "jargon": "Electrospray ionization (ESI)",
+      "layman": "Ion creation in gas phase"
+    },
+    {
+      "jargon": "Solvent vapor pressure",
+      "layman": "How easily a solvent evaporates"
+    },
+    {
+      "jargon": "Drying temperature",
+      "layman": "Heat used to dry samples"
+    },
+    {
+      "jargon": "Density functional theory (DFT)",
+      "layman": "Computer model for molecular behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Gas phase acidity (GA)",
+      "layman": "Acid strength in gas form"
+    },
+    {
+      "jargon": "Deprotonation \u0394G",
+      "layman": "Energy to remove a hydrogen"
+    },
+    {
+      "jargon": "Deprotonation \u0394H",
+      "layman": "Heat change when removing hydrogen"
+    },
+    {
+      "jargon": "Deprotonation \u0394S",
+      "layman": "Entropy change when removing hydrogen"
+    },
+    {
+      "jargon": "Solvation enthalpy",
+      "layman": "Energy from solvent surrounding a molecule"
+    }
+  ]
+}

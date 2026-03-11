@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Urothelium",
+      "layman": "Bladder lining cells"
+    },
+    {
+      "jargon": "Bladder cancer",
+      "layman": "Cancer in the bladder"
+    },
+    {
+      "jargon": "Hematuria",
+      "layman": "Blood in urine"
+    },
+    {
+      "jargon": "Infiltrative tumours",
+      "layman": "Tumors that spread into surrounding tissue"
+    },
+    {
+      "jargon": "Occupational risk",
+      "layman": "Work-related cancer risk"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Diagnostic delay",
+      "layman": "Time between symptoms and doctor visit"
+    },
+    {
+      "jargon": "Treatment initiation delay",
+      "layman": "Time between diagnosis and starting treatment"
+    },
+    {
+      "jargon": "Clinical case series",
+      "layman": "Group of patient cases studied together"
+    },
+    {
+      "jargon": "Retrospective analysis",
+      "layman": "Looking back at patient records"
+    },
+    {
+      "jargon": "Patient history review",
+      "layman": "Checking patient background like jobs and smoking"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Up to 24% delay in GP visit",
+      "layman": "24% wait over 3 months for doctor"
+    },
+    {
+      "jargon": "Up to 21% delay in urologist visit",
+      "layman": "21% wait over 3 months for urologist"
+    },
+    {
+      "jargon": "Only 38% start treatment in first 3 months",
+      "layman": "Only 38% begin treatment early"
+    },
+    {
+      "jargon": "Higher rate of infiltrative tumors in under-65s with delay",
+      "layman": "Younger patients with late visits have aggressive tumors"
+    },
+    {
+      "jargon": "Smoking and occupational exposure linked to higher incidence",
+      "layman": "Smoking and work history increase cancer risk"
+    }
+  ]
+}

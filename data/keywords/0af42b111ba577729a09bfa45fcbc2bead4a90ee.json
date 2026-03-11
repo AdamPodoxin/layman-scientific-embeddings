@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bond percolation",
+      "layman": "Network connections"
+    },
+    {
+      "jargon": "Planar square lattice",
+      "layman": "Grid of squares on a flat surface"
+    },
+    {
+      "jargon": "Critical probability",
+      "layman": "Threshold point"
+    },
+    {
+      "jargon": "Harris-Kesten Theorem",
+      "layman": "Key result about connectivity"
+    },
+    {
+      "jargon": "Friedgut-Kalai result",
+      "layman": "Sharp threshold rule"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sharp-threshold result",
+      "layman": "Clear turning point in behavior"
+    },
+    {
+      "jargon": "Russo's approximate zero-one law",
+      "layman": "Rule for when events are either yes or no"
+    },
+    {
+      "jargon": "Short proof",
+      "layman": "Simple demonstration"
+    },
+    {
+      "jargon": "Proof using existing results",
+      "layman": "Building on prior knowledge"
+    },
+    {
+      "jargon": "Percolation theory",
+      "layman": "Study of how connections spread"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Critical probability is 1/2",
+      "layman": "Connection threshold is half"
+    },
+    {
+      "jargon": "Infinite cluster forms",
+      "layman": "Large connected group appears"
+    },
+    {
+      "jargon": "Phase transition",
+      "layman": "Change from no to yes"
+    },
+    {
+      "jargon": "Percolation threshold",
+      "layman": "Point where connections grow"
+    },
+    {
+      "jargon": "New proof of Harris-Kesten Theorem",
+      "layman": "New way to prove the key result"
+    }
+  ]
+}

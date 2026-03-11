@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Si-Ge superlattices",
+      "layman": "Layered silicon-germanium materials"
+    },
+    {
+      "jargon": "Biomimetic Si-Ge nanocomposites",
+      "layman": "Nature-inspired silicon-germanium mixtures"
+    },
+    {
+      "jargon": "Interface thermal boundary resistance",
+      "layman": "Heat-blocking effect at material interfaces"
+    },
+    {
+      "jargon": "Phonons",
+      "layman": "Heat-carrying vibrations in materials"
+    },
+    {
+      "jargon": "Straining",
+      "layman": "Stretching or compressing materials"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Non-equilibrium molecular dynamics",
+      "layman": "Computer simulation of heat flow under stress"
+    },
+    {
+      "jargon": "Thermal conductivity analysis",
+      "layman": "Measuring how well heat moves through a material"
+    },
+    {
+      "jargon": "Periodicity",
+      "layman": "Repeating pattern in structure"
+    },
+    {
+      "jargon": "Morphology",
+      "layman": "Shape and structure of material"
+    },
+    {
+      "jargon": "Temperature variation",
+      "layman": "Changing temperature conditions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Direction-dependent thermal conductivity",
+      "layman": "Heat flows better in one direction than another"
+    },
+    {
+      "jargon": "Thermal diode-like behavior",
+      "layman": "Material acts like a one-way heat valve"
+    },
+    {
+      "jargon": "Contrast in phonon spectral density",
+      "layman": "Different vibration patterns in materials"
+    },
+    {
+      "jargon": "Interfacial thermal boundary resistance",
+      "layman": "Heat-blocking at material boundaries"
+    },
+    {
+      "jargon": "Strain-dependent thermal conductivity",
+      "layman": "Heat flow changes with stretching or squeezing"
+    }
+  ]
+}

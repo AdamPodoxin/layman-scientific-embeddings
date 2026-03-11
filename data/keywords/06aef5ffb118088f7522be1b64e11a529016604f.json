@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Simple polygon",
+      "layman": "Polygon without self-intersections"
+    },
+    {
+      "jargon": "Convex polygon",
+      "layman": "Polygon with all interior angles less than 180 degrees"
+    },
+    {
+      "jargon": "Pocket",
+      "layman": "Indentation in a polygon"
+    },
+    {
+      "jargon": "Convex hull",
+      "layman": "Smallest convex shape containing all points"
+    },
+    {
+      "jargon": "Equilateral polygon",
+      "layman": "Polygon with all sides equal"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Flip",
+      "layman": "Reflect a pocket across its support line"
+    },
+    {
+      "jargon": "Pivot",
+      "layman": "3D version of a flip for polygons"
+    },
+    {
+      "jargon": "Simultaneous flipping",
+      "layman": "Flipping all pockets at once"
+    },
+    {
+      "jargon": "Sequential flipping",
+      "layman": "Flipping one pocket at a time"
+    },
+    {
+      "jargon": "Convexification",
+      "layman": "Process of turning a shape into a convex one"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Finite number of flips",
+      "layman": "Polygon becomes convex in a limited number of steps"
+    },
+    {
+      "jargon": "Self-crossing polygons",
+      "layman": "Polygons that intersect themselves"
+    },
+    {
+      "jargon": "\u0398(n\u00b2) time",
+      "layman": "Time grows with square of number of sides"
+    },
+    {
+      "jargon": "O(n) time",
+      "layman": "Time grows linearly with number of sides"
+    },
+    {
+      "jargon": "Generalized to higher dimensions",
+      "layman": "Works in 3D and beyond"
+    }
+  ]
+}

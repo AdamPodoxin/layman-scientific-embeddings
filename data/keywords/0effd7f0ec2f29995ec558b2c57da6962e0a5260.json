@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Uniformly Reflexive Structure",
+      "layman": "Abstract system of functions with indexing"
+    },
+    {
+      "jargon": "Godelization",
+      "layman": "Indexing of functions by domain elements"
+    },
+    {
+      "jargon": "Partial recursive functions",
+      "layman": "Functions that may not always compute"
+    },
+    {
+      "jargon": "Meta-recursive functions",
+      "layman": "Functions that can compute other functions"
+    },
+    {
+      "jargon": "Infinite domain",
+      "layman": "Unlimited set of inputs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Axiomatic theory",
+      "layman": "Set of rules to build a logical system"
+    },
+    {
+      "jargon": "Kleene recursion theorems",
+      "layman": "Rules for self-referencing functions"
+    },
+    {
+      "jargon": "Relative computability",
+      "layman": "How one function can compute another"
+    },
+    {
+      "jargon": "Standard Godelization",
+      "layman": "Standard way of numbering functions"
+    },
+    {
+      "jargon": "Upper-semi-lattice ordering",
+      "layman": "Hierarchy of functions from simple to complex"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "U.R.S. axioms",
+      "layman": "Basic rules defining the system"
+    },
+    {
+      "jargon": "Turing reducibility",
+      "layman": "One function can solve another's problem"
+    },
+    {
+      "jargon": "Function indexing",
+      "layman": "Assigning numbers to functions"
+    },
+    {
+      "jargon": "Meta-recursive functions satisfy U.R.S.",
+      "layman": "Complex functions fit the system"
+    },
+    {
+      "jargon": "Partial recursive functions satisfy U.R.S.",
+      "layman": "Simple functions fit the system"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cosmological model",
+      "layman": "Big picture of the universe"
+    },
+    {
+      "jargon": "Scalar field",
+      "layman": "Energy field spread throughout space"
+    },
+    {
+      "jargon": "Inflaton field",
+      "layman": "Field that drives rapid universe expansion"
+    },
+    {
+      "jargon": "Friedmann-Robertson-Walker model",
+      "layman": "Standard model of universe expansion"
+    },
+    {
+      "jargon": "Spatial curvature",
+      "layman": "Shape of space in the universe"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Minisuperspace",
+      "layman": "Simplified universe model for study"
+    },
+    {
+      "jargon": "Trajectory classification",
+      "layman": "Categorizing paths of universe evolution"
+    },
+    {
+      "jargon": "Closed minisuperspace",
+      "layman": "Finite universe model with no edge"
+    },
+    {
+      "jargon": "Fractal nature",
+      "layman": "Self-similar repeating patterns"
+    },
+    {
+      "jargon": "Modification in presence of cosmological constant",
+      "layman": "Changing model with dark energy"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Bounced trajectories",
+      "layman": "Universe that rebounds after collapse"
+    },
+    {
+      "jargon": "Vanishing cosmological constant",
+      "layman": "No dark energy in the universe"
+    },
+    {
+      "jargon": "Nonzero cosmological constant",
+      "layman": "Dark energy present"
+    },
+    {
+      "jargon": "Fractal set of trajectories",
+      "layman": "Complex, repeating patterns in universe paths"
+    },
+    {
+      "jargon": "Trajectory classification",
+      "layman": "Categorizing paths of universe evolution"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Metal-gate Al/TiN/ZrN/ZrO2/p-Si",
+      "layman": "Metal gate with silicon base"
+    },
+    {
+      "jargon": "High-k ZrO2 thin-film",
+      "layman": "Thick oxide layer for insulation"
+    },
+    {
+      "jargon": "ZrN capping layer",
+      "layman": "Protective metal layer on top"
+    },
+    {
+      "jargon": "t-ZrO2",
+      "layman": "Crystalline zirconium oxide"
+    },
+    {
+      "jargon": "p-Si",
+      "layman": "Positive silicon base"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Direct current magnetron sputtering (DCMS)",
+      "layman": "Sputtering with steady power"
+    },
+    {
+      "jargon": "High-power impulse magnetron sputtering (HIPIMS)",
+      "layman": "Pulsed sputtering with high power"
+    },
+    {
+      "jargon": "Epitaxial crystallization",
+      "layman": "Growing crystal layers in order"
+    },
+    {
+      "jargon": "Ionization rate",
+      "layman": "Rate of charged atoms formed"
+    },
+    {
+      "jargon": "Pulse duration ratio",
+      "layman": "Ratio of pulse length to total time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Favorable physicochemical properties",
+      "layman": "Better physical and chemical behavior"
+    },
+    {
+      "jargon": "Capacitance-voltage characteristics",
+      "layman": "How capacitance changes with voltage"
+    },
+    {
+      "jargon": "(111) planes disappear",
+      "layman": "Crystal orientation lost"
+    },
+    {
+      "jargon": "Higher interface trap density",
+      "layman": "More defects at interface"
+    },
+    {
+      "jargon": "Greater hysteresis",
+      "layman": "More lag in response"
+    }
+  ]
+}

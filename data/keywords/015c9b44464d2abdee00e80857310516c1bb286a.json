@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Jurassic basin",
+      "layman": "Ancient sedimentary basin"
+    },
+    {
+      "jargon": "NW-trending structures",
+      "layman": "Northwest-directed faults"
+    },
+    {
+      "jargon": "Near EW-trending structures",
+      "layman": "Near east-west faults"
+    },
+    {
+      "jargon": "Thickness centers",
+      "layman": "Thick sediment areas"
+    },
+    {
+      "jargon": "Cenozoic basin",
+      "layman": "Recent sediment basin"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Structural control",
+      "layman": "Fault patterns shaping the basin"
+    },
+    {
+      "jargon": "Strata deposition",
+      "layman": "Layered rock layering"
+    },
+    {
+      "jargon": "Extensional faulting",
+      "layman": "Faults from stretching"
+    },
+    {
+      "jargon": "Compressional basin",
+      "layman": "Basin from squeezing forces"
+    },
+    {
+      "jargon": "Structural deformation",
+      "layman": "Changes in rock shape and position"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hydrocarbon source rocks",
+      "layman": "Rock that makes oil and gas"
+    },
+    {
+      "jargon": "Deposition migration",
+      "layman": "Rock layers moving over time"
+    },
+    {
+      "jargon": "Oil and gas pool formation",
+      "layman": "Oil and gas gathering in one place"
+    },
+    {
+      "jargon": "Preservation of Jurassic strata",
+      "layman": "Jurassic rocks staying intact"
+    },
+    {
+      "jargon": "Favorable conditions for oil and gas",
+      "layman": "Good environment for oil and gas"
+    }
+  ]
+}

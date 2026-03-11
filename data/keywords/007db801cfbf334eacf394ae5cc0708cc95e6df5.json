@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Caledonian\u2013Appalachian Orogen",
-      "layman": "Mountain belt formed by collision"
+      "jargon": "Miogeoclines",
+      "layman": "Early coastal regions"
+    },
+    {
+      "jargon": "Suspect terranes",
+      "layman": "Pieces of ancient land that don't fit"
     },
     {
       "jargon": "Iapetus Ocean",
-      "layman": "Ancient ocean between continents"
-    },
-    {
-      "jargon": "Miogeoclines",
-      "layman": "Coastal regions before mountains formed"
+      "layman": "Ancient ocean"
     },
     {
       "jargon": "Ophiolitic vestiges",
-      "layman": "Pieces of oceanic crust pushed onto land"
+      "layman": "Remnants of oceanic crust"
     },
     {
-      "jargon": "Microcontinents",
-      "layman": "Small land masses from ancient continents"
+      "jargon": "Oceanic plateaus",
+      "layman": "Large underwater plateaus"
     }
   ],
   "methodologies": [
     {
       "jargon": "Deformed early Paleozoic miogeoclines",
-      "layman": "Warped coastal rocks from early era"
+      "layman": "Bent ancient coastal areas"
     },
     {
       "jargon": "Structural emplacement",
-      "layman": "Moving rock layers into new positions"
+      "layman": "Placing land masses in new positions"
     },
     {
-      "jargon": "Closing of an ocean",
-      "layman": "Oceans shrinking by continent collision"
+      "jargon": "Tectonic patterns",
+      "layman": "Earth movement patterns"
     },
     {
-      "jargon": "Opening of the North Atlantic Ocean",
-      "layman": "Atlantic Ocean forming between continents"
+      "jargon": "Paleozoic orogen assembly",
+      "layman": "Building mountain belts over time"
     },
     {
-      "jargon": "Assembly of terranes",
-      "layman": "Putting together pieces of crust"
+      "jargon": "Modern North Atlantic Ocean opening",
+      "layman": "Ocean spreading in the North Atlantic"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Continent assembly",
-      "layman": "Continents coming together"
+      "jargon": "Disjunct Paleozoic miogeoclines",
+      "layman": "Separated ancient coastal areas"
     },
     {
-      "jargon": "Disjunct terrane arrangement",
-      "layman": "Pieces of land scattered apart"
+      "jargon": "Assembly in interior parts of orogen",
+      "layman": "Pieces joined in mountain centers"
     },
     {
-      "jargon": "Present borderland configuration",
-      "layman": "Current layout of land fragments"
+      "jargon": "Emplacement upon adjacent miogeoclines",
+      "layman": "Placed on nearby coastal regions"
     },
     {
-      "jargon": "Volcanic arcs",
-      "layman": "Mountain chains from volcanic activity"
+      "jargon": "Present arrangement of terranes",
+      "layman": "Current scattered land layout"
     },
     {
-      "jargon": "Oceanic plateaus",
-      "layman": "Flat oceanic landforms rising from sea floor"
+      "jargon": "Closing of Iapetus Ocean",
+      "layman": "Ocean shut down and land joined"
     }
   ]
 }

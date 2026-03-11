@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Extended logic programs",
+      "layman": "Logic programs with additional rules"
+    },
+    {
+      "jargon": "Evolving knowledge bases",
+      "layman": "Changing knowledge systems"
+    },
+    {
+      "jargon": "Update policy",
+      "layman": "Rule for how updates happen"
+    },
+    {
+      "jargon": "Knowledge states",
+      "layman": "States of knowledge over time"
+    },
+    {
+      "jargon": "Formula",
+      "layman": "Logical statement"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Formal model",
+      "layman": "Mathematical representation"
+    },
+    {
+      "jargon": "Logical language",
+      "layman": "Language for describing properties"
+    },
+    {
+      "jargon": "Semantical properties",
+      "layman": "Meaning-based characteristics"
+    },
+    {
+      "jargon": "Computational properties",
+      "layman": "Performance-based features"
+    },
+    {
+      "jargon": "Finitary characterizations",
+      "layman": "Finite descriptions of evolution"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Decidability results",
+      "layman": "Clear yes-or-no answers"
+    },
+    {
+      "jargon": "Polynomial complexity",
+      "layman": "Fast reasoning"
+    },
+    {
+      "jargon": "Double exponential space complexity",
+      "layman": "Very slow reasoning"
+    },
+    {
+      "jargon": "Reasoning task",
+      "layman": "Checking if a statement is true"
+    },
+    {
+      "jargon": "Evolution of knowledge",
+      "layman": "How knowledge changes over time"
+    }
+  ]
+}

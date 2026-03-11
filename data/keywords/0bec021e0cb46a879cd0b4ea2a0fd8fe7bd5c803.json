@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Network-on-Chip (NoC)",
+      "layman": "Chip-level network"
+    },
+    {
+      "jargon": "Wormhole-switched network",
+      "layman": "Data routing using tunnels"
+    },
+    {
+      "jargon": "Real-time traffic",
+      "layman": "Time-sensitive data flow"
+    },
+    {
+      "jargon": "End-to-end delays",
+      "layman": "Total time data takes to travel"
+    },
+    {
+      "jargon": "Response time",
+      "layman": "Time to respond to a request"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Stochastic Response Time Analysis",
+      "layman": "Probability-based delay analysis"
+    },
+    {
+      "jargon": "Deterministic schedulability analysis",
+      "layman": "Fixed-time delay prediction"
+    },
+    {
+      "jargon": "Simulation-based experiments",
+      "layman": "Computer simulations"
+    },
+    {
+      "jargon": "Distribution of response times",
+      "layman": "Range of possible delay times"
+    },
+    {
+      "jargon": "Deadline miss ratio",
+      "layman": "Percentage of missed deadlines"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Single upper-bound of response time",
+      "layman": "Maximum possible delay"
+    },
+    {
+      "jargon": "Pessimism in analysis",
+      "layman": "Overestimation of delays"
+    },
+    {
+      "jargon": "Scalability of the approach",
+      "layman": "Performance at large scale"
+    },
+    {
+      "jargon": "Upper-bounds regarding different probabilities",
+      "layman": "Delay limits at various chances"
+    },
+    {
+      "jargon": "Performance for soft real-time applications",
+      "layman": "Good enough timing for flexible tasks"
+    }
+  ]
+}

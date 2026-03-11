@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "X-term",
+      "layman": "Mathematical expression"
+    },
+    {
+      "jargon": "Church's numerals",
+      "layman": "Numbers in logic form"
+    },
+    {
+      "jargon": "Enumerator",
+      "layman": "Special term that lists numbers"
+    },
+    {
+      "jargon": "Reducing",
+      "layman": "Simplifies over time"
+    },
+    {
+      "jargon": "Natural numbers",
+      "layman": "Whole numbers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Recursion theoretic proof",
+      "layman": "Logical proof using recursive steps"
+    },
+    {
+      "jargon": "Ingenious recursion",
+      "layman": "Smart repeated process"
+    },
+    {
+      "jargon": "Proof by Statman",
+      "layman": "Mathematical proof by Statman"
+    },
+    {
+      "jargon": "Closed X-term",
+      "layman": "Complete mathematical expression"
+    },
+    {
+      "jargon": "Church numerals",
+      "layman": "Numbers built from logic rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Every enumerator is reducing",
+      "layman": "All such terms simplify"
+    },
+    {
+      "jargon": "An ingenious proof",
+      "layman": "A clever mathematical argument"
+    },
+    {
+      "jargon": "No direct proof",
+      "layman": "No simple explanation found"
+    },
+    {
+      "jargon": "An E such that =j )M",
+      "layman": "A term that matches a number"
+    },
+    {
+      "jargon": "Reducing process",
+      "layman": "Step-by-step simplification"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Inter-basin water transfer",
+      "layman": "Moving water between river basins"
+    },
+    {
+      "jargon": "Ecological impacts",
+      "layman": "Environmental effects on nature"
+    },
+    {
+      "jargon": "Groundwater",
+      "layman": "Underground water"
+    },
+    {
+      "jargon": "Landscape",
+      "layman": "Natural terrain"
+    },
+    {
+      "jargon": "Ecological environment",
+      "layman": "Natural ecosystem"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Ecological assessment model",
+      "layman": "Tool to evaluate environmental effects"
+    },
+    {
+      "jargon": "Comprehensive exploration",
+      "layman": "Detailed investigation"
+    },
+    {
+      "jargon": "Current situation analysis",
+      "layman": "Review of present conditions"
+    },
+    {
+      "jargon": "Rational choice",
+      "layman": "Smart decision-making"
+    },
+    {
+      "jargon": "Implementation",
+      "layman": "Putting a plan into action"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ecological effects",
+      "layman": "Environmental changes"
+    },
+    {
+      "jargon": "Significance of model choice",
+      "layman": "Importance of right evaluation tool"
+    },
+    {
+      "jargon": "Impact on environment",
+      "layman": "Damage or change to nature"
+    },
+    {
+      "jargon": "Natural balance",
+      "layman": "Ecosystem stability"
+    },
+    {
+      "jargon": "Water transfer project",
+      "layman": "Large-scale water moving project"
+    }
+  ]
+}

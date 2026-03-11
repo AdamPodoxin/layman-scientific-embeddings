@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Multimedia content",
+      "layman": "Audio and video material"
+    },
+    {
+      "jargon": "Semantic meaning",
+      "layman": "Underlying message or intent"
+    },
+    {
+      "jargon": "Ontologies",
+      "layman": "Structured knowledge systems"
+    },
+    {
+      "jargon": "Domain-specific descriptions",
+      "layman": "Tailored explanations for a field"
+    },
+    {
+      "jargon": "Scientific research communities",
+      "layman": "Groups of scientists working together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Semantic web technologies",
+      "layman": "Web tools for understanding meaning"
+    },
+    {
+      "jargon": "Automatic segmentation",
+      "layman": "Splitting content into parts automatically"
+    },
+    {
+      "jargon": "Low-level feature recognition",
+      "layman": "Detecting basic visual or audio patterns"
+    },
+    {
+      "jargon": "Knowledge reasoning",
+      "layman": "Using logic to draw conclusions from data"
+    },
+    {
+      "jargon": "Inferencing rules",
+      "layman": "Rules to deduce new facts from known ones"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "High-level descriptions",
+      "layman": "Detailed summaries of content"
+    },
+    {
+      "jargon": "Automatic filtering",
+      "layman": "Sorting content automatically"
+    },
+    {
+      "jargon": "Machine processing",
+      "layman": "Computers analyzing content"
+    },
+    {
+      "jargon": "Interpretation of multimedia",
+      "layman": "Understanding what media means"
+    },
+    {
+      "jargon": "Assimilation of resources",
+      "layman": "Integrating content into systems"
+    }
+  ]
+}

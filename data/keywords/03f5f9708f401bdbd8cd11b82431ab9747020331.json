@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Anxiety",
+      "layman": "Anxiety"
+    },
+    {
+      "jargon": "Heart disease",
+      "layman": "Heart disease"
+    },
+    {
+      "jargon": "Cardiac disease",
+      "layman": "Heart disease"
+    },
+    {
+      "jargon": "Risk factors",
+      "layman": "Factors that increase risk"
+    },
+    {
+      "jargon": "Subsequent cardiac disease",
+      "layman": "Later heart disease"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Longitudinal study",
+      "layman": "Study over time"
+    },
+    {
+      "jargon": "Prospective cohort design",
+      "layman": "Tracking people over time"
+    },
+    {
+      "jargon": "Risk factor analysis",
+      "layman": "Looking at what increases risk"
+    },
+    {
+      "jargon": "Statistical modeling",
+      "layman": "Using math to find patterns"
+    },
+    {
+      "jargon": "Epidemiological investigation",
+      "layman": "Study of disease patterns in populations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Anxiety as a risk factor",
+      "layman": "Anxiety increases heart disease risk"
+    },
+    {
+      "jargon": "Temporal relationship",
+      "layman": "Timing of events"
+    },
+    {
+      "jargon": "Long-term follow-up",
+      "layman": "Tracking over years"
+    },
+    {
+      "jargon": "Incidence rate",
+      "layman": "How often disease occurs"
+    },
+    {
+      "jargon": "Association, not causation",
+      "layman": "Linked but not proven cause"
+    }
+  ]
+}

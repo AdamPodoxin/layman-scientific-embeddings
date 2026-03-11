@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Kant\u014d",
+      "layman": "Eastern Japan region"
+    },
+    {
+      "jargon": "Musashino",
+      "layman": "Grassland area in eastern Japan"
+    },
+    {
+      "jargon": "Warrior class",
+      "layman": "Military nobles"
+    },
+    {
+      "jargon": "Traveling poets",
+      "layman": "Poets who moved between places"
+    },
+    {
+      "jargon": "Courtly lexicon",
+      "layman": "Words from the royal court"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Poetic exchange",
+      "layman": "Poets sharing verses"
+    },
+    {
+      "jargon": "Dialectical interaction",
+      "layman": "Back-and-forth dialogue"
+    },
+    {
+      "jargon": "Representation through poetry",
+      "layman": "Using poems to describe places"
+    },
+    {
+      "jargon": "Movement patterns",
+      "layman": "How people traveled and settled"
+    },
+    {
+      "jargon": "Political inertia",
+      "layman": "Slow change in government systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Persistent medieval",
+      "layman": "Long-lasting medieval traditions"
+    },
+    {
+      "jargon": "Nuanced representation",
+      "layman": "More detailed and accurate depictions"
+    },
+    {
+      "jargon": "Stock portrayal",
+      "layman": "Simple or clich\u00e9d image of a place"
+    },
+    {
+      "jargon": "Attachment to place",
+      "layman": "Strong emotional bond with a location"
+    },
+    {
+      "jargon": "Shift in perception",
+      "layman": "Changing view of a region over time"
+    }
+  ]
+}

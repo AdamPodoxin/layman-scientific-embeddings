@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Conversations",
+      "layman": "Talks between people"
+    },
+    {
+      "jargon": "Epic poetry",
+      "layman": "Long stories about heroes"
+    },
+    {
+      "jargon": "Detective fiction",
+      "layman": "Stories about solving crimes"
+    },
+    {
+      "jargon": "Buddhism",
+      "layman": "A religious belief about peace and mindfulness"
+    },
+    {
+      "jargon": "Moon landing",
+      "layman": "Humans landing on the moon"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dialogue",
+      "layman": "Talking together"
+    },
+    {
+      "jargon": "Reflection",
+      "layman": "Thinking deeply about experiences"
+    },
+    {
+      "jargon": "Recollection",
+      "layman": "Remembering past events"
+    },
+    {
+      "jargon": "Philosophical contemplation",
+      "layman": "Thinking about big ideas"
+    },
+    {
+      "jargon": "Personal canon",
+      "layman": "A list of favorite books"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Life as dream",
+      "layman": "Life is like a dream"
+    },
+    {
+      "jargon": "Mental library",
+      "layman": "Memory of all books"
+    },
+    {
+      "jargon": "South American destiny",
+      "layman": "A special role in South America"
+    },
+    {
+      "jargon": "Transmission of culture",
+      "layman": "Passing on traditions"
+    },
+    {
+      "jargon": "Passage of history",
+      "layman": "How history changes over time"
+    }
+  ]
+}

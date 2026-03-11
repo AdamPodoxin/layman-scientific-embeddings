@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Statefinders",
+      "layman": "Cosmic state indicators"
+    },
+    {
+      "jargon": "Deceleration parameter",
+      "layman": "Rate of universe slowing down"
+    },
+    {
+      "jargon": "Jerk",
+      "layman": "Change in acceleration of the universe"
+    },
+    {
+      "jargon": "Kerk (snap)",
+      "layman": "Change in jerk of the universe"
+    },
+    {
+      "jargon": "Sudden future singularities",
+      "layman": "Unexpected infinite pressure in the future"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Friedmann cosmology",
+      "layman": "Model of the expanding universe"
+    },
+    {
+      "jargon": "Higher-order derivatives of scale factor",
+      "layman": "Rates of change in cosmic expansion"
+    },
+    {
+      "jargon": "Energy conditions",
+      "layman": "Rules for energy and pressure in space"
+    },
+    {
+      "jargon": "Time derivatives of energy density",
+      "layman": "How energy changes over time"
+    },
+    {
+      "jargon": "Higher-order energy conditions",
+      "layman": "Advanced rules for energy behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Finite energy density with infinite pressure",
+      "layman": "High pressure but normal energy"
+    },
+    {
+      "jargon": "Pressure singularity",
+      "layman": "Pressure becomes infinite"
+    },
+    {
+      "jargon": "Observational parameters",
+      "layman": "Measurable cosmic data"
+    },
+    {
+      "jargon": "Future cosmic evolution",
+      "layman": "How the universe will change in the future"
+    },
+    {
+      "jargon": "Singularity development",
+      "layman": "Unexpected endpoint in cosmic expansion"
+    }
+  ]
+}

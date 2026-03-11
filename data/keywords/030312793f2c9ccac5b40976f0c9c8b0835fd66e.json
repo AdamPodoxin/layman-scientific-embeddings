@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software architecture",
+      "layman": "Software structure"
+    },
+    {
+      "jargon": "Design decisions",
+      "layman": "Choice of design"
+    },
+    {
+      "jargon": "Maintenance",
+      "layman": "Future updates"
+    },
+    {
+      "jargon": "Reasoning",
+      "layman": "Thinking process"
+    },
+    {
+      "jargon": "Architects",
+      "layman": "Design experts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Capturing reasoning",
+      "layman": "Recording thoughts"
+    },
+    {
+      "jargon": "Supporting methodology",
+      "layman": "Helping with process"
+    },
+    {
+      "jargon": "Design consideration",
+      "layman": "Careful planning"
+    },
+    {
+      "jargon": "Recording decisions",
+      "layman": "Writing down choices"
+    },
+    {
+      "jargon": "Future maintenance",
+      "layman": "Long-term fixes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved methodology support",
+      "layman": "Better design tools"
+    },
+    {
+      "jargon": "Careful design decisions",
+      "layman": "Thoughtful choices"
+    },
+    {
+      "jargon": "Better future maintenance",
+      "layman": "Easier to update later"
+    },
+    {
+      "jargon": "Encouraged reflection",
+      "layman": "More thoughtful thinking"
+    },
+    {
+      "jargon": "Design transparency",
+      "layman": "Clear design records"
+    }
+  ]
+}

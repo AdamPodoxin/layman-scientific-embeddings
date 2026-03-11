@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bank lending incentives",
+      "layman": "Banks' motivation to lend"
+    },
+    {
+      "jargon": "Politically connected firms",
+      "layman": "Firms with government ties"
+    },
+    {
+      "jargon": "Firm investment behaviors",
+      "layman": "How firms spend money on growth"
+    },
+    {
+      "jargon": "Debt markets",
+      "layman": "Place where loans are bought and sold"
+    },
+    {
+      "jargon": "Abnormal debt",
+      "layman": "Unusual or unexpected loans"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Empirical results",
+      "layman": "Data-based findings"
+    },
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Mathematical examination of data"
+    },
+    {
+      "jargon": "Regression analysis",
+      "layman": "Testing relationships in data"
+    },
+    {
+      "jargon": "Market development",
+      "layman": "Improvement in business markets"
+    },
+    {
+      "jargon": "Government quality improvement",
+      "layman": "Better government performance"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Less influenced by profitability",
+      "layman": "Not affected by profits"
+    },
+    {
+      "jargon": "Invest less efficiently",
+      "layman": "Waste more money on growth"
+    },
+    {
+      "jargon": "Negative impact reduced",
+      "layman": "Bad effect gets smaller"
+    },
+    {
+      "jargon": "Tangibility",
+      "layman": "How real or physical something is"
+    },
+    {
+      "jargon": "Regional development",
+      "layman": "Better growth in a region"
+    }
+  ]
+}

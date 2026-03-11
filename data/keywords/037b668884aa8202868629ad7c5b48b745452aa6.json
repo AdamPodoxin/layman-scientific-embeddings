@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "sloops",
+      "layman": "sloops"
+    },
+    {
+      "jargon": "squags",
+      "layman": "squags"
+    },
+    {
+      "jargon": "variety",
+      "layman": "types"
+    },
+    {
+      "jargon": "single laws",
+      "layman": "general rules"
+    },
+    {
+      "jargon": "all sloops",
+      "layman": "every sloop"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "single laws",
+      "layman": "general rules"
+    },
+    {
+      "jargon": "variety",
+      "layman": "types"
+    },
+    {
+      "jargon": "give",
+      "layman": "provide"
+    },
+    {
+      "jargon": "all",
+      "layman": "every"
+    },
+    {
+      "jargon": "for",
+      "layman": "about"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "single laws for sloops",
+      "layman": "rules that apply to all sloops"
+    },
+    {
+      "jargon": "single laws for squags",
+      "layman": "rules that apply to all squags"
+    },
+    {
+      "jargon": "variety of all sloops",
+      "layman": "all types of sloops"
+    },
+    {
+      "jargon": "variety of all squags",
+      "layman": "all types of squags"
+    },
+    {
+      "jargon": "the variety",
+      "layman": "the types"
+    }
+  ]
+}

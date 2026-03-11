@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lists",
+      "layman": "Ordered collections"
+    },
+    {
+      "jargon": "Multisets",
+      "layman": "Groups with duplicates"
+    },
+    {
+      "jargon": "Sets",
+      "layman": "Unique collections"
+    },
+    {
+      "jargon": "Equality constraints",
+      "layman": "Rules about equal values"
+    },
+    {
+      "jargon": "Membership constraints",
+      "layman": "Rules about belonging"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Parametric approach",
+      "layman": "General method for different cases"
+    },
+    {
+      "jargon": "Axiomatic analysis",
+      "layman": "Mathematical foundation study"
+    },
+    {
+      "jargon": "Unification algorithms",
+      "layman": "Rules to match and combine data"
+    },
+    {
+      "jargon": "Constraint-solving",
+      "layman": "Finding valid solutions under rules"
+    },
+    {
+      "jargon": "Negative counterparts",
+      "layman": "Opposite rules or conditions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Extended results",
+      "layman": "Broader findings"
+    },
+    {
+      "jargon": "General constraints",
+      "layman": "Wider rule types applied"
+    },
+    {
+      "jargon": "Equality and membership",
+      "layman": "Rules for what is equal or included"
+    },
+    {
+      "jargon": "Negative constraints",
+      "layman": "Rules about what is not allowed"
+    },
+    {
+      "jargon": "Uniform approach",
+      "layman": "One method for all types"
+    }
+  ]
+}

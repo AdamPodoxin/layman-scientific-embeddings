@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Baryonic matter",
+      "layman": "Normal matter like stars and planets"
+    },
+    {
+      "jargon": "Universe",
+      "layman": "Everything that exists"
+    },
+    {
+      "jargon": "Asymmetry",
+      "layman": "Imbalance between things"
+    },
+    {
+      "jargon": "Baryons",
+      "layman": "Particles like protons and neutrons"
+    },
+    {
+      "jargon": "Cosmic baryon density",
+      "layman": "Amount of normal matter in space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Computation",
+      "layman": "Mathematical modeling"
+    },
+    {
+      "jargon": "Particle physics simulations",
+      "layman": "Computer models of subatomic particles"
+    },
+    {
+      "jargon": "Cosmological models",
+      "layman": "Theories about the universe's evolution"
+    },
+    {
+      "jargon": "Thermodynamic equilibrium",
+      "layman": "State where energy and matter are balanced"
+    },
+    {
+      "jargon": "Early universe conditions",
+      "layman": "Conditions right after the Big Bang"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Baryonic asymmetry",
+      "layman": "More matter than antimatter"
+    },
+    {
+      "jargon": "Observed asymmetry",
+      "layman": "What we see in the universe"
+    },
+    {
+      "jargon": "Antimatter",
+      "layman": "Matter with opposite charge"
+    },
+    {
+      "jargon": "Matter-antimatter imbalance",
+      "layman": "More matter than antimatter"
+    },
+    {
+      "jargon": "Cosmic matter dominance",
+      "layman": "Matter is what makes up the universe"
+    }
+  ]
+}

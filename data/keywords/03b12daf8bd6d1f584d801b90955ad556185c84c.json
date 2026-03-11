@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "FooPar",
+      "layman": "Parallel computing framework"
+    },
+    {
+      "jargon": "Scala",
+      "layman": "Programming language"
+    },
+    {
+      "jargon": "Matrix matrix multiplication",
+      "layman": "Multiplying matrices"
+    },
+    {
+      "jargon": "Distributed memory architectures",
+      "layman": "Networked computers sharing memory"
+    },
+    {
+      "jargon": "Math libraries",
+      "layman": "Mathematical toolkits"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Parallel computing",
+      "layman": "Splitting work across multiple processors"
+    },
+    {
+      "jargon": "Modular design",
+      "layman": "Pieces that can be added or changed separately"
+    },
+    {
+      "jargon": "Communication backends",
+      "layman": "Tools for computers to talk to each other"
+    },
+    {
+      "jargon": "Empirical analysis",
+      "layman": "Real-world data testing"
+    },
+    {
+      "jargon": "Isoefficiency analysis",
+      "layman": "Testing how well performance scales with size"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Close-to-optimal performance",
+      "layman": "Near-best possible speed"
+    },
+    {
+      "jargon": "Scalability",
+      "layman": "Works well with large problems"
+    },
+    {
+      "jargon": "Performance drops",
+      "layman": "Slower than expected"
+    },
+    {
+      "jargon": "Theoretical peak performance",
+      "layman": "Maximum possible speed"
+    },
+    {
+      "jargon": "Supercomputers",
+      "layman": "Very powerful computers"
+    }
+  ]
+}

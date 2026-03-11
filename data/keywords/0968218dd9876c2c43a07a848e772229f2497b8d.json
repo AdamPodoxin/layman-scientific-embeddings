@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Proteins",
+      "layman": "Proteins"
+    },
+    {
+      "jargon": "Acidic residues",
+      "layman": "Acidic parts of proteins"
+    },
+    {
+      "jargon": "Basic residues",
+      "layman": "Basic parts of proteins"
+    },
+    {
+      "jargon": "Ionized residues",
+      "layman": "Residues with electric charge"
+    },
+    {
+      "jargon": "NaA salts",
+      "layman": "Salt additives like NaCl, NaI, NaAc"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Nanospray",
+      "layman": "Tiny spray to charge proteins"
+    },
+    {
+      "jargon": "Collision activated decomposition",
+      "layman": "Breaking apart ions with energy"
+    },
+    {
+      "jargon": "Charge state analysis",
+      "layman": "Measuring how many charges a protein has"
+    },
+    {
+      "jargon": "Electrospray mechanism",
+      "layman": "Process where droplets form and lose solvent"
+    },
+    {
+      "jargon": "Ion pair formation",
+      "layman": "Ions bonding to charged protein parts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Na+ replacement of H+",
+      "layman": "Sodium replaces hydrogen on protein"
+    },
+    {
+      "jargon": "NaA adducts",
+      "layman": "Sodium-salt bonds on protein"
+    },
+    {
+      "jargon": "Na minus H peaks",
+      "layman": "Sodium minus hydrogen signals"
+    },
+    {
+      "jargon": "HA loss",
+      "layman": "Loss of acid-hydrogen groups"
+    },
+    {
+      "jargon": "nMAX break point",
+      "layman": "Limit on how many sodium-hydrogen adducts form"
+    }
+  ]
+}

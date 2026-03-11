@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Parent-child relationships",
+      "layman": "Parent-child relationships"
+    },
+    {
+      "jargon": "Achievement traits",
+      "layman": "Desire to succeed"
+    },
+    {
+      "jargon": "Acceptant parents",
+      "layman": "Supportive parents"
+    },
+    {
+      "jargon": "Hostile psychological control",
+      "layman": "Harsh emotional control"
+    },
+    {
+      "jargon": "Firm discipline",
+      "layman": "Strict but clear rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Test of Effective Academic Motivation",
+      "layman": "Survey on motivation to learn"
+    },
+    {
+      "jargon": "Children's Report of Parental Behavior Inventory",
+      "layman": "Child's report on parent behavior"
+    },
+    {
+      "jargon": "Correlation analysis",
+      "layman": "Measuring how two things are linked"
+    },
+    {
+      "jargon": "Statistical significance",
+      "layman": "Strong enough result to be trusted"
+    },
+    {
+      "jargon": "Sex-based comparison",
+      "layman": "Comparing boys and girls"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Higher achievement traits",
+      "layman": "Stronger drive to succeed"
+    },
+    {
+      "jargon": "Obedient and law abiding",
+      "layman": "Follow rules and obey"
+    },
+    {
+      "jargon": "Works hard and effectively",
+      "layman": "Studies hard and gets results"
+    },
+    {
+      "jargon": "Ambitious",
+      "layman": "Wants to achieve big goals"
+    },
+    {
+      "jargon": "No significant differences",
+      "layman": "Same for both boy and girl groups"
+    }
+  ]
+}

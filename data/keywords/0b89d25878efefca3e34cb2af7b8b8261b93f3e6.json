@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Self-Managed Social Centers",
+      "layman": "Squatted community spaces"
+    },
+    {
+      "jargon": "Flexible accumulation regime",
+      "layman": "Changing way of producing goods"
+    },
+    {
+      "jargon": "Public spaces",
+      "layman": "Open areas for everyone"
+    },
+    {
+      "jargon": "Anti-capitalist movement",
+      "layman": "Movement against capitalist systems"
+    },
+    {
+      "jargon": "Anti-fascist groups",
+      "layman": "Groups opposing fascist ideologies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Collective action",
+      "layman": "Group working together"
+    },
+    {
+      "jargon": "Direct democracy",
+      "layman": "Decisions made by all members"
+    },
+    {
+      "jargon": "Renovation and refurbishment",
+      "layman": "Fixing and improving buildings"
+    },
+    {
+      "jargon": "Cooperative working modes",
+      "layman": "Working together without contracts"
+    },
+    {
+      "jargon": "Squatting",
+      "layman": "Taking over empty buildings"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Over 250 Social Centers active",
+      "layman": "More than 250 centers operating"
+    },
+    {
+      "jargon": "Alternative to bureaucratic organization",
+      "layman": "Different from top-down systems"
+    },
+    {
+      "jargon": "Combat marginalization",
+      "layman": "Fight social exclusion"
+    },
+    {
+      "jargon": "Challenge neoliberal globalization",
+      "layman": "Oppose dominant economic model"
+    },
+    {
+      "jargon": "New social and political spaces",
+      "layman": "New places for community life"
+    }
+  ]
+}

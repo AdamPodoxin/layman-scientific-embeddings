@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "\u03c8(2S)",
+      "layman": "Particle state in e+e\u2212 collisions"
+    },
+    {
+      "jargon": "\u03c9\u03c00",
+      "layman": "Particle decay pair"
+    },
+    {
+      "jargon": "\u03c0+\u03c0\u2212",
+      "layman": "Particle decay pair"
+    },
+    {
+      "jargon": "Virtual photon",
+      "layman": "Fleeting photon in particle interaction"
+    },
+    {
+      "jargon": "Form factors",
+      "layman": "How decay probabilities change with distance"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "e+e\u2212 experiments",
+      "layman": "Particle collisions in electron-positron machines"
+    },
+    {
+      "jargon": "Cross section measurements",
+      "layman": "Counting how often decays happen"
+    },
+    {
+      "jargon": "Non-resonance virtual photon annihilation",
+      "layman": "Background decay from photon interaction"
+    },
+    {
+      "jargon": "Branching fraction calculation",
+      "layman": "Measuring decay path probabilities"
+    },
+    {
+      "jargon": "Form factor revision",
+      "layman": "Updating decay shape estimates"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Large contributions from virtual photon annihilation",
+      "layman": "Major background effect in data"
+    },
+    {
+      "jargon": "Revised form factors",
+      "layman": "Updated decay patterns"
+    },
+    {
+      "jargon": "Revised branching fractions",
+      "layman": "Updated decay likelihoods"
+    },
+    {
+      "jargon": "Observed cross sections",
+      "layman": "Measured decay frequencies"
+    },
+    {
+      "jargon": "Decay mode analysis",
+      "layman": "Study of how particles break down"
+    }
+  ]
+}

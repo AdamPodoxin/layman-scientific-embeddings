@@ -1,0 +1,59 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Water budget",
+      "layman": "Water balance sheet"
+    },
+    {
+      "jargon": "Water availability",
+      "layman": "Water supply"
+    },
+    {
+      "jargon": "Water consumption",
+      "layman": "Water use"
+    },
+    {
+      "jargon": "Ecosystem",
+      "layman": "Natural environment"
+    },
+    {
+      "jargon": "Environmental water",
+      "layman": "Water for nature"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Constructing a water budget",
+      "layman": "Mapping water flow"
+    },
+    {
+      "jargon": "Assessing water demands",
+      "layman": "Estimating water needs"
+    },
+    {
+      "jargon": "Forecasting water demands",
+      "layman": "Predicting future water use"
+    },
+    {
+      "jargon": "Analyzing water flows",
+      "layman": "Tracking water movement"
+    },
+    {
+      "jargon": "Evaluating restoration strategies",
+      "layman": "Testing water return plans"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Water remaining in ecosystem",
+      "layman": "Water left in nature"
+    },
+    {
+      "jargon": "Changing water demands",
+      "layman": "Shifting water needs"
+    },
+    "water return to environment",
+    "sustainable water management",
+    "economic, social, and cultural context"
+  ]
+}

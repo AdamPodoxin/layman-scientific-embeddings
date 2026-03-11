@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "post-Reformation Lutheranism",
+      "layman": "Lutheran beliefs after the Reformation"
+    },
+    {
+      "jargon": "early-modern German societies",
+      "layman": "German societies in the early modern era"
+    },
+    {
+      "jargon": "university life",
+      "layman": "University environment and culture"
+    },
+    {
+      "jargon": "academic life",
+      "layman": "Life in universities"
+    },
+    {
+      "jargon": "confessionalization",
+      "layman": "Growing religious identity in public life"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "historical analysis",
+      "layman": "Looking at past events and patterns"
+    },
+    {
+      "jargon": "integrative view",
+      "layman": "Combining different perspectives"
+    },
+    {
+      "jargon": "material history",
+      "layman": "Physical history of institutions"
+    },
+    {
+      "jargon": "intellectual history",
+      "layman": "History of ideas and thinking"
+    },
+    {
+      "jargon": "cultural context",
+      "layman": "Background of societal values"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "inextricably related",
+      "layman": "Tightly connected parts"
+    },
+    {
+      "jargon": "fresh perspective",
+      "layman": "New way of seeing"
+    },
+    {
+      "jargon": "macro-historical trends",
+      "layman": "Big historical patterns"
+    },
+    {
+      "jargon": "absolutist states",
+      "layman": "Strong, centralized governments"
+    },
+    {
+      "jargon": "private and public life",
+      "layman": "Personal and societal activities"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Managerial intervention",
+      "layman": "Manager making decisions"
+    },
+    {
+      "jargon": "Opportunistic intervention",
+      "layman": "Bad decisions for personal gain"
+    },
+    {
+      "jargon": "Firm performance",
+      "layman": "Company success"
+    },
+    {
+      "jargon": "Employee motivation",
+      "layman": "Workers' drive to do well"
+    },
+    {
+      "jargon": "Corporate culture",
+      "layman": "Company's shared values"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Path-analysis",
+      "layman": "Testing cause-and-effect links"
+    },
+    {
+      "jargon": "Empirical examination",
+      "layman": "Testing with real data"
+    },
+    {
+      "jargon": "Rich dataset",
+      "layman": "Large, detailed data set"
+    },
+    {
+      "jargon": "Staking personal reputation",
+      "layman": "Putting one's name on the line"
+    },
+    {
+      "jargon": "Asset control",
+      "layman": "Holding key resources"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Private benefits",
+      "layman": "Personal gains from decisions"
+    },
+    {
+      "jargon": "Employee motivation decline",
+      "layman": "Workers lose energy"
+    },
+    {
+      "jargon": "Credible commitments",
+      "layman": "Strong promises that can't be broken"
+    },
+    {
+      "jargon": "Managerial proclivities",
+      "layman": "Manager's tendencies to act"
+    },
+    {
+      "jargon": "Firm-level equivalent",
+      "layman": "Company-level version of a known problem"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Globalization",
+      "layman": "Worldwide connection"
+    },
+    {
+      "jargon": "Undergraduate students",
+      "layman": "College students"
+    },
+    {
+      "jargon": "Identity construction",
+      "layman": "Forming one's self-image"
+    },
+    {
+      "jargon": "Developed world",
+      "layman": "Advanced economies"
+    },
+    {
+      "jargon": "Emerging world",
+      "layman": "Rapidly growing economies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interconnected world",
+      "layman": "Networked global environment"
+    },
+    {
+      "jargon": "Anxiety",
+      "layman": "Worry"
+    },
+    {
+      "jargon": "Disequilibrium",
+      "layman": "Imbalance"
+    },
+    {
+      "jargon": "Cultural comparison",
+      "layman": "Comparing cultures"
+    },
+    {
+      "jargon": "Pedagogical adaptation",
+      "layman": "Changing teaching methods"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Global flatness",
+      "layman": "World feels flat and connected"
+    },
+    {
+      "jargon": "Increased opportunity",
+      "layman": "More chances for success"
+    },
+    {
+      "jargon": "Generalized anxiety",
+      "layman": "Widespread worry"
+    },
+    {
+      "jargon": "Sense of disequilibrium",
+      "layman": "Feeling of imbalance"
+    },
+    {
+      "jargon": "Identity formation",
+      "layman": "Building personal identity"
+    }
+  ]
+}

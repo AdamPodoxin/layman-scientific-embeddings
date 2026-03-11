@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "XCB",
+      "layman": "XCB"
+    },
+    {
+      "jargon": "Classical equivalential calculus",
+      "layman": "Logic system using only equivalence"
+    },
+    {
+      "jargon": "Single axiom",
+      "layman": "One rule that can generate all rules"
+    },
+    {
+      "jargon": "EpEEEpqErqr",
+      "layman": "A specific logical formula"
+    },
+    {
+      "jargon": "Shortest single axioms",
+      "layman": "Smallest possible logical rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Rules of substitution",
+      "layman": "Replacing parts of a formula"
+    },
+    {
+      "jargon": "Rules of detachment",
+      "layman": "Removing parts to derive new truths"
+    },
+    {
+      "jargon": "Search for axioms",
+      "layman": "Looking for simple rules that work"
+    },
+    {
+      "jargon": "Seventy years of research",
+      "layman": "Long-term investigation"
+    },
+    {
+      "jargon": "Logical derivation",
+      "layman": "Building conclusions from logic"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Affirmative answer",
+      "layman": "Yes, it works"
+    },
+    {
+      "jargon": "Completes a search",
+      "layman": "Finishes the investigation"
+    },
+    {
+      "jargon": "All eleven-symbol axioms",
+      "layman": "All possible short rules found"
+    },
+    {
+      "jargon": "Open question",
+      "layman": "Unknown problem"
+    },
+    {
+      "jargon": "Final confirmation",
+      "layman": "Final proof that it works"
+    }
+  ]
+}

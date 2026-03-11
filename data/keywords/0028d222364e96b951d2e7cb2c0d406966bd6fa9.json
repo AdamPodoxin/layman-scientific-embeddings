@@ -6,63 +6,63 @@
     },
     {
       "jargon": "n",
-      "layman": "number of people"
+      "layman": "total number of people"
     },
     {
       "jargon": "k",
-      "layman": "step size"
+      "layman": "step size in elimination"
     },
     {
       "jargon": "i",
-      "layman": "position"
+      "layman": "starting position"
     },
     {
-      "jargon": "bounds",
-      "layman": "range limits"
+      "jargon": "Josephus problem",
+      "layman": "survivor puzzle"
     }
   ],
   "methodologies": [
     {
       "jargon": "non-recursive formulas",
-      "layman": "direct formulas"
+      "layman": "direct calculation formulas"
+    },
+    {
+      "jargon": "explicit upper and lower bounds",
+      "layman": "tight numerical limits"
     },
     {
       "jargon": "fast algorithm",
       "layman": "quick calculation method"
     },
     {
-      "jargon": "explicit upper and lower bounds",
-      "layman": "clear high and low limits"
+      "jargon": "bounds for j(n, k, i)",
+      "layman": "estimated range for survivor position"
     },
     {
-      "jargon": "compute",
-      "layman": "calculate"
-    },
-    {
-      "jargon": "based upon bounds",
-      "layman": "using limits as foundation"
+      "jargon": "recursive computation",
+      "layman": "step-by-step calculation"
     }
   ],
   "outcomes": [
     {
-      "jargon": "explicit formulas",
-      "layman": "clear calculation rules"
+      "jargon": "explicit formulas for j(n, 2, i)",
+      "layman": "clear formula for two-step elimination"
     },
     {
-      "jargon": "differ by 2k\u00b2",
-      "layman": "difference of 2k squared"
+      "jargon": "explicit formulas for j(n, 3, i)",
+      "layman": "clear formula for three-step elimination"
     },
     {
-      "jargon": "better bounds for k=4",
-      "layman": "tighter limits for k=4"
+      "jargon": "bounds differ by 2k\u00b2",
+      "layman": "range is small and predictable"
     },
     {
-      "jargon": "calculate j(n,k,i)",
-      "layman": "find the Josephus number"
+      "jargon": "bounds are even better for k=4",
+      "layman": "tighter limits when k=4"
     },
     {
-      "jargon": "new fast algorithm",
-      "layman": "new fast way to compute"
+      "jargon": "j(n, k, i) computed efficiently",
+      "layman": "survivor position calculated quickly"
     }
   ]
 }

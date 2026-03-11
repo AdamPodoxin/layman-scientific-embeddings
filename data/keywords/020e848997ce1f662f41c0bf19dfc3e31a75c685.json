@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Product firms",
+      "layman": "Companies that sell products"
+    },
+    {
+      "jargon": "Service revenues",
+      "layman": "Money from services"
+    },
+    {
+      "jargon": "Prepackaged software products",
+      "layman": "Software sold as ready-made packages"
+    },
+    {
+      "jargon": "Operating margins",
+      "layman": "Profit after costs"
+    },
+    {
+      "jargon": "Industry maturity",
+      "layman": "How developed an industry is"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Empirical analysis",
+      "layman": "Data-based research"
+    },
+    {
+      "jargon": "Standard Industrial Classification",
+      "layman": "Industry category code"
+    },
+    {
+      "jargon": "Financial performance",
+      "layman": "Company's profit and health"
+    },
+    {
+      "jargon": "Regression analysis",
+      "layman": "Finding patterns in data"
+    },
+    {
+      "jargon": "Time period analysis",
+      "layman": "Looking at data over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Convex, nonlinear relationship",
+      "layman": "Profit changes in a curve, not straight"
+    },
+    {
+      "jargon": "High product sales",
+      "layman": "Most sales from products"
+    },
+    {
+      "jargon": "Declining profitability",
+      "layman": "Less profit over time"
+    },
+    {
+      "jargon": "Positive marginal effect",
+      "layman": "Extra profit from extra services"
+    },
+    {
+      "jargon": "Traditional industry maturity arguments",
+      "layman": "Old idea that maturity leads to less profit"
+    }
+  ]
+}

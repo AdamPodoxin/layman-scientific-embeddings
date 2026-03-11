@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "RIOT",
+      "layman": "R with I/O Transparency"
+    },
+    {
+      "jargon": "R",
+      "layman": "Popular data analysis tool"
+    },
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Data patterns and trends"
+    },
+    {
+      "jargon": "Massive data",
+      "layman": "Very large datasets"
+    },
+    {
+      "jargon": "External database systems",
+      "layman": "Remote data storage"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "I/O-efficient storage",
+      "layman": "Fast data reading and writing"
+    },
+    {
+      "jargon": "Flexible array storage manager",
+      "layman": "Adaptable data container"
+    },
+    {
+      "jargon": "Optimization engine",
+      "layman": "Smart speed-up tool"
+    },
+    {
+      "jargon": "Blurring boundary",
+      "layman": "Mixing data processing methods"
+    },
+    {
+      "jargon": "Seamless integration",
+      "layman": "Smooth connection between systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "I/O-efficient computation",
+      "layman": "Faster data processing"
+    },
+    {
+      "jargon": "Transparent user experience",
+      "layman": "No user changes needed"
+    },
+    {
+      "jargon": "Efficient statistical processing",
+      "layman": "Quick and accurate results"
+    },
+    {
+      "jargon": "Data processing in databases",
+      "layman": "Using database data directly"
+    },
+    {
+      "jargon": "Effective handling of data",
+      "layman": "Good performance with big data"
+    }
+  ]
+}

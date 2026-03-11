@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "CdSe nanoparticle",
+      "layman": "Tiny semiconductor particle"
+    },
+    {
+      "jargon": "CdSe/ZnS core/shell nanoparticle",
+      "layman": "Nanoparticle with inner and outer layers"
+    },
+    {
+      "jargon": "Photorefractive polymer",
+      "layman": "Light-sensitive polymer material"
+    },
+    {
+      "jargon": "Photoluminescence",
+      "layman": "Light emission from materials when exposed to light"
+    },
+    {
+      "jargon": "Electric field",
+      "layman": "Electric force between charged parts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Photoluminescence studies",
+      "layman": "Measuring light emission under light exposure"
+    },
+    {
+      "jargon": "Tunneling of holes",
+      "layman": "Electrons jumping through barriers"
+    },
+    {
+      "jargon": "Partial recapture",
+      "layman": "Some holes returning after escaping"
+    },
+    {
+      "jargon": "Sensitization",
+      "layman": "Making a material respond to light"
+    },
+    {
+      "jargon": "Field dependence",
+      "layman": "How behavior changes with electric field"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hole tunneling",
+      "layman": "Holes move through nanoparticle walls"
+    },
+    {
+      "jargon": "Hole recapture",
+      "layman": "Holes return to the nanoparticle"
+    },
+    {
+      "jargon": "ZnS shell suppresses recapture",
+      "layman": "Outer layer stops holes from returning"
+    },
+    {
+      "jargon": "Electric field dependence",
+      "layman": "Emission changes with electric field"
+    },
+    {
+      "jargon": "Core/shell structure",
+      "layman": "Layered nanoparticle design"
+    }
+  ]
+}

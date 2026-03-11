@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Silicon nitride",
+      "layman": "Ceramic made of silicon and nitrogen"
+    },
+    {
+      "jargon": "Reaction-bonded silicon nitride",
+      "layman": "Silicon nitride bonded by chemical reaction"
+    },
+    {
+      "jargon": "Powder metallurgical methods",
+      "layman": "Molding powder into solid material"
+    },
+    {
+      "jargon": "Structural ceramic material",
+      "layman": "Strong ceramic used in building parts"
+    },
+    {
+      "jargon": "Ceramic components",
+      "layman": "Pieces made of ceramic"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Powder metallurgical techniques",
+      "layman": "Using powder to make solid parts"
+    },
+    {
+      "jargon": "Nitridation process",
+      "layman": "Chemical process to add nitrogen"
+    },
+    {
+      "jargon": "Fabrication",
+      "layman": "Making a material into a shape"
+    },
+    {
+      "jargon": "Reaction bonding",
+      "layman": "Bonding through chemical reaction"
+    },
+    {
+      "jargon": "Production of ceramic components",
+      "layman": "Making ceramic parts without cutting"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Little or no machining",
+      "layman": "Almost no cutting needed"
+    },
+    {
+      "jargon": "Resultant properties",
+      "layman": "Final material characteristics"
+    },
+    {
+      "jargon": "High-temperature performance",
+      "layman": "Works well at high heat"
+    },
+    {
+      "jargon": "Structural strength",
+      "layman": "Strong enough to hold shape"
+    },
+    {
+      "jargon": "Production efficiency",
+      "layman": "Easy and fast to make"
+    }
+  ]
+}

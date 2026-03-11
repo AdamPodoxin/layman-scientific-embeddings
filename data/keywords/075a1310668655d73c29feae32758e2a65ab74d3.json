@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Perfect actions",
+      "layman": "Ideal actions"
+    },
+    {
+      "jargon": "Topology",
+      "layman": "Shape and structure"
+    },
+    {
+      "jargon": "Instanton solutions",
+      "layman": "Special mathematical solutions"
+    },
+    {
+      "jargon": "Chiral symmetry",
+      "layman": "Symmetry in particle behavior"
+    },
+    {
+      "jargon": "Theoretical background",
+      "layman": "Foundational scientific ideas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Pedagogical introduction",
+      "layman": "Step-by-step teaching method"
+    },
+    {
+      "jargon": "Topological analysis",
+      "layman": "Studying shape-based patterns"
+    },
+    {
+      "jargon": "Solutions to equations",
+      "layman": "Finding answers to math problems"
+    },
+    {
+      "jargon": "Mathematical modeling",
+      "layman": "Using math to simulate reality"
+    },
+    {
+      "jargon": "Discussion on developments",
+      "layman": "Talking about new advances"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Recent developments",
+      "layman": "New progress"
+    },
+    {
+      "jargon": "Properties of perfect actions",
+      "layman": "Features of ideal actions"
+    },
+    {
+      "jargon": "Topological properties",
+      "layman": "Shape-based characteristics"
+    },
+    {
+      "jargon": "Chiral symmetry breaking",
+      "layman": "Symmetry that fails in certain cases"
+    },
+    {
+      "jargon": "Instanton contributions",
+      "layman": "Effects from special solutions"
+    }
+  ]
+}

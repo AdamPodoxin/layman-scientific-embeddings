@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "m-Chloroacetanilide",
+      "layman": "M-chloroacetanilide"
+    },
+    {
+      "jargon": "p-Chloroacetanilide",
+      "layman": "P-chloroacetanilide"
+    },
+    {
+      "jargon": "Molecular chlorine",
+      "layman": "Chlorine gas"
+    },
+    {
+      "jargon": "Acetic acid",
+      "layman": "Acetic acid"
+    },
+    {
+      "jargon": "Isomers",
+      "layman": "Different forms of molecules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Rate measurement",
+      "layman": "Measuring reaction speed"
+    },
+    {
+      "jargon": "Partial rate factors",
+      "layman": "How fast a position reacts"
+    },
+    {
+      "jargon": "Additivity principle",
+      "layman": "Effects add up independently"
+    },
+    {
+      "jargon": "Free energy of activation",
+      "layman": "Energy needed to start reaction"
+    },
+    {
+      "jargon": "Proportions estimation",
+      "layman": "Estimating mix of products"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reaction rates",
+      "layman": "How fast chlorination happens"
+    },
+    {
+      "jargon": "Isomer proportions",
+      "layman": "Amount of each form produced"
+    },
+    {
+      "jargon": "Substituent effects",
+      "layman": "How groups affect reaction"
+    },
+    {
+      "jargon": "Positional selectivity",
+      "layman": "Which positions react more"
+    },
+    {
+      "jargon": "Free energy changes",
+      "layman": "Energy differences in reaction"
+    }
+  ]
+}

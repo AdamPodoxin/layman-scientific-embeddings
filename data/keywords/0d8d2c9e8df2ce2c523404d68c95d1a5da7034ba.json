@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Manufacturing engineering",
+      "layman": "Engineering of production processes"
+    },
+    {
+      "jargon": "Industrial technology",
+      "layman": "Technology used in factories"
+    },
+    {
+      "jargon": "Architectural technology",
+      "layman": "Building design and construction tech"
+    },
+    {
+      "jargon": "Construction technology",
+      "layman": "Tools and methods for building"
+    },
+    {
+      "jargon": "Energy engineering technology",
+      "layman": "Technology for managing energy in systems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Process optimization",
+      "layman": "Improving production efficiency"
+    },
+    {
+      "jargon": "Design for manufacturability",
+      "layman": "Designing products for easy production"
+    },
+    {
+      "jargon": "Assembly line",
+      "layman": "Line where products are made step-by-step"
+    },
+    {
+      "jargon": "Quality control",
+      "layman": "Checking products for defects"
+    },
+    {
+      "jargon": "Material selection",
+      "layman": "Choosing right materials for products"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cost reduction",
+      "layman": "Lower production costs"
+    },
+    {
+      "jargon": "Increased throughput",
+      "layman": "More products made per hour"
+    },
+    {
+      "jargon": "Improved product consistency",
+      "layman": "Same quality every time"
+    },
+    {
+      "jargon": "Scalable production",
+      "layman": "Can produce more without losing quality"
+    },
+    {
+      "jargon": "Energy efficiency",
+      "layman": "Using less energy to make products"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "MPEG-4 decoder",
+      "layman": "Video decoder"
+    },
+    {
+      "jargon": "High-Definition (HD) video",
+      "layman": "High-resolution video"
+    },
+    {
+      "jargon": "Multi-processor architecture",
+      "layman": "Multiple processor system"
+    },
+    {
+      "jargon": "Hardware-software (HWSW) design",
+      "layman": "Hardware and software together"
+    },
+    {
+      "jargon": "Processing tasks",
+      "layman": "Computing jobs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Task partitioning",
+      "layman": "Splitting work into parts"
+    },
+    {
+      "jargon": "Processor hierarchy",
+      "layman": "Level-based processor setup"
+    },
+    {
+      "jargon": "Communication hierarchy",
+      "layman": "Structured data sharing"
+    },
+    {
+      "jargon": "Memory hierarchy",
+      "layman": "Layered memory system"
+    },
+    {
+      "jargon": "Performance density",
+      "layman": "Power and speed per space"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Flexibility",
+      "layman": "Ability to adapt"
+    },
+    {
+      "jargon": "Extensibility",
+      "layman": "Can grow or add features"
+    },
+    {
+      "jargon": "High performance density",
+      "layman": "Strong performance in small space"
+    },
+    {
+      "jargon": "Memory-bandwidth efficiency",
+      "layman": "Efficient use of memory speed"
+    },
+    {
+      "jargon": "Trade-off possibilities",
+      "layman": "Balancing different needs"
+    }
+  ]
+}

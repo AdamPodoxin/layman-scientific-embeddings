@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "android automata",
+      "layman": "Robot figures"
+    },
+    {
+      "jargon": "lunar landscapes",
+      "layman": "Moon-like scenes"
+    },
+    {
+      "jargon": "perspective theaters",
+      "layman": "Theaters with depth illusions"
+    },
+    {
+      "jargon": "vues d'optique",
+      "layman": "Optical view devices"
+    },
+    {
+      "jargon": "microscopes",
+      "layman": "Magnifying tools for small things"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "cabinet of curiosities",
+      "layman": "Collection of strange objects"
+    },
+    {
+      "jargon": "analogical instrument",
+      "layman": "Tool that compares old and new tech"
+    },
+    {
+      "jargon": "reframing",
+      "layman": "Reinterpreting how we see things"
+    },
+    {
+      "jargon": "visual perception",
+      "layman": "How we see the world"
+    },
+    {
+      "jargon": "projections",
+      "layman": "Creating images on a surface"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "emergent media",
+      "layman": "New forms of media that grow over time"
+    },
+    {
+      "jargon": "complex links between old and new media",
+      "layman": "Deep connections between old and modern tools"
+    },
+    {
+      "jargon": "beautiful eye machines",
+      "layman": "Stunning tools that help us see"
+    },
+    {
+      "jargon": "artful machines",
+      "layman": "Creative devices that impress"
+    },
+    {
+      "jargon": "mediation of encounters with the world",
+      "layman": "How we experience the world through tools"
+    }
+  ]
+}

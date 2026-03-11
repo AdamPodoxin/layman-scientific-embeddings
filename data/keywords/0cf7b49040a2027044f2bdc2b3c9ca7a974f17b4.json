@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "post-quantum cryptography",
+      "layman": "Security against quantum computers"
+    },
+    {
+      "jargon": "hash-based signatures",
+      "layman": "Digital signatures using hash functions"
+    },
+    {
+      "jargon": "one-time signatures",
+      "layman": "Signatures usable only once"
+    },
+    {
+      "jargon": "few-time signatures",
+      "layman": "Signatures usable a few times"
+    },
+    {
+      "jargon": "hypertrees",
+      "layman": "Complex tree structures used in security"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "stateless signature scheme",
+      "layman": "No need to keep track of past signatures"
+    },
+    {
+      "jargon": "vectorized implementation",
+      "layman": "Efficient processing using vectors"
+    },
+    {
+      "jargon": "signature scheme design",
+      "layman": "Creating a secure signing method"
+    },
+    {
+      "jargon": "public key",
+      "layman": "Key used to verify a signature"
+    },
+    {
+      "jargon": "private key",
+      "layman": "Secret key used to create a signature"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "signs hundreds of messages per second",
+      "layman": "Fast signing speed"
+    },
+    {
+      "jargon": "signatures are 41~KB",
+      "layman": "Large signature size"
+    },
+    {
+      "jargon": "public keys are 1~KB",
+      "layman": "Small public key size"
+    },
+    {
+      "jargon": "private keys are 1~KB",
+      "layman": "Small private key size"
+    },
+    {
+      "jargon": "long-term $2^{128}$ security",
+      "layman": "Strong security for decades"
+    }
+  ]
+}

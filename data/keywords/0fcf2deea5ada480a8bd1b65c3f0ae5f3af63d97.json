@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Multinational enterprises",
+      "layman": "Large companies operating in many countries"
+    },
+    {
+      "jargon": "Host countries",
+      "layman": "Countries where companies operate"
+    },
+    {
+      "jargon": "Tax and regulation policies",
+      "layman": "Rules on taxes and business rules"
+    },
+    {
+      "jargon": "Outside options",
+      "layman": "Other places a company could move to"
+    },
+    {
+      "jargon": "Policy coordination",
+      "layman": "Countries working together on rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cooperative settings",
+      "layman": "Countries working together"
+    },
+    {
+      "jargon": "Non-cooperative settings",
+      "layman": "Countries acting alone"
+    },
+    {
+      "jargon": "Investment decisions",
+      "layman": "Where companies choose to spend money"
+    },
+    {
+      "jargon": "Regulatory competition",
+      "layman": "Countries competing with rules"
+    },
+    {
+      "jargon": "Barriers to entry",
+      "layman": "Hurdles for new companies to enter"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Win-win situation",
+      "layman": "Everyone benefits"
+    },
+    {
+      "jargon": "Gains from policy coordination",
+      "layman": "Benefits from working together"
+    },
+    {
+      "jargon": "Reduced incentives to coordinate",
+      "layman": "Less reason to work together"
+    },
+    {
+      "jargon": "Firm gains",
+      "layman": "Company benefits"
+    },
+    {
+      "jargon": "Host country welfare",
+      "layman": "Well-being of host countries"
+    }
+  ]
+}

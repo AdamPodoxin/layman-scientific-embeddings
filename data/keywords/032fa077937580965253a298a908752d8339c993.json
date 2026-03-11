@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Polynomial",
+      "layman": "Mathematical expression with variables and exponents"
+    },
+    {
+      "jargon": "Zero-dimensional ideal",
+      "layman": "Set of equations with no non-trivial solutions"
+    },
+    {
+      "jargon": "Quotient algebra",
+      "layman": "Algebra formed by dividing out a set of rules"
+    },
+    {
+      "jargon": "Monomial ordering",
+      "layman": "Rule for comparing terms in math expressions"
+    },
+    {
+      "jargon": "Gr\u00f6bner basis",
+      "layman": "Special set of polynomials that simplifies system solving"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Normal form computation",
+      "layman": "Simplifying equations to a standard form"
+    },
+    {
+      "jargon": "Symbolic computation",
+      "layman": "Math operations without numbers"
+    },
+    {
+      "jargon": "Linear algebra steps",
+      "layman": "Using matrix and vector math"
+    },
+    {
+      "jargon": "Numerical criteria",
+      "layman": "Using numbers to guide decisions"
+    },
+    {
+      "jargon": "Algorithm proof",
+      "layman": "Showing the method works correctly"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New type of representations",
+      "layman": "New ways to describe solutions"
+    },
+    {
+      "jargon": "Weakened monomial ordering",
+      "layman": "Fewer strict rules for math operations"
+    },
+    {
+      "jargon": "Improved practical efficiency",
+      "layman": "Faster and more usable results"
+    },
+    {
+      "jargon": "Classical benchmark systems",
+      "layman": "Standard test problems in math"
+    },
+    {
+      "jargon": "Symbolic-numeric hybrid approach",
+      "layman": "Mixing exact math with number-based checks"
+    }
+  ]
+}

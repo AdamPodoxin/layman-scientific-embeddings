@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Abstract State Machine",
+      "layman": "Simple model of a system's state"
+    },
+    {
+      "jargon": "Manual light control",
+      "layman": "Human-controlled lighting"
+    },
+    {
+      "jargon": "Automatic light control",
+      "layman": "Lighting that turns on/off by itself"
+    },
+    {
+      "jargon": "Failure handling",
+      "layman": "System that deals with errors"
+    },
+    {
+      "jargon": "System services",
+      "layman": "Background system functions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Refine ground model",
+      "layman": "Improve model for real use"
+    },
+    {
+      "jargon": "Capture informal requirements",
+      "layman": "Turn vague needs into clear plans"
+    },
+    {
+      "jargon": "Remove inconsistencies",
+      "layman": "Fix conflicting details"
+    },
+    {
+      "jargon": "Eliminate ambiguities",
+      "layman": "Clear up unclear parts"
+    },
+    {
+      "jargon": "Avoid formal overhead",
+      "layman": "Keep it simple, no complex math"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Executable model",
+      "layman": "Model that can run simulations"
+    },
+    {
+      "jargon": "High-level simulation",
+      "layman": "Testing system behavior without code"
+    },
+    {
+      "jargon": "Test and debugging",
+      "layman": "Check and fix system errors"
+    },
+    {
+      "jargon": "Application-domain-oriented terminology",
+      "layman": "Language from the real-world use"
+    },
+    {
+      "jargon": "Bridge gap between views",
+      "layman": "Connect user needs to system design"
+    }
+  ]
+}

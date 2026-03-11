@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Interaction Graphs",
+      "layman": "Networks showing how parts interact"
+    },
+    {
+      "jargon": "Graphs",
+      "layman": "Diagrams showing connections"
+    },
+    {
+      "jargon": "Exponential connectives",
+      "layman": "Operations that amplify or scale"
+    },
+    {
+      "jargon": "Geometry of Interaction",
+      "layman": "Method to study proofs using shapes"
+    },
+    {
+      "jargon": "Elementary Linear Logic (ELL)",
+      "layman": "Logic for simple, fast computations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Combinatorial approach",
+      "layman": "Using combinations to solve problems"
+    },
+    {
+      "jargon": "Graphings",
+      "layman": "Extended graphs with geometric features"
+    },
+    {
+      "jargon": "Geometric realization",
+      "layman": "Turning abstract graphs into shapes"
+    },
+    {
+      "jargon": "Model construction",
+      "layman": "Building a system to represent ideas"
+    },
+    {
+      "jargon": "Parametrized models",
+      "layman": "Models that change based on settings"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Representable functions",
+      "layman": "Functions that can be computed quickly"
+    },
+    {
+      "jargon": "Computable in elementary time",
+      "layman": "Can be solved in fast, simple steps"
+    },
+    {
+      "jargon": "Special cases",
+      "layman": "Simple examples within a broader system"
+    },
+    {
+      "jargon": "Generalization",
+      "layman": "Extending a rule to cover more cases"
+    },
+    {
+      "jargon": "Family of models",
+      "layman": "Multiple related models based on choices"
+    }
+  ]
+}

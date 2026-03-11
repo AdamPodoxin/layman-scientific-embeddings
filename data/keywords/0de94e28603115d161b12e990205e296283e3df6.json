@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cyclic 9",
+      "layman": "Cyclic 9"
+    },
+    {
+      "jargon": "Groebner basis",
+      "layman": "Mathematical tool for solving equations"
+    },
+    {
+      "jargon": "Infinite solutions",
+      "layman": "Endless number of answers"
+    },
+    {
+      "jargon": "Isolated points",
+      "layman": "Single, separate solutions"
+    },
+    {
+      "jargon": "Dimension two",
+      "layman": "Two-dimensional space of solutions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Groebner basis computation",
+      "layman": "Computing mathematical solutions step by step"
+    },
+    {
+      "jargon": "Computer algebra methods",
+      "layman": "Using computers to do advanced math"
+    },
+    {
+      "jargon": "FGb program",
+      "layman": "Software for solving complex equations"
+    },
+    {
+      "jargon": "Algebraic computation",
+      "layman": "Solving equations with algebra"
+    },
+    {
+      "jargon": "Solution enumeration",
+      "layman": "Finding and listing all possible answers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "One type of infinite solutions",
+      "layman": "One endless set of answers"
+    },
+    {
+      "jargon": "6156 isolated points",
+      "layman": "6,156 separate solution points"
+    },
+    {
+      "jargon": "Without multiplicities",
+      "layman": "No repeated solutions"
+    },
+    {
+      "jargon": "Previously untractable problem",
+      "layman": "Problem too hard to solve before"
+    },
+    {
+      "jargon": "All solutions computed",
+      "layman": "Every possible answer found"
+    }
+  ]
+}

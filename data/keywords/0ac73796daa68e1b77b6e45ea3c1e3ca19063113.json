@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lorentz-violating electrodynamics",
+      "layman": "Physics where light behaves differently than expected"
+    },
+    {
+      "jargon": "Electromagnetostatics",
+      "layman": "Static electric and magnetic fields"
+    },
+    {
+      "jargon": "Photon sector",
+      "layman": "Light-related physical properties"
+    },
+    {
+      "jargon": "Parity-odd coefficients",
+      "layman": "Asymmetries in how light interacts with matter"
+    },
+    {
+      "jargon": "Electrostatic effects",
+      "layman": "Static electric forces"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Stationary limit",
+      "layman": "Fixed, unchanging conditions"
+    },
+    {
+      "jargon": "Null-type measurement",
+      "layman": "Test that looks for no effect"
+    },
+    {
+      "jargon": "High-sensitivity measurement",
+      "layman": "Very precise detection"
+    },
+    {
+      "jargon": "Mixing of electrostatic and magnetostatic effects",
+      "layman": "Electric and magnetic fields influencing each other"
+    },
+    {
+      "jargon": "Exploiting Lorentz-violating effects",
+      "layman": "Using unusual physics to detect changes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved limits on parity-odd coefficients",
+      "layman": "Better constraints on asymmetries in light"
+    },
+    {
+      "jargon": "Unconventional mixing",
+      "layman": "Unexpected combination of electric and magnetic fields"
+    },
+    {
+      "jargon": "Existing limits on parity-odd coefficients",
+      "layman": "Current best estimates of asymmetries"
+    },
+    {
+      "jargon": "Lorentz-violating electromagnetostatic effects",
+      "layman": "Abnormal static electric and magnetic behaviors"
+    },
+    {
+      "jargon": "Stationary limit solution",
+      "layman": "Predicted behavior under stable conditions"
+    }
+  ]
+}

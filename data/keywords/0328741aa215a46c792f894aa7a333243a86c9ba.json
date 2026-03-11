@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Epigrams 10",
+      "layman": "Martial's collection of 10 short poems"
+    },
+    {
+      "jargon": "Flavian Latin texts",
+      "layman": "Latin writings from the Flavian dynasty"
+    },
+    {
+      "jargon": "Imperial revolution",
+      "layman": "Political shift in Roman rule"
+    },
+    {
+      "jargon": "Martial",
+      "layman": "Roman poet"
+    },
+    {
+      "jargon": "Trajan",
+      "layman": "Roman emperor"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Textual perceptive reading",
+      "layman": "Careful analysis of text"
+    },
+    {
+      "jargon": "Political climate analysis",
+      "layman": "Studying the political environment"
+    },
+    {
+      "jargon": "Topographical dislocation",
+      "layman": "Displaced or mismatched locations"
+    },
+    {
+      "jargon": "Poetic security",
+      "layman": "Stability in poetry"
+    },
+    {
+      "jargon": "Reader interpretation",
+      "layman": "How readers understand texts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Silence about Trajan",
+      "layman": "No mention of Trajan"
+    },
+    {
+      "jargon": "Estrangement from political discourse",
+      "layman": "Distance from politics"
+    },
+    {
+      "jargon": "Removal of incisive commentator",
+      "layman": "Loss of sharp critic"
+    },
+    {
+      "jargon": "Greatest wit",
+      "layman": "Most clever poet"
+    },
+    {
+      "jargon": "Poetic security",
+      "layman": "Stable poetic expression"
+    }
+  ]
+}

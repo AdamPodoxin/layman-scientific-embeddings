@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Differential games",
+      "layman": "Strategic games involving change over time"
+    },
+    {
+      "jargon": "Optimal control",
+      "layman": "Best possible control strategy"
+    },
+    {
+      "jargon": "Exterior state constraints",
+      "layman": "Limits on system states from outside"
+    },
+    {
+      "jargon": "Control systems",
+      "layman": "Systems that respond to control inputs"
+    },
+    {
+      "jargon": "Coset spaces",
+      "layman": "Special mathematical structures for symmetry"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reduction",
+      "layman": "Simplifying one problem into another"
+    },
+    {
+      "jargon": "Time-optimality",
+      "layman": "Achieving results in the shortest time"
+    },
+    {
+      "jargon": "Feedback controls",
+      "layman": "Controls that adjust based on real-time data"
+    },
+    {
+      "jargon": "Existence and value of games",
+      "layman": "Whether a game has a solution and its worth"
+    },
+    {
+      "jargon": "Constraint satisfaction",
+      "layman": "Meeting imposed limits or rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Valueless games",
+      "layman": "Games with no defined value or outcome"
+    },
+    {
+      "jargon": "Uniqueness of optimal controls",
+      "layman": "Only one best control exists"
+    },
+    {
+      "jargon": "Time-optimality",
+      "layman": "Best result in shortest time"
+    },
+    {
+      "jargon": "General forms of constraints",
+      "layman": "Broad limits on system behavior"
+    },
+    {
+      "jargon": "No value intrusion",
+      "layman": "No need to determine game value"
+    }
+  ]
+}

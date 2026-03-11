@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Na+,K+-ATPase",
+      "layman": "Sodium-potassium pump"
+    },
+    {
+      "jargon": "\u03b1 subunit",
+      "layman": "Alpha subunit"
+    },
+    {
+      "jargon": "\u03b2 subunit",
+      "layman": "Beta subunit"
+    },
+    {
+      "jargon": "\u03b1,\u03b1-dimer",
+      "layman": "Two alpha subunits together"
+    },
+    {
+      "jargon": "\u03b1,\u03b2-dimer",
+      "layman": "Alpha and beta subunits together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cross-linking",
+      "layman": "Bonding subunits together"
+    },
+    {
+      "jargon": "Cupric-phenanthroline complex",
+      "layman": "Copper-phenanthroline mix"
+    },
+    {
+      "jargon": "Exposure to Cu\u00b2\u207a",
+      "layman": "Exposure to copper ions"
+    },
+    {
+      "jargon": "EDTA treatment",
+      "layman": "Adding EDTA to break bonds"
+    },
+    {
+      "jargon": "Quaternary structure",
+      "layman": "Overall enzyme shape"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Higher molecular weight products",
+      "layman": "Larger enzyme complexes"
+    },
+    {
+      "jargon": "Dissociation in EDTA",
+      "layman": "Breaks apart in EDTA"
+    },
+    {
+      "jargon": "Disulfide bond",
+      "layman": "Sulfur bond between proteins"
+    },
+    {
+      "jargon": "Covalent cross-linking",
+      "layman": "Permanent bonding between parts"
+    },
+    {
+      "jargon": "Interpretation with caution",
+      "layman": "Results need more proof"
+    }
+  ]
+}

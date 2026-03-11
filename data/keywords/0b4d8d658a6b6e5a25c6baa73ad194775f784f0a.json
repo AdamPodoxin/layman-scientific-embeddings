@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "K-meson",
+      "layman": "Kaon particle"
+    },
+    {
+      "jargon": "Vector decay constant",
+      "layman": "Measure of how a kaon decays in a certain way"
+    },
+    {
+      "jargon": "Tensor decay constant",
+      "layman": "Measure of how a kaon decays in a complex way"
+    },
+    {
+      "jargon": "B-parameter",
+      "layman": "Number describing kaon oscillations"
+    },
+    {
+      "jargon": "Wilson quark flavours",
+      "layman": "Types of quarks in the simulation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Partially quenched setup",
+      "layman": "Simulation with some quarks active, others not"
+    },
+    {
+      "jargon": "Maximally twisted mass term",
+      "layman": "Special mass setting in the model"
+    },
+    {
+      "jargon": "Valence quarks",
+      "layman": "Quarks used to represent the particles"
+    },
+    {
+      "jargon": "Osterwalder-Seiler maximally twisted",
+      "layman": "A twisted version of quark setup"
+    },
+    {
+      "jargon": "O(a) improved",
+      "layman": "Fixes small errors in the model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Multiplicatively renormalizable",
+      "layman": "Results stay consistent after scaling"
+    },
+    {
+      "jargon": "BK parameter",
+      "layman": "Key number for kaon behavior"
+    },
+    {
+      "jargon": "Decay constants",
+      "layman": "Numbers showing how kaons break apart"
+    },
+    {
+      "jargon": "Kaon oscillations",
+      "layman": "Kaons changing into other types"
+    },
+    {
+      "jargon": "Simulations",
+      "layman": "Computer models of particle behavior"
+    }
+  ]
+}

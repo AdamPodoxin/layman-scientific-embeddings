@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "UAV sensor platforms",
+      "layman": "Drones with sensors"
+    },
+    {
+      "jargon": "Wind fields",
+      "layman": "Wind patterns"
+    },
+    {
+      "jargon": "Quantity of interest",
+      "layman": "Thing being measured"
+    },
+    {
+      "jargon": "Gaussian process regression",
+      "layman": "Prediction model"
+    },
+    {
+      "jargon": "RF intensity field",
+      "layman": "Radio wave strength area"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Informative path planning",
+      "layman": "Best path planning"
+    },
+    {
+      "jargon": "Dynamic feasibility",
+      "layman": "Vehicle movement limits"
+    },
+    {
+      "jargon": "Location selection",
+      "layman": "Picking best spots to visit"
+    },
+    {
+      "jargon": "Path cost calculation",
+      "layman": "Finding cheapest routes"
+    },
+    {
+      "jargon": "Sensor allocation",
+      "layman": "Assigning drones to spots"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Best locations to observe",
+      "layman": "Top spots to monitor"
+    },
+    {
+      "jargon": "Estimated measurement value",
+      "layman": "Predicted sensor reading"
+    },
+    {
+      "jargon": "Mapping of regions",
+      "layman": "Creating a map of areas"
+    },
+    {
+      "jargon": "Validated approach",
+      "layman": "Proven method works"
+    },
+    {
+      "jargon": "Applicability",
+      "layman": "Can be used in real cases"
+    }
+  ]
+}

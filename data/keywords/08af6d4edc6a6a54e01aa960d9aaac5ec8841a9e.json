@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Scarce goods",
+      "layman": "Limited resources"
+    },
+    {
+      "jargon": "Distribution methods",
+      "layman": "Ways to share things"
+    },
+    {
+      "jargon": "Order of application",
+      "layman": "Who goes first"
+    },
+    {
+      "jargon": "Market",
+      "layman": "Buying and selling system"
+    },
+    {
+      "jargon": "Merit",
+      "layman": "Based on ability or effort"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Scenario presentation",
+      "layman": "Presenting story-based situations"
+    },
+    {
+      "jargon": "Single statement about scarcity",
+      "layman": "One sentence about shortage"
+    },
+    {
+      "jargon": "Cross-cultural comparison",
+      "layman": "Comparing different countries"
+    },
+    {
+      "jargon": "Economic upbringing",
+      "layman": "Growing up in a certain economy"
+    },
+    {
+      "jargon": "Preference rating",
+      "layman": "People ranking their choices"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Preferences varied with scarcity",
+      "layman": "People's choices changed based on shortage"
+    },
+    {
+      "jargon": "Preference for current practice",
+      "layman": "Favoring what society already uses"
+    },
+    {
+      "jargon": "No simple link to economic upbringing",
+      "layman": "Not just shaped by where you grew up"
+    },
+    {
+      "jargon": "Preferences differ between countries",
+      "layman": "Students from different places had different views"
+    },
+    {
+      "jargon": "Market vs regulation preference",
+      "layman": "People chose between free market or rules"
+    }
+  ]
+}

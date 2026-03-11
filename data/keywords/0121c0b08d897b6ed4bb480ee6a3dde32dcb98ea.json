@@ -1,0 +1,59 @@
+{
+  "core_entities": [
+    {
+      "jargon": "human resource practices",
+      "layman": "HR practices"
+    },
+    {
+      "jargon": "firm growth",
+      "layman": "company growth"
+    },
+    {
+      "jargon": "job security",
+      "layman": "job stability"
+    },
+    {
+      "jargon": "selective hiring",
+      "layman": "choosing best candidates"
+    },
+    {
+      "jargon": "self-managed teams",
+      "layman": "teams that manage themselves"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "literature review",
+      "layman": "reviewing past studies"
+    },
+    {
+      "jargon": "survey",
+      "layman": "asking questions to people"
+    },
+    "compensation policy",
+    "extensive training",
+    "information sharing"
+  ],
+  "outcomes": [
+    {
+      "jargon": "sales growth",
+      "layman": "increase in sales"
+    },
+    {
+      "jargon": "strongest predictor",
+      "layman": "most important factor"
+    },
+    {
+      "jargon": "overall support",
+      "layman": "general agreement"
+    },
+    {
+      "jargon": "significant contribution",
+      "layman": "helps growth"
+    },
+    {
+      "jargon": "no link found",
+      "layman": "no connection found"
+    }
+  ]
+}

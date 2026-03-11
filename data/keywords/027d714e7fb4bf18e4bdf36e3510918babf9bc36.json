@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nucleons",
+      "layman": "Protons and neutrons"
+    },
+    {
+      "jargon": "Pions",
+      "layman": "Particle that carries nuclear force"
+    },
+    {
+      "jargon": "Chiral symmetry",
+      "layman": "Symmetry in particle interactions"
+    },
+    {
+      "jargon": "Broken chiral symmetry",
+      "layman": "Symmetry that is not preserved in nature"
+    },
+    {
+      "jargon": "Neutron star",
+      "layman": "Dead star made of neutron matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Effective chiral theory",
+      "layman": "Simplified model of particle interactions"
+    },
+    {
+      "jargon": "Real time formalism",
+      "layman": "Method to study time-dependent processes"
+    },
+    {
+      "jargon": "Feynman gauge",
+      "layman": "Choice of mathematical setup for calculations"
+    },
+    {
+      "jargon": "One-loop dispersion relations",
+      "layman": "First-level energy behavior calculation"
+    },
+    {
+      "jargon": "Energy expansion",
+      "layman": "Breaking energy into small parts to study"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Dispersion relations",
+      "layman": "How particles move with energy"
+    },
+    {
+      "jargon": "Effective masses",
+      "layman": "Apparent mass in hot or dense matter"
+    },
+    {
+      "jargon": "Quasi-nucleon excitations",
+      "layman": "Nucleon-like particles in hot matter"
+    },
+    {
+      "jargon": "Quasi-pion excitations",
+      "layman": "Pion-like particles in hot matter"
+    },
+    {
+      "jargon": "Leading order in T and \u03bc_f",
+      "layman": "Main effect from temperature and density"
+    }
+  ]
+}

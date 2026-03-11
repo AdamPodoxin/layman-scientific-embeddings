@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Meta-gabbro",
+      "layman": "Metamorphosed gabbro"
+    },
+    {
+      "jargon": "Meta-plagiogranite",
+      "layman": "Metamorphosed plagiogranite"
+    },
+    {
+      "jargon": "Serpentinite",
+      "layman": "Stony rock with green minerals"
+    },
+    {
+      "jargon": "Radiolarite",
+      "layman": "Rock from ancient sea creatures"
+    },
+    {
+      "jargon": "Blueschist facies",
+      "layman": "High-pressure metamorphic rock"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Laser ablation ICP-MS",
+      "layman": "Precise rock element testing"
+    },
+    {
+      "jargon": "U\u2013Pb zircon dating",
+      "layman": "Dating rock using zircon crystals"
+    },
+    {
+      "jargon": "40Ar/39Ar dating",
+      "layman": "Dating rock using argon decay"
+    },
+    {
+      "jargon": "Electron microprobe",
+      "layman": "Microscopic mineral analysis"
+    },
+    {
+      "jargon": "Pseudo-section modelling",
+      "layman": "Simulating rock transformation conditions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "222.3\u2009\u00b1\u20091.5 Ma crystallization age",
+      "layman": "Rock formed 222 million years ago"
+    },
+    {
+      "jargon": "104.3\u2009\u00b1\u20090.7 Ma blueschist age",
+      "layman": "Blueschist formed 104 million years ago"
+    },
+    {
+      "jargon": "Na\u2013Ca amphiboles",
+      "layman": "Specific minerals showing high pressure"
+    },
+    {
+      "jargon": "Late Triassic oceanic crust",
+      "layman": "Ancient sea floor rock"
+    },
+    {
+      "jargon": "Subduction-related geochemical characteristics",
+      "layman": "Chemical signs of rock being pushed under"
+    }
+  ]
+}

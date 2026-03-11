@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Service-learning engineering projects",
+      "layman": "Engineering projects with community service"
+    },
+    {
+      "jargon": "Global engineering education",
+      "layman": "Engineering education across countries"
+    },
+    {
+      "jargon": "Sustainable community development",
+      "layman": "Helping communities grow without harming the environment"
+    },
+    {
+      "jargon": "Social justice education",
+      "layman": "Teaching fairness in engineering"
+    },
+    {
+      "jargon": "Emancipatory pedagogies",
+      "layman": "Teaching that empowers students"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Developing a typology",
+      "layman": "Creating a classification system"
+    },
+    {
+      "jargon": "Critical pedagogies",
+      "layman": "Teaching that questions power and inequality"
+    },
+    {
+      "jargon": "Global engineering projects",
+      "layman": "Engineering work done internationally"
+    },
+    {
+      "jargon": "Community engagement",
+      "layman": "Working with local communities"
+    },
+    {
+      "jargon": "Pedagogical reflection",
+      "layman": "Thinking about teaching methods after action"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Enhanced global service-learning projects",
+      "layman": "Better community-focused engineering projects"
+    },
+    {
+      "jargon": "Improved student learning outcomes",
+      "layman": "Students learn more effectively"
+    },
+    {
+      "jargon": "Increased student agency",
+      "layman": "Students feel more in control"
+    },
+    {
+      "jargon": "Sustainable development impact",
+      "layman": "Positive long-term community change"
+    },
+    {
+      "jargon": "Equitable engineering practices",
+      "layman": "Fairer engineering solutions for all"
+    }
+  ]
+}

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "monolignol",
+      "jargon": "Monolignol",
       "layman": "Lignin building block"
     },
     {
-      "jargon": "dilignol",
+      "jargon": "Dilignol",
       "layman": "Lignin precursor"
     },
     {
-      "jargon": "phospholipid bilayer",
+      "jargon": "Phospholipid bilayer",
       "layman": "Cell membrane layer"
     },
     {
-      "jargon": "ammonium sulfate",
-      "layman": "Salt in solution"
+      "jargon": "Lignin precursors",
+      "layman": "Molecules that form lignin"
     },
     {
-      "jargon": "hydrophobicity",
-      "layman": "Lack of water attraction"
+      "jargon": "Buffer composition",
+      "layman": "Solution conditions"
     }
   ],
   "methodologies": [
     {
-      "jargon": "immobilized liposome chromatography",
-      "layman": "Membrane testing using beads"
+      "jargon": "Immobilized liposome chromatography",
+      "layman": "Membrane testing method"
     },
     {
-      "jargon": "temperature dependence",
-      "layman": "Effect of heat on process"
+      "jargon": "Temperature dependence",
+      "layman": "Effect of temperature"
     },
     {
-      "jargon": "partitioning",
-      "layman": "Moving between layers"
+      "jargon": "Partitioning",
+      "layman": "Movement into membranes"
     },
     {
-      "jargon": "octanol/water partitioning",
-      "layman": "How substances split between oil and water"
+      "jargon": "Hydrophobic effects",
+      "layman": "Attraction to fats"
     },
     {
-      "jargon": "passive diffusion",
-      "layman": "Spontaneous movement through membrane"
+      "jargon": "Polar interactions",
+      "layman": "Electron-based attractions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "retention",
-      "layman": "How long substance stays in system"
+      "jargon": "Retention",
+      "layman": "How long molecules stay"
     },
     {
-      "jargon": "hydrophobic effects",
-      "layman": "Attraction to fats"
+      "jargon": "Hydrophobicity",
+      "layman": "Lipid-loving nature"
     },
     {
-      "jargon": "polar interactions",
-      "layman": "Electrical attraction between molecules"
+      "jargon": "Passive diffusion",
+      "layman": "Spontaneous movement through membrane"
     },
     {
-      "jargon": "good correlation",
-      "layman": "Strong match between values"
+      "jargon": "Correlation",
+      "layman": "Strong connection between data"
     },
     {
-      "jargon": "transport route",
-      "layman": "Pathway for moving through cell"
+      "jargon": "Cell membrane transport",
+      "layman": "Movement across cell wall"
     }
   ]
 }

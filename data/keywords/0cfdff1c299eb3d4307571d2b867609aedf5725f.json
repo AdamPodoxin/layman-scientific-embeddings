@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Homogeneous polynomials",
+      "layman": "Polynomials with uniform degree"
+    },
+    {
+      "jargon": "Jensen type inequalities",
+      "layman": "Mathematical rules about averages"
+    },
+    {
+      "jargon": "Majorization theory",
+      "layman": "Mathematical way to compare sets of numbers"
+    },
+    {
+      "jargon": "Algebraic theories",
+      "layman": "Math rules based on equations"
+    },
+    {
+      "jargon": "Analytical theories",
+      "layman": "Math tools for solving problems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Algebraic theories",
+      "layman": "Math rules based on equations"
+    },
+    {
+      "jargon": "Analytical theories",
+      "layman": "Math tools for solving problems"
+    },
+    {
+      "jargon": "Majorization theories",
+      "layman": "Math way to compare number sets"
+    },
+    {
+      "jargon": "Proper hypotheses",
+      "layman": "Valid assumptions made before testing"
+    },
+    {
+      "jargon": "Establishing inequalities",
+      "layman": "Proving mathematical relationships"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Jensen type inequalities",
+      "layman": "Mathematical rules about averages"
+    },
+    {
+      "jargon": "Applications",
+      "layman": "Real-world uses"
+    },
+    {
+      "jargon": "Polynomials as follows",
+      "layman": "Specific mathematical expressions"
+    },
+    {
+      "jargon": "Under proper hypotheses",
+      "layman": "When conditions are met"
+    },
+    {
+      "jargon": "Display their applications",
+      "layman": "Show practical uses"
+    }
+  ]
+}

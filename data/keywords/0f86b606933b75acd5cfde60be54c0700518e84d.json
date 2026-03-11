@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Majorana neutrinos",
+      "layman": "Neutrinos that are their own antiparticles"
+    },
+    {
+      "jargon": "Majorana fermions",
+      "layman": "Particles that are their own antiparticles"
+    },
+    {
+      "jargon": "Ettore Majorana",
+      "layman": "Italian physicist"
+    },
+    {
+      "jargon": "Neutrino physics",
+      "layman": "Study of neutrinos"
+    },
+    {
+      "jargon": "Condensed matter physics",
+      "layman": "Study of solid materials"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical research",
+      "layman": "Investigating past records"
+    },
+    {
+      "jargon": "Scientific research",
+      "layman": "Experiments and analysis in science"
+    },
+    {
+      "jargon": "Particle physics",
+      "layman": "Study of subatomic particles"
+    },
+    {
+      "jargon": "Cosmology",
+      "layman": "Study of the universe"
+    },
+    {
+      "jargon": "Theoretical modeling",
+      "layman": "Creating math-based simulations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Disappearance in 1938",
+      "layman": "Vanished without trace"
+    },
+    {
+      "jargon": "Scientific legacy",
+      "layman": "Lasting contributions to science"
+    },
+    {
+      "jargon": "Personal background",
+      "layman": "Private life and history"
+    },
+    {
+      "jargon": "Recent research findings",
+      "layman": "New discoveries about his work"
+    },
+    {
+      "jargon": "Mysterious disappearance",
+      "layman": "Unexplained vanishing"
+    }
+  ]
+}

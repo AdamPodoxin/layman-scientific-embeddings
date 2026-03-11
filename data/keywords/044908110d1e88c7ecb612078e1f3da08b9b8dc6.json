@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sraffian economics",
+      "layman": "Economic theory based on Sraffa's ideas"
+    },
+    {
+      "jargon": "Classical economists",
+      "layman": "Old economic thinkers"
+    },
+    {
+      "jargon": "Surplus approach",
+      "layman": "Way of measuring economic surplus"
+    },
+    {
+      "jargon": "Formalism",
+      "layman": "Strict mathematical style of theory"
+    },
+    {
+      "jargon": "Theoretical approach",
+      "layman": "How economists build models"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analytical argument",
+      "layman": "Logical reasoning"
+    },
+    {
+      "jargon": "Critical review",
+      "layman": "Careful evaluation"
+    },
+    {
+      "jargon": "Theoretical development",
+      "layman": "Building economic models"
+    },
+    {
+      "jargon": "Interpretation",
+      "layman": "Understanding meaning"
+    },
+    {
+      "jargon": "Formal presentation",
+      "layman": "Clear and structured explanation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Defective interpretation",
+      "layman": "Wrong understanding"
+    },
+    {
+      "jargon": "Lively debate",
+      "layman": "Strong discussion"
+    },
+    {
+      "jargon": "Compact analytical argument",
+      "layman": "Clear and short logical proof"
+    },
+    {
+      "jargon": "Contestation",
+      "layman": "Disagreement or challenge"
+    },
+    {
+      "jargon": "Main themes remain",
+      "layman": "Core points stay the same"
+    }
+  ]
+}

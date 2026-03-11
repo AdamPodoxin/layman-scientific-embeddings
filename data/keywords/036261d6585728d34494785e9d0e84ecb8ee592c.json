@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cultural icons",
+      "layman": "People admired in a culture"
+    },
+    {
+      "jargon": "Heroism",
+      "layman": "Acts of bravery"
+    },
+    {
+      "jargon": "Goodness",
+      "layman": "Kindness and morality"
+    },
+    {
+      "jargon": "People",
+      "layman": "Individuals in a society"
+    },
+    {
+      "jargon": "China",
+      "layman": "China"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cultural observation",
+      "layman": "Watching cultural behavior"
+    },
+    {
+      "jargon": "Social analysis",
+      "layman": "Studying social patterns"
+    },
+    {
+      "jargon": "Icon identification",
+      "layman": "Spotting admired figures"
+    },
+    {
+      "jargon": "Cross-cultural comparison",
+      "layman": "Comparing cultures"
+    },
+    {
+      "jargon": "Narrative analysis",
+      "layman": "Studying stories and legends"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Stand out",
+      "layman": "Become notable"
+    },
+    {
+      "jargon": "Representation",
+      "layman": "Showcase of values"
+    },
+    {
+      "jargon": "Cultural heroism",
+      "layman": "Bravery in stories"
+    },
+    {
+      "jargon": "National pride",
+      "layman": "Pride in one's country"
+    },
+    {
+      "jargon": "Collective admiration",
+      "layman": "People respect each other"
+    }
+  ]
+}

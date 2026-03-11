@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rheumatic heart disease",
+      "layman": "Heart damage from rheumatic fever"
+    },
+    {
+      "jargon": "Mitral valve disease",
+      "layman": "Heart valve problem in the left side"
+    },
+    {
+      "jargon": "Pulmonary edema",
+      "layman": "Fluid in the lungs"
+    },
+    {
+      "jargon": "Congestive heart failure",
+      "layman": "Heart can't pump blood well"
+    },
+    {
+      "jargon": "Infective endocarditis",
+      "layman": "Infection in heart lining"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "New York Heart Association functional classification",
+      "layman": "Heart function grading scale"
+    },
+    {
+      "jargon": "Clinical reassessment",
+      "layman": "Medical check-up after delivery"
+    },
+    {
+      "jargon": "Follow-up intervals",
+      "layman": "Regular doctor visits"
+    },
+    {
+      "jargon": "Hospital delivery",
+      "layman": "Childbirth in hospital"
+    },
+    {
+      "jargon": "Gravida",
+      "layman": "Number of times a woman has been pregnant"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Acute pulmonary edema",
+      "layman": "Sudden lung fluid buildup"
+    },
+    {
+      "jargon": "Maternal death",
+      "layman": "Mother's death during pregnancy"
+    },
+    {
+      "jargon": "Stillbirth",
+      "layman": "Baby born dead"
+    },
+    {
+      "jargon": "Functional state progression",
+      "layman": "Heart function gets worse"
+    },
+    {
+      "jargon": "High maternal mortality",
+      "layman": "Many mothers die"
+    }
+  ]
+}

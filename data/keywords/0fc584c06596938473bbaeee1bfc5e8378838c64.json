@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "apple condensed tannins",
+      "layman": "apple tannins"
+    },
+    {
+      "jargon": "B-type procyanidin oligomers",
+      "layman": "tannin chains with specific structure"
+    },
+    {
+      "jargon": "tetramers and pentamers",
+      "layman": "four- and five-unit tannin groups"
+    },
+    {
+      "jargon": "(-)-epicatechin",
+      "layman": "main building block of tannins"
+    },
+    {
+      "jargon": "metal ions (Fe2+, Cu2+, Zn2+)",
+      "layman": "important metal atoms in body"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "inductively coupled plasma mass spectrometry (ICP-MS)",
+      "layman": "test to measure metal amounts"
+    },
+    {
+      "jargon": "thermogravimetry analysis (TGA)",
+      "layman": "heat-based weight measurement"
+    },
+    {
+      "jargon": "field emission scanning electron microscopy (FE-SEM)",
+      "layman": "microscope to see tiny structures"
+    },
+    {
+      "jargon": "fluorescence quenching",
+      "layman": "light emission stops when metals are present"
+    },
+    {
+      "jargon": "catechol group-ion exchange",
+      "layman": "tannin groups swap with metal ions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "binding constants",
+      "layman": "how strongly tannins bind metals"
+    },
+    {
+      "jargon": "binding sites",
+      "layman": "where metals attach to tannins"
+    },
+    {
+      "jargon": "Gibbs energy changes",
+      "layman": "energy released when metals bind"
+    },
+    {
+      "jargon": "effectiveness of precipitation",
+      "layman": "how well metals are removed"
+    },
+    {
+      "jargon": "metal content in coprecipitates",
+      "layman": "percent of metal in the final mix"
+    }
+  ]
+}

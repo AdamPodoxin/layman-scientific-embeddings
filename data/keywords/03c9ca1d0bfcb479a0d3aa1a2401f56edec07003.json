@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Antiquarianism",
+      "layman": "Study of ancient things"
+    },
+    {
+      "jargon": "Historiography",
+      "layman": "How history is written"
+    },
+    {
+      "jargon": "Ancient Greece",
+      "layman": "Ancient Greek civilization"
+    },
+    {
+      "jargon": "Roman Empire",
+      "layman": "Ancient Roman world"
+    },
+    {
+      "jargon": "Early modern period",
+      "layman": "Time before modern times"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Genealogy",
+      "layman": "Tracing origins over time"
+    },
+    {
+      "jargon": "Historiographical inquiry",
+      "layman": "How history is studied"
+    },
+    {
+      "jargon": "Excavating archives",
+      "layman": "Searching old records"
+    },
+    {
+      "jargon": "Contingency",
+      "layman": "Unpredictable changes over time"
+    },
+    {
+      "jargon": "Transformation",
+      "layman": "Change over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mutual imbrications",
+      "layman": "Deep connections between ideas"
+    },
+    {
+      "jargon": "Alternatives to historical inquiry",
+      "layman": "New ways to study the past"
+    },
+    {
+      "jargon": "Usurpation by history",
+      "layman": "History taking over antiquarian work"
+    },
+    {
+      "jargon": "Transformation into anthropology",
+      "layman": "Becoming study of human cultures"
+    },
+    {
+      "jargon": "Late modernity",
+      "layman": "Modern era of deep cultural change"
+    }
+  ]
+}

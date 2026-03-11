@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lattice distortions",
+      "layman": "Distorted crystal structure"
+    },
+    {
+      "jargon": "Vanadates",
+      "layman": "Vanadium-based compounds"
+    },
+    {
+      "jargon": "Structural phase transitions",
+      "layman": "Changes in crystal shape with temperature"
+    },
+    {
+      "jargon": "La doped YVO3",
+      "layman": "Yttrium vanadate with lanthanum added"
+    },
+    {
+      "jargon": "Bulk modulus",
+      "layman": "Stiffness of material under pressure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Thermodynamic study",
+      "layman": "Study of energy changes with temperature"
+    },
+    {
+      "jargon": "Temperature dependent transitions",
+      "layman": "Changes that happen at different temperatures"
+    },
+    {
+      "jargon": "Modified rigid ion model",
+      "layman": "Simplified model for atomic behavior"
+    },
+    {
+      "jargon": "Specific heat measurement",
+      "layman": "How much heat a material absorbs"
+    },
+    {
+      "jargon": "Low temperature thermal expansion",
+      "layman": "How much a material expands when cooled"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cohesive energy",
+      "layman": "Energy holding atoms together"
+    },
+    {
+      "jargon": "Debye temperature",
+      "layman": "Temperature linked to atomic vibrations"
+    },
+    {
+      "jargon": "Elastic properties",
+      "layman": "How a material bends and returns"
+    },
+    {
+      "jargon": "Thermal behavior",
+      "layman": "How heat affects the material"
+    },
+    {
+      "jargon": "Validation with experimental data",
+      "layman": "Checking results against real-world tests"
+    }
+  ]
+}

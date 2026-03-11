@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ergonomics",
+      "layman": "Design of workspaces for human comfort"
+    },
+    {
+      "jargon": "USSR",
+      "layman": "Soviet Union"
+    },
+    {
+      "jargon": "Scientific and technological cooperation",
+      "layman": "Collaboration between countries on science and tech"
+    },
+    {
+      "jargon": "Council for Mutual Economic Aid",
+      "layman": "Group of countries working together economically"
+    },
+    {
+      "jargon": "Applied ergonomics",
+      "layman": "Using ergonomics in real-world work settings"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical premises",
+      "layman": "Past foundations of a field"
+    },
+    {
+      "jargon": "Organization of cooperation",
+      "layman": "Setting up joint work between nations"
+    },
+    {
+      "jargon": "Research studies",
+      "layman": "Scientific investigations"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering information for analysis"
+    },
+    {
+      "jargon": "Scientific problems",
+      "layman": "Unanswered questions in research"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Present state",
+      "layman": "Current condition"
+    },
+    {
+      "jargon": "Main direction",
+      "layman": "Primary focus area"
+    },
+    {
+      "jargon": "Effective data",
+      "layman": "Useful research findings"
+    },
+    {
+      "jargon": "New stage of development",
+      "layman": "A new phase in growth"
+    },
+    {
+      "jargon": "Scientific problems untouched",
+      "layman": "Key issues not studied"
+    }
+  ]
+}

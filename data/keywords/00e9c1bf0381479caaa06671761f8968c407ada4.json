@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Open System for Road Information Support",
+      "layman": "Open system for road work support"
+    },
+    {
+      "jargon": "Flexible pavement",
+      "layman": "Asphalt road surface"
+    },
+    {
+      "jargon": "Work documentation",
+      "layman": "Record of road work activities"
+    },
+    {
+      "jargon": "Worksite",
+      "layman": "Road construction site"
+    },
+    {
+      "jargon": "European standard",
+      "layman": "Common standard across Europe"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Construction",
+      "layman": "Building the road"
+    },
+    {
+      "jargon": "Maintenance",
+      "layman": "Regular road upkeep"
+    },
+    {
+      "jargon": "Rehabilitation",
+      "layman": "Fixing damaged roads"
+    },
+    {
+      "jargon": "Work support system",
+      "layman": "Tools to help road workers"
+    },
+    {
+      "jargon": "Documentation",
+      "layman": "Keeping records of work done"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "European standard",
+      "layman": "Common rule for road work"
+    },
+    {
+      "jargon": "Support system",
+      "layman": "Better coordination at site"
+    },
+    {
+      "jargon": "Flexible pavement",
+      "layman": "Asphalt that adapts to stress"
+    },
+    {
+      "jargon": "Work documentation",
+      "layman": "Clear record of every step"
+    },
+    {
+      "jargon": "Open system",
+      "layman": "Accessible and shared information"
+    }
+  ]
+}

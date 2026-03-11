@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Biotech entrepreneurs",
+      "layman": "Biotech entrepreneurs"
+    },
+    {
+      "jargon": "Venture capital investors",
+      "layman": "VC investors"
+    },
+    {
+      "jargon": "Personal collaboration tie",
+      "layman": "Personal work connection"
+    },
+    {
+      "jargon": "Personal friendship tie",
+      "layman": "Personal friendship"
+    },
+    {
+      "jargon": "Tacit knowledge",
+      "layman": "Unwritten knowledge"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Data set",
+      "layman": "Collection of data"
+    },
+    {
+      "jargon": "Measure",
+      "layman": "Assess"
+    },
+    {
+      "jargon": "Analyse",
+      "layman": "Examine"
+    },
+    {
+      "jargon": "Systematic examination",
+      "layman": "Careful study"
+    },
+    {
+      "jargon": "Interorganizational networks",
+      "layman": "Connections between organizations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Increased probability",
+      "layman": "Higher chance"
+    },
+    {
+      "jargon": "Advice tie",
+      "layman": "Advice connection"
+    },
+    {
+      "jargon": "Exchange of tacit knowledge",
+      "layman": "Sharing unwritten knowledge"
+    },
+    {
+      "jargon": "Social embeddedness",
+      "layman": "Strong social ties"
+    },
+    {
+      "jargon": "Personalization of exchanges",
+      "layman": "Tailored interactions"
+    }
+  ]
+}

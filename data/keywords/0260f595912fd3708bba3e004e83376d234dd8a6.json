@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mid-Wave Infra-Red (MWIR) detector",
+      "layman": "Device that detects heat in mid-range infrared light"
+    },
+    {
+      "jargon": "4H-SiC",
+      "layman": "Special type of silicon carbide crystal"
+    },
+    {
+      "jargon": "n-type 4H-SiC",
+      "layman": "Silicon carbide with extra electrons"
+    },
+    {
+      "jargon": "p-type dopants",
+      "layman": "Dopants that create positive charge carriers"
+    },
+    {
+      "jargon": "gallium",
+      "layman": "Metal used to change electrical properties"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Laser doping technique",
+      "layman": "Using laser to add atoms into material"
+    },
+    {
+      "jargon": "Continuous wave Nd:YAG laser",
+      "layman": "Laser that emits steady light"
+    },
+    {
+      "jargon": "Secondary ion mass spectroscopy",
+      "layman": "Test to measure element depth in material"
+    },
+    {
+      "jargon": "Metal-organic dopant precursor",
+      "layman": "Chemical used to deliver dopant atoms"
+    },
+    {
+      "jargon": "Micro-stage speed",
+      "layman": "Speed at which the material moves under laser"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Maximum concentration of Ga",
+      "layman": "Highest level of gallium in material"
+    },
+    {
+      "jargon": "Dopant depth",
+      "layman": "How deep the dopant goes into the material"
+    },
+    {
+      "jargon": "Two orders of magnitude higher",
+      "layman": "Much higher than previous results"
+    },
+    {
+      "jargon": "6.251\u00d710\u00b2\u2070 cm\u207b\u00b3",
+      "layman": "Very high number of gallium atoms per volume"
+    },
+    {
+      "jargon": "6.0\u00d710\u00b9\u2078 cm\u207b\u00b3",
+      "layman": "Previous reported level of gallium"
+    }
+  ]
+}

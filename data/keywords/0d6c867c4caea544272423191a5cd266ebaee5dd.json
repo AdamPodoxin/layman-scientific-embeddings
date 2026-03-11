@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Amateur photographic societies",
+      "layman": "Volunteer photography groups"
+    },
+    {
+      "jargon": "Illustrated Boston",
+      "layman": "Boston town slides"
+    },
+    {
+      "jargon": "New England town",
+      "layman": "A town in New England"
+    },
+    {
+      "jargon": "National Photographic Record Association",
+      "layman": "National photo record group"
+    },
+    {
+      "jargon": "Photographic surveys",
+      "layman": "Photo-based place mapping"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Photographic surveys",
+      "layman": "Taking photos to map places"
+    },
+    {
+      "jargon": "Visual description",
+      "layman": "Describing places with images"
+    },
+    {
+      "jargon": "Slide showing",
+      "layman": "Showing slides in meetings"
+    },
+    {
+      "jargon": "Survey methodology",
+      "layman": "How to plan a photo survey"
+    },
+    {
+      "jargon": "Oculocentric perspective",
+      "layman": "Viewing places through eyes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Dislocation between ideal and reality",
+      "layman": "Gap between plan and practice"
+    },
+    {
+      "jargon": "Representation of place",
+      "layman": "How places are shown"
+    },
+    {
+      "jargon": "Social context",
+      "layman": "Societal background"
+    },
+    {
+      "jargon": "Aesthetic context",
+      "layman": "Visual style and taste"
+    },
+    {
+      "jargon": "Political context",
+      "layman": "Government or power influence"
+    }
+  ]
+}

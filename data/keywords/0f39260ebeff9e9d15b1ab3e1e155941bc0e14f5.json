@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Geography dissertations",
+      "layman": "Geography research theses"
+    },
+    {
+      "jargon": "Institutional affiliation",
+      "layman": "University or school connection"
+    },
+    {
+      "jargon": "Geographical reach",
+      "layman": "How far research spreads"
+    },
+    {
+      "jargon": "Degree production",
+      "layman": "Number of degrees awarded"
+    },
+    {
+      "jargon": "French geography",
+      "layman": "Geography studied in France"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Examination of salient characteristics",
+      "layman": "Analyzing key features"
+    },
+    {
+      "jargon": "Mapping",
+      "layman": "Creating visual patterns"
+    },
+    {
+      "jargon": "Trend discernment",
+      "layman": "Spotting patterns over time"
+    },
+    {
+      "jargon": "Concentration analysis",
+      "layman": "Finding hotspots of activity"
+    },
+    {
+      "jargon": "Literature studies",
+      "layman": "Studying published works"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strengths and trends",
+      "layman": "Key strengths and patterns"
+    },
+    {
+      "jargon": "Concentrations of activity",
+      "layman": "Clumps of research activity"
+    },
+    {
+      "jargon": "Research tradition",
+      "layman": "Long-standing academic style"
+    },
+    {
+      "jargon": "Institutional base",
+      "layman": "Main universities involved"
+    },
+    {
+      "jargon": "National research template",
+      "layman": "Model for other countries"
+    }
+  ]
+}

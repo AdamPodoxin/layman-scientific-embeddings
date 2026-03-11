@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Open universes",
+      "layman": "Universe that expands forever"
+    },
+    {
+      "jargon": "Bubbles",
+      "layman": "Bubble-like regions of space"
+    },
+    {
+      "jargon": "Power spectrum",
+      "layman": "Pattern of cosmic signals"
+    },
+    {
+      "jargon": "Microwave background",
+      "layman": "Faint radiation from early universe"
+    },
+    {
+      "jargon": "Anisotropies",
+      "layman": "Small variations in cosmic signals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theoretical models",
+      "layman": "Scientific simulations and ideas"
+    },
+    {
+      "jargon": "Power spectrum analysis",
+      "layman": "Measuring signal patterns"
+    },
+    {
+      "jargon": "Cosmic inflation",
+      "layman": "Rapid expansion of early universe"
+    },
+    {
+      "jargon": "Bubble nucleation",
+      "layman": "Formation of bubbles in space"
+    },
+    {
+      "jargon": "Background radiation mapping",
+      "layman": "Scanning cosmic radiation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Recent theoretical results",
+      "layman": "New scientific predictions"
+    },
+    {
+      "jargon": "Power spectrum features",
+      "layman": "Distinct patterns in signals"
+    },
+    {
+      "jargon": "Cosmic structure formation",
+      "layman": "How large structures formed"
+    },
+    {
+      "jargon": "Anisotropy measurements",
+      "layman": "Observed variations in signals"
+    },
+    {
+      "jargon": "Model consistency",
+      "layman": "How well models match data"
+    }
+  ]
+}

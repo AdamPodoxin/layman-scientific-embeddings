@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Tsien Hsueshen's question",
+      "layman": "Tsien Hsueshen's question"
+    },
+    {
+      "jargon": "talents",
+      "layman": "Excellent students"
+    },
+    {
+      "jargon": "universities",
+      "layman": "Colleges and universities"
+    },
+    {
+      "jargon": "government civil service",
+      "layman": "Government-run bureaucracy"
+    },
+    {
+      "jargon": "faculty governance",
+      "layman": "Faculty-led management"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "educational reform",
+      "layman": "Changing how education is run"
+    },
+    {
+      "jargon": "expansion of colleges and universities",
+      "layman": "Growing more schools and campuses"
+    },
+    {
+      "jargon": "bureaucrat management",
+      "layman": "Top-down, rule-based control"
+    },
+    {
+      "jargon": "quality education",
+      "layman": "Better, focused teaching"
+    },
+    {
+      "jargon": "transformation",
+      "layman": "Major change in structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "drawbacks",
+      "layman": "Problems"
+    },
+    {
+      "jargon": "deviation from realities",
+      "layman": "Not matching real needs"
+    },
+    {
+      "jargon": "fail to produce excellent talents",
+      "layman": "Can't create top students"
+    },
+    {
+      "jargon": "goal of educating outstanding talents",
+      "layman": "Train great future leaders"
+    },
+    {
+      "jargon": "successful education system",
+      "layman": "Effective and results-driven system"
+    }
+  ]
+}

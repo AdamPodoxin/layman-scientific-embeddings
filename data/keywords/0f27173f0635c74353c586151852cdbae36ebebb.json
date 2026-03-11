@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Life-course persistent offenders",
+      "layman": "People with long-term antisocial behavior"
+    },
+    {
+      "jargon": "Adolescent-limited offenders",
+      "layman": "People with antisocial behavior only in teens"
+    },
+    {
+      "jargon": "Black, developing, semi-rural population",
+      "layman": "Young Black people in rural South Africa"
+    },
+    {
+      "jargon": "Infant and childhood phases",
+      "layman": "Early life stages"
+    },
+    {
+      "jargon": "Moffitt's taxonomy",
+      "layman": "Classification of offenders by life stage"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Qualitative life-story research design",
+      "layman": "In-depth personal story interviews"
+    },
+    {
+      "jargon": "Cognitive difference",
+      "layman": "Thinking pattern differences"
+    },
+    {
+      "jargon": "Peer relationships",
+      "layman": "Friendship patterns"
+    },
+    {
+      "jargon": "School performance",
+      "layman": "Academic results"
+    },
+    {
+      "jargon": "Social esteem",
+      "layman": "Sense of self-worth in society"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Earlier onset and more violent antisocial behavior",
+      "layman": "Antisocial actions start early and are more violent"
+    },
+    {
+      "jargon": "Poorer school performance",
+      "layman": "Lower grades and academic struggles"
+    },
+    {
+      "jargon": "Greater impulsivity",
+      "layman": "Harder to control actions"
+    },
+    {
+      "jargon": "Ineffective goal setting",
+      "layman": "Difficulty setting realistic goals"
+    },
+    {
+      "jargon": "Retarded moral development",
+      "layman": "Slower growth in understanding right and wrong"
+    }
+  ]
+}

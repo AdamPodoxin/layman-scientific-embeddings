@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Polynomial equations",
+      "layman": "Equations with powers of variables"
+    },
+    {
+      "jargon": "Algebraic variety",
+      "layman": "Set of solution points in space"
+    },
+    {
+      "jargon": "Complex numbers",
+      "layman": "Numbers that include imaginary parts"
+    },
+    {
+      "jargon": "Primitive element",
+      "layman": "Basic building block of a solution set"
+    },
+    {
+      "jargon": "Minimal polynomial",
+      "layman": "Simplest equation that defines a solution"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Geometric resolution",
+      "layman": "Mapping solutions using geometry"
+    },
+    {
+      "jargon": "Probabilistic algorithms",
+      "layman": "Randomized solving methods"
+    },
+    {
+      "jargon": "Univariate polynomials",
+      "layman": "Single-variable equations"
+    },
+    {
+      "jargon": "Bivariate polynomials",
+      "layman": "Equations with two variables"
+    },
+    {
+      "jargon": "Newton's iterator",
+      "layman": "Iterative method to find roots"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Common roots",
+      "layman": "Shared solutions to equations"
+    },
+    {
+      "jargon": "Polynomial complexity",
+      "layman": "Efficient growth in computation time"
+    },
+    {
+      "jargon": "Height of system",
+      "layman": "System's structural size"
+    },
+    {
+      "jargon": "Evaluation complexity",
+      "layman": "Time to compute equation values"
+    },
+    {
+      "jargon": "Efficiency over other software",
+      "layman": "Faster than existing tools"
+    }
+  ]
+}

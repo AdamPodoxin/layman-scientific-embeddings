@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Diabetes",
+      "layman": "Diabetes"
+    },
+    {
+      "jargon": "Chronic illness",
+      "layman": "Long-term illness"
+    },
+    {
+      "jargon": "Acute illness",
+      "layman": "Sudden illness"
+    },
+    {
+      "jargon": "Primary care",
+      "layman": "General doctor visits"
+    },
+    {
+      "jargon": "Outpatient visits",
+      "layman": "Patient visits outside hospital"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Davis Observation Code",
+      "layman": "Standardized visit behavior tracking"
+    },
+    {
+      "jargon": "Time use categorization",
+      "layman": "Sorting visit activities by type"
+    },
+    {
+      "jargon": "Discriminant analysis",
+      "layman": "Finding patterns that separate types of visits"
+    },
+    {
+      "jargon": "Consecutive outpatient visits",
+      "layman": "Back-to-back patient visits"
+    },
+    {
+      "jargon": "Direct observation",
+      "layman": "Nurses watching doctor-patient interactions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Nutrition counseling",
+      "layman": "Talk about healthy eating"
+    },
+    {
+      "jargon": "Health education",
+      "layman": "Teaching patients about health"
+    },
+    {
+      "jargon": "Feedback on results",
+      "layman": "Reviewing test or check results"
+    },
+    {
+      "jargon": "Chattiness",
+      "layman": "Just talking without focus"
+    },
+    {
+      "jargon": "Dietary advice",
+      "layman": "Suggestions about food choices"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "consensus",
+      "layman": "general agreement"
+    },
+    {
+      "jargon": "scientific knowledge",
+      "layman": "accepted facts from science"
+    },
+    {
+      "jargon": "reason",
+      "layman": "logical thinking"
+    },
+    {
+      "jargon": "postmodernism",
+      "layman": "modern view challenging traditional ideas"
+    },
+    {
+      "jargon": "communicative reason",
+      "layman": "reason based on discussion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "theoretical approaches",
+      "layman": "ways of thinking about ideas"
+    },
+    {
+      "jargon": "intellectual traditions",
+      "layman": "long-standing ways of thinking"
+    },
+    {
+      "jargon": "disciplinary developments",
+      "layman": "growth in academic fields"
+    },
+    {
+      "jargon": "polemic criticism",
+      "layman": "sharp criticism in debate"
+    },
+    {
+      "jargon": "philosophical analysis",
+      "layman": "deep thinking about ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "crises of foundations",
+      "layman": "collapse of basic beliefs"
+    },
+    {
+      "jargon": "radical questioning",
+      "layman": "deep doubt about core ideas"
+    },
+    {
+      "jargon": "common ground",
+      "layman": "shared understanding"
+    },
+    {
+      "jargon": "critical theory of society",
+      "layman": "study of society's problems"
+    },
+    {
+      "jargon": "changing roles of consensus",
+      "layman": "how agreement changes over time"
+    }
+  ]
+}

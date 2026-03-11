@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cartography",
+      "layman": "Map making"
+    },
+    {
+      "jargon": "Geographic information",
+      "layman": "Location data"
+    },
+    {
+      "jargon": "Topographic features",
+      "layman": "Landforms and elevations"
+    },
+    {
+      "jargon": "Scale",
+      "layman": "Map size ratio"
+    },
+    {
+      "jargon": "Projection",
+      "layman": "Map shape transformation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cartographic representation",
+      "layman": "Creating map visuals"
+    },
+    {
+      "jargon": "Spatial analysis",
+      "layman": "Analyzing location patterns"
+    },
+    {
+      "jargon": "Map generalization",
+      "layman": "Simplifying map details"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering location facts"
+    },
+    {
+      "jargon": "Symbolization",
+      "layman": "Using symbols on maps"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved spatial understanding",
+      "layman": "Better grasp of locations"
+    },
+    {
+      "jargon": "Accurate geographic representation",
+      "layman": "Correct map showing"
+    },
+    {
+      "jargon": "Enhanced decision-making",
+      "layman": "Better choices based on maps"
+    },
+    {
+      "jargon": "Public accessibility",
+      "layman": "Maps available to everyone"
+    },
+    {
+      "jargon": "Societal application",
+      "layman": "Use in daily life"
+    }
+  ]
+}

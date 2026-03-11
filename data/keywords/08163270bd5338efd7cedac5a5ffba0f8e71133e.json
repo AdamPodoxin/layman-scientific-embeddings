@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bounded languages",
+      "layman": "Languages with limits"
+    },
+    {
+      "jargon": "Semilinear Parikh mapping",
+      "layman": "Pattern of symbol counts in language"
+    },
+    {
+      "jargon": "EDTOL languages",
+      "layman": "Languages built step-by-step with rules"
+    },
+    {
+      "jargon": "Bounded context-free languages",
+      "layman": "Languages with limited context rules"
+    },
+    {
+      "jargon": "Finite intersections",
+      "layman": "Multiple language overlaps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Prove",
+      "layman": "Show is true"
+    },
+    {
+      "jargon": "Main proof argument",
+      "layman": "Key logic used to prove"
+    },
+    {
+      "jargon": "Establish",
+      "layman": "Confirm or verify"
+    },
+    {
+      "jargon": "Complements of intersections",
+      "layman": "What's left when parts are removed"
+    },
+    {
+      "jargon": "Semilinear mapping",
+      "layman": "Counting patterns in strings"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "EDTOL language",
+      "layman": "Resulting language with step rules"
+    },
+    {
+      "jargon": "All finite intersections are EDTOL",
+      "layman": "Overlapping languages follow rules"
+    },
+    {
+      "jargon": "Complements of intersections are EDTOL",
+      "layman": "Opposite cases also follow rules"
+    },
+    {
+      "jargon": "Strictly bounded language",
+      "layman": "Language with clear limits"
+    },
+    {
+      "jargon": "Parikh mapping",
+      "layman": "Count how many times symbols appear"
+    }
+  ]
+}

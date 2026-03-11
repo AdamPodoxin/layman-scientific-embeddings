@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Virginia Woolf",
+      "layman": "Virginia Woolf"
+    },
+    {
+      "jargon": "Vanessa Bell",
+      "layman": "Vanessa Bell"
+    },
+    {
+      "jargon": "Creative relationship",
+      "layman": "Creative bond"
+    },
+    {
+      "jargon": "Sisterly bond",
+      "layman": "Sisterly bond"
+    },
+    {
+      "jargon": "Proximity and distance",
+      "layman": "Being close and far at the same time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Creative relationship",
+      "layman": "Creative bond"
+    },
+    {
+      "jargon": "Tensions",
+      "layman": "Conflicts"
+    },
+    {
+      "jargon": "Sustained by",
+      "layman": "Kept going by"
+    },
+    {
+      "jargon": "Uncovering",
+      "layman": "Finding out"
+    },
+    {
+      "jargon": "Confession",
+      "layman": "Personal admission"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Remarkable creative relationship",
+      "layman": "Amazing creative connection"
+    },
+    {
+      "jargon": "Wrote more for her sister",
+      "layman": "Wrote more for her sister"
+    },
+    {
+      "jargon": "Supporting Woolf's confession",
+      "layman": "Backed Woolf's personal statement"
+    },
+    {
+      "jargon": "Proximity and distance tensions",
+      "layman": "Conflicts from closeness and distance"
+    },
+    {
+      "jargon": "Creative output directed toward sister",
+      "layman": "Writing and art aimed at her sister"
+    }
+  ]
+}

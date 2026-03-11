@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Data sources",
+      "layman": "Data sources"
+    },
+    {
+      "jargon": "Coin bias",
+      "layman": "Coin bias"
+    },
+    {
+      "jargon": "Label noise",
+      "layman": "Label noise"
+    },
+    {
+      "jargon": "Classifier",
+      "layman": "Classifier"
+    },
+    {
+      "jargon": "Corrupted data",
+      "layman": "Corrupted data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Optimal subset selection",
+      "layman": "Best data selection"
+    },
+    {
+      "jargon": "Efficient algorithms",
+      "layman": "Fast computing methods"
+    },
+    {
+      "jargon": "Estimating bias",
+      "layman": "Guessing coin tilt"
+    },
+    {
+      "jargon": "Learning a classifier",
+      "layman": "Teaching a decision model"
+    },
+    {
+      "jargon": "Data corruption rates",
+      "layman": "How often data is wrong"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Optimal data subset",
+      "layman": "Best data mix"
+    },
+    {
+      "jargon": "Limited data",
+      "layman": "Small data sets"
+    },
+    {
+      "jargon": "Multiple sources",
+      "layman": "Several data streams"
+    },
+    {
+      "jargon": "Different corruption rates",
+      "layman": "Varying error levels"
+    },
+    {
+      "jargon": "Efficient algorithms",
+      "layman": "Fast solutions"
+    }
+  ]
+}

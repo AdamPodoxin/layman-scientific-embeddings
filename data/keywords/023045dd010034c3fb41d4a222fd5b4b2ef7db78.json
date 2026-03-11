@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Multicontext reconfigurable processors",
+      "layman": "Processors that switch settings quickly"
+    },
+    {
+      "jargon": "Context memory",
+      "layman": "Memory for storing processor settings"
+    },
+    {
+      "jargon": "Processing elements",
+      "layman": "Processor building blocks"
+    },
+    {
+      "jargon": "Global instruction pointer",
+      "layman": "Pointer to current instruction in code"
+    },
+    {
+      "jargon": "Local physical context number",
+      "layman": "Specific setting number for a processor block"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Context translation table",
+      "layman": "Table that maps one setting to another"
+    },
+    {
+      "jargon": "Template configuration method",
+      "layman": "Using basic patterns to build full settings"
+    },
+    {
+      "jargon": "Dynamic reconfiguration",
+      "layman": "Changing processor settings on the fly"
+    },
+    {
+      "jargon": "Configuration data",
+      "layman": "Data that defines processor setup"
+    },
+    {
+      "jargon": "Evaluation using DRP-1",
+      "layman": "Testing on a real processor chip"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reduced number of contexts",
+      "layman": "Fewer settings needed"
+    },
+    {
+      "jargon": "Total configuration data reduced to 6.9%",
+      "layman": "Setup data shrinks by 6.9%"
+    },
+    {
+      "jargon": "Effective in small tile size",
+      "layman": "Works well when processor blocks are small"
+    },
+    {
+      "jargon": "Minimal return in finer processors",
+      "layman": "Little benefit in very small processors"
+    },
+    {
+      "jargon": "Context memory size adds up",
+      "layman": "Memory needed grows too large"
+    }
+  ]
+}

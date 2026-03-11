@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "\u03b2-lactoglobulin",
+      "layman": "Whey protein"
+    },
+    {
+      "jargon": "Linoleic acid",
+      "layman": "Healthy fat in food"
+    },
+    {
+      "jargon": "Hydrophobic residues",
+      "layman": "Water-repelling parts of proteins"
+    },
+    {
+      "jargon": "Conformation",
+      "layman": "Shape of a molecule"
+    },
+    {
+      "jargon": "Phase diagram",
+      "layman": "Temperature and shape change chart"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Fluorescence spectroscopy",
+      "layman": "Light-based shape detection"
+    },
+    {
+      "jargon": "Molecular modeling",
+      "layman": "Computer simulation of molecules"
+    },
+    {
+      "jargon": "Thermal treatment",
+      "layman": "Heating process"
+    },
+    {
+      "jargon": "Polypeptide chain rearrangements",
+      "layman": "Protein chain reorganizes"
+    },
+    {
+      "jargon": "Surface area interaction",
+      "layman": "Molecule contact area"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Increased fluorescence intensity",
+      "layman": "More light detected"
+    },
+    {
+      "jargon": "All or none transition",
+      "layman": "Sharp shape change"
+    },
+    {
+      "jargon": "High temperature stability",
+      "layman": "Stays stable when heated"
+    },
+    {
+      "jargon": "Good affinity",
+      "layman": "Strong bond between molecules"
+    },
+    {
+      "jargon": "No loss of LA binding",
+      "layman": "Fat stays attached after heating"
+    }
+  ]
+}

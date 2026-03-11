@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "male veterans",
+      "layman": "men who served in the military"
+    },
+    {
+      "jargon": "substance use disorders",
+      "layman": "addictions to drugs or alcohol"
+    },
+    {
+      "jargon": "suicide",
+      "layman": "intentional self-death"
+    },
+    {
+      "jargon": "Veterans Health Administration",
+      "layman": "VA health system"
+    },
+    {
+      "jargon": "medical visit",
+      "layman": "doctor visit for health concerns"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "examine",
+      "layman": "analyze data"
+    },
+    {
+      "jargon": "documented diagnosis",
+      "layman": "recorded medical condition"
+    },
+    {
+      "jargon": "time before death",
+      "layman": "period leading up to death"
+    },
+    {
+      "jargon": "health care system contact",
+      "layman": "seeing a doctor or health provider"
+    },
+    {
+      "jargon": "retrospective study",
+      "layman": "looking back at past records"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "55.5% seen in month before suicide",
+      "layman": "most seen within one month before death"
+    },
+    {
+      "jargon": "25.4% seen in week before suicide",
+      "layman": "many seen just one week before death"
+    },
+    {
+      "jargon": "56.6% last visit in general medical setting",
+      "layman": "most final visits were in general clinics"
+    },
+    {
+      "jargon": "32.8% last visit in specialty mental health setting",
+      "layman": "many final visits were in mental health clinics"
+    },
+    {
+      "jargon": "10.5% last visit in SUD treatment",
+      "layman": "few had final visits in addiction treatment"
+    }
+  ]
+}

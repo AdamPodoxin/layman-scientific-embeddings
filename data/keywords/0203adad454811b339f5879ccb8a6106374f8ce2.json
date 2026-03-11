@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hilbert's memoir",
+      "layman": "Hilbert's memoir"
+    },
+    {
+      "jargon": "Einsteinian gravity",
+      "layman": "Einstein's gravity"
+    },
+    {
+      "jargon": "Gravitational repulsion",
+      "layman": "Gravity pushing things apart"
+    },
+    {
+      "jargon": "General relativity",
+      "layman": "Theory of gravity and spacetime"
+    },
+    {
+      "jargon": "Physical regions",
+      "layman": "Areas of space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Memorization",
+      "layman": "Recording ideas"
+    },
+    {
+      "jargon": "Illustration",
+      "layman": "Showing with examples"
+    },
+    {
+      "jargon": "Historical note",
+      "layman": "A note on past discoveries"
+    },
+    {
+      "jargon": "Concise presentation",
+      "layman": "Short explanation"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Checking past scientific writings"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Repulsive action",
+      "layman": "Pushing objects apart"
+    },
+    {
+      "jargon": "Remarkable result",
+      "layman": "Surprising finding"
+    },
+    {
+      "jargon": "No mention in literature",
+      "layman": "Not discussed before"
+    },
+    {
+      "jargon": "Particular instances",
+      "layman": "Specific cases"
+    },
+    {
+      "jargon": "Particular regions",
+      "layman": "Specific areas"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social indicators",
+      "layman": "Measures of society"
+    },
+    {
+      "jargon": "Data resources",
+      "layman": "Sources of data"
+    },
+    {
+      "jargon": "Sociologists",
+      "layman": "Social scientists"
+    },
+    {
+      "jargon": "Link collections",
+      "layman": "Grouped data links"
+    },
+    {
+      "jargon": "Commonly-used data",
+      "layman": "Frequently used data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Curate",
+      "layman": "Organize and select"
+    },
+    {
+      "jargon": "Compile",
+      "layman": "Put together"
+    },
+    {
+      "jargon": "Index",
+      "layman": "Create a list"
+    },
+    {
+      "jargon": "Categorize",
+      "layman": "Group by type"
+    },
+    {
+      "jargon": "Aggregate",
+      "layman": "Combine data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Favored data resources",
+      "layman": "Popular data sources"
+    },
+    {
+      "jargon": "User-accessible links",
+      "layman": "Easy-to-use data links"
+    },
+    {
+      "jargon": "Standardized metrics",
+      "layman": "Consistent measurements"
+    },
+    {
+      "jargon": "Comprehensive collection",
+      "layman": "Full set of resources"
+    },
+    {
+      "jargon": "Improved research support",
+      "layman": "Better help for research"
+    }
+  ]
+}

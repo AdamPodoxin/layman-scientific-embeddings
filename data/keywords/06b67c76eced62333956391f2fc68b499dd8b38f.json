@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "capitalism",
+      "layman": "Economic system based on private ownership and markets"
+    },
+    {
+      "jargon": "bourgeoisie",
+      "layman": "Middle-class merchants and professionals"
+    },
+    {
+      "jargon": "nobility",
+      "layman": "Ruling aristocratic class"
+    },
+    {
+      "jargon": "Enlightenment",
+      "layman": "Age of reason and scientific thinking"
+    },
+    {
+      "jargon": "revolution",
+      "layman": "Mass social and political change"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "redefinition of key terms",
+      "layman": "Rewriting definitions based on new evidence"
+    },
+    {
+      "jargon": "critical research",
+      "layman": "In-depth scholarly analysis"
+    },
+    {
+      "jargon": "discourse analysis",
+      "layman": "Studying how ideas are discussed"
+    },
+    {
+      "jargon": "political culture",
+      "layman": "Shared beliefs and values in society"
+    },
+    {
+      "jargon": "historical reevaluation",
+      "layman": "Reassessing past events with new perspectives"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "crisis",
+      "layman": "Severe economic or social breakdown"
+    },
+    {
+      "jargon": "redefinition of the early modern French state",
+      "layman": "New understanding of the French government's structure"
+    },
+    {
+      "jargon": "debate evolution",
+      "layman": "Changing arguments over time"
+    },
+    {
+      "jargon": "shift in scholarly ground",
+      "layman": "Change in the foundation of academic discussion"
+    },
+    {
+      "jargon": "inception of revolutionary process",
+      "layman": "Beginning of the revolutionary movement"
+    }
+  ]
+}

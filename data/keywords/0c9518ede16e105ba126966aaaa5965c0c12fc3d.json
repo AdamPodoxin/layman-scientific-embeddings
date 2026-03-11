@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "VHDL-AMS models",
+      "layman": "Electronic circuit models"
+    },
+    {
+      "jargon": "Analog and mixed-signal (AMS) models",
+      "layman": "Models for circuits with both analog and digital parts"
+    },
+    {
+      "jargon": "Behavioral models",
+      "layman": "How circuits behave over time"
+    },
+    {
+      "jargon": "Model functionality",
+      "layman": "What a circuit is supposed to do"
+    },
+    {
+      "jargon": "Expert system",
+      "layman": "Computer system that mimics expert decision-making"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Case-based reasoning",
+      "layman": "Solving problems by using past examples"
+    },
+    {
+      "jargon": "Library of previously developed models",
+      "layman": "Collection of saved circuit designs"
+    },
+    {
+      "jargon": "Model synthesis",
+      "layman": "Creating a new model from existing ones"
+    },
+    {
+      "jargon": "Top-down design methodologies",
+      "layman": "Designing from overall goal to details"
+    },
+    {
+      "jargon": "Automatic generation",
+      "layman": "Creating models without human input"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Expert quality",
+      "layman": "As good as a human expert's work"
+    },
+    {
+      "jargon": "Automatically generated models",
+      "layman": "Models made by computer"
+    },
+    {
+      "jargon": "Synthesized model",
+      "layman": "New model built from examples"
+    },
+    {
+      "jargon": "Functional representation",
+      "layman": "Clear description of what the model does"
+    },
+    {
+      "jargon": "Behavioral accuracy",
+      "layman": "How well the model matches real behavior"
+    }
+  ]
+}

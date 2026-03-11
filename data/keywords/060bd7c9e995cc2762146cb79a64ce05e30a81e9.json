@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Velocity of light",
+      "layman": "Speed of light"
+    },
+    {
+      "jargon": "Outer space",
+      "layman": "Space outside Earth"
+    },
+    {
+      "jargon": "Relativity",
+      "layman": "Theory about how space and time work"
+    },
+    {
+      "jargon": "Experiment",
+      "layman": "Test to check a hypothesis"
+    },
+    {
+      "jargon": "Constancy",
+      "layman": "Never changing over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Test in outer space",
+      "layman": "Test in space"
+    },
+    {
+      "jargon": "Present a scheme",
+      "layman": "Show a plan"
+    },
+    {
+      "jargon": "Justify carrying out",
+      "layman": "Explain why to do"
+    },
+    {
+      "jargon": "Support convenience",
+      "layman": "Show it's practical now"
+    },
+    {
+      "jargon": "Assent of Relativity",
+      "layman": "Acceptance of Einstein's theory"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Constancy of the velocity of light",
+      "layman": "Light always moves at same speed"
+    },
+    {
+      "jargon": "Test the constancy",
+      "layman": "Check if light speed is fixed"
+    },
+    {
+      "jargon": "Century of Relativity's assent",
+      "layman": "Relativity has been accepted for 100 years"
+    },
+    {
+      "jargon": "Convenience to continue",
+      "layman": "It's still useful to do"
+    },
+    {
+      "jargon": "Outer space environment",
+      "layman": "Space conditions"
+    }
+  ]
+}

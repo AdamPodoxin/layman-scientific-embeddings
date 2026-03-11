@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Corporate intellectual capital",
+      "layman": "Company's accumulated knowledge"
+    },
+    {
+      "jargon": "Distributed learning environment",
+      "layman": "Online learning platform"
+    },
+    {
+      "jargon": "Employee memory",
+      "layman": "What employees know personally"
+    },
+    {
+      "jargon": "Corporate portals",
+      "layman": "Company's online information hubs"
+    },
+    {
+      "jargon": "Email correspondence",
+      "layman": "Email messages within the company"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Integration processes",
+      "layman": "Combining different knowledge sources"
+    },
+    {
+      "jargon": "Mathematical models",
+      "layman": "Equations to predict outcomes"
+    },
+    {
+      "jargon": "Software development",
+      "layman": "Building digital tools"
+    },
+    {
+      "jargon": "Implementation",
+      "layman": "Putting a system into use"
+    },
+    {
+      "jargon": "Knowledge accumulation",
+      "layman": "Building up company knowledge over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Effective functioning of the company",
+      "layman": "Company runs smoothly"
+    },
+    {
+      "jargon": "Growth in information accumulation",
+      "layman": "More data builds up"
+    },
+    {
+      "jargon": "Problems with information use",
+      "layman": "Difficulties using knowledge"
+    },
+    {
+      "jargon": "Improved management",
+      "layman": "Better control of knowledge"
+    },
+    {
+      "jargon": "Distributed learning environment implemented",
+      "layman": "Online learning system is live"
+    }
+  ]
+}

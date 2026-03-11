@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "New institutionalism",
+      "layman": "New institutionalism"
+    },
+    {
+      "jargon": "News organizations",
+      "layman": "News companies"
+    },
+    {
+      "jargon": "Journalists",
+      "layman": "News reporters"
+    },
+    {
+      "jargon": "Political field",
+      "layman": "Political environment"
+    },
+    {
+      "jargon": "Democratic society",
+      "layman": "Free and fair society"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Embeddedness",
+      "layman": "Being connected to larger systems"
+    },
+    {
+      "jargon": "Field theory",
+      "layman": "Study of groups in context"
+    },
+    {
+      "jargon": "Ideals of objectivity",
+      "layman": "Goal of fair reporting"
+    },
+    {
+      "jargon": "Organizational practices",
+      "layman": "Daily work routines"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past changes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Partisan press",
+      "layman": "Biased news coverage"
+    },
+    {
+      "jargon": "Objectivity",
+      "layman": "Fair and neutral reporting"
+    },
+    {
+      "jargon": "Transformations in journalism",
+      "layman": "Major changes in news"
+    },
+    {
+      "jargon": "Redefined ideals",
+      "layman": "New standards for news"
+    },
+    {
+      "jargon": "Political conflicts",
+      "layman": "Tensions in politics"
+    }
+  ]
+}

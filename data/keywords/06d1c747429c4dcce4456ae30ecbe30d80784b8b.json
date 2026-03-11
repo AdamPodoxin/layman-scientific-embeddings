@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "State",
+      "layman": "Government"
+    },
+    {
+      "jargon": "Citizens",
+      "layman": "People"
+    },
+    {
+      "jargon": "Bureaucratic institutions",
+      "layman": "Government offices"
+    },
+    {
+      "jargon": "Political personalities",
+      "layman": "Political leaders"
+    },
+    {
+      "jargon": "Judiciary",
+      "layman": "Courts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dispute",
+      "layman": "Conflict"
+    },
+    {
+      "jargon": "Court case",
+      "layman": "Legal battle"
+    },
+    {
+      "jargon": "Interviews",
+      "layman": "Talks with people"
+    },
+    {
+      "jargon": "Document analysis",
+      "layman": "Reviewing records"
+    },
+    {
+      "jargon": "Philosophical interpretation",
+      "layman": "Explaining ideas through philosophy"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shifting arrangements of authority",
+      "layman": "Changing power dynamics"
+    },
+    {
+      "jargon": "Agency of ordinary citizens",
+      "layman": "People's ability to act"
+    },
+    {
+      "jargon": "Presumption of equality",
+      "layman": "Equal status with government"
+    },
+    {
+      "jargon": "Influence on political order",
+      "layman": "Affecting how politics works"
+    },
+    {
+      "jargon": "Reinterpretation of state models",
+      "layman": "New way of seeing government"
+    }
+  ]
+}

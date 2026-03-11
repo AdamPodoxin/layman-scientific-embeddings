@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Land Reform",
+      "layman": "Changes to land ownership rules"
+    },
+    {
+      "jargon": "Collectivisation",
+      "layman": "Group farming system"
+    },
+    {
+      "jargon": "Village Reconstruction",
+      "layman": "Rebuilding village structures"
+    },
+    {
+      "jargon": "Village Spatial Order",
+      "layman": "How villages are arranged in space"
+    },
+    {
+      "jargon": "Power Relations",
+      "layman": "Who holds influence in a community"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Governance",
+      "layman": "Rules for managing communities"
+    },
+    {
+      "jargon": "Social Organisation",
+      "layman": "How people are grouped in society"
+    },
+    {
+      "jargon": "Industrialisation",
+      "layman": "Turning agriculture into factories"
+    },
+    {
+      "jargon": "Cooperation",
+      "layman": "Working together for shared goals"
+    },
+    {
+      "jargon": "Reform",
+      "layman": "Systematic changes to improve things"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Implications",
+      "layman": "Effects or consequences"
+    },
+    {
+      "jargon": "Aftermath",
+      "layman": "What happened later"
+    },
+    {
+      "jargon": "Power Relations",
+      "layman": "Who holds influence in a community"
+    },
+    {
+      "jargon": "Cooperation",
+      "layman": "Working together for shared goals"
+    },
+    {
+      "jargon": "Spatial Order",
+      "layman": "How villages are arranged in space"
+    }
+  ]
+}

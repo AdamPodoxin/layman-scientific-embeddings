@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Urban water",
+      "layman": "City water systems"
+    },
+    {
+      "jargon": "Sustainable development",
+      "layman": "Long-term balanced growth"
+    },
+    {
+      "jargon": "Flood control system",
+      "layman": "System to prevent flooding"
+    },
+    {
+      "jargon": "Water conservation",
+      "layman": "Saving water use"
+    },
+    {
+      "jargon": "Water pollution control",
+      "layman": "Stopping water from being polluted"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Improving flood control system",
+      "layman": "Upgrading flood defenses"
+    },
+    {
+      "jargon": "Strengthening water conservation",
+      "layman": "Boosting water-saving practices"
+    },
+    {
+      "jargon": "Strengthening water pollution control",
+      "layman": "Enhancing pollution prevention"
+    },
+    {
+      "jargon": "Strengthening ecological and environmental protection",
+      "layman": "Protecting nature and ecosystems"
+    },
+    {
+      "jargon": "Proposed countermeasures",
+      "layman": "Suggested solutions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Sustainable development of urban water conservation",
+      "layman": "Healthy water use in cities over time"
+    },
+    {
+      "jargon": "Improved flood control",
+      "layman": "Less flooding in cities"
+    },
+    {
+      "jargon": "Better water conservation",
+      "layman": "More water saved"
+    },
+    {
+      "jargon": "Reduced water pollution",
+      "layman": "Cleaner water"
+    },
+    {
+      "jargon": "Stronger environmental protection",
+      "layman": "Healthier natural surroundings"
+    }
+  ]
+}

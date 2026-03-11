@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "scheme",
+      "layman": "mathematical space"
+    },
+    {
+      "jargon": "closed subset",
+      "layman": "part of a space with boundary"
+    },
+    {
+      "jargon": "reduced subscheme",
+      "layman": "simplest version of a subset"
+    },
+    {
+      "jargon": "Spec R",
+      "layman": "affine space from a ring"
+    },
+    {
+      "jargon": "ideal I(S)",
+      "layman": "set of rules defining a subset"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "universal property",
+      "layman": "unique way to connect objects"
+    },
+    {
+      "jargon": "morphism",
+      "layman": "mapping between spaces"
+    },
+    {
+      "jargon": "affine scheme",
+      "layman": "simplest type of mathematical space"
+    },
+    {
+      "jargon": "factor through",
+      "layman": "go through a specific path"
+    },
+    {
+      "jargon": "induced structure",
+      "layman": "structure copied from a larger space"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "unique reduced closed subscheme",
+      "layman": "one clear, simple version"
+    },
+    {
+      "jargon": "image lies in S",
+      "layman": "mapping ends in a specific area"
+    },
+    {
+      "jargon": "Spec R/I(S)",
+      "layman": "mathematical object defined by rules"
+    },
+    {
+      "jargon": "entire underlying set",
+      "layman": "whole space"
+    },
+    {
+      "jargon": "exercise: verify",
+      "layman": "check that it works"
+    }
+  ]
+}

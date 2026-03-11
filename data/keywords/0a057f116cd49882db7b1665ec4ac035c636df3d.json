@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lattice polygons",
+      "layman": "Polygons on a grid"
+    },
+    {
+      "jargon": "Number 12",
+      "layman": "The number 12"
+    },
+    {
+      "jargon": "Modular forms",
+      "layman": "Special mathematical functions"
+    },
+    {
+      "jargon": "Theorem",
+      "layman": "A proven mathematical statement"
+    },
+    {
+      "jargon": "Plane",
+      "layman": "Flat 2D space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Proof",
+      "layman": "A logical argument showing something is true"
+    },
+    {
+      "jargon": "Modular forms",
+      "layman": "Special mathematical functions"
+    },
+    {
+      "jargon": "Elementary proof",
+      "layman": "Simple, basic proof"
+    },
+    {
+      "jargon": "Geometric reasoning",
+      "layman": "Using shapes and angles to solve problems"
+    },
+    {
+      "jargon": "Connections between branches",
+      "layman": "Linking different areas of math"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Intriguing manner",
+      "layman": "Surprising way"
+    },
+    {
+      "jargon": "Rich variety of methods",
+      "layman": "Many different approaches"
+    },
+    {
+      "jargon": "Surface appear unrelated",
+      "layman": "Seem unrelated at first"
+    },
+    {
+      "jargon": "Complete elementary statement",
+      "layman": "Simple to understand statement"
+    },
+    {
+      "jargon": "Full details",
+      "layman": "Detailed explanation"
+    }
+  ]
+}

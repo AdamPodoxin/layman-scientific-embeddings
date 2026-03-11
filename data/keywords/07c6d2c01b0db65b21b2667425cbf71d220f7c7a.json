@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Jonathan Edwards",
+      "layman": "18th-century preacher"
+    },
+    {
+      "jargon": "John Locke",
+      "layman": "17th-century philosopher"
+    },
+    {
+      "jargon": "Empiricist",
+      "layman": "Believer in experience over reason"
+    },
+    {
+      "jargon": "Religious experience",
+      "layman": "Spiritual encounter"
+    },
+    {
+      "jargon": "Divine grace",
+      "layman": "God's unearned favor"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sensational psychology",
+      "layman": "Mind based on senses"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying the past through records"
+    },
+    {
+      "jargon": "Textual interpretation",
+      "layman": "Reading texts for meaning"
+    },
+    {
+      "jargon": "Biographical study",
+      "layman": "Studying a person's life"
+    },
+    {
+      "jargon": "Moral play",
+      "layman": "Story showing right vs. wrong"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Modern sensibility",
+      "layman": "Sense of modernity"
+    },
+    {
+      "jargon": "Existential angst",
+      "layman": "Fear of meaning in life"
+    },
+    {
+      "jargon": "Out of step",
+      "layman": "Not matching society"
+    },
+    {
+      "jargon": "Cold universe",
+      "layman": "Unfeeling world"
+    },
+    {
+      "jargon": "Tragic life",
+      "layman": "Hard and sad life path"
+    }
+  ]
+}

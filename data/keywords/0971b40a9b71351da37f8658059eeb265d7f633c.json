@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Flood basalt volcanism",
+      "layman": "Widespread lava flows"
+    },
+    {
+      "jargon": "Columbia Plateau",
+      "layman": "Large volcanic region in the U.S."
+    },
+    {
+      "jargon": "Eastern Iceland",
+      "layman": "Volcanic area in Iceland"
+    },
+    {
+      "jargon": "Basalt flows",
+      "layman": "Lava flows made of basalt"
+    },
+    {
+      "jargon": "Feeding fissures",
+      "layman": "Cracks that feed lava"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sub-aerial fissure eruptions",
+      "layman": "Lava bursts from cracks on land"
+    },
+    {
+      "jargon": "Fissure swarm",
+      "layman": "Group of cracks spreading out"
+    },
+    {
+      "jargon": "Progressive subsidence",
+      "layman": "Land sinking slowly over time"
+    },
+    {
+      "jargon": "Eruption of differentiates",
+      "layman": "Eruption of dense lava types"
+    },
+    {
+      "jargon": "Olivine-rich basalt flows",
+      "layman": "Lava rich in olivine minerals"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Thick, low, shield-like accumulations",
+      "layman": "Large flat lava piles"
+    },
+    {
+      "jargon": "Lavas covering more than 10,000 km\u00b2",
+      "layman": "Lava covering huge areas"
+    },
+    {
+      "jargon": "Thickest near feeding fissure swarms",
+      "layman": "Thickest lava near cracks"
+    },
+    {
+      "jargon": "Volcanism related to tensional zones",
+      "layman": "Volcanoes near stretched crust"
+    },
+    {
+      "jargon": "Not directly related to ridge-rift system",
+      "layman": "Not tied to mid-ocean ridge"
+    }
+  ]
+}

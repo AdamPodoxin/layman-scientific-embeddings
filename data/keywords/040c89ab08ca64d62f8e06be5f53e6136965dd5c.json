@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Small and Medium Enterprises",
+      "layman": "Small and medium businesses"
+    },
+    {
+      "jargon": "Electronic commerce",
+      "layman": "Online shopping and selling"
+    },
+    {
+      "jargon": "World Trade Organisation",
+      "layman": "Global trade agreement"
+    },
+    {
+      "jargon": "Saudi Arabian SMEs",
+      "layman": "Small businesses in Saudi Arabia"
+    },
+    {
+      "jargon": "E-commerce technologies",
+      "layman": "Online business tools"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Technology-Organization-Environment (TOE) framework",
+      "layman": "Model to study how tech, business, and environment affect decisions"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "In-depth look at real examples"
+    },
+    {
+      "jargon": "Adoption level analysis",
+      "layman": "Measuring how much businesses use e-commerce"
+    },
+    {
+      "jargon": "Factor analysis",
+      "layman": "Looking at what influences decisions"
+    },
+    {
+      "jargon": "Implementation projects",
+      "layman": "Putting new systems into action"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "E-commerce adoption levels",
+      "layman": "How much e-commerce is used"
+    },
+    {
+      "jargon": "Competitive edge",
+      "layman": "Better market position"
+    },
+    {
+      "jargon": "Fierce competition",
+      "layman": "Strong market pressure"
+    },
+    {
+      "jargon": "Implementation challenges",
+      "layman": "Problems in putting e-commerce into use"
+    },
+    {
+      "jargon": "Policy implications",
+      "layman": "What governments should do"
+    }
+  ]
+}

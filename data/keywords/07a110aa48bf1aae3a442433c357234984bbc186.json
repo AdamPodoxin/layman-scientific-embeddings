@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Design drift",
+      "layman": "Change in design during development"
+    },
+    {
+      "jargon": "Work Breakdown Structure",
+      "layman": "Project task breakdown"
+    },
+    {
+      "jargon": "Scope",
+      "layman": "Project boundaries and goals"
+    },
+    {
+      "jargon": "Stakeholders",
+      "layman": "People involved in the project"
+    },
+    {
+      "jargon": "Resource allocation",
+      "layman": "How resources are distributed"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Actor-Network Theory",
+      "layman": "Studying how people and things connect"
+    },
+    {
+      "jargon": "Earned Value Management",
+      "layman": "Tracking project progress and cost"
+    },
+    {
+      "jargon": "Perturbation index",
+      "layman": "Measure of change in project effort"
+    },
+    {
+      "jargon": "Translations",
+      "layman": "Negotiations between people and systems"
+    },
+    {
+      "jargon": "Socio-technical co-evolution",
+      "layman": "People and technology changing together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Changes in regime",
+      "layman": "Shift in how resources are used"
+    },
+    {
+      "jargon": "Innovative results",
+      "layman": "New and better solutions emerge"
+    },
+    {
+      "jargon": "Fuzzy front end",
+      "layman": "Unclear early project stage"
+    },
+    {
+      "jargon": "Positive design risk",
+      "layman": "Benefit from uncertainty in design"
+    },
+    {
+      "jargon": "Good practices and innovative practices balance",
+      "layman": "Mix of reliable and creative methods"
+    }
+  ]
+}

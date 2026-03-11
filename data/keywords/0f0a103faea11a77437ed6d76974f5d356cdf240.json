@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Weiszfeld algorithm",
+      "layman": "Location algorithm"
+    },
+    {
+      "jargon": "Fermat-Weber location problem",
+      "layman": "Best location problem"
+    },
+    {
+      "jargon": "Conjecture",
+      "layman": "Unproven theory"
+    },
+    {
+      "jargon": "Brimberg's paper",
+      "layman": "Brimberg's study"
+    },
+    {
+      "jargon": "Chandrasekaran and Tamir (1989)",
+      "layman": "1989 location theory claim"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Convergence analysis",
+      "layman": "Checking if a process settles down"
+    },
+    {
+      "jargon": "Counterexamples",
+      "layman": "Examples that prove a rule wrong"
+    },
+    {
+      "jargon": "Mathematical programming",
+      "layman": "Optimization using math"
+    },
+    {
+      "jargon": "Proof verification",
+      "layman": "Checking if a proof is valid"
+    },
+    {
+      "jargon": "Algorithmic convergence",
+      "layman": "Process of getting closer to a solution"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Convergence of the Weiszfeld algorithm",
+      "layman": "Algorithm reaches a stable point"
+    },
+    {
+      "jargon": "Closed conjecture",
+      "layman": "Question finally answered"
+    },
+    {
+      "jargon": "Counterexamples shown",
+      "layman": "Problems found in the proof"
+    },
+    {
+      "jargon": "Proofs invalidated",
+      "layman": "Original proof found to be wrong"
+    },
+    {
+      "jargon": "Mathematical closure",
+      "layman": "Final answer found in math"
+    }
+  ]
+}

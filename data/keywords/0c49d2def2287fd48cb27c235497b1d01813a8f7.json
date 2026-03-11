@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Centralized order-driven market",
+      "layman": "Single market where buyers and sellers place orders"
+    },
+    {
+      "jargon": "Asymmetrically informed traders",
+      "layman": "Traders with different access to information"
+    },
+    {
+      "jargon": "Equilibrium price",
+      "layman": "Price where supply and demand balance"
+    },
+    {
+      "jargon": "Private signal",
+      "layman": "Personal piece of information about the market"
+    },
+    {
+      "jargon": "Exogenous trade",
+      "layman": "Outside market activity not caused by traders' signals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Information revelation",
+      "layman": "Sharing private information with others"
+    },
+    {
+      "jargon": "Strategic behavior",
+      "layman": "Making decisions to gain an advantage"
+    },
+    {
+      "jargon": "Pre-opening phase",
+      "layman": "Time before trading starts"
+    },
+    {
+      "jargon": "Active phase",
+      "layman": "Time when trading is happening"
+    },
+    {
+      "jargon": "Market efficiency analysis",
+      "layman": "Measuring how well prices reflect all available info"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Suboptimal information revelation",
+      "layman": "Less information shared than ideal"
+    },
+    {
+      "jargon": "Higher incentive to reveal precise information",
+      "layman": "More accurate info leads to more sharing"
+    },
+    {
+      "jargon": "Value of private information",
+      "layman": "How useful personal info is to the market"
+    },
+    {
+      "jargon": "Long pre-opening phases ineffective",
+      "layman": "Early quiet time doesn't help discover info"
+    },
+    {
+      "jargon": "Equilibrium price inefficiency",
+      "layman": "Price doesn't fully reflect true market value"
+    }
+  ]
+}

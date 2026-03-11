@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sovereign debt",
+      "layman": "Government borrowing"
+    },
+    {
+      "jargon": "Market structure",
+      "layman": "How markets are organized"
+    },
+    {
+      "jargon": "Relationship banking",
+      "layman": "Bank-govt relationships"
+    },
+    {
+      "jargon": "Capital exports",
+      "layman": "Money sent abroad"
+    },
+    {
+      "jargon": "Baring crisis",
+      "layman": "1890 banking collapse"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Economic fundamentals",
+      "layman": "Basic economic factors"
+    },
+    {
+      "jargon": "Dynamic risk premia",
+      "layman": "Changing risk costs over time"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past events"
+    },
+    {
+      "jargon": "Financial intermediaries",
+      "layman": "Banks and financial firms"
+    },
+    {
+      "jargon": "Borrowing costs",
+      "layman": "Interest rates on loans"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Risk premia",
+      "layman": "Extra interest for risk"
+    },
+    {
+      "jargon": "Market failure",
+      "layman": "Market not working well"
+    },
+    {
+      "jargon": "Capital market effects",
+      "layman": "How markets influence money flow"
+    },
+    {
+      "jargon": "Time-varying effects",
+      "layman": "Effects that change over time"
+    },
+    {
+      "jargon": "New explanation",
+      "layman": "New understanding of events"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Smooth manifolds",
+      "layman": "Smooth surfaces"
+    },
+    {
+      "jargon": "Embeddings",
+      "layman": "Placing one shape inside another"
+    },
+    {
+      "jargon": "Cofunctor",
+      "layman": "Function that works backward on shapes"
+    },
+    {
+      "jargon": "Polynomial approximation",
+      "layman": "Simple math shape that fits a complex one"
+    },
+    {
+      "jargon": "Equivariant mapping spaces",
+      "layman": "Spaces that respect symmetry in shapes"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Calculus of embeddings",
+      "layman": "Math tool to study shape placements"
+    },
+    {
+      "jargon": "Best degree 6k polynomial approximation",
+      "layman": "Closest possible simple math model"
+    },
+    {
+      "jargon": "Polynomial approximations in terms of equivariant mapping spaces",
+      "layman": "Using symmetric spaces to simplify shape math"
+    },
+    {
+      "jargon": "Degree 6k approximation",
+      "layman": "Math model with a specific power level"
+    },
+    {
+      "jargon": "Hae!iger\u2019s approximation",
+      "layman": "Known best fit for shape placement at k=2"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Best degree 6k polynomial approximation",
+      "layman": "Most accurate simple math fit"
+    },
+    {
+      "jargon": "New description for k \u2265 3",
+      "layman": "New rule for complex shape cases"
+    },
+    {
+      "jargon": "Recover Hae!iger\u2019s approximation",
+      "layman": "Find the known best fit for k=2"
+    },
+    {
+      "jargon": "Known result for k=2",
+      "layman": "Confirmed best fit at k=2"
+    },
+    {
+      "jargon": "Description is new only for k \u2265 3",
+      "layman": "Only new for complex cases"
+    }
+  ]
+}

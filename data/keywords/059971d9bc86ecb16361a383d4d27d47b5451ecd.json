@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Particle production",
+      "layman": "Creation of particles"
+    },
+    {
+      "jargon": "String theory",
+      "layman": "Theoretical framework for fundamental particles"
+    },
+    {
+      "jargon": "Matrix cosmology",
+      "layman": "Model of the universe using matrices"
+    },
+    {
+      "jargon": "Vacuum ambiguity",
+      "layman": "Uncertainty in empty space"
+    },
+    {
+      "jargon": "Energy density",
+      "layman": "Amount of energy in a space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Anomalies",
+      "layman": "Unexpected physical behaviors"
+    },
+    {
+      "jargon": "Mode expansions",
+      "layman": "Breaking down wave patterns"
+    },
+    {
+      "jargon": "Time-dependent backgrounds",
+      "layman": "Changing space-time conditions"
+    },
+    {
+      "jargon": "Matrix model",
+      "layman": "Mathematical framework using matrices"
+    },
+    {
+      "jargon": "Explicit mode expansions",
+      "layman": "Direct calculation of wave patterns"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Finite energy density",
+      "layman": "Fixed energy in empty space"
+    },
+    {
+      "jargon": "Cancellation of particle production",
+      "layman": "No net creation of particles"
+    },
+    {
+      "jargon": "In state energy",
+      "layman": "Energy of initial state"
+    },
+    {
+      "jargon": "Anomalous particle production",
+      "layman": "Unusual particle creation"
+    },
+    {
+      "jargon": "Vacuum resolution",
+      "layman": "Fixing empty space uncertainty"
+    }
+  ]
+}

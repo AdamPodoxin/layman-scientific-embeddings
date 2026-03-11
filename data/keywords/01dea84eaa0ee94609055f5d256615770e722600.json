@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Critical Rationalism",
+      "layman": "Science based on testing and criticism"
+    },
+    {
+      "jargon": "Metaphysics",
+      "layman": "Big questions about reality"
+    },
+    {
+      "jargon": "Scientific method",
+      "layman": "How science discovers truths"
+    },
+    {
+      "jargon": "Rationality",
+      "layman": "Reason-based thinking"
+    },
+    {
+      "jargon": "Philosophy of science",
+      "layman": "Study of how science works"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Falsification",
+      "layman": "Testing ideas to prove they're wrong"
+    },
+    {
+      "jargon": "Critical discussion",
+      "layman": "Debating ideas to improve them"
+    },
+    {
+      "jargon": "Scientific critique",
+      "layman": "Challenging scientific claims"
+    },
+    {
+      "jargon": "Conceptual analysis",
+      "layman": "Breaking down ideas to understand them"
+    },
+    {
+      "jargon": "Intellectual revolution",
+      "layman": "Major shift in thinking"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "No scientific foundations",
+      "layman": "No absolute truths in science"
+    },
+    {
+      "jargon": "Rationality without foundations",
+      "layman": "Reasoning without sure starting points"
+    },
+    {
+      "jargon": "Clashing metaphysics",
+      "layman": "Opposing views on what reality is"
+    },
+    {
+      "jargon": "Ethical understanding of rationality",
+      "layman": "Moral basis for scientific reasoning"
+    },
+    {
+      "jargon": "Rejection of justificationism",
+      "layman": "Rejecting the need for proof of truth"
+    }
+  ]
+}

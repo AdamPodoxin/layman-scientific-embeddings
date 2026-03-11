@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "State-owned enterprises",
+      "layman": "Government-owned companies"
+    },
+    {
+      "jargon": "Inward FDI",
+      "layman": "Foreign investment into domestic companies"
+    },
+    {
+      "jargon": "Product innovation",
+      "layman": "Creating new products"
+    },
+    {
+      "jargon": "R&D",
+      "layman": "Research and development"
+    },
+    {
+      "jargon": "Human capital",
+      "layman": "Skilled workers and talent"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Panel data set",
+      "layman": "Long-term company records"
+    },
+    {
+      "jargon": "Firm-level analysis",
+      "layman": "Looking at individual companies"
+    },
+    {
+      "jargon": "Sector-level analysis",
+      "layman": "Looking at industry groups"
+    },
+    {
+      "jargon": "Regression analysis",
+      "layman": "Statistical comparison of variables"
+    },
+    {
+      "jargon": "Causal inference",
+      "layman": "Determining cause and effect"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Higher innovative activity",
+      "layman": "More new products developed"
+    },
+    {
+      "jargon": "Negative effect of sector-level FDI",
+      "layman": "More foreign investment hurts innovation"
+    },
+    {
+      "jargon": "Positive effect on exporters",
+      "layman": "Exporting helps innovation"
+    },
+    {
+      "jargon": "Positive effect on R&D investment",
+      "layman": "Spending on research helps innovation"
+    },
+    {
+      "jargon": "Positive effect on human capital development",
+      "layman": "Training employees helps innovation"
+    }
+  ]
+}

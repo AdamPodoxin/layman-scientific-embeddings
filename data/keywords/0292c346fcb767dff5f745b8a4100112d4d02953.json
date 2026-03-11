@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "I-trees",
+      "layman": "Trees with a special starting part"
+    },
+    {
+      "jargon": "Computable trees",
+      "layman": "Trees built by algorithms"
+    },
+    {
+      "jargon": "Infinite height",
+      "layman": "Going on forever"
+    },
+    {
+      "jargon": "Initial subtree",
+      "layman": "First part of a tree"
+    },
+    {
+      "jargon": "Computable categoricity",
+      "layman": "All versions are essentially the same"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Prove",
+      "layman": "Show is true"
+    },
+    {
+      "jargon": "Effectively infinite computable dimension",
+      "layman": "Can be built in infinitely many ways"
+    },
+    {
+      "jargon": "Studied",
+      "layman": "Analyzed carefully"
+    },
+    {
+      "jargon": "Distinguished",
+      "layman": "Clearly marked or identified"
+    },
+    {
+      "jargon": "Computable",
+      "layman": "Built by a clear rule or algorithm"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "All I-trees of infinite height are computably categorical",
+      "layman": "All such trees are fundamentally the same"
+    },
+    {
+      "jargon": "Have effectively infinite computable dimension",
+      "layman": "Can be described in infinitely many algorithmic ways"
+    },
+    {
+      "jargon": "Proved",
+      "layman": "Confirmed as true"
+    },
+    {
+      "jargon": "Infinite height",
+      "layman": "Never ends"
+    },
+    {
+      "jargon": "Computably categorical",
+      "layman": "Same structure no matter how you build it"
+    }
+  ]
+}

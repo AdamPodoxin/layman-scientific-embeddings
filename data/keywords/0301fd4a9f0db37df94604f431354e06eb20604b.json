@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Epistemic logic",
+      "layman": "Logic of knowledge and belief"
+    },
+    {
+      "jargon": "Pointed model",
+      "layman": "Specific scenario in a knowledge model"
+    },
+    {
+      "jargon": "Moore sentence",
+      "layman": "Statement that something is true but unknown"
+    },
+    {
+      "jargon": "Single agent",
+      "layman": "One person with knowledge"
+    },
+    {
+      "jargon": "Introspective agent",
+      "layman": "Agent who reflects on their own beliefs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Syntactic characterization",
+      "layman": "Rules for identifying formulas"
+    },
+    {
+      "jargon": "Semantic evaluation",
+      "layman": "Testing truth in scenarios"
+    },
+    {
+      "jargon": "Deleting false points",
+      "layman": "Removing situations where a statement is false"
+    },
+    {
+      "jargon": "Extending S5",
+      "layman": "Adding logical rules to knowledge system"
+    },
+    {
+      "jargon": "KD45 logic",
+      "layman": "Knowledge and belief system with self-reflection"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Successful formula",
+      "layman": "Formula that stays true after removing false cases"
+    },
+    {
+      "jargon": "Self-refuting formula",
+      "layman": "Formula that contradicts itself"
+    },
+    {
+      "jargon": "Unsuccessfulness",
+      "layman": "Failure to remain true in all cases"
+    },
+    {
+      "jargon": "Cartesian formulas",
+      "layman": "Formulas that avoid self-contradiction"
+    },
+    {
+      "jargon": "Learnable formulas",
+      "layman": "Formulas that can be learned from experience"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Metallization",
+      "layman": "Coating with metal"
+    },
+    {
+      "jargon": "Nonmetallic material",
+      "layman": "Material without metal"
+    },
+    {
+      "jargon": "Surface",
+      "layman": "Outer layer"
+    },
+    {
+      "jargon": "Material application",
+      "layman": "Use of a material in a product"
+    },
+    {
+      "jargon": "Metallized surface",
+      "layman": "Metal-coated surface"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Metallization methods",
+      "layman": "Techniques to add metal to surfaces"
+    },
+    {
+      "jargon": "Principle of metallization",
+      "layman": "Basic rule for how metal coats form"
+    },
+    {
+      "jargon": "Surface treatment",
+      "layman": "Process to prepare surface for coating"
+    },
+    {
+      "jargon": "Coating technology",
+      "layman": "Technology for applying layers"
+    },
+    {
+      "jargon": "Application development",
+      "layman": "Designing new uses for materials"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New material applications",
+      "layman": "New ways to use materials"
+    },
+    {
+      "jargon": "Developmental prospects",
+      "layman": "Future growth potential"
+    },
+    {
+      "jargon": "Surface modification",
+      "layman": "Changing surface properties"
+    },
+    {
+      "jargon": "Enhanced performance",
+      "layman": "Better function"
+    },
+    {
+      "jargon": "Material functionality",
+      "layman": "Material's ability to work well"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ventricular tachycardia",
+      "layman": "Rapid heartbeats from the lower chambers"
+    },
+    {
+      "jargon": "Congenital heart disease",
+      "layman": "Heart defects present at birth"
+    },
+    {
+      "jargon": "Palliative repair",
+      "layman": "Surgical fix to improve heart function"
+    },
+    {
+      "jargon": "Cardioverter-defibrillator",
+      "layman": "Device that shocks the heart to restore rhythm"
+    },
+    {
+      "jargon": "Electrophysiology studies",
+      "layman": "Tests to map heart electrical activity"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Echocardiography",
+      "layman": "Ultrasound of the heart"
+    },
+    {
+      "jargon": "Cardiac catheterization",
+      "layman": "Tube inserted into heart to measure pressure"
+    },
+    {
+      "jargon": "Risk assessment",
+      "layman": "Evaluating how likely a problem is"
+    },
+    {
+      "jargon": "Medical management",
+      "layman": "Medicine-based treatment"
+    },
+    {
+      "jargon": "Implantation",
+      "layman": "Putting a device in the body"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Early morbidity",
+      "layman": "Early health problems"
+    },
+    {
+      "jargon": "Intermediate morbidity",
+      "layman": "Health issues in the middle term"
+    },
+    {
+      "jargon": "Late mortality",
+      "layman": "Death after a long time"
+    },
+    {
+      "jargon": "Postoperative VT",
+      "layman": "Rapid heartbeats after surgery"
+    },
+    {
+      "jargon": "Long-term management",
+      "layman": "Ongoing care after surgery"
+    }
+  ]
+}

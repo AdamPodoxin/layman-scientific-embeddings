@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "SPA plant factory system",
+      "layman": "Plant growth system using biological data"
+    },
+    {
+      "jargon": "Engineering education",
+      "layman": "Teaching engineering skills"
+    },
+    {
+      "jargon": "KTC",
+      "layman": "Kanazawa Technical College"
+    },
+    {
+      "jargon": "Measurement",
+      "layman": "Taking readings"
+    },
+    {
+      "jargon": "Control",
+      "layman": "Managing processes"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "System and algorithm design",
+      "layman": "Planning system and step-by-step rules"
+    },
+    {
+      "jargon": "Hardware and software design",
+      "layman": "Building physical and digital parts"
+    },
+    {
+      "jargon": "System construction",
+      "layman": "Putting the system together"
+    },
+    {
+      "jargon": "System operation",
+      "layman": "Running the system"
+    },
+    {
+      "jargon": "CDIO framework",
+      "layman": "Teaching through conceive, design, implement, operate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Interdisciplinary education",
+      "layman": "Learning across fields"
+    },
+    {
+      "jargon": "Student feedback",
+      "layman": "Students' opinions"
+    },
+    {
+      "jargon": "Interest in other study fields",
+      "layman": "Curiosity about other subjects"
+    },
+    {
+      "jargon": "Novelty of combining life sciences and engineering",
+      "layman": "New mix of science and engineering"
+    },
+    {
+      "jargon": "Awareness of trial and error",
+      "layman": "Learning from mistakes"
+    }
+  ]
+}

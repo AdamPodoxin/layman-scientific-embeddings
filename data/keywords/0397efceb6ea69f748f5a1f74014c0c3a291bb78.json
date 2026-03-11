@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lacan psychoanalysis",
+      "layman": "Lacan psychoanalysis"
+    },
+    {
+      "jargon": "Unstable ego",
+      "layman": "Unstable self"
+    },
+    {
+      "jargon": "Community",
+      "layman": "Society"
+    },
+    {
+      "jargon": "Ego",
+      "layman": "Self"
+    },
+    {
+      "jargon": "Psychoanalysis",
+      "layman": "Mental analysis"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Enlightening level",
+      "layman": "Providing clarity"
+    },
+    {
+      "jargon": "Adjusting to community",
+      "layman": "Getting along with society"
+    },
+    {
+      "jargon": "Complements",
+      "layman": "Supports"
+    },
+    {
+      "jargon": "Repletely",
+      "layman": "Fully"
+    },
+    {
+      "jargon": "Cannot adjust",
+      "layman": "Fails to adapt"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Purpose of Lacan psychoanalysis",
+      "layman": "Goal of the therapy"
+    },
+    {
+      "jargon": "Unstable ego who cannot adjust",
+      "layman": "Self that can't adapt"
+    },
+    {
+      "jargon": "Who cannot adjust to the community",
+      "layman": "Fails to fit in society"
+    },
+    {
+      "jargon": "Does not enlighten",
+      "layman": "Does not provide clarity"
+    },
+    {
+      "jargon": "Incomplete self",
+      "layman": "Incomplete identity"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Graph transformation",
+      "layman": "Changing structure of networks"
+    },
+    {
+      "jargon": "Embedded item",
+      "layman": "Object within a network"
+    },
+    {
+      "jargon": "Context graph",
+      "layman": "Surrounding network structure"
+    },
+    {
+      "jargon": "Monic match",
+      "layman": "Unique matching in a network"
+    },
+    {
+      "jargon": "Clone",
+      "layman": "Copy of an object"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Algebraic approaches",
+      "layman": "Math-based network rules"
+    },
+    {
+      "jargon": "Rule specification",
+      "layman": "Defining how changes happen"
+    },
+    {
+      "jargon": "Conservative extension",
+      "layman": "Safe addition to existing rules"
+    },
+    {
+      "jargon": "Controlled embedding",
+      "layman": "Managing how parts are placed"
+    },
+    {
+      "jargon": "Preserved connections",
+      "layman": "Keeping links intact"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Preserved items",
+      "layman": "Items kept unchanged"
+    },
+    {
+      "jargon": "Different embeddings",
+      "layman": "Different placements in network"
+    },
+    {
+      "jargon": "Original and copy",
+      "layman": "Original and its copy"
+    },
+    {
+      "jargon": "Context-aware rules",
+      "layman": "Rules that see surroundings"
+    },
+    {
+      "jargon": "Controlled changes",
+      "layman": "Changes with specific settings"
+    }
+  ]
+}

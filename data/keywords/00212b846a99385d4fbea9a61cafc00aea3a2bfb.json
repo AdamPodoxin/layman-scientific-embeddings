@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Foreign physicians",
-      "layman": "Doctors from other countries"
+      "jargon": "Physicians",
+      "layman": "Doctors"
+    },
+    {
+      "jargon": "Dentists",
+      "layman": "Dental specialists"
     },
     {
       "jargon": "Hungarian Medical Chamber",
       "layman": "Hungary's medical registration body"
     },
     {
-      "jargon": "Dentists",
-      "layman": "Doctors who treat teeth"
+      "jargon": "Foreign citizens",
+      "layman": "Non-Hungarian nationals"
     },
     {
       "jargon": "Medical diploma",
-      "layman": "Official medical degree"
-    },
-    {
-      "jargon": "Hungarian citizens",
-      "layman": "People born in Hungary"
+      "layman": "Doctoral medical qualification"
     }
   ],
   "methodologies": [
@@ -27,20 +27,20 @@
       "layman": "Snapshot of data at one time"
     },
     {
+      "jargon": "Registration data",
+      "layman": "Official records of members"
+    },
+    {
       "jargon": "International migration",
-      "layman": "People moving between countries"
+      "layman": "Movement of people across borders"
     },
     {
-      "jargon": "Registration",
-      "layman": "Official record keeping"
+      "jargon": "Medical training",
+      "layman": "Doctoral medical education"
     },
     {
-      "jargon": "Data subtraction",
-      "layman": "Removing numbers to find a difference"
-    },
-    {
-      "jargon": "Professional activity",
-      "layman": "Working in a job"
+      "jargon": "Citizenship status",
+      "layman": "Nationality status"
     }
   ],
   "outcomes": [
@@ -50,11 +50,11 @@
     },
     {
       "jargon": "797 foreign citizens",
-      "layman": "Foreign doctors working in Hungary"
+      "layman": "Number of non-Hungarian doctors"
     },
     {
       "jargon": "2,167 doctors with foreign diplomas",
-      "layman": "Hungarian doctors trained abroad"
+      "layman": "Doctors trained abroad"
     },
     {
       "jargon": "517 doctors trained in Hungary in English",

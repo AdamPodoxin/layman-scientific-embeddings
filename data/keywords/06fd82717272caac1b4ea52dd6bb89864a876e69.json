@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Schanuel property",
+      "layman": "Mathematical property about numbers and their relationships"
+    },
+    {
+      "jargon": "Additive power series",
+      "layman": "Series of powers added together"
+    },
+    {
+      "jargon": "Laurent power series",
+      "layman": "Power series that can include negative exponents"
+    },
+    {
+      "jargon": "Positive characteristic",
+      "layman": "Mathematical system where numbers wrap around after a certain value"
+    },
+    {
+      "jargon": "Field of Laurent power series",
+      "layman": "Mathematical system built from power series with negative powers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Prove a version of Schanuel\u2019s Conjecture",
+      "layman": "Show a mathematical statement is true in a new setting"
+    },
+    {
+      "jargon": "Replace \u2102",
+      "layman": "Use a different number system instead of complex numbers"
+    },
+    {
+      "jargon": "Replace the exponential map",
+      "layman": "Use a different function instead of the exponential function"
+    },
+    {
+      "jargon": "Mathematical proof",
+      "layman": "Logical argument showing something must be true"
+    },
+    {
+      "jargon": "Non-algebraic additive power series",
+      "layman": "A special type of series that can't be expressed as a polynomial"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Version of Schanuel\u2019s Conjecture",
+      "layman": "A new form of a famous mathematical idea proven true"
+    },
+    {
+      "jargon": "Exponential map",
+      "layman": "Function that grows rapidly, like e^x"
+    },
+    {
+      "jargon": "Positive characteristic field",
+      "layman": "A mathematical system with a fixed number cycle"
+    },
+    {
+      "jargon": "Additive power series",
+      "layman": "Series that adds up values in a pattern"
+    },
+    {
+      "jargon": "Non-algebraic",
+      "layman": "Not built from simple algebraic rules"
+    }
+  ]
+}

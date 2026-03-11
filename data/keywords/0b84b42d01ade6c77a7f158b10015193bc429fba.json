@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "P2P architecture",
+      "layman": "Peer-to-peer system"
+    },
+    {
+      "jargon": "P2P systems",
+      "layman": "Peer-to-peer networks"
+    },
+    {
+      "jargon": "Decision tree",
+      "layman": "Guideline for choices"
+    },
+    {
+      "jargon": "Application",
+      "layman": "Use case"
+    },
+    {
+      "jargon": "Deployed systems",
+      "layman": "Real-world networks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Heuristic decision tree",
+      "layman": "Rule-based judgment tool"
+    },
+    {
+      "jargon": "Characteristics analysis",
+      "layman": "Study of key traits"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Review of existing studies"
+    },
+    {
+      "jargon": "System evaluation",
+      "layman": "Assessing performance"
+    },
+    {
+      "jargon": "Design judgment",
+      "layman": "Choosing the right setup"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Likely suitability",
+      "layman": "Good fit for use"
+    },
+    {
+      "jargon": "Architecture suitability",
+      "layman": "Whether the design works"
+    },
+    {
+      "jargon": "Decision framework",
+      "layman": "Clear choice method"
+    },
+    {
+      "jargon": "Application fit",
+      "layman": "Matches the need"
+    },
+    {
+      "jargon": "Suitability judgment",
+      "layman": "Final decision on fit"
+    }
+  ]
+}

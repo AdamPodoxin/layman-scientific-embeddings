@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Non-melanoma skin cancers",
+      "layman": "Skin cancers other than melanoma"
+    },
+    {
+      "jargon": "Post-transplant lympho-proliferative disorders",
+      "layman": "Abnormal lymph cell growth after transplant"
+    },
+    {
+      "jargon": "Cardiac transplant",
+      "layman": "Heart transplant"
+    },
+    {
+      "jargon": "T-lymphocytes",
+      "layman": "Immune cells that fight infections"
+    },
+    {
+      "jargon": "OKT3",
+      "layman": "A type of immune therapy drug"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Retrospective case note analysis",
+      "layman": "Looking back at patient records"
+    },
+    {
+      "jargon": "Kaplan-Meier survival analysis",
+      "layman": "Tracking how long patients live after transplant"
+    },
+    {
+      "jargon": "Fisher's exact test",
+      "layman": "Statistical test for comparing risks"
+    },
+    {
+      "jargon": "Person years follow-up",
+      "layman": "Total time patients were monitored"
+    },
+    {
+      "jargon": "Immunosuppression",
+      "layman": "Reducing immune system activity"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "1-year survival of 82%",
+      "layman": "82% of patients lived one year after transplant"
+    },
+    {
+      "jargon": "Median survival of 10.9 years",
+      "layman": "Half the patients lived about 11 years"
+    },
+    {
+      "jargon": "60 NMSCs diagnosed",
+      "layman": "60 skin cancer cases found"
+    },
+    {
+      "jargon": "8 PTLDs diagnosed",
+      "layman": "8 lymph disorders found"
+    },
+    {
+      "jargon": "6.7 times greater risk with OKT3",
+      "layman": "Much higher chance of lymph disorder with OKT3"
+    }
+  ]
+}

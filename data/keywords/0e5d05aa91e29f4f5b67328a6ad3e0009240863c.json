@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Web applications",
+      "layman": "Online apps"
+    },
+    {
+      "jargon": "Client-server architecture",
+      "layman": "Computer-to-server setup"
+    },
+    {
+      "jargon": "XForms",
+      "layman": "Simple form system"
+    },
+    {
+      "jargon": "J2EE",
+      "layman": "Java server platform"
+    },
+    {
+      "jargon": "MVC model",
+      "layman": "Separate parts for data, logic, and interface"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Separate client and server concerns",
+      "layman": "Split app tasks between devices"
+    },
+    {
+      "jargon": "Parameter passing",
+      "layman": "Sending data between parts"
+    },
+    {
+      "jargon": "Automatic code generation",
+      "layman": "Build code automatically"
+    },
+    {
+      "jargon": "Data marshalling",
+      "layman": "Transfer data between systems"
+    },
+    {
+      "jargon": "Type checking",
+      "layman": "Check data types for errors"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reduced complexity",
+      "layman": "Simpler app design"
+    },
+    {
+      "jargon": "Validation on client and server",
+      "layman": "Double data checks"
+    },
+    {
+      "jargon": "Customization for devices",
+      "layman": "Adapt to different screens"
+    },
+    {
+      "jargon": "Simplified programming model",
+      "layman": "Easier app building"
+    },
+    {
+      "jargon": "Improved deployment",
+      "layman": "Faster app release"
+    }
+  ]
+}

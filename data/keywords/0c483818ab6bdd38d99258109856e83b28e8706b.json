@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Planning systems",
+      "layman": "Decision-making systems"
+    },
+    {
+      "jargon": "Knowledge representation",
+      "layman": "How knowledge is stored"
+    },
+    {
+      "jargon": "Actions",
+      "layman": "Events that happen"
+    },
+    {
+      "jargon": "Effects of actions",
+      "layman": "Results of events"
+    },
+    {
+      "jargon": "Planning",
+      "layman": "Making decisions for future steps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Investigation",
+      "layman": "Looking into something"
+    },
+    {
+      "jargon": "Emphasis",
+      "layman": "Focus on something"
+    },
+    {
+      "jargon": "Solutions",
+      "layman": "Possible answers"
+    },
+    {
+      "jargon": "Representing",
+      "layman": "Showing or describing"
+    },
+    {
+      "jargon": "Recent developments",
+      "layman": "New advances"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Possible solutions",
+      "layman": "Potential fixes"
+    },
+    {
+      "jargon": "Effects of actions",
+      "layman": "Results of events"
+    },
+    {
+      "jargon": "Knowledge representation",
+      "layman": "How knowledge is stored"
+    },
+    {
+      "jargon": "Planning systems",
+      "layman": "Decision-making systems"
+    },
+    {
+      "jargon": "Action effects",
+      "layman": "Outcomes of doing something"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Galois groups",
+      "layman": "Mathematical group describing symmetry of solutions"
+    },
+    {
+      "jargon": "Schubert problems",
+      "layman": "Problems about intersecting geometric shapes"
+    },
+    {
+      "jargon": "3-planes",
+      "layman": "Three-dimensional flat spaces"
+    },
+    {
+      "jargon": "5-planes",
+      "layman": "Five-dimensional flat spaces"
+    },
+    {
+      "jargon": "C^8",
+      "layman": "Eight-dimensional complex space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Numerical homotopy continuation",
+      "layman": "Tracking solutions through continuous changes"
+    },
+    {
+      "jargon": "Polynomial equations",
+      "layman": "Equations with multiple variables and powers"
+    },
+    {
+      "jargon": "Homotopy computation",
+      "layman": "Computing paths between equations"
+    },
+    {
+      "jargon": "Direct computation",
+      "layman": "Direct calculation without approximation"
+    },
+    {
+      "jargon": "Algebraic geometry",
+      "layman": "Study of shapes defined by equations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Full symmetric group S_6006",
+      "layman": "All possible arrangements of 6006 items"
+    },
+    {
+      "jargon": "Non-trivial intersection",
+      "layman": "Intersection that isn't just a point"
+    },
+    {
+      "jargon": "Solutions to polynomial equations",
+      "layman": "Points where equations are satisfied"
+    },
+    {
+      "jargon": "Symmetric group",
+      "layman": "Group where all orderings are allowed"
+    },
+    {
+      "jargon": "Galois group determination",
+      "layman": "Finding the symmetry of a mathematical solution set"
+    }
+  ]
+}

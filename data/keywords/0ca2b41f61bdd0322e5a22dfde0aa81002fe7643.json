@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quantum Field Theory",
+      "layman": "Fields that exist everywhere and contain particles"
+    },
+    {
+      "jargon": "Particle Physics",
+      "layman": "Study of tiny building blocks of matter"
+    },
+    {
+      "jargon": "String Theory",
+      "layman": "Theory that everything is tiny vibrating strings"
+    },
+    {
+      "jargon": "Fields",
+      "layman": "Energy present everywhere in space"
+    },
+    {
+      "jargon": "Particles",
+      "layman": "Tiny building blocks of matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Quantum Field Theory",
+      "layman": "Mathematical model for particles and forces"
+    },
+    {
+      "jargon": "Lagrangian formulation",
+      "layman": "Way to describe physical systems using math"
+    },
+    {
+      "jargon": "Path integral method",
+      "layman": "Summing all possible ways something can happen"
+    },
+    {
+      "jargon": "Renormalization",
+      "layman": "Fixing infinite values in calculations"
+    },
+    {
+      "jargon": "Symmetry principles",
+      "layman": "Rules that keep physics unchanged under transformations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Vacuum fluctuations",
+      "layman": "Tiny energy changes in empty space"
+    },
+    {
+      "jargon": "Particle creation",
+      "layman": "Particles appearing from energy"
+    },
+    {
+      "jargon": "Force mediation",
+      "layman": "Forces carried by particles"
+    },
+    {
+      "jargon": "Spin statistics",
+      "layman": "How particles behave based on their spin"
+    },
+    {
+      "jargon": "Conservation laws",
+      "layman": "Quantities that stay the same in interactions"
+    }
+  ]
+}

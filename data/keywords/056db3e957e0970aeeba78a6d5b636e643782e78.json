@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Name-passing process calculi",
+      "layman": "Systems that pass names between processes"
+    },
+    {
+      "jargon": "Cryptographic primitives",
+      "layman": "Basic security tools"
+    },
+    {
+      "jargon": "High-level process calculi",
+      "layman": "Advanced models of process interaction"
+    },
+    {
+      "jargon": "Process models",
+      "layman": "Models of how processes interact"
+    },
+    {
+      "jargon": "Security protocols",
+      "layman": "Rules for secure communication"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Survey",
+      "layman": "Review of existing work"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Examining past research"
+    },
+    {
+      "jargon": "Roadmap selection",
+      "layman": "Choosing key approaches to focus on"
+    },
+    {
+      "jargon": "Extension with cryptographic primitives",
+      "layman": "Adding security tools to models"
+    },
+    {
+      "jargon": "Coherent presentation",
+      "layman": "Clear and unified explanation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Exhaustive survey",
+      "layman": "Complete coverage"
+    },
+    {
+      "jargon": "Omitted approaches",
+      "layman": "Left-out methods"
+    },
+    {
+      "jargon": "Growing literature",
+      "layman": "Rapidly expanding research"
+    },
+    {
+      "jargon": "Insufficient coverage",
+      "layman": "Incomplete scope"
+    },
+    {
+      "jargon": "Sufficient insight",
+      "layman": "Enough understanding for further study"
+    }
+  ]
+}

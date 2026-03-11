@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Political theory",
+      "layman": "Study of government and power"
+    },
+    {
+      "jargon": "Utilitarianism",
+      "layman": "Rule that maximizes happiness"
+    },
+    {
+      "jargon": "Rational choice theory",
+      "layman": "People make decisions based on logic"
+    },
+    {
+      "jargon": "Liberalism",
+      "layman": "Belief in individual freedoms"
+    },
+    {
+      "jargon": "Postcolonialism",
+      "layman": "Critique of colonial power and culture"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conceptual change",
+      "layman": "Changing how ideas are understood"
+    },
+    {
+      "jargon": "Anachronism",
+      "layman": "Applying old ideas to new times"
+    },
+    {
+      "jargon": "Feminist interpretation",
+      "layman": "Reading politics through gender lens"
+    },
+    {
+      "jargon": "Legal positivism",
+      "layman": "Separating law from morality"
+    },
+    {
+      "jargon": "Deleuze and Guattari's political philosophy",
+      "layman": "Non-traditional approach to power and freedom"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Multiculturalism and oppression",
+      "layman": "Different cultures facing unfair treatment"
+    },
+    {
+      "jargon": "International theory",
+      "layman": "Study of global politics"
+    },
+    {
+      "jargon": "Political power",
+      "layman": "Control over decisions and resources"
+    },
+    {
+      "jargon": "Public philosophy",
+      "layman": "Philosophy for society's use"
+    },
+    {
+      "jargon": "Object of political theory",
+      "layman": "What political theory is trying to explain"
+    }
+  ]
+}

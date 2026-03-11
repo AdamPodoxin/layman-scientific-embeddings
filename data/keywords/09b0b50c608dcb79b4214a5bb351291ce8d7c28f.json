@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Agoraphobia",
+      "layman": "Fear of open spaces"
+    },
+    {
+      "jargon": "Claustrophobia",
+      "layman": "Fear of enclosed spaces"
+    },
+    {
+      "jargon": "Shell shock",
+      "layman": "Post-war trauma"
+    },
+    {
+      "jargon": "Spatial alienation",
+      "layman": "Feeling disconnected from space"
+    },
+    {
+      "jargon": "Virtual reality",
+      "layman": "Immersive digital environments"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spatial warping",
+      "layman": "Distorting perception of space"
+    },
+    {
+      "jargon": "Genre-breaking",
+      "layman": "Mixing art forms unexpectedly"
+    },
+    {
+      "jargon": "Digital techniques",
+      "layman": "Modern tech for design"
+    },
+    {
+      "jargon": "Perspective distortion",
+      "layman": "Bending how space appears"
+    },
+    {
+      "jargon": "Architectural experimentation",
+      "layman": "Trying new building designs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Psychological space",
+      "layman": "Mind's internal space of fear"
+    },
+    {
+      "jargon": "Spatial estrangement",
+      "layman": "Feeling out of place in space"
+    },
+    {
+      "jargon": "Placelessness",
+      "layman": "Lack of sense of belonging"
+    },
+    {
+      "jargon": "New forms of space",
+      "layman": "Unusual spatial experiences"
+    },
+    {
+      "jargon": "Transformation of subject",
+      "layman": "Change in self through space"
+    }
+  ]
+}

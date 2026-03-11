@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "down-faulted red basins",
+      "layman": "down-dropped red sediment basins"
+    },
+    {
+      "jargon": "carbonaceous-siliceous-pelitic rock type uranium deposits",
+      "layman": "uranium deposits in mixed rock types"
+    },
+    {
+      "jargon": "marginal fractures",
+      "layman": "edge cracks in basins"
+    },
+    {
+      "jargon": "sedimentary-exogenous transformation type",
+      "layman": "uranium formed from outside sources in sediments"
+    },
+    {
+      "jargon": "sedimentary-hydrothermal superimposed transformation type",
+      "layman": "uranium from heat and water mixing with sediments"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "analyzing deposit distributions",
+      "layman": "mapping where uranium is found"
+    },
+    {
+      "jargon": "proposing ore-controlling mechanism",
+      "layman": "suggesting how uranium forms in specific places"
+    },
+    {
+      "jargon": "connective effect",
+      "layman": "linking geological features to uranium formation"
+    },
+    {
+      "jargon": "geological analysis",
+      "layman": "studying rock formations and patterns"
+    },
+    {
+      "jargon": "distribution patterns",
+      "layman": "how things are spread out in space"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "ore-concentrated areas",
+      "layman": "areas with high uranium levels"
+    },
+    {
+      "jargon": "deposit distributions",
+      "layman": "where uranium deposits are located"
+    },
+    {
+      "jargon": "uranium concentration",
+      "layman": "how much uranium is present"
+    },
+    {
+      "jargon": "marginal fractures",
+      "layman": "cracks along basin edges"
+    },
+    {
+      "jargon": "ore-controlling mechanism",
+      "layman": "how the basin controls uranium formation"
+    }
+  ]
+}

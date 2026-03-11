@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Scalar fields",
+      "layman": "Scalar fields"
+    },
+    {
+      "jargon": "Traversable wormholes",
+      "layman": "Wormholes that can be crossed"
+    },
+    {
+      "jargon": "Black holes",
+      "layman": "Black holes"
+    },
+    {
+      "jargon": "Horizon",
+      "layman": "Event horizon"
+    },
+    {
+      "jargon": "Generalized second law",
+      "layman": "Thermodynamic law about black hole entropy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Non-minimally coupled scalar fields",
+      "layman": "Scalar fields linked to spacetime in a special way"
+    },
+    {
+      "jargon": "Energy condition violations",
+      "layman": "Breaking standard energy rules"
+    },
+    {
+      "jargon": "Negative energy fluxes",
+      "layman": "Flow of negative energy"
+    },
+    {
+      "jargon": "Flat spacetime",
+      "layman": "Flat space without gravity"
+    },
+    {
+      "jargon": "Entropy modification",
+      "layman": "Changing how entropy is calculated"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Large negative energy fluxes",
+      "layman": "Big negative energy flows"
+    },
+    {
+      "jargon": "Violation of generalized second law",
+      "layman": "Breaking thermodynamic rule"
+    },
+    {
+      "jargon": "Decrease in horizon area",
+      "layman": "Horizon shrinks"
+    },
+    {
+      "jargon": "Acausal behavior of the horizon",
+      "layman": "Horizon acts outside normal time rules"
+    },
+    {
+      "jargon": "Additional entropy term",
+      "layman": "Extra entropy from scalar field"
+    }
+  ]
+}

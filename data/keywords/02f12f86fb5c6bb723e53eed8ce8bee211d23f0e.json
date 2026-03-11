@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hydrocarbons",
+      "layman": "Nonpolar organic molecules"
+    },
+    {
+      "jargon": "Noble gases",
+      "layman": "Inert gases like neon and xenon"
+    },
+    {
+      "jargon": "Hard spheres",
+      "layman": "Simple ball-like molecules"
+    },
+    {
+      "jargon": "Tetrahydrofuran",
+      "layman": "A common solvent chemical"
+    },
+    {
+      "jargon": "Water",
+      "layman": "Pure liquid water"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Thermodynamic solvation properties",
+      "layman": "How energy changes when substances dissolve"
+    },
+    {
+      "jargon": "Molecular dynamics simulations",
+      "layman": "Computer model of molecular movement"
+    },
+    {
+      "jargon": "TraPPE-UA model",
+      "layman": "Computer model for solvent molecules"
+    },
+    {
+      "jargon": "SPC/E potential",
+      "layman": "Force model for water molecules"
+    },
+    {
+      "jargon": "Particle insertion method",
+      "layman": "Way to calculate energy changes in mixtures"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Gibbs free energies",
+      "layman": "Overall energy of dissolution"
+    },
+    {
+      "jargon": "Enthalpy of solvation",
+      "layman": "Heat change when something dissolves"
+    },
+    {
+      "jargon": "Entropy of cavity formation",
+      "layman": "Disorder when a space is made in solvent"
+    },
+    {
+      "jargon": "Hydrophobic effect",
+      "layman": "Tendency of nonpolar molecules to avoid water"
+    },
+    {
+      "jargon": "Maximum in enthalpy dependency",
+      "layman": "Peak in energy change at certain water levels"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Flip-chip packaging",
+      "layman": "Chip mounting method"
+    },
+    {
+      "jargon": "Conductive adhesives",
+      "layman": "Adhesives that conduct electricity"
+    },
+    {
+      "jargon": "Polymer dielectric films",
+      "layman": "Electric-insulating polymer films"
+    },
+    {
+      "jargon": "Encapsulants",
+      "layman": "Protective coatings"
+    },
+    {
+      "jargon": "Metal-polymer interfaces",
+      "layman": "Where metal and polymer meet"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Characterization techniques",
+      "layman": "Testing methods"
+    },
+    {
+      "jargon": "Particle shape analysis",
+      "layman": "Measuring particle forms"
+    },
+    {
+      "jargon": "Curing in electric field",
+      "layman": "Heating with electric field"
+    },
+    {
+      "jargon": "Thermal and mechanical property testing",
+      "layman": "Testing heat and strength"
+    },
+    {
+      "jargon": "Failure mechanism analysis",
+      "layman": "Studying how things break"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Conducting pathways",
+      "layman": "Electric connections formed"
+    },
+    {
+      "jargon": "Improved adhesion",
+      "layman": "Better sticking"
+    },
+    {
+      "jargon": "Thin film characterization",
+      "layman": "Testing thin layers"
+    },
+    {
+      "jargon": "Reliability testing",
+      "layman": "Testing durability"
+    },
+    {
+      "jargon": "Polymer-based package performance",
+      "layman": "How well polymer packages work"
+    }
+  ]
+}

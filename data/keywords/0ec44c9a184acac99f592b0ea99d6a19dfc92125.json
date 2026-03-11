@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "parallel universes",
+      "layman": "parallel universes"
+    },
+    {
+      "jargon": "electroweak vacuum",
+      "layman": "energy state of the universe"
+    },
+    {
+      "jargon": "Higgs-boson",
+      "layman": "Higgs particle"
+    },
+    {
+      "jargon": "top-quark",
+      "layman": "top quark"
+    },
+    {
+      "jargon": "standard model",
+      "layman": "current theory of particles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "decay",
+      "layman": "breakdown over time"
+    },
+    {
+      "jargon": "observation",
+      "layman": "seeing or detecting"
+    },
+    {
+      "jargon": "prediction",
+      "layman": "what is expected to happen"
+    },
+    {
+      "jargon": "interpretation",
+      "layman": "making sense of data"
+    },
+    {
+      "jargon": "existence",
+      "layman": "whether something is real"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "high probability decay",
+      "layman": "likely breakdown"
+    },
+    {
+      "jargon": "our existence unlikely",
+      "layman": "life might be rare"
+    },
+    {
+      "jargon": "cannot be interpreted as evidence",
+      "layman": "no proof of new physics"
+    },
+    {
+      "jargon": "low energy scales",
+      "layman": "small energy levels"
+    },
+    {
+      "jargon": "understanding of standard model",
+      "layman": "better grasp of current theory"
+    }
+  ]
+}

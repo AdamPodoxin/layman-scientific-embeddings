@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Groupoid semantics",
+      "layman": "Framework for understanding systems with multiple types of behavior"
+    },
+    {
+      "jargon": "Logical degrees of freedom",
+      "layman": "States that represent information or decisions"
+    },
+    {
+      "jargon": "Thermal degrees of freedom",
+      "layman": "States related to heat and temperature"
+    },
+    {
+      "jargon": "Encryption function",
+      "layman": "Process that hides data securely"
+    },
+    {
+      "jargon": "Quantum teleportation",
+      "layman": "Transfer of quantum information between places"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Syntactic model",
+      "layman": "Model based on rules and structure"
+    },
+    {
+      "jargon": "Algebraic characterization",
+      "layman": "Mathematical description of a system"
+    },
+    {
+      "jargon": "Linear representation theory",
+      "layman": "Method to describe systems using lines and math"
+    },
+    {
+      "jargon": "Functorial classical model",
+      "layman": "Classical model that maps to quantum systems"
+    },
+    {
+      "jargon": "Landauer's principle",
+      "layman": "Rule linking information processing to heat"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Heat produced by encryption",
+      "layman": "Heat generated when data is encrypted"
+    },
+    {
+      "jargon": "Algebraic characterization of heat",
+      "layman": "Mathematical prediction of heat output"
+    },
+    {
+      "jargon": "Quantum semantics",
+      "layman": "Quantum-level meaning of a system"
+    },
+    {
+      "jargon": "Functorial model for quantum phenomena",
+      "layman": "Classical model that explains quantum events"
+    },
+    {
+      "jargon": "Predicted heat output",
+      "layman": "Expected heat from a process"
+    }
+  ]
+}

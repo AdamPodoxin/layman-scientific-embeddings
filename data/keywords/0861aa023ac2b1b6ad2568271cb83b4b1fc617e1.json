@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Feynman operator calculus",
+      "layman": "Feynman operator calculus"
+    },
+    {
+      "jargon": "Dyson series",
+      "layman": "Series expansion in quantum physics"
+    },
+    {
+      "jargon": "Quantum electrodynamics",
+      "layman": "Theory of light and matter interaction"
+    },
+    {
+      "jargon": "Perturbative expansion",
+      "layman": "Step-by-step approximation"
+    },
+    {
+      "jargon": "Nonperturbative solution",
+      "layman": "Exact solution without small steps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Representation theory",
+      "layman": "Mathematical framework for symmetry"
+    },
+    {
+      "jargon": "Initial-value problem",
+      "layman": "Problem solved from a starting point"
+    },
+    {
+      "jargon": "Asymptotic series",
+      "layman": "Series that approaches a value slowly"
+    },
+    {
+      "jargon": "Remainder term",
+      "layman": "Error term in approximation"
+    },
+    {
+      "jargon": "Sum over paths",
+      "layman": "All possible paths a particle can take"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Asymptotic series",
+      "layman": "Series that approaches a value slowly"
+    },
+    {
+      "jargon": "Dyson\u2019s second conjecture",
+      "layman": "Divergences in quantum theory"
+    },
+    {
+      "jargon": "Dyson\u2019s first conjecture",
+      "layman": "Divergences from uncertainty violation"
+    },
+    {
+      "jargon": "Exact to finite order",
+      "layman": "Accurate up to a certain step"
+    },
+    {
+      "jargon": "Violation of Heisenberg\u2019s uncertainty relations",
+      "layman": "Breaking of quantum limits"
+    }
+  ]
+}

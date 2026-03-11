@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Engineering curriculum",
+      "layman": "Engineering course plan"
+    },
+    {
+      "jargon": "Technical communication",
+      "layman": "Writing and speaking for engineering"
+    },
+    {
+      "jargon": "ABET 2000",
+      "layman": "Engineering education standards"
+    },
+    {
+      "jargon": "Freshman level",
+      "layman": "First-year students"
+    },
+    {
+      "jargon": "Department of Technical Communication",
+      "layman": "Team that teaches writing and speaking"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Curricular integration",
+      "layman": "Mixing writing with engineering lessons"
+    },
+    {
+      "jargon": "Educational reform",
+      "layman": "Changing how engineering is taught"
+    },
+    {
+      "jargon": "Curriculum redesign",
+      "layman": "Rewriting course structure"
+    },
+    {
+      "jargon": "Pedagogical approach",
+      "layman": "Teaching method used"
+    },
+    {
+      "jargon": "Instructional integration",
+      "layman": "Combining teaching topics"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Effective communication",
+      "layman": "Clear and useful messages"
+    },
+    {
+      "jargon": "Critical skill",
+      "layman": "Important ability"
+    },
+    {
+      "jargon": "Unusual integration",
+      "layman": "Rare combination of subjects"
+    },
+    {
+      "jargon": "Enhanced engineering education",
+      "layman": "Better engineering training"
+    },
+    {
+      "jargon": "Level of integration",
+      "layman": "How well subjects are combined"
+    }
+  ]
+}

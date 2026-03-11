@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mobile Intelligent Tutoring Systems",
+      "layman": "Smart learning apps on phones"
+    },
+    {
+      "jargon": "Cloud Computing",
+      "layman": "Remote data and computing power"
+    },
+    {
+      "jargon": "Multi-layer architecture",
+      "layman": "Layered system design"
+    },
+    {
+      "jargon": "Mobile platforms",
+      "layman": "Smartphones and tablets"
+    },
+    {
+      "jargon": "Educational system",
+      "layman": "School or learning environment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Multi-layer architecture",
+      "layman": "Layered system design"
+    },
+    {
+      "jargon": "Mobile Cloud Computing",
+      "layman": "Using cloud power on mobile devices"
+    },
+    {
+      "jargon": "Battery life extension",
+      "layman": "Longer phone battery use"
+    },
+    {
+      "jargon": "Working memory capacity",
+      "layman": "How much info brain holds at once"
+    },
+    {
+      "jargon": "Processing capacity",
+      "layman": "How fast system can handle tasks"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Increased battery life",
+      "layman": "Longer phone battery"
+    },
+    {
+      "jargon": "Greater processing capacity",
+      "layman": "Faster learning system"
+    },
+    {
+      "jargon": "Reduced training costs",
+      "layman": "Lower education expenses"
+    },
+    {
+      "jargon": "Less hardware dependency",
+      "layman": "Fewer devices needed"
+    },
+    {
+      "jargon": "Improved data reliability",
+      "layman": "More accurate learning records"
+    }
+  ]
+}

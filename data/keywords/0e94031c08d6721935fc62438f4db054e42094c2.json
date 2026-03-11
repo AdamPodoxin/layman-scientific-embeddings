@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Online gray markets",
+      "layman": "Unauthorized online sellers of branded goods"
+    },
+    {
+      "jargon": "Branded products",
+      "layman": "Officially made products with brand names"
+    },
+    {
+      "jargon": "Authorized distribution channels",
+      "layman": "Official stores selling branded goods"
+    },
+    {
+      "jargon": "Product availability",
+      "layman": "How many products are available for sale"
+    },
+    {
+      "jargon": "Pricing",
+      "layman": "How much products cost"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Empirical investigation",
+      "layman": "Real-world data study"
+    },
+    {
+      "jargon": "Tracking sellers and transactions",
+      "layman": "Monitoring online sales data"
+    },
+    {
+      "jargon": "34-week period",
+      "layman": "34 weeks of observation"
+    },
+    {
+      "jargon": "Global supply chain management",
+      "layman": "Controlling how products move worldwide"
+    },
+    {
+      "jargon": "Channel control strategies",
+      "layman": "Methods to manage sales channels"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Less expensive styles have more sellers",
+      "layman": "Cheaper products attract more sellers"
+    },
+    {
+      "jargon": "More sellers when product availability is high",
+      "layman": "More sellers when items are available"
+    },
+    {
+      "jargon": "Pricing has no effect on transaction volume",
+      "layman": "Price doesn't affect how many sales happen"
+    },
+    {
+      "jargon": "Product availability affects seller count",
+      "layman": "More stock leads to more sellers"
+    },
+    {
+      "jargon": "Transaction quantities are not impacted by availability",
+      "layman": "Sales volume stays the same regardless of stock"
+    }
+  ]
+}

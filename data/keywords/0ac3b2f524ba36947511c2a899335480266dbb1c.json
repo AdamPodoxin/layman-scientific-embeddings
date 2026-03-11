@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hematite",
+      "layman": "Mineral surface"
+    },
+    {
+      "jargon": "Cytochrome c",
+      "layman": "Heme protein"
+    },
+    {
+      "jargon": "Ferricytochrome c",
+      "layman": "Oxidized cytochrome c"
+    },
+    {
+      "jargon": "Mitochondrial cytochrome c",
+      "layman": "Cellular energy protein"
+    },
+    {
+      "jargon": "Fe(III) reduction",
+      "layman": "Iron reduction process"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sorption",
+      "layman": "Attachment to surface"
+    },
+    {
+      "jargon": "Direct electrochemistry",
+      "layman": "Electron transfer directly"
+    },
+    {
+      "jargon": "UV-visible spectroscopy",
+      "layman": "Light absorption test"
+    },
+    {
+      "jargon": "pH-dependent conformation",
+      "layman": "Shape change with pH"
+    },
+    {
+      "jargon": "Sorption kinetics",
+      "layman": "Speed of attachment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Electrostatic attraction",
+      "layman": "Charge-based pull"
+    },
+    {
+      "jargon": "Peak sorption at pH 8\u201310",
+      "layman": "Strongest binding in that pH range"
+    },
+    {
+      "jargon": "Negative reduction potential",
+      "layman": "Harder to oxidize"
+    },
+    {
+      "jargon": "pH-independent sorption kinetics",
+      "layman": "Attachment speed unchanged with pH"
+    },
+    {
+      "jargon": "Conformational changes after 60 h",
+      "layman": "Shape change after days"
+    }
+  ]
+}

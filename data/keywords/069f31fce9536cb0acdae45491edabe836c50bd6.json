@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "A-to-I RNA editing",
+      "layman": "Adenosine-to-inosine RNA changes"
+    },
+    {
+      "jargon": "Metazoan species",
+      "layman": "Complex animals from worms to humans"
+    },
+    {
+      "jargon": "Editing sites",
+      "layman": "Specific RNA locations edited"
+    },
+    {
+      "jargon": "ADAR motif",
+      "layman": "Editing pattern signature"
+    },
+    {
+      "jargon": "Central nervous system",
+      "layman": "Brain and nerves"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "RNA sequencing",
+      "layman": "Reading RNA to find changes"
+    },
+    {
+      "jargon": "Clustering and conservation strategies",
+      "layman": "Grouping similar sites and checking over time"
+    },
+    {
+      "jargon": "Single-nucleotide polymorphism",
+      "layman": "DNA differences between individuals"
+    },
+    {
+      "jargon": "Genome sequencing",
+      "layman": "Reading entire DNA sequence"
+    },
+    {
+      "jargon": "Spatiotemporal dynamics",
+      "layman": "Changes over time and space"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Highly clustered and conserved editing sites",
+      "layman": "Editing sites that stay the same and cluster together"
+    },
+    {
+      "jargon": "Higher editing level",
+      "layman": "More editing at a site"
+    },
+    {
+      "jargon": "Higher magnitude of ADAR motif",
+      "layman": "Stronger editing pattern signal"
+    },
+    {
+      "jargon": "Increased ratio of nonsynonymous to synonymous editing",
+      "layman": "More changes that affect proteins"
+    },
+    {
+      "jargon": "Conserved enrichment in CNS",
+      "layman": "Editing stays strong in brain and nerves over time"
+    }
+  ]
+}

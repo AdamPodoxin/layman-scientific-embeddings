@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spontaneous symmetry breaking",
+      "layman": "Symmetry that appears broken"
+    },
+    {
+      "jargon": "Scalar boson",
+      "layman": "Mass-giving particle"
+    },
+    {
+      "jargon": "Vector boson",
+      "layman": "Force-carrying particle"
+    },
+    {
+      "jargon": "Fermion masses",
+      "layman": "Particle masses from interactions"
+    },
+    {
+      "jargon": "Electroweak theory",
+      "layman": "Theory unifying electromagnetism and weak force"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spontaneous symmetry breaking in phase transitions",
+      "layman": "Symmetry loss during state changes"
+    },
+    {
+      "jargon": "Spontaneous symmetry breaking in field theory",
+      "layman": "Symmetry loss in physical fields"
+    },
+    {
+      "jargon": "Nambu-Goldstone boson",
+      "layman": "Massless particle from broken symmetry"
+    },
+    {
+      "jargon": "Dynamical symmetry breaking",
+      "layman": "Symmetry breaking through interactions"
+    },
+    {
+      "jargon": "Standard model",
+      "layman": "Theory of fundamental particles and forces"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Massive scalar boson",
+      "layman": "Heavy particle with mass"
+    },
+    {
+      "jargon": "Fermion masses generated",
+      "layman": "Particles gain mass through mechanism"
+    },
+    {
+      "jargon": "Vector boson masses",
+      "layman": "Force particles acquire mass"
+    },
+    {
+      "jargon": "Nambu-Goldstone boson fate",
+      "layman": "Massless particle disappears"
+    },
+    {
+      "jargon": "Electroweak symmetry breaking",
+      "layman": "Electromagnetism and weak force split"
+    }
+  ]
+}

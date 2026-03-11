@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Action theory",
+      "layman": "Framework for understanding human behavior"
+    },
+    {
+      "jargon": "Praxis",
+      "layman": "Action with reflection"
+    },
+    {
+      "jargon": "Empowerment",
+      "layman": "Feeling in control of one's life"
+    },
+    {
+      "jargon": "Suicide project",
+      "layman": "Plan to end one's life"
+    },
+    {
+      "jargon": "Marital transition",
+      "layman": "Change in family relationships"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Action theory research",
+      "layman": "Research based on human actions and decisions"
+    },
+    {
+      "jargon": "Parent-child conversation",
+      "layman": "Talk between parents and children about life changes"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "In-depth look at a specific situation"
+    },
+    {
+      "jargon": "Research application",
+      "layman": "Using theory in real-world studies"
+    },
+    {
+      "jargon": "Theoretical perspective",
+      "layman": "Viewpoint used to interpret behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Empowerment in health promotion",
+      "layman": "People feel more in control of their health"
+    },
+    {
+      "jargon": "Suicide career",
+      "layman": "Pattern of repeated suicide attempts"
+    },
+    {
+      "jargon": "Reasoning in conversation",
+      "layman": "How people think through big life changes"
+    },
+    {
+      "jargon": "Rehabilitation outcomes",
+      "layman": "Results of helping people recover"
+    },
+    {
+      "jargon": "Family health promotion",
+      "layman": "Improved health through family involvement"
+    }
+  ]
+}

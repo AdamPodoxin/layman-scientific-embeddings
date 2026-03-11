@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "chronic kidney disease",
+      "layman": "kidney disease that lasts a long time"
+    },
+    {
+      "jargon": "hospital admissions",
+      "layman": "visits to hospital"
+    },
+    {
+      "jargon": "cardiovascular disease",
+      "layman": "heart or blood vessel disease"
+    },
+    {
+      "jargon": "renal team",
+      "layman": "kidney care team"
+    },
+    {
+      "jargon": "general practice records",
+      "layman": "doctor's office records"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "prospective cohort study",
+      "layman": "long-term study following patients over time"
+    },
+    {
+      "jargon": "observational study",
+      "layman": "study watching patients without changing their treatment"
+    },
+    {
+      "jargon": "Hospital Episode Statistics database",
+      "layman": "hospital records system"
+    },
+    {
+      "jargon": "Quality and Outcomes Framework",
+      "layman": "national health care quality standards"
+    },
+    {
+      "jargon": "multicentre cohort study",
+      "layman": "study across many hospitals"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "hospital readmission rates",
+      "layman": "how often patients return to hospital"
+    },
+    {
+      "jargon": "mortality",
+      "layman": "death rate"
+    },
+    {
+      "jargon": "evidence-based treatments",
+      "layman": "treatments proven to work in studies"
+    },
+    {
+      "jargon": "adverse effects",
+      "layman": "harmful side effects"
+    },
+    {
+      "jargon": "concurrent comorbidities",
+      "layman": "other health problems at the same time"
+    }
+  ]
+}

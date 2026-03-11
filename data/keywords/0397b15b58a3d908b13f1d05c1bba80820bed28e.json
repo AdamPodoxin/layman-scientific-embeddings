@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Majority shareholder",
+      "layman": "Big owner of shares"
+    },
+    {
+      "jargon": "Pyramidal structures",
+      "layman": "Nested ownership layers"
+    },
+    {
+      "jargon": "Cross-holdings",
+      "layman": "Sharing ownership between companies"
+    },
+    {
+      "jargon": "Voting power shares",
+      "layman": "Shares with extra voting rights"
+    },
+    {
+      "jargon": "Empire industrial",
+      "layman": "Large industrial group"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Control leverage",
+      "layman": "Ability to increase control"
+    },
+    {
+      "jargon": "Quantification of control",
+      "layman": "Measuring ownership power"
+    },
+    {
+      "jargon": "International case analysis",
+      "layman": "Studying real-world examples abroad"
+    },
+    {
+      "jargon": "Separation of property and control",
+      "layman": "Splitting ownership from decision power"
+    },
+    {
+      "jargon": "Asymmetry between shareholders",
+      "layman": "Unequal ownership power"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Control asymmetries",
+      "layman": "Unequal control among owners"
+    },
+    {
+      "jargon": "Private benefits",
+      "layman": "Unfair personal gains"
+    },
+    {
+      "jargon": "Market financial impact",
+      "layman": "Effect on financial markets"
+    },
+    {
+      "jargon": "Increased ownership separation",
+      "layman": "Ownership and control become disconnected"
+    },
+    {
+      "jargon": "Opportunities for private gains",
+      "layman": "Chances for unfair profits"
+    }
+  ]
+}

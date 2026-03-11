@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Historiography",
+      "layman": "Study of how history is written"
+    },
+    {
+      "jargon": "Research methods",
+      "layman": "Ways to gather and analyze information"
+    },
+    {
+      "jargon": "Professor Jay Lockenour",
+      "layman": "Professor Lockenour"
+    },
+    {
+      "jargon": "Library resources",
+      "layman": "Books and tools in the library"
+    },
+    {
+      "jargon": "Course materials",
+      "layman": "Class handouts and readings"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historiography",
+      "layman": "Study of how history is written"
+    },
+    {
+      "jargon": "Research methods",
+      "layman": "Ways to gather and analyze information"
+    },
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful examination of sources"
+    },
+    {
+      "jargon": "Primary sources",
+      "layman": "Original documents from the time"
+    },
+    {
+      "jargon": "Secondary sources",
+      "layman": "Books or articles about history"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Historical understanding",
+      "layman": "Clearer view of the past"
+    },
+    {
+      "jargon": "Methodological critique",
+      "layman": "Evaluating research techniques"
+    },
+    {
+      "jargon": "Scholarly debate",
+      "layman": "Disagreement among historians"
+    },
+    {
+      "jargon": "Evidence-based conclusions",
+      "layman": "Findings from facts"
+    },
+    {
+      "jargon": "Research validity",
+      "layman": "Whether the research is reliable"
+    }
+  ]
+}

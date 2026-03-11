@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Wetland",
+      "layman": "Wetland"
+    },
+    {
+      "jargon": "Hongzhe Lake",
+      "layman": "Hongzhe Lake"
+    },
+    {
+      "jargon": "Biodiversity",
+      "layman": "Variety of life"
+    },
+    {
+      "jargon": "Environment quality",
+      "layman": "Environmental health"
+    },
+    {
+      "jargon": "Natural properties",
+      "layman": "Natural features"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analysis",
+      "layman": "Study and evaluation"
+    },
+    {
+      "jargon": "Construction planning",
+      "layman": "Designing development plans"
+    },
+    {
+      "jargon": "Impact assessment",
+      "layman": "Checking effects of changes"
+    },
+    {
+      "jargon": "Sustainable development",
+      "layman": "Long-term environmental balance"
+    },
+    {
+      "jargon": "Proposed planning",
+      "layman": "Suggested development plan"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Predominant factors",
+      "layman": "Main causes"
+    },
+    {
+      "jargon": "Range",
+      "layman": "Area covered"
+    },
+    {
+      "jargon": "Environmental quality",
+      "layman": "Environmental health"
+    },
+    {
+      "jargon": "Biodiversity impact",
+      "layman": "Effect on variety of life"
+    },
+    {
+      "jargon": "Sustainable development suggestions",
+      "layman": "Advice for long-term balance"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Queer sensibility",
+      "layman": "Queer feeling"
+    },
+    {
+      "jargon": "Iconic film",
+      "layman": "Famous movie"
+    },
+    {
+      "jargon": "Technicolor wonderland",
+      "layman": "Vivid, colorful world"
+    },
+    {
+      "jargon": "Gay bars",
+      "layman": "Bars for gay people"
+    },
+    {
+      "jargon": "Polychromatic flag",
+      "layman": "Rainbow flag"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cultural touchstones",
+      "layman": "Key cultural symbols"
+    },
+    {
+      "jargon": "References",
+      "layman": "Mentions or allusions"
+    },
+    {
+      "jargon": "Catchphrase",
+      "layman": "Famous line or saying"
+    },
+    {
+      "jargon": "Campy reformulation",
+      "layman": "Playful rewording"
+    },
+    {
+      "jargon": "Film analysis",
+      "layman": "Studying a movie's meaning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Canonic nature",
+      "layman": "Widely accepted as important"
+    },
+    {
+      "jargon": "Cultural icon",
+      "layman": "Famous symbol in culture"
+    },
+    {
+      "jargon": "Queer cinema",
+      "layman": "Movies with queer themes"
+    },
+    {
+      "jargon": "Viewer reception",
+      "layman": "How audiences respond"
+    },
+    {
+      "jargon": "Utopianism",
+      "layman": "Dream of a perfect society"
+    }
+  ]
+}

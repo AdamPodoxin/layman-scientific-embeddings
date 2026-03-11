@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quartz",
+      "layman": "Quartz"
+    },
+    {
+      "jargon": "Tetrahedrally coordinated silica polymorphs",
+      "layman": "Crystal form of silica with tetrahedral structure"
+    },
+    {
+      "jargon": "Amorphous silica",
+      "layman": "Non-crystalline silica"
+    },
+    {
+      "jargon": "Stishovite",
+      "layman": "A form of silica with octahedral structure"
+    },
+    {
+      "jargon": "Phospholipid head group",
+      "layman": "Lipid part with charged head"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Crystal chemical model",
+      "layman": "Model based on crystal structure"
+    },
+    {
+      "jargon": "Thermodynamic model",
+      "layman": "Model based on energy changes"
+    },
+    {
+      "jargon": "Solvation energy changes",
+      "layman": "Energy from water surrounding a molecule"
+    },
+    {
+      "jargon": "Electrostatic forces",
+      "layman": "Attractive forces from charges"
+    },
+    {
+      "jargon": "Adsorption",
+      "layman": "Molecule sticking to a surface"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Membranolytic activity",
+      "layman": "Membrane-breaking ability"
+    },
+    {
+      "jargon": "Unfavorable adsorption entropy",
+      "layman": "Entropy loss when molecules stick"
+    },
+    {
+      "jargon": "Favorable Gibbs free energy of exchange",
+      "layman": "Energy gain when swapping ions"
+    },
+    {
+      "jargon": "Membrane rupture",
+      "layman": "Membrane breaking open"
+    },
+    {
+      "jargon": "Cytotoxicity",
+      "layman": "Cell-damaging effect"
+    }
+  ]
+}

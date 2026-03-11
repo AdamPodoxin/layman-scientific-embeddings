@@ -1,7 +1,7 @@
 {
   "core_entities": [
     {
-      "jargon": "\u03bb-calculus",
+      "jargon": "Lambda calculus",
       "layman": "Mathematical system for computing"
     },
     {
@@ -17,8 +17,8 @@
       "layman": "Mathematical calculations"
     },
     {
-      "jargon": "Recursive functions",
-      "layman": "Functions that call themselves"
+      "jargon": "Logical computations",
+      "layman": "Reasoning and true/false decisions"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Create functions that call themselves"
     },
     {
-      "jargon": "Perform arithmetical computations",
-      "layman": "Do math using the system"
+      "jargon": "Perform computations",
+      "layman": "Carry out math or logic steps"
     },
     {
-      "jargon": "Use unnamed functions",
-      "layman": "Work with functions without names"
+      "jargon": "Apply function abstraction",
+      "layman": "Use functions without naming them"
     },
     {
-      "jargon": "Study mathematical properties",
-      "layman": "Analyze how things behave mathematically"
+      "jargon": "Beta reduction",
+      "layman": "Simplify expressions by applying functions"
     },
     {
-      "jargon": "Formalism",
-      "layman": "Structured system of rules"
+      "jargon": "Function application",
+      "layman": "Using a function with input values"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Strong theoretical foundation",
-      "layman": "Solid base for programming"
+      "jargon": "Named functions",
+      "layman": "Functions with names"
     },
     {
-      "jargon": "Popular formalism",
-      "layman": "Widely used system"
+      "jargon": "Self-reference",
+      "layman": "A function referring to itself"
     },
     {
-      "jargon": "Computations using \u03bb-calculus",
-      "layman": "Math and logic done in the system"
+      "jargon": "Theoretical foundation",
+      "layman": "Strong base for new ideas"
     },
     {
-      "jargon": "No explicit self-reference",
-      "layman": "Can't directly name or call itself"
+      "jargon": "Unnamed functions",
+      "layman": "Functions without names"
     },
     {
-      "jargon": "Theoretical basis for functional languages",
-      "layman": "Gives logic to programming languages"
+      "jargon": "Computational power",
+      "layman": "Ability to perform any calculation"
     }
   ]
 }

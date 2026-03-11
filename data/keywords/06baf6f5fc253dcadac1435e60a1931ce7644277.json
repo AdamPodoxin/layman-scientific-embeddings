@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Investment banking",
+      "layman": "High-paying finance jobs"
+    },
+    {
+      "jargon": "Moral hazard",
+      "layman": "Workers taking risks due to trust"
+    },
+    {
+      "jargon": "Up-or-out contracts",
+      "layman": "Either get promoted or get fired"
+    },
+    {
+      "jargon": "Long work hours",
+      "layman": "Working many hours a day"
+    },
+    {
+      "jargon": "Dynamic segregation",
+      "layman": "Workers split into different career paths"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Optimal dynamic contracting",
+      "layman": "Best way to set pay over time"
+    },
+    {
+      "jargon": "Labor market segmentation",
+      "layman": "Workers divided into different job groups"
+    },
+    {
+      "jargon": "Countercyclical productivity",
+      "layman": "Productivity changes with economy"
+    },
+    {
+      "jargon": "Career entry timing",
+      "layman": "When workers join the job market"
+    },
+    {
+      "jargon": "Talent valuation",
+      "layman": "How valuable a worker's skills are"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Overpaying jobs",
+      "layman": "Jobs that pay more than fair"
+    },
+    {
+      "jargon": "Life-long negative implications",
+      "layman": "Bad effects that last a lifetime"
+    },
+    {
+      "jargon": "Job placement limits",
+      "layman": "Limited job options later in life"
+    },
+    {
+      "jargon": "Countercyclical productivity",
+      "layman": "Productivity goes up when economy does down"
+    },
+    {
+      "jargon": "Too hard to manage",
+      "layman": "Too difficult to supervise"
+    }
+  ]
+}

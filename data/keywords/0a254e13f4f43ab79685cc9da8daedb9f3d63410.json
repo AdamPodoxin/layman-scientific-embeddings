@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quinones",
+      "layman": "Electron-carrying molecules"
+    },
+    {
+      "jargon": "2,3-dimethyl-1,4-naphthoquinone",
+      "layman": "Special quinone molecule"
+    },
+    {
+      "jargon": "Pyrano[3,2-f]chromene",
+      "layman": "Special organic compound"
+    },
+    {
+      "jargon": "Diethyl malonate",
+      "layman": "Weak organic acid"
+    },
+    {
+      "jargon": "Trifluoroethanol",
+      "layman": "Strong hydrogen bonding agent"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hydrogen bonding",
+      "layman": "Molecular attraction via hydrogen"
+    },
+    {
+      "jargon": "Protonation",
+      "layman": "Adding a proton to a molecule"
+    },
+    {
+      "jargon": "Proton-coupled electron transfer",
+      "layman": "Electron and proton move together"
+    },
+    {
+      "jargon": "Electroactive elements",
+      "layman": "Molecules that respond to electricity"
+    },
+    {
+      "jargon": "Cell voltage",
+      "layman": "Electric potential in a battery-like system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Large cell voltage",
+      "layman": "High electrical output"
+    },
+    {
+      "jargon": "Stability of reduced quinone",
+      "layman": "Long-lasting reduced state"
+    },
+    {
+      "jargon": "High cell potential but low stability",
+      "layman": "High voltage, short life"
+    },
+    {
+      "jargon": "Lower cell potential but high stability",
+      "layman": "Low voltage, long life"
+    },
+    {
+      "jargon": "Good combination of voltage and stability",
+      "layman": "Balanced performance"
+    }
+  ]
+}

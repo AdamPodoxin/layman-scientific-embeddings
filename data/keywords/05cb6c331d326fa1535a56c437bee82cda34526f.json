@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lower integrals",
+      "layman": "Smallest possible area under a curve"
+    },
+    {
+      "jargon": "Upper integrals",
+      "layman": "Largest possible area under a curve"
+    },
+    {
+      "jargon": "Valuation",
+      "layman": "Measure of size in a mathematical space"
+    },
+    {
+      "jargon": "Covaluation",
+      "layman": "Opposite measure of size"
+    },
+    {
+      "jargon": "Compact subspace",
+      "layman": "Small, closed region in space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Constructive in geometric logic",
+      "layman": "Built using geometric reasoning"
+    },
+    {
+      "jargon": "Riemann integrals",
+      "layman": "Area calculation using rectangles"
+    },
+    {
+      "jargon": "Choquet integrals",
+      "layman": "Advanced area calculation method"
+    },
+    {
+      "jargon": "Integration with respect to a valuation",
+      "layman": "Adding up values using a specific measure"
+    },
+    {
+      "jargon": "Calculation in terms of lower and upper integrals",
+      "layman": "Finding area using smallest and largest bounds"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lower real",
+      "layman": "Smallest possible number in a range"
+    },
+    {
+      "jargon": "Upper real",
+      "layman": "Largest possible number in a range"
+    },
+    {
+      "jargon": "Non-negative lower reals",
+      "layman": "Positive or zero numbers"
+    },
+    {
+      "jargon": "Non-negative upper reals",
+      "layman": "Positive or zero numbers"
+    },
+    {
+      "jargon": "Bounded domain of integration",
+      "layman": "Limited region where calculation occurs"
+    }
+  ]
+}

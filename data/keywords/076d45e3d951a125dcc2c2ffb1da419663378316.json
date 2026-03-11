@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nonconformity",
+      "layman": "Deviation from mainstream religion"
+    },
+    {
+      "jargon": "Dissenting pulpit",
+      "layman": "Nonconformist religious preaching"
+    },
+    {
+      "jargon": "Political ideology",
+      "layman": "Beliefs about government"
+    },
+    {
+      "jargon": "Petitioners",
+      "layman": "People who wrote formal requests"
+    },
+    {
+      "jargon": "Poll books",
+      "layman": "Records of voter information"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Petitioning",
+      "layman": "Sending formal requests"
+    },
+    {
+      "jargon": "Electoral independence",
+      "layman": "Voting freely without pressure"
+    },
+    {
+      "jargon": "Social status analysis",
+      "layman": "Studying people's class positions"
+    },
+    {
+      "jargon": "Legal status",
+      "layman": "Official rules about rights"
+    },
+    {
+      "jargon": "Political influence",
+      "layman": "Power to affect decisions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Electoral independence",
+      "layman": "Freedom to vote without control"
+    },
+    {
+      "jargon": "Popular politics",
+      "layman": "Public involvement in politics"
+    },
+    {
+      "jargon": "Religious influence on politics",
+      "layman": "Religion affecting government"
+    },
+    {
+      "jargon": "Political radicalism",
+      "layman": "Strong opposition to government norms"
+    },
+    {
+      "jargon": "American independence",
+      "layman": "Freedom from British rule"
+    }
+  ]
+}

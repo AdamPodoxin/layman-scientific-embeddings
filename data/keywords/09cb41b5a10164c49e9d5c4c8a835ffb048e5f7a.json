@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Total cross-sections",
+      "layman": "Total collision chances"
+    },
+    {
+      "jargon": "Glueballs",
+      "layman": "Strange particles made of gluons"
+    },
+    {
+      "jargon": "Hadron",
+      "layman": "Particles made of quarks"
+    },
+    {
+      "jargon": "Heisenberg's model",
+      "layman": "Old physics model for particle collisions"
+    },
+    {
+      "jargon": "Cross-section",
+      "layman": "Chance of particles colliding"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Modification of the Heisenberg's model",
+      "layman": "Updated version of the original model"
+    },
+    {
+      "jargon": "Phenomenological analysis",
+      "layman": "Matching data to theory"
+    },
+    {
+      "jargon": "Theoretical modeling",
+      "layman": "Building theories to explain data"
+    },
+    {
+      "jargon": "Data fitting",
+      "layman": "Adjusting models to match observations"
+    },
+    {
+      "jargon": "Particle collision studies",
+      "layman": "Testing how particles interact"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "(lns)\u00b2 behaviour",
+      "layman": "Logarithmic squared pattern in data"
+    },
+    {
+      "jargon": "Realistic description",
+      "layman": "Accurate fit to real measurements"
+    },
+    {
+      "jargon": "Existing hadron data",
+      "layman": "Known particle collision results"
+    },
+    {
+      "jargon": "Increased interest",
+      "layman": "Growing attention in science"
+    },
+    {
+      "jargon": "Total cross-section data",
+      "layman": "Measured collision frequencies"
+    }
+  ]
+}

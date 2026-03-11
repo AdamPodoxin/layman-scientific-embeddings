@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Austrian law and economics",
+      "layman": "Austrian law and economics"
+    },
+    {
+      "jargon": "Ronald Coase",
+      "layman": "Economist Ronald Coase"
+    },
+    {
+      "jargon": "Richard Posner",
+      "layman": "Judge Richard Posner"
+    },
+    {
+      "jargon": "Legal institutions",
+      "layman": "Legal systems"
+    },
+    {
+      "jargon": "Superstitions",
+      "layman": "False beliefs about luck or fate"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Economic analysis",
+      "layman": "Using economics to study decisions"
+    },
+    {
+      "jargon": "Belief analysis",
+      "layman": "Studying how people hold beliefs"
+    },
+    {
+      "jargon": "Legal analysis",
+      "layman": "Examining laws and their effects"
+    },
+    {
+      "jargon": "Social productivity",
+      "layman": "How beliefs help society function"
+    },
+    {
+      "jargon": "Objective falsity",
+      "layman": "Beliefs that are factually wrong"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Precludes economic analysis",
+      "layman": "Blocks economic study"
+    },
+    {
+      "jargon": "Core of study",
+      "layman": "Main focus of research"
+    },
+    {
+      "jargon": "Socially productive",
+      "layman": "Helps society function"
+    },
+    {
+      "jargon": "False beliefs",
+      "layman": "Wrong beliefs that persist"
+    },
+    {
+      "jargon": "Beliefs that support legal institutions",
+      "layman": "Beliefs that help keep laws stable"
+    }
+  ]
+}

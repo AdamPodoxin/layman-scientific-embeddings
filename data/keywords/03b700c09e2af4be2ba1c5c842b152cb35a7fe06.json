@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Neutrinos",
+      "layman": "Nearly massless particles"
+    },
+    {
+      "jargon": "Neutrino oscillations",
+      "layman": "Neutrinos changing types"
+    },
+    {
+      "jargon": "Flavors",
+      "layman": "Types of neutrinos"
+    },
+    {
+      "jargon": "Atmospheric neutrinos",
+      "layman": "Neutrinos from cosmic rays"
+    },
+    {
+      "jargon": "Solar neutrinos",
+      "layman": "Neutrinos from the sun"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Neutrino detection",
+      "layman": "Capturing neutrino signals"
+    },
+    {
+      "jargon": "Oscillation measurements",
+      "layman": "Tracking how neutrinos change"
+    },
+    {
+      "jargon": "Beam experiments",
+      "layman": "Sending neutrino beams"
+    },
+    {
+      "jargon": "Underground detectors",
+      "layman": "Deep labs to block noise"
+    },
+    {
+      "jargon": "Data analysis",
+      "layman": "Sorting through signals"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Oscillation probabilities",
+      "layman": "Chance of change"
+    },
+    {
+      "jargon": "Mass splitting",
+      "layman": "Different masses between types"
+    },
+    {
+      "jargon": "Discrepancies in data",
+      "layman": "Inconsistent results"
+    },
+    {
+      "jargon": "Non-standard interactions",
+      "layman": "Unexpected neutrino behavior"
+    },
+    {
+      "jargon": "New physics hints",
+      "layman": "Signs of unknown rules"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "German empire",
+      "layman": "Medieval German kingdom"
+    },
+    {
+      "jargon": "Henry IV",
+      "layman": "German king in 1056"
+    },
+    {
+      "jargon": "Frederick Barbarossa",
+      "layman": "Strong and successful German emperor"
+    },
+    {
+      "jargon": "Rudolf Habsburg",
+      "layman": "Emperor who restored order"
+    },
+    {
+      "jargon": "Hohenstaufens",
+      "layman": "Powerful German royal family"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Political development",
+      "layman": "How power and government evolved"
+    },
+    {
+      "jargon": "Social changes",
+      "layman": "Changes in people's lives and roles"
+    },
+    {
+      "jargon": "Economic growth",
+      "layman": "Increase in wealth and trade"
+    },
+    {
+      "jargon": "Population increase",
+      "layman": "More people over time"
+    },
+    {
+      "jargon": "European context",
+      "layman": "How Germany fit into wider Europe"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Expansion of Latin Christendom",
+      "layman": "Spread of Christian influence"
+    },
+    {
+      "jargon": "Fortunes of the Papacy",
+      "layman": "Papal power and influence"
+    },
+    {
+      "jargon": "Education",
+      "layman": "Teaching and learning systems"
+    },
+    {
+      "jargon": "Trade and industry",
+      "layman": "Business and manufacturing growth"
+    },
+    {
+      "jargon": "Internal life",
+      "layman": "Daily life and societal functions"
+    }
+  ]
+}

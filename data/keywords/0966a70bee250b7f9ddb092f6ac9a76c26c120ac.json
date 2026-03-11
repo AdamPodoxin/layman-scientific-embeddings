@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Creative telescoping",
+      "layman": "Method to find patterns in sums"
+    },
+    {
+      "jargon": "Parameterized telescoping",
+      "layman": "Generalized version of creative telescoping"
+    },
+    {
+      "jargon": "Algebraic independence",
+      "layman": "Sums that can't be combined into simpler expressions"
+    },
+    {
+      "jargon": "Sums",
+      "layman": "Mathematical additions"
+    },
+    {
+      "jargon": "Zeilberger\u2019s algorithm",
+      "layman": "Computer method to find sum patterns"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Creative telescoping",
+      "layman": "Finding patterns in sums"
+    },
+    {
+      "jargon": "Parameterized telescoping",
+      "layman": "Finding patterns with variables"
+    },
+    {
+      "jargon": "Summation theory",
+      "layman": "Rules for adding mathematical expressions"
+    },
+    {
+      "jargon": "Non-existence of solution",
+      "layman": "No pattern found"
+    },
+    {
+      "jargon": "Algorithm fails",
+      "layman": "Computer can't find a solution"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Algebraic independence of sums",
+      "layman": "Sums can't be simplified together"
+    },
+    {
+      "jargon": "Transcendence of sums",
+      "layman": "Sums are not solutions to algebraic equations"
+    },
+    {
+      "jargon": "Minimal order recurrence",
+      "layman": "Simplest possible pattern in a sum"
+    },
+    {
+      "jargon": "Failure to find recurrence",
+      "layman": "No simple pattern found"
+    },
+    {
+      "jargon": "New insight into algorithm failure",
+      "layman": "Better understanding of why it fails"
+    }
+  ]
+}

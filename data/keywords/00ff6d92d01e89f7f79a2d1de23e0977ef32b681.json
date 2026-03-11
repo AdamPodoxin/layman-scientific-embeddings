@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Vehicular communication systems",
+      "layman": "Car-to-car communication networks"
+    },
+    {
+      "jargon": "Threat model",
+      "layman": "List of possible attacks on the system"
+    },
+    {
+      "jargon": "Security architecture",
+      "layman": "System design to protect data"
+    },
+    {
+      "jargon": "Secure VC system components",
+      "layman": "Key parts that keep communication safe"
+    },
+    {
+      "jargon": "Privacy",
+      "layman": "Protection of personal information"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Distillation of state of the art",
+      "layman": "Summarizing current best practices"
+    },
+    {
+      "jargon": "Dissecting assumptions",
+      "layman": "Breaking down hidden beliefs in design"
+    },
+    {
+      "jargon": "Design choices",
+      "layman": "Decisions made in building the system"
+    },
+    {
+      "jargon": "Charting the landscape",
+      "layman": "Mapping the path to real-world use"
+    },
+    {
+      "jargon": "Non-technical influences",
+      "layman": "Social or policy factors affecting design"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Extensive similarities in objectives",
+      "layman": "Similar goals across projects"
+    },
+    {
+      "jargon": "Consensus on security needs",
+      "layman": "Agreement on what must be protected"
+    },
+    {
+      "jargon": "Consideration of alternatives",
+      "layman": "Exploring other possible solutions"
+    },
+    {
+      "jargon": "Distance to deployment",
+      "layman": "Gap between design and real use"
+    },
+    {
+      "jargon": "Trustworthy VC systems",
+      "layman": "Safe and reliable car communication systems"
+    }
+  ]
+}

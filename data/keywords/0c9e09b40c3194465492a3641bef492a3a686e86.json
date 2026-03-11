@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Air pollutants",
+      "layman": "Pollutants in the air"
+    },
+    {
+      "jargon": "Plant species",
+      "layman": "Different types of plants"
+    },
+    {
+      "jargon": "Soil phenomena",
+      "layman": "Natural soil changes"
+    },
+    {
+      "jargon": "Government agencies",
+      "layman": "Government groups"
+    },
+    {
+      "jargon": "Agriculture",
+      "layman": "Growing food on land"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "General review",
+      "layman": "Summary of existing knowledge"
+    },
+    {
+      "jargon": "Effects on plant species",
+      "layman": "How pollutants affect plants"
+    },
+    {
+      "jargon": "Policy definition",
+      "layman": "Setting rules for pollution"
+    },
+    {
+      "jargon": "Research needs",
+      "layman": "Areas needing more study"
+    },
+    {
+      "jargon": "Government responsibilities",
+      "layman": "What governments should do"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Biological effects",
+      "layman": "Health impacts on living things"
+    },
+    {
+      "jargon": "Impacts on agriculture",
+      "layman": "Damage to farming"
+    },
+    {
+      "jargon": "Pollution impacts",
+      "layman": "Harm from pollution"
+    },
+    {
+      "jargon": "More research needed",
+      "layman": "Need for further study"
+    },
+    {
+      "jargon": "Better defined policy",
+      "layman": "Clearer pollution rules"
+    }
+  ]
+}

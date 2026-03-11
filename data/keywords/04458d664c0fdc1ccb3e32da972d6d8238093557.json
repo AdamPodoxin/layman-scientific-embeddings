@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Chromoelectric field",
+      "layman": "Color electric field"
+    },
+    {
+      "jargon": "Flux tube",
+      "layman": "String of energy between quarks"
+    },
+    {
+      "jargon": "String-breaking distance",
+      "layman": "Distance when quark pair breaks"
+    },
+    {
+      "jargon": "Quark-antiquark pair",
+      "layman": "Quark and its partner"
+    },
+    {
+      "jargon": "Confining pellicle",
+      "layman": "Energy barrier holding quarks together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Schwinger formula",
+      "layman": "Basic formula for string-breaking"
+    },
+    {
+      "jargon": "Landau-Ginzburg parameter",
+      "layman": "Key value in model tuning"
+    },
+    {
+      "jargon": "Dispersion of chromoelectric field",
+      "layman": "Field spreading out"
+    },
+    {
+      "jargon": "All-order corrections",
+      "layman": "Full calculation including small effects"
+    },
+    {
+      "jargon": "Treatment as holes in pellicle",
+      "layman": "Pair treated as missing spots"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Slight diminishment of string-breaking distance",
+      "layman": "Small reduction in breaking distance"
+    },
+    {
+      "jargon": "Increase of string-breaking distance",
+      "layman": "Breaking distance grows"
+    },
+    {
+      "jargon": "One order of magnitude increase",
+      "layman": "Breaking distance becomes 10 times larger"
+    },
+    {
+      "jargon": "Alternative formula for distance",
+      "layman": "New way to calculate distance"
+    },
+    {
+      "jargon": "Generalizations to small and near-critical temperatures",
+      "layman": "Results apply to cold and near-transition temperatures"
+    }
+  ]
+}

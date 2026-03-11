@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Acute postoperative pain",
+      "layman": "Pain after surgery"
+    },
+    {
+      "jargon": "Cancer pain",
+      "layman": "Pain from cancer"
+    },
+    {
+      "jargon": "Physician",
+      "layman": "Doctor"
+    },
+    {
+      "jargon": "Pain management",
+      "layman": "Treating pain"
+    },
+    {
+      "jargon": "Prostatectomy",
+      "layman": "Surgery to remove the prostate"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cross-sectional survey",
+      "layman": "One-time doctor questionnaire"
+    },
+    {
+      "jargon": "Vignettes",
+      "layman": "Short patient scenarios"
+    },
+    {
+      "jargon": "Randomly-selected sample",
+      "layman": "Picked doctors at random"
+    },
+    {
+      "jargon": "Demographic characteristics",
+      "layman": "Doctor's background info"
+    },
+    {
+      "jargon": "Attitudes and knowledge assessment",
+      "layman": "Measuring beliefs and facts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Physician variability",
+      "layman": "Doctors make different choices"
+    },
+    {
+      "jargon": "Confidence in pain care",
+      "layman": "Doctors feel sure about pain treatment"
+    },
+    {
+      "jargon": "Pain relief without distress",
+      "layman": "Pain gone, no side effects"
+    },
+    {
+      "jargon": "Optimal pain management response",
+      "layman": "Best pain treatment choice"
+    },
+    {
+      "jargon": "Minority provide cancer pain care",
+      "layman": "Few doctors treat cancer pain"
+    }
+  ]
+}

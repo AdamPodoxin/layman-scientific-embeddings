@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "graph",
+      "layman": "network of connections"
+    },
+    {
+      "jargon": "countable graph",
+      "layman": "graph with countably many points"
+    },
+    {
+      "jargon": "universal graph",
+      "layman": "graph that contains all others"
+    },
+    {
+      "jargon": "spanned subgraph",
+      "layman": "part of a graph that follows its structure"
+    },
+    {
+      "jargon": "cardinal",
+      "layman": "size of infinite sets"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "embedding theorems",
+      "layman": "rules for fitting one graph into another"
+    },
+    {
+      "jargon": "negative partition relations",
+      "layman": "conditions that prevent division of graphs"
+    },
+    {
+      "jargon": "isomorphic",
+      "layman": "same structure, different labels"
+    },
+    {
+      "jargon": "generalization",
+      "layman": "extending a rule to broader cases"
+    },
+    {
+      "jargon": "problem formulation",
+      "layman": "defining a scientific question"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "universal for countable graphs",
+      "layman": "contains all small graphs"
+    },
+    {
+      "jargon": "establishing negative partition relations",
+      "layman": "proving certain graph divisions fail"
+    },
+    {
+      "jargon": "cannot be generalized for higher cardinals",
+      "layman": "fails for larger infinite sets"
+    },
+    {
+      "jargon": "solved or modified problems",
+      "layman": "original questions answered or changed"
+    },
+    {
+      "jargon": "important remark",
+      "layman": "key insight from a leading expert"
+    }
+  ]
+}

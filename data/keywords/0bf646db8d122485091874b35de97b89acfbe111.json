@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Chemical potential",
+      "layman": "Energy level for particles"
+    },
+    {
+      "jargon": "Lattice actions",
+      "layman": "Grid-based physics rules"
+    },
+    {
+      "jargon": "Fermion determinant",
+      "layman": "Mathematical measure of particle behavior"
+    },
+    {
+      "jargon": "Nonzero chemical potential",
+      "layman": "Energy level not at zero"
+    },
+    {
+      "jargon": "Physical constraint",
+      "layman": "Rule that makes physics realistic"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Imposing a constraint",
+      "layman": "Adding a rule to the system"
+    },
+    {
+      "jargon": "Obtain lattice actions",
+      "layman": "Create grid-based physics rules"
+    },
+    {
+      "jargon": "Real fermion determinant",
+      "layman": "Actual mathematical result for particles"
+    },
+    {
+      "jargon": "General case",
+      "layman": "Broad situation"
+    },
+    {
+      "jargon": "Physical desirability",
+      "layman": "Desirable physical rule"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "No real fermion determinant",
+      "layman": "No valid particle math result"
+    },
+    {
+      "jargon": "General failure",
+      "layman": "Doesn't work in most cases"
+    },
+    {
+      "jargon": "Class of lattice actions",
+      "layman": "Group of grid-based rules"
+    },
+    {
+      "jargon": "Unavoidable issue",
+      "layman": "Problem that always occurs"
+    },
+    {
+      "jargon": "Physical constraint",
+      "layman": "Rule that makes physics realistic"
+    }
+  ]
+}

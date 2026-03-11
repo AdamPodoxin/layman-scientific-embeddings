@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Tonal closure",
+      "layman": "Sense of musical completion"
+    },
+    {
+      "jargon": "Schenkerian theory",
+      "layman": "Theory of tonal structure"
+    },
+    {
+      "jargon": "Empirical knowledge",
+      "layman": "Observations-based understanding"
+    },
+    {
+      "jargon": "New Musicology",
+      "layman": "Study of music as culture"
+    },
+    {
+      "jargon": "Naturalized music theory",
+      "layman": "Music theory rooted in natural laws"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Large-scale tonal closure experiments",
+      "layman": "Testing musical completion in long pieces"
+    },
+    {
+      "jargon": "Empirical testing",
+      "layman": "Testing with real data"
+    },
+    {
+      "jargon": "Analytical discourse",
+      "layman": "Interpretation of music"
+    },
+    {
+      "jargon": "Cognitive psychology",
+      "layman": "How the mind processes music"
+    },
+    {
+      "jargon": "Model testing",
+      "layman": "Checking if a theory fits real music"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Even split in preferences",
+      "layman": "Equal liking for open and closed music"
+    },
+    {
+      "jargon": "Testable limits",
+      "layman": "Clear boundaries for a theory"
+    },
+    {
+      "jargon": "Methodological problems",
+      "layman": "Flaws in how theories are tested"
+    },
+    {
+      "jargon": "Epistemological issues",
+      "layman": "Questions about how knowledge is formed"
+    },
+    {
+      "jargon": "Open empiric question",
+      "layman": "Still unknown, needs more testing"
+    }
+  ]
+}

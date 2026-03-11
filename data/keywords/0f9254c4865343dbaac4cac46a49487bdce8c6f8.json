@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "\u03b2-lactoglobulin",
+      "layman": "Beta-lactoglobulin"
+    },
+    {
+      "jargon": "lysozyme",
+      "layman": "Lysozyme"
+    },
+    {
+      "jargon": "electrostatic attraction",
+      "layman": "Opposite charges pulling together"
+    },
+    {
+      "jargon": "protein mixture",
+      "layman": "Mix of proteins"
+    },
+    {
+      "jargon": "additives",
+      "layman": "Added substances"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "thermal aggregation",
+      "layman": "Heating-induced clumping"
+    },
+    {
+      "jargon": "nucleation",
+      "layman": "Starting point of clumping"
+    },
+    {
+      "jargon": "growth of aggregates",
+      "layman": "Clumps getting bigger"
+    },
+    {
+      "jargon": "heat treatment",
+      "layman": "Heating process"
+    },
+    {
+      "jargon": "partial unfolding",
+      "layman": "Proteins slightly changing shape"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "co-aggregation",
+      "layman": "Proteins sticking together"
+    },
+    {
+      "jargon": "native structures",
+      "layman": "Original protein shapes"
+    },
+    {
+      "jargon": "suppressed aggregation",
+      "layman": "Less clumping"
+    },
+    {
+      "jargon": "electrostatic attraction between molecules",
+      "layman": "Charges between proteins pulling them together"
+    },
+    {
+      "jargon": "sensitivity to partial unfolding",
+      "layman": "Highly affected by slight shape changes"
+    }
+  ]
+}

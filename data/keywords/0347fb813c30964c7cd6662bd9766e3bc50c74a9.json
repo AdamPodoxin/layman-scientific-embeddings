@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "postural orthostatic tachycardia syndrome",
+      "layman": "POTS"
+    },
+    {
+      "jargon": "pediatric pain",
+      "layman": "children's pain"
+    },
+    {
+      "jargon": "functional impairment",
+      "layman": "difficulty doing daily activities"
+    },
+    {
+      "jargon": "autonomic dysfunction",
+      "layman": "body system problems"
+    },
+    {
+      "jargon": "parental attribution",
+      "layman": "parents' beliefs about causes of illness"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "tilt table testing",
+      "layman": "test to check blood pressure changes when standing"
+    },
+    {
+      "jargon": "Parent Pain Attribution Questionnaire",
+      "layman": "survey about parents' views on pain causes"
+    },
+    {
+      "jargon": "retrospective grouping",
+      "layman": "looking back to classify patients"
+    },
+    {
+      "jargon": "multidisciplinary chronic pain clinic",
+      "layman": "clinic with many specialists"
+    },
+    {
+      "jargon": "depression and anxiety measures",
+      "layman": "tools to check mood and stress"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "functional disability",
+      "layman": "inability to function normally"
+    },
+    {
+      "jargon": "correlation coefficient r = 0.45",
+      "layman": "strong link between beliefs and disability"
+    },
+    {
+      "jargon": "P =.006",
+      "layman": "highly significant result"
+    },
+    {
+      "jargon": "r = 0.25",
+      "layman": "moderate link between beliefs and disability"
+    },
+    {
+      "jargon": "family-oriented rehabilitative approach",
+      "layman": "treatment that includes the whole family"
+    }
+  ]
+}

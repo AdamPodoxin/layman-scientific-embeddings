@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hebrew God",
+      "layman": "Hebrew God"
+    },
+    {
+      "jargon": "Ancient deity",
+      "layman": "Old god"
+    },
+    {
+      "jargon": "Book review",
+      "layman": "Review of a book"
+    },
+    {
+      "jargon": "Famous book",
+      "layman": "Popular book"
+    },
+    {
+      "jargon": "Reading experience",
+      "layman": "Time spent reading"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Book review",
+      "layman": "Reviewing a book"
+    },
+    {
+      "jargon": "Content curation",
+      "layman": "Selecting and presenting content"
+    },
+    {
+      "jargon": "User demand analysis",
+      "layman": "Checking what people want"
+    },
+    {
+      "jargon": "Online presentation",
+      "layman": "Sharing content online"
+    },
+    {
+      "jargon": "Book collection",
+      "layman": "Gathering books"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "High user interest",
+      "layman": "Many people want it"
+    },
+    {
+      "jargon": "Positive reading time",
+      "layman": "Enjoyable reading time"
+    },
+    {
+      "jargon": "Favorable reception",
+      "layman": "People like it"
+    },
+    {
+      "jargon": "Quick access",
+      "layman": "Easy to get"
+    },
+    {
+      "jargon": "Best time to read",
+      "layman": "Ideal reading moment"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Riphean reservoirs",
+      "layman": "Ancient rock layers with oil potential"
+    },
+    {
+      "jargon": "Siberian craton",
+      "layman": "Old, stable landmass in Siberia"
+    },
+    {
+      "jargon": "Sedimentary sequences",
+      "layman": "Layers of ancient sediment"
+    },
+    {
+      "jargon": "Basement highs",
+      "layman": "Elevated ancient rock under the surface"
+    },
+    {
+      "jargon": "Vendian\u2013Paleozoic sequence",
+      "layman": "Old rock layers above the basement"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "CMP reflection profiling",
+      "layman": "Seismic imaging of underground layers"
+    },
+    {
+      "jargon": "Data processing",
+      "layman": "Cleaning and analyzing seismic data"
+    },
+    {
+      "jargon": "Structural mapping",
+      "layman": "Creating maps of rock formations"
+    },
+    {
+      "jargon": "Thickness analysis",
+      "layman": "Measuring layer depth and spread"
+    },
+    {
+      "jargon": "Deformation pattern analysis",
+      "layman": "Studying how rocks bent or folded"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ten distinct zones",
+      "layman": "Ten different rock areas"
+    },
+    {
+      "jargon": "Exploration priority ranking",
+      "layman": "Priority list for oil searches"
+    },
+    {
+      "jargon": "Sediment structure evidence",
+      "layman": "Signs of how sediment was laid down"
+    },
+    {
+      "jargon": "Structural and compositional differences",
+      "layman": "Different rock types and shapes"
+    },
+    {
+      "jargon": "Position relative to overlying units",
+      "layman": "Where zones sit in relation to top layers"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "atherosclerotic cardiovascular disease",
+      "layman": "plaque buildup in blood vessels"
+    },
+    {
+      "jargon": "working-age patients",
+      "layman": "adults aged 18 to 65"
+    },
+    {
+      "jargon": "arterial beds",
+      "layman": "blood vessel networks in the body"
+    },
+    {
+      "jargon": "polyvascular disease",
+      "layman": "disease in multiple blood vessel groups"
+    },
+    {
+      "jargon": "acute coronary syndromes",
+      "layman": "severe heart-related emergencies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "retrospective cohort study",
+      "layman": "looking back at past medical records"
+    },
+    {
+      "jargon": "claims database",
+      "layman": "health insurance records system"
+    },
+    {
+      "jargon": "adjusted healthcare costs",
+      "layman": "costs corrected for differences in patient health"
+    },
+    {
+      "jargon": "follow-up period",
+      "layman": "time period after diagnosis to track outcomes"
+    },
+    {
+      "jargon": "eligibility requirements",
+      "layman": "criteria for including patients in the study"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "healthcare resource utilization",
+      "layman": "use of medical services"
+    },
+    {
+      "jargon": "total healthcare costs",
+      "layman": "overall medical spending"
+    },
+    {
+      "jargon": "all-cause healthcare costs",
+      "layman": "costs from any illness"
+    },
+    {
+      "jargon": "ASCVD-related healthcare costs",
+      "layman": "costs from heart and blood vessel disease"
+    },
+    {
+      "jargon": "p < 0.001",
+      "layman": "very significant difference"
+    }
+  ]
+}

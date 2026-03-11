@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spatially Balanced Latin squares",
+      "layman": "Balanced Latin squares"
+    },
+    {
+      "jargon": "Schur numbers",
+      "layman": "Number related to math problems about sums"
+    },
+    {
+      "jargon": "Combinatorial objects",
+      "layman": "Mathematical patterns"
+    },
+    {
+      "jargon": "Finite algebra",
+      "layman": "Math rules for finite systems"
+    },
+    {
+      "jargon": "Prime numbers",
+      "layman": "Numbers divisible only by 1 and themselves"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Streamlined combinatorial search",
+      "layman": "Faster search for math patterns"
+    },
+    {
+      "jargon": "Human computation",
+      "layman": "People helping with math solving"
+    },
+    {
+      "jargon": "Constructive procedures",
+      "layman": "Step-by-step methods to build things"
+    },
+    {
+      "jargon": "Automated reasoning",
+      "layman": "Computer-based logical thinking"
+    },
+    {
+      "jargon": "Constraint satisfaction",
+      "layman": "Solving problems with rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient constructive procedures",
+      "layman": "Fast ways to build large patterns"
+    },
+    {
+      "jargon": "New lower bound for weak Schur numbers",
+      "layman": "Better minimum value for Schur numbers"
+    },
+    {
+      "jargon": "Previously unknown constructions",
+      "layman": "No known ways before"
+    },
+    {
+      "jargon": "Open questions and conjectures resolved",
+      "layman": "Old math puzzles solved"
+    },
+    {
+      "jargon": "Mathematical insights",
+      "layman": "Deeper understanding of math"
+    }
+  ]
+}

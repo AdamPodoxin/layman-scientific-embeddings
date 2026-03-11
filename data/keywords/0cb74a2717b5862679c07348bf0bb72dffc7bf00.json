@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Margaret Thatcher",
+      "layman": "Margaret Thatcher"
+    },
+    {
+      "jargon": "Winter Gardens, Blackpool",
+      "layman": "Blackpool's Victorian entertainment palace"
+    },
+    {
+      "jargon": "Cargo-cult",
+      "layman": "Religious-like practice of copying rituals without understanding"
+    },
+    {
+      "jargon": "Speculative fiction",
+      "layman": "Fiction that explores possible futures"
+    },
+    {
+      "jargon": "Collective memory",
+      "layman": "Shared cultural memories of a group"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Narrative film",
+      "layman": "Storytelling through film"
+    },
+    {
+      "jargon": "Art installation",
+      "layman": "Immersive art environment"
+    },
+    {
+      "jargon": "Political rhetoric",
+      "layman": "Speech used to influence public opinion"
+    },
+    {
+      "jargon": "Speculative exploration",
+      "layman": "Imagining alternative realities"
+    },
+    {
+      "jargon": "Cultural site analysis",
+      "layman": "Studying a place's cultural significance"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "After-burn on collective memory",
+      "layman": "Long-lasting cultural impact"
+    },
+    {
+      "jargon": "Future-primitive world",
+      "layman": "A primitive society with no clear tech-magic divide"
+    },
+    {
+      "jargon": "Indistinguishable technology and magic",
+      "layman": "Tech and magic are seen as the same"
+    },
+    {
+      "jargon": "Ritualized political practice",
+      "layman": "Repeating political rituals without meaning"
+    },
+    {
+      "jargon": "Reimagined social reality",
+      "layman": "New way of seeing society"
+    }
+  ]
+}

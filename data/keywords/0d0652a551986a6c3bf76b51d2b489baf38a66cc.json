@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social marginality",
+      "layman": "Being on the fringes of society"
+    },
+    {
+      "jargon": "Intellectual iconoclasm",
+      "layman": "Challenging established ideas"
+    },
+    {
+      "jargon": "Pragmatism",
+      "layman": "Pragmatism"
+    },
+    {
+      "jargon": "Industrial republic",
+      "layman": "Economic system based on industry"
+    },
+    {
+      "jargon": "Heterodox economics",
+      "layman": "Non-mainstream economic ideas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Eclectic originality",
+      "layman": "Mixing different ideas into a new view"
+    },
+    {
+      "jargon": "Doctrinal roots",
+      "layman": "Foundations of beliefs"
+    },
+    {
+      "jargon": "Aesthetics of economics",
+      "layman": "Beauty in economic thinking"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past events to understand now"
+    },
+    {
+      "jargon": "Comparative study",
+      "layman": "Comparing different ideas or systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Veblen's psychology",
+      "layman": "His views on human behavior"
+    },
+    {
+      "jargon": "American pragmatism",
+      "layman": "Practical, real-world thinking"
+    },
+    {
+      "jargon": "Economic heterodoxy",
+      "layman": "Alternative economic views"
+    },
+    {
+      "jargon": "New Deal influence",
+      "layman": "Impact of New Deal policies"
+    },
+    {
+      "jargon": "Resolving problematic issues",
+      "layman": "Fixing unclear or hard-to-understand ideas"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "muon",
+      "layman": "muon"
+    },
+    {
+      "jargon": "standard model",
+      "layman": "current theory of particles and forces"
+    },
+    {
+      "jargon": "TeV scale gravity",
+      "layman": "gravity at very high energy levels"
+    },
+    {
+      "jargon": "supersymmetric model",
+      "layman": "theoretical model with hidden particles"
+    },
+    {
+      "jargon": "Z boson",
+      "layman": "force carrier for weak interactions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "muon g-2 measurement",
+      "layman": "measuring muon's magnetic behavior"
+    },
+    {
+      "jargon": "precision measurement",
+      "layman": "very accurate measurement"
+    },
+    {
+      "jargon": "explicit constraint",
+      "layman": "clear limit applied to calculations"
+    },
+    {
+      "jargon": "prediction for muon g-2",
+      "layman": "expected value of muon's magnetic property"
+    },
+    {
+      "jargon": "alter significantly",
+      "layman": "change noticeably"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "underlying structure",
+      "layman": "basic building blocks of nature"
+    },
+    {
+      "jargon": "hierarchy problem",
+      "layman": "mystery of why forces differ so much"
+    },
+    {
+      "jargon": "new physics",
+      "layman": "unknown laws of nature"
+    },
+    {
+      "jargon": "significant alteration",
+      "layman": "large change in expected value"
+    },
+    {
+      "jargon": "Z boson mass",
+      "layman": "mass of a key force particle"
+    }
+  ]
+}

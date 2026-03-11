@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Non-commutative field theory",
+      "layman": "Fields where space coordinates don't commute"
+    },
+    {
+      "jargon": "Galilean symmetry",
+      "layman": "Symmetry under velocity changes"
+    },
+    {
+      "jargon": "Point particles",
+      "layman": "Tiny fundamental particles"
+    },
+    {
+      "jargon": "Non-relativistic version",
+      "layman": "Slow-moving version of physics"
+    },
+    {
+      "jargon": "Exotic Galilean symmetry",
+      "layman": "Unusual symmetry in slow motion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Introduced by Lozano, Moreno and Schaposnik",
+      "layman": "Proposed by three physicists"
+    },
+    {
+      "jargon": "Shown to admit",
+      "layman": "Proven to include"
+    },
+    {
+      "jargon": "Found before for point particles",
+      "layman": "Discovered earlier in small particles"
+    },
+    {
+      "jargon": "Non-relativistic version",
+      "layman": "Slow-moving physics model"
+    },
+    {
+      "jargon": "Admit",
+      "layman": "Allow or include"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Exotic Galilean symmetry",
+      "layman": "Unusual symmetry in slow motion"
+    },
+    {
+      "jargon": "Admits symmetry",
+      "layman": "Includes a special symmetry"
+    },
+    {
+      "jargon": "Found before",
+      "layman": "Previously discovered"
+    },
+    {
+      "jargon": "Non-commutative",
+      "layman": "Space coordinates don't commute"
+    },
+    {
+      "jargon": "Field theory",
+      "layman": "Physics of fields"
+    }
+  ]
+}

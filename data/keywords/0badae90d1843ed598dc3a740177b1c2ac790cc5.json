@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "iota-carrageenan",
+      "layman": "Sea cucumber gel substance"
+    },
+    {
+      "jargon": "carboxymethyl iota-carrageenan",
+      "layman": "Modified sea cucumber gel"
+    },
+    {
+      "jargon": "solid polymer electrolyte",
+      "layman": "Solid ionic conductor"
+    },
+    {
+      "jargon": "polymer electrolyte film",
+      "layman": "Thin solid ionic layer"
+    },
+    {
+      "jargon": "amorphous phase",
+      "layman": "Disordered molecular structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "chemical modification",
+      "layman": "Adding chemical groups"
+    },
+    {
+      "jargon": "solution casting technique",
+      "layman": "Pouring solution to form thin film"
+    },
+    {
+      "jargon": "1H nuclear magnetic resonance",
+      "layman": "Magnetic test of molecular structure"
+    },
+    {
+      "jargon": "attenuated total reflection FTIR",
+      "layman": "Infrared test for chemical bonds"
+    },
+    {
+      "jargon": "thermal gravimetric analysis",
+      "layman": "Heat stability test"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "ionic conductivity increases",
+      "layman": "Better ion flow"
+    },
+    {
+      "jargon": "amorphous phase increases",
+      "layman": "More disordered structure"
+    },
+    {
+      "jargon": "film becomes smoother",
+      "layman": "Less rough surface"
+    },
+    {
+      "jargon": "stability up to 300\u202f\u00b0C",
+      "layman": "Can withstand high heat"
+    },
+    {
+      "jargon": "conductivity from 2.19\u2009\u00d7\u200910\u22128 to 4.87\u2009\u00d7\u200910\u22126 S cm\u22121",
+      "layman": "Ion flow improves by 200 times"
+    }
+  ]
+}

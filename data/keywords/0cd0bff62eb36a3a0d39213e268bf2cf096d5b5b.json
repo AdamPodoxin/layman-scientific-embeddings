@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "CHARM++",
+      "layman": "Parallel programming language"
+    },
+    {
+      "jargon": "Parallel runtime system",
+      "layman": "System that runs parallel programs"
+    },
+    {
+      "jargon": "Data-driven programming",
+      "layman": "Programming based on data flow"
+    },
+    {
+      "jargon": "Debugging support",
+      "layman": "Tools to find errors in code"
+    },
+    {
+      "jargon": "Applications",
+      "layman": "Software programs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Parallel debugger",
+      "layman": "Tool to find bugs in parallel code"
+    },
+    {
+      "jargon": "Extensive debugging support",
+      "layman": "Comprehensive error-checking tools"
+    },
+    {
+      "jargon": "Build into runtime system",
+      "layman": "Integrated into the program's core"
+    },
+    {
+      "jargon": "High-level debugging",
+      "layman": "Debugging without seeing low-level code"
+    },
+    {
+      "jargon": "Data-driven execution",
+      "layman": "Execution based on data input"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Error detection at high level",
+      "layman": "Find bugs without deep code"
+    },
+    {
+      "jargon": "High-level debugging",
+      "layman": "Debugging without low-level details"
+    },
+    {
+      "jargon": "Extensive support",
+      "layman": "Robust debugging tools"
+    },
+    {
+      "jargon": "Application debugging",
+      "layman": "Fixing software errors"
+    },
+    {
+      "jargon": "Runtime integration",
+      "layman": "Debugging built into system operation"
+    }
+  ]
+}

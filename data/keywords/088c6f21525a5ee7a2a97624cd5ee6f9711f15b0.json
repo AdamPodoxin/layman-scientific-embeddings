@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Fault-tolerant systems",
+      "layman": "Systems that keep working despite faults"
+    },
+    {
+      "jargon": "Firm periodic tasks",
+      "layman": "Tasks that can miss one instance"
+    },
+    {
+      "jargon": "Hard periodic tasks",
+      "layman": "Tasks that must always complete on time"
+    },
+    {
+      "jargon": "Primary job",
+      "layman": "Main task instance"
+    },
+    {
+      "jargon": "Backup job",
+      "layman": "Extra task instance for safety"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Fault-tolerant scheduling algorithm",
+      "layman": "Scheduling method that handles failures"
+    },
+    {
+      "jargon": "Time redundancy",
+      "layman": "Using time to fix errors"
+    },
+    {
+      "jargon": "Processor idle time",
+      "layman": "Time when processor is free"
+    },
+    {
+      "jargon": "Automatic reclamation",
+      "layman": "Auto-freeing up unused time"
+    },
+    {
+      "jargon": "Performance versus complexity tuning",
+      "layman": "Adjusting speed and difficulty"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Task instances satisfied within timing constraints",
+      "layman": "Tasks completed on time"
+    },
+    {
+      "jargon": "Maximized processor idle time",
+      "layman": "More free time for main tasks"
+    },
+    {
+      "jargon": "Spare time saved by deallocating backup jobs",
+      "layman": "Unused backup time is released"
+    },
+    {
+      "jargon": "Quality of service parameter",
+      "layman": "Rule for how often a task can miss"
+    },
+    {
+      "jargon": "Conforms to application requirements",
+      "layman": "Meets specific user needs"
+    }
+  ]
+}

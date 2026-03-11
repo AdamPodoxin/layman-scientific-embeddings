@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Discrete mathematics",
+      "layman": "Math about countable things"
+    },
+    {
+      "jargon": "Combinatorial enumeration",
+      "layman": "Counting possible combinations"
+    },
+    {
+      "jargon": "Analysis of algorithms",
+      "layman": "Studying how algorithms perform"
+    },
+    {
+      "jargon": "Algorithms",
+      "layman": "Step-by-step problem-solving methods"
+    },
+    {
+      "jargon": "Mathematical models",
+      "layman": "Mathematical representations of systems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Combinatorial enumeration",
+      "layman": "Counting combinations"
+    },
+    {
+      "jargon": "Algorithm analysis",
+      "layman": "Measuring algorithm speed and efficiency"
+    },
+    {
+      "jargon": "Recursive computation",
+      "layman": "Breaking problems into smaller parts"
+    },
+    {
+      "jargon": "Asymptotic analysis",
+      "layman": "Studying behavior as size grows large"
+    },
+    {
+      "jargon": "Generating functions",
+      "layman": "Math tools to count patterns"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient algorithms",
+      "layman": "Fast problem-solving methods"
+    },
+    {
+      "jargon": "Exact counting formulas",
+      "layman": "Precise formulas for counting"
+    },
+    {
+      "jargon": "Asymptotic growth rates",
+      "layman": "How fast something grows"
+    },
+    {
+      "jargon": "Closed-form expressions",
+      "layman": "Simple formulas for answers"
+    },
+    {
+      "jargon": "Convergence in enumeration",
+      "layman": "Counting stabilizes over time"
+    }
+  ]
+}

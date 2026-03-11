@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bimini Ghost Maps",
+      "layman": "False maps of Bimini"
+    },
+    {
+      "jargon": "Early sixteenth century maps",
+      "layman": "Old maps from 1500s"
+    },
+    {
+      "jargon": "Florida",
+      "layman": "Florida"
+    },
+    {
+      "jargon": "Place-name Bimini",
+      "layman": "Name Bimini for a location"
+    },
+    {
+      "jargon": "Secondary sources",
+      "layman": "Indirect references"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Examination of sources",
+      "layman": "Checking original references"
+    },
+    {
+      "jargon": "Bibliographical analysis",
+      "layman": "Reviewing book references"
+    },
+    {
+      "jargon": "Reliance upon secondary sources",
+      "layman": "Using secondhand information"
+    },
+    {
+      "jargon": "Map verification",
+      "layman": "Checking if maps are real"
+    },
+    {
+      "jargon": "Historical cartography",
+      "layman": "Studying old maps"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Only two real maps",
+      "layman": "Only two actual maps exist"
+    },
+    {
+      "jargon": "Bibliographical ghost maps",
+      "layman": "Fake maps from books"
+    },
+    {
+      "jargon": "False maps",
+      "layman": "Inaccurate maps"
+    },
+    {
+      "jargon": "Reliance on secondary sources",
+      "layman": "Misleading map creation"
+    },
+    {
+      "jargon": "Place-name confusion",
+      "layman": "Wrong location naming"
+    }
+  ]
+}

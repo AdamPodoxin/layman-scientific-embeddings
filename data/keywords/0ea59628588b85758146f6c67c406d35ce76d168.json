@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Developmental problems",
+      "layman": "Growth and progress issues"
+    },
+    {
+      "jargon": "Social science",
+      "layman": "Study of society"
+    },
+    {
+      "jargon": "Economics",
+      "layman": "Study of money and resources"
+    },
+    {
+      "jargon": "Conceptual models",
+      "layman": "Simplified ways of thinking about reality"
+    },
+    {
+      "jargon": "Metaphors",
+      "layman": "Comparisons used to explain ideas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conceptual shift",
+      "layman": "Change in how we think about things"
+    },
+    {
+      "jargon": "Framework",
+      "layman": "Structure for analysis"
+    },
+    {
+      "jargon": "Analytical framework",
+      "layman": "Tool for understanding problems"
+    },
+    {
+      "jargon": "Scientific paradigm",
+      "layman": "Main way of seeing science"
+    },
+    {
+      "jargon": "Guidance and control",
+      "layman": "Direction and oversight"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Perceptible shift",
+      "layman": "Clear change happening"
+    },
+    {
+      "jargon": "Adequate framework",
+      "layman": "Good enough system for solving problems"
+    },
+    {
+      "jargon": "Contribution to development",
+      "layman": "Help in improving society"
+    },
+    {
+      "jargon": "Changes in practice",
+      "layman": "New ways of doing things"
+    },
+    {
+      "jargon": "New metaphor",
+      "layman": "New way of comparing social issues"
+    }
+  ]
+}

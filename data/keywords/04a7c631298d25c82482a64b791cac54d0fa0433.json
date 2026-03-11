@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Scholars",
+      "layman": "Experts"
+    },
+    {
+      "jargon": "Institutions",
+      "layman": "Universities or research centers"
+    },
+    {
+      "jargon": "Systems and Software Engineering",
+      "layman": "Designing computer systems and software"
+    },
+    {
+      "jargon": "Journals",
+      "layman": "Scientific publications"
+    },
+    {
+      "jargon": "Korea Advanced Institute of Science and Technology",
+      "layman": "Top Korean research institute"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Five-year study",
+      "layman": "Long-term research over five years"
+    },
+    {
+      "jargon": "Paper publication count",
+      "layman": "Number of research papers published"
+    },
+    {
+      "jargon": "Annual assessment",
+      "layman": "Annual review process"
+    },
+    {
+      "jargon": "Top 15 ranking",
+      "layman": "Top 15 list by performance"
+    },
+    {
+      "jargon": "Quantitative measurement",
+      "layman": "Measuring by numbers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Top scholar",
+      "layman": "Most influential researcher"
+    },
+    {
+      "jargon": "Top institution",
+      "layman": "Best research organization"
+    },
+    {
+      "jargon": "Published papers",
+      "layman": "Research articles released"
+    },
+    {
+      "jargon": "Field measurement",
+      "layman": "How the field is evaluated"
+    },
+    {
+      "jargon": "Ongoing study",
+      "layman": "Study that continues yearly"
+    }
+  ]
+}

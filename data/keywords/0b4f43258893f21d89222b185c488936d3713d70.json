@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ecological Tax Reform",
+      "layman": "Eco tax reform"
+    },
+    {
+      "jargon": "Emissions Trading Scheme",
+      "layman": "Carbon trading system"
+    },
+    {
+      "jargon": "Greenhouse gases",
+      "layman": "Climate-warming gases"
+    },
+    {
+      "jargon": "Fossil energies",
+      "layman": "Coal, oil, and gas"
+    },
+    {
+      "jargon": "Energy-intensive industry",
+      "layman": "Factories using a lot of energy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Eco Tax Reform",
+      "layman": "Taxing energy use"
+    },
+    {
+      "jargon": "Emissions Trading",
+      "layman": "Buying and selling carbon allowances"
+    },
+    {
+      "jargon": "Reduction targets",
+      "layman": "Set emission goals"
+    },
+    {
+      "jargon": "Allowances for CO2-emissions",
+      "layman": "Permits to emit carbon"
+    },
+    {
+      "jargon": "Labour cost reduction",
+      "layman": "Lowering worker costs to boost jobs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Double burden for industry",
+      "layman": "Too many costs on businesses"
+    },
+    {
+      "jargon": "Complementary instruments",
+      "layman": "Work together well"
+    },
+    {
+      "jargon": "Emission reduction",
+      "layman": "Less pollution"
+    },
+    {
+      "jargon": "Switching to renewable energies",
+      "layman": "Using clean energy"
+    },
+    {
+      "jargon": "Stimulating employment",
+      "layman": "Helping create jobs"
+    }
+  ]
+}

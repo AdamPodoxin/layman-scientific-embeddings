@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Aerospace engineering",
+      "layman": "Design of aircraft and spacecraft"
+    },
+    {
+      "jargon": "Computer-based information management tools",
+      "layman": "Digital tools for organizing data"
+    },
+    {
+      "jargon": "Bibliometrics",
+      "layman": "Study of scientific publications"
+    },
+    {
+      "jargon": "Information flooding",
+      "layman": "Overload of information"
+    },
+    {
+      "jargon": "Innovation",
+      "layman": "New ideas or solutions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Expert-based approaches",
+      "layman": "Relies on expert knowledge"
+    },
+    {
+      "jargon": "Computer-based approach",
+      "layman": "Uses computers to manage data"
+    },
+    {
+      "jargon": "Information structuring",
+      "layman": "Organizing data into clear patterns"
+    },
+    {
+      "jargon": "Indicator highlighting",
+      "layman": "Spotting key signals in data"
+    },
+    {
+      "jargon": "Bibliometrics application",
+      "layman": "Using data analysis on publications"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Interdisciplinary communications",
+      "layman": "Cross-field collaboration"
+    },
+    {
+      "jargon": "Efficient complement",
+      "layman": "Helps work better alongside experts"
+    },
+    {
+      "jargon": "Structured information",
+      "layman": "Clear and organized data"
+    },
+    {
+      "jargon": "Important indicators",
+      "layman": "Key signals that matter"
+    },
+    {
+      "jargon": "Support for innovation",
+      "layman": "Helps create new solutions"
+    }
+  ]
+}

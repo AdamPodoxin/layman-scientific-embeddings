@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "S-layers",
+      "layman": "Protein outer shell"
+    },
+    {
+      "jargon": "SbpA protein",
+      "layman": "Bacterial protein"
+    },
+    {
+      "jargon": "Self-assembled monolayers",
+      "layman": "Ordered surface layers"
+    },
+    {
+      "jargon": "Substrates",
+      "layman": "Surfaces"
+    },
+    {
+      "jargon": "Protein crystals",
+      "layman": "Ordered protein structures"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Atomic force microscopy",
+      "layman": "Molecular surface imaging"
+    },
+    {
+      "jargon": "Quartz crystal microbalance with dissipation monitoring",
+      "layman": "Measure protein layer growth and stiffness"
+    },
+    {
+      "jargon": "Protein adsorption kinetics",
+      "layman": "How fast protein sticks to surface"
+    },
+    {
+      "jargon": "Mass uptake",
+      "layman": "Amount of protein absorbed"
+    },
+    {
+      "jargon": "Electrostatic interactions",
+      "layman": "Charge-based attractions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Adsorption rate",
+      "layman": "How fast protein sticks"
+    },
+    {
+      "jargon": "Crystalline domain area",
+      "layman": "Size of crystal regions"
+    },
+    {
+      "jargon": "Shear modulus",
+      "layman": "Layer stiffness"
+    },
+    {
+      "jargon": "Viscosity",
+      "layman": "Layer flow resistance"
+    },
+    {
+      "jargon": "Recrystallization pathways",
+      "layman": "How crystals reorganize"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Diazirinyl anion",
+      "layman": "Cyclic chemical structure"
+    },
+    {
+      "jargon": "tert-Butyldiazirine",
+      "layman": "A specific diazirine compound"
+    },
+    {
+      "jargon": "P-1 ion",
+      "layman": "A charged chemical species"
+    },
+    {
+      "jargon": "Parent compound",
+      "layman": "Base chemical form"
+    },
+    {
+      "jargon": "4.pi.-electron system",
+      "layman": "Electron arrangement in a ring"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Elimination reaction",
+      "layman": "Chemical bond removal"
+    },
+    {
+      "jargon": "Reactivity analysis",
+      "layman": "Testing how chemicals react"
+    },
+    {
+      "jargon": "Structure determination",
+      "layman": "Figuring out molecular shape"
+    },
+    {
+      "jargon": "Proton affinity measurement",
+      "layman": "Measuring how well a molecule grabs a proton"
+    },
+    {
+      "jargon": "Stability assessment",
+      "layman": "Evaluating how long a molecule lasts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Exclusive formation",
+      "layman": "Only one product forms"
+    },
+    {
+      "jargon": "Similar reactivity",
+      "layman": "Same chemical behavior"
+    },
+    {
+      "jargon": "Structure described",
+      "layman": "Molecular shape explained"
+    },
+    {
+      "jargon": "Proton affinity described",
+      "layman": "How strongly it grabs protons explained"
+    },
+    {
+      "jargon": "No \u03b2-hydrogen",
+      "layman": "No hydrogen on adjacent carbon"
+    }
+  ]
+}

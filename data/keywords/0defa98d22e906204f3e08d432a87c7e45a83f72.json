@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Empiricism",
+      "layman": "Knowledge from observation and experience"
+    },
+    {
+      "jargon": "Historical development",
+      "layman": "How ideas have changed over time"
+    },
+    {
+      "jargon": "Scientific method",
+      "layman": "Systematic way to test ideas"
+    },
+    {
+      "jargon": "Philosophical traditions",
+      "layman": "Different ways of thinking about knowledge"
+    },
+    {
+      "jargon": "Experimental evidence",
+      "layman": "Data from tests and observations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying past events to find patterns"
+    },
+    {
+      "jargon": "Primary sources",
+      "layman": "Original documents from the time"
+    },
+    {
+      "jargon": "Comparative study",
+      "layman": "Looking at different cases side by side"
+    },
+    {
+      "jargon": "Critical evaluation",
+      "layman": "Carefully judging the quality of evidence"
+    },
+    {
+      "jargon": "Causal reasoning",
+      "layman": "Figuring out what causes what"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Epistemological shift",
+      "layman": "Change in how we understand knowledge"
+    },
+    {
+      "jargon": "Methodological evolution",
+      "layman": "Improvement in research methods over time"
+    },
+    {
+      "jargon": "Consensus formation",
+      "layman": "Agreement among experts"
+    },
+    {
+      "jargon": "Validation through replication",
+      "layman": "Results confirmed by repeated testing"
+    },
+    {
+      "jargon": "Rejection of dogma",
+      "layman": "Moving away from old, untested beliefs"
+    }
+  ]
+}

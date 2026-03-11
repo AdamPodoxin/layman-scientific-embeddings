@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Insomnia symptoms",
+      "layman": "Sleep problems"
+    },
+    {
+      "jargon": "Insomnia disorder",
+      "layman": "Chronic sleep disorder"
+    },
+    {
+      "jargon": "Hypnotics",
+      "layman": "Sleeping pills"
+    },
+    {
+      "jargon": "Antidepressive medications",
+      "layman": "Depressant medicines"
+    },
+    {
+      "jargon": "Pregnant women",
+      "layman": "Women who are pregnant"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cognitive behavioral methods",
+      "layman": "Mind and behavior therapy"
+    },
+    {
+      "jargon": "Diagnosis",
+      "layman": "Identifying a condition"
+    },
+    {
+      "jargon": "Long-term use",
+      "layman": "Using for many weeks or months"
+    },
+    {
+      "jargon": "Acute insomnia treatment",
+      "layman": "Short-term sleep treatment"
+    },
+    {
+      "jargon": "Driving issues",
+      "layman": "Problems with driving"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Adverse effects",
+      "layman": "Harmful side effects"
+    },
+    {
+      "jargon": "Beneficial effects",
+      "layman": "Positive results"
+    },
+    {
+      "jargon": "First-line treatment",
+      "layman": "Best initial treatment"
+    },
+    {
+      "jargon": "Exceeds beneficial effects",
+      "layman": "Harm outweighs benefit"
+    },
+    {
+      "jargon": "Included in guideline",
+      "layman": "Now covered in care advice"
+    }
+  ]
+}

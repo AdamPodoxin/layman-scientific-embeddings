@@ -1,0 +1,62 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ecological river",
+      "layman": "Healthy river ecosystem"
+    },
+    {
+      "jargon": "Conventional water conservancy project",
+      "layman": "Traditional water management project"
+    },
+    {
+      "jargon": "Aquatic environment",
+      "layman": "Water habitat"
+    },
+    {
+      "jargon": "River\u2019s ecological functions",
+      "layman": "River\u2019s natural roles"
+    },
+    {
+      "jargon": "China",
+      "layman": "China"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theory of ecological river",
+      "layman": "Science of healthy rivers"
+    },
+    {
+      "jargon": "Application technology",
+      "layman": "Practical river solutions"
+    },
+    {
+      "jargon": "Review",
+      "layman": "Summary of existing knowledge"
+    },
+    {
+      "jargon": "Practical situation",
+      "layman": "Real-world conditions"
+    },
+    {
+      "jargon": "Research direction",
+      "layman": "Path forward for study"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Important progress",
+      "layman": "Major advancement"
+    },
+    {
+      "jargon": "Loss of river\u2019s ecological functions",
+      "layman": "River losing its natural balance"
+    },
+    "corruption of aquatic environment",
+    "water environment damaged",
+    {
+      "jargon": "Suggested direction",
+      "layman": "Proposed path for action"
+    }
+  ]
+}

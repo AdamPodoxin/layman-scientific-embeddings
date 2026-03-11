@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Customer segments",
+      "layman": "Groups of buyers"
+    },
+    {
+      "jargon": "Channels",
+      "layman": "Sales paths"
+    },
+    {
+      "jargon": "Discount superstore",
+      "layman": "Cheap store"
+    },
+    {
+      "jargon": "Pricey boutique",
+      "layman": "Expensive shop"
+    },
+    {
+      "jargon": "Buying process",
+      "layman": "Steps to purchase"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Go-to-market strategy",
+      "layman": "Sales plan"
+    },
+    {
+      "jargon": "Value poaching",
+      "layman": "Stealing value from rivals"
+    },
+    {
+      "jargon": "Channel pathways",
+      "layman": "Routes between stores"
+    },
+    {
+      "jargon": "Customer behavior design",
+      "layman": "Designing for how people act"
+    },
+    {
+      "jargon": "Market segmentation",
+      "layman": "Dividing buyers into groups"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Value poaching",
+      "layman": "Customers switching to better deals"
+    },
+    {
+      "jargon": "Higher margin sales",
+      "layman": "More profit from sales"
+    },
+    {
+      "jargon": "High-touch services",
+      "layman": "Personalized service"
+    },
+    {
+      "jargon": "Aggressive bargain hunting",
+      "layman": "Actively seeking cheap deals"
+    },
+    {
+      "jargon": "Sophisticated marketing awareness",
+      "layman": "Knowing how companies market"
+    }
+  ]
+}

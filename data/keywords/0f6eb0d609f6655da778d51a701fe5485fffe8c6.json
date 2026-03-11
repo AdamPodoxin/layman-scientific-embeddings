@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Urban traffic signal control problem",
+      "layman": "City traffic light management"
+    },
+    {
+      "jargon": "Traffic signal",
+      "layman": "Traffic light"
+    },
+    {
+      "jargon": "Fixed time window",
+      "layman": "Set time period"
+    },
+    {
+      "jargon": "Singapore traffic network",
+      "layman": "Singapore roads data"
+    },
+    {
+      "jargon": "Centralized model",
+      "layman": "Single central system for control"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Jaya algorithm",
+      "layman": "Smart optimization method"
+    },
+    {
+      "jargon": "Population initialization",
+      "layman": "Start with sample solutions"
+    },
+    {
+      "jargon": "Solution generation strategy",
+      "layman": "Create new traffic light plans"
+    },
+    {
+      "jargon": "Neighborhood search operator",
+      "layman": "Check nearby traffic plans"
+    },
+    {
+      "jargon": "Scheduling framework",
+      "layman": "Plan-based timing system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Total network-wise delay",
+      "layman": "Overall traffic waiting time"
+    },
+    {
+      "jargon": "Optimization results",
+      "layman": "Improved traffic flow results"
+    },
+    {
+      "jargon": "Performance comparison",
+      "layman": "Results vs. current system"
+    },
+    {
+      "jargon": "Feasible solution",
+      "layman": "Working traffic plan"
+    },
+    {
+      "jargon": "Superior performance",
+      "layman": "Better than current system"
+    }
+  ]
+}

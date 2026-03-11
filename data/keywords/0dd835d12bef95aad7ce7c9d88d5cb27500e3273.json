@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "School redistricting",
+      "layman": "Rearranging school boundaries"
+    },
+    {
+      "jargon": "School assignment plans",
+      "layman": "How students are assigned to schools"
+    },
+    {
+      "jargon": "School capacity",
+      "layman": "Number of students a school can hold"
+    },
+    {
+      "jargon": "Socioeconomic distribution",
+      "layman": "How income and education levels are spread"
+    },
+    {
+      "jargon": "Busing costs",
+      "layman": "Cost of transporting students by bus"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Heuristic search",
+      "layman": "Smart guessing to find solutions"
+    },
+    {
+      "jargon": "Information visualization",
+      "layman": "Graphs and images to show data"
+    },
+    {
+      "jargon": "Multicriteria optimization",
+      "layman": "Balancing several goals at once"
+    },
+    {
+      "jargon": "Alternative plans",
+      "layman": "Different school assignment options"
+    },
+    {
+      "jargon": "Population data",
+      "layman": "Data about people in the area"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Qualitatively different plans",
+      "layman": "Plans that look very different"
+    },
+    {
+      "jargon": "Tradeoffs in decision space",
+      "layman": "Balancing competing goals"
+    },
+    {
+      "jargon": "Empirical results",
+      "layman": "Results from real data"
+    },
+    {
+      "jargon": "Summarizing alternative plans",
+      "layman": "Showing key features of different plans"
+    },
+    {
+      "jargon": "Comparing alternative plans",
+      "layman": "Looking at how plans differ"
+    }
+  ]
+}

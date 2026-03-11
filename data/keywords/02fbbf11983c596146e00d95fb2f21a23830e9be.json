@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "First order algebras",
+      "layman": "Algebras from logical formulas"
+    },
+    {
+      "jargon": "Relational signature",
+      "layman": "Set of relations defining structure"
+    },
+    {
+      "jargon": "Reducts",
+      "layman": "Simplified versions of algebras"
+    },
+    {
+      "jargon": "Positive existential algebras",
+      "layman": "Algebras from positive formulas"
+    },
+    {
+      "jargon": "Quantifier-free algebras",
+      "layman": "Algebras without logical quantifiers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Universal axioms",
+      "layman": "General rules that apply broadly"
+    },
+    {
+      "jargon": "Embedding",
+      "layman": "Placing one system inside another"
+    },
+    {
+      "jargon": "Modular argument",
+      "layman": "Step-by-step, flexible reasoning"
+    },
+    {
+      "jargon": "Restricting attention",
+      "layman": "Focusing on specific cases"
+    },
+    {
+      "jargon": "Adding function symbols",
+      "layman": "Including new operations in system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Satisfies axioms",
+      "layman": "Meets required rules"
+    },
+    {
+      "jargon": "Embeds into first order algebra",
+      "layman": "Can be placed inside a logical algebra"
+    },
+    {
+      "jargon": "Relationship to theories",
+      "layman": "Connection to logical theories"
+    },
+    {
+      "jargon": "Operations on relations",
+      "layman": "Actions on data connections"
+    },
+    {
+      "jargon": "Multisorted algebras",
+      "layman": "Algebras with multiple types of elements"
+    }
+  ]
+}

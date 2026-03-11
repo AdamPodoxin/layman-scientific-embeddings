@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Planar 3SAT",
+      "layman": "SAT problem with planar structure"
+    },
+    {
+      "jargon": "RP3SAT",
+      "layman": "Planar 3SAT with limited variable clauses"
+    },
+    {
+      "jargon": "Pl-B3SAT",
+      "layman": "Restricted planar SAT with two or three literals"
+    },
+    {
+      "jargon": "SDSs",
+      "layman": "Discrete dynamical systems on grids"
+    },
+    {
+      "jargon": "SyDSs",
+      "layman": "Symmetric discrete dynamical systems on grids"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reduction",
+      "layman": "Transforming one problem into another"
+    },
+    {
+      "jargon": "Local replacement",
+      "layman": "Changing small parts of a system"
+    },
+    {
+      "jargon": "Ultra efficient reduction",
+      "layman": "Very fast transformation between problems"
+    },
+    {
+      "jargon": "Decision reduction",
+      "layman": "Turning a yes/no problem into another"
+    },
+    {
+      "jargon": "Parsimonious reduction",
+      "layman": "One-to-one transformation without extra data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "NP-complete",
+      "layman": "Hard to solve efficiently"
+    },
+    {
+      "jargon": "#P-complete",
+      "layman": "Counting solutions is hard"
+    },
+    {
+      "jargon": "DP-complete",
+      "layman": "Hard to decide with multiple answers"
+    },
+    {
+      "jargon": "NP-complete (Ambiguous)",
+      "layman": "Hard even with uncertainty"
+    },
+    {
+      "jargon": "3-simple-threshold function",
+      "layman": "Rule based on three inputs"
+    }
+  ]
+}

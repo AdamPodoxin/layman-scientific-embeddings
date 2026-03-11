@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cross-country movement",
+      "layman": "Movement across countries"
+    },
+    {
+      "jargon": "Engineers",
+      "layman": "Engineers"
+    },
+    {
+      "jargon": "Corps of Engineers",
+      "layman": "Army engineering group"
+    },
+    {
+      "jargon": "Intelligence guidance",
+      "layman": "Military intelligence rules"
+    },
+    {
+      "jargon": "Document dissemination",
+      "layman": "Sharing documents"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Production",
+      "layman": "Making or creating"
+    },
+    {
+      "jargon": "Dissemination",
+      "layman": "Spreading information"
+    },
+    {
+      "jargon": "Review",
+      "layman": "Checking for accuracy"
+    },
+    {
+      "jargon": "Approval",
+      "layman": "Official acceptance"
+    },
+    {
+      "jargon": "Analysis",
+      "layman": "Breaking down information"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Approved for dissemination",
+      "layman": "Allowed to be shared"
+    },
+    {
+      "jargon": "Not reviewed by intelligence office",
+      "layman": "No official intelligence check"
+    },
+    {
+      "jargon": "Does not represent agreed guidance",
+      "layman": "Not official policy"
+    },
+    {
+      "jargon": "Department of the Army guidance",
+      "layman": "Army-wide rules"
+    },
+    {
+      "jargon": "Chief of Engineers approval",
+      "layman": "Top engineer's okay"
+    }
+  ]
+}

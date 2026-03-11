@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Labor market",
+      "layman": "Job market"
+    },
+    {
+      "jargon": "Agents",
+      "layman": "People in the system"
+    },
+    {
+      "jargon": "Wages",
+      "layman": "Pay money"
+    },
+    {
+      "jargon": "Employment status",
+      "layman": "Whether someone has a job"
+    },
+    {
+      "jargon": "Network contacts",
+      "layman": "People connected through relationships"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Social network model",
+      "layman": "Model of how people share job info"
+    },
+    {
+      "jargon": "First order stochastic dominance",
+      "layman": "One outcome is consistently better"
+    },
+    {
+      "jargon": "Dynamics and patterns",
+      "layman": "How things change over time"
+    },
+    {
+      "jargon": "Drop-out rate",
+      "layman": "Rate of people leaving the job market"
+    },
+    {
+      "jargon": "Comparative analysis",
+      "layman": "Comparing two similar groups"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Positive association",
+      "layman": "Jobs and wages go up together"
+    },
+    {
+      "jargon": "Persistent difference",
+      "layman": "Difference stays over time"
+    },
+    {
+      "jargon": "Increase in employment probability",
+      "layman": "More likely to get a job"
+    },
+    {
+      "jargon": "Increase in expected wages",
+      "layman": "Higher pay expectations"
+    },
+    {
+      "jargon": "Wage status improvement",
+      "layman": "Better pay level"
+    }
+  ]
+}

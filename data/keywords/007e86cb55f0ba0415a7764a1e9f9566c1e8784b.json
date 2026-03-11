@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Generative Adversarial Networks",
-      "layman": "AI systems that learn to create realistic data"
+      "layman": "GANs"
     },
     {
       "jargon": "Latent space",
-      "layman": "Hidden data space where patterns are stored"
+      "layman": "Hidden data space"
     },
     {
-      "jargon": "Generators",
-      "layman": "AI components that create data"
+      "jargon": "Feature representation",
+      "layman": "Data features"
     },
     {
       "jargon": "Inverse mapping",
-      "layman": "Going back from data to hidden space"
+      "layman": "Reverse data path"
     },
     {
-      "jargon": "Feature representations",
-      "layman": "Patterns that describe data"
+      "jargon": "Supervised discrimination tasks",
+      "layman": "Label-based classification"
     }
   ],
   "methodologies": [
     {
       "jargon": "Bidirectional Generative Adversarial Networks",
-      "layman": "AI that can go both ways between data and hidden space"
+      "layman": "Two-way GANs"
     },
     {
-      "jargon": "Learning inverse mapping",
-      "layman": "Teaching AI to go back from data to hidden space"
+      "jargon": "Linearize semantics",
+      "layman": "Simplify meaning"
     },
     {
-      "jargon": "Supervised discrimination tasks",
-      "layman": "Tasks where AI learns to classify data"
+      "jargon": "Project data back",
+      "layman": "Push data back into hidden space"
+    },
+    {
+      "jargon": "Auxiliary problems",
+      "layman": "Side tasks"
     },
     {
       "jargon": "Unsupervised feature learning",
-      "layman": "Learning data patterns without labeled examples"
-    },
-    {
-      "jargon": "Self-supervised feature learning",
-      "layman": "Learning patterns from data without labels"
+      "layman": "Learn features without labels"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Linearize semantics",
-      "layman": "Make meanings simple and clear in hidden space"
-    },
-    {
-      "jargon": "Useful feature representation",
-      "layman": "Good patterns for other AI tasks"
-    },
-    {
       "jargon": "Competitive with contemporary approaches",
-      "layman": "Performs as well as current methods"
+      "layman": "Matches current best methods"
+    },
+    {
+      "jargon": "Learned feature representation",
+      "layman": "Useful data features"
     },
     {
       "jargon": "Empirically demonstrated",
       "layman": "Proven through experiments"
     },
     {
-      "jargon": "Auxiliary problems",
-      "layman": "Extra tasks using learned patterns"
+      "jargon": "Useful for auxiliary tasks",
+      "layman": "Helps with side problems"
+    },
+    {
+      "jargon": "Inverse mapping learned",
+      "layman": "Reverse path learned"
     }
   ]
 }

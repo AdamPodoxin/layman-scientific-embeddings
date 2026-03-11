@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Recursive functions",
+      "layman": "Repeating functions"
+    },
+    {
+      "jargon": "Differential recursion operator",
+      "layman": "Operator that solves changing problems"
+    },
+    {
+      "jargon": "Partial functions",
+      "layman": "Functions that don't always work for all inputs"
+    },
+    {
+      "jargon": "Analytic functions",
+      "layman": "Smoothly changing functions"
+    },
+    {
+      "jargon": "Differentially algebraic functions",
+      "layman": "Functions defined by differential equations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reformulation",
+      "layman": "Rewriting the theory clearly"
+    },
+    {
+      "jargon": "Initial value problems",
+      "layman": "Problems with starting conditions"
+    },
+    {
+      "jargon": "Computable analysis",
+      "layman": "Studying what can be computed exactly"
+    },
+    {
+      "jargon": "Analog computation",
+      "layman": "Computing with continuous values"
+    },
+    {
+      "jargon": "Behavior of operators",
+      "layman": "How operations act on functions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Well-behavedness",
+      "layman": "Stable and predictable behavior"
+    },
+    {
+      "jargon": "Too big to relate to differentially algebraic functions",
+      "layman": "Too large to connect to known types of functions"
+    },
+    {
+      "jargon": "Strongly computable",
+      "layman": "Can be computed precisely"
+    },
+    {
+      "jargon": "Technical inaccuracies",
+      "layman": "Errors in original work"
+    },
+    {
+      "jargon": "Shannon's model of analog computation",
+      "layman": "Shannon's idea of continuous computing"
+    }
+  ]
+}

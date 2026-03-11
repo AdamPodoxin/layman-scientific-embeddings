@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Creative workforce",
+      "layman": "People in creative jobs"
+    },
+    {
+      "jargon": "Immaterial labour",
+      "layman": "Work without physical products"
+    },
+    {
+      "jargon": "Fractalised sectors",
+      "layman": "Interconnected, branching industries"
+    },
+    {
+      "jargon": "Shanghainese creative fields",
+      "layman": "Creative industries in Shanghai"
+    },
+    {
+      "jargon": "Subjectivation",
+      "layman": "Process of becoming a subject"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Engagement with theories",
+      "layman": "Using existing ideas to understand"
+    },
+    {
+      "jargon": "Conversations with workers",
+      "layman": "Talking to creative professionals"
+    },
+    {
+      "jargon": "Political organisation",
+      "layman": "Forming groups for political action"
+    },
+    {
+      "jargon": "Resistance",
+      "layman": "Opposing unfair systems"
+    },
+    {
+      "jargon": "Desire analysis",
+      "layman": "Studying what people want"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ambivalences",
+      "layman": "Mixed feelings or contradictions"
+    },
+    {
+      "jargon": "Political registers",
+      "layman": "Spaces for political expression"
+    },
+    {
+      "jargon": "Innovation",
+      "layman": "New and improved ideas"
+    },
+    {
+      "jargon": "Entrepreneurialism",
+      "layman": "Starting new businesses"
+    },
+    {
+      "jargon": "Aspiration",
+      "layman": "Desire to achieve something"
+    }
+  ]
+}

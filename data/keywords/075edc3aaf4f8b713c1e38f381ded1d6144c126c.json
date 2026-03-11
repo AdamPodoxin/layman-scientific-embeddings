@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Imperfect information",
+      "layman": "Incomplete or unclear knowledge"
+    },
+    {
+      "jargon": "Resource misallocation",
+      "layman": "Wasted or misused resources"
+    },
+    {
+      "jargon": "Aggregate productivity",
+      "layman": "Overall economic efficiency"
+    },
+    {
+      "jargon": "Stock market prices",
+      "layman": "Stock prices"
+    },
+    {
+      "jargon": "Firm-level production data",
+      "layman": "Company-level output data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Calibration strategy",
+      "layman": "Tuning model to real data"
+    },
+    {
+      "jargon": "Private learning",
+      "layman": "Learning from internal sources"
+    },
+    {
+      "jargon": "Financial market learning",
+      "layman": "Learning from stock prices"
+    },
+    {
+      "jargon": "Data combination",
+      "layman": "Merging different data sets"
+    },
+    {
+      "jargon": "Econometric modeling",
+      "layman": "Statistical economic modeling"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Productivity losses",
+      "layman": "Lost efficiency"
+    },
+    {
+      "jargon": "Output losses",
+      "layman": "Lost production"
+    },
+    {
+      "jargon": "5-19% productivity loss",
+      "layman": "5-19% efficiency drop"
+    },
+    {
+      "jargon": "8-28% output loss",
+      "layman": "8-28% production drop"
+    },
+    {
+      "jargon": "Smaller losses in US",
+      "layman": "Less loss in US"
+    }
+  ]
+}

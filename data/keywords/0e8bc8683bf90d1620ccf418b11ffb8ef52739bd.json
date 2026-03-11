@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "QCD amplitudes",
+      "layman": "Particle collision outcomes"
+    },
+    {
+      "jargon": "High-energy regime",
+      "layman": "Very high energy collisions"
+    },
+    {
+      "jargon": "Reaction-diffusion processes",
+      "layman": "Spreading and reacting patterns"
+    },
+    {
+      "jargon": "Universality class",
+      "layman": "Shared behavior across different systems"
+    },
+    {
+      "jargon": "Energy evolution",
+      "layman": "How energy changes over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Asymptotic features",
+      "layman": "Long-term behavior patterns"
+    },
+    {
+      "jargon": "Analytical computation",
+      "layman": "Mathematical prediction"
+    },
+    {
+      "jargon": "Correspondence",
+      "layman": "Matching between two systems"
+    },
+    {
+      "jargon": "Energy evolution",
+      "layman": "How energy changes over time"
+    },
+    {
+      "jargon": "Review arguments",
+      "layman": "Examining and explaining reasons"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Asymptotic features",
+      "layman": "Long-term behavior patterns"
+    },
+    {
+      "jargon": "Universality class",
+      "layman": "Shared behavior across systems"
+    },
+    {
+      "jargon": "Analytical results",
+      "layman": "Exact mathematical predictions"
+    },
+    {
+      "jargon": "High-energy QCD",
+      "layman": "High-energy particle interactions"
+    },
+    {
+      "jargon": "Reaction-diffusion processes",
+      "layman": "Spreading and reacting patterns"
+    }
+  ]
+}

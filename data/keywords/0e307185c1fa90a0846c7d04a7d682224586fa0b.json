@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Manet's portrait",
+      "layman": "Painting of Jeanne Duval"
+    },
+    {
+      "jargon": "Jeanne Duval",
+      "layman": "Woman depicted in the painting"
+    },
+    {
+      "jargon": "Baudelaire's poetry",
+      "layman": "Poems by Baudelaire"
+    },
+    {
+      "jargon": "Empress Eugenie",
+      "layman": "Queen of France during the Second Empire"
+    },
+    {
+      "jargon": "Second Empire France",
+      "layman": "France under imperial rule"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Aesthetic writings",
+      "layman": "Writings on style and beauty"
+    },
+    {
+      "jargon": "Political debate",
+      "layman": "Public discussion on politics"
+    },
+    {
+      "jargon": "Discourse",
+      "layman": "Conversation about ideas"
+    },
+    {
+      "jargon": "Artistic interpretation",
+      "layman": "How art reflects ideas"
+    },
+    {
+      "jargon": "Visual composition",
+      "layman": "How elements are arranged in a painting"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Feminine influence",
+      "layman": "Women having power"
+    },
+    {
+      "jargon": "Gender boundaries",
+      "layman": "Rules about gender roles"
+    },
+    {
+      "jargon": "Suppressed dissent",
+      "layman": "Opposing views hidden from public"
+    },
+    {
+      "jargon": "Skirt dominance",
+      "layman": "Skirt taking center stage in the painting"
+    },
+    {
+      "jargon": "Exploration of dissent",
+      "layman": "Looking at views that were not accepted"
+    }
+  ]
+}

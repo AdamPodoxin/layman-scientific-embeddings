@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Civil society",
+      "layman": "Public life beyond the government"
+    },
+    {
+      "jargon": "Citizenship",
+      "layman": "Rights and status of being a member of a country"
+    },
+    {
+      "jargon": "State-civil society distinction",
+      "layman": "Separation between government and public life"
+    },
+    {
+      "jargon": "Marxist theories",
+      "layman": "Economic-focused political views"
+    },
+    {
+      "jargon": "Liberal theories",
+      "layman": "Individual freedoms-focused political views"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theoretical analysis",
+      "layman": "Examining ideas and concepts"
+    },
+    {
+      "jargon": "Conceptual paradox",
+      "layman": "Contradiction in a theory"
+    },
+    {
+      "jargon": "Under-theorization",
+      "layman": "Lack of deep explanation"
+    },
+    {
+      "jargon": "Discourse analysis",
+      "layman": "Studying how ideas are discussed"
+    },
+    {
+      "jargon": "Symbolization",
+      "layman": "Use of symbols to represent ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Conceptual impasse",
+      "layman": "Theoretical dead end"
+    },
+    {
+      "jargon": "Multivalent character of citizenship",
+      "layman": "Multiple forms of citizenship"
+    },
+    {
+      "jargon": "Poor understanding of culture",
+      "layman": "Limited grasp of cultural values"
+    },
+    {
+      "jargon": "Globalization challenge",
+      "layman": "Problem of global connections"
+    },
+    {
+      "jargon": "Alternative theoretical strategy",
+      "layman": "New way of thinking about the issue"
+    }
+  ]
+}

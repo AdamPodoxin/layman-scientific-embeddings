@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Down syndrome",
+      "layman": "Down syndrome"
+    },
+    {
+      "jargon": "Adolescents",
+      "layman": "Teenagers"
+    },
+    {
+      "jargon": "Autonomy",
+      "layman": "Ability to make own decisions"
+    },
+    {
+      "jargon": "Families",
+      "layman": "Parent groups"
+    },
+    {
+      "jargon": "Public telephone",
+      "layman": "Phone in public places"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Educational course",
+      "layman": "Training program"
+    },
+    {
+      "jargon": "Annual repetition",
+      "layman": "Held every year"
+    },
+    {
+      "jargon": "Participation",
+      "layman": "People joining the course"
+    },
+    {
+      "jargon": "Replication in cities",
+      "layman": "Spread to other cities"
+    },
+    {
+      "jargon": "Personality development",
+      "layman": "Growing self-awareness"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cross roads independently",
+      "layman": "Walk across streets alone"
+    },
+    {
+      "jargon": "Use public telephone",
+      "layman": "Use a public phone"
+    },
+    {
+      "jargon": "Ask for information",
+      "layman": "Seek help when needed"
+    },
+    {
+      "jargon": "Go shopping",
+      "layman": "Buy things at stores"
+    },
+    {
+      "jargon": "Increased self-esteem",
+      "layman": "Greater confidence in self"
+    }
+  ]
+}

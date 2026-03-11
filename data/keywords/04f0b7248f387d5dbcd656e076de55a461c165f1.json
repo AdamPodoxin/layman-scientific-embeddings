@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Window inference calculi",
+      "layman": "Systems for logical rule-based reasoning"
+    },
+    {
+      "jargon": "Transformation systems",
+      "layman": "Tools that change or rewrite rules"
+    },
+    {
+      "jargon": "Theorems",
+      "layman": "Proven logical statements"
+    },
+    {
+      "jargon": "Deduction support",
+      "layman": "Help for logical reasoning"
+    },
+    {
+      "jargon": "Graphical user interface",
+      "layman": "Visual interface with buttons and gestures"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Compile rules",
+      "layman": "Turn rules into usable tools"
+    },
+    {
+      "jargon": "Drag-and-drop gestures",
+      "layman": "Using gestures to interact"
+    },
+    {
+      "jargon": "Transformation rules",
+      "layman": "Rules that change how things are expressed"
+    },
+    {
+      "jargon": "Concrete deduction support",
+      "layman": "Real-world logic help"
+    },
+    {
+      "jargon": "Command-language-free interaction",
+      "layman": "Using gestures instead of typing commands"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Three instantiations",
+      "layman": "Three real-world examples"
+    },
+    {
+      "jargon": "Complete system",
+      "layman": "Full working tool"
+    },
+    {
+      "jargon": "User interaction via gestures",
+      "layman": "Users interact with gestures"
+    },
+    {
+      "jargon": "Proof and program development",
+      "layman": "Building logic and software"
+    },
+    {
+      "jargon": "Generic window inference system",
+      "layman": "General system for logical reasoning"
+    }
+  ]
+}

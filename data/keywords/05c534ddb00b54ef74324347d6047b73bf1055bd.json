@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "DiffServ networks",
+      "layman": "Networks with quality-of-service features"
+    },
+    {
+      "jargon": "Control architecture",
+      "layman": "System for managing network settings"
+    },
+    {
+      "jargon": "Policy-based approach",
+      "layman": "Rules-based network management"
+    },
+    {
+      "jargon": "DiffServ nodes",
+      "layman": "Network devices that handle traffic"
+    },
+    {
+      "jargon": "API",
+      "layman": "Interface for device control"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Distributed control",
+      "layman": "Control spread across network devices"
+    },
+    {
+      "jargon": "Customized configuration",
+      "layman": "Tailored network setup"
+    },
+    {
+      "jargon": "Flexible control",
+      "layman": "Adaptable network management"
+    },
+    {
+      "jargon": "Client/server policy",
+      "layman": "Central control with device requests"
+    },
+    {
+      "jargon": "Node instrumentation",
+      "layman": "Monitoring and setting up network devices"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient control",
+      "layman": "Smooth network management"
+    },
+    {
+      "jargon": "Scalable QoS provisioning",
+      "layman": "Growing network with stable service levels"
+    },
+    {
+      "jargon": "Reduced complexity",
+      "layman": "Simpler network management"
+    },
+    {
+      "jargon": "Flexible configuration",
+      "layman": "Adjustable network settings"
+    },
+    {
+      "jargon": "Customized management",
+      "layman": "Personalized network control"
+    }
+  ]
+}

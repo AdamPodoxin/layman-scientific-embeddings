@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Islamic law",
+      "layman": "Islamic law"
+    },
+    {
+      "jargon": "Gender issues",
+      "layman": "Women's rights in society"
+    },
+    {
+      "jargon": "Judicial institutions",
+      "layman": "Courts and legal systems"
+    },
+    {
+      "jargon": "Societal conservatism",
+      "layman": "Strict traditional values in society"
+    },
+    {
+      "jargon": "Liberal interpretation",
+      "layman": "More progressive reading of the law"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interpretations of Islamic law",
+      "layman": "Different ways of reading the law"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past practices"
+    },
+    {
+      "jargon": "Comparative practices",
+      "layman": "Comparing how laws are applied in different places"
+    },
+    {
+      "jargon": "Political analysis",
+      "layman": "Examining how power affects laws"
+    },
+    {
+      "jargon": "Case studies",
+      "layman": "In-depth look at specific examples"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Political independence of judicial institutions",
+      "layman": "Courts are free from government control"
+    },
+    {
+      "jargon": "Liberal gender interpretations",
+      "layman": "More equal treatment of women"
+    },
+    {
+      "jargon": "Diverse legal practices",
+      "layman": "Different rules in different countries"
+    },
+    {
+      "jargon": "Misrepresentation of Islamic law",
+      "layman": "False claims about how the law treats women"
+    },
+    {
+      "jargon": "Influence of political power",
+      "layman": "How government control affects justice"
+    }
+  ]
+}

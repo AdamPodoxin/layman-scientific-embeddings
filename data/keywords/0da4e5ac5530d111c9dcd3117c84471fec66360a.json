@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software",
+      "layman": "Computer programs"
+    },
+    {
+      "jargon": "Ada language",
+      "layman": "Programming language"
+    },
+    {
+      "jargon": "Software development",
+      "layman": "Building computer programs"
+    },
+    {
+      "jargon": "Software production process",
+      "layman": "How software is made"
+    },
+    {
+      "jargon": "Software Engineering Institute (SEI)",
+      "layman": "Organization that improves software making"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Technology transition",
+      "layman": "Moving new tech to real use"
+    },
+    {
+      "jargon": "Phased approach",
+      "layman": "Step-by-step development"
+    },
+    {
+      "jargon": "Project planning",
+      "layman": "Organizing work steps"
+    },
+    {
+      "jargon": "Exploration of technology",
+      "layman": "Testing new tech ideas"
+    },
+    {
+      "jargon": "System and management focus",
+      "layman": "Looking at whole software and how it's managed"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Increased programmers' productivity",
+      "layman": "More code made faster"
+    },
+    {
+      "jargon": "Improved software production process",
+      "layman": "Better way to build software"
+    },
+    {
+      "jargon": "Technology readiness for transition",
+      "layman": "Tech ready for real use"
+    },
+    {
+      "jargon": "Advanced technology introduction",
+      "layman": "New tech being rolled out"
+    },
+    {
+      "jargon": "Multiple projects related to Ada",
+      "layman": "Several projects using Ada language"
+    }
+  ]
+}

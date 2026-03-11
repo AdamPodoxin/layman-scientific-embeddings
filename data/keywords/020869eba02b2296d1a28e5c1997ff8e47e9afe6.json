@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "One-way functions",
+      "layman": "Easy to compute, hard to reverse"
+    },
+    {
+      "jargon": "Average case hardness",
+      "layman": "Hardness on average, not just in worst cases"
+    },
+    {
+      "jargon": "Search problem R",
+      "layman": "Problem with solutions to find"
+    },
+    {
+      "jargon": "Polynomial-time sampler",
+      "layman": "Fast algorithm that picks examples"
+    },
+    {
+      "jargon": "Instance-solution pairs",
+      "layman": "Problem and its solution together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sampler S",
+      "layman": "Algorithm that generates hard problems"
+    },
+    {
+      "jargon": "Modifying a sampler",
+      "layman": "Changing a problem generator to include solutions"
+    },
+    {
+      "jargon": "Distribution on instances",
+      "layman": "Pattern of problem types generated"
+    },
+    {
+      "jargon": "Randomness complexity",
+      "layman": "Amount of random input needed"
+    },
+    {
+      "jargon": "Polynomial-time",
+      "layman": "Runs in reasonable time for large inputs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "One-way functions exist",
+      "layman": "Secure functions can be built"
+    },
+    {
+      "jargon": "Hard instances exist",
+      "layman": "Some problems are hard to solve"
+    },
+    {
+      "jargon": "No such sampler S*",
+      "layman": "No fast method to generate pairs"
+    },
+    {
+      "jargon": "Distribution dominates",
+      "layman": "One pattern is stronger than another"
+    },
+    {
+      "jargon": "Generic approach fails",
+      "layman": "General method doesn't work"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Information systems",
+      "layman": "IT systems"
+    },
+    {
+      "jargon": "Firm performance",
+      "layman": "Company success"
+    },
+    {
+      "jargon": "Healthcare industry",
+      "layman": "Medical services sector"
+    },
+    {
+      "jargon": "Shareholder letters",
+      "layman": "Company letters to investors"
+    },
+    {
+      "jargon": "Multiple objectives",
+      "layman": "Several goals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Empirical testing",
+      "layman": "Real-world data analysis"
+    },
+    {
+      "jargon": "Objective analysis",
+      "layman": "Looking at stated goals"
+    },
+    {
+      "jargon": "Strategic alignment",
+      "layman": "Matching goals with plans"
+    },
+    {
+      "jargon": "Performance evaluation",
+      "layman": "Measuring success"
+    },
+    {
+      "jargon": "Data extraction",
+      "layman": "Pulling data from documents"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Higher performance",
+      "layman": "Better results"
+    },
+    {
+      "jargon": "Single objective",
+      "layman": "One goal only"
+    },
+    {
+      "jargon": "Efficiency",
+      "layman": "Doing things better"
+    },
+    {
+      "jargon": "Satisfaction",
+      "layman": "Patient happiness"
+    },
+    {
+      "jargon": "Internal growth",
+      "layman": "Growing within the company"
+    }
+  ]
+}

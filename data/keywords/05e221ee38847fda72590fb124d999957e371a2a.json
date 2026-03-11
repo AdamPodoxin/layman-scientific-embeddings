@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mobile computing",
+      "layman": "Mobile computing"
+    },
+    {
+      "jargon": "Ad hoc networks",
+      "layman": "Temporary networks without fixed structure"
+    },
+    {
+      "jargon": "Hosts",
+      "layman": "Mobile devices"
+    },
+    {
+      "jargon": "Termination detection",
+      "layman": "Knowing when a process ends"
+    },
+    {
+      "jargon": "Coordination constructs",
+      "layman": "Rules for devices to work together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Specification refinement",
+      "layman": "Improving design step by step"
+    },
+    {
+      "jargon": "Formal requirements",
+      "layman": "Clear, precise design rules"
+    },
+    {
+      "jargon": "Mobile UNITY",
+      "layman": "Formal tool for mobile systems"
+    },
+    {
+      "jargon": "Proof logic",
+      "layman": "Logic to verify correctness"
+    },
+    {
+      "jargon": "Programming notation",
+      "layman": "Special language for writing code"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Termination detection",
+      "layman": "Knowing when a process ends"
+    },
+    {
+      "jargon": "Novel concerns",
+      "layman": "New challenges in mobile systems"
+    },
+    {
+      "jargon": "Transience of interactions",
+      "layman": "Brief and temporary connections"
+    },
+    {
+      "jargon": "Applicability to mobile computing",
+      "layman": "Works well in mobile settings"
+    },
+    {
+      "jargon": "Design strategies",
+      "layman": "Practical approaches for building systems"
+    }
+  ]
+}

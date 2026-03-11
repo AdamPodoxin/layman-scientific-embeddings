@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Modernist vocabulary",
+      "layman": "Modernist style"
+    },
+    {
+      "jargon": "Postmodernism",
+      "layman": "Postmodern style"
+    },
+    {
+      "jargon": "Post-classical narration",
+      "layman": "Narrative after classical films"
+    },
+    {
+      "jargon": "Art-house film",
+      "layman": "Independent cinema"
+    },
+    {
+      "jargon": "Avant-garde cinema",
+      "layman": "Experimental film"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Aesthetic trajectory",
+      "layman": "Evolution of style"
+    },
+    {
+      "jargon": "Stylistic forms of antithesis",
+      "layman": "Contrasting styles"
+    },
+    {
+      "jargon": "Authorship",
+      "layman": "Director's creative control"
+    },
+    {
+      "jargon": "Influences from international directors",
+      "layman": "Inspiration from foreign filmmakers"
+    },
+    {
+      "jargon": "Discourse of postmodernism",
+      "layman": "Talk about postmodern ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Evolution and continuity",
+      "layman": "Change with consistency"
+    },
+    {
+      "jargon": "Stylistic opposition",
+      "layman": "Opposing film styles"
+    },
+    {
+      "jargon": "Greek 'weird' wave",
+      "layman": "Unique Greek film movement"
+    },
+    {
+      "jargon": "Aesthetic choices",
+      "layman": "Visual and stylistic decisions"
+    },
+    {
+      "jargon": "Return to modernist vocabulary",
+      "layman": "Going back to modern style"
+    }
+  ]
+}

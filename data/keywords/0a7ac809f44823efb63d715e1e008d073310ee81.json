@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "commitment protocols",
+      "layman": "Promise to keep a secret"
+    },
+    {
+      "jargon": "zero-knowledge protocols",
+      "layman": "Prove something without revealing it"
+    },
+    {
+      "jargon": "function evaluation protocols",
+      "layman": "Compute a function without seeing inputs"
+    },
+    {
+      "jargon": "random oracle",
+      "layman": "Perfectly random lookup table"
+    },
+    {
+      "jargon": "common reference string",
+      "layman": "Shared secret string"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "universally composable security",
+      "layman": "Works securely in any setting"
+    },
+    {
+      "jargon": "interactive setting",
+      "layman": "Protocols that exchange messages"
+    },
+    {
+      "jargon": "non-interactive setting",
+      "layman": "Protocols that don't exchange messages"
+    },
+    {
+      "jargon": "random oracle model",
+      "layman": "Security tested with random functions"
+    },
+    {
+      "jargon": "programmable reference string",
+      "layman": "Customizable shared secret"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "stronger composable security",
+      "layman": "Safer when used with other protocols"
+    },
+    {
+      "jargon": "efficient protocols",
+      "layman": "Fast and low-resource"
+    },
+    {
+      "jargon": "no trusted setup",
+      "layman": "No need for pre-shared secrets"
+    },
+    {
+      "jargon": "security in arbitrary protocols",
+      "layman": "Safe even when many protocols use it"
+    },
+    {
+      "jargon": "better efficiency than Lindell's protocols",
+      "layman": "Faster than best-known methods"
+    }
+  ]
+}

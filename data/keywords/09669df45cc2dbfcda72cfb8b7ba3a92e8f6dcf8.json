@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Complex systems",
+      "layman": "Interconnected systems"
+    },
+    {
+      "jargon": "Macroscopic phenomena",
+      "layman": "Large-scale effects"
+    },
+    {
+      "jargon": "Space-time multi-scale dynamics",
+      "layman": "Dynamics across time and space"
+    },
+    {
+      "jargon": "Global features",
+      "layman": "Whole-system behaviors"
+    },
+    {
+      "jargon": "Emergent features",
+      "layman": "New behaviors from simple parts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Simple rules",
+      "layman": "Basic interaction rules"
+    },
+    {
+      "jargon": "Critical slowing down",
+      "layman": "Slowing down before a change"
+    },
+    {
+      "jargon": "System representation",
+      "layman": "Modeling systems with parts"
+    },
+    {
+      "jargon": "Collective evolution",
+      "layman": "Group-level change over time"
+    },
+    {
+      "jargon": "Multi-scale dynamics",
+      "layman": "Dynamics at different sizes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Critical slowing down",
+      "layman": "Slowing down before a shift"
+    },
+    {
+      "jargon": "Universal paradigm",
+      "layman": "Works across fields"
+    },
+    {
+      "jargon": "Wide range of systems",
+      "layman": "Many different types of systems"
+    },
+    {
+      "jargon": "Macroscopically relevant phenomena",
+      "layman": "Big-scale observable effects"
+    },
+    {
+      "jargon": "Generic emergence",
+      "layman": "Common appearance of complex behaviors"
+    }
+  ]
+}

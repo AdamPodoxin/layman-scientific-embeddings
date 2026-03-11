@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Kultukskii Ostrog",
+      "layman": "Wooden fortress"
+    },
+    {
+      "jargon": "Russian Kosack troop",
+      "layman": "Russian Cossack group"
+    },
+    {
+      "jargon": "Transbaikalia",
+      "layman": "Region beyond Baikal"
+    },
+    {
+      "jargon": "Baikal Lake",
+      "layman": "Lake Baikal"
+    },
+    {
+      "jargon": "Early Russian settlement",
+      "layman": "First Russian village"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Indirect data",
+      "layman": "Clues from other sources"
+    },
+    {
+      "jargon": "Hypothesis proposal",
+      "layman": "Suggested explanation"
+    },
+    {
+      "jargon": "Historical trip analysis",
+      "layman": "Reviewing the journey"
+    },
+    {
+      "jargon": "Origin study",
+      "layman": "Investigating beginnings"
+    },
+    {
+      "jargon": "Geographical exploration",
+      "layman": "Mapping locations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Origin hypothesis",
+      "layman": "Possible origin story"
+    },
+    {
+      "jargon": "Settlement fate",
+      "layman": "What happened to the village"
+    },
+    {
+      "jargon": "Historical inference",
+      "layman": "Inferred history"
+    },
+    {
+      "jargon": "Archaeological evidence",
+      "layman": "Physical clues from past"
+    },
+    {
+      "jargon": "Cultural migration",
+      "layman": "People moving to new areas"
+    }
+  ]
+}

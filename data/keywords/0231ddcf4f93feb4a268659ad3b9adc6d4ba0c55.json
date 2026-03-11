@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "New crops",
+      "layman": "New crops"
+    },
+    {
+      "jargon": "US farmers",
+      "layman": "American farmers"
+    },
+    {
+      "jargon": "European Community",
+      "layman": "European Union"
+    },
+    {
+      "jargon": "Global alliances",
+      "layman": "International partnerships"
+    },
+    {
+      "jargon": "Free-riders",
+      "layman": "People who benefit without contributing"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Strategic planning",
+      "layman": "Long-term goal-setting"
+    },
+    {
+      "jargon": "Policy recommendations",
+      "layman": "Suggested rules for government"
+    },
+    {
+      "jargon": "Risk-sharing",
+      "layman": "Splitting financial risks"
+    },
+    {
+      "jargon": "R&D incentives",
+      "layman": "Rewards for research and development"
+    },
+    {
+      "jargon": "Public funding",
+      "layman": "Government money for projects"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Under-investment in agricultural research",
+      "layman": "Too little money in farming research"
+    },
+    {
+      "jargon": "Economic costs",
+      "layman": "Financial losses"
+    },
+    {
+      "jargon": "Environmental damage",
+      "layman": "Harm to nature"
+    },
+    {
+      "jargon": "Political challenges",
+      "layman": "Government difficulties"
+    },
+    {
+      "jargon": "Increased exposure to free-market forces",
+      "layman": "More competition from global markets"
+    }
+  ]
+}

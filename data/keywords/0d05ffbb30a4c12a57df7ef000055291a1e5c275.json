@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Non-elementary two-generator subgroup",
+      "layman": "Group of transformations from two basic pieces"
+    },
+    {
+      "jargon": "PSL(2; R)",
+      "layman": "Group of geometric transformations"
+    },
+    {
+      "jargon": "Discrete subgroup",
+      "layman": "Group with regular, spaced patterns"
+    },
+    {
+      "jargon": "Fuchsian group",
+      "layman": "Group that acts on hyperbolic space"
+    },
+    {
+      "jargon": "Hyperbolic geometry",
+      "layman": "Geometry of curved spaces"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Computational complexity",
+      "layman": "How long a calculation takes"
+    },
+    {
+      "jargon": "Symbolic computation",
+      "layman": "Mathematical manipulation without numbers"
+    },
+    {
+      "jargon": "Proof techniques",
+      "layman": "Logical steps to show something is true"
+    },
+    {
+      "jargon": "Algorithm",
+      "layman": "Step-by-step procedure"
+    },
+    {
+      "jargon": "Discreteness test",
+      "layman": "Check if a group has regular structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Polynomial bound",
+      "layman": "Calculation grows slowly"
+    },
+    {
+      "jargon": "Existence of bound",
+      "layman": "A limit on how long it takes"
+    },
+    {
+      "jargon": "Discrete or not",
+      "layman": "Whether the group is structured or not"
+    },
+    {
+      "jargon": "Fuchsian determination",
+      "layman": "Whether it acts like a Fuchsian group"
+    },
+    {
+      "jargon": "Hyperbolic geometry techniques",
+      "layman": "Using curved space rules"
+    }
+  ]
+}

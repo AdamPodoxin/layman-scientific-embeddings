@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Uncle Tom's Cabin",
+      "layman": "Uncle Tom's Cabin"
+    },
+    {
+      "jargon": "Democratic life",
+      "layman": "Free and equal society"
+    },
+    {
+      "jargon": "Modern humanism",
+      "layman": "Belief in human worth and dignity"
+    },
+    {
+      "jargon": "Sunny Memories",
+      "layman": "Sunny Memories"
+    },
+    {
+      "jargon": "Oldtown Folks",
+      "layman": "Oldtown Folks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Close reading",
+      "layman": "Careful analysis of text"
+    },
+    {
+      "jargon": "Moral discourse",
+      "layman": "Ethical discussions"
+    },
+    {
+      "jargon": "Nineteenth-century reformism",
+      "layman": "Social changes in the 1800s"
+    },
+    {
+      "jargon": "Political philosophy",
+      "layman": "Ideas about government and justice"
+    },
+    {
+      "jargon": "Articulation",
+      "layman": "Clear expression of ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Abolition",
+      "layman": "Ending slavery"
+    },
+    {
+      "jargon": "Nobility of soul",
+      "layman": "High moral character"
+    },
+    {
+      "jargon": "Surpassing excellence",
+      "layman": "Going beyond ordinary good"
+    },
+    {
+      "jargon": "Human model",
+      "layman": "Human as ideal example"
+    },
+    {
+      "jargon": "Familiarity with reformism",
+      "layman": "Understanding of social change efforts"
+    }
+  ]
+}

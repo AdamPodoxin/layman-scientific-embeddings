@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Semidurable goods",
+      "layman": "Goods that last a while but wear out"
+    },
+    {
+      "jargon": "Collusive agreements",
+      "layman": "Secret price-fixing deals"
+    },
+    {
+      "jargon": "Oligopoly",
+      "layman": "Few big companies controlling the market"
+    },
+    {
+      "jargon": "Consumer heterogeneity",
+      "layman": "Different customers with different needs"
+    },
+    {
+      "jargon": "Second-hand market",
+      "layman": "Used goods market"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Depreciation rate",
+      "layman": "How fast goods lose value"
+    },
+    {
+      "jargon": "Leasing policy",
+      "layman": "Rules for renting goods"
+    },
+    {
+      "jargon": "Buy-back",
+      "layman": "Company buying back used goods"
+    },
+    {
+      "jargon": "Market dynamics",
+      "layman": "How the market changes over time"
+    },
+    {
+      "jargon": "Incentive analysis",
+      "layman": "Studying what motivates decisions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Incentives to collude",
+      "layman": "Motivation to fix prices"
+    },
+    {
+      "jargon": "Profit maximization",
+      "layman": "Making the most money"
+    },
+    {
+      "jargon": "Collusion strengthening",
+      "layman": "Price-fixing becomes more likely"
+    },
+    {
+      "jargon": "Policy effects",
+      "layman": "How rules change market behavior"
+    },
+    {
+      "jargon": "Differing incentives",
+      "layman": "Different goals for few vs. one company"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ethnicity",
+      "layman": "Ethnicity"
+    },
+    {
+      "jargon": "Religion",
+      "layman": "Religion"
+    },
+    {
+      "jargon": "Tradition",
+      "layman": "Tradition"
+    },
+    {
+      "jargon": "Social capital",
+      "layman": "Social connections"
+    },
+    {
+      "jargon": "Post-materialism",
+      "layman": "Focus on personal values over material needs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cultural enquiry",
+      "layman": "Studying culture through research"
+    },
+    {
+      "jargon": "Verstehen",
+      "layman": "Understanding through perspective"
+    },
+    {
+      "jargon": "Value-orientation enquiry",
+      "layman": "Exploring people's core beliefs"
+    },
+    {
+      "jargon": "Gender and sexuality analysis",
+      "layman": "Studying gender and sexual identities"
+    },
+    {
+      "jargon": "Cultural conflict exploration",
+      "layman": "Investigating cultural clashes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lack of modernization",
+      "layman": "Slow change in society"
+    },
+    {
+      "jargon": "Self-expression values",
+      "layman": "Desire for personal freedom"
+    },
+    {
+      "jargon": "Happiness or life satisfaction",
+      "layman": "Feeling content with life"
+    },
+    {
+      "jargon": "Culture and ecology",
+      "layman": "Culture and environment connection"
+    },
+    {
+      "jargon": "Globalization values",
+      "layman": "Values shaped by global trends"
+    }
+  ]
+}

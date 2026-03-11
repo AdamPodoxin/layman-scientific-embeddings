@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Vocabulary",
+      "layman": "Set of words used to describe images"
+    },
+    {
+      "jargon": "Feature",
+      "layman": "Image part that describes shape or color"
+    },
+    {
+      "jargon": "Image retrieval",
+      "layman": "Finding similar images"
+    },
+    {
+      "jargon": "Quantization artifacts",
+      "layman": "Image errors from simplification"
+    },
+    {
+      "jargon": "Intersection set",
+      "layman": "Overlapping parts of different vocabularies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Bayes merging",
+      "layman": "Probabilistic method to combine vocabularies"
+    },
+    {
+      "jargon": "Bag-of-Words model",
+      "layman": "Simple image description using word lists"
+    },
+    {
+      "jargon": "Joint similarity estimation",
+      "layman": "Measuring how similar images and features are"
+    },
+    {
+      "jargon": "Probabilistic modeling",
+      "layman": "Using probabilities to understand patterns"
+    },
+    {
+      "jargon": "Down-weighting",
+      "layman": "Reducing importance of overlapping features"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved recall",
+      "layman": "Better image matching"
+    },
+    {
+      "jargon": "Retrieval accuracy",
+      "layman": "Correctness of image search results"
+    },
+    {
+      "jargon": "Efficient time and memory cost",
+      "layman": "Fast and low-resource performance"
+    },
+    {
+      "jargon": "Competitive performance",
+      "layman": "Matches top methods"
+    },
+    {
+      "jargon": "Vocabulary correlation",
+      "layman": "Overlapping between vocabularies"
+    }
+  ]
+}

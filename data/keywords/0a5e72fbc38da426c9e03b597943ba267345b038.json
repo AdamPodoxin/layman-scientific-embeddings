@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Temperley\u2013Lieb algebra",
+      "layman": "Mathematical structure for lattice models"
+    },
+    {
+      "jargon": "Two-colour diagram algebras",
+      "layman": "Coloured diagrams for physical systems"
+    },
+    {
+      "jargon": "Dilute lattice systems",
+      "layman": "Sparse grid models in 2D"
+    },
+    {
+      "jargon": "Statistical mechanics",
+      "layman": "Study of large systems of particles"
+    },
+    {
+      "jargon": "Yang\u2013Baxter equations",
+      "layman": "Rules for particle interactions in physics"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Martin's general procedure",
+      "layman": "Standard method for diagram algebras"
+    },
+    {
+      "jargon": "Representation theory",
+      "layman": "How algebra structures act on objects"
+    },
+    {
+      "jargon": "Diagram algebras",
+      "layman": "Algebra using diagrams"
+    },
+    {
+      "jargon": "Multiparameter generalizations",
+      "layman": "Extended versions with multiple parameters"
+    },
+    {
+      "jargon": "Roots of unity",
+      "layman": "Special values where math behaves differently"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Nongeneric cases",
+      "layman": "Special conditions where behavior changes"
+    },
+    {
+      "jargon": "Generic representation theory",
+      "layman": "Standard way the algebra works"
+    },
+    {
+      "jargon": "Solve the Yang\u2013Baxter equations",
+      "layman": "Find solutions to interaction rules"
+    },
+    {
+      "jargon": "Rigorous foundation",
+      "layman": "Solid mathematical base"
+    },
+    {
+      "jargon": "Sequence of algebras",
+      "layman": "Series of related mathematical models"
+    }
+  ]
+}

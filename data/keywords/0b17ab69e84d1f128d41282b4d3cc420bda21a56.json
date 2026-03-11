@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Climate policy",
+      "layman": "Government plans to fight climate change"
+    },
+    {
+      "jargon": "International norms",
+      "layman": "Shared global rules or expectations"
+    },
+    {
+      "jargon": "United States",
+      "layman": "United States"
+    },
+    {
+      "jargon": "European Union",
+      "layman": "European Union"
+    },
+    {
+      "jargon": "Kyoto Protocol",
+      "layman": "Global climate agreement from 1997"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historically organized account",
+      "layman": "Timeline of past events"
+    },
+    {
+      "jargon": "Normative salience",
+      "layman": "How strong a rule feels in politics"
+    },
+    {
+      "jargon": "Typology",
+      "layman": "Categorization system"
+    },
+    {
+      "jargon": "Framing",
+      "layman": "How a problem is presented"
+    },
+    {
+      "jargon": "Policy development",
+      "layman": "How policies are created"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Political salience",
+      "layman": "How important a norm is in politics"
+    },
+    {
+      "jargon": "Irrelevance",
+      "layman": "No impact on decisions"
+    },
+    {
+      "jargon": "Taken for granted",
+      "layman": "Assumed to be true without question"
+    },
+    {
+      "jargon": "Unachievable commitments",
+      "layman": "Promises that can't be met"
+    },
+    {
+      "jargon": "Constructivist theory",
+      "layman": "Theory that ideas shape politics"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "SMEs",
+      "layman": "Small businesses"
+    },
+    {
+      "jargon": "E-business applications",
+      "layman": "Online business tools"
+    },
+    {
+      "jargon": "Trusted third parties",
+      "layman": "Neutral companies that build trust"
+    },
+    {
+      "jargon": "Aggregation",
+      "layman": "Grouping many small businesses together"
+    },
+    {
+      "jargon": "Service provider business models",
+      "layman": "Businesses that offer services to others"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Review of secondary data",
+      "layman": "Analyzing existing data"
+    },
+    {
+      "jargon": "Empirical investigation",
+      "layman": "Real-world research study"
+    },
+    {
+      "jargon": "User perspective",
+      "layman": "View from the customer side"
+    },
+    {
+      "jargon": "Provider perspective",
+      "layman": "View from the business side"
+    },
+    {
+      "jargon": "Critical e-aggregation applications",
+      "layman": "Key online tools that connect small businesses"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Emergence of aggregation specific e-business applications",
+      "layman": "New online tools for small businesses grouped together"
+    },
+    {
+      "jargon": "Collaboratively based one to many service provider models",
+      "layman": "One company serves many small businesses together"
+    },
+    {
+      "jargon": "Higher complexity e-business applications",
+      "layman": "More advanced online business tools"
+    },
+    {
+      "jargon": "Increased SME engagement in e-business",
+      "layman": "More small businesses use online tools"
+    },
+    {
+      "jargon": "Importance of trusted third parties",
+      "layman": "Trust is key for small businesses to adopt new tools"
+    }
+  ]
+}

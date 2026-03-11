@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lambek calculus",
+      "layman": "Grammar system for sentence structure"
+    },
+    {
+      "jargon": "Free monoid models",
+      "layman": "String-based models for language"
+    },
+    {
+      "jargon": "Empty string",
+      "layman": "Blank or empty string"
+    },
+    {
+      "jargon": "Syntactic calculus",
+      "layman": "Rules for how words combine"
+    },
+    {
+      "jargon": "Premises",
+      "layman": "Starting assumptions in reasoning"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Prove completeness",
+      "layman": "Show all possible cases are covered"
+    },
+    {
+      "jargon": "String models",
+      "layman": "Models based on strings of symbols"
+    },
+    {
+      "jargon": "Allow empty premises",
+      "layman": "Let reasoning start with nothing"
+    },
+    {
+      "jargon": "Class of models",
+      "layman": "Set of all possible examples"
+    },
+    {
+      "jargon": "Logical completeness",
+      "layman": "All valid rules are captured"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Complete with respect to",
+      "layman": "Fully matches all possible cases"
+    },
+    {
+      "jargon": "Free monoid models",
+      "layman": "All string-based models are included"
+    },
+    {
+      "jargon": "Empty string allowed",
+      "layman": "Blank strings are accepted"
+    },
+    {
+      "jargon": "Syntactic rules",
+      "layman": "Rules for word combinations work"
+    },
+    {
+      "jargon": "Lambek calculus",
+      "layman": "Grammar system works fully"
+    }
+  ]
+}

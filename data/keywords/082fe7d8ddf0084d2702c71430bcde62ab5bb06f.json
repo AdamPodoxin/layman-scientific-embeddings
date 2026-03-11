@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "?(5S)",
+      "layman": "5S state"
+    },
+    {
+      "jargon": "?(4D)",
+      "layman": "4D state"
+    },
+    {
+      "jargon": "?(6S)",
+      "layman": "6S state"
+    },
+    {
+      "jargon": "?(5D)",
+      "layman": "5D state"
+    },
+    {
+      "jargon": "?(3D)",
+      "layman": "3D state"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cross-section threshold behaviour",
+      "layman": "How signal changes at energy limits"
+    },
+    {
+      "jargon": "Mass measurements",
+      "layman": "How heavy the particles are"
+    },
+    {
+      "jargon": "Width measurements",
+      "layman": "How long-lived the particles are"
+    },
+    {
+      "jargon": "Signal analysis",
+      "layman": "Looking for patterns in data"
+    },
+    {
+      "jargon": "Particle decay",
+      "layman": "How particles break down"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Clear signs of?(5S) and?(4D)",
+      "layman": "Strong evidence for 5S and 4D states"
+    },
+    {
+      "jargon": "Indication for?(6S) and?(5D) masses and widths",
+      "layman": "Hints about 6S and 5D size and lifetime"
+    },
+    {
+      "jargon": "Threshold behaviour suggests?(3D) state",
+      "layman": "Energy pattern hints at missing 3D state"
+    },
+    {
+      "jargon": "c --> vector states",
+      "layman": "Charm particles forming spinning states"
+    },
+    {
+      "jargon": "Undetected state",
+      "layman": "Previously unseen particle"
+    }
+  ]
+}

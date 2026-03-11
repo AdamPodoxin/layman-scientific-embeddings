@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Overpainted photographs",
+      "layman": "Photos with paint added on top"
+    },
+    {
+      "jargon": "Landscape genre",
+      "layman": "Paintings of natural scenery"
+    },
+    {
+      "jargon": "West German painting",
+      "layman": "Art from western Germany"
+    },
+    {
+      "jargon": "Third Reich",
+      "layman": "Nazi Germany"
+    },
+    {
+      "jargon": "Neo-expressionism",
+      "layman": "Bold, emotional art style"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Chance as natural process",
+      "layman": "Randomness as a natural thing"
+    },
+    {
+      "jargon": "Reappropriation",
+      "layman": "Taking back control of something old"
+    },
+    {
+      "jargon": "Ideological recuperation",
+      "layman": "Using a belief system to justify something"
+    },
+    {
+      "jargon": "Return to figuration",
+      "layman": "Going back to realistic images"
+    },
+    {
+      "jargon": "Cultural discourses",
+      "layman": "Public conversations about culture"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Critical intervention",
+      "layman": "Major change in art context"
+    },
+    {
+      "jargon": "Redefined landscape",
+      "layman": "New meaning for landscape art"
+    },
+    {
+      "jargon": "Countering ideological uses",
+      "layman": "Challenging political uses of art"
+    },
+    {
+      "jargon": "Return to figuration",
+      "layman": "Realistic art style comes back"
+    },
+    {
+      "jargon": "Reinterpretation of randomness",
+      "layman": "New way of seeing chance"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Western music history",
+      "layman": "History of Western music"
+    },
+    {
+      "jargon": "Sonata as comedy",
+      "layman": "Sonata as comedy"
+    },
+    {
+      "jargon": "Ninth Symphony",
+      "layman": "Ninth Symphony"
+    },
+    {
+      "jargon": "New German Cinema",
+      "layman": "New German Cinema"
+    },
+    {
+      "jargon": "Fritz Reiner",
+      "layman": "Fritz Reiner"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Film score analysis",
+      "layman": "Analyzing film scores"
+    },
+    {
+      "jargon": "Cultural appropriation",
+      "layman": "Using culture for influence"
+    },
+    {
+      "jargon": "Biographical study",
+      "layman": "Studying a person's life"
+    },
+    {
+      "jargon": "Repertory guide",
+      "layman": "Guide to music repertoire"
+    },
+    {
+      "jargon": "Manuscript facsimile",
+      "layman": "Exact copy of original manuscript"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cultural connection",
+      "layman": "Shared cultural link"
+    },
+    {
+      "jargon": "Ideological use",
+      "layman": "Use to express ideas"
+    },
+    {
+      "jargon": "Legacy exploration",
+      "layman": "Exploring lasting impact"
+    },
+    {
+      "jargon": "Deaf man and singer comparison",
+      "layman": "Comparing Beethoven to others"
+    },
+    {
+      "jargon": "Absence of Beethoven legacy",
+      "layman": "No discussion of Beethoven's influence"
+    }
+  ]
+}

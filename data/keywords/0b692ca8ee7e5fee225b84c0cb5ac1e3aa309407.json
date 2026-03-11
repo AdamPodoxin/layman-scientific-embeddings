@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bob Dylan",
+      "layman": "Bob Dylan"
+    },
+    {
+      "jargon": "Political art",
+      "layman": "Art with political messages"
+    },
+    {
+      "jargon": "American Dream",
+      "layman": "Ideal of prosperity in America"
+    },
+    {
+      "jargon": "Modernity",
+      "layman": "Modern times and ways of life"
+    },
+    {
+      "jargon": "Postmodernism",
+      "layman": "Late modern culture with uncertainty and irony"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Multi-faceted analysis",
+      "layman": "Looking at many angles"
+    },
+    {
+      "jargon": "Aesthetic theory",
+      "layman": "Study of artistic beauty"
+    },
+    {
+      "jargon": "Literary criticism",
+      "layman": "Interpretation of literature"
+    },
+    {
+      "jargon": "Political theory",
+      "layman": "Study of how politics works"
+    },
+    {
+      "jargon": "Historical integration",
+      "layman": "Linking events to life and work"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Alienation",
+      "layman": "Feeling disconnected"
+    },
+    {
+      "jargon": "Protest",
+      "layman": "Opposing injustice"
+    },
+    {
+      "jargon": "Non-conformity",
+      "layman": "Not following rules or norms"
+    },
+    {
+      "jargon": "Pivotal moments",
+      "layman": "Key turning points"
+    },
+    {
+      "jargon": "Political meaning",
+      "layman": "What a song says about politics"
+    }
+  ]
+}

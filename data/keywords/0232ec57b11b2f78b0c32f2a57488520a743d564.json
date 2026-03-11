@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Zinc",
+      "layman": "Zinc"
+    },
+    {
+      "jargon": "Organic ligands",
+      "layman": "Organic molecules that bind metals"
+    },
+    {
+      "jargon": "Marine phytoplankton",
+      "layman": "Tiny ocean plants"
+    },
+    {
+      "jargon": "Diatom",
+      "layman": "Type of tiny ocean algae"
+    },
+    {
+      "jargon": "Seawater",
+      "layman": "Ocean water"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Laboratory experiments",
+      "layman": "Tests in a lab"
+    },
+    {
+      "jargon": "Electrochemical measurements",
+      "layman": "Measuring electrical changes in water"
+    },
+    {
+      "jargon": "Equilibrium calculations",
+      "layman": "Balancing chemical reactions"
+    },
+    {
+      "jargon": "Polarographic data",
+      "layman": "Electrical data from metal reduction"
+    },
+    {
+      "jargon": "Anodic Stripping Voltammetry",
+      "layman": "Electrochemical test for trace metals"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Bioavailability",
+      "layman": "Ability to be absorbed by organisms"
+    },
+    {
+      "jargon": "Reduction at -1.2 V",
+      "layman": "Metal being reduced at a specific voltage"
+    },
+    {
+      "jargon": "Zn-histidine complex",
+      "layman": "Zinc bound to histidine"
+    },
+    {
+      "jargon": "1:1 Zn-histidine complex",
+      "layman": "One zinc to one histidine"
+    },
+    {
+      "jargon": "1:2 Zn-histidine complex",
+      "layman": "One zinc to two histidines"
+    }
+  ]
+}

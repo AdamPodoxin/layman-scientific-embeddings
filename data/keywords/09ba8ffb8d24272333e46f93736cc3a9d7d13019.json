@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Creative phenomena",
+      "layman": "Creative behaviors"
+    },
+    {
+      "jargon": "Cognitive processes",
+      "layman": "Thinking patterns"
+    },
+    {
+      "jargon": "Personality traits",
+      "layman": "Individual differences in character"
+    },
+    {
+      "jargon": "Emotional processes",
+      "layman": "Feelings and emotions"
+    },
+    {
+      "jargon": "Motivational processes",
+      "layman": "What drives people to act"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interdisciplinary dialogue",
+      "layman": "Collaboration across fields"
+    },
+    {
+      "jargon": "Research evolution",
+      "layman": "How studies change over time"
+    },
+    {
+      "jargon": "Personal interests",
+      "layman": "What researchers are passionate about"
+    },
+    {
+      "jargon": "Opportunities for collaboration",
+      "layman": "Chances to work with others"
+    },
+    {
+      "jargon": "Dynamic and multi-faceted",
+      "layman": "Complex and changing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Breakthroughs",
+      "layman": "Major discoveries"
+    },
+    {
+      "jargon": "Intrinsic diversity",
+      "layman": "Natural variety in creativity"
+    },
+    {
+      "jargon": "Creative thinking",
+      "layman": "Original and novel ideas"
+    },
+    {
+      "jargon": "Impact at the borders",
+      "layman": "Influence at the edges of fields"
+    },
+    {
+      "jargon": "Taking risks",
+      "layman": "Trying new and uncertain things"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quaternary basin",
+      "layman": "Ancient sediment-filled valley"
+    },
+    {
+      "jargon": "Subglacial fluvial system",
+      "layman": "River-like deposits under ice"
+    },
+    {
+      "jargon": "Glaciolacustrine deposits",
+      "layman": "Lake sediments under ice"
+    },
+    {
+      "jargon": "Alluvial fan",
+      "layman": "Fan-shaped sediment deposit"
+    },
+    {
+      "jargon": "Channel deposits",
+      "layman": "Sediment in river channels"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reflection seismic profiles",
+      "layman": "Seismic imaging of underground layers"
+    },
+    {
+      "jargon": "Lithologic logs",
+      "layman": "Sediment type records"
+    },
+    {
+      "jargon": "Depositional systems approach",
+      "layman": "Mapping how sediments were laid down"
+    },
+    {
+      "jargon": "High-resolution seismic data",
+      "layman": "Detailed underground scans"
+    },
+    {
+      "jargon": "Core data",
+      "layman": "Direct rock samples from ground"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Thick sequence of fine and coarse clastics",
+      "layman": "Layered sand and silt deposits"
+    },
+    {
+      "jargon": "Basal suite of compact, stratified coarse clastics",
+      "layman": "Dense, layered gravel at the bottom"
+    },
+    {
+      "jargon": "Older sediments almost completely excavated",
+      "layman": "Old layers mostly removed"
+    },
+    {
+      "jargon": "Late Wisconsinan glaciation",
+      "layman": "Late ice age period"
+    },
+    {
+      "jargon": "Glaciers capable of eroding older deposits",
+      "layman": "Ice sheets could remove old layers"
+    }
+  ]
+}

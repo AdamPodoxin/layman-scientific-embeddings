@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Second-harmonic generation",
+      "layman": "Light doubling"
+    },
+    {
+      "jargon": "Isotropic fluids",
+      "layman": "Uniform liquids"
+    },
+    {
+      "jargon": "Multipolar approximation",
+      "layman": "Multiple polarization levels"
+    },
+    {
+      "jargon": "Quantum electrodynamics",
+      "layman": "Quantum light-matter interaction"
+    },
+    {
+      "jargon": "Harmonic generation",
+      "layman": "Light creating new frequencies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Molecular theory of harmonic generation",
+      "layman": "Model explaining light interactions in molecules"
+    },
+    {
+      "jargon": "Quantum electrodynamics framework",
+      "layman": "Quantum-based light-matter rules"
+    },
+    {
+      "jargon": "Multipolar approximation",
+      "layman": "Step-by-step polarization analysis"
+    },
+    {
+      "jargon": "Proof",
+      "layman": "Mathematical confirmation"
+    },
+    {
+      "jargon": "Level of approximation",
+      "layman": "How closely a model matches reality"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Second-harmonic generation is forbidden",
+      "layman": "Light doubling cannot happen"
+    },
+    {
+      "jargon": "All levels of multipolar approximation",
+      "layman": "All possible polarization cases"
+    },
+    {
+      "jargon": "Proved",
+      "layman": "Confirmed by math"
+    },
+    {
+      "jargon": "Isotropic fluids",
+      "layman": "Uniform liquids"
+    },
+    {
+      "jargon": "No contribution",
+      "layman": "No effect at all"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Commodity promotion check-off programs",
+      "layman": "Farmer-funded marketing programs"
+    },
+    {
+      "jargon": "Generic advertising",
+      "layman": "General product ads"
+    },
+    {
+      "jargon": "New product development",
+      "layman": "Creating new products"
+    },
+    {
+      "jargon": "Public relations",
+      "layman": "Media outreach efforts"
+    },
+    {
+      "jargon": "Product research",
+      "layman": "Testing product ideas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Federal and state legislation",
+      "layman": "Government laws"
+    },
+    {
+      "jargon": "Refund authorization",
+      "layman": "Returning money back"
+    },
+    {
+      "jargon": "Small producer exemptions",
+      "layman": "Excluding small farms"
+    },
+    {
+      "jargon": "Collective demand expansion",
+      "layman": "Growing overall market demand"
+    },
+    {
+      "jargon": "Funding collection from farmers",
+      "layman": "Farmers pay for programs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Nearly $1 billion annual investment",
+      "layman": "Big annual spending"
+    },
+    {
+      "jargon": "Influence market for output",
+      "layman": "Shape market demand"
+    },
+    {
+      "jargon": "Collective demand expansion",
+      "layman": "Increased overall demand"
+    },
+    {
+      "jargon": "Funds collected under legislation",
+      "layman": "Money raised by law"
+    },
+    {
+      "jargon": "Exempt small producers",
+      "layman": "Small farms are not charged"
+    }
+  ]
+}

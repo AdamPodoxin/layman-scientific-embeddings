@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Session Description Protocol",
+      "layman": "Protocol for setting up media sessions"
+    },
+    {
+      "jargon": "Media streams",
+      "layman": "Audio or video data flows"
+    },
+    {
+      "jargon": "Security precondition",
+      "layman": "Condition that must be met for security"
+    },
+    {
+      "jargon": "RFCs 3312 and 4032",
+      "layman": "Official standards documents"
+    },
+    {
+      "jargon": "Secure media stream",
+      "layman": "Protected audio or video stream"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Negotiate security",
+      "layman": "Set up security between parties"
+    },
+    {
+      "jargon": "Delay session establishment",
+      "layman": "Wait before starting a session"
+    },
+    {
+      "jargon": "Modify session",
+      "layman": "Change an existing session"
+    },
+    {
+      "jargon": "Framework",
+      "layman": "Structured system for rules"
+    },
+    {
+      "jargon": "Establish session",
+      "layman": "Start a communication session"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Successful security negotiation",
+      "layman": "Security is agreed upon"
+    },
+    {
+      "jargon": "Delayed session",
+      "layman": "Session starts later"
+    },
+    {
+      "jargon": "Session modification",
+      "layman": "Session is changed"
+    },
+    {
+      "jargon": "Secure media stream",
+      "layman": "Media is protected"
+    },
+    {
+      "jargon": "Security precondition applied",
+      "layman": "Security rule is enforced"
+    }
+  ]
+}

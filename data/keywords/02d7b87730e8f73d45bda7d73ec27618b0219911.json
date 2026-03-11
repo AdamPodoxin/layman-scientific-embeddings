@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "functional requirements",
+      "layman": "What the system must do"
+    },
+    {
+      "jargon": "non-functional requirements",
+      "layman": "How well the system works"
+    },
+    {
+      "jargon": "natural language",
+      "layman": "Regular human language"
+    },
+    {
+      "jargon": "machine learning",
+      "layman": "Computer learning from data"
+    },
+    {
+      "jargon": "preprocessing",
+      "layman": "Cleaning and preparing data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "automated classification",
+      "layman": "Computer sorting of text"
+    },
+    {
+      "jargon": "Latent Dirichlet Allocation",
+      "layman": "Topic discovery in text"
+    },
+    {
+      "jargon": "Biterm Topic Modeling",
+      "layman": "Finding topics in text pairs"
+    },
+    {
+      "jargon": "Na\u00efve Bayes",
+      "layman": "Simple text prediction model"
+    },
+    {
+      "jargon": "standardization",
+      "layman": "Making data consistent"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "improved performance",
+      "layman": "Better results"
+    },
+    {
+      "jargon": "significant differences",
+      "layman": "Clear differences in results"
+    },
+    {
+      "jargon": "sub-categories",
+      "layman": "Smaller groups of types"
+    },
+    {
+      "jargon": "625 requirements",
+      "layman": "625 pieces of system needs"
+    },
+    {
+      "jargon": "controlled vocabulary",
+      "layman": "Standard list of words"
+    }
+  ]
+}

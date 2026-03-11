@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lollard Bible",
+      "layman": "Lollard Bible"
+    },
+    {
+      "jargon": "Renaissance grammar schools",
+      "layman": "Grammar schools of the Renaissance"
+    },
+    {
+      "jargon": "Classical education",
+      "layman": "Education based on ancient texts"
+    },
+    {
+      "jargon": "Colloquial idiom",
+      "layman": "Everyday speech"
+    },
+    {
+      "jargon": "Lower orders",
+      "layman": "Peasantry"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Suppression of religious texts",
+      "layman": "Banning of religious books"
+    },
+    {
+      "jargon": "Formation of grammar schools",
+      "layman": "Setting up of grammar schools"
+    },
+    {
+      "jargon": "Philosophical discussion",
+      "layman": "Talking about philosophy"
+    },
+    {
+      "jargon": "Autobiographical writing",
+      "layman": "Writing about one\u2019s life"
+    },
+    {
+      "jargon": "Cultural gap",
+      "layman": "Gap in culture between groups"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lack of literacy spur",
+      "layman": "No motivation for reading"
+    },
+    {
+      "jargon": "Cultural and linguistic gap",
+      "layman": "Language and culture divide"
+    },
+    {
+      "jargon": "Bridging the gap",
+      "layman": "Connecting different groups"
+    },
+    {
+      "jargon": "Avoiding figurative language",
+      "layman": "Using plain language"
+    },
+    {
+      "jargon": "Servants\u2019 stories",
+      "layman": "Stories from servants"
+    }
+  ]
+}

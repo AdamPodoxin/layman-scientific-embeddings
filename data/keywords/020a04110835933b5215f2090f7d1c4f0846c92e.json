@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Embedded interpreter",
+      "layman": "Built-in language processor"
+    },
+    {
+      "jargon": "Higher-order functions",
+      "layman": "Functions that take other functions as inputs"
+    },
+    {
+      "jargon": "Types",
+      "layman": "Categories for data"
+    },
+    {
+      "jargon": "Lua-ML",
+      "layman": "New interpreter API"
+    },
+    {
+      "jargon": "Application-program function",
+      "layman": "Function in a software app"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Embedding",
+      "layman": "Inserting one system into another"
+    },
+    {
+      "jargon": "Type description",
+      "layman": "Defining a function's data type"
+    },
+    {
+      "jargon": "API design",
+      "layman": "Creating a software interface"
+    },
+    {
+      "jargon": "Interpreted language",
+      "layman": "Language that runs code on the fly"
+    },
+    {
+      "jargon": "Software engineering",
+      "layman": "Building and managing software"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Software-engineering benefits",
+      "layman": "Easier software development"
+    },
+    {
+      "jargon": "Simplified use",
+      "layman": "Easier to use"
+    },
+    {
+      "jargon": "Coded functions",
+      "layman": "Functions added by code"
+    },
+    {
+      "jargon": "Improved integration",
+      "layman": "Better connection between systems"
+    },
+    {
+      "jargon": "Type-based addition",
+      "layman": "Adding functions by defining type"
+    }
+  ]
+}

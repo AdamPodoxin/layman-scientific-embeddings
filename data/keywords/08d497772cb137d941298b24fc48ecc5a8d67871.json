@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Tour Perspective",
+      "layman": "Body-centered space description"
+    },
+    {
+      "jargon": "Map Perspective",
+      "layman": "Top-down space description"
+    },
+    {
+      "jargon": "Spatial description",
+      "layman": "How space is described"
+    },
+    {
+      "jargon": "Apartment layout",
+      "layman": "Room arrangement"
+    },
+    {
+      "jargon": "Plan drawings",
+      "layman": "Floor plans"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Pilot experiment",
+      "layman": "Small test study"
+    },
+    {
+      "jargon": "Oral spatial description",
+      "layman": "Verbal space explanation"
+    },
+    {
+      "jargon": "Formal knowledge",
+      "layman": "Structured learning"
+    },
+    {
+      "jargon": "Participant response",
+      "layman": "People's answers"
+    },
+    {
+      "jargon": "Spatial relations",
+      "layman": "How things are positioned relative to each other"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Tour perspective dominates",
+      "layman": "People describe space as if walking through it"
+    },
+    {
+      "jargon": "Map perspective used",
+      "layman": "People describe space from above"
+    },
+    {
+      "jargon": "Formal knowledge does not override",
+      "layman": "Training doesn't change natural description style"
+    },
+    {
+      "jargon": "Tour perspective linked to experience",
+      "layman": "Describing space depends on actual experience"
+    },
+    {
+      "jargon": "Ideal apartment description",
+      "layman": "Description of a perfect apartment"
+    }
+  ]
+}

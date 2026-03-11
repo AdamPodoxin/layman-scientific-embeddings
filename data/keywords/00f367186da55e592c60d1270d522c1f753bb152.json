@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ordered semigroups",
+      "layman": "Algebraic systems with order and operation"
+    },
+    {
+      "jargon": "Interior ideals",
+      "layman": "Subsets with special internal structure"
+    },
+    {
+      "jargon": "Intuitionistic fuzzy sets",
+      "layman": "Uncertain sets with degree of membership and non-membership"
+    },
+    {
+      "jargon": "Fuzzified algebraic structures",
+      "layman": "Uncertain mathematical systems"
+    },
+    {
+      "jargon": "Ordered semigroup S",
+      "layman": "Ordered mathematical system with operations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Generalization of intuitionistic fuzzy interior ideals",
+      "layman": "Extending fuzzy ideal rules"
+    },
+    {
+      "jargon": "Introduction of (?,??qk)-intuitionistic fuzzy interior ideals",
+      "layman": "Creating new fuzzy ideal types"
+    },
+    {
+      "jargon": "Characterizations of ordered semigroups",
+      "layman": "Describing semigroups using ideal properties"
+    },
+    {
+      "jargon": "Linking ordinary interior ideals",
+      "layman": "Connecting standard ideals to fuzzy ones"
+    },
+    {
+      "jargon": "Defining new types of fuzzy interior ideals",
+      "layman": "Building new fuzzy mathematical rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Link between ordinary and fuzzy interior ideals",
+      "layman": "Connection between standard and fuzzy ideals"
+    },
+    {
+      "jargon": "Characterizations in terms of fuzzy ideals",
+      "layman": "Describing systems using fuzzy rules"
+    },
+    {
+      "jargon": "New types of fuzzy interior ideals",
+      "layman": "New fuzzy ideal forms"
+    },
+    {
+      "jargon": "Generalized fuzzy interior ideals",
+      "layman": "Broader fuzzy ideal rules"
+    },
+    {
+      "jargon": "Mathematical structure in ordered semigroups",
+      "layman": "Clear structure in ordered systems"
+    }
+  ]
+}

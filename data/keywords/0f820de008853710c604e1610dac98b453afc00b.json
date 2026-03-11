@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Socialism",
+      "layman": "Economic system without private ownership"
+    },
+    {
+      "jargon": "Private property",
+      "layman": "Individual ownership of resources"
+    },
+    {
+      "jargon": "Central planning",
+      "layman": "Government deciding all economic decisions"
+    },
+    {
+      "jargon": "Market",
+      "layman": "System where prices are set by supply and demand"
+    },
+    {
+      "jargon": "Austrian critique",
+      "layman": "Austrian economic argument against socialism"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Factual knowledge problem",
+      "layman": "Problem of gathering individual, scattered knowledge"
+    },
+    {
+      "jargon": "Ethical knowledge problem",
+      "layman": "Problem of moral decision-making in policy"
+    },
+    {
+      "jargon": "Economic calculation",
+      "layman": "Using prices to decide what to produce"
+    },
+    {
+      "jargon": "Profit and loss accounting",
+      "layman": "Tracking gains and losses to guide decisions"
+    },
+    {
+      "jargon": "Competitive response",
+      "layman": "Trying to mimic market competition in a planned system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Rational economic calculation",
+      "layman": "Making sensible economic decisions"
+    },
+    {
+      "jargon": "Meaningful prices",
+      "layman": "Prices that show true scarcity"
+    },
+    {
+      "jargon": "Alienation and exploitation",
+      "layman": "Workers feeling disconnected or unfairly treated"
+    },
+    {
+      "jargon": "Failure of market socialism",
+      "layman": "Planned systems can't work like markets"
+    },
+    {
+      "jargon": "Hayekian socialism",
+      "layman": "Socialism that respects market knowledge"
+    }
+  ]
+}

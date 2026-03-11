@@ -5,64 +5,64 @@
       "layman": "Grouping similar search pages"
     },
     {
-      "jargon": "Search engine",
-      "layman": "Website that finds web pages"
-    },
-    {
       "jargon": "Open Directory Project",
-      "layman": "High-quality topic list"
+      "layman": "High-quality web topic list"
     },
     {
       "jargon": "Document references",
-      "layman": "Web pages about specific topics"
+      "layman": "Web pages with specific topics"
     },
     {
       "jargon": "ODP categories",
-      "layman": "Topic groups from Open Directory"
+      "layman": "Topic groups in the directory"
+    },
+    {
+      "jargon": "Lingo algorithm",
+      "layman": "New clustering method"
     }
   ],
   "methodologies": [
     {
       "jargon": "Experimental evaluation",
-      "layman": "Testing in a controlled way"
+      "layman": "Testing in real conditions"
     },
     {
       "jargon": "Mixing documents",
       "layman": "Combining different web pages"
     },
     {
+      "jargon": "Automatic grouping",
+      "layman": "Auto-sorting similar items"
+    },
+    {
       "jargon": "On-line grouping",
-      "layman": "Automatically sorting results in real time"
+      "layman": "Real-time sorting"
     },
     {
-      "jargon": "Algorithm named Lingo",
-      "layman": "Automatic sorting tool"
-    },
-    {
-      "jargon": "Comparing clusters",
-      "layman": "Checking how groups match expectations"
+      "jargon": "Algorithm comparison",
+      "layman": "Measuring how well it works"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Cluster accuracy",
+      "layman": "How well groups match expected topics"
+    },
+    {
       "jargon": "Expected set of ODP categories",
-      "layman": "Known topic groups"
+      "layman": "Known topic groupings"
     },
     {
-      "jargon": "Algorithm\u2019s strengths",
-      "layman": "What works well"
-    },
-    {
-      "jargon": "Algorithm\u2019s weaknesses",
-      "layman": "What fails or does poorly"
+      "jargon": "Strengths and weaknesses",
+      "layman": "Good and bad features"
     },
     {
       "jargon": "Research directions",
       "layman": "Future improvements"
     },
     {
-      "jargon": "Test sets",
-      "layman": "Groups of sample documents"
+      "jargon": "Mixed test sets",
+      "layman": "Combined sets of different topics"
     }
   ]
 }

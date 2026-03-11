@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "M&S education",
+      "layman": "Training in simulation technology"
+    },
+    {
+      "jargon": "Acquisition Life Cycle",
+      "layman": "Product development timeline"
+    },
+    {
+      "jargon": "Simulation Proponent Division",
+      "layman": "Army group that supports simulation use"
+    },
+    {
+      "jargon": "Army Modeling & Simulation Directorate",
+      "layman": "Army office for simulation leadership"
+    },
+    {
+      "jargon": "Engineering Product Design",
+      "layman": "Creating new products through design"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Non-technical M&S perspective",
+      "layman": "Understanding simulation without technical details"
+    },
+    {
+      "jargon": "Problem formulation",
+      "layman": "Defining the problem clearly"
+    },
+    {
+      "jargon": "Analysis",
+      "layman": "Evaluating data or options"
+    },
+    {
+      "jargon": "Interpretation",
+      "layman": "Understanding what data means"
+    },
+    {
+      "jargon": "Product development process",
+      "layman": "Step-by-step creation of a product"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Thorough understanding of M&S capabilities",
+      "layman": "Full grasp of simulation tools"
+    },
+    {
+      "jargon": "Support for product design",
+      "layman": "Helps design better products"
+    },
+    {
+      "jargon": "Appropriate process",
+      "layman": "Clear workflow for design work"
+    },
+    {
+      "jargon": "M&S in engineering design",
+      "layman": "Using simulation in product creation"
+    },
+    {
+      "jargon": "Active Army and civilian training",
+      "layman": "Training for soldiers and non-military staff"
+    }
+  ]
+}

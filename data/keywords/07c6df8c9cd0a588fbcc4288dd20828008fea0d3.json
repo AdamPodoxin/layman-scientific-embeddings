@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Philosophy of Right",
+      "layman": "Hegel's work on law and society"
+    },
+    {
+      "jargon": "Ethics",
+      "layman": "Moral principles"
+    },
+    {
+      "jargon": "Politics",
+      "layman": "Government and power"
+    },
+    {
+      "jargon": "Law",
+      "layman": "Rules of society"
+    },
+    {
+      "jargon": "State",
+      "layman": "Government system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful examination"
+    },
+    {
+      "jargon": "Interpretation",
+      "layman": "Understanding meaning"
+    },
+    {
+      "jargon": "Philosophical exploration",
+      "layman": "Deep thinking about ideas"
+    },
+    {
+      "jargon": "Scholarly engagement",
+      "layman": "Academic discussion"
+    },
+    {
+      "jargon": "International perspectives",
+      "layman": "Global viewpoints"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Key contributions",
+      "layman": "Main ideas"
+    },
+    {
+      "jargon": "Analytical exploration",
+      "layman": "In-depth study"
+    },
+    {
+      "jargon": "Philosophical insights",
+      "layman": "Deep understanding"
+    },
+    {
+      "jargon": "Theoretical framework",
+      "layman": "Big idea structure"
+    },
+    {
+      "jargon": "Interdisciplinary dialogue",
+      "layman": "Cross-field discussion"
+    }
+  ]
+}

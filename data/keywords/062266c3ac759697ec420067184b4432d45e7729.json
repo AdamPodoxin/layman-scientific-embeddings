@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Keynesian economics",
+      "layman": "Economics based on John Keynes"
+    },
+    {
+      "jargon": "Imperfectly competitive model economies",
+      "layman": "Markets with unequal players"
+    },
+    {
+      "jargon": "Joan Robinson",
+      "layman": "Economist who criticized Keynes"
+    },
+    {
+      "jargon": "Marxist economics",
+      "layman": "Economics based on Marx's ideas"
+    },
+    {
+      "jargon": "Kalecki",
+      "layman": "Economist who influenced Robinson"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Static method",
+      "layman": "One-time model without change over time"
+    },
+    {
+      "jargon": "Banana diagram",
+      "layman": "Graph showing production and growth"
+    },
+    {
+      "jargon": "Capital and growth theory",
+      "layman": "How capital builds over time"
+    },
+    {
+      "jargon": "Internal politics",
+      "layman": "Power struggles within a group"
+    },
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful evaluation of ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Static method was a'shameless fudge'",
+      "layman": "Fixed model ignored real changes"
+    },
+    {
+      "jargon": "Did not include imperfect competition",
+      "layman": "Keynes missed key market types"
+    },
+    {
+      "jargon": "Final assessment of Sraffa's work",
+      "layman": "Robinson's last opinion on Sraffa"
+    },
+    {
+      "jargon": "Did not get Nobel Prize",
+      "layman": "No major award for her work"
+    },
+    {
+      "jargon": "Lasting contributions",
+      "layman": "Long-term impact on economics"
+    }
+  ]
+}

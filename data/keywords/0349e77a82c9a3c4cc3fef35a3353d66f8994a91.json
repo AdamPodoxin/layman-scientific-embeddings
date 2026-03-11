@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Permian Yellow Sands",
+      "layman": "Yellow sandstones from the Permian period"
+    },
+    {
+      "jargon": "Weissliegendes",
+      "layman": "Permian sandstones in the North Sea"
+    },
+    {
+      "jargon": "Graywackes",
+      "layman": "Sandstones with mixed rock types"
+    },
+    {
+      "jargon": "Subgraywackes",
+      "layman": "Sandstones with grayish mix"
+    },
+    {
+      "jargon": "Subarkoses",
+      "layman": "Sandstones with more feldspar"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Petrologic data",
+      "layman": "Rock composition analysis"
+    },
+    {
+      "jargon": "Grain sorting",
+      "layman": "How evenly sized the sand particles are"
+    },
+    {
+      "jargon": "Grain rounding",
+      "layman": "How smooth the sand grains are"
+    },
+    {
+      "jargon": "Post-depositional etching",
+      "layman": "Sand grains worn down after being laid down"
+    },
+    {
+      "jargon": "Marine reworking",
+      "layman": "Oceans reshaping rocks over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shallow marine environment",
+      "layman": "Deposited in shallow ocean areas"
+    },
+    {
+      "jargon": "Aeolian dune interpretation",
+      "layman": "Wind-blown dune theory"
+    },
+    {
+      "jargon": "Transgression of the Zechstein Sea",
+      "layman": "Sea level rising into the area"
+    },
+    {
+      "jargon": "Thuringian in age",
+      "layman": "Formed during a specific time period"
+    },
+    {
+      "jargon": "Saxonian age",
+      "layman": "Older time period theory"
+    }
+  ]
+}

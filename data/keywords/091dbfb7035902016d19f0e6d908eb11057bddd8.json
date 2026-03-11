@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "AQFT",
+      "layman": "Algebraic quantum field theory"
+    },
+    {
+      "jargon": "Modular theory of operator algebras",
+      "layman": "Mathematical framework for quantum fields"
+    },
+    {
+      "jargon": "Null-surfaces",
+      "layman": "Flat surfaces in spacetime"
+    },
+    {
+      "jargon": "Vacuum state",
+      "layman": "Empty space with no particles"
+    },
+    {
+      "jargon": "Localized quantum matter",
+      "layman": "Quantum particles in a small region"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Algebraic approach to QFT",
+      "layman": "Mathematical method for quantum fields"
+    },
+    {
+      "jargon": "Modular theory",
+      "layman": "Study of quantum systems using algebra"
+    },
+    {
+      "jargon": "Holography on null-surfaces",
+      "layman": "Mapping of space to a surface"
+    },
+    {
+      "jargon": "Entropy of localized matter",
+      "layman": "Disorder in a small region of space"
+    },
+    {
+      "jargon": "Structural theorems",
+      "layman": "Mathematical rules for quantum systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Area law for entropy",
+      "layman": "Entropy scales with surface area"
+    },
+    {
+      "jargon": "Paradigmatic conceptual changes",
+      "layman": "Big shift in how we think"
+    },
+    {
+      "jargon": "Physical principles preserved",
+      "layman": "Core laws of physics remain"
+    },
+    {
+      "jargon": "Mathematical changes",
+      "layman": "New mathematical insights"
+    },
+    {
+      "jargon": "Actual constructions of interest",
+      "layman": "Real-world applications"
+    }
+  ]
+}

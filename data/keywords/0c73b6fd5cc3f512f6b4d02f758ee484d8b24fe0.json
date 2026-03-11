@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rank equivalence operators",
+      "layman": "Operators that preserve rank"
+    },
+    {
+      "jargon": "Generators",
+      "layman": "Objects that create or define transformations"
+    },
+    {
+      "jargon": "Rank",
+      "layman": "Order or level in a system"
+    },
+    {
+      "jargon": "Theorem",
+      "layman": "A proven mathematical statement"
+    },
+    {
+      "jargon": "Proof",
+      "layman": "Logical argument showing something is true"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Correct proof",
+      "layman": "Valid logical explanation"
+    },
+    {
+      "jargon": "Form of generators",
+      "layman": "Shape or structure of creating tools"
+    },
+    {
+      "jargon": "Preserving rank",
+      "layman": "Keeping order unchanged"
+    },
+    {
+      "jargon": "Operator",
+      "layman": "A rule or function that acts on data"
+    },
+    {
+      "jargon": "Mathematical proof",
+      "layman": "Step-by-step logic to show truth"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New correct proof",
+      "layman": "Fixed and valid proof"
+    },
+    {
+      "jargon": "Determined form",
+      "layman": "Found exact structure"
+    },
+    {
+      "jargon": "Interesting example",
+      "layman": "Notable case study"
+    },
+    {
+      "jargon": "Theorem of A. Markova",
+      "layman": "Known mathematical rule"
+    },
+    {
+      "jargon": "Wrong proof",
+      "layman": "Incorrect logical argument"
+    }
+  ]
+}

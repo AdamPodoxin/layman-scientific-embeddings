@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sudoku puzzle",
+      "layman": "Number grid game"
+    },
+    {
+      "jargon": "9-by-9 grid",
+      "layman": "9x9 square grid"
+    },
+    {
+      "jargon": "3-by-3 subgrids",
+      "layman": "3x3 boxes"
+    },
+    {
+      "jargon": "Digits 1 through 9",
+      "layman": "Numbers 1 to 9"
+    },
+    {
+      "jargon": "NP-complete problems",
+      "layman": "Very hard math problems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Logical techniques",
+      "layman": "Simple reasoning"
+    },
+    {
+      "jargon": "Pattern recognition",
+      "layman": "Spotting patterns"
+    },
+    {
+      "jargon": "Elimination method",
+      "layman": "Remove impossible options"
+    },
+    {
+      "jargon": "Algorithm design",
+      "layman": "Computer problem-solving plan"
+    },
+    {
+      "jargon": "Computational solving",
+      "layman": "Computer solving steps"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient algorithm",
+      "layman": "Fast solution method"
+    },
+    {
+      "jargon": "Explosive number of combinations",
+      "layman": "Too many possible options"
+    },
+    {
+      "jargon": "P = NP problem",
+      "layman": "Big question about fast solutions"
+    },
+    {
+      "jargon": "Verified solution",
+      "layman": "Correct answer confirmed"
+    },
+    {
+      "jargon": "Solving time",
+      "layman": "How long it takes to solve"
+    }
+  ]
+}

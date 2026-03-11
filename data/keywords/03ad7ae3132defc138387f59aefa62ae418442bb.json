@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Computer systems",
+      "layman": "Computer systems"
+    },
+    {
+      "jargon": "Computer-Aided Design",
+      "layman": "Design using computers"
+    },
+    {
+      "jargon": "Certification",
+      "layman": "Official approval"
+    },
+    {
+      "jargon": "Computer Systems",
+      "layman": "Computer Systems"
+    },
+    {
+      "jargon": "Advanced Research Projects Agency",
+      "layman": "Defense research agency"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Computer-Aided Design",
+      "layman": "Design using computers"
+    },
+    {
+      "jargon": "Certification process",
+      "layman": "Official approval process"
+    },
+    {
+      "jargon": "System validation",
+      "layman": "Checking if systems work correctly"
+    },
+    {
+      "jargon": "Technical review",
+      "layman": "Expert evaluation"
+    },
+    {
+      "jargon": "Project reporting",
+      "layman": "Sending progress updates"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Certified computer systems",
+      "layman": "Approved computer systems"
+    },
+    {
+      "jargon": "Design accuracy",
+      "layman": "Correct design"
+    },
+    {
+      "jargon": "System reliability",
+      "layman": "System works consistently"
+    },
+    {
+      "jargon": "Error reduction",
+      "layman": "Fewer mistakes"
+    },
+    {
+      "jargon": "Defect identification",
+      "layman": "Finding design flaws"
+    }
+  ]
+}

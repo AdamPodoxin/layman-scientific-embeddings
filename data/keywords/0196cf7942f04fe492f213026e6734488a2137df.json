@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "55Ni hole-states",
+      "layman": "Missing nucleons in nickel-55"
+    },
+    {
+      "jargon": "56Ni",
+      "layman": "Stable nickel-56 nucleus"
+    },
+    {
+      "jargon": "sd shell",
+      "layman": "Low-energy nucleon orbits"
+    },
+    {
+      "jargon": "pf shell",
+      "layman": "Higher-energy nucleon orbits"
+    },
+    {
+      "jargon": "N = Z = 28 double magic nucleus",
+      "layman": "Nucleus with balanced protons and neutrons"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "H1(Ni56, d)Ni55 transfer reaction",
+      "layman": "Neutron transfer experiment"
+    },
+    {
+      "jargon": "Inverse kinematics",
+      "layman": "Firing beam at slow speed"
+    },
+    {
+      "jargon": "Neutron spectroscopic factors",
+      "layman": "Measure of how easily neutrons are removed"
+    },
+    {
+      "jargon": "Large basis calculations",
+      "layman": "Complex computer models of nuclei"
+    },
+    {
+      "jargon": "Excitation energies",
+      "layman": "Energy needed to excite a nucleus"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Spins and parities",
+      "layman": "Nuclear rotation and symmetry"
+    },
+    {
+      "jargon": "Spectroscopic factors",
+      "layman": "Strength of nuclear states"
+    },
+    {
+      "jargon": "Below Fermi energy",
+      "layman": "Lower than normal energy level"
+    },
+    {
+      "jargon": "Benchmark for calculations",
+      "layman": "Standard for testing models"
+    },
+    {
+      "jargon": "State of the art calculations",
+      "layman": "Best available computer simulations"
+    }
+  ]
+}

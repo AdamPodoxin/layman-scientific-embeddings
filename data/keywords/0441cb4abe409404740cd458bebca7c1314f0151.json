@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Religious consciousness",
+      "layman": "Spiritual awareness"
+    },
+    {
+      "jargon": "National myth",
+      "layman": "National story"
+    },
+    {
+      "jargon": "Historical religious conceptions",
+      "layman": "Beliefs about history and religion"
+    },
+    {
+      "jargon": "Modern Hinduism",
+      "layman": "Contemporary Hindu beliefs"
+    },
+    {
+      "jargon": "Sh.A. Ghosh",
+      "layman": "Sh.A. Ghosh"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analysis of preconditions",
+      "layman": "Examining background factors"
+    },
+    {
+      "jargon": "Comprehensive characterization",
+      "layman": "Detailed description"
+    },
+    {
+      "jargon": "Process of modernization",
+      "layman": "Change over time"
+    },
+    {
+      "jargon": "Ideological preconditions",
+      "layman": "Ideas that shape beliefs"
+    },
+    {
+      "jargon": "Formation of religious concepts",
+      "layman": "Creating new religious ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Creation of a new national myth",
+      "layman": "New national story"
+    },
+    {
+      "jargon": "Modernization of religious consciousness",
+      "layman": "Updated spiritual awareness"
+    },
+    {
+      "jargon": "New religious concepts of history",
+      "layman": "New beliefs about history"
+    },
+    {
+      "jargon": "Formation of new religious ideas",
+      "layman": "New religious beliefs"
+    },
+    {
+      "jargon": "Development of historical consciousness",
+      "layman": "Growing awareness of history"
+    }
+  ]
+}

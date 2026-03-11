@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Civil association",
+      "layman": "Social group based on agreements"
+    },
+    {
+      "jargon": "Contract",
+      "layman": "Agreement between people"
+    },
+    {
+      "jargon": "Enlightenment",
+      "layman": "Historical period of reason and progress"
+    },
+    {
+      "jargon": "Philosophical achievements",
+      "layman": "Major ideas from thinkers"
+    },
+    {
+      "jargon": "Moral philosophers",
+      "layman": "People who study ethics"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theory of civil association",
+      "layman": "Explanation of how societies form"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Thinking through ideas deeply"
+    },
+    {
+      "jargon": "Historical influence",
+      "layman": "How past ideas shape today"
+    },
+    {
+      "jargon": "Intellectual inspiration",
+      "layman": "One idea sparking others"
+    },
+    {
+      "jargon": "Conceptual framework",
+      "layman": "Structure for understanding ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fascination for moral philosophers",
+      "layman": "Strong interest in the topic"
+    },
+    {
+      "jargon": "Inspired later writers",
+      "layman": "Motivated future thinkers"
+    },
+    {
+      "jargon": "Restricted horizons",
+      "layman": "Limited what others could explore"
+    },
+    {
+      "jargon": "Success in theory",
+      "layman": "Strong and accepted explanation"
+    },
+    {
+      "jargon": "Influence on later thought",
+      "layman": "Shaped future ideas"
+    }
+  ]
+}

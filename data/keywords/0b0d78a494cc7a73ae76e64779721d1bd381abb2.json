@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Indivisible good",
+      "layman": "Good that can't be split"
+    },
+    {
+      "jargon": "Social implications",
+      "layman": "Effects on society"
+    },
+    {
+      "jargon": "Individual behavior",
+      "layman": "How people act"
+    },
+    {
+      "jargon": "Winner of an indivisible good",
+      "layman": "Chosen recipient of the good"
+    },
+    {
+      "jargon": "Eligible individuals",
+      "layman": "People who can win"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Model of choice",
+      "layman": "Decision-making framework"
+    },
+    {
+      "jargon": "Quantification",
+      "layman": "Measuring in numbers"
+    },
+    {
+      "jargon": "Distribution",
+      "layman": "Sharing out"
+    },
+    {
+      "jargon": "Societal behavior",
+      "layman": "How society acts"
+    },
+    {
+      "jargon": "Choice among group",
+      "layman": "Picking from a group"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Sense of impartiality",
+      "layman": "Feeling of fairness"
+    },
+    {
+      "jargon": "Individual decisions",
+      "layman": "Personal choices"
+    },
+    {
+      "jargon": "Social behavior patterns",
+      "layman": "Common social actions"
+    },
+    {
+      "jargon": "Fair allocation",
+      "layman": "Even sharing"
+    },
+    {
+      "jargon": "Model implications",
+      "layman": "Real-world effects"
+    }
+  ]
+}

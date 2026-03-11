@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "integrated circuit chip",
+      "layman": "microchip"
+    },
+    {
+      "jargon": "contact pads",
+      "layman": "chip connection points"
+    },
+    {
+      "jargon": "planar insulation card",
+      "layman": "flat insulating base"
+    },
+    {
+      "jargon": "dielectric material",
+      "layman": "non-conductive material"
+    },
+    {
+      "jargon": "fine wires",
+      "layman": "thin metal wires"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "multi-level test probe assembly",
+      "layman": "complex testing setup"
+    },
+    {
+      "jargon": "cantilever",
+      "layman": "wire extending from a support"
+    },
+    {
+      "jargon": "double bent needle",
+      "layman": "wire bent into a point"
+    },
+    {
+      "jargon": "tapered leading end",
+      "layman": "narrowed tip end"
+    },
+    {
+      "jargon": "radial array",
+      "layman": "circular arrangement of wires"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "inwardly displaced pads",
+      "layman": "some pads closer to center"
+    },
+    {
+      "jargon": "engages a respective contact pad",
+      "layman": "touches a chip connection"
+    },
+    {
+      "jargon": "connected to external testing equipment",
+      "layman": "linked to test machine"
+    },
+    {
+      "jargon": "disposed below the central region",
+      "layman": "placed under center"
+    },
+    {
+      "jargon": "supported on a flat face",
+      "layman": "placed on a flat surface"
+    }
+  ]
+}

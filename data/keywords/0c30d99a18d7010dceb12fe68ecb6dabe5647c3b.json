@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Giant gas fields",
+      "layman": "Large natural gas deposits"
+    },
+    {
+      "jargon": "Passive marginal basins",
+      "layman": "Quiet coastal sediment basins"
+    },
+    {
+      "jargon": "Source rocks",
+      "layman": "Rock layers that create gas"
+    },
+    {
+      "jargon": "Reservoirs",
+      "layman": "Gas storage layers"
+    },
+    {
+      "jargon": "Uplifts and anticlines",
+      "layman": "Raised land formations that trap gas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "IHS energy information database",
+      "layman": "Energy data collection system"
+    },
+    {
+      "jargon": "Paleogeography",
+      "layman": "Ancient land shape mapping"
+    },
+    {
+      "jargon": "Rift sequence",
+      "layman": "Fault lines from ancient tectonic splitting"
+    },
+    {
+      "jargon": "Deltaic sedimentation",
+      "layman": "Sediment buildup from river deltas"
+    },
+    {
+      "jargon": "Direct seals",
+      "layman": "Impermeable layers that block gas escape"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Distribution pattern",
+      "layman": "Where gas fields are located"
+    },
+    {
+      "jargon": "Key controlling factors",
+      "layman": "Main reasons for gas location"
+    },
+    {
+      "jargon": "Large scale deltaic sedimentation",
+      "layman": "Big sediment deposits from deltas"
+    },
+    {
+      "jargon": "Gas potential",
+      "layman": "Chance of finding large gas fields"
+    },
+    {
+      "jargon": "Promising exploration target",
+      "layman": "Good place to search for gas"
+    }
+  ]
+}

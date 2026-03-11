@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Weixi-Jinghong fault depression zone",
+      "layman": "Fault depression zone"
+    },
+    {
+      "jargon": "Geological block",
+      "layman": "Large rock mass"
+    },
+    {
+      "jargon": "Mantle",
+      "layman": "Earth's deep layer"
+    },
+    {
+      "jargon": "Earth crust",
+      "layman": "Earth's outer layer"
+    },
+    {
+      "jargon": "Volcanic eruption",
+      "layman": "Lava explosion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Geophysical data",
+      "layman": "Earth measurements"
+    },
+    {
+      "jargon": "Geological comprehensive analysis",
+      "layman": "Full rock study"
+    },
+    {
+      "jargon": "Extension",
+      "layman": "Stretching"
+    },
+    {
+      "jargon": "Volcanism",
+      "layman": "Volcanic activity"
+    },
+    {
+      "jargon": "Sediment formation",
+      "layman": "Layer buildup"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lifting zone",
+      "layman": "Rising area"
+    },
+    {
+      "jargon": "Volcanic eruptions",
+      "layman": "Lava bursts"
+    },
+    {
+      "jargon": "Thick clastic sediment",
+      "layman": "Heavy rock layers"
+    },
+    {
+      "jargon": "Ore deposits",
+      "layman": "Mineral riches"
+    },
+    {
+      "jargon": "Fault depression zone formation",
+      "layman": "Deep sinking area formed"
+    }
+  ]
+}

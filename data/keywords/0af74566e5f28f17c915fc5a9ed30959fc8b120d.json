@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ternary Co\u2013Cu\u2013Pb alloy",
+      "layman": "Three-metal mixture"
+    },
+    {
+      "jargon": "Macrosegregation",
+      "layman": "Large-scale mixing imbalance"
+    },
+    {
+      "jargon": "Core\u2013shell structure",
+      "layman": "Inside-out layering"
+    },
+    {
+      "jargon": "Co-rich core",
+      "layman": "Cobalt-heavy center"
+    },
+    {
+      "jargon": "Cu-rich intermediate layer",
+      "layman": "Copper-heavy middle layer"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Containerless processing",
+      "layman": "No container contact"
+    },
+    {
+      "jargon": "Drop tube",
+      "layman": "Free-fall experiment setup"
+    },
+    {
+      "jargon": "Rapidly solidified droplets",
+      "layman": "Quickly cooled drops"
+    },
+    {
+      "jargon": "EDS analyses",
+      "layman": "Element detection test"
+    },
+    {
+      "jargon": "Peritectic transformation",
+      "layman": "Phase change at boundary"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Phase separation",
+      "layman": "Materials split into layers"
+    },
+    {
+      "jargon": "Monotectic transformation",
+      "layman": "Final two-phase split"
+    },
+    {
+      "jargon": "Pb solute affinity with Cu-rich liquid",
+      "layman": "Lead prefers copper liquid"
+    },
+    {
+      "jargon": "Repulsive interaction with Co-rich liquid",
+      "layman": "Lead avoids cobalt liquid"
+    },
+    {
+      "jargon": "Two successive phase separation events",
+      "layman": "Two step-by-step layer splits"
+    }
+  ]
+}

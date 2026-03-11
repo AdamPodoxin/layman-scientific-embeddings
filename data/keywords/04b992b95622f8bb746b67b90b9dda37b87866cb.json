@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Solution process",
+      "layman": "End-to-end service process"
+    },
+    {
+      "jargon": "Service-oriented business",
+      "layman": "Business focused on services"
+    },
+    {
+      "jargon": "Customer needs",
+      "layman": "What customers require"
+    },
+    {
+      "jargon": "Competitive market",
+      "layman": "Market with many rivals"
+    },
+    {
+      "jargon": "Organisation",
+      "layman": "Business company"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Longitudinal study",
+      "layman": "Study over time"
+    },
+    {
+      "jargon": "Dynamic model",
+      "layman": "Changing model over time"
+    },
+    {
+      "jargon": "Interviews with managers",
+      "layman": "Talking to business leaders"
+    },
+    {
+      "jargon": "Theoretical factors",
+      "layman": "Key elements from research"
+    },
+    {
+      "jargon": "Three-stage process",
+      "layman": "Process in three steps"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Saturated market",
+      "layman": "Market with no room for new players"
+    },
+    {
+      "jargon": "Competitive pressure",
+      "layman": "Pressure to outperform rivals"
+    },
+    {
+      "jargon": "Differentiated offerings",
+      "layman": "Unique product or service"
+    },
+    {
+      "jargon": "Customer co-creation",
+      "layman": "Customers help design the offer"
+    },
+    {
+      "jargon": "Four most important factors",
+      "layman": "Top four key elements"
+    }
+  ]
+}

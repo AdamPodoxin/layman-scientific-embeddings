@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Universe",
+      "layman": "Everything in space and time"
+    },
+    {
+      "jargon": "Earth-Moon distance",
+      "layman": "Space between Earth and Moon"
+    },
+    {
+      "jargon": "Gravitational sources",
+      "layman": "Objects that create gravity"
+    },
+    {
+      "jargon": "Einsteinian metric",
+      "layman": "Standard way of describing gravity"
+    },
+    {
+      "jargon": "Vainshtein mechanism",
+      "layman": "Gravity fix at small scales"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lunar Ranging",
+      "layman": "Measuring distance to Moon with lasers"
+    },
+    {
+      "jargon": "Linearized versions of theories",
+      "layman": "Simple math models of gravity theories"
+    },
+    {
+      "jargon": "Non-linear level",
+      "layman": "Real-world, full physics version"
+    },
+    {
+      "jargon": "Precision gravitational measurements",
+      "layman": "Very accurate gravity tests"
+    },
+    {
+      "jargon": "Van Dam-Veltman-Zakharov discontinuity",
+      "layman": "Gravity gap in simple models"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Small acceleration rate of the Universe",
+      "layman": "Slow speeding up of the universe"
+    },
+    {
+      "jargon": "Predicted corrections to metric",
+      "layman": "Gravity changes predicted by theories"
+    },
+    {
+      "jargon": "Sensitivity of experiments",
+      "layman": "Experiments can detect tiny changes"
+    },
+    {
+      "jargon": "Absence of discontinuity at non-linear level",
+      "layman": "No gap in real gravity behavior"
+    },
+    {
+      "jargon": "Contrary to naive expectation",
+      "layman": "Opposite of what people first thought"
+    }
+  ]
+}

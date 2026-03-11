@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "2,3-Dimethyl-5-hydroxy-6-aminopyrimidine-4(3H)-one",
+      "layman": "Special nitrogen-containing ring compound"
+    },
+    {
+      "jargon": "Copper(II) ions",
+      "layman": "Copper atoms in +2 charge state"
+    },
+    {
+      "jargon": "Molecular oxygen",
+      "layman": "Regular air oxygen"
+    },
+    {
+      "jargon": "Hydroxylation",
+      "layman": "Adding a hydroxyl group"
+    },
+    {
+      "jargon": "Trihydroxy compound",
+      "layman": "Compound with three hydroxyl groups"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "CuCl2-mediated hydroxylation",
+      "layman": "Copper chloride helps add oxygen"
+    },
+    {
+      "jargon": "Catalytic hydroxylation",
+      "layman": "Chemical reaction sped up by a catalyst"
+    },
+    {
+      "jargon": "Aqueous solutions",
+      "layman": "Water-based reactions"
+    },
+    {
+      "jargon": "Non-aqueous solutions",
+      "layman": "Reactions without water"
+    },
+    {
+      "jargon": "Oxygen-mediated reaction",
+      "layman": "Reaction driven by oxygen gas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Formation of 2,3-dimethyl-5,5,6-trihydroxy-6-aminopyrimidine-4(3H)-one",
+      "layman": "New compound with three hydroxyl groups formed"
+    },
+    {
+      "jargon": "Hydroxylation at C5 and C6 positions",
+      "layman": "Oxygen added to specific ring positions"
+    },
+    {
+      "jargon": "Reaction in aqueous phase",
+      "layman": "Reaction works in water"
+    },
+    {
+      "jargon": "Efficient oxygen use",
+      "layman": "Oxygen is used effectively"
+    },
+    {
+      "jargon": "Copper(II) catalysis",
+      "layman": "Copper speeds up the reaction"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Subduction zone",
+      "layman": "Earth's plates pushing under each other"
+    },
+    {
+      "jargon": "Granitoids",
+      "layman": "Hard rock formed from cooled magma"
+    },
+    {
+      "jargon": "Metamorphic rocks",
+      "layman": "Rocks changed by heat and pressure"
+    },
+    {
+      "jargon": "Flysch deposits",
+      "layman": "Layered sedimentary rocks from underwater slopes"
+    },
+    {
+      "jargon": "Accretionary complex",
+      "layman": "Stack of rocks pushed onto a continent"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Geological mapping",
+      "layman": "Mapping rock types and features"
+    },
+    {
+      "jargon": "Geophysical mapping",
+      "layman": "Using instruments to detect underground structures"
+    },
+    {
+      "jargon": "Fault interpretation",
+      "layman": "Identifying cracks in rock that shifted"
+    },
+    {
+      "jargon": "Sedimentary basin formation",
+      "layman": "Creating a basin for sediment to build up"
+    },
+    {
+      "jargon": "Underthrusting migration",
+      "layman": "Movement of subduction zone northward"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Three domains",
+      "layman": "Three distinct rock regions"
+    },
+    {
+      "jargon": "Uplift of melange ridge",
+      "layman": "Ridge of mixed rocks rising above ground"
+    },
+    {
+      "jargon": "Half graben extensional basin",
+      "layman": "Split basin formed by stretching"
+    },
+    {
+      "jargon": "Lacustrine deposits",
+      "layman": "Lake sediment layers"
+    },
+    {
+      "jargon": "South-dipping subduction zone",
+      "layman": "Subduction zone dipping southward"
+    }
+  ]
+}

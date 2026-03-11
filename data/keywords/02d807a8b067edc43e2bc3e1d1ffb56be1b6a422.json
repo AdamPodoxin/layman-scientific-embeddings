@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "General relativity",
+      "layman": "Gravity as curved space and time"
+    },
+    {
+      "jargon": "Space-time",
+      "layman": "Space and time together"
+    },
+    {
+      "jargon": "Black hole",
+      "layman": "Extreme gravity warping space"
+    },
+    {
+      "jargon": "Gravitational waves",
+      "layman": "Ripples in space-time"
+    },
+    {
+      "jargon": "Quasars",
+      "layman": "Bright, distant cosmic objects"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Eclipse measurements",
+      "layman": "Studying starlight bending during eclipses"
+    },
+    {
+      "jargon": "Laboratory experiment",
+      "layman": "Testing in a lab"
+    },
+    {
+      "jargon": "Gravitational wave detection",
+      "layman": "Detecting ripples in space-time"
+    },
+    {
+      "jargon": "Supercomputer simulations",
+      "layman": "Using powerful computers to model events"
+    },
+    {
+      "jargon": "Spectral line shift",
+      "layman": "Measuring changes in light colors"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Bending of starlight",
+      "layman": "Stars appear shifted near the Sun"
+    },
+    {
+      "jargon": "Gravitational redshift",
+      "layman": "Light loses energy and shifts to red"
+    },
+    {
+      "jargon": "Confirmation of theory",
+      "layman": "Theory matches observations"
+    },
+    {
+      "jargon": "Black hole mergers",
+      "layman": "Black holes colliding"
+    },
+    {
+      "jargon": "Quantum gravity",
+      "layman": "Gravity at the smallest scales"
+    }
+  ]
+}

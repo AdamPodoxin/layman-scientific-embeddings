@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "p-Aramid",
+      "layman": "Strong polymer fiber"
+    },
+    {
+      "jargon": "Multi-walled carbon nanotubes",
+      "layman": "Tiny carbon tubes"
+    },
+    {
+      "jargon": "Liquid crystalline phase",
+      "layman": "Ordered liquid state"
+    },
+    {
+      "jargon": "Sulphuric acid",
+      "layman": "Strong acid used in solution"
+    },
+    {
+      "jargon": "Composite",
+      "layman": "Mixed material"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Solution viscosity measurement",
+      "layman": "Measuring how thick a liquid is"
+    },
+    {
+      "jargon": "Opalescence observation",
+      "layman": "Noticing light shimmering"
+    },
+    {
+      "jargon": "Systematic study",
+      "layman": "Step-by-step investigation"
+    },
+    {
+      "jargon": "Optimization",
+      "layman": "Finding best conditions"
+    },
+    {
+      "jargon": "Suspension",
+      "layman": "Mix of solids in liquid"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Merged liquid crystalline phase",
+      "layman": "Combined ordered liquid state"
+    },
+    {
+      "jargon": "First study to report",
+      "layman": "New discovery"
+    },
+    {
+      "jargon": "Strong, light, high-performance fibers",
+      "layman": "Sturdy, lightweight, durable fibers"
+    },
+    {
+      "jargon": "Fundamental insights",
+      "layman": "Basic understanding"
+    },
+    {
+      "jargon": "High-performance polymeric composite fibers",
+      "layman": "Strong fiber made from plastics"
+    }
+  ]
+}

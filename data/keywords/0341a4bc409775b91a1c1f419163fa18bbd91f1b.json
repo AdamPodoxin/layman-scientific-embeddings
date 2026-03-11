@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Solitons",
+      "layman": "Stable wave packets"
+    },
+    {
+      "jargon": "Two-Higgs extensions",
+      "layman": "Models with extra Higgs fields"
+    },
+    {
+      "jargon": "Quasi-topological solitons",
+      "layman": "Nearly topological stable structures"
+    },
+    {
+      "jargon": "Field theoretical models",
+      "layman": "Mathematical physics models"
+    },
+    {
+      "jargon": "Condensed matter physics",
+      "layman": "Physics of solids and materials"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Search for",
+      "layman": "Look for"
+    },
+    {
+      "jargon": "Realistic field theoretical models",
+      "layman": "Realistic physics simulations"
+    },
+    {
+      "jargon": "Various dimensions",
+      "layman": "Different spatial sizes"
+    },
+    {
+      "jargon": "Experimental search",
+      "layman": "Testing in experiments"
+    },
+    {
+      "jargon": "Theoretical modeling",
+      "layman": "Building physics models"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Status of our search",
+      "layman": "Current results of the search"
+    },
+    {
+      "jargon": "Various dimensions",
+      "layman": "Multiple sizes detected"
+    },
+    {
+      "jargon": "Quasi-topological solitons",
+      "layman": "Stable structures found"
+    },
+    {
+      "jargon": "Realistic field theoretical models",
+      "layman": "Models that match reality"
+    },
+    {
+      "jargon": "Elementary particle physics",
+      "layman": "Study of fundamental particles"
+    }
+  ]
+}

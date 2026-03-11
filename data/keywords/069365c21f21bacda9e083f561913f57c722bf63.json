@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sturzebecker's atlas",
+      "layman": "Sturzebecker's atlas"
+    },
+    {
+      "jargon": "Athletic-cultural archaeological cities",
+      "layman": "Ancient cities linked to sports and culture"
+    },
+    {
+      "jargon": "Greco-Roman world",
+      "layman": "Ancient Greece and Rome"
+    },
+    {
+      "jargon": "Photo-atlas",
+      "layman": "Photo atlas"
+    },
+    {
+      "jargon": "Archaeological cities",
+      "layman": "Ancient cities studied by archaeologists"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Photo-atlas compilation",
+      "layman": "Creating a photo-based map collection"
+    },
+    {
+      "jargon": "Archaeological documentation",
+      "layman": "Recording ancient sites with photos"
+    },
+    {
+      "jargon": "Cultural analysis",
+      "layman": "Studying cultural practices in ancient times"
+    },
+    {
+      "jargon": "Athletic site mapping",
+      "layman": "Mapping ancient sports venues"
+    },
+    {
+      "jargon": "Historical interpretation",
+      "layman": "Understanding history through evidence"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Comprehensive visual record",
+      "layman": "Full photo record"
+    },
+    {
+      "jargon": "Urban spatial patterns",
+      "layman": "How ancient cities were laid out"
+    },
+    {
+      "jargon": "Cultural continuity",
+      "layman": "Long-lasting cultural traditions"
+    },
+    {
+      "jargon": "Athletic heritage",
+      "layman": "Legacy of ancient sports"
+    },
+    {
+      "jargon": "Archaeological insight",
+      "layman": "Deeper understanding of ancient life"
+    }
+  ]
+}

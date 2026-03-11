@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "American novelists",
+      "layman": "American writers"
+    },
+    {
+      "jargon": "French-American diplomatic squabble",
+      "layman": "U.S.-France political conflict"
+    },
+    {
+      "jargon": "Academic",
+      "layman": "University professor"
+    },
+    {
+      "jargon": "Sexual excesses",
+      "layman": "Uncontrolled sexual behavior"
+    },
+    {
+      "jargon": "Abraham Lincoln",
+      "layman": "16th U.S. president"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Framed narrative",
+      "layman": "Story told within a story"
+    },
+    {
+      "jargon": "Literary analysis",
+      "layman": "Interpreting a book's meaning"
+    },
+    {
+      "jargon": "Evocation",
+      "layman": "Mentioning or recalling something"
+    },
+    {
+      "jargon": "Historical reference",
+      "layman": "Citing past events"
+    },
+    {
+      "jargon": "Collaboration",
+      "layman": "Working together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Anti-French tenor",
+      "layman": "Strong dislike of France"
+    },
+    {
+      "jargon": "Shared plot",
+      "layman": "Same story structure"
+    },
+    {
+      "jargon": "Cultural sanctimony",
+      "layman": "Excessive moral superiority"
+    },
+    {
+      "jargon": "Price to be paid",
+      "layman": "Cost of a decision"
+    },
+    {
+      "jargon": "Idiosyncratic sculpture",
+      "layman": "Strange or unusual artwork"
+    }
+  ]
+}

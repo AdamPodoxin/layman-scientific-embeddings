@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Time-triggered languages",
+      "layman": "Languages for real-time system timing"
+    },
+    {
+      "jargon": "System activities",
+      "layman": "System actions"
+    },
+    {
+      "jargon": "Controlled object",
+      "layman": "Object being monitored"
+    },
+    {
+      "jargon": "Temporal behavior",
+      "layman": "How system behaves over time"
+    },
+    {
+      "jargon": "Multi-modal systems",
+      "layman": "Systems with multiple modes of operation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Scheduling analysis",
+      "layman": "Planning when tasks run"
+    },
+    {
+      "jargon": "Processor demand",
+      "layman": "Amount of processing needed"
+    },
+    {
+      "jargon": "Processor utilization factor",
+      "layman": "How much processor is used"
+    },
+    {
+      "jargon": "Timing verification",
+      "layman": "Checking if timing is correct"
+    },
+    {
+      "jargon": "Adapting scheduling analysis",
+      "layman": "Changing how scheduling is done"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Flexible framework",
+      "layman": "More adaptable system design"
+    },
+    {
+      "jargon": "Overcome limitations",
+      "layman": "Fix existing problems"
+    },
+    {
+      "jargon": "Value and time deterministic programming",
+      "layman": "Predictable timing and behavior"
+    },
+    {
+      "jargon": "System reactivity",
+      "layman": "System's responsiveness"
+    },
+    {
+      "jargon": "Multi-modular real-time systems",
+      "layman": "Complex systems with many parts and timing needs"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hybrid Facility",
+      "layman": "Mixed technology facility"
+    },
+    {
+      "jargon": "Automated Maintenance Procedures",
+      "layman": "Self-running repair routines"
+    },
+    {
+      "jargon": "Boeing Company",
+      "layman": "Boeing Company"
+    },
+    {
+      "jargon": "International Business Machines",
+      "layman": "IBM"
+    },
+    {
+      "jargon": "Analog and linkage portions",
+      "layman": "Old-school and connection-based systems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Joint development effort",
+      "layman": "Shared project between companies"
+    },
+    {
+      "jargon": "Digital System maintenance",
+      "layman": "Keeping digital systems running"
+    },
+    {
+      "jargon": "Analog systems",
+      "layman": "Traditional, non-digital systems"
+    },
+    {
+      "jargon": "Linkage portions",
+      "layman": "Connected system parts"
+    },
+    {
+      "jargon": "Automated procedures",
+      "layman": "Machine-driven processes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hybrid diagnostic techniques",
+      "layman": "Mixed testing methods"
+    },
+    {
+      "jargon": "Responsibility division",
+      "layman": "Split duties between companies"
+    },
+    {
+      "jargon": "System integration",
+      "layman": "Combining different systems"
+    },
+    {
+      "jargon": "Maintenance by IBM",
+      "layman": "IBM handles repairs"
+    },
+    {
+      "jargon": "Boeing manages analog parts",
+      "layman": "Boeing runs old systems"
+    }
+  ]
+}

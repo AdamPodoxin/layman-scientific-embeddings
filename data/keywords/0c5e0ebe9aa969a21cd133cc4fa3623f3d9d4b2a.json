@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Conformal factor",
+      "layman": "Shape factor of gravity"
+    },
+    {
+      "jargon": "Gravitons",
+      "layman": "Gravity particles"
+    },
+    {
+      "jargon": "Lorentz manifolds",
+      "layman": "Spacetime shapes"
+    },
+    {
+      "jargon": "Isotropic hypersurfaces",
+      "layman": "Symmetrical surfaces in space"
+    },
+    {
+      "jargon": "Energy-momentum tensor",
+      "layman": "Gravity's energy and motion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Wightman axiom framework",
+      "layman": "Mathematical rules for quantum fields"
+    },
+    {
+      "jargon": "Foliation",
+      "layman": "Splitting spacetime into layers"
+    },
+    {
+      "jargon": "Quantize",
+      "layman": "Turn physics into math for quantum rules"
+    },
+    {
+      "jargon": "Cross-checking",
+      "layman": "Comparing results to verify"
+    },
+    {
+      "jargon": "Cosmological functions",
+      "layman": "Functions describing universe's behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Gravitational waves without gravitons",
+      "layman": "Gravity waves without particles"
+    },
+    {
+      "jargon": "Vacuum described by two cosmological functions",
+      "layman": "Empty space defined by two rules"
+    },
+    {
+      "jargon": "Severe restrictions on energy-momentum tensor",
+      "layman": "Strict limits on gravity's energy"
+    },
+    {
+      "jargon": "No massless particle flow",
+      "layman": "No light-like particle movement"
+    },
+    {
+      "jargon": "Primordial quantum cosmological scenario",
+      "layman": "Early universe's quantum setup"
+    }
+  ]
+}

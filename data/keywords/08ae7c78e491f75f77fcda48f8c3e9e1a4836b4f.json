@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cartographic Curiosity",
+      "layman": "Strange or interesting map"
+    },
+    {
+      "jargon": "Sugar Island",
+      "layman": "Island where sugar was produced"
+    },
+    {
+      "jargon": "Montserrat",
+      "layman": "Caribbean island"
+    },
+    {
+      "jargon": "Colonial period",
+      "layman": "Time when European powers ruled colonies"
+    },
+    {
+      "jargon": "Spatial distortion",
+      "layman": "Map that is stretched or bent"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cartometry",
+      "layman": "Measuring map accuracy"
+    },
+    {
+      "jargon": "Documentary research",
+      "layman": "Studying old records"
+    },
+    {
+      "jargon": "Field study",
+      "layman": "On-the-ground research"
+    },
+    {
+      "jargon": "Archaeological field research",
+      "layman": "Digging to find old things"
+    },
+    {
+      "jargon": "Correcting spatial distortion",
+      "layman": "Fixing map shape errors"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "High accuracy",
+      "layman": "Very precise measurements"
+    },
+    {
+      "jargon": "Freeze frame of colonial agency",
+      "layman": "Snapshot of colonial power"
+    },
+    {
+      "jargon": "Reap valuable information",
+      "layman": "Get useful data"
+    },
+    {
+      "jargon": "Supposed unreliable source",
+      "layman": "Map thought to be inaccurate"
+    },
+    {
+      "jargon": "Graphic depictions",
+      "layman": "Visual representations"
+    }
+  ]
+}

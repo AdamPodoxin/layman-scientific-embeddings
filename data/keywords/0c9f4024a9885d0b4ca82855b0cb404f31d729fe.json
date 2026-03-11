@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nuclear matter",
+      "layman": "Material inside atomic nuclei"
+    },
+    {
+      "jargon": "Quark-gluon plasma",
+      "layman": "Hot soup of quarks and gluons"
+    },
+    {
+      "jargon": "Pb+Pb collisions",
+      "layman": "Lead-lead particle collisions"
+    },
+    {
+      "jargon": "Pion pairs",
+      "layman": "Pairs of pion particles"
+    },
+    {
+      "jargon": "Space-time geometries",
+      "layman": "Shapes of space and time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Relativistic hydrodynamical model",
+      "layman": "Model of fluid-like nuclear behavior"
+    },
+    {
+      "jargon": "HYLANDER-C",
+      "layman": "Hydrodynamics model used in simulation"
+    },
+    {
+      "jargon": "Bose-Einstein correlation functions",
+      "layman": "Measure of particle pair clustering"
+    },
+    {
+      "jargon": "Momentum spectra",
+      "layman": "Distribution of particle speeds"
+    },
+    {
+      "jargon": "Phase transition",
+      "layman": "Change from one state to another"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Equation of state",
+      "layman": "Rule for how matter behaves under pressure"
+    },
+    {
+      "jargon": "Preliminary data",
+      "layman": "Early experimental results"
+    },
+    {
+      "jargon": "Strongly different geometries",
+      "layman": "Very different space-time shapes"
+    },
+    {
+      "jargon": "Significant sensitivity",
+      "layman": "Clear response to changes"
+    },
+    {
+      "jargon": "Reproduce data",
+      "layman": "Match experimental results"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Organizational unethical behavior",
+      "layman": "Unethical actions by companies"
+    },
+    {
+      "jargon": "Stock market",
+      "layman": "Stock market"
+    },
+    {
+      "jargon": "Stock performance",
+      "layman": "Stock price changes"
+    },
+    {
+      "jargon": "Organizational context",
+      "layman": "Company environment"
+    },
+    {
+      "jargon": "News of unethical behavior",
+      "layman": "Reports of company misconduct"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Develop and test a model",
+      "layman": "Create and evaluate a theory"
+    },
+    {
+      "jargon": "Extend understanding",
+      "layman": "Improve current knowledge"
+    },
+    {
+      "jargon": "Take into account",
+      "layman": "Consider factors"
+    },
+    {
+      "jargon": "Analyze reactions",
+      "layman": "Study public responses"
+    },
+    {
+      "jargon": "Test a model",
+      "layman": "Validate a theory with data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Stock performance impact",
+      "layman": "Effect on stock prices"
+    },
+    {
+      "jargon": "Market responses",
+      "layman": "How markets react"
+    },
+    {
+      "jargon": "Behavioral reactions",
+      "layman": "People's reactions"
+    },
+    {
+      "jargon": "Model validation",
+      "layman": "Prove the model works"
+    },
+    {
+      "jargon": "Impact assessment",
+      "layman": "Measure the effect"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Loan-portfolio quality",
+      "layman": "Quality of bank loans"
+    },
+    {
+      "jargon": "Technological innovation",
+      "layman": "New technology in banking"
+    },
+    {
+      "jargon": "Credit-risk assessment",
+      "layman": "Evaluating loan risk"
+    },
+    {
+      "jargon": "Regulatory standards",
+      "layman": "Rules set by regulators"
+    },
+    {
+      "jargon": "Capital-adequacy standards",
+      "layman": "Bank capital rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Diffusion of innovation",
+      "layman": "Spreading of new tech"
+    },
+    {
+      "jargon": "Regulatory mandates",
+      "layman": "Rules forcing banks to act"
+    },
+    {
+      "jargon": "Intellectual property rights",
+      "layman": "Rights to own new inventions"
+    },
+    {
+      "jargon": "Patenting",
+      "layman": "Protecting inventions with patents"
+    },
+    {
+      "jargon": "Policy commitment",
+      "layman": "Regulators sticking to rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Tension between risk and innovation",
+      "layman": "Conflict between safety and progress"
+    },
+    {
+      "jargon": "Lower aggregate banking risk",
+      "layman": "Safer banking system"
+    },
+    {
+      "jargon": "Incentives to innovate ex ante",
+      "layman": "Motivation to create new tech before"
+    },
+    {
+      "jargon": "Optimal level of innovation",
+      "layman": "Best amount of new tech"
+    },
+    {
+      "jargon": "Restriction of technology diffusion",
+      "layman": "Limiting how fast tech spreads"
+    }
+  ]
+}

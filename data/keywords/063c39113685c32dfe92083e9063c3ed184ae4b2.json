@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Smarandache sequences",
+      "layman": "Special number patterns"
+    },
+    {
+      "jargon": "Computer Algebra System",
+      "layman": "Math software"
+    },
+    {
+      "jargon": "Conjectures",
+      "layman": "Unproven hypotheses"
+    },
+    {
+      "jargon": "Numbers",
+      "layman": "Digits or values"
+    },
+    {
+      "jargon": "Mathematical problems",
+      "layman": "Hard math puzzles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Computer Algebra System",
+      "layman": "Math software"
+    },
+    {
+      "jargon": "Solutions are discovered",
+      "layman": "Answers are found"
+    },
+    {
+      "jargon": "Related problems",
+      "layman": "Connected math issues"
+    },
+    {
+      "jargon": "Explorations",
+      "layman": "Investigations"
+    },
+    {
+      "jargon": "Analysis",
+      "layman": "Breaking down to understand"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Solutions are discovered",
+      "layman": "Answers are found"
+    },
+    {
+      "jargon": "Conjectures presented",
+      "layman": "Guesses shared"
+    },
+    {
+      "jargon": "Related problems",
+      "layman": "Connected math issues"
+    },
+    {
+      "jargon": "Explorations",
+      "layman": "Investigations"
+    },
+    {
+      "jargon": "Mathematical patterns",
+      "layman": "Repeating number trends"
+    }
+  ]
+}

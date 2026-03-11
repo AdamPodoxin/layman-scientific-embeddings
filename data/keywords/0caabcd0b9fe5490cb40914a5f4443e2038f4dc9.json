@@ -1,0 +1,65 @@
+{
+  "core_entities": [
+    {
+      "jargon": "State of Israel",
+      "layman": "Israel as a nation"
+    },
+    {
+      "jargon": "Knesset",
+      "layman": "Israeli parliament"
+    },
+    {
+      "jargon": "Kadima Party",
+      "layman": "Israeli political party"
+    },
+    {
+      "jargon": "United States",
+      "layman": "U.S."
+    },
+    {
+      "jargon": "Hezbollah",
+      "layman": "Lebanese militant group"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Peace treaties",
+      "layman": "Formal peace agreements"
+    },
+    {
+      "jargon": "Military offensive",
+      "layman": "Large military attack"
+    },
+    "unilateral withdrawal",
+    {
+      "jargon": "Bilateral negotiations",
+      "layman": "Two-country talks"
+    },
+    {
+      "jargon": "International conference",
+      "layman": "Global meeting to discuss issues"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Advanced industrial economy",
+      "layman": "Strong industrial economy"
+    },
+    {
+      "jargon": "Fragile governments",
+      "layman": "Unstable political leadership"
+    },
+    {
+      "jargon": "Existential threat",
+      "layman": "Major danger to survival"
+    },
+    {
+      "jargon": "Security barrier",
+      "layman": "Physical wall for security"
+    },
+    {
+      "jargon": "Two-state solution",
+      "layman": "Two separate nations for Israelis and Palestinians"
+    }
+  ]
+}

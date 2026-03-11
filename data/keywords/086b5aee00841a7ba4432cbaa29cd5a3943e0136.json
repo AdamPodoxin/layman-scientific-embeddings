@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Commercial systems development",
+      "layman": "Building commercial products"
+    },
+    {
+      "jargon": "Jet transports",
+      "layman": "Airplanes that fly fast"
+    },
+    {
+      "jargon": "Boeing 777",
+      "layman": "Boeing 777"
+    },
+    {
+      "jargon": "Systems engineering",
+      "layman": "Managing complex projects"
+    },
+    {
+      "jargon": "Large jet transports",
+      "layman": "Big passenger airplanes"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Systems engineering discipline",
+      "layman": "Structured project management"
+    },
+    {
+      "jargon": "Design process",
+      "layman": "Creating blueprints"
+    },
+    {
+      "jargon": "Cost and cycle time management",
+      "layman": "Controlling expenses and speed"
+    },
+    {
+      "jargon": "Testing to limits",
+      "layman": "Pushing systems to their max"
+    },
+    {
+      "jargon": "Business issues integration",
+      "layman": "Balancing profits and speed"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Excellence in engineering",
+      "layman": "High-quality results"
+    },
+    {
+      "jargon": "Advances in development process",
+      "layman": "Better ways to build"
+    },
+    {
+      "jargon": "Lessons learned",
+      "layman": "Key takeaways from experience"
+    },
+    {
+      "jargon": "Insights for defence applications",
+      "layman": "Useful for military projects"
+    },
+    {
+      "jargon": "Meeting business demands",
+      "layman": "Delivering on cost and time"
+    }
+  ]
+}

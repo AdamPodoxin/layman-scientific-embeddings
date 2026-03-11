@@ -1,46 +1,46 @@
 {
   "core_entities": [
     {
-      "jargon": "Self-referential problem solvers",
-      "layman": "Systems that rewrite themselves"
+      "jargon": "Goedel Machines",
+      "layman": "Self-referential problem solvers"
     },
     {
-      "jargon": "Proof searchers",
-      "layman": "Tools that find mathematical proofs"
-    },
-    {
-      "jargon": "Optimally efficient problem solvers",
-      "layman": "Perfectly efficient solvers"
+      "jargon": "Self-referential formulas",
+      "layman": "Formulas that refer to themselves"
     },
     {
       "jargon": "Utility function",
       "layman": "Measure of usefulness"
     },
     {
-      "jargon": "Initial code",
-      "layman": "Starting program"
+      "jargon": "Initial proof searcher",
+      "layman": "First program that finds proofs"
+    },
+    {
+      "jargon": "Self-rewrite",
+      "layman": "Changing its own code"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Self-rewrite",
-      "layman": "Rewriting itself"
-    },
-    {
-      "jargon": "Proof techniques",
-      "layman": "Methods to find proofs"
-    },
-    {
-      "jargon": "Systematic proof search",
-      "layman": "Step-by-step proof testing"
+      "jargon": "Proof search",
+      "layman": "Searching for mathematical proofs"
     },
     {
       "jargon": "Computable proof techniques",
-      "layman": "Provable proof methods"
+      "layman": "Provable methods for solving problems"
     },
     {
-      "jargon": "Hardware integration",
-      "layman": "Using computer hardware"
+      "jargon": "Systematic testing",
+      "layman": "Methodical checking of options"
+    },
+    {
+      "jargon": "Self-improvement through rewriting",
+      "layman": "Improving itself by changing code"
+    },
+    {
+      "jargon": "Optimally efficient problem solving",
+      "layman": "Solving problems with minimal effort"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "No local maxima",
-      "layman": "Never gets stuck"
-    },
-    {
-      "jargon": "Optimal order of complexity",
-      "layman": "Best efficiency level"
-    },
-    {
-      "jargon": "Reduces slowdowns",
-      "layman": "Speeds up performance"
+      "layman": "Never gets stuck in a suboptimal state"
     },
     {
       "jargon": "Provable speed-ups",
-      "layman": "Speed gains that can be shown"
+      "layman": "Speed improvements that can be shown to work"
+    },
+    {
+      "jargon": "Reduction of slowdowns",
+      "layman": "Fixing hidden delays"
+    },
+    {
+      "jargon": "Optimal order of complexity",
+      "layman": "Most efficient in terms of resources"
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Information retrieval systems",
+      "layman": "Search systems"
+    },
+    {
+      "jargon": "Collaboration",
+      "layman": "Working together"
+    },
+    {
+      "jargon": "Graphical representation",
+      "layman": "Visual diagram"
+    },
+    {
+      "jargon": "Search process",
+      "layman": "How people find information"
+    },
+    {
+      "jargon": "Coping behaviour",
+      "layman": "How users handle problems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Graphical representation",
+      "layman": "Visual diagram"
+    },
+    {
+      "jargon": "System design",
+      "layman": "Building a system"
+    },
+    {
+      "jargon": "User manipulation",
+      "layman": "Letting users change things"
+    },
+    {
+      "jargon": "Dialogue notation",
+      "layman": "Using interface to support talk"
+    },
+    {
+      "jargon": "Help-giving",
+      "layman": "Offering help to others"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved effectiveness",
+      "layman": "Better results"
+    },
+    {
+      "jargon": "User learning",
+      "layman": "Users learn more"
+    },
+    {
+      "jargon": "Recovery from failure",
+      "layman": "Fixing when things go wrong"
+    },
+    {
+      "jargon": "Support for intelligent agents",
+      "layman": "Helping smart tools work"
+    },
+    {
+      "jargon": "Active support",
+      "layman": "System helps users directly"
+    }
+  ]
+}

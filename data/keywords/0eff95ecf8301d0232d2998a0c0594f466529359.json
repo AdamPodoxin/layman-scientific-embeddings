@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Economic agents",
+      "layman": "Individuals or businesses making economic choices"
+    },
+    {
+      "jargon": "Countercyclical fiscal policy",
+      "layman": "Government spending to balance economic ups and downs"
+    },
+    {
+      "jargon": "Imaginary goods",
+      "layman": "Goods people want but can't afford or don't truly need"
+    },
+    {
+      "jargon": "Planning mentality",
+      "layman": "Belief that governments can plan economies better than markets"
+    },
+    {
+      "jargon": "Public ignorance",
+      "layman": "Government's lack of knowledge about economic realities"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Corrective learning mechanisms",
+      "layman": "Market adjustments after mistakes"
+    },
+    {
+      "jargon": "Public-choice analysis",
+      "layman": "Studying how government decisions are made"
+    },
+    {
+      "jargon": "Paternalistic corrections",
+      "layman": "Government fixing people's choices for them"
+    },
+    {
+      "jargon": "Government intervention",
+      "layman": "Government stepping in to manage markets"
+    },
+    {
+      "jargon": "Economic planning",
+      "layman": "Government designing economic systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Market self-correction",
+      "layman": "Markets fix errors on their own"
+    },
+    {
+      "jargon": "Public-ignorance problems",
+      "layman": "Government fails due to poor knowledge"
+    },
+    {
+      "jargon": "Leftist economic ideas",
+      "layman": "Economic views favoring government control"
+    },
+    {
+      "jargon": "Government failure to correct cycles",
+      "layman": "Government can't fix economic downturns"
+    },
+    {
+      "jargon": "Hayek's abandonment of public ignorance",
+      "layman": "Hayek focused on planning instead of government knowledge limits"
+    }
+  ]
+}

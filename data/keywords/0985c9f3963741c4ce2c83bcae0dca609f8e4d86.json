@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "acute lung injury",
+      "layman": "severe lung damage"
+    },
+    {
+      "jargon": "aspirin therapy",
+      "layman": "taking aspirin for health"
+    },
+    {
+      "jargon": "at-risk patients",
+      "layman": "people with health risks"
+    },
+    {
+      "jargon": "hospitalization",
+      "layman": "being admitted to hospital"
+    },
+    {
+      "jargon": "propensity score",
+      "layman": "likelihood of getting treatment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "multicenter observational study",
+      "layman": "study across many hospitals"
+    },
+    {
+      "jargon": "prospective cohort investigation",
+      "layman": "long-term patient tracking"
+    },
+    {
+      "jargon": "univariate analysis",
+      "layman": "simple group comparison"
+    },
+    {
+      "jargon": "stratified analysis",
+      "layman": "grouping patients by risk level"
+    },
+    {
+      "jargon": "Cochran-Mantel-Haenszel pooled OR",
+      "layman": "adjusted statistical comparison"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "odds ratio",
+      "layman": "risk comparison"
+    },
+    {
+      "jargon": "95% confidence interval",
+      "layman": "range of likely values"
+    },
+    {
+      "jargon": "p-value",
+      "layman": "statistical significance"
+    },
+    {
+      "jargon": "intensive care unit mortality",
+      "layman": "death in ICU"
+    },
+    {
+      "jargon": "length of stay",
+      "layman": "how long in hospital"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Customs unions",
+      "layman": "Trade groups with shared borders and rules"
+    },
+    {
+      "jargon": "Free trade areas",
+      "layman": "Regions with reduced trade barriers"
+    },
+    {
+      "jargon": "Tariff-ridden equilibrium",
+      "layman": "Trade balance with high import taxes"
+    },
+    {
+      "jargon": "Economic growth",
+      "layman": "Increase in a country's output"
+    },
+    {
+      "jargon": "Two sectors",
+      "layman": "Two main parts of the economy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dynamic effects",
+      "layman": "Long-term trade impacts"
+    },
+    {
+      "jargon": "Neoclassical framework",
+      "layman": "Simple economic model with clear rules"
+    },
+    {
+      "jargon": "Endogenous growth",
+      "layman": "Growth driven by internal factors"
+    },
+    {
+      "jargon": "Time-based policies",
+      "layman": "Trade rules that change over time"
+    },
+    {
+      "jargon": "Growth models",
+      "layman": "Mathematical tools to study growth"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Trade creation",
+      "layman": "More goods available due to trade"
+    },
+    {
+      "jargon": "Trade diversion",
+      "layman": "Goods shifting from one market to another"
+    },
+    {
+      "jargon": "Second best",
+      "layman": "Best possible outcome under real-world limits"
+    },
+    {
+      "jargon": "No increasing returns",
+      "layman": "No sudden gains from scale"
+    },
+    {
+      "jargon": "No bequest motives",
+      "layman": "No desire to pass wealth to heirs"
+    }
+  ]
+}

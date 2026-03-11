@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Motorcycle maintenance",
+      "layman": "Fixing and caring for a motorcycle"
+    },
+    {
+      "jargon": "Generational impact",
+      "layman": "Influence across time"
+    },
+    {
+      "jargon": "Touchstone",
+      "layman": "A lasting reference point"
+    },
+    {
+      "jargon": "Bestseller",
+      "layman": "A book that sells a lot"
+    },
+    {
+      "jargon": "Modern epic",
+      "layman": "A major cultural story"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Rejected by 121 publishers",
+      "layman": "Turned down by many publishers"
+    },
+    {
+      "jargon": "Writing process",
+      "layman": "Creating a book over time"
+    },
+    {
+      "jargon": "Publication",
+      "layman": "Releasing a book to the public"
+    },
+    {
+      "jargon": "Typographical changes",
+      "layman": "Editing text formatting"
+    },
+    {
+      "jargon": "New Introduction",
+      "layman": "Fresh author commentary"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Instant bestseller",
+      "layman": "Rapidly became popular"
+    },
+    {
+      "jargon": "Acclaimed",
+      "layman": "Highly praised"
+    },
+    {
+      "jargon": "Inspire millions",
+      "layman": "Motivate many people"
+    },
+    {
+      "jargon": "Established as touchstone",
+      "layman": "Became a key reference"
+    },
+    {
+      "jargon": "Revealed original intention",
+      "layman": "Shared true purpose"
+    }
+  ]
+}

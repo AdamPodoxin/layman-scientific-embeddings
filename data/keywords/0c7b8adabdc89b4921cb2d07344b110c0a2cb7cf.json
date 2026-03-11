@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "State aids",
+      "layman": "Government subsidies to industries"
+    },
+    {
+      "jargon": "Supranational intervention",
+      "layman": "International rules on government spending"
+    },
+    {
+      "jargon": "Politicians",
+      "layman": "Government leaders"
+    },
+    {
+      "jargon": "Voters",
+      "layman": "People who vote"
+    },
+    {
+      "jargon": "Wasteful spending",
+      "layman": "Money spent without clear benefit"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Signaling mechanism",
+      "layman": "Sending signals to show effort"
+    },
+    {
+      "jargon": "Rational voting",
+      "layman": "Voters making smart choices"
+    },
+    {
+      "jargon": "Domestic political accountability",
+      "layman": "Government leaders answer to citizens"
+    },
+    {
+      "jargon": "Modeling",
+      "layman": "Creating a simplified version of reality"
+    },
+    {
+      "jargon": "Transfrontier spillovers",
+      "layman": "Effects that cross national borders"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Wasteful spending as a by-product",
+      "layman": "Unnecessary spending caused by accountability"
+    },
+    {
+      "jargon": "Curbing state aids",
+      "layman": "Reducing government subsidies"
+    },
+    {
+      "jargon": "Supranational state aid control",
+      "layman": "International rules on subsidies"
+    },
+    {
+      "jargon": "Political signaling",
+      "layman": "Leaders showing they're hardworking"
+    },
+    {
+      "jargon": "Voter reward",
+      "layman": "Voters giving leaders credit for effort"
+    }
+  ]
+}

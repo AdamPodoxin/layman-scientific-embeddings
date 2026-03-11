@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Qualitative optimization problems",
+      "layman": "Preference-based decision problems"
+    },
+    {
+      "jargon": "Generator",
+      "layman": "Outcome space model"
+    },
+    {
+      "jargon": "Selector",
+      "layman": "Preference model"
+    },
+    {
+      "jargon": "Propositional theory",
+      "layman": "Set of logical statements"
+    },
+    {
+      "jargon": "Answer-set semantics",
+      "layman": "Logic-based solution model"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Standard propositional logic semantics",
+      "layman": "Normal logic interpretation"
+    },
+    {
+      "jargon": "Equilibrium-model semantics",
+      "layman": "Stable solution approach"
+    },
+    {
+      "jargon": "Modular representation",
+      "layman": "Building blocks for models"
+    },
+    {
+      "jargon": "Rewriting techniques",
+      "layman": "Simplifying model rules"
+    },
+    {
+      "jargon": "Strong equivalence",
+      "layman": "Same meaning in all contexts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strong equivalence",
+      "layman": "Interchangeable results"
+    },
+    {
+      "jargon": "Optimization problem generalization",
+      "layman": "Broader problem class"
+    },
+    {
+      "jargon": "Reasoning tasks complexity",
+      "layman": "Hardness of analysis"
+    },
+    {
+      "jargon": "Preference theories",
+      "layman": "How choices are ranked"
+    },
+    {
+      "jargon": "Interchangeability within context",
+      "layman": "Same effect in different settings"
+    }
+  ]
+}

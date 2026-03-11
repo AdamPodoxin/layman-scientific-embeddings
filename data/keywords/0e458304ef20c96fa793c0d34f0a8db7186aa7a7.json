@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Language images",
+      "layman": "Visual representations of language"
+    },
+    {
+      "jargon": "Language politics",
+      "layman": "How language is used in power struggles"
+    },
+    {
+      "jargon": "Ukrainian identity",
+      "layman": "Ukrainian national identity"
+    },
+    {
+      "jargon": "Historical burden",
+      "layman": "Past history's lasting impact"
+    },
+    {
+      "jargon": "Contestation",
+      "layman": "Ongoing conflict or debate"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Visual analysis",
+      "layman": "Analyzing images"
+    },
+    {
+      "jargon": "Discourse analysis",
+      "layman": "Studying how language is used in conversations"
+    },
+    {
+      "jargon": "Identity mapping",
+      "layman": "Linking language to identity"
+    },
+    {
+      "jargon": "Historical interpretation",
+      "layman": "Understanding the past through context"
+    },
+    {
+      "jargon": "Political symbolism",
+      "layman": "Using symbols to represent political views"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Language contestation",
+      "layman": "Debate over language use"
+    },
+    {
+      "jargon": "Identity fragmentation",
+      "layman": "Splitting of national identity"
+    },
+    {
+      "jargon": "Cultural memory",
+      "layman": "Shared memories of culture"
+    },
+    {
+      "jargon": "National belonging",
+      "layman": "Feeling of being part of a nation"
+    },
+    {
+      "jargon": "Historical legacy",
+      "layman": "Lasting influence of the past"
+    }
+  ]
+}

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Fixed capital",
-      "layman": "Long-term production tools"
+      "jargon": "Public enterprise",
+      "layman": "Government-run businesses"
     },
     {
-      "jargon": "Social production",
-      "layman": "Group-based production"
+      "jargon": "Public works",
+      "layman": "Government-built infrastructure"
     },
     {
-      "jargon": "Communal conditions",
-      "layman": "Shared social conditions"
+      "jargon": "Social fixed capital",
+      "layman": "Shared societal infrastructure"
+    },
+    {
+      "jargon": "Means of communication",
+      "layman": "Tools for sharing information"
+    },
+    {
+      "jargon": "Physical conditions of circulation",
+      "layman": "Infrastructure for moving goods"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Production of fixed capital",
+      "layman": "Creating long-term assets"
+    },
+    {
+      "jargon": "Communal conditions of social production",
+      "layman": "Shared conditions for society to produce"
+    },
+    {
+      "jargon": "Capital relation",
+      "layman": "How money relates to production"
     },
     {
       "jargon": "Particular capital",
-      "layman": "Specific business capital"
+      "layman": "Individual business investment"
     },
     {
       "jargon": "Production process",
       "layman": "How goods are made"
     }
   ],
-  "methodologies": [
-    {
-      "jargon": "Digression",
-      "layman": "Side topic shift"
-    },
-    {
-      "jargon": "Incidentally",
-      "layman": "By chance"
-    },
-    {
-      "jargon": "Prospect opening",
-      "layman": "New possibility emerging"
-    },
-    {
-      "jargon": "Categorization",
-      "layman": "Grouping into types"
-    },
-    {
-      "jargon": "Definition",
-      "layman": "Setting clear meaning"
-    }
-  ],
   "outcomes": [
-    {
-      "jargon": "Specific relation",
-      "layman": "Clear connection"
-    },
-    {
-      "jargon": "Production of communication means",
-      "layman": "Making tools for sharing info"
-    },
-    {
-      "jargon": "Physical conditions of circulation",
-      "layman": "Tools for moving goods"
-    },
     {
       "jargon": "Special case",
       "layman": "Unique situation"
     },
     {
-      "jargon": "General conditions of social production",
-      "layman": "Common rules for making things together"
+      "jargon": "Specific relation",
+      "layman": "Clear connection between capital and society"
+    },
+    {
+      "jargon": "General conditions of production",
+      "layman": "Common rules for making things"
+    },
+    {
+      "jargon": "Incidentally",
+      "layman": "By the way"
+    },
+    {
+      "jargon": "Prospect",
+      "layman": "Possible future possibility"
     }
   ]
 }

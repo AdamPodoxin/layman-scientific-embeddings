@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Universal compacta",
+      "layman": "Universal compact spaces"
+    },
+    {
+      "jargon": "Compactifications",
+      "layman": "Extended closed spaces"
+    },
+    {
+      "jargon": "CW complexes",
+      "layman": "Built-up geometric shapes"
+    },
+    {
+      "jargon": "Non-finitely dominated complexes",
+      "layman": "Complex shapes not fully controlled"
+    },
+    {
+      "jargon": "L? S2",
+      "layman": "L attached to a sphere"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conjectures",
+      "layman": "Hypotheses about patterns"
+    },
+    {
+      "jargon": "Extension dimension",
+      "layman": "How space can be extended"
+    },
+    {
+      "jargon": "Finite type",
+      "layman": "Limited structure type"
+    },
+    {
+      "jargon": "Fundamental group",
+      "layman": "Basic loop structure"
+    },
+    {
+      "jargon": "Finite fundamental group",
+      "layman": "Group with finite elements"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Non-existence",
+      "layman": "Does not exist"
+    },
+    {
+      "jargon": "Valid for all CW complexes",
+      "layman": "True for all such shapes"
+    },
+    {
+      "jargon": "Not valid",
+      "layman": "Not true"
+    },
+    {
+      "jargon": "Finite fundamental group",
+      "layman": "Finite group of loops"
+    },
+    {
+      "jargon": "Not finitely dominated",
+      "layman": "Not fully controlled"
+    }
+  ]
+}

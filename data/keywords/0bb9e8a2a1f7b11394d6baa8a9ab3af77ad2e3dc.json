@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nazism",
+      "layman": "Nazi ideology"
+    },
+    {
+      "jargon": "German philosophers",
+      "layman": "German thinkers"
+    },
+    {
+      "jargon": "Philosophical basis",
+      "layman": "Underlying beliefs"
+    },
+    {
+      "jargon": "Ideology",
+      "layman": "Set of core beliefs"
+    },
+    {
+      "jargon": "Political movement",
+      "layman": "Group with shared goals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Examine",
+      "layman": "Study carefully"
+    },
+    {
+      "jargon": "Determine",
+      "layman": "Find out"
+    },
+    {
+      "jargon": "Analyze",
+      "layman": "Break down and understand"
+    },
+    {
+      "jargon": "Assess",
+      "layman": "Evaluate"
+    },
+    {
+      "jargon": "Investigate",
+      "layman": "Look into closely"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Philosophical basis",
+      "layman": "Root beliefs"
+    },
+    {
+      "jargon": "Existence of basis",
+      "layman": "Whether beliefs exist"
+    },
+    {
+      "jargon": "Grant that",
+      "layman": "Accept as true"
+    },
+    {
+      "jargon": "Determine if",
+      "layman": "Find out whether"
+    },
+    {
+      "jargon": "Such a basis",
+      "layman": "A foundation exists"
+    }
+  ]
+}

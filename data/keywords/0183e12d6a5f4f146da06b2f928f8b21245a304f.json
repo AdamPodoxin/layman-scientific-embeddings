@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Scalar \u03c3 meson",
+      "layman": "Low-mass particle in nuclear force"
+    },
+    {
+      "jargon": "\u03c1 meson",
+      "layman": "Particle that decays into pions and gamma"
+    },
+    {
+      "jargon": "\u03c9 meson",
+      "layman": "Particle that decays into pions and gamma"
+    },
+    {
+      "jargon": "\u03c0\u2070 meson",
+      "layman": "Neutral pion particle"
+    },
+    {
+      "jargon": "\u03b3 photon",
+      "layman": "Light particle carrying energy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Chiral perturbation theory",
+      "layman": "Math model for weak nuclear forces"
+    },
+    {
+      "jargon": "Linear sigma model",
+      "layman": "Model for particle interactions"
+    },
+    {
+      "jargon": "Radiative decay",
+      "layman": "Decay that emits light"
+    },
+    {
+      "jargon": "Decay channel",
+      "layman": "Pathway a particle takes to break down"
+    },
+    {
+      "jargon": "Data analysis",
+      "layman": "Study of experimental results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Low mass \u03c3 (500)",
+      "layman": "Light particle around 500 MeV"
+    },
+    {
+      "jargon": "Moderately narrow \u03c3 (500)",
+      "layman": "Not very broad in energy"
+    },
+    {
+      "jargon": "Complementarity",
+      "layman": "Two models agree well together"
+    },
+    {
+      "jargon": "Accommodated in framework",
+      "layman": "Fits within existing theory"
+    },
+    {
+      "jargon": "Less sensitive",
+      "layman": "Not strongly affected by changes"
+    }
+  ]
+}

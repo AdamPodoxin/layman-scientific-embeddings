@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ramsey theory",
+      "layman": "Mathematics of order in chaos"
+    },
+    {
+      "jargon": "Dynamical systems",
+      "layman": "Changing systems over time"
+    },
+    {
+      "jargon": "Static theorems",
+      "layman": "Fixed mathematical rules"
+    },
+    {
+      "jargon": "Ergodic theory",
+      "layman": "Long-term average behavior of systems"
+    },
+    {
+      "jargon": "Dynamical counterparts",
+      "layman": "Moving versions of static rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dynamical approach",
+      "layman": "Using motion to study stability"
+    },
+    {
+      "jargon": "Survey recent developments",
+      "layman": "Reviewing new advances"
+    },
+    {
+      "jargon": "Formulate conjectures",
+      "layman": "Propose unproven ideas"
+    },
+    {
+      "jargon": "Open questions",
+      "layman": "Unanswered problems"
+    },
+    {
+      "jargon": "Mathematical modeling",
+      "layman": "Creating simplified systems to study real-world patterns"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Classical results",
+      "layman": "Well-known findings"
+    },
+    {
+      "jargon": "Natural open questions",
+      "layman": "Unsolved mysteries"
+    },
+    {
+      "jargon": "Theorems",
+      "layman": "Proven mathematical truths"
+    },
+    {
+      "jargon": "Dynamical counterparts",
+      "layman": "Moving versions of static rules"
+    },
+    {
+      "jargon": "Conjectures",
+      "layman": "Hypotheses not yet proven"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "American Indian athletes",
+      "layman": "Native American athletes"
+    },
+    {
+      "jargon": "Sports television",
+      "layman": "TV sports shows"
+    },
+    {
+      "jargon": "Sports publications",
+      "layman": "Sports magazines"
+    },
+    {
+      "jargon": "ESPN special",
+      "layman": "ESPN special report"
+    },
+    {
+      "jargon": "Athlete of the Century polls",
+      "layman": "Polls for best athlete of the century"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Narrative analysis",
+      "layman": "Studying story patterns"
+    },
+    {
+      "jargon": "Media content examination",
+      "layman": "Reviewing media content"
+    },
+    {
+      "jargon": "Representation analysis",
+      "layman": "Checking how people are shown"
+    },
+    {
+      "jargon": "Historical context review",
+      "layman": "Looking at past events for background"
+    },
+    {
+      "jargon": "Stereotype identification",
+      "layman": "Spotting common stereotypes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Racial dynamics",
+      "layman": "Racial biases in society"
+    },
+    {
+      "jargon": "Stereotypes perpetuated",
+      "layman": "Repeating harmful beliefs"
+    },
+    {
+      "jargon": "Media narratives",
+      "layman": "Stories told in media"
+    },
+    {
+      "jargon": "Cultural misrepresentation",
+      "layman": "Wrong portrayal of culture"
+    },
+    {
+      "jargon": "Continuation of bias",
+      "layman": "Ongoing unfair views"
+    }
+  ]
+}

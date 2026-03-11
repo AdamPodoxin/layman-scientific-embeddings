@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Shakespeare",
+      "layman": "Shakespeare"
+    },
+    {
+      "jargon": "Modernity",
+      "layman": "Modern era"
+    },
+    {
+      "jargon": "Herder",
+      "layman": "Herder"
+    },
+    {
+      "jargon": "Hegel",
+      "layman": "Hegel"
+    },
+    {
+      "jargon": "Theatre",
+      "layman": "Stage performances"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hermeneutic problems",
+      "layman": "Interpretation challenges"
+    },
+    {
+      "jargon": "Philosophical inquiry",
+      "layman": "Deep thinking about ideas"
+    },
+    {
+      "jargon": "Artistic analysis",
+      "layman": "Studying art closely"
+    },
+    {
+      "jargon": "Theatrical debate",
+      "layman": "Discussion about plays"
+    },
+    {
+      "jargon": "Aesthetic understanding",
+      "layman": "Appreciating beauty in art"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New understanding of modernity",
+      "layman": "Fresh view of modern times"
+    },
+    {
+      "jargon": "Conditions of self-understanding",
+      "layman": "How people understand themselves"
+    },
+    {
+      "jargon": "Conditions of understanding others",
+      "layman": "How people understand others"
+    },
+    {
+      "jargon": "Art in modernity",
+      "layman": "Art in the modern world"
+    },
+    {
+      "jargon": "Hermeneutics",
+      "layman": "How we interpret meaning"
+    }
+  ]
+}

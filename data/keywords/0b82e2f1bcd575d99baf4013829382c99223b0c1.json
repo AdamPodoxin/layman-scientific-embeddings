@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Fluvial processes",
+      "layman": "River processes"
+    },
+    {
+      "jargon": "Relative sea-level changes",
+      "layman": "Sea level changes compared to land"
+    },
+    {
+      "jargon": "Coastal erosion",
+      "layman": "Beach and shore wearing away"
+    },
+    {
+      "jargon": "Sea-floor instability",
+      "layman": "Unstable ocean floor"
+    },
+    {
+      "jargon": "Pollution",
+      "layman": "Contamination of environment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "High-resolution monitoring",
+      "layman": "Detailed, frequent observations"
+    },
+    {
+      "jargon": "Quantify and model future developments",
+      "layman": "Predict changes using data"
+    },
+    {
+      "jargon": "Interdisciplinary research",
+      "layman": "Teamwork across fields"
+    },
+    {
+      "jargon": "Environmental impact studies",
+      "layman": "Assessing damage to environment"
+    },
+    {
+      "jargon": "Remediation projects",
+      "layman": "Fixing damaged environments"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved environmental quality",
+      "layman": "Better natural environment"
+    },
+    {
+      "jargon": "Cost savings in the long term",
+      "layman": "Saves money over time"
+    },
+    {
+      "jargon": "Better-informed policy makers",
+      "layman": "Decision makers understand the science"
+    },
+    {
+      "jargon": "Public awareness of environmental sedimentology",
+      "layman": "General public learns about the science"
+    },
+    {
+      "jargon": "Multidisciplinary project success",
+      "layman": "Success through teamwork"
+    }
+  ]
+}

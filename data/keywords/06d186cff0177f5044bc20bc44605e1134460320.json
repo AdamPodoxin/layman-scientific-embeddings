@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Formal context",
+      "layman": "Data structure in tables"
+    },
+    {
+      "jargon": "Relational structures",
+      "layman": "Data with relationships"
+    },
+    {
+      "jargon": "Description Logic EL",
+      "layman": "Logic for describing concepts"
+    },
+    {
+      "jargon": "Finite model",
+      "layman": "Limited data set"
+    },
+    {
+      "jargon": "General concept inclusion axiom (GCI)",
+      "layman": "Rule about concept relationships"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Formal Concept Analysis (FCA)",
+      "layman": "Data pattern analysis"
+    },
+    {
+      "jargon": "Computing minimal basis",
+      "layman": "Finding simplest rules"
+    },
+    {
+      "jargon": "Generalizing FCA",
+      "layman": "Extending the method"
+    },
+    {
+      "jargon": "Replacing atomic attributes",
+      "layman": "Using complex rules instead of simple ones"
+    },
+    {
+      "jargon": "Instantiating framework",
+      "layman": "Applying the model to specific data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Finite set of implications",
+      "layman": "Limited set of rules"
+    },
+    {
+      "jargon": "All implications follow",
+      "layman": "All rules can be derived"
+    },
+    {
+      "jargon": "Implications holding in a model",
+      "layman": "Rules true in data"
+    },
+    {
+      "jargon": "Minimal basis",
+      "layman": "Smallest set of rules that explains everything"
+    },
+    {
+      "jargon": "Finite basis",
+      "layman": "Finite set of rules that covers all cases"
+    }
+  ]
+}

@@ -18,17 +18,17 @@
     },
     {
       "jargon": "Candidatus Lokiarcheaota",
-      "layman": "A newly discovered ancient archaeon"
+      "layman": "A newly found ancient archaeal group"
     }
   ],
   "methodologies": [
     {
       "jargon": "Phylogenetics",
-      "layman": "Evolutionary family trees"
+      "layman": "Evolutionary tree analysis"
     },
     {
       "jargon": "Paleogeology",
-      "layman": "Study of ancient Earth features"
+      "layman": "Studying ancient Earth conditions"
     },
     {
       "jargon": "Cell biology",
@@ -36,11 +36,11 @@
     },
     {
       "jargon": "Microbial diversity",
-      "layman": "Variety of microorganisms"
+      "layman": "Variety of microbes in environment"
     },
     {
       "jargon": "Compartmentalisation",
-      "layman": "Cellular organization into spaces"
+      "layman": "Cellular division inside cells"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Time frame of emergence",
-      "layman": "When complex cells first appeared"
+      "layman": "When complex cells appeared"
     },
     {
       "jargon": "Precise ancestral lineages",
-      "layman": "Exact bacterial and archaeal roots"
-    },
-    {
-      "jargon": "Biological features of contributors",
-      "layman": "Key traits of early cell ancestors"
+      "layman": "Exact origins of complex cells"
     },
     {
       "jargon": "Key cellular processes",
-      "layman": "Core cell functions like internal structures"
+      "layman": "Core cell functions"
+    },
+    {
+      "jargon": "Discriminatory data",
+      "layman": "Clear evidence to distinguish models"
     }
   ]
 }

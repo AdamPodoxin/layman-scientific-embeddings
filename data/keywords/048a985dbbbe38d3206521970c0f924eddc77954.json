@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Environmental debates",
+      "layman": "Discussions about nature and the environment"
+    },
+    {
+      "jargon": "Social sciences",
+      "layman": "Study of human societies"
+    },
+    {
+      "jargon": "Biosphere",
+      "layman": "Earth's living systems"
+    },
+    {
+      "jargon": "Ecological representations",
+      "layman": "How ecosystems are described or shown"
+    },
+    {
+      "jargon": "City-state",
+      "layman": "Small city with independent government"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Political economy",
+      "layman": "How power and money shape decisions"
+    },
+    {
+      "jargon": "Scapes",
+      "layman": "Ways environments are imagined or perceived"
+    },
+    {
+      "jargon": "Scops",
+      "layman": "Patterns of observation or viewing"
+    },
+    {
+      "jargon": "Duty rosters",
+      "layman": "Lists of responsibilities assigned"
+    },
+    {
+      "jargon": "Minute circumstances",
+      "layman": "Small, detailed events"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Silent string references",
+      "layman": "Hidden connections between ideas"
+    },
+    {
+      "jargon": "Authority",
+      "layman": "Power to make decisions"
+    },
+    {
+      "jargon": "Ecological representations",
+      "layman": "How ecosystems are described"
+    },
+    {
+      "jargon": "City-planet",
+      "layman": "Earth seen as both a city and a planet"
+    },
+    {
+      "jargon": "Infused opinions",
+      "layman": "Personal views mixed into discussions"
+    }
+  ]
+}

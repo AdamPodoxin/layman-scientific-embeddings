@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ancient statuary",
+      "layman": "Old statues"
+    },
+    {
+      "jargon": "Homoerotic ideals",
+      "layman": "Ideals of same-sex attraction"
+    },
+    {
+      "jargon": "Male nude",
+      "layman": "Male figure in a naked pose"
+    },
+    {
+      "jargon": "Virile masculinity",
+      "layman": "Strong, masculine manhood"
+    },
+    {
+      "jargon": "Age-differentiated attachments",
+      "layman": "Relationships based on age gaps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Material provision",
+      "layman": "Giving physical objects"
+    },
+    {
+      "jargon": "Dissemination",
+      "layman": "Spreading widely"
+    },
+    {
+      "jargon": "Collector practices",
+      "layman": "How collectors acquire items"
+    },
+    {
+      "jargon": "Cultural interpretation",
+      "layman": "Understanding culture through art"
+    },
+    {
+      "jargon": "Gender norm challenges",
+      "layman": "Questioning traditional gender roles"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Challenging heteronormativity",
+      "layman": "Going against traditional male-female norms"
+    },
+    {
+      "jargon": "Confronting effeminacy links",
+      "layman": "Breaking ties between being feminine and homosexuality"
+    },
+    {
+      "jargon": "Countering aestheticism",
+      "layman": "Rejecting the idea that beauty equals homosexuality"
+    },
+    {
+      "jargon": "Engaging with gender equality",
+      "layman": "Supporting equal rights for genders"
+    },
+    {
+      "jargon": "Establishing male-male models",
+      "layman": "Creating examples of male relationships"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Immigration policy",
+      "layman": "Rules on who can enter a country"
+    },
+    {
+      "jargon": "Nationality code",
+      "layman": "Rules on citizenship"
+    },
+    {
+      "jargon": "Illegal immigrants",
+      "layman": "People without legal right to stay"
+    },
+    {
+      "jargon": "Islamic population",
+      "layman": "People who practice Islam"
+    },
+    {
+      "jargon": "Integration",
+      "layman": "Becoming part of a society"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Data analysis",
+      "layman": "Looking at information to find patterns"
+    },
+    {
+      "jargon": "Policy modification",
+      "layman": "Changing laws or rules"
+    },
+    {
+      "jargon": "Scenario analysis",
+      "layman": "Testing possible future situations"
+    },
+    {
+      "jargon": "Legal return process",
+      "layman": "Process to send people back legally"
+    },
+    {
+      "jargon": "Societal integration",
+      "layman": "Helping newcomers fit in"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Three scenarios",
+      "layman": "Three possible futures"
+    },
+    {
+      "jargon": "Growing weight of Islam",
+      "layman": "Increasing Muslim presence"
+    },
+    {
+      "jargon": "Integration success",
+      "layman": "How well people adapt"
+    },
+    {
+      "jargon": "Policy reform",
+      "layman": "Changed government rules"
+    },
+    {
+      "jargon": "Return of illegal immigrants",
+      "layman": "Sending back unauthorized residents"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Internet Accessible Mathematical Computation",
+      "layman": "Online math computing"
+    },
+    {
+      "jargon": "TCP/IP",
+      "layman": "Internet communication protocol"
+    },
+    {
+      "jargon": "Mathematical Computation Protocol (MCP)",
+      "layman": "Rules for online math computing"
+    },
+    {
+      "jargon": "IAMC server",
+      "layman": "Online math computing server"
+    },
+    {
+      "jargon": "IAMC client",
+      "layman": "User device for math computing"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Distributed system",
+      "layman": "Spreading computing power across devices"
+    },
+    {
+      "jargon": "Web interface",
+      "layman": "Online user interface"
+    },
+    {
+      "jargon": "Email-based computation",
+      "layman": "Sending math requests via email"
+    },
+    {
+      "jargon": "API design",
+      "layman": "Online interface for software connection"
+    },
+    {
+      "jargon": "Server interface to compute engine",
+      "layman": "Link between server and math processor"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Feasibility study",
+      "layman": "Proof it can work"
+    },
+    {
+      "jargon": "Convenient usability",
+      "layman": "Easy to use online"
+    },
+    {
+      "jargon": "Widespread access",
+      "layman": "Available to many users"
+    },
+    {
+      "jargon": "TCP/IP access",
+      "layman": "Available via internet connection"
+    },
+    {
+      "jargon": "Java implementation",
+      "layman": "Built using Java programming"
+    }
+  ]
+}

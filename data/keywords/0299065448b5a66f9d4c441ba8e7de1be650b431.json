@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Fusion calculus",
+      "layman": "Calculus for modeling concurrent processes"
+    },
+    {
+      "jargon": "Pi-calculus",
+      "layman": "Model for concurrent systems"
+    },
+    {
+      "jargon": "Shared state",
+      "layman": "Common data used by multiple processes"
+    },
+    {
+      "jargon": "Strong reduction strategies",
+      "layman": "Process of simplifying expressions under rules"
+    },
+    {
+      "jargon": "Lambda-calculus",
+      "layman": "Mathematical model for computation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Operational semantics",
+      "layman": "Rule-based process definition"
+    },
+    {
+      "jargon": "Bisimulation equivalence",
+      "layman": "Checking if two systems behave the same"
+    },
+    {
+      "jargon": "Axiomatization",
+      "layman": "Set of rules to define behavior"
+    },
+    {
+      "jargon": "Encoding",
+      "layman": "Translating one system into another"
+    },
+    {
+      "jargon": "Scoping construct",
+      "layman": "Boundary for effect of a change"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Expressive power",
+      "layman": "Ability to model complex behaviors"
+    },
+    {
+      "jargon": "Complete axiomatization",
+      "layman": "Full set of rules that fully describe behavior"
+    },
+    {
+      "jargon": "Finite terms",
+      "layman": "Limited and well-defined system parts"
+    },
+    {
+      "jargon": "Reduction under abstraction",
+      "layman": "Simplifying expressions inside functions"
+    },
+    {
+      "jargon": "Subcalculus",
+      "layman": "Smaller system contained within a larger one"
+    }
+  ]
+}

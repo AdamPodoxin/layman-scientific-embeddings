@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Group Purchasing Organizations",
+      "layman": "Medical buying groups"
+    },
+    {
+      "jargon": "Pharmaceuticals",
+      "layman": "Medications"
+    },
+    {
+      "jargon": "Medical equipment",
+      "layman": "Hospital machines"
+    },
+    {
+      "jargon": "Hospitals and clinics",
+      "layman": "Medical facilities"
+    },
+    {
+      "jargon": "Suppliers",
+      "layman": "Product sellers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Aggregation of purchases",
+      "layman": "Buying in bulk"
+    },
+    {
+      "jargon": "Market analysis",
+      "layman": "Studying market trends"
+    },
+    {
+      "jargon": "Anti-trust oversight",
+      "layman": "Government monitoring of competition"
+    },
+    {
+      "jargon": "Stock options",
+      "layman": "Company shares given to executives"
+    },
+    {
+      "jargon": "Rebates",
+      "layman": "Money given back by suppliers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lower prices",
+      "layman": "Cheaper costs"
+    },
+    {
+      "jargon": "Bilateral oligopoly",
+      "layman": "Few big players controlling the market"
+    },
+    {
+      "jargon": "Non-competitive practices",
+      "layman": "Unfair business behavior"
+    },
+    {
+      "jargon": "Federal government oversight",
+      "layman": "Government regulation"
+    },
+    {
+      "jargon": "Gap between theory and practice",
+      "layman": "Plans don't match real results"
+    }
+  ]
+}

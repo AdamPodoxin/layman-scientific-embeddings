@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Franchisor",
+      "layman": "Brand owner"
+    },
+    {
+      "jargon": "Prospective partners",
+      "layman": "Potential franchisees"
+    },
+    {
+      "jargon": "Cultural distance",
+      "layman": "Cultural differences"
+    },
+    {
+      "jargon": "International hotel firm",
+      "layman": "Global hotel company"
+    },
+    {
+      "jargon": "Country markets",
+      "layman": "Different countries"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Embedded case study",
+      "layman": "In-depth single-company study"
+    },
+    {
+      "jargon": "Interviews",
+      "layman": "Talking to people"
+    },
+    {
+      "jargon": "Observations",
+      "layman": "Watching behavior"
+    },
+    {
+      "jargon": "Document analysis",
+      "layman": "Reviewing records"
+    },
+    {
+      "jargon": "Recruitment process",
+      "layman": "Hiring process"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient coordination",
+      "layman": "Smooth teamwork"
+    },
+    {
+      "jargon": "Challenges in upgrading knowledge",
+      "layman": "Hard to adapt knowledge"
+    },
+    {
+      "jargon": "Adapting to local needs",
+      "layman": "Meeting local demands"
+    },
+    {
+      "jargon": "Greater cultural distance",
+      "layman": "More cultural differences"
+    },
+    {
+      "jargon": "Limited generalisability",
+      "layman": "Not applicable to all industries"
+    }
+  ]
+}

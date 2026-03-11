@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Virtual Machines",
+      "layman": "Virtual machines"
+    },
+    {
+      "jargon": "Docker containers",
+      "layman": "Docker containers"
+    },
+    {
+      "jargon": "Cloud VMs",
+      "layman": "Cloud VMs"
+    },
+    {
+      "jargon": "High-performance computing applications",
+      "layman": "Performance apps"
+    },
+    {
+      "jargon": "Performance ranks",
+      "layman": "Performance rankings"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lightweight benchmarking",
+      "layman": "Fast performance testing"
+    },
+    {
+      "jargon": "Container-based benchmarking",
+      "layman": "Testing using containers"
+    },
+    {
+      "jargon": "Hybrid benchmarking",
+      "layman": "Mix of fast and past data testing"
+    },
+    {
+      "jargon": "VM portion benchmarking",
+      "layman": "Testing part of a VM"
+    },
+    {
+      "jargon": "Historic data use",
+      "layman": "Using past test results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "91 times faster",
+      "layman": "91 times quicker"
+    },
+    {
+      "jargon": "Over 90% accuracy",
+      "layman": "More than 90% correct"
+    },
+    {
+      "jargon": "86% accuracy",
+      "layman": "86% correct"
+    },
+    {
+      "jargon": "Improved correlation",
+      "layman": "Better match to real results"
+    },
+    {
+      "jargon": "Near real-time use",
+      "layman": "Used almost instantly"
+    }
+  ]
+}

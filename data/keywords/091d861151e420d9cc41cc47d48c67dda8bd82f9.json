@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Supersymmetric quantum mechanics",
+      "layman": "Advanced quantum theory with symmetry"
+    },
+    {
+      "jargon": "Special functions of modern physics",
+      "layman": "Mathematical functions in physics"
+    },
+    {
+      "jargon": "Differential equations",
+      "layman": "Equations describing change"
+    },
+    {
+      "jargon": "Recursion relations",
+      "layman": "Mathematical patterns that repeat"
+    },
+    {
+      "jargon": "Well-known special functions",
+      "layman": "Famous mathematical functions in physics"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Applied supersymmetric quantum mechanics",
+      "layman": "Using symmetry to solve physics problems"
+    },
+    {
+      "jargon": "Generate recursion relations",
+      "layman": "Find repeating patterns in math"
+    },
+    {
+      "jargon": "Explore special functions",
+      "layman": "Study mathematical functions in physics"
+    },
+    {
+      "jargon": "Extend to other functions",
+      "layman": "Apply method to new cases"
+    },
+    {
+      "jargon": "Analyze differential equations",
+      "layman": "Study equations that describe change"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New recursion relations",
+      "layman": "New repeating patterns"
+    },
+    {
+      "jargon": "Apparent new or forgotten relations",
+      "layman": "Missing or lost patterns"
+    },
+    {
+      "jargon": "Insight into special functions",
+      "layman": "Better understanding of functions"
+    },
+    {
+      "jargon": "Not available in handbooks",
+      "layman": "Not in standard references"
+    },
+    {
+      "jargon": "Generate new mathematical insights",
+      "layman": "Discover new mathematical truths"
+    }
+  ]
+}

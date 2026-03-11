@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Abraham Maslow",
+      "layman": "Humanistic psychology founder"
+    },
+    {
+      "jargon": "Heinz Kohut",
+      "layman": "Self psychology founder"
+    },
+    {
+      "jargon": "Peak experiences",
+      "layman": "Moment of deep personal unity"
+    },
+    {
+      "jargon": "Self psychology",
+      "layman": "Theory about the self"
+    },
+    {
+      "jargon": "Humanistic psychology",
+      "layman": "Psychology focused on human potential"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theoretical comparison",
+      "layman": "Comparing ideas between theories"
+    },
+    {
+      "jargon": "Empirical bridge",
+      "layman": "Connecting theories with real evidence"
+    },
+    {
+      "jargon": "Clinical foundations",
+      "layman": "Practical, patient-based basis"
+    },
+    {
+      "jargon": "Ideological shift",
+      "layman": "Moving away from beliefs toward facts"
+    },
+    {
+      "jargon": "Vision alignment",
+      "layman": "Shared goals or outlooks"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Predictable differences",
+      "layman": "Expected contrasts between theories"
+    },
+    {
+      "jargon": "Surprising similarities",
+      "layman": "Unexpected shared ideas"
+    },
+    {
+      "jargon": "Empirical bridge",
+      "layman": "Real-world connection between fields"
+    },
+    {
+      "jargon": "Integrated feeling",
+      "layman": "Feeling whole and unified"
+    },
+    {
+      "jargon": "Harmoniously organized",
+      "layman": "Smoothly balanced and well-put-together"
+    }
+  ]
+}

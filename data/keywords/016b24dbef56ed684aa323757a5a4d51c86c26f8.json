@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Psychoanalysis",
+      "layman": "Study of the mind and emotions"
+    },
+    {
+      "jargon": "Gender analysis",
+      "layman": "Examination of gender roles and identities"
+    },
+    {
+      "jargon": "Culture",
+      "layman": "Shared beliefs and practices of a group"
+    },
+    {
+      "jargon": "Personal meaning",
+      "layman": "Individual interpretation of experiences"
+    },
+    {
+      "jargon": "Subjective experience",
+      "layman": "How someone feels or sees something internally"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interdisciplinary approach",
+      "layman": "Combining different fields of study"
+    },
+    {
+      "jargon": "Anthropological analysis",
+      "layman": "Studying cultures and human behavior"
+    },
+    {
+      "jargon": "Gendered perspectives",
+      "layman": "Looking at things through a gender lens"
+    },
+    {
+      "jargon": "Narrative interpretation",
+      "layman": "Understanding stories as meaning"
+    },
+    {
+      "jargon": "Theoretical synthesis",
+      "layman": "Putting ideas together into a new theory"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Power of feelings",
+      "layman": "Emotions shape self-perception"
+    },
+    {
+      "jargon": "Equal importance of personal and cultural meaning",
+      "layman": "Feelings and culture matter equally"
+    },
+    {
+      "jargon": "Individual subjective meaning",
+      "layman": "Personal sense of self in experience"
+    },
+    {
+      "jargon": "Reconceptualization of self",
+      "layman": "New way of seeing oneself"
+    },
+    {
+      "jargon": "Integrated theory",
+      "layman": "A unified explanation of human experience"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nucleotide 5\u2032-monophosphates",
+      "layman": "Phosphate-containing building blocks of RNA"
+    },
+    {
+      "jargon": "Protonated ethylenediamine",
+      "layman": "A charged amine with two nitrogen groups"
+    },
+    {
+      "jargon": "Putrescine",
+      "layman": "A simple biogenic amine"
+    },
+    {
+      "jargon": "Cadaverine",
+      "layman": "A biogenic amine found in decaying tissue"
+    },
+    {
+      "jargon": "Spermidine",
+      "layman": "A longer-chain biogenic amine"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Potentiometrically",
+      "layman": "Measuring voltage changes to detect interactions"
+    },
+    {
+      "jargon": "Stability analysis",
+      "layman": "Testing how long complexes last"
+    },
+    {
+      "jargon": "Charge product \u03b6",
+      "layman": "How much charge is in the combined ions"
+    },
+    {
+      "jargon": "Hydrogen bonding",
+      "layman": "Atoms sharing electrons to stick together"
+    },
+    {
+      "jargon": "Steric arrangement",
+      "layman": "How molecules fit in space"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Species ALH20",
+      "layman": "A stable complex with two negative charges"
+    },
+    {
+      "jargon": "Species ALH3+",
+      "layman": "A charged complex with three positive charges"
+    },
+    {
+      "jargon": "Species ALH42+",
+      "layman": "A highly charged complex with four positive charges"
+    },
+    {
+      "jargon": "logKr/\u03b6 constant",
+      "layman": "Stability pattern stays the same across systems"
+    },
+    {
+      "jargon": "Chemical speciation",
+      "layman": "How molecules exist in different forms"
+    }
+  ]
+}

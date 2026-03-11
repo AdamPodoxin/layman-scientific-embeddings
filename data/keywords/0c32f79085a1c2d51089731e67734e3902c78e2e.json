@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ag-Cu alloys",
+      "layman": "Silver-copper mixtures"
+    },
+    {
+      "jargon": "Grain boundaries",
+      "layman": "Lines between crystal pieces"
+    },
+    {
+      "jargon": "\u03b2-Cu particles",
+      "layman": "Tiny copper crystals"
+    },
+    {
+      "jargon": "\u03b1'-Ag phase",
+      "layman": "Stable silver structure"
+    },
+    {
+      "jargon": "Nodules",
+      "layman": "Lumps or clusters"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Optical microscope",
+      "layman": "Magnifying glass for materials"
+    },
+    {
+      "jargon": "Electric resistivity test",
+      "layman": "Measures how well material conducts electricity"
+    },
+    {
+      "jargon": "SEM",
+      "layman": "High-resolution surface imaging"
+    },
+    {
+      "jargon": "Hardness test",
+      "layman": "Tests how tough a material is"
+    },
+    {
+      "jargon": "Aging treatment",
+      "layman": "Heat exposure over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Electric resistivity decreased rapidly",
+      "layman": "Electrical resistance dropped quickly"
+    },
+    {
+      "jargon": "Reached a constant value after minimum",
+      "layman": "Stabilized after dropping"
+    },
+    {
+      "jargon": "Fine particles precipitated",
+      "layman": "Small crystals formed"
+    },
+    {
+      "jargon": "Cu supersaturation",
+      "layman": "Too much copper in silver"
+    },
+    {
+      "jargon": "Nodule formation significantly retarded",
+      "layman": "Lump formation slowed down"
+    }
+  ]
+}

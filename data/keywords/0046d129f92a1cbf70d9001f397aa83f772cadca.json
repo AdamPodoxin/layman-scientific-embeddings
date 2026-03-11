@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Palaeoproterozoic geology",
-      "layman": "Ancient Earth rock history"
+      "jargon": "Palaeoproterozoic",
+      "layman": "Ancient Earth period"
     },
     {
       "jargon": "Trans-Hudson Orogen",
-      "layman": "Ancient mountain belt"
+      "layman": "Mountain belt formed long ago"
     },
     {
       "jargon": "Crustal domains",
-      "layman": "Large rock regions"
+      "layman": "Large land blocks"
+    },
+    {
+      "jargon": "Unconformity",
+      "layman": "Gap in rock layers"
     },
     {
       "jargon": "Uranium mineralization",
-      "layman": "Uranium deposits"
-    },
-    {
-      "jargon": "Lithostratigraphy",
-      "layman": "Layered rock layers"
+      "layman": "Uranium deposits in rocks"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Database system",
-      "layman": "Digital data storage"
-    },
-    {
       "jargon": "Geochronological information",
-      "layman": "Age measurements of rocks"
+      "layman": "Age dating of rocks"
     },
     {
       "jargon": "Time-space correlation charts",
-      "layman": "Maps of time and location"
+      "layman": "Maps showing time and location"
     },
     {
       "jargon": "Time-slice tectonic reconstructions",
-      "layman": "Snapshots of ancient Earth plates"
+      "layman": "Snapshots of ancient land shapes"
     },
     {
-      "jargon": "Isotopic evolution",
-      "layman": "Change in atomic ratios over time"
+      "jargon": "Database system",
+      "layman": "Organized data collection"
+    },
+    {
+      "jargon": "Lithostratigraphy",
+      "layman": "Layered rock types over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Geological summary",
-      "layman": "Summary of rock history"
+      "jargon": "Isotopic evolution",
+      "layman": "Change in atomic signatures over time"
     },
     {
-      "jargon": "Contrast of geochronology",
-      "layman": "Comparison of rock ages"
+      "jargon": "Origin and setting of uranium mineralization",
+      "layman": "Where and why uranium formed"
     },
     {
-      "jargon": "Tectonic reconstructions",
-      "layman": "Reconstructed ancient plate positions"
+      "jargon": "Regional geological geology",
+      "layman": "Local rock history"
     },
     {
       "jargon": "Knowledge potential",
-      "layman": "Value of stored scientific data"
+      "layman": "Useful scientific insights"
     },
     {
-      "jargon": "Origin of uranium mineralization",
-      "layman": "Where uranium deposits formed"
+      "jargon": "Geological evolution",
+      "layman": "How Earth's rocks changed over time"
     }
   ]
 }

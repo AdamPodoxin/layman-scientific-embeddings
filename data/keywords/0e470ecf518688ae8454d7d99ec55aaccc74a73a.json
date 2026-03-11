@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Brown-Comenetz duality",
+      "layman": "Duality in homotopy theory"
+    },
+    {
+      "jargon": "Spanier-Whitehead duality",
+      "layman": "Duality in homotopy theory"
+    },
+    {
+      "jargon": "K(n)-local stable homotopy category",
+      "layman": "Special category of mathematical objects in topology"
+    },
+    {
+      "jargon": "Homotopy category",
+      "layman": "Space of shapes and transformations"
+    },
+    {
+      "jargon": "Stable homotopy",
+      "layman": "Stable shapes in topology"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "New and simpler proof",
+      "layman": "Easier mathematical proof"
+    },
+    {
+      "jargon": "Relating",
+      "layman": "Connecting two ideas"
+    },
+    {
+      "jargon": "Duality",
+      "layman": "Symmetrical relationship between two concepts"
+    },
+    {
+      "jargon": "Proof",
+      "layman": "Mathematical argument showing something is true"
+    },
+    {
+      "jargon": "K(n)-localization",
+      "layman": "Focusing on specific mathematical features"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Result of Hopkins and Gross",
+      "layman": "Previously known mathematical result"
+    },
+    {
+      "jargon": "Relating duality",
+      "layman": "Connecting two types of duality"
+    },
+    {
+      "jargon": "New proof",
+      "layman": "Better explanation of a known fact"
+    },
+    {
+      "jargon": "Simpler proof",
+      "layman": "Easier to understand explanation"
+    },
+    {
+      "jargon": "Mathematical relationship",
+      "layman": "Link between two abstract ideas"
+    }
+  ]
+}

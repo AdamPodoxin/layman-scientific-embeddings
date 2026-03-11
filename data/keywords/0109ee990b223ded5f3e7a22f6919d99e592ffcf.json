@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Basic Process Algebra",
+      "layman": "Model for describing processes"
+    },
+    {
+      "jargon": "Iteration",
+      "layman": "Repeating a process"
+    },
+    {
+      "jargon": "Strong bisimulation equivalence",
+      "layman": "Two systems behaving the same way"
+    },
+    {
+      "jargon": "Term rewriting system",
+      "layman": "Rule-based process for transforming expressions"
+    },
+    {
+      "jargon": "Normal forms",
+      "layman": "Simplified versions of expressions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Axiomatization",
+      "layman": "Set of rules defining a system"
+    },
+    {
+      "jargon": "Term rewriting system",
+      "layman": "Rule-based process for transforming expressions"
+    },
+    {
+      "jargon": "Terminating rewriting system",
+      "layman": "System that stops after a finite number of steps"
+    },
+    {
+      "jargon": "Proving bisimilarity",
+      "layman": "Showing two systems behave the same"
+    },
+    {
+      "jargon": "Modulo commutativity and associativity",
+      "layman": "Ignoring order and grouping in operations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Completeness of equational axioms",
+      "layman": "All valid rules are captured by the system"
+    },
+    {
+      "jargon": "Syntactically equal",
+      "layman": "Same structure after simplification"
+    },
+    {
+      "jargon": "Strong bisimulation",
+      "layman": "Systems behave identically"
+    },
+    {
+      "jargon": "Bisimilar normal forms",
+      "layman": "Simplified forms that are equivalent"
+    },
+    {
+      "jargon": "Proof of termination",
+      "layman": "System stops without infinite loops"
+    }
+  ]
+}

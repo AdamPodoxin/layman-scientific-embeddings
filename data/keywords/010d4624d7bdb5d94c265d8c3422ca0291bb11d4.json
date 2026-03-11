@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Workers",
+      "layman": "Employees"
+    },
+    {
+      "jargon": "Firms",
+      "layman": "Companies"
+    },
+    {
+      "jargon": "Skills",
+      "layman": "Abilities"
+    },
+    {
+      "jargon": "Long-term contracts",
+      "layman": "Long-term job agreements"
+    },
+    {
+      "jargon": "Mobility costs",
+      "layman": "Job switching costs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Equilibrium assignment",
+      "layman": "Balanced worker-firm matching"
+    },
+    {
+      "jargon": "Social preferences",
+      "layman": "People's desire to help others"
+    },
+    {
+      "jargon": "Perfectly substitutable skills",
+      "layman": "Skills that can replace each other"
+    },
+    {
+      "jargon": "Wage dynamics",
+      "layman": "How wages change over time"
+    },
+    {
+      "jargon": "Labor market frictions",
+      "layman": "Barriers to job changes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Within-firm wage dispersion",
+      "layman": "Wage differences inside one company"
+    },
+    {
+      "jargon": "Skill segregation",
+      "layman": "Workers grouped by skill level"
+    },
+    {
+      "jargon": "Gradual promotions",
+      "layman": "Slow career advances"
+    },
+    {
+      "jargon": "Productivity-unrelated wage increases",
+      "layman": "Wage raises not based on performance"
+    },
+    {
+      "jargon": "Downward wage flexibility",
+      "layman": "Ability to reduce wages when needed"
+    }
+  ]
+}

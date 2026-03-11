@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Market production",
-      "layman": "Goods made for sale"
+      "layman": "Goods made for money"
     },
     {
       "jargon": "Non-market production",
-      "layman": "Goods made without selling"
+      "layman": "Goods made without money"
     },
     {
-      "jargon": "Capitalist firms",
-      "layman": "Profit-driven companies"
+      "jargon": "Advanced economies",
+      "layman": "Rich, developed countries"
     },
     {
-      "jargon": "Profit-motivated purposes",
-      "layman": "Doing things to make money"
+      "jargon": "Marketization thesis",
+      "layman": "Belief that markets replaced non-markets"
     },
     {
       "jargon": "Resistance cultures",
-      "layman": "Cultures that oppose market rules"
+      "layman": "Cultures that oppose market values"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Analyzing data",
-      "layman": "Looking at information"
+      "jargon": "Data analysis",
+      "layman": "Looking at numbers to find patterns"
     },
     {
-      "jargon": "Evaluating critically",
-      "layman": "Judging carefully"
+      "jargon": "Volume measurement",
+      "layman": "Measuring how much is produced"
     },
     {
-      "jargon": "Measuring activity volume",
-      "layman": "Counting how much is done"
+      "jargon": "Trend evaluation",
+      "layman": "Checking how things change over time"
     },
     {
-      "jargon": "Revealing trends",
-      "layman": "Finding patterns over time"
+      "jargon": "Contradiction analysis",
+      "layman": "Looking for internal conflicts in systems"
     },
     {
-      "jargon": "Identifying contradictions",
-      "layman": "Spotting hidden conflicts"
+      "jargon": "Representation evaluation",
+      "layman": "Checking how things are portrayed"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Growth of non-market activity",
+      "layman": "More non-market work is happening"
+    },
+    {
       "jargon": "Shallow penetration of market sphere",
-      "layman": "Market influence is weak"
+      "layman": "Markets only reached a small part"
     },
     {
-      "jargon": "Growth of non-market sphere",
-      "layman": "Non-market activities are rising"
+      "jargon": "Persistent non-market sphere",
+      "layman": "Non-market activities remain strong"
     },
     {
-      "jargon": "Persistence of non-market activity",
-      "layman": "Non-market actions last longer"
+      "jargon": "Inherent contradictions in marketization",
+      "layman": "Market growth has built-in problems"
     },
     {
-      "jargon": "Marketization thesis",
-      "layman": "Theory that markets have won"
-    },
-    {
-      "jargon": "Alternative futures",
-      "layman": "Other possible worlds beyond markets"
+      "jargon": "Decentring market hegemony",
+      "layman": "Removing the idea that markets are dominant"
     }
   ]
 }

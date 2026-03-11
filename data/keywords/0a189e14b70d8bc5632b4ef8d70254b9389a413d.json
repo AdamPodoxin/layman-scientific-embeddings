@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "\u03c6(1020)",
+      "layman": "Phi meson"
+    },
+    {
+      "jargon": "f0(980)",
+      "layman": "F-zero meson"
+    },
+    {
+      "jargon": "Y(2175) resonance",
+      "layman": "Y meson peak"
+    },
+    {
+      "jargon": "vector mesons",
+      "layman": "Mesons with spin"
+    },
+    {
+      "jargon": "KK bound state",
+      "layman": "Bound particle pair"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "chiral Lagrangians",
+      "layman": "Math model for weak forces"
+    },
+    {
+      "jargon": "minimal coupling",
+      "layman": "Simple force connection"
+    },
+    {
+      "jargon": "scattering amplitudes",
+      "layman": "How particles bounce off each other"
+    },
+    {
+      "jargon": "self-interactions",
+      "layman": "Particles interacting with themselves"
+    },
+    {
+      "jargon": "e+e\u2212 \u2192 \u03c6f0 scattering",
+      "layman": "Electron-positron collision producing mesons"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "describes scattering data",
+      "layman": "Matches real-world measurements"
+    },
+    {
+      "jargon": "large meson-meson component",
+      "layman": "Mainly made of two mesons"
+    },
+    {
+      "jargon": "resonance generated",
+      "layman": "New peak appears in data"
+    },
+    {
+      "jargon": "threshold energies",
+      "layman": "Energy levels where reactions start"
+    },
+    {
+      "jargon": "test experimentally",
+      "layman": "Checked with real experiments"
+    }
+  ]
+}

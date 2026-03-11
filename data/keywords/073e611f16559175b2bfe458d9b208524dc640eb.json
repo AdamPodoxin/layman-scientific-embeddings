@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rational omega-tree languages",
+      "layman": "Languages defined by tree structures and rules"
+    },
+    {
+      "jargon": "Rabin's special automata",
+      "layman": "Special machines that recognize tree patterns"
+    },
+    {
+      "jargon": "Regular expressions",
+      "layman": "Rules for describing patterns in text or data"
+    },
+    {
+      "jargon": "Omega-tree languages",
+      "layman": "Languages based on infinite tree structures"
+    },
+    {
+      "jargon": "Fixed-points",
+      "layman": "Stable solutions in mathematical systems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Greatest fixed-points",
+      "layman": "Finding the largest stable solution"
+    },
+    {
+      "jargon": "Characterization",
+      "layman": "Describing what something is like"
+    },
+    {
+      "jargon": "Normal form",
+      "layman": "Standardized version of a rule or structure"
+    },
+    {
+      "jargon": "Extending expressions",
+      "layman": "Adding new rules to existing patterns"
+    },
+    {
+      "jargon": "Recognition by automata",
+      "layman": "Identifying patterns using machines"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Precisely the omega-tree languages recognized by Rabin's automata",
+      "layman": "Exactly the tree patterns these machines can detect"
+    },
+    {
+      "jargon": "Simple normal form",
+      "layman": "Easy-to-use standard form"
+    },
+    {
+      "jargon": "Properties investigated",
+      "layman": "Features studied in detail"
+    },
+    {
+      "jargon": "Characterized by functions",
+      "layman": "Defined using mathematical rules"
+    },
+    {
+      "jargon": "Defined by extensions of regular expressions",
+      "layman": "Built from expanded pattern rules"
+    }
+  ]
+}

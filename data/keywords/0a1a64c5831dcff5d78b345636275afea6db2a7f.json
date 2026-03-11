@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ozone",
+      "layman": "Ozone"
+    },
+    {
+      "jargon": "Oxygen",
+      "layman": "Oxygen"
+    },
+    {
+      "jargon": "Atomic radius",
+      "layman": "Size of an atom"
+    },
+    {
+      "jargon": "Ionic radius",
+      "layman": "Size of an ion"
+    },
+    {
+      "jargon": "Hydrogen molecule",
+      "layman": "Hydrogen gas molecule"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Golden ratio based ionic radii",
+      "layman": "Ion sizes based on the Golden ratio"
+    },
+    {
+      "jargon": "Bond length",
+      "layman": "Distance between atoms in a bond"
+    },
+    {
+      "jargon": "Sum of radii",
+      "layman": "Adding sizes together"
+    },
+    {
+      "jargon": "Structural interpretation",
+      "layman": "Explaining molecular shape"
+    },
+    {
+      "jargon": "Formation of ozone",
+      "layman": "How ozone is created"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Bond lengths in molecules",
+      "layman": "Molecular bond distances"
+    },
+    {
+      "jargon": "Structure of ozone",
+      "layman": "Shape of ozone molecule"
+    },
+    {
+      "jargon": "Atomic and ionic radii of oxygen",
+      "layman": "Oxygen atom and ion sizes"
+    },
+    {
+      "jargon": "Applicability to other elements",
+      "layman": "Works for other elements too"
+    },
+    {
+      "jargon": "Hydrogen bond length explanation",
+      "layman": "How hydrogen bond size is explained"
+    }
+  ]
+}

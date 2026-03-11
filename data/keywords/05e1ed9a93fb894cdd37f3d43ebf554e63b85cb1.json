@@ -1,0 +1,65 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Transport medicine",
+      "layman": "Medical care during patient transport"
+    },
+    {
+      "jargon": "Pediatric Hospital Medicine",
+      "layman": "Child hospital care"
+    },
+    {
+      "jargon": "Fellowship stakeholders",
+      "layman": "People involved in training programs"
+    },
+    {
+      "jargon": "Program directors",
+      "layman": "Training program leaders"
+    },
+    {
+      "jargon": "Triage",
+      "layman": "Deciding which patients need help first"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cross-sectional study",
+      "layman": "Survey of current attitudes"
+    },
+    {
+      "jargon": "Web-based surveys",
+      "layman": "Online questionnaires"
+    },
+    "anonymous surveys",
+    {
+      "jargon": "Active learning strategies",
+      "layman": "Engaging teaching methods"
+    },
+    {
+      "jargon": "Curriculum design",
+      "layman": "Planning training content"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "P =.06",
+      "layman": "Slight difference in opinions"
+    },
+    {
+      "jargon": "P =.001",
+      "layman": "Strong evidence of difference"
+    },
+    {
+      "jargon": "Greater interest in rotation",
+      "layman": "More want to do transport training"
+    },
+    {
+      "jargon": "Perceived barriers",
+      "layman": "Challenges people see"
+    },
+    {
+      "jargon": "Stabilizing patients",
+      "layman": "Making patients better before transport"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sucking-Dayman Massif",
+      "layman": "Sucking-Dayman Massif"
+    },
+    {
+      "jargon": "Exhumation",
+      "layman": "Uplift of buried rock layers"
+    },
+    {
+      "jargon": "Papua New Guinea",
+      "layman": "Papua New Guinea"
+    },
+    {
+      "jargon": "Crustal block",
+      "layman": "Large piece of Earth's surface"
+    },
+    {
+      "jargon": "Tectonic boundary",
+      "layman": "Edge where Earth plates meet"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Geological mapping",
+      "layman": "Mapping rock features"
+    },
+    {
+      "jargon": "Structural analysis",
+      "layman": "Studying rock layer shapes"
+    },
+    {
+      "jargon": "Geochronology",
+      "layman": "Dating rock layers"
+    },
+    {
+      "jargon": "Field survey",
+      "layman": "On-site rock observation"
+    },
+    {
+      "jargon": "Geophysical profiling",
+      "layman": "Using tools to measure underground features"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Exhumation event",
+      "layman": "Rock rising from deep underground"
+    },
+    {
+      "jargon": "Fault reactivation",
+      "layman": "Faults becoming active again"
+    },
+    {
+      "jargon": "Thermal subsidence",
+      "layman": "Ground sinking due to cooling"
+    },
+    {
+      "jargon": "Exposure of deep crust",
+      "layman": "Deep rock layers coming to surface"
+    },
+    {
+      "jargon": "Paleo-structural patterns",
+      "layman": "Old rock layer patterns"
+    }
+  ]
+}

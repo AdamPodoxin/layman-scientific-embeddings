@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Point mass",
+      "layman": "Single point of mass"
+    },
+    {
+      "jargon": "Einstein universe",
+      "layman": "Static universe model"
+    },
+    {
+      "jargon": "Singularities",
+      "layman": "Points of infinite density"
+    },
+    {
+      "jargon": "Spacetime",
+      "layman": "Space and time together"
+    },
+    {
+      "jargon": "Vaidya solution",
+      "layman": "Gravitational model for a point particle"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Maximal analytic extension",
+      "layman": "Extending the model to include all possible solutions"
+    },
+    {
+      "jargon": "Euclidean approach",
+      "layman": "Using flat space math for quantum analysis"
+    },
+    {
+      "jargon": "Quantum aspects analysis",
+      "layman": "Studying quantum behavior in gravity"
+    },
+    {
+      "jargon": "Thermodynamics discussion",
+      "layman": "Studying heat and energy in spacetime"
+    },
+    {
+      "jargon": "Exact solution",
+      "layman": "Precise mathematical description"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Nature of singularities",
+      "layman": "How singularities behave"
+    },
+    {
+      "jargon": "Gravitational field",
+      "layman": "How gravity is produced"
+    },
+    {
+      "jargon": "Quantum aspects",
+      "layman": "Quantum effects in gravity"
+    },
+    {
+      "jargon": "Thermodynamics of spacetime",
+      "layman": "Heat-like behavior of space and time"
+    },
+    {
+      "jargon": "Analytic extension",
+      "layman": "How the model extends beyond known limits"
+    }
+  ]
+}

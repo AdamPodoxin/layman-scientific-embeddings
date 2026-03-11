@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Capital goods",
+      "layman": "Tools and machinery used in production"
+    },
+    {
+      "jargon": "Producers",
+      "layman": "Firms or companies making goods"
+    },
+    {
+      "jargon": "Technological change",
+      "layman": "Improvements in production methods"
+    },
+    {
+      "jargon": "Economic change",
+      "layman": "Shifts in the economy over time"
+    },
+    {
+      "jargon": "Production function",
+      "layman": "How inputs create outputs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Macroeconometric models",
+      "layman": "Large-scale economic models using math and data"
+    },
+    {
+      "jargon": "Disaggregation",
+      "layman": "Breaking down a whole into smaller parts"
+    },
+    {
+      "jargon": "Network analysis",
+      "layman": "Mapping how things connect and exchange"
+    },
+    {
+      "jargon": "Capital circulation",
+      "layman": "Flow of tools and machinery among producers"
+    },
+    {
+      "jargon": "Coordination problems",
+      "layman": "Difficulties in aligning producer actions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Growth",
+      "layman": "Economic expansion"
+    },
+    {
+      "jargon": "Cycles and fluctuations",
+      "layman": "Rising and falling economic periods"
+    },
+    {
+      "jargon": "Spread of technological change",
+      "layman": "New technologies spreading through firms"
+    },
+    {
+      "jargon": "Coordination failures",
+      "layman": "Producers failing to work together"
+    },
+    {
+      "jargon": "Explanations of economic change",
+      "layman": "Reasons why the economy changes"
+    }
+  ]
+}

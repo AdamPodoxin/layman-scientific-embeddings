@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "religious change",
+      "layman": "shifts in religious beliefs or practices"
+    },
+    {
+      "jargon": "secularization theories",
+      "layman": "ideas about religion declining in society"
+    },
+    {
+      "jargon": "religious regulation",
+      "layman": "rules governing religious activities"
+    },
+    {
+      "jargon": "subsidies",
+      "layman": "financial support for religion"
+    },
+    {
+      "jargon": "negative sanctions",
+      "layman": "punishments for religious behavior"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "theoretical approaches",
+      "layman": "ways of thinking about a topic"
+    },
+    {
+      "jargon": "literature on religious change",
+      "layman": "existing studies on religion changing"
+    },
+    {
+      "jargon": "analysis of key variables",
+      "layman": "examining factors that matter"
+    },
+    {
+      "jargon": "expansion of concepts",
+      "layman": "adding new ideas to existing theories"
+    },
+    {
+      "jargon": "application to China",
+      "layman": "using theories on Chinese context"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "differences in religion",
+      "layman": "variations in religious practices"
+    },
+    {
+      "jargon": "demand for religion",
+      "layman": "people's need for religious belief"
+    },
+    {
+      "jargon": "religiously-legitimated rules",
+      "layman": "rules supported by religion"
+    },
+    {
+      "jargon": "non-state positive reinforcements",
+      "layman": "non-governmental rewards for religious behavior"
+    },
+    {
+      "jargon": "near-future situation",
+      "layman": "what religion might look like soon"
+    }
+  ]
+}

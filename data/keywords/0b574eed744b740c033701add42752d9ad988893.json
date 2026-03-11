@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cosmological Constant",
+      "layman": "Dark energy driving expansion"
+    },
+    {
+      "jargon": "General Relativity",
+      "layman": "Theory of gravity and space-time"
+    },
+    {
+      "jargon": "Special Relativity",
+      "layman": "Physics of fast-moving objects"
+    },
+    {
+      "jargon": "Lorentz Transformation",
+      "layman": "Space-time change under motion"
+    },
+    {
+      "jargon": "Milgrom acceleration",
+      "layman": "Minimum acceleration in space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Einstein boost",
+      "layman": "Speed-up in space-time"
+    },
+    {
+      "jargon": "Hyperbolic rotation",
+      "layman": "Spinning motion in space"
+    },
+    {
+      "jargon": "Renormalization of metric",
+      "layman": "Adjusting space-time rules"
+    },
+    {
+      "jargon": "Minkowski space-time",
+      "layman": "Flat space-time framework"
+    },
+    {
+      "jargon": "Poincare's negative pressure",
+      "layman": "Missing force in empty space"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Accelerated expansion",
+      "layman": "Faster expansion of universe"
+    },
+    {
+      "jargon": "Hubble's law",
+      "layman": "Space stretches with time"
+    },
+    {
+      "jargon": "Cosmological parameter = -1",
+      "layman": "Extreme expansion rate"
+    },
+    {
+      "jargon": "Classical vacuum",
+      "layman": "Empty space with hidden force"
+    },
+    {
+      "jargon": "No matter present",
+      "layman": "Empty universe condition"
+    }
+  ]
+}

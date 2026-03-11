@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Wireless CORBA network",
+      "layman": "Wireless network using CORBA"
+    },
+    {
+      "jargon": "Handoff processes",
+      "layman": "Device switching connections"
+    },
+    {
+      "jargon": "Network resources",
+      "layman": "Network components"
+    },
+    {
+      "jargon": "Parallel tasks",
+      "layman": "Multiple tasks running at once"
+    },
+    {
+      "jargon": "Communication patterns",
+      "layman": "Ways data moves in network"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Generalized Stochastic Petri Net",
+      "layman": "Advanced network model with timing"
+    },
+    {
+      "jargon": "End-to-End Expected Instantaneous Reliability",
+      "layman": "Real-time network reliability measure"
+    },
+    {
+      "jargon": "GSPN performance model",
+      "layman": "Model to simulate network behavior"
+    },
+    {
+      "jargon": "Reliability modeling",
+      "layman": "Measuring network stability"
+    },
+    {
+      "jargon": "Dynamic behavior analysis",
+      "layman": "Studying how systems change over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reliability metrics",
+      "layman": "Network stability numbers"
+    },
+    {
+      "jargon": "Failure processes",
+      "layman": "Network component breakdowns"
+    },
+    {
+      "jargon": "Performance results",
+      "layman": "Network efficiency results"
+    },
+    {
+      "jargon": "Communication distance effect",
+      "layman": "Impact of distance on network performance"
+    },
+    {
+      "jargon": "Handoff occurrence",
+      "layman": "Frequency of connection switches"
+    }
+  ]
+}

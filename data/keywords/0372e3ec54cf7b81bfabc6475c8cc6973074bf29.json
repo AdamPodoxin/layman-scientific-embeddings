@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Diamond particle reinforced molten alloy",
+      "layman": "Material with diamond particles in molten metal"
+    },
+    {
+      "jargon": "Molten alloy",
+      "layman": "Liquid metal mixture"
+    },
+    {
+      "jargon": "Diamond particles",
+      "layman": "Tiny diamond pieces"
+    },
+    {
+      "jargon": "Tungsten metal",
+      "layman": "Hard metal used in mix"
+    },
+    {
+      "jargon": "Diluent",
+      "layman": "Liquid filler to adjust consistency"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Surface treatment",
+      "layman": "Coating particles to improve bonding"
+    },
+    {
+      "jargon": "Coating with tungsten layers",
+      "layman": "Adding tungsten layer to diamond surface"
+    },
+    {
+      "jargon": "Adding diamond particles to liquid metal",
+      "layman": "Mixing diamond into liquid metal"
+    },
+    {
+      "jargon": "Preparation method",
+      "layman": "Step-by-step making process"
+    },
+    {
+      "jargon": "Dispersion process",
+      "layman": "Evenly spreading particles in liquid"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved interface bonding strength",
+      "layman": "Stronger connection between materials"
+    },
+    {
+      "jargon": "Better dispersion of diamond particles",
+      "layman": "Diamonds spread evenly"
+    },
+    {
+      "jargon": "High thermal conductivity",
+      "layman": "Excellent heat transfer"
+    },
+    {
+      "jargon": "High thermal stability",
+      "layman": "Stays stable at high temperatures"
+    },
+    {
+      "jargon": "Simple operation",
+      "layman": "Easy to use and make"
+    }
+  ]
+}

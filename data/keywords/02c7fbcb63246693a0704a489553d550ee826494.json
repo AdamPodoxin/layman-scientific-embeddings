@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Polyploidy",
+      "layman": "Having extra sets of chromosomes"
+    },
+    {
+      "jargon": "Angiosperms",
+      "layman": "Flowering plants"
+    },
+    {
+      "jargon": "Eukaryotic lineages",
+      "layman": "Groups of organisms with complex cells"
+    },
+    {
+      "jargon": "Vascular plants",
+      "layman": "Plants with internal tubes for water"
+    },
+    {
+      "jargon": "Teleost fishes",
+      "layman": "Bony fish like salmon and tuna"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Genome duplication",
+      "layman": "Copying of entire genome"
+    },
+    {
+      "jargon": "Palaeopolyploidy",
+      "layman": "Ancient genome duplication events"
+    },
+    {
+      "jargon": "Evolutionary processes",
+      "layman": "Changes over time in species"
+    },
+    {
+      "jargon": "Phylogenetic analysis",
+      "layman": "Tracing evolutionary relationships"
+    },
+    {
+      "jargon": "Molecular dating",
+      "layman": "Estimating when events happened in history"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "70% of angiosperms",
+      "layman": "Most flowering plants have had genome copies"
+    },
+    {
+      "jargon": "Widespread in eukaryotes",
+      "layman": "Common across many life forms"
+    },
+    {
+      "jargon": "Ancient genome duplication",
+      "layman": "Old copy of genetic material"
+    },
+    {
+      "jargon": "Early ancestor of vertebrates",
+      "layman": "First ancestor of animals with backbones"
+    },
+    {
+      "jargon": "Repeated during teleost evolution",
+      "layman": "Happened more than once in bony fish"
+    }
+  ]
+}

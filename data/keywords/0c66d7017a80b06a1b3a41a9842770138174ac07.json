@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "African-centered literature",
+      "layman": "Literature rooted in African culture"
+    },
+    {
+      "jargon": "Afrocentric examination",
+      "layman": "Analysis from an African perspective"
+    },
+    {
+      "jargon": "Black writers",
+      "layman": "African American authors"
+    },
+    {
+      "jargon": "Eurocentered criteria",
+      "layman": "Western-based standards"
+    },
+    {
+      "jargon": "Signifyin",
+      "layman": "A form of cultural wordplay and meaning"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical examination",
+      "layman": "Careful analysis"
+    },
+    {
+      "jargon": "Literary analysis",
+      "layman": "Interpreting literature"
+    },
+    {
+      "jargon": "Cultural critique",
+      "layman": "Judging culture from a critical view"
+    },
+    {
+      "jargon": "Analytical tools",
+      "layman": "Methods to understand meaning"
+    },
+    {
+      "jargon": "Spiritual commentary",
+      "layman": "Reflections on spiritual life"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ideological commentary",
+      "layman": "Exploration of beliefs and values"
+    },
+    {
+      "jargon": "Social commentary",
+      "layman": "Reflection on society"
+    },
+    {
+      "jargon": "Spiritual insight",
+      "layman": "Understanding of spiritual life"
+    },
+    {
+      "jargon": "Cultural contribution",
+      "layman": "Value added by culture"
+    },
+    {
+      "jargon": "Legacy of Black fathers",
+      "layman": "Impact of Black father figures"
+    }
+  ]
+}

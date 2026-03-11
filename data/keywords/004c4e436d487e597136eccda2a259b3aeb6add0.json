@@ -2,54 +2,54 @@
   "core_entities": [
     {
       "jargon": "DNA molecules",
-      "layman": "Genetic material"
-    },
-    {
-      "jargon": "Cationic lipid bilayers",
-      "layman": "Positive-lipid membranes"
+      "layman": "DNA strands"
     },
     {
       "jargon": "Plasmid DNA",
-      "layman": "Circular DNA in bacteria"
+      "layman": "Circular DNA in cells"
     },
     {
-      "jargon": "High-valence cations",
-      "layman": "Strongly charged ions"
+      "jargon": "Cationic lipid bilayers",
+      "layman": "Membrane made of charged lipids"
     },
     {
       "jargon": "Mg2+ ions",
       "layman": "Magnesium ions"
+    },
+    {
+      "jargon": "Mn2+ ions",
+      "layman": "Manganese ions"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Condensed DNA structure",
-      "layman": "DNA packed tightly"
+      "jargon": "2-D condensation",
+      "layman": "DNA folding into 2D layers"
     },
     {
       "jargon": "Interhelical distance",
-      "layman": "Spacing between DNA strands"
+      "layman": "Space between DNA helix turns"
     },
     {
-      "jargon": "Ion concentration",
-      "layman": "Amount of ions in solution"
+      "jargon": "Concentration increases",
+      "layman": "More ions added"
     },
     {
-      "jargon": "Spermidine concentration",
-      "layman": "Amount of spermidine added"
+      "jargon": "Ion binding",
+      "layman": "Ions attaching to DNA"
     },
     {
-      "jargon": "2-D condensation",
-      "layman": "DNA folding into flat layers"
+      "jargon": "Condensation process",
+      "layman": "DNA packing together"
     }
   ],
   "outcomes": [
     {
       "jargon": "Minimum interhelical distance",
-      "layman": "Smallest spacing between DNA strands"
+      "layman": "Smallest spacing between DNA layers"
     },
     {
-      "jargon": "No change with Mn2+ ions",
+      "jargon": "No change with Mn2+",
       "layman": "No effect from manganese ions"
     },
     {
@@ -57,12 +57,12 @@
       "layman": "DNA detaches from membrane"
     },
     {
-      "jargon": "0.05 mM spermidine",
-      "layman": "Low concentration triggers release"
+      "jargon": "Spermidine at 0.05 mM",
+      "layman": "Spermidine at low concentration"
     },
     {
-      "jargon": "Understanding 2-D condensation",
-      "layman": "Learning how DNA forms flat layers"
+      "jargon": "High-valence cations",
+      "layman": "Strongly charged ions"
     }
   ]
 }

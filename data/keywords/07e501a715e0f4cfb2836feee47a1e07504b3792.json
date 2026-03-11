@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Air pollution",
+      "layman": "Dirty air"
+    },
+    {
+      "jargon": "Radiation balance",
+      "layman": "Earth's heat balance"
+    },
+    {
+      "jargon": "Precipitation mechanisms",
+      "layman": "Rain and snow formation"
+    },
+    {
+      "jargon": "Climate",
+      "layman": "Weather patterns over time"
+    },
+    {
+      "jargon": "Pollutants",
+      "layman": "Harmful substances in air"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Prediction",
+      "layman": "Estimating future outcomes"
+    },
+    {
+      "jargon": "Measurement",
+      "layman": "Taking data to observe"
+    },
+    {
+      "jargon": "Research needs",
+      "layman": "What more needs to be studied"
+    },
+    {
+      "jargon": "Setting standards",
+      "layman": "Creating safety rules"
+    },
+    {
+      "jargon": "Testimony",
+      "layman": "Official statement given in response"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Threats",
+      "layman": "Harmful impacts"
+    },
+    {
+      "jargon": "Ambiguities of prediction",
+      "layman": "Uncertain forecasts"
+    },
+    {
+      "jargon": "Ambiguities of measurement",
+      "layman": "Uncertain data"
+    },
+    {
+      "jargon": "Response characteristics",
+      "layman": "How systems react"
+    },
+    {
+      "jargon": "By-product",
+      "layman": "Unintended harmful result"
+    }
+  ]
+}

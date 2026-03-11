@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Partitions",
+      "layman": "Groupings of elements"
+    },
+    {
+      "jargon": "Subsets",
+      "layman": "Groups within a larger set"
+    },
+    {
+      "jargon": "Universe set",
+      "layman": "Full collection of elements"
+    },
+    {
+      "jargon": "Epimorphisms",
+      "layman": "One-to-many mappings"
+    },
+    {
+      "jargon": "Monomorphisms",
+      "layman": "One-to-one mappings"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Categorical logic",
+      "layman": "Logic using categories"
+    },
+    {
+      "jargon": "Kripke models",
+      "layman": "Logic using possible worlds"
+    },
+    {
+      "jargon": "Topological models",
+      "layman": "Logic using space and continuity"
+    },
+    {
+      "jargon": "Tableau system",
+      "layman": "Logical proof method"
+    },
+    {
+      "jargon": "Duality in category theory",
+      "layman": "Symmetrical relationships in math structures"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Correctness theorems",
+      "layman": "Proofs that rules work"
+    },
+    {
+      "jargon": "Completeness theorems",
+      "layman": "Proofs that all valid statements are captured"
+    },
+    {
+      "jargon": "Dual logic",
+      "layman": "Opposite form of logic"
+    },
+    {
+      "jargon": "Quotient objects",
+      "layman": "Grouped versions of objects"
+    },
+    {
+      "jargon": "Subobjects",
+      "layman": "Parts within a whole"
+    }
+  ]
+}

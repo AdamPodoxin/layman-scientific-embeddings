@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Markets of beliefs",
+      "layman": "Spaces where beliefs are bought and sold"
+    },
+    {
+      "jargon": "Public policies",
+      "layman": "Government rules and actions"
+    },
+    {
+      "jargon": "Religion",
+      "layman": "Religious beliefs and practices"
+    },
+    {
+      "jargon": "Secularization processes",
+      "layman": "Growing separation of religion from public life"
+    },
+    {
+      "jargon": "Regulation economics",
+      "layman": "Economics of controlling markets"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Economic analysis",
+      "layman": "Using economic tools to study behavior"
+    },
+    {
+      "jargon": "Market structure",
+      "layman": "How markets are organized"
+    },
+    {
+      "jargon": "Agent rationality",
+      "layman": "How people make logical decisions"
+    },
+    {
+      "jargon": "Normative consequences",
+      "layman": "What should be done based on analysis"
+    },
+    {
+      "jargon": "Regulation of markets",
+      "layman": "Controlling how markets operate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Behavior of agents",
+      "layman": "How people act in the market"
+    },
+    {
+      "jargon": "Economic effects",
+      "layman": "Results of market changes"
+    },
+    {
+      "jargon": "Public performances on religion",
+      "layman": "Government actions toward religion"
+    },
+    {
+      "jargon": "Fundamental components",
+      "layman": "Basic building blocks of analysis"
+    },
+    {
+      "jargon": "Consequences on regulation",
+      "layman": "Results of how markets are controlled"
+    }
+  ]
+}

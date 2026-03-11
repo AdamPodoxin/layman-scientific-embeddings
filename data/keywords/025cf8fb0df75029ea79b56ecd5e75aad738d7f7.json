@@ -1,0 +1,88 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nitride nanoparticles",
+      "layman": "Tiny metal nitride particles"
+    },
+    {
+      "jargon": "Ferromagnetic transition metals",
+      "layman": "Metals that act like tiny magnets"
+    },
+    {
+      "jargon": "Iron, cobalt, nickel targets",
+      "layman": "Metal sheets or blocks used in experiment"
+    },
+    {
+      "jargon": "Liquid nitrogen",
+      "layman": "Cold liquid used to cool materials"
+    },
+    {
+      "jargon": "Crystalline metal nitrides",
+      "layman": "Ordered solid metal-nitrogen compounds"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Laser irradiation",
+      "layman": "Shining laser at material"
+    },
+    {
+      "jargon": "Cryoablation",
+      "layman": "Material removal in cold conditions"
+    },
+    {
+      "jargon": "Plasma erosion",
+      "layman": "Material vaporized by hot plasma"
+    },
+    {
+      "jargon": "Transmission electron microscopy",
+      "layman": "Ultra-magnifying imaging of tiny particles"
+    },
+    {
+      "jargon": "Selected area electron diffraction",
+      "layman": "Testing crystal structure with electrons"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Polydisperse particles",
+      "layman": "Particles of different sizes"
+    },
+    {
+      "jargon": "Spheroidal and acicular morphologies",
+      "layman": "Round and needle-like shapes"
+    },
+    {
+      "jargon": "Fe\u2084N and Fe\u2081\u2086N\u2082",
+      "layman": "Iron nitride compounds"
+    },
+    {
+      "jargon": "Co\u2082N and Co\u2083N",
+      "layman": "Cobalt nitride compounds"
+    },
+    {
+      "jargon": "Ni\u2084N and Ni\u2088N",
+      "layman": "Nickel nitride compounds"
+    },
+    {
+      "jargon": "Superparamagnetic-like behavior",
+      "layman": "Tiny magnets that don't stay aligned"
+    },
+    {
+      "jargon": "Blocking temperature",
+      "layman": "Temperature when particles stop acting like magnets"
+    },
+    {
+      "jargon": "Single-step method",
+      "layman": "One-step process to make nanoparticles"
+    },
+    {
+      "jargon": "Green route",
+      "layman": "Eco-friendly method"
+    },
+    {
+      "jargon": "Multi-step processes",
+      "layman": "Complex, many-step methods"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Taxation",
+      "layman": "Taxes"
+    },
+    {
+      "jargon": "Income tax",
+      "layman": "Tax on income"
+    },
+    {
+      "jargon": "Fixed incomes",
+      "layman": "Stable payments"
+    },
+    {
+      "jargon": "Government revenue",
+      "layman": "Money collected by government"
+    },
+    {
+      "jargon": "University applicants",
+      "layman": "Students applying to university"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Open-response questionnaire",
+      "layman": "Free-text survey"
+    },
+    {
+      "jargon": "Anonymous survey",
+      "layman": "Survey without names"
+    },
+    {
+      "jargon": "Free-response items",
+      "layman": "Open-ended questions"
+    },
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Data analysis"
+    },
+    {
+      "jargon": "Direct quotes",
+      "layman": "People's own words"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Considerable ignorance",
+      "layman": "Little knowledge"
+    },
+    {
+      "jargon": "General acceptance",
+      "layman": "Widespread agreement"
+    },
+    {
+      "jargon": "Fundamental ignorance",
+      "layman": "Basic lack of understanding"
+    },
+    {
+      "jargon": "Precise percentage knowledge",
+      "layman": "Exact numbers known"
+    },
+    {
+      "jargon": "Implications for education and politics",
+      "layman": "Effects on learning and government"
+    }
+  ]
+}

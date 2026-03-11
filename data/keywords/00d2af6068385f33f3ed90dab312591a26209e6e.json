@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Web architecture",
+      "layman": "Web structure"
+    },
+    {
+      "jargon": "Search engines",
+      "layman": "Search tools"
+    },
+    {
+      "jargon": "Photo-sharing",
+      "layman": "Sharing photos"
+    },
+    {
+      "jargon": "Financial transactions",
+      "layman": "Money transfers"
+    },
+    {
+      "jargon": "APIs",
+      "layman": "Software interfaces"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Build on top of",
+      "layman": "Add software to existing systems"
+    },
+    {
+      "jargon": "Co-exist peacefully",
+      "layman": "Work together without conflict"
+    },
+    {
+      "jargon": "Program on top of the Web",
+      "layman": "Create software using the Web"
+    },
+    {
+      "jargon": "Bolted on top",
+      "layman": "Added later without planning"
+    },
+    {
+      "jargon": "Supporting applications",
+      "layman": "Apps that use the Web"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "What it got right",
+      "layman": "What works well"
+    },
+    {
+      "jargon": "What it got wrong",
+      "layman": "What fails or misfires"
+    },
+    {
+      "jargon": "Why it is the way it is",
+      "layman": "Reasons for current design"
+    },
+    {
+      "jargon": "Fairly serves users",
+      "layman": "Helps users fairly"
+    },
+    {
+      "jargon": "Developers building on top",
+      "layman": "Others creating new tools"
+    }
+  ]
+}

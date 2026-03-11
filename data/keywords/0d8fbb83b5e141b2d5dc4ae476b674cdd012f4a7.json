@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Accelerated mirror",
+      "layman": "Moving mirror"
+    },
+    {
+      "jargon": "Field condensate",
+      "layman": "Condensed field near surface"
+    },
+    {
+      "jargon": "Massive fields",
+      "layman": "Heavy field types"
+    },
+    {
+      "jargon": "Gravitational field",
+      "layman": "Gravity field"
+    },
+    {
+      "jargon": "Bekenstein entropy bound",
+      "layman": "Limit on information in space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Observer-dependent effect",
+      "layman": "Effect seen only by certain observers"
+    },
+    {
+      "jargon": "Inertial observers",
+      "layman": "Non-accelerating observers"
+    },
+    {
+      "jargon": "Localization",
+      "layman": "Concentration in one place"
+    },
+    {
+      "jargon": "Field formation",
+      "layman": "Field building up"
+    },
+    {
+      "jargon": "Entropy bound analysis",
+      "layman": "Checking information limits"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Formation of field condensate",
+      "layman": "Field forms near mirror"
+    },
+    {
+      "jargon": "Detection by inertial observers",
+      "layman": "Non-moving observers see it too"
+    },
+    {
+      "jargon": "Agreement with Bekenstein's bound",
+      "layman": "Matches known information limit"
+    },
+    {
+      "jargon": "Non-observer-dependent effect",
+      "layman": "Seen by all observers"
+    },
+    {
+      "jargon": "Surface field localization",
+      "layman": "Field stays close to mirror"
+    }
+  ]
+}

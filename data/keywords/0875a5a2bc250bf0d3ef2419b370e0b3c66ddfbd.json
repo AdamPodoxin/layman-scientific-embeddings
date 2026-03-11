@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Voice-based service",
+      "layman": "Voice-based service"
+    },
+    {
+      "jargon": "System Under Testing (SUT)",
+      "layman": "System being tested"
+    },
+    {
+      "jargon": "Testing language",
+      "layman": "Language for testing"
+    },
+    {
+      "jargon": "Non-deterministic operators",
+      "layman": "Operators with multiple possible outcomes"
+    },
+    {
+      "jargon": "Interpreter",
+      "layman": "Program that runs tests"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Non-fully deterministic testing",
+      "layman": "Testing that allows multiple possible outcomes"
+    },
+    {
+      "jargon": "Operational semantics",
+      "layman": "Rules for how operations work"
+    },
+    {
+      "jargon": "Testing scenario",
+      "layman": "A test case setup"
+    },
+    {
+      "jargon": "Execution",
+      "layman": "How a test runs"
+    },
+    {
+      "jargon": "Interpreter tries to find best fit",
+      "layman": "System finds best matching behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Experimental results",
+      "layman": "Test results from experiments"
+    },
+    {
+      "jargon": "Real behavior of SUT",
+      "layman": "Actual way the system behaves"
+    },
+    {
+      "jargon": "Multiple different executions",
+      "layman": "Several possible test runs"
+    },
+    {
+      "jargon": "Best-fitting execution",
+      "layman": "Most accurate test run"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "Real-world example used for testing"
+    }
+  ]
+}

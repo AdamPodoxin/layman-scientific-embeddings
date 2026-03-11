@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "anatase TiO2",
+      "layman": "a type of titanium dioxide"
+    },
+    {
+      "jargon": "Ni, C co-doped",
+      "layman": "nickel and carbon together in material"
+    },
+    {
+      "jargon": "band gap",
+      "layman": "energy barrier in material"
+    },
+    {
+      "jargon": "optical absorption",
+      "layman": "how material absorbs light"
+    },
+    {
+      "jargon": "photocatalytic activity",
+      "layman": "ability to drive chemical reactions with light"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "density functional calculations",
+      "layman": "computer simulations of electron behavior"
+    },
+    {
+      "jargon": "pseudopotential plane wave approach",
+      "layman": "simplified model for atomic structure"
+    },
+    {
+      "jargon": "HSE06 hybrid functional calculation",
+      "layman": "advanced computer method for energy levels"
+    },
+    {
+      "jargon": "Gaussian type of orbital",
+      "layman": "mathematical shape for electron waves"
+    },
+    {
+      "jargon": "impurity formation energy",
+      "layman": "how hard it is for atoms to join the material"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "lowest impurity formation energy",
+      "layman": "easiest for atoms to join"
+    },
+    {
+      "jargon": "smallest direct band gap",
+      "layman": "narrower energy barrier"
+    },
+    {
+      "jargon": "red-shift in absorption band edge",
+      "layman": "absorbs longer light wavelengths"
+    },
+    {
+      "jargon": "absorb more visible light",
+      "layman": "takes in more visible light"
+    },
+    {
+      "jargon": "higher photocatalytic activity",
+      "layman": "better at using light to trigger reactions"
+    }
+  ]
+}

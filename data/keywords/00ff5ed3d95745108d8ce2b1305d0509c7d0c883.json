@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Great October Socialist Revolution",
+      "layman": "Soviet revolution"
+    },
+    {
+      "jargon": "Far North peoples",
+      "layman": "Indigenous northern communities"
+    },
+    {
+      "jargon": "Economic development",
+      "layman": "Improving economy"
+    },
+    {
+      "jargon": "Cultural equality",
+      "layman": "Equal cultural rights"
+    },
+    {
+      "jargon": "Backward peoples",
+      "layman": "Underdeveloped communities"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Policy implementation",
+      "layman": "Carrying out government plans"
+    },
+    {
+      "jargon": "Legislative action",
+      "layman": "Passing new laws"
+    },
+    {
+      "jargon": "Cultural upgrading",
+      "layman": "Improving cultural standards"
+    },
+    {
+      "jargon": "Educational expansion",
+      "layman": "Growing schools and education"
+    },
+    {
+      "jargon": "Economic policy",
+      "layman": "Government plans to boost economy"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cultural equality",
+      "layman": "Equal cultural rights"
+    },
+    {
+      "jargon": "Improved education level",
+      "layman": "Higher education standards"
+    },
+    {
+      "jargon": "Reduction of inequality",
+      "layman": "Less disparity"
+    },
+    {
+      "jargon": "Higher culture level",
+      "layman": "Better cultural development"
+    },
+    {
+      "jargon": "Equal rights",
+      "layman": "Same rights for all"
+    }
+  ]
+}

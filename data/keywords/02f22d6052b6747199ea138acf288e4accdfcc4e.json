@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Dark matter",
+      "layman": "Invisible matter that holds galaxies together"
+    },
+    {
+      "jargon": "Collision-less particles",
+      "layman": "Particles that don't collide with each other"
+    },
+    {
+      "jargon": "Expanding universe",
+      "layman": "Universe growing larger over time"
+    },
+    {
+      "jargon": "Gravitational clustering",
+      "layman": "Matter grouping under gravity"
+    },
+    {
+      "jargon": "Cosmic structure",
+      "layman": "Large-scale patterns in the universe"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Semianalytic methods",
+      "layman": "Mixed math and simulation models"
+    },
+    {
+      "jargon": "Gravitational potential",
+      "layman": "Gravity's influence field"
+    },
+    {
+      "jargon": "N-body simulations",
+      "layman": "Computer models of many particles moving under gravity"
+    },
+    {
+      "jargon": "Initial conditions",
+      "layman": "Starting state of the universe"
+    },
+    {
+      "jargon": "Linear perturbation theory",
+      "layman": "Small changes in gravity over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Open questions",
+      "layman": "Unclear or unsolved issues"
+    },
+    {
+      "jargon": "Clustering hierarchy",
+      "layman": "How structures form at different scales"
+    },
+    {
+      "jargon": "Non-linear evolution",
+      "layman": "Complex growth of structures"
+    },
+    {
+      "jargon": "Small-scale discrepancies",
+      "layman": "Mismatches in small regions"
+    },
+    {
+      "jargon": "Structure formation",
+      "layman": "How galaxies and clusters form"
+    }
+  ]
+}

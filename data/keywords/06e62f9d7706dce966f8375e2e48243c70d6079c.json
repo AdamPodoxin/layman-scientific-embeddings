@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mg-5.8 Zn-0.5 Zr-1.0 Yb alloy",
+      "layman": "Magnesium alloy with zinc, zirconium, and ytterbium"
+    },
+    {
+      "jargon": "Dynamic recrystallization (DRX)",
+      "layman": "New crystal formation during deformation"
+    },
+    {
+      "jargon": "Hot deformation",
+      "layman": "Shaping metal when hot"
+    },
+    {
+      "jargon": "Microstructure",
+      "layman": "Internal structure of material"
+    },
+    {
+      "jargon": "Processing map",
+      "layman": "Guide for optimal shaping conditions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Isothermal compression tests",
+      "layman": "Compressing metal at constant temperature"
+    },
+    {
+      "jargon": "Arrhenius-type constitutive equation",
+      "layman": "Math model for material behavior under heat and stress"
+    },
+    {
+      "jargon": "Optical microscopy",
+      "layman": "Using light to see material details"
+    },
+    {
+      "jargon": "Electron backscatter diffraction",
+      "layman": "Analyzing crystal patterns with electrons"
+    },
+    {
+      "jargon": "Gleeble-1500 thermal simulator",
+      "layman": "Machine that simulates hot metal processing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Two DRX domains",
+      "layman": "Two zones of crystal growth during heating"
+    },
+    {
+      "jargon": "280\u2013350\u00b0C and 0.15\u20131 s\u207b\u00b9",
+      "layman": "Temperature and speed range for crystal growth"
+    },
+    {
+      "jargon": "330\u2013400\u00b0C and 0.001\u20130.09 s\u207b\u00b9",
+      "layman": "Another temperature-speed zone for crystal growth"
+    },
+    {
+      "jargon": "Unstable regions",
+      "layman": "Conditions where material deforms poorly"
+    },
+    {
+      "jargon": "Microstructural evolution",
+      "layman": "How material structure changes over time"
+    }
+  ]
+}

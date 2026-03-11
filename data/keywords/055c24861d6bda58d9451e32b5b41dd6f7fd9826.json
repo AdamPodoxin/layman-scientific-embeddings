@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Revision sequences",
+      "layman": "Step-by-step truth updates"
+    },
+    {
+      "jargon": "Cofinally invariant sequences",
+      "layman": "Sequences that stabilize at the end"
+    },
+    {
+      "jargon": "Truth theories",
+      "layman": "Theories about truth"
+    },
+    {
+      "jargon": "Herzberger's theory",
+      "layman": "One truth theory by Herzberger"
+    },
+    {
+      "jargon": "Gupta's theory",
+      "layman": "One truth theory by Gupta"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Generalize",
+      "layman": "Make broader or more abstract"
+    },
+    {
+      "jargon": "Develop",
+      "layman": "Create or build"
+    },
+    {
+      "jargon": "Prove",
+      "layman": "Show something is true"
+    },
+    {
+      "jargon": "Introduce",
+      "layman": "Present for the first time"
+    },
+    {
+      "jargon": "Show that facts hold",
+      "layman": "Verify known results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Known facts hold",
+      "layman": "Old results still work"
+    },
+    {
+      "jargon": "New and more informative proofs",
+      "layman": "Better explanations of old results"
+    },
+    {
+      "jargon": "Mathematical tool",
+      "layman": "Tool for solving problems"
+    },
+    {
+      "jargon": "Transfinite sequences",
+      "layman": "Infinite sequences of steps"
+    },
+    {
+      "jargon": "Abstract kind of sequences",
+      "layman": "More general sequences"
+    }
+  ]
+}

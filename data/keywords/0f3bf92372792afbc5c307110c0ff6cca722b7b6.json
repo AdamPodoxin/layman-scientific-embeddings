@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Heuristic algorithms",
+      "layman": "Smart shortcuts for solving hard problems"
+    },
+    {
+      "jargon": "NP-hard problems",
+      "layman": "Very hard problems that take a long time to solve"
+    },
+    {
+      "jargon": "Multi-genome alignment",
+      "layman": "Matching DNA across many species"
+    },
+    {
+      "jargon": "Protein-protein interaction networks",
+      "layman": "Maps of how proteins connect and work together"
+    },
+    {
+      "jargon": "Colorful connected graph detection",
+      "layman": "Finding linked groups in complex protein maps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Framework for designing",
+      "layman": "Step-by-step plan to build solutions"
+    },
+    {
+      "jargon": "Validating heuristic algorithms",
+      "layman": "Testing if shortcuts give good answers"
+    },
+    {
+      "jargon": "Implicit hitting set problems",
+      "layman": "Finding key elements in hidden sets"
+    },
+    {
+      "jargon": "Analysis of interaction networks",
+      "layman": "Studying how proteins connect"
+    },
+    {
+      "jargon": "Application areas",
+      "layman": "Real-world uses like biology or engineering"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "NP-hard problems",
+      "layman": "Problems that are extremely difficult to solve exactly"
+    },
+    {
+      "jargon": "Multi-genome alignment",
+      "layman": "Accurate DNA matching across species"
+    },
+    {
+      "jargon": "Colorful connected graph detection",
+      "layman": "Finding meaningful protein clusters"
+    },
+    {
+      "jargon": "Implicit hitting set problems",
+      "layman": "Identifying essential components in complex systems"
+    },
+    {
+      "jargon": "Framework validation",
+      "layman": "Proving the method works in practice"
+    }
+  ]
+}

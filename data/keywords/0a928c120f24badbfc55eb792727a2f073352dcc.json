@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Non-cooperative games",
+      "layman": "Competitive games"
+    },
+    {
+      "jargon": "Equilibria",
+      "layman": "Stable outcomes"
+    },
+    {
+      "jargon": "Categorical properties",
+      "layman": "Mathematical patterns"
+    },
+    {
+      "jargon": "Functors",
+      "layman": "Mapping rules"
+    },
+    {
+      "jargon": "Categories of games",
+      "layman": "Types of games"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Generalisations of non-cooperative games",
+      "layman": "Expanded versions of competitive games"
+    },
+    {
+      "jargon": "Proving equilibria are functors",
+      "layman": "Showing stable outcomes follow mapping rules"
+    },
+    {
+      "jargon": "Categorical study",
+      "layman": "Mathematical analysis of structure"
+    },
+    {
+      "jargon": "Mathematical proof",
+      "layman": "Logical demonstration"
+    },
+    {
+      "jargon": "Corresponding equilibria",
+      "layman": "Matching stable results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Equilibria in categories of games",
+      "layman": "Stable results in game types"
+    },
+    {
+      "jargon": "Functors to the category of sets",
+      "layman": "Mapping stable outcomes to simple groups"
+    },
+    {
+      "jargon": "Categorical properties",
+      "layman": "Mathematical patterns"
+    },
+    {
+      "jargon": "New generalisations",
+      "layman": "New expanded game types"
+    },
+    {
+      "jargon": "Proved to be functors",
+      "layman": "Confirmed to follow mapping rules"
+    }
+  ]
+}

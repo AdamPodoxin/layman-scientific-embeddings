@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bilocal field theory",
+      "layman": "Field theory with two points connected"
+    },
+    {
+      "jargon": "Topological solitons",
+      "layman": "Stable, knot-like field structures"
+    },
+    {
+      "jargon": "Chiral Gross-Neveu model",
+      "layman": "A type of particle physics model"
+    },
+    {
+      "jargon": "Large N limit",
+      "layman": "Very large number limit in physics"
+    },
+    {
+      "jargon": "Mass spectrum",
+      "layman": "Range of particle masses"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Large N limit",
+      "layman": "Very large number limit in physics"
+    },
+    {
+      "jargon": "Exact classical solutions",
+      "layman": "Precise mathematical solutions"
+    },
+    {
+      "jargon": "Field theory",
+      "layman": "Model for how fields behave"
+    },
+    {
+      "jargon": "Topological solitons",
+      "layman": "Stable, knot-like field structures"
+    },
+    {
+      "jargon": "Mass spectrum agreement",
+      "layman": "Matching of predicted and observed masses"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mass spectrum agrees",
+      "layman": "Predicted and actual masses match"
+    },
+    {
+      "jargon": "Topological solitons exist",
+      "layman": "Stable field knots are found"
+    },
+    {
+      "jargon": "Large N limit of spectrum",
+      "layman": "Mass pattern in large systems matches"
+    },
+    {
+      "jargon": "Exact classical solutions",
+      "layman": "Precise stable field patterns found"
+    },
+    {
+      "jargon": "Spectrum agreement",
+      "layman": "Theoretical and real data match"
+    }
+  ]
+}

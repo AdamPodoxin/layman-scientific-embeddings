@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Supersymmetric black holes",
+      "layman": "Black holes with symmetry properties"
+    },
+    {
+      "jargon": "AdS5 black holes",
+      "layman": "Black holes in five-dimensional space"
+    },
+    {
+      "jargon": "Gauged supergravity",
+      "layman": "Gravity theory with symmetry forces"
+    },
+    {
+      "jargon": "Abelian vector multiplets",
+      "layman": "Groups of force particles"
+    },
+    {
+      "jargon": "Maximally supersymmetric solutions",
+      "layman": "Most symmetric black hole configurations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Presented",
+      "layman": "Described"
+    },
+    {
+      "jargon": "Discussed",
+      "layman": "Explained"
+    },
+    {
+      "jargon": "Obtained",
+      "layman": "Found"
+    },
+    {
+      "jargon": "Coupled to",
+      "layman": "Connected with"
+    },
+    {
+      "jargon": "General nature of solutions",
+      "layman": "Overall behavior of the solutions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "All maximally supersymmetric solutions",
+      "layman": "All most symmetric black hole forms"
+    },
+    {
+      "jargon": "With or without gauging",
+      "layman": "Including or excluding force interactions"
+    },
+    {
+      "jargon": "Five dimensional gauged supergravity",
+      "layman": "Five-dimensional gravity with forces"
+    },
+    {
+      "jargon": "Arbitrarily many abelian vector multiplets",
+      "layman": "Many types of force particles"
+    },
+    {
+      "jargon": "General supersymmetric AdS5 black holes",
+      "layman": "Common symmetric black holes in five dimensions"
+    }
+  ]
+}

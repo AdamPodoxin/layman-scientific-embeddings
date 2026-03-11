@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Linear logic",
+      "layman": "Logic that tracks resource use"
+    },
+    {
+      "jargon": "Proof nets",
+      "layman": "Graphs showing valid logical proofs"
+    },
+    {
+      "jargon": "Phase spaces",
+      "layman": "Mathematical spaces for logical states"
+    },
+    {
+      "jargon": "Galois connection",
+      "layman": "Mathematical relationship between two sets"
+    },
+    {
+      "jargon": "Danos-Regnier criterion",
+      "layman": "Rule to check if a proof net is valid"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Algebraic semantics",
+      "layman": "Using math structures to explain logic"
+    },
+    {
+      "jargon": "Graph-theoretic decomposition",
+      "layman": "Breaking graphs into simpler parts"
+    },
+    {
+      "jargon": "Girard\u2019s translation",
+      "layman": "Method to convert classical logic to intuitionistic logic"
+    },
+    {
+      "jargon": "Phase semantics",
+      "layman": "Logic interpreted through phase spaces"
+    },
+    {
+      "jargon": "Correctness proof",
+      "layman": "Demonstrating a method works properly"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "O(n\u00b2)-time algorithm",
+      "layman": "Fast test for proof net validity"
+    },
+    {
+      "jargon": "Correct proof net",
+      "layman": "Valid logical proof structure"
+    },
+    {
+      "jargon": "Existence of algorithm",
+      "layman": "A method to check proofs efficiently"
+    },
+    {
+      "jargon": "Graph decomposition lemma",
+      "layman": "Rule for breaking down proof graphs"
+    },
+    {
+      "jargon": "Correctness of Danos-Regnier criterion",
+      "layman": "Proven rule for valid proofs"
+    }
+  ]
+}

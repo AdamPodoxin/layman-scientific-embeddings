@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "MOOCs",
+      "layman": "Online courses with thousands of students"
+    },
+    {
+      "jargon": "Software engineering",
+      "layman": "Building software systems"
+    },
+    {
+      "jargon": "SaaS",
+      "layman": "Software as a service"
+    },
+    {
+      "jargon": "Ruby on Rails",
+      "layman": "Web development framework"
+    },
+    {
+      "jargon": "Version control",
+      "layman": "Tracking changes to code"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Behavior-driven development",
+      "layman": "Writing tests from user needs"
+    },
+    {
+      "jargon": "Test-first development",
+      "layman": "Write tests before writing code"
+    },
+    {
+      "jargon": "User stories",
+      "layman": "Simple goals from customer perspective"
+    },
+    {
+      "jargon": "Low-fidelity mockups",
+      "layman": "Simple design sketches"
+    },
+    {
+      "jargon": "Velocity measurement",
+      "layman": "Team progress tracking"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Automated grading",
+      "layman": "Grading by computer"
+    },
+    {
+      "jargon": "Teamwork in distributed settings",
+      "layman": "Working together remotely"
+    },
+    {
+      "jargon": "Requirements elicitation",
+      "layman": "Understanding user needs"
+    },
+    {
+      "jargon": "Effective presentation skills",
+      "layman": "Explaining ideas clearly"
+    },
+    {
+      "jargon": "Spontaneous study groups",
+      "layman": "Students forming groups to learn"
+    }
+  ]
+}

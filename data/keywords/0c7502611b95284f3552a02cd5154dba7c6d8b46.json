@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "CeO2\u2013TiO2 composite thin films",
+      "layman": "Mixed oxide thin films"
+    },
+    {
+      "jargon": "FTO substrates",
+      "layman": "Glass base with conductive layer"
+    },
+    {
+      "jargon": "Crystalline CeO2 phases",
+      "layman": "Ordered cerium oxide structure"
+    },
+    {
+      "jargon": "Crystalline TiO2 phases",
+      "layman": "Ordered titanium oxide structure"
+    },
+    {
+      "jargon": "Heterojunction",
+      "layman": "Connection between two different materials"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Aerosol assisted chemical vapor deposition (AACVD)",
+      "layman": "Thin film growth using vapor and aerosol"
+    },
+    {
+      "jargon": "Solution based CVD",
+      "layman": "Chemical vapor deposition from liquid solution"
+    },
+    {
+      "jargon": "XRD analysis",
+      "layman": "X-ray test for crystal structure"
+    },
+    {
+      "jargon": "SEM",
+      "layman": "Microscope for surface shape"
+    },
+    {
+      "jargon": "EDX and XPS analyses",
+      "layman": "Tests for element and chemical state"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Direct bandgap of 2.6 eV",
+      "layman": "Light absorption range"
+    },
+    {
+      "jargon": "Photocurrent density of 1.0 mA cm\u207b\u00b2",
+      "layman": "Electric current from light"
+    },
+    {
+      "jargon": "Photo stability up to 60 min",
+      "layman": "Stays active for 60 minutes"
+    },
+    {
+      "jargon": "Electrochemical impedance spectroscopy",
+      "layman": "Test of electrical resistance under light"
+    },
+    {
+      "jargon": "Bode phase angle measurements",
+      "layman": "Analysis of how signals change over time"
+    }
+  ]
+}

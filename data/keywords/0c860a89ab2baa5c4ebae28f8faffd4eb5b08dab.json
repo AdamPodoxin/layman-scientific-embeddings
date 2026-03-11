@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Topological Tverberg conjecture",
+      "layman": "Unsolved math problem about shapes and points"
+    },
+    {
+      "jargon": "Simplex",
+      "layman": "Shape made of points connected in a triangle or higher form"
+    },
+    {
+      "jargon": "Continuous map",
+      "layman": "Smooth function from one shape to another"
+    },
+    {
+      "jargon": "Subsimplices",
+      "layman": "Smaller parts of a shape"
+    },
+    {
+      "jargon": "Intersection",
+      "layman": "Points where shapes meet"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Proof",
+      "layman": "Logical argument showing something is true"
+    },
+    {
+      "jargon": "Counterexample",
+      "layman": "Example that disproves a claim"
+    },
+    {
+      "jargon": "Interplay",
+      "layman": "Working together of different fields"
+    },
+    {
+      "jargon": "Algebraic methods",
+      "layman": "Math tools using equations and rules"
+    },
+    {
+      "jargon": "Topological arguments",
+      "layman": "Shape-based reasoning about space and connections"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Pairwise disjoint subsimplices",
+      "layman": "Separate groups of points that don\u2019t overlap"
+    },
+    {
+      "jargon": "Non-empty intersection",
+      "layman": "Shared point in the result"
+    },
+    {
+      "jargon": "Prime power r",
+      "layman": "Special type of number like 2, 4, 8"
+    },
+    {
+      "jargon": "Counterexample found",
+      "layman": "A case that breaks the rule"
+    },
+    {
+      "jargon": "Recent papers",
+      "layman": "New studies published recently"
+    }
+  ]
+}

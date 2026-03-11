@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Consumers",
+      "layman": "Buyers"
+    },
+    {
+      "jargon": "Monopoly merchant",
+      "layman": "Single seller with no competition"
+    },
+    {
+      "jargon": "Purchase history",
+      "layman": "Past buying records"
+    },
+    {
+      "jargon": "Price offers",
+      "layman": "Selling prices"
+    },
+    {
+      "jargon": "High-value consumers",
+      "layman": "Customers who value the product more"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Price discrimination",
+      "layman": "Charging different prices to different people"
+    },
+    {
+      "jargon": "Committing to a pricing policy",
+      "layman": "Setting prices in advance"
+    },
+    {
+      "jargon": "Enhanced services",
+      "layman": "Better customer support or features"
+    },
+    {
+      "jargon": "Privacy protection strategies",
+      "layman": "Ways to hide buying habits"
+    },
+    {
+      "jargon": "Market competition",
+      "layman": "Multiple sellers competing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Profitable to condition prices",
+      "layman": "Makes money by using past purchases"
+    },
+    {
+      "jargon": "Never optimal to price-discriminate",
+      "layman": "Not worth charging different prices"
+    },
+    {
+      "jargon": "General profitability",
+      "layman": "Often profitable in new scenarios"
+    },
+    {
+      "jargon": "Rational consumers",
+      "layman": "Smart buyers who make logical choices"
+    },
+    {
+      "jargon": "Constant valuations",
+      "layman": "Same value for the product over time"
+    }
+  ]
+}

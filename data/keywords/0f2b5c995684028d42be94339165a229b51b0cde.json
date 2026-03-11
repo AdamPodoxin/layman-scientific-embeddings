@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hamiltonian analogy",
+      "layman": "Link between light paths and physical motion"
+    },
+    {
+      "jargon": "Optical paths",
+      "layman": "Paths light takes in a medium"
+    },
+    {
+      "jargon": "Mechanical trajectories",
+      "layman": "Paths objects move in space"
+    },
+    {
+      "jargon": "Wavefunction \u03a8",
+      "layman": "Quantum state description"
+    },
+    {
+      "jargon": "Hamilton's principal function S",
+      "layman": "Classical path function"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hamiltonian analogy",
+      "layman": "Using light paths to model motion"
+    },
+    {
+      "jargon": "Transition from S to \u03a8",
+      "layman": "Shifting from classical to quantum model"
+    },
+    {
+      "jargon": "Optics as a guide",
+      "layman": "Using light behavior to teach quantum ideas"
+    },
+    {
+      "jargon": "Schrodinger's original idea",
+      "layman": "Early quantum theory concept"
+    },
+    {
+      "jargon": "Mathematical beauty and simplicity",
+      "layman": "Clean and elegant math"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Connection between classical and quantum mechanics",
+      "layman": "Bridge between old and new physics"
+    },
+    {
+      "jargon": "Ignored in university education",
+      "layman": "Not taught in schools"
+    },
+    {
+      "jargon": "Mathematical beauty and simplicity",
+      "layman": "Clean and elegant math"
+    },
+    {
+      "jargon": "Travel from classical to quantum mechanics",
+      "layman": "Move from known to unknown physics"
+    },
+    {
+      "jargon": "Filling a gap in education",
+      "layman": "Fixing missing teaching content"
+    }
+  ]
+}

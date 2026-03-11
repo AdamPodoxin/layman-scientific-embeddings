@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Wave function",
+      "layman": "Probability pattern"
+    },
+    {
+      "jargon": "Special Theory of Relativity",
+      "layman": "Speed of light rules"
+    },
+    {
+      "jargon": "Physical space",
+      "layman": "Real space"
+    },
+    {
+      "jargon": "Vacuum particles",
+      "layman": "Empty space particles"
+    },
+    {
+      "jargon": "Stationary vacuum electrons",
+      "layman": "Still electrons in empty space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "New interpretation of Special Theory of Relativity",
+      "layman": "New way of seeing relativity"
+    },
+    {
+      "jargon": "Model for physical space",
+      "layman": "Space blueprint"
+    },
+    {
+      "jargon": "4-Dimensional Complex Space",
+      "layman": "Space with four complex layers"
+    },
+    {
+      "jargon": "Internal complex space",
+      "layman": "Inner complex layer in each dimension"
+    },
+    {
+      "jargon": "Connecting intangible reality",
+      "layman": "Linking unseen reality"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Consistent understanding of Quantum Mechanics",
+      "layman": "Clear link between quantum and classical rules"
+    },
+    {
+      "jargon": "Natural phenomena connected to intangible reality",
+      "layman": "Nature tied to unseen things"
+    },
+    {
+      "jargon": "Cannot be measured directly",
+      "layman": "Not directly observable"
+    },
+    {
+      "jargon": "Vacuum electrons as a model",
+      "layman": "Electrons used to explain empty space"
+    },
+    {
+      "jargon": "Understand basic principles from Classical Theory",
+      "layman": "Learn quantum rules from old physics"
+    }
+  ]
+}

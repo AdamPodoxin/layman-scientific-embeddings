@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Stable model",
+      "layman": "Stable model"
+    },
+    {
+      "jargon": "Gringo programs",
+      "layman": "Gringo programs"
+    },
+    {
+      "jargon": "Local variables",
+      "layman": "Local variables"
+    },
+    {
+      "jargon": "Conditional literals",
+      "layman": "Conditional literals"
+    },
+    {
+      "jargon": "Aggregates",
+      "layman": "Aggregates"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Infinitary propositional formulas",
+      "layman": "Infinite logical statements"
+    },
+    {
+      "jargon": "Natural deduction",
+      "layman": "Logical reasoning steps"
+    },
+    {
+      "jargon": "Equivalent transformations",
+      "layman": "Same meaning, different form"
+    },
+    {
+      "jargon": "Translation",
+      "layman": "Converting to another form"
+    },
+    {
+      "jargon": "Semantics definition",
+      "layman": "Defining meaning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Precise semantics",
+      "layman": "Clear meaning"
+    },
+    {
+      "jargon": "Informal comments",
+      "layman": "Simple explanations"
+    },
+    {
+      "jargon": "User's intuition",
+      "layman": "User's gut feeling"
+    },
+    {
+      "jargon": "Natural deduction",
+      "layman": "Logical reasoning steps"
+    },
+    {
+      "jargon": "Stable model explanation",
+      "layman": "Clear explanation of stable model"
+    }
+  ]
+}

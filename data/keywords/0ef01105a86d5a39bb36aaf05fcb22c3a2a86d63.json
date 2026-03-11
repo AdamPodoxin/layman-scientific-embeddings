@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Peterlee Relational Test Vehicle",
+      "layman": "Database prototype system"
+    },
+    {
+      "jargon": "ISBL",
+      "layman": "Database programming language"
+    },
+    {
+      "jargon": "Relational databases",
+      "layman": "Organized data tables"
+    },
+    {
+      "jargon": "Bulk data",
+      "layman": "Large amounts of data"
+    },
+    {
+      "jargon": "Functional extensibility",
+      "layman": "Ability to add new features"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Data-base language design",
+      "layman": "Designing languages for databases"
+    },
+    {
+      "jargon": "Efficient implementation techniques",
+      "layman": "Fast and smart system building"
+    },
+    {
+      "jargon": "Interactive data-base support",
+      "layman": "Real-time data interaction"
+    },
+    {
+      "jargon": "Prototype development",
+      "layman": "Building a test version"
+    },
+    {
+      "jargon": "Research in database systems",
+      "layman": "Studying how databases work"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Flexible data support",
+      "layman": "Adaptable data handling"
+    },
+    {
+      "jargon": "Solving database problems",
+      "layman": "Fixing database issues"
+    },
+    {
+      "jargon": "Evolving prototype",
+      "layman": "Growing test system"
+    },
+    {
+      "jargon": "Functional extensibility",
+      "layman": "Ability to add new features"
+    },
+    {
+      "jargon": "Research in implementation",
+      "layman": "Learning how to build better systems"
+    }
+  ]
+}

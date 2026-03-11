@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Scientific Psychology",
+      "layman": "Study of mind through science"
+    },
+    {
+      "jargon": "Goncalves de Magalhaes",
+      "layman": "Brazilian philosopher"
+    },
+    {
+      "jargon": "Tobias Barreto",
+      "layman": "Brazilian philosopher"
+    },
+    {
+      "jargon": "Self-consciousness",
+      "layman": "Awareness of oneself"
+    },
+    {
+      "jargon": "Naturalism",
+      "layman": "Belief that only natural causes exist"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Philosophical critique",
+      "layman": "Critical analysis of ideas"
+    },
+    {
+      "jargon": "Philosophical modernization",
+      "layman": "Updating old philosophical ideas"
+    },
+    {
+      "jargon": "Textual analysis",
+      "layman": "Studying written works"
+    },
+    {
+      "jargon": "Critical opposition",
+      "layman": "Challenging existing views"
+    },
+    {
+      "jargon": "Western Philosophy",
+      "layman": "European philosophical traditions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Opposition to positive trend",
+      "layman": "Challenging popular views"
+    },
+    {
+      "jargon": "Overcoming contemplative character",
+      "layman": "Moving beyond reflective thinking"
+    },
+    {
+      "jargon": "Philosophical modernization in Brazil",
+      "layman": "Modernizing Brazilian thought"
+    },
+    {
+      "jargon": "Recognition of naturalism",
+      "layman": "Accepting natural causes in mind"
+    },
+    {
+      "jargon": "Entry into Western Philosophy",
+      "layman": "Joining mainstream European ideas"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "First-order sentence",
+      "layman": "Simple logical statement about structures"
+    },
+    {
+      "jargon": "Finite model",
+      "layman": "Small, complete example of a system"
+    },
+    {
+      "jargon": "Spectral real",
+      "layman": "Real number from a pattern of sizes"
+    },
+    {
+      "jargon": "Algebraic real",
+      "layman": "Real number that solves a polynomial equation"
+    },
+    {
+      "jargon": "Automatic real",
+      "layman": "Real number with regular, rule-based pattern"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spectrum of a sentence",
+      "layman": "List of sizes of small examples"
+    },
+    {
+      "jargon": "Subword density",
+      "layman": "How often a pattern appears in a sequence"
+    },
+    {
+      "jargon": "Subword entropy",
+      "layman": "Measure of pattern randomness in a sequence"
+    },
+    {
+      "jargon": "Computable operation",
+      "layman": "Math operation that can be calculated step-by-step"
+    },
+    {
+      "jargon": "Right-computable real",
+      "layman": "Real number that can be built from the right side"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Every algebraic real is spectral",
+      "layman": "All polynomial solutions come from pattern sizes"
+    },
+    {
+      "jargon": "Every automatic real is spectral",
+      "layman": "All rule-based numbers come from pattern sizes"
+    },
+    {
+      "jargon": "Subword density is 0 or 1",
+      "layman": "Patterns either appear often or never"
+    },
+    {
+      "jargon": "Subword entropy of spectral real",
+      "layman": "Randomness level of a patterned number"
+    },
+    {
+      "jargon": "Not closed under addition or multiplication",
+      "layman": "You can't always combine these numbers to get another in the class"
+    }
+  ]
+}

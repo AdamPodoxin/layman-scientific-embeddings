@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Economically privileged pole",
+      "layman": "Women with high income and wealth"
+    },
+    {
+      "jargon": "Labour market experiences",
+      "layman": "Women's work experiences"
+    },
+    {
+      "jargon": "Occupational patterns",
+      "layman": "Types of jobs women hold"
+    },
+    {
+      "jargon": "Wage disparities",
+      "layman": "Pay differences between groups"
+    },
+    {
+      "jargon": "Pension positions",
+      "layman": "Women's retirement savings status"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Family Resources Survey",
+      "layman": "Survey on family finances"
+    },
+    {
+      "jargon": "Data analysis",
+      "layman": "Looking at patterns in data"
+    },
+    {
+      "jargon": "Cross-cutting social divisions",
+      "layman": "Looking at class, race, and other factors"
+    },
+    {
+      "jargon": "Statistical modeling",
+      "layman": "Using math to find patterns"
+    },
+    {
+      "jargon": "Explanatory variable",
+      "layman": "Factor that helps explain outcomes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Polarization in women's labour market experiences",
+      "layman": "Women's work outcomes are splitting apart"
+    },
+    {
+      "jargon": "Decline in power of gender",
+      "layman": "Gender explains less of the differences"
+    },
+    {
+      "jargon": "Economic diversity amongst women",
+      "layman": "Women have different economic paths"
+    },
+    {
+      "jargon": "Substantially better wages",
+      "layman": "Higher pay for some women"
+    },
+    {
+      "jargon": "Economic security",
+      "layman": "Financial stability in later life"
+    }
+  ]
+}

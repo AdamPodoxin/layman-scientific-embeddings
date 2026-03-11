@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Images",
-      "layman": "Pictures"
-    },
-    {
-      "jargon": "Categories",
-      "layman": "Groups"
-    },
-    {
       "jargon": "Euclidean distances",
       "layman": "Straight-line distances"
     },
     {
-      "jargon": "Vector space",
-      "layman": "Number space"
+      "jargon": "Image datasets",
+      "layman": "Collections of images"
     },
     {
-      "jargon": "Face, leaf, video image datasets",
-      "layman": "Picture data sets"
+      "jargon": "Face images",
+      "layman": "Photos of faces"
+    },
+    {
+      "jargon": "Leaf images",
+      "layman": "Photos of leaves"
+    },
+    {
+      "jargon": "Video images",
+      "layman": "Images from videos"
     }
   ],
   "methodologies": [
@@ -32,21 +32,21 @@
     },
     {
       "jargon": "Quadratic Program (QP)",
-      "layman": "Optimization process"
+      "layman": "Optimization method to find best solution"
+    },
+    {
+      "jargon": "Metric nearness problem",
+      "layman": "Finding distances that are close to real ones"
     },
     {
       "jargon": "Triangle inequality",
-      "layman": "Distance rule that keeps things consistent"
-    },
-    {
-      "jargon": "Distance learning",
-      "layman": "Learning how far things are from each other"
+      "layman": "Distance rule: shortest path between points"
     }
   ],
   "outcomes": [
     {
       "jargon": "Stronger clustering results",
-      "layman": "Better grouping"
+      "layman": "Better groupings of images"
     },
     {
       "jargon": "Outperforms state-of-the-art methods",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Preserves key properties of distances",
-      "layman": "Keeps distance rules intact"
+      "layman": "Keeps important distance features"
     },
     {
-      "jargon": "Real world clustering datasets",
-      "layman": "Actual-world data used"
+      "jargon": "Efficient QP for real-world datasets",
+      "layman": "Fast method that works on real data"
     },
     {
-      "jargon": "Success depends on constraint effectiveness",
-      "layman": "Good results come from good rules"
+      "jargon": "Enforces subset of inequalities",
+      "layman": "Applies only some distance rules"
     }
   ]
 }

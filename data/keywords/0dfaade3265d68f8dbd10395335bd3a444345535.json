@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software development process",
+      "layman": "Building software step by step"
+    },
+    {
+      "jargon": "Development project",
+      "layman": "A project to build something new"
+    },
+    {
+      "jargon": "Unknown elements",
+      "layman": "Things we don't know at first"
+    },
+    {
+      "jargon": "Difficult part",
+      "layman": "Hard part of a project"
+    },
+    {
+      "jargon": "Progress",
+      "layman": "Moving forward in a project"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Starting with the most difficult part",
+      "layman": "Begin with the hardest step"
+    },
+    {
+      "jargon": "Discovering elements",
+      "layman": "Finding out what's missing"
+    },
+    {
+      "jargon": "Progressive development",
+      "layman": "Building step by step"
+    },
+    {
+      "jargon": "Project progression",
+      "layman": "Moving through project stages"
+    },
+    {
+      "jargon": "Iterative approach",
+      "layman": "Repeating and improving over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Advantages",
+      "layman": "Benefits of starting hard"
+    },
+    {
+      "jargon": "Improved planning",
+      "layman": "Better project planning"
+    },
+    {
+      "jargon": "Greater clarity",
+      "layman": "Clearer understanding later"
+    },
+    {
+      "jargon": "Reduced complexity",
+      "layman": "Less confusion over time"
+    },
+    {
+      "jargon": "Successful completion",
+      "layman": "Project finishes well"
+    }
+  ]
+}

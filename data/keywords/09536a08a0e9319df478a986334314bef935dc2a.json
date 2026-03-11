@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Video content",
+      "layman": "Videos"
+    },
+    {
+      "jargon": "Natural language queries",
+      "layman": "Written questions in everyday language"
+    },
+    {
+      "jargon": "Sentence embeddings",
+      "layman": "Digital representations of sentences"
+    },
+    {
+      "jargon": "Video descriptions",
+      "layman": "Text summaries of videos"
+    },
+    {
+      "jargon": "Caption generation",
+      "layman": "Auto-generated text from videos"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Two-branch neural network",
+      "layman": "Two-part AI system"
+    },
+    {
+      "jargon": "Joint learning",
+      "layman": "Training AI to learn from both videos and text together"
+    },
+    {
+      "jargon": "Maximum-margin loss",
+      "layman": "AI training method that keeps similar items close"
+    },
+    {
+      "jargon": "Latent embedding space",
+      "layman": "Hidden space where videos and text are mapped together"
+    },
+    {
+      "jargon": "Neighborhood information",
+      "layman": "How nearby items relate in a data map"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Bi-directional retrieval",
+      "layman": "Finding videos from text and text from videos"
+    },
+    {
+      "jargon": "Promising results",
+      "layman": "Better performance than existing methods"
+    },
+    {
+      "jargon": "Shared embedding space",
+      "layman": "Common digital space for videos and text"
+    },
+    {
+      "jargon": "Structure-preserving constraints",
+      "layman": "Keeping relationships between items intact"
+    },
+    {
+      "jargon": "Comparison with baseline models",
+      "layman": "Outperforms standard existing methods"
+    }
+  ]
+}

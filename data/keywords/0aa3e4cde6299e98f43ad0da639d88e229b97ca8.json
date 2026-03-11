@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "n-ZnO/p-8HQ heterojunction",
+      "layman": "Zinc oxide and 8HQ combined layer"
+    },
+    {
+      "jargon": "n-CdS/p-8HQ heterojunction",
+      "layman": "Cadmium sulfide and 8HQ combined layer"
+    },
+    {
+      "jargon": "ZnO thin film",
+      "layman": "Zinc oxide thin layer"
+    },
+    {
+      "jargon": "CdS thin film",
+      "layman": "Cadmium sulfide thin layer"
+    },
+    {
+      "jargon": "8-hydroxyquinoline (8HQ)",
+      "layman": "8-hydroxyquinoline"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spin coating",
+      "layman": "Spinning to spread liquid film"
+    },
+    {
+      "jargon": "Chemical bath deposition (CBD)",
+      "layman": "Chemical solution to grow thin films"
+    },
+    {
+      "jargon": "X-ray diffraction (XRD)",
+      "layman": "X-ray test for crystal structure"
+    },
+    {
+      "jargon": "Scanning electron microscope (SEM)",
+      "layman": "Microscope to see film surface"
+    },
+    {
+      "jargon": "Ultraviolet\u2013visible spectrophotometer (UV\u2013Vis spectrometer)",
+      "layman": "Light tester for colors and transparency"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ohmic conduction mechanism",
+      "layman": "Easy current flow"
+    },
+    {
+      "jargon": "Diode properties",
+      "layman": "Can allow current in one direction"
+    },
+    {
+      "jargon": "n-type semiconductor",
+      "layman": "Electron-rich material"
+    },
+    {
+      "jargon": "p-type semiconductor",
+      "layman": "Hole-rich material"
+    },
+    {
+      "jargon": "Conduction mechanism in films",
+      "layman": "How electricity moves through films"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spectral function",
+      "layman": "Nucleon momentum distribution"
+    },
+    {
+      "jargon": "Neutrino interactions",
+      "layman": "Neutrinos hitting nuclei"
+    },
+    {
+      "jargon": "Nucleus",
+      "layman": "Atomic core"
+    },
+    {
+      "jargon": "Free cross section",
+      "layman": "Neutrino collision chance with single nucleon"
+    },
+    {
+      "jargon": "Bound nucleon",
+      "layman": "Proton or neutron in nucleus"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Impulse approximation",
+      "layman": "Treat nucleus as separate particles"
+    },
+    {
+      "jargon": "Electron-scattering data",
+      "layman": "Measuring how electrons bounce off nuclei"
+    },
+    {
+      "jargon": "Folded integral",
+      "layman": "Combine collision chances with particle distributions"
+    },
+    {
+      "jargon": "Off-shell effect",
+      "layman": "Energy shift in particle interaction"
+    },
+    {
+      "jargon": "Cross section calculation",
+      "layman": "Measure how likely a collision is"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cross section",
+      "layman": "Chance of interaction"
+    },
+    {
+      "jargon": "Lower cross section",
+      "layman": "Fewer interactions than expected"
+    },
+    {
+      "jargon": "Fermi gas model",
+      "layman": "Old prediction method for nuclei"
+    },
+    {
+      "jargon": "Accuracy verification",
+      "layman": "Check if results are correct"
+    },
+    {
+      "jargon": "Kinematical region",
+      "layman": "Specific collision conditions"
+    }
+  ]
+}

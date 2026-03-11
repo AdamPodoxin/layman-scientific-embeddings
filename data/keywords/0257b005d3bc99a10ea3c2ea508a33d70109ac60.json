@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Family physician",
+      "layman": "Family doctor"
+    },
+    {
+      "jargon": "Pediatrician",
+      "layman": "Child specialist"
+    },
+    {
+      "jargon": "Newborn",
+      "layman": "Newborn baby"
+    },
+    {
+      "jargon": "Acute myocardial infarction",
+      "layman": "Heart attack"
+    },
+    {
+      "jargon": "Resuscitation",
+      "layman": "Restarting breathing and heartbeat"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interspecialty relations",
+      "layman": "Collaboration between medical specialties"
+    },
+    {
+      "jargon": "Diagnosis",
+      "layman": "Identifying a medical condition"
+    },
+    {
+      "jargon": "Patient care",
+      "layman": "Treating patients"
+    },
+    {
+      "jargon": "Clinical observation",
+      "layman": "Noticing symptoms in patients"
+    },
+    {
+      "jargon": "Medical evaluation",
+      "layman": "Checking a patient's health"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Unique contributions",
+      "layman": "Specialized strengths"
+    },
+    {
+      "jargon": "Better handling of medical issues",
+      "layman": "Better at managing certain problems"
+    },
+    {
+      "jargon": "Recognized acute myocardial infarction",
+      "layman": "Detected a heart attack early"
+    },
+    {
+      "jargon": "Participated in resuscitation",
+      "layman": "Helped revive newborns"
+    },
+    {
+      "jargon": "Disparaging another specialty",
+      "layman": "Making negative comments about another doctor group"
+    }
+  ]
+}

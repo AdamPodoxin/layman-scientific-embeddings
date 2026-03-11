@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Gymnosperms",
+      "layman": "Seed plants with naked seeds"
+    },
+    {
+      "jargon": "Coniferales",
+      "layman": "Conifer order"
+    },
+    {
+      "jargon": "Pinaceae",
+      "layman": "Pine family"
+    },
+    {
+      "jargon": "Pinus",
+      "layman": "Pine trees"
+    },
+    {
+      "jargon": "Abies",
+      "layman": "Fir trees"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cladograms",
+      "layman": "Family tree of species"
+    },
+    {
+      "jargon": "Molecular genetic cladograms",
+      "layman": "DNA-based family trees"
+    },
+    {
+      "jargon": "rbcL gene sequences",
+      "layman": "Plant leaf-related DNA data"
+    },
+    {
+      "jargon": "18S rRNA sequences",
+      "layman": "Cellular RNA data from nuclei"
+    },
+    {
+      "jargon": "28S rRNA sequences",
+      "layman": "Large ribosomal RNA data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Root of Gnetales near Coniferales",
+      "layman": "Gnetales close to conifers"
+    },
+    {
+      "jargon": "Gnetales as sistergroup to Angiosperms",
+      "layman": "Gnetales related to flowering plants"
+    },
+    {
+      "jargon": "Chemical evidence failed",
+      "layman": "Chemical tests didn't help"
+    },
+    {
+      "jargon": "Essential oil flavor supports family relations",
+      "layman": "Oil taste matches plant groupings"
+    },
+    {
+      "jargon": "New material updated 1999 cladograms",
+      "layman": "Old DNA trees were revised with new data"
+    }
+  ]
+}

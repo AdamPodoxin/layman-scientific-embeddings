@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Orthopedic patients",
+      "layman": "Patients with bone or joint issues"
+    },
+    {
+      "jargon": "Hip replacement",
+      "layman": "Surgery to replace a hip joint"
+    },
+    {
+      "jargon": "Knee replacement",
+      "layman": "Surgery to replace a knee joint"
+    },
+    {
+      "jargon": "Back surgery",
+      "layman": "Surgery for back problems"
+    },
+    {
+      "jargon": "Medical back pain",
+      "layman": "Back pain without surgery"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Electronic health record",
+      "layman": "Digital patient medical file"
+    },
+    {
+      "jargon": "APR-DRG categories",
+      "layman": "Patient groupings by surgery type"
+    },
+    {
+      "jargon": "Self-report intensity scale",
+      "layman": "Patient rating pain or anxiety 0 to 10"
+    },
+    {
+      "jargon": "Chi-square test",
+      "layman": "Statistical test for group differences"
+    },
+    {
+      "jargon": "Paired t-test",
+      "layman": "Compare before-and-after patient scores"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Change in pain score",
+      "layman": "Patient's pain level after treatment"
+    },
+    {
+      "jargon": "Change in anxiety score",
+      "layman": "Patient's anxiety level after treatment"
+    },
+    {
+      "jargon": "Mean pain score change",
+      "layman": "Average drop in pain rating"
+    },
+    {
+      "jargon": "Mean anxiety score change",
+      "layman": "Average drop in anxiety rating"
+    },
+    {
+      "jargon": "Significant differences",
+      "layman": "Clear improvement in pain or anxiety"
+    }
+  ]
+}

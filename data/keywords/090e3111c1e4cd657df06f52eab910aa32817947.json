@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Volunteer computing",
+      "layman": "Public computer network"
+    },
+    {
+      "jargon": "Work flow",
+      "layman": "Step-by-step process"
+    },
+    {
+      "jargon": "Peer-to-peer architecture",
+      "layman": "Direct computer-to-computer network"
+    },
+    {
+      "jargon": "Work pool server",
+      "layman": "Central server managing tasks"
+    },
+    {
+      "jargon": "Parallel processes",
+      "layman": "Multiple tasks running at once"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Adaptive checkpoint scheme",
+      "layman": "Smart saving points during work"
+    },
+    {
+      "jargon": "Dynamic checkpoint decisions",
+      "layman": "Changing save times based on conditions"
+    },
+    {
+      "jargon": "Mathematical checkpoint model",
+      "layman": "Math-based saving plan"
+    },
+    {
+      "jargon": "Statistical data observation",
+      "layman": "Tracking system performance over time"
+    },
+    {
+      "jargon": "Decentralized execution",
+      "layman": "No central control; each computer acts independently"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reduced required runtime",
+      "layman": "Faster completion time"
+    },
+    {
+      "jargon": "Increased robustness",
+      "layman": "More reliable system"
+    },
+    {
+      "jargon": "Off-loaded I/O demand",
+      "layman": "Reduced server workload"
+    },
+    {
+      "jargon": "Inter-workflow I/O",
+      "layman": "Data transfer between steps"
+    },
+    {
+      "jargon": "Simulation results",
+      "layman": "Tested performance outcomes"
+    }
+  ]
+}

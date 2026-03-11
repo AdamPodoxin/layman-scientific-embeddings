@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Elderly patients",
+      "layman": "Older adults"
+    },
+    {
+      "jargon": "Acute coronary syndrome",
+      "layman": "Sudden heart attack"
+    },
+    {
+      "jargon": "Risk factors",
+      "layman": "Heart disease causes"
+    },
+    {
+      "jargon": "Mediterranean diet",
+      "layman": "Mediterranean diet"
+    },
+    {
+      "jargon": "Short Physical Performance Battery",
+      "layman": "Physical strength test"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Randomised clinical trial",
+      "layman": "Random patient assignment"
+    },
+    {
+      "jargon": "Parallel groups",
+      "layman": "Two separate groups"
+    },
+    {
+      "jargon": "Baseline assessment",
+      "layman": "Initial check-up"
+    },
+    {
+      "jargon": "Follow-up assessment",
+      "layman": "Later check-up"
+    },
+    {
+      "jargon": "Hazard ratio",
+      "layman": "Risk comparison over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Optimal risk factor control",
+      "layman": "All heart risks under control"
+    },
+    {
+      "jargon": "Number needed to treat",
+      "layman": "How many patients need treatment"
+    },
+    {
+      "jargon": "Relative risk",
+      "layman": "Risk compared to normal"
+    },
+    {
+      "jargon": "P-value < 0.05",
+      "layman": "Statistically significant"
+    },
+    {
+      "jargon": "Mortality",
+      "layman": "Death rate"
+    }
+  ]
+}

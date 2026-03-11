@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Classical logic",
+      "layman": "Standard logic used in math and computing"
+    },
+    {
+      "jargon": "Sequent proofs",
+      "layman": "Logical proofs structured in steps"
+    },
+    {
+      "jargon": "Cut-rules",
+      "layman": "Rules that connect different parts of a proof"
+    },
+    {
+      "jargon": "Term assignment",
+      "layman": "Assigning values to proof steps"
+    },
+    {
+      "jargon": "Symmetric reducibility candidates",
+      "layman": "Proof elements that can be simplified equally"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cut-elimination",
+      "layman": "Removing connections between proof steps"
+    },
+    {
+      "jargon": "Strong normalisation",
+      "layman": "Ensuring all proofs end in simple forms"
+    },
+    {
+      "jargon": "Term rewriting rules",
+      "layman": "Rules for transforming proof terms"
+    },
+    {
+      "jargon": "Gentzen's cut-reductions",
+      "layman": "Standard method for simplifying proofs"
+    },
+    {
+      "jargon": "Annotated formulae",
+      "layman": "Formulae with extra labels for tracking"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strongly normalising procedure",
+      "layman": "All proofs eventually simplify completely"
+    },
+    {
+      "jargon": "No special annotations",
+      "layman": "No need for extra labels on formulas"
+    },
+    {
+      "jargon": "Cut-rules can pass over others",
+      "layman": "Cut rules can skip or go over other rules"
+    },
+    {
+      "jargon": "Adapts symmetric reducibility",
+      "layman": "Uses a new way to prove simplification works"
+    },
+    {
+      "jargon": "Formalises cut-reductions",
+      "layman": "Makes cut simplifications precise and clear"
+    }
+  ]
+}

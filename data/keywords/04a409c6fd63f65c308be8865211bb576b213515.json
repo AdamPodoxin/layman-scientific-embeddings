@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Operating system",
+      "layman": "Computer system software"
+    },
+    {
+      "jargon": "Multiaccess system",
+      "layman": "System allowing multiple users"
+    },
+    {
+      "jargon": "Capabilities",
+      "layman": "Security permissions"
+    },
+    {
+      "jargon": "Memory hierarchy",
+      "layman": "Levels of computer memory"
+    },
+    {
+      "jargon": "CDC 6400",
+      "layman": "Old computer model"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Layered organization",
+      "layman": "Building layers step by step"
+    },
+    {
+      "jargon": "Protection between layers",
+      "layman": "Security between steps"
+    },
+    {
+      "jargon": "Maintaining protection",
+      "layman": "Keeping security safe"
+    },
+    {
+      "jargon": "Adding levels to memory",
+      "layman": "Expanding memory levels"
+    },
+    {
+      "jargon": "New solution",
+      "layman": "Improved fix"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Good and bad points",
+      "layman": "Strengths and weaknesses"
+    },
+    {
+      "jargon": "Serious problems",
+      "layman": "Major issues"
+    },
+    {
+      "jargon": "Malfunctions of later ones",
+      "layman": "Failures in later steps"
+    },
+    {
+      "jargon": "Protection problems",
+      "layman": "Security breakdowns"
+    },
+    {
+      "jargon": "Discussed and new solution",
+      "layman": "Issues reviewed and fixed"
+    }
+  ]
+}

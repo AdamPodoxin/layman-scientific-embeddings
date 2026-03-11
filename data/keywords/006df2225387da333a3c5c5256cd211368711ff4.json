@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Buyouts",
-      "layman": "Large corporate acquisitions"
+      "layman": "Large company acquisitions"
+    },
+    {
+      "jargon": "Leverage",
+      "layman": "Using debt to finance purchases"
     },
     {
       "jargon": "Enterprise value",
       "layman": "Total value of a company"
     },
     {
-      "jargon": "Leverage",
-      "layman": "Borrowing to fund purchases"
-    },
-    {
       "jargon": "Public firms",
-      "layman": "Publicly traded companies"
+      "layman": "Companies traded on stock markets"
     },
     {
       "jargon": "Economy-wide cost of borrowing",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Cross-sectional analysis",
-      "layman": "Comparing different cases at one time"
+      "layman": "Comparing different cases at one point in time"
     },
     {
-      "jargon": "Matched firms",
-      "layman": "Comparable public companies"
+      "jargon": "Matching firms",
+      "layman": "Comparing similar public companies"
     },
     {
       "jargon": "Data collection",
-      "layman": "Gathering financial details"
+      "layman": "Gathering financial information"
     },
     {
-      "jargon": "Statistical observation",
-      "layman": "Noticing patterns in data"
+      "jargon": "Statistical modeling",
+      "layman": "Using math to find patterns in data"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Cross-sectionally unrelated",
-      "layman": "No clear link between groups"
+      "jargon": "Leverage is unrelated to public firms",
+      "layman": "Buyout debt doesn't follow public company patterns"
     },
     {
-      "jargon": "Driven by economy-wide borrowing costs",
-      "layman": "Funded by overall loan costs"
+      "jargon": "Prices paid in buyouts relate to public prices",
+      "layman": "Buyout prices match public market prices"
     },
     {
-      "jargon": "Prices related to public market prices",
-      "layman": "Buyout prices match public prices"
+      "jargon": "Prices affected by borrowing costs",
+      "layman": "Buyout prices change with loan costs"
     },
     {
-      "jargon": "Strongly affected by borrowing costs",
-      "layman": "Prices change with loan costs"
+      "jargon": "Financing availability drives market booms and busts",
+      "layman": "Loan access causes market upswings and downturns"
     },
     {
-      "jargon": "Consistent with financing availability impacting market booms and busts",
-      "layman": "Financing affects market highs and lows"
+      "jargon": "Leverage driven by economy-wide borrowing costs",
+      "layman": "Debt levels depend on overall loan costs"
     }
   ]
 }

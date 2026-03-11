@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Amorphous silica",
+      "layman": "Glass-like silica without a fixed structure"
+    },
+    {
+      "jargon": "Silica-based materials",
+      "layman": "Materials made from silica"
+    },
+    {
+      "jargon": "Medium-range order",
+      "layman": "Partial ordering over larger distances"
+    },
+    {
+      "jargon": "Vibrational modes",
+      "layman": "Molecular shaking patterns"
+    },
+    {
+      "jargon": "Photoluminescence",
+      "layman": "Light emission after absorption"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theoretical developments",
+      "layman": "Computer-based models and simulations"
+    },
+    {
+      "jargon": "Experimental developments",
+      "layman": "Lab-based testing and measurements"
+    },
+    {
+      "jargon": "Structural changes under pressures",
+      "layman": "How materials change shape under pressure"
+    },
+    {
+      "jargon": "Thermodynamic anomalies",
+      "layman": "Unusual temperature or energy behavior"
+    },
+    {
+      "jargon": "Vibrational analysis",
+      "layman": "Measuring molecular vibrations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Structural changes under pressures",
+      "layman": "Materials change shape under pressure"
+    },
+    {
+      "jargon": "Vibrational anomalies",
+      "layman": "Unusual molecular vibrations"
+    },
+    {
+      "jargon": "Thermodynamic anomalies",
+      "layman": "Unusual energy or temperature behavior"
+    },
+    {
+      "jargon": "Photoluminescence properties",
+      "layman": "How materials emit light"
+    },
+    {
+      "jargon": "Medium-range order",
+      "layman": "Partial long-range structure in materials"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Magnetic monopoles",
+      "layman": "Particles with only magnetic charge"
+    },
+    {
+      "jargon": "Dirac pole strength",
+      "layman": "Basic unit of magnetic charge"
+    },
+    {
+      "jargon": "CDF and D\u00d8 detectors",
+      "layman": "Particle detection systems at Fermilab"
+    },
+    {
+      "jargon": "Photonic production",
+      "layman": "Creation using light particles"
+    },
+    {
+      "jargon": "GeV range",
+      "layman": "High energy level in particle physics"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Pair production",
+      "layman": "Creating two particles from energy"
+    },
+    {
+      "jargon": "Cross section limits",
+      "layman": "Measuring how likely particles are to form"
+    },
+    {
+      "jargon": "Model assumptions",
+      "layman": "Simple rules used to make predictions"
+    },
+    {
+      "jargon": "Mass limits",
+      "layman": "Estimated upper weight of particles"
+    },
+    {
+      "jargon": "Direct accelerator-based searches",
+      "layman": "Looking for particles using a particle collider"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cross sections ~1 pb",
+      "layman": "Very low chance of monopole formation"
+    },
+    {
+      "jargon": "Hundreds of times smaller limits",
+      "layman": "Much tighter search boundaries"
+    },
+    {
+      "jargon": "Mass limits in hundreds of GeV",
+      "layman": "Particles likely heavier than hundreds of GeV"
+    },
+    {
+      "jargon": "Simple model assumptions",
+      "layman": "Basic rules used in the analysis"
+    },
+    {
+      "jargon": "New experimental results",
+      "layman": "Updated findings from the experiment"
+    }
+  ]
+}

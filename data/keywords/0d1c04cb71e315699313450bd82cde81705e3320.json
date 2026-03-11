@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Artificial intelligence",
+      "layman": "Advanced computing"
+    },
+    {
+      "jargon": "Manufacturing",
+      "layman": "Production of goods"
+    },
+    {
+      "jargon": "Consumer products",
+      "layman": "Products sold to customers"
+    },
+    {
+      "jargon": "Finance",
+      "layman": "Money and banking"
+    },
+    {
+      "jargon": "Management",
+      "layman": "Running businesses"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "AI techniques",
+      "layman": "AI methods"
+    },
+    {
+      "jargon": "Implementation",
+      "layman": "Putting AI into use"
+    },
+    {
+      "jargon": "Application",
+      "layman": "Using AI in real life"
+    },
+    {
+      "jargon": "Commercial use",
+      "layman": "Using AI in business"
+    },
+    {
+      "jargon": "Industrial domains",
+      "layman": "AI in factories and industries"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Competitive advantage",
+      "layman": "Staying ahead of rivals"
+    },
+    {
+      "jargon": "Profitable AI techniques",
+      "layman": "AI that brings money"
+    },
+    {
+      "jargon": "Current state of AI",
+      "layman": "Where AI stands today"
+    },
+    {
+      "jargon": "Real human intelligence",
+      "layman": "Human-level thinking"
+    },
+    {
+      "jargon": "Advanced computing",
+      "layman": "Sophisticated computer systems"
+    }
+  ]
+}

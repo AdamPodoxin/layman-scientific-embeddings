@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Organic phosphates",
+      "layman": "Organic phosphates"
+    },
+    {
+      "jargon": "Hemoglobin",
+      "layman": "Blood protein that carries oxygen"
+    },
+    {
+      "jargon": "Heme-heme interaction energy",
+      "layman": "Energy between heme groups in hemoglobin"
+    },
+    {
+      "jargon": "Tetrameric hemoglobin",
+      "layman": "Four-part hemoglobin structure"
+    },
+    {
+      "jargon": "Anions",
+      "layman": "Negatively charged molecules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Binding studies",
+      "layman": "Testing how molecules stick together"
+    },
+    {
+      "jargon": "Equilibrium analysis",
+      "layman": "Measuring balance between states"
+    },
+    {
+      "jargon": "Affinity measurement",
+      "layman": "Measuring how strongly molecules bind"
+    },
+    {
+      "jargon": "Calculation of interaction energy",
+      "layman": "Estimating energy from molecular interactions"
+    },
+    {
+      "jargon": "Ligand binding",
+      "layman": "Molecules attaching to hemoglobin"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Decreased affinity for oxygen",
+      "layman": "Weaker oxygen binding"
+    },
+    {
+      "jargon": "Reduced n value",
+      "layman": "Lower binding efficiency"
+    },
+    {
+      "jargon": "About a third to a half of heme-heme energy",
+      "layman": "Half the bonding energy comes from phosphate binding"
+    },
+    {
+      "jargon": "Intermediates bound to oxygen",
+      "layman": "Stable states during oxygen binding"
+    },
+    {
+      "jargon": "Smallest meaningful unit of hemoglobin",
+      "layman": "Four-part hemoglobin is minimal for study"
+    }
+  ]
+}

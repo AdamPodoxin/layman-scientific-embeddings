@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Symbiont",
+      "layman": "Living partner in a mutual relationship"
+    },
+    {
+      "jargon": "Plant cell",
+      "layman": "Cell in a plant"
+    },
+    {
+      "jargon": "Animal cell",
+      "layman": "Cell in an animal"
+    },
+    {
+      "jargon": "Microbial symbiont",
+      "layman": "Tiny microorganism living together"
+    },
+    {
+      "jargon": "Cell membrane",
+      "layman": "Cell's outer boundary"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mutual recognition",
+      "layman": "Identifying each other"
+    },
+    {
+      "jargon": "Substance interchange",
+      "layman": "Sharing materials between cells"
+    },
+    {
+      "jargon": "Geometrical relationships",
+      "layman": "Spatial arrangement between cells"
+    },
+    {
+      "jargon": "Terminology standardization",
+      "layman": "Consistent naming and definitions"
+    },
+    {
+      "jargon": "Cell-to-cell contact",
+      "layman": "Direct touch between cells"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Differences in symbiosis",
+      "layman": "Varied ways organisms work together"
+    },
+    {
+      "jargon": "Common problems",
+      "layman": "Shared challenges in relationships"
+    },
+    {
+      "jargon": "Disconnected phenomena",
+      "layman": "Separate and unrelated cases"
+    },
+    {
+      "jargon": "Definition of symbiont",
+      "layman": "How to define a living partner"
+    },
+    {
+      "jargon": "Parasite classification",
+      "layman": "How to label harmful relationships"
+    }
+  ]
+}

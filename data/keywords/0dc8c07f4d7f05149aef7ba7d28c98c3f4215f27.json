@@ -1,0 +1,72 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Li\u2082O-2SiO\u2082 glass",
+      "layman": "Lithium-silica glass"
+    },
+    {
+      "jargon": "Spark plasma sintering (SPS)",
+      "layman": "Sintering with electric plasma"
+    },
+    {
+      "jargon": "Amorphous structure",
+      "layman": "No fixed crystal shape"
+    },
+    {
+      "jargon": "Lithium disilicate structure",
+      "layman": "Lithium and silicon compound"
+    },
+    {
+      "jargon": "Quenched glass",
+      "layman": "Rapidly cooled glass"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spark plasma sintering (SPS)",
+      "layman": "Sintering with electric plasma"
+    },
+    {
+      "jargon": "Differential scanning calorimetry (DSC)",
+      "layman": "Heat change measurement"
+    },
+    {
+      "jargon": "X-ray diffraction (XRD)",
+      "layman": "Crystal structure analysis"
+    },
+    {
+      "jargon": "Impedance/gain-phase analyzer",
+      "layman": "Electrical property tester"
+    },
+    {
+      "jargon": "Heat treatment",
+      "layman": "Heating to change material structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "High mechanical strength",
+      "layman": "Sturdy material"
+    },
+    {
+      "jargon": "Chemical stability",
+      "layman": "Resists chemical changes"
+    },
+    {
+      "jargon": "High transparency",
+      "layman": "Clear and see-through"
+    },
+    {
+      "jargon": "Similar dielectric peaks",
+      "layman": "Same electrical response pattern"
+    },
+    {
+      "jargon": "DC activation energy",
+      "layman": "Energy needed for DC current flow"
+    },
+    {
+      "jargon": "AC activation energy",
+      "layman": "Energy needed for alternating current flow"
+    }
+  ]
+}

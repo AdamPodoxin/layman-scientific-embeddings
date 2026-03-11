@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Coherent states on spheres",
+      "layman": "Special states on spherical surfaces"
+    },
+    {
+      "jargon": "Odd-dimensional case",
+      "layman": "Odd-numbered dimensions"
+    },
+    {
+      "jargon": "Classical Gaussian coherent states",
+      "layman": "Smooth, bell-shaped states in space"
+    },
+    {
+      "jargon": "Euclidean space",
+      "layman": "Flat space"
+    },
+    {
+      "jargon": "Radius of the sphere",
+      "layman": "Size of the sphere"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Large radius limit",
+      "layman": "What happens when sphere gets very large"
+    },
+    {
+      "jargon": "Approach as radius tends to infinity",
+      "layman": "Getting closer to a flat space state"
+    },
+    {
+      "jargon": "Study of coherent states",
+      "layman": "Analyzing special quantum states"
+    },
+    {
+      "jargon": "Mathematical analysis",
+      "layman": "Using math to understand behavior"
+    },
+    {
+      "jargon": "Asymptotic behavior",
+      "layman": "How things behave at extreme sizes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Approach classical Gaussian coherent states",
+      "layman": "Become like smooth, flat-space states"
+    },
+    {
+      "jargon": "Tends to infinity",
+      "layman": "Grows without bound"
+    },
+    {
+      "jargon": "Coherent states on sphere",
+      "layman": "Special quantum patterns on spheres"
+    },
+    {
+      "jargon": "Odd-dimensional case",
+      "layman": "Behavior in odd dimensions"
+    },
+    {
+      "jargon": "Large radius limit",
+      "layman": "State becomes stable and smooth"
+    }
+  ]
+}

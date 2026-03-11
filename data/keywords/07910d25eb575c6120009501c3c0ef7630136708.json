@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Unemployment",
+      "layman": "People without jobs"
+    },
+    {
+      "jargon": "Industrialized countries",
+      "layman": "Advanced economies"
+    },
+    {
+      "jargon": "Economic system",
+      "layman": "How an economy works"
+    },
+    {
+      "jargon": "Social insurance",
+      "layman": "Government welfare programs"
+    },
+    {
+      "jargon": "Capital goods",
+      "layman": "Tools and machines used in production"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Statistical artifact",
+      "layman": "Measurement error"
+    },
+    {
+      "jargon": "Job search process",
+      "layman": "Looking for work"
+    },
+    {
+      "jargon": "Keynesian fiscal policy",
+      "layman": "Government spending to boost economy"
+    },
+    {
+      "jargon": "Market competition",
+      "layman": "Companies competing for customers"
+    },
+    {
+      "jargon": "Measurement process",
+      "layman": "How data is collected"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Rising unemployment rates",
+      "layman": "More people out of work"
+    },
+    {
+      "jargon": "Social paradox",
+      "layman": "Contradiction in society"
+    },
+    {
+      "jargon": "Government deficit spending",
+      "layman": "Spending more than revenue"
+    },
+    {
+      "jargon": "Free goods",
+      "layman": "Resources with no cost"
+    },
+    {
+      "jargon": "Productive functions",
+      "layman": "Work that creates value"
+    }
+  ]
+}

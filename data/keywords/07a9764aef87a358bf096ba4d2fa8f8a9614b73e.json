@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "High performance computing",
+      "layman": "Fast supercomputers"
+    },
+    {
+      "jargon": "Computational chemistry",
+      "layman": "Chemistry done on computers"
+    },
+    {
+      "jargon": "Ab initio methods",
+      "layman": "Chemistry calculations from first principles"
+    },
+    {
+      "jargon": "Molecular dynamics",
+      "layman": "Simulating how molecules move"
+    },
+    {
+      "jargon": "Distributed environments",
+      "layman": "Computers working together over a network"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Parallel computation",
+      "layman": "Breaking tasks into smaller parts to run at once"
+    },
+    {
+      "jargon": "Ab initio algorithms",
+      "layman": "Math-based chemistry simulations"
+    },
+    {
+      "jargon": "Molecular dynamics simulations",
+      "layman": "Watching molecules move over time"
+    },
+    {
+      "jargon": "Software engineering",
+      "layman": "Building reliable computer programs"
+    },
+    {
+      "jargon": "Architectural issues",
+      "layman": "Design challenges in computer systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Computational chemistry problems",
+      "layman": "Complex chemistry simulations"
+    },
+    {
+      "jargon": "Performance optimization",
+      "layman": "Making computations faster"
+    },
+    {
+      "jargon": "Scalable computing",
+      "layman": "Systems that grow efficiently with more power"
+    },
+    {
+      "jargon": "Parallel computational chemistry",
+      "layman": "Running chemistry tasks on multiple processors"
+    },
+    {
+      "jargon": "Distributed computing environments",
+      "layman": "Sharing computing power across locations"
+    }
+  ]
+}

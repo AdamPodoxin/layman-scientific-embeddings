@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Multiplicative Linear Logic",
+      "layman": "Logic system with strict resource rules"
+    },
+    {
+      "jargon": "Hyland-Tan double glueing",
+      "layman": "Special construction method for logic models"
+    },
+    {
+      "jargon": "Unit-free fragment",
+      "layman": "Logic without identity elements"
+    },
+    {
+      "jargon": "Degenerative ones",
+      "layman": "Weaker or simplified logic systems"
+    },
+    {
+      "jargon": "Compact closed categories",
+      "layman": "Mathematical structures with symmetry and duality"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Tensor calculus",
+      "layman": "Math tool for combining structures"
+    },
+    {
+      "jargon": "Double glueing construction",
+      "layman": "Process of joining models together"
+    },
+    {
+      "jargon": "Combinatorial properties",
+      "layman": "Patterns in how parts combine"
+    },
+    {
+      "jargon": "Finite biproducts",
+      "layman": "Structured combinations of inputs and outputs"
+    },
+    {
+      "jargon": "Applying to a family of degenerates",
+      "layman": "Using method on various weak models"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fully complete model",
+      "layman": "Model that captures all possible cases"
+    },
+    {
+      "jargon": "Special cases",
+      "layman": "Known examples covered by the method"
+    },
+    {
+      "jargon": "Combinatorial properties obtained",
+      "layman": "New rules emerge from structure"
+    },
+    {
+      "jargon": "Original category's properties",
+      "layman": "Existing features preserved"
+    },
+    {
+      "jargon": "Explains known models",
+      "layman": "Reveals how known models fit in"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cultural capital",
+      "layman": "Cultural capital"
+    },
+    {
+      "jargon": "Educational success",
+      "layman": "Success in school"
+    },
+    {
+      "jargon": "Family's cultural capital",
+      "layman": "Family's cultural resources"
+    },
+    {
+      "jargon": "Middle and high school students",
+      "layman": "Teenagers in middle and high school"
+    },
+    {
+      "jargon": "Jovein Township",
+      "layman": "Jovein Township"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Proportional stratified sampling",
+      "layman": "Selecting students based on group proportions"
+    },
+    {
+      "jargon": "Parent interviews",
+      "layman": "Talking to parents"
+    },
+    {
+      "jargon": "Empirical condition",
+      "layman": "Real-world observation"
+    },
+    {
+      "jargon": "Theoretical models",
+      "layman": "Scientific theories"
+    },
+    {
+      "jargon": "Cultural convergence",
+      "layman": "Cultures becoming more similar"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Significant impact",
+      "layman": "Strong effect"
+    },
+    {
+      "jargon": "Does not support hypothesis",
+      "layman": "Does not back the theory"
+    },
+    {
+      "jargon": "Educational success",
+      "layman": "Success in school"
+    },
+    {
+      "jargon": "Two theoretical models",
+      "layman": "Two scientific ideas"
+    },
+    {
+      "jargon": "Family's cultural capital",
+      "layman": "Family's cultural resources"
+    }
+  ]
+}

@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Thrombotic occlusion",
-      "layman": "Blood clot blocking a line"
+      "layman": "Blood clot blocking line"
     },
     {
       "jargon": "Cancer relapse",
-      "layman": "Cancer coming back"
+      "layman": "Cancer returns"
     },
     {
       "jargon": "Second malignancy",
-      "layman": "New cancer later"
+      "layman": "New cancer"
     },
     {
-      "jargon": "Event",
-      "layman": "Cancer return or death"
+      "jargon": "Overall survival",
+      "layman": "Living after treatment"
     }
   ],
   "methodologies": [
@@ -28,33 +28,29 @@
     },
     {
       "jargon": "Log-rank test",
-      "layman": "Compare survival times"
+      "layman": "Compare survival groups"
     },
     {
       "jargon": "Weibull regression model",
-      "layman": "Statistical model for survival"
+      "layman": "Statistical survival prediction"
     },
     {
-      "jargon": "Multiple regression analyses",
-      "layman": "Adjusting for other factors"
+      "jargon": "Multiple regression analysis",
+      "layman": "Adjust for other factors"
     },
     {
-      "jargon": "Diagnosis of TE",
-      "layman": "Detecting blood clots"
+      "jargon": "Event definition",
+      "layman": "What counts as a bad outcome"
     }
   ],
   "outcomes": [
-    {
-      "jargon": "Overall survival",
-      "layman": "Living past a certain time"
-    },
     {
       "jargon": "Event-free survival",
       "layman": "No cancer return"
     },
     {
       "jargon": "Hazard ratio",
-      "layman": "Risk of worse outcome"
+      "layman": "Risk of bad outcome"
     },
     {
       "jargon": "95% confidence interval",
@@ -63,6 +59,10 @@
     {
       "jargon": "P-value",
       "layman": "Statistical significance"
+    },
+    {
+      "jargon": "Poor survival",
+      "layman": "Shorter life after treatment"
     }
   ]
 }

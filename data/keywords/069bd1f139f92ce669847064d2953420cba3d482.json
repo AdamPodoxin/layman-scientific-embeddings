@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Low-discrepancy sequences",
+      "layman": "Evenly spread number patterns"
+    },
+    {
+      "jargon": "Higher-dimensional unit cube",
+      "layman": "Multi-dimensional space filled with points"
+    },
+    {
+      "jargon": "Dynamical systems",
+      "layman": "Systems that change over time"
+    },
+    {
+      "jargon": "Ergodic theory",
+      "layman": "Study of long-term behavior in changing systems"
+    },
+    {
+      "jargon": "Intervals",
+      "layman": "Ranges of numbers or values"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cutting-and-stacking of intervals",
+      "layman": "Breaking and reassembling number ranges"
+    },
+    {
+      "jargon": "Association of sequences to dynamical systems",
+      "layman": "Matching number patterns to time-evolving systems"
+    },
+    {
+      "jargon": "Ergodic theory tools",
+      "layman": "Mathematical tools for studying long-term patterns"
+    },
+    {
+      "jargon": "Dynamical point of view",
+      "layman": "Viewing patterns through motion and change"
+    },
+    {
+      "jargon": "Sequence analysis",
+      "layman": "Studying patterns in ordered lists"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Discrepancy",
+      "layman": "How uneven a pattern is"
+    },
+    {
+      "jargon": "Suitable dynamical systems",
+      "layman": "Good matching systems for patterns"
+    },
+    {
+      "jargon": "Study of low-discrepancy sequences",
+      "layman": "Understanding evenly spaced patterns"
+    },
+    {
+      "jargon": "Important technique",
+      "layman": "Key method used"
+    },
+    {
+      "jargon": "Examples",
+      "layman": "Real-world cases shown"
+    }
+  ]
+}

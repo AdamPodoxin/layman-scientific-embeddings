@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Open Data",
+      "layman": "Free public data"
+    },
+    {
+      "jargon": "Government contracts",
+      "layman": "Public government deals"
+    },
+    {
+      "jargon": "Political opinions",
+      "layman": "People's views on politics"
+    },
+    {
+      "jargon": "Federal Government of Australia",
+      "layman": "Australian federal government"
+    },
+    {
+      "jargon": "Publicly available data",
+      "layman": "Data anyone can access"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cloud-related technologies",
+      "layman": "Online data storage and tools"
+    },
+    {
+      "jargon": "Data transformation",
+      "layman": "Converting data into usable form"
+    },
+    {
+      "jargon": "Visualization",
+      "layman": "Creating charts and graphs"
+    },
+    {
+      "jargon": "Pattern identification",
+      "layman": "Spotting trends in data"
+    },
+    {
+      "jargon": "Human-friendly visualizations",
+      "layman": "Easy-to-understand charts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Transparency",
+      "layman": "Clear access to information"
+    },
+    {
+      "jargon": "Accountability",
+      "layman": "Being answerable to the public"
+    },
+    {
+      "jargon": "Effective analysis",
+      "layman": "Clear understanding of data"
+    },
+    {
+      "jargon": "Highlight patterns",
+      "layman": "Show hidden trends"
+    },
+    {
+      "jargon": "Facilitate analysis",
+      "layman": "Make data easier to study"
+    }
+  ]
+}

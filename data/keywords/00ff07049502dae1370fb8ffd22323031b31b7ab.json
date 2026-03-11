@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Context-aware recommender systems",
+      "layman": "Systems that consider user context"
+    },
+    {
+      "jargon": "Multi-criteria recommender systems",
+      "layman": "Systems using multiple user preferences"
+    },
+    {
+      "jargon": "Educational data",
+      "layman": "Learning-related data"
+    },
+    {
+      "jargon": "User preferences",
+      "layman": "What users like or want"
+    },
+    {
+      "jargon": "Recommendations",
+      "layman": "Suggested items or content"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Integration of context-awareness and multi-criteria decision making",
+      "layman": "Combining context and user preferences"
+    },
+    {
+      "jargon": "Experimental results",
+      "layman": "Tested outcomes"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "Study based on real examples"
+    },
+    {
+      "jargon": "Domain generalization",
+      "layman": "Applying results to other areas"
+    },
+    {
+      "jargon": "Recommender system",
+      "layman": "System that suggests content"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "More accurate recommendations",
+      "layman": "Better suggestions"
+    },
+    {
+      "jargon": "Improved recommendation performance",
+      "layman": "Better results in suggestions"
+    },
+    {
+      "jargon": "Real-world applications",
+      "layman": "Used in real life"
+    },
+    {
+      "jargon": "Generalization to other domains",
+      "layman": "Works in different areas"
+    },
+    {
+      "jargon": "First attempt",
+      "layman": "Initial and pioneering effort"
+    }
+  ]
+}

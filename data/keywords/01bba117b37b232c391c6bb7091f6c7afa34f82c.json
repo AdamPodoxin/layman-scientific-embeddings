@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "RbAlH4",
+      "layman": "Rubidium aluminum hydride"
+    },
+    {
+      "jargon": "Aluminum hydride",
+      "layman": "Hydride compound with aluminum"
+    },
+    {
+      "jargon": "KAlD4",
+      "layman": "Potassium aluminum deuteride"
+    },
+    {
+      "jargon": "RbAlD4",
+      "layman": "Rubidium aluminum deuteride"
+    },
+    {
+      "jargon": "Alkali metal aluminum hydrides",
+      "layman": "Hydrides made with aluminum and alkali metals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mechanochemical reaction",
+      "layman": "Mixing metals to make compound"
+    },
+    {
+      "jargon": "Neutron diffraction",
+      "layman": "X-ray-like technique using neutrons"
+    },
+    {
+      "jargon": "Structure refinement",
+      "layman": "Improving crystal structure model"
+    },
+    {
+      "jargon": "Decomposition",
+      "layman": "Breaking down into simpler parts"
+    },
+    {
+      "jargon": "Hydrogenation",
+      "layman": "Adding hydrogen to a compound"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Phase pure",
+      "layman": "Pure form with no impurities"
+    },
+    {
+      "jargon": "Isostructural",
+      "layman": "Same crystal shape"
+    },
+    {
+      "jargon": "Two distinct processes",
+      "layman": "Two different breakdown paths"
+    },
+    {
+      "jargon": "Different structures formed",
+      "layman": "Different crystal forms created"
+    },
+    {
+      "jargon": "Reversibility of hydrogenation",
+      "layman": "Hydrogen can be added or removed"
+    }
+  ]
+}

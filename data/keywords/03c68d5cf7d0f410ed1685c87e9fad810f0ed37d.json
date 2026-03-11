@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Major genes",
+      "layman": "Big genes"
+    },
+    {
+      "jargon": "Economic characters",
+      "layman": "Farm or business traits"
+    },
+    {
+      "jargon": "Polygene concept",
+      "layman": "Many small genes working together"
+    },
+    {
+      "jargon": "Quantitative characters",
+      "layman": "Measurable traits"
+    },
+    {
+      "jargon": "Resistant types",
+      "layman": "Disease-resistant plants"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hybridization",
+      "layman": "Cross-breeding plants"
+    },
+    {
+      "jargon": "Selection pressure",
+      "layman": "Environmental push for change"
+    },
+    {
+      "jargon": "Genetic studies",
+      "layman": "Testing gene effects"
+    },
+    {
+      "jargon": "Field studies",
+      "layman": "Real-world plant testing"
+    },
+    {
+      "jargon": "Theoretical development",
+      "layman": "Building new theories"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Simple Mendelian ratios",
+      "layman": "Easy gene patterns"
+    },
+    {
+      "jargon": "Adaptive response",
+      "layman": "Ability to adapt to stress"
+    },
+    {
+      "jargon": "Resistance to blackarm",
+      "layman": "Protection from disease"
+    },
+    {
+      "jargon": "Polygenic inheritance",
+      "layman": "Many genes affect a trait"
+    },
+    {
+      "jargon": "Lysenko's theories",
+      "layman": "Disproven farming ideas"
+    }
+  ]
+}

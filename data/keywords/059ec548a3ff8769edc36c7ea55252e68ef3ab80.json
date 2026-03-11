@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Human capital",
+      "layman": "Skills and knowledge of workers"
+    },
+    {
+      "jargon": "Physical capital",
+      "layman": "Machines and infrastructure"
+    },
+    {
+      "jargon": "Immigrant workers",
+      "layman": "Foreign workers moving to a country"
+    },
+    {
+      "jargon": "Labor market",
+      "layman": "Place where workers and jobs meet"
+    },
+    {
+      "jargon": "Output per worker",
+      "layman": "Earnings per person in a country"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Estimate human capital endowments",
+      "layman": "Measure worker skills and abilities"
+    },
+    {
+      "jargon": "Cross-country comparison",
+      "layman": "Compare countries side by side"
+    },
+    {
+      "jargon": "Labor market observation",
+      "layman": "Watch how workers perform in one market"
+    },
+    {
+      "jargon": "Implied earnings differences",
+      "layman": "Use earnings to infer worker quality"
+    },
+    {
+      "jargon": "Panel data analysis",
+      "layman": "Track data over time for many countries"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cross-country income differences",
+      "layman": "Gap in how much people earn between countries"
+    },
+    {
+      "jargon": "Fraction of output gap",
+      "layman": "Part of the income gap explained by skills and tools"
+    },
+    {
+      "jargon": "Less than half of output gap",
+      "layman": "Only a small part of income gap is due to skills and machines"
+    },
+    {
+      "jargon": "U.S. output per worker",
+      "layman": "Average earnings in the U.S. per worker"
+    },
+    {
+      "jargon": "Below 40 percent of U.S. output",
+      "layman": "Countries with lower average worker earnings"
+    }
+  ]
+}

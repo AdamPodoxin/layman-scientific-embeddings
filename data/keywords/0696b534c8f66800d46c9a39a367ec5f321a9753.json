@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Internal Labor Markets",
+      "layman": "Internal job sharing system"
+    },
+    {
+      "jargon": "Adverse shocks",
+      "layman": "Negative business events"
+    },
+    {
+      "jargon": "Positive shocks",
+      "layman": "Good business events"
+    },
+    {
+      "jargon": "Affiliated firms",
+      "layman": "Connected companies in a group"
+    },
+    {
+      "jargon": "High-skilled workers",
+      "layman": "Skilled employees"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Workers' mobility data",
+      "layman": "Tracking employee moves"
+    },
+    {
+      "jargon": "Labor regulations",
+      "layman": "Job rules set by law"
+    },
+    {
+      "jargon": "Firm efficiency",
+      "layman": "How well a company runs"
+    },
+    {
+      "jargon": "Growth opportunities",
+      "layman": "Chances for business expansion"
+    },
+    {
+      "jargon": "Job redeployment",
+      "layman": "Moving workers to different jobs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Proportion of workers redeployed",
+      "layman": "Percent of workers moved internally"
+    },
+    {
+      "jargon": "Costly labor adjustments",
+      "layman": "Expensive changes in staffing"
+    },
+    {
+      "jargon": "Job stability",
+      "layman": "Secure employment"
+    },
+    {
+      "jargon": "New hires",
+      "layman": "New employees added"
+    },
+    {
+      "jargon": "Co-insurance mechanism",
+      "layman": "Shared protection system"
+    }
+  ]
+}

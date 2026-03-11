@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Physicians",
+      "layman": "Doctors"
+    },
+    {
+      "jargon": "Patients' rights",
+      "layman": "Patients' rights"
+    },
+    {
+      "jargon": "Informed consent",
+      "layman": "Patient agreement before treatment"
+    },
+    {
+      "jargon": "Medical services",
+      "layman": "Healthcare services"
+    },
+    {
+      "jargon": "Diagnosis",
+      "layman": "Medical assessment of illness"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Interview survey",
+      "layman": "Questionnaire interviews"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering information"
+    },
+    {
+      "jargon": "Legislative framework",
+      "layman": "Health laws and rules"
+    },
+    {
+      "jargon": "Patient education",
+      "layman": "Teaching patients about care"
+    },
+    {
+      "jargon": "Healthcare practice",
+      "layman": "Daily medical work"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Low awareness",
+      "layman": "Poor understanding"
+    },
+    {
+      "jargon": "Delayed visits",
+      "layman": "Late doctor visits"
+    },
+    {
+      "jargon": "Lack of informed consent",
+      "layman": "No patient agreement given"
+    },
+    {
+      "jargon": "Payment information gap",
+      "layman": "Missing payment details"
+    },
+    {
+      "jargon": "Need for new instruments",
+      "layman": "Need for better patient protection tools"
+    }
+  ]
+}

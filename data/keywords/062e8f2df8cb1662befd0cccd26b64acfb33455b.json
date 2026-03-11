@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Object-oriented systems",
+      "layman": "Software built around objects"
+    },
+    {
+      "jargon": "Code inspection",
+      "layman": "Reviewing code for errors"
+    },
+    {
+      "jargon": "Procedural systems",
+      "layman": "Traditional software with step-by-step functions"
+    },
+    {
+      "jargon": "Use-case",
+      "layman": "User action in a system"
+    },
+    {
+      "jargon": "Non-local references",
+      "layman": "References to code far away"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Checklist",
+      "layman": "Step-by-step list"
+    },
+    {
+      "jargon": "Abstract specifications",
+      "layman": "Simple descriptions of what code should do"
+    },
+    {
+      "jargon": "Use-case route",
+      "layman": "Path a user action takes through software"
+    },
+    {
+      "jargon": "Empirical studies",
+      "layman": "Real-world experiments"
+    },
+    {
+      "jargon": "Defect detection",
+      "layman": "Finding software bugs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Effective inspections",
+      "layman": "Good bug finding"
+    },
+    {
+      "jargon": "Rigorous approach",
+      "layman": "Strict and reliable method"
+    },
+    {
+      "jargon": "Best results",
+      "layman": "Optimal outcomes"
+    },
+    {
+      "jargon": "Combination of techniques",
+      "layman": "Mixing methods for better results"
+    },
+    {
+      "jargon": "Frequent non-local references",
+      "layman": "Common hard-to-follow code links"
+    }
+  ]
+}

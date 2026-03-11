@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "\u039b hyperons",
+      "layman": "Strange particles"
+    },
+    {
+      "jargon": "\u00afpp system",
+      "layman": "Antiproton-proton pair"
+    },
+    {
+      "jargon": "s\u00afs quark pair",
+      "layman": "Strange-antistrange quark pair"
+    },
+    {
+      "jargon": "diquark scattering",
+      "layman": "Quark pair interaction"
+    },
+    {
+      "jargon": "string breaking",
+      "layman": "String splitting during particle formation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lund string model",
+      "layman": "Particle formation model"
+    },
+    {
+      "jargon": "di-quark scattering model",
+      "layman": "Quark pair collision model"
+    },
+    {
+      "jargon": "isotropic part",
+      "layman": "Uniform spread component"
+    },
+    {
+      "jargon": "spectator part",
+      "layman": "Passive particle component"
+    },
+    {
+      "jargon": "forward-scattering part",
+      "layman": "Frontward collision component"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "observed polarisation",
+      "layman": "Measured spin alignment"
+    },
+    {
+      "jargon": "angular distributions",
+      "layman": "Directional patterns"
+    },
+    {
+      "jargon": "agreement with measured polarisation",
+      "layman": "Matches experimental data"
+    },
+    {
+      "jargon": "momentum transfers above |t'| = 0.2 GeV\u00b2",
+      "layman": "High energy transfer region"
+    },
+    {
+      "jargon": "threshold",
+      "layman": "Minimum energy for reaction"
+    }
+  ]
+}

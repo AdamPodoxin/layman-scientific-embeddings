@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "B\u00af s 0 meson",
+      "layman": "B-bar-s meson"
+    },
+    {
+      "jargon": "D s2 *+ meson",
+      "layman": "D-s2-star-plus meson"
+    },
+    {
+      "jargon": "D s1 +(2536) meson",
+      "layman": "D-s1-plus meson"
+    },
+    {
+      "jargon": "D0K+ system",
+      "layman": "D-zero K-plus pair"
+    },
+    {
+      "jargon": "X\u03bc-v\u00af",
+      "layman": "Muon and antineutrino pair"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Semileptonic decays",
+      "layman": "Particle decays involving muons"
+    },
+    {
+      "jargon": "Proton\u2013proton collisions",
+      "layman": "Protons smashing together"
+    },
+    {
+      "jargon": "LHCb detector",
+      "layman": "Particle detector at LHC"
+    },
+    {
+      "jargon": "Mass spectrum analysis",
+      "layman": "Looking at mass peaks in data"
+    },
+    {
+      "jargon": "Branching fraction measurement",
+      "layman": "Measuring decay probability"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Branching fraction",
+      "layman": "Chance of a decay happening"
+    },
+    {
+      "jargon": "Mass measurement",
+      "layman": "Measured particle weight"
+    },
+    {
+      "jargon": "Width measurement",
+      "layman": "Particle lifetime estimate"
+    },
+    {
+      "jargon": "Statistical uncertainty",
+      "layman": "Data variation due to randomness"
+    },
+    {
+      "jargon": "Systematic uncertainty",
+      "layman": "Error from experimental setup"
+    }
+  ]
+}

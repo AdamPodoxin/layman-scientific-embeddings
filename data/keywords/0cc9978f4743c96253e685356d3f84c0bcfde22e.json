@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Born global companies",
+      "layman": "New companies that start internationally"
+    },
+    {
+      "jargon": "Information technology (IT) capabilities",
+      "layman": "Tech skills for business"
+    },
+    {
+      "jargon": "Internationalization processes",
+      "layman": "Steps to go global"
+    },
+    {
+      "jargon": "Market entry",
+      "layman": "Entering new markets"
+    },
+    {
+      "jargon": "Competitive advantage",
+      "layman": "Edge over other companies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Internationalization stages",
+      "layman": "Step-by-step global growth"
+    },
+    {
+      "jargon": "Technology adoption",
+      "layman": "Using new tech in business"
+    },
+    {
+      "jargon": "Market analysis",
+      "layman": "Studying target markets"
+    },
+    {
+      "jargon": "Process optimization",
+      "layman": "Improving business processes"
+    },
+    {
+      "jargon": "Performance evaluation",
+      "layman": "Measuring business results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Global market entry",
+      "layman": "Entering international markets"
+    },
+    {
+      "jargon": "Competitive edge",
+      "layman": "Being better than rivals"
+    },
+    {
+      "jargon": "Technology-driven growth",
+      "layman": "Growth from using tech"
+    },
+    {
+      "jargon": "Reduced entry costs",
+      "layman": "Lower cost to go global"
+    },
+    {
+      "jargon": "Early international presence",
+      "layman": "Starting in foreign markets early"
+    }
+  ]
+}

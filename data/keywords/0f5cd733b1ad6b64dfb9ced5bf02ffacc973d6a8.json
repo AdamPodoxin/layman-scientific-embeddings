@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sacred place",
+      "layman": "Sacred place"
+    },
+    {
+      "jargon": "Spiritual commune",
+      "layman": "Community of spiritual practitioners"
+    },
+    {
+      "jargon": "West Virginia landscape",
+      "layman": "West Virginia land"
+    },
+    {
+      "jargon": "Prabhupada's Palace of Gold",
+      "layman": "Gold palace built by Hare Krishnas"
+    },
+    {
+      "jargon": "Unordered space",
+      "layman": "Empty or random space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Integration of physical qualities",
+      "layman": "Mixing nature with belief"
+    },
+    {
+      "jargon": "Symbolic acts",
+      "layman": "Meaningful rituals"
+    },
+    {
+      "jargon": "Meditation",
+      "layman": "Mindful silence"
+    },
+    {
+      "jargon": "Worship",
+      "layman": "Prayer and devotion"
+    },
+    {
+      "jargon": "Founding and settling a site",
+      "layman": "Establishing a new location"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Place imbued with meaning",
+      "layman": "Place with special significance"
+    },
+    {
+      "jargon": "Transformation of space",
+      "layman": "Space becomes meaningful"
+    },
+    {
+      "jargon": "Temple-oriented spiritual commune",
+      "layman": "Community centered on temples"
+    },
+    {
+      "jargon": "Sacred space creation",
+      "layman": "Creation of a holy place"
+    },
+    {
+      "jargon": "Cultural transformation",
+      "layman": "Change in local culture"
+    }
+  ]
+}

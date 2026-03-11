@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ornithine-containing polar lipid",
+      "layman": "Lipid with ornithine"
+    },
+    {
+      "jargon": "Thiobacillus thiooxidans",
+      "layman": "Bacteria that oxidizes sulfur"
+    },
+    {
+      "jargon": "Piperidone",
+      "layman": "Ring-shaped compound"
+    },
+    {
+      "jargon": "Long chain fatty acid",
+      "layman": "Long fat chain"
+    },
+    {
+      "jargon": "Fatty amide",
+      "layman": "Fat-linked amide"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Thermolysis",
+      "layman": "Heating to break molecules"
+    },
+    {
+      "jargon": "Chemical ionization",
+      "layman": "Ionizing molecules with chemicals"
+    },
+    {
+      "jargon": "Dehydration",
+      "layman": "Removing water"
+    },
+    {
+      "jargon": "Elimination",
+      "layman": "Removing a part to form new pieces"
+    },
+    {
+      "jargon": "Vaporization",
+      "layman": "Turning into vapor"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Extensive thermolysis",
+      "layman": "Strong breakdown"
+    },
+    {
+      "jargon": "Two-step process",
+      "layman": "Two stages"
+    },
+    {
+      "jargon": "Substituted piperidone",
+      "layman": "Modified piperidone"
+    },
+    {
+      "jargon": "Neutral lipid components",
+      "layman": "Stable fat pieces"
+    },
+    {
+      "jargon": "Utility of chemical ionization",
+      "layman": "Useful for studying breakdown"
+    }
+  ]
+}

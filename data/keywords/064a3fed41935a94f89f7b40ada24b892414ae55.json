@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Semicrystalline polymers",
+      "layman": "Polymers with both ordered and disordered parts"
+    },
+    {
+      "jargon": "Crystallinity",
+      "layman": "Degree of ordered structure in material"
+    },
+    {
+      "jargon": "Crystal orientation",
+      "layman": "Direction of crystal alignment"
+    },
+    {
+      "jargon": "Polymer surface",
+      "layman": "Top layer of polymer material"
+    },
+    {
+      "jargon": "Vinylidene fluoride\u2013tetrafluoroethylene copolymer",
+      "layman": "Special plastic blend"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "X-ray diffraction",
+      "layman": "Using X-rays to see internal structure"
+    },
+    {
+      "jargon": "Quenching",
+      "layman": "Rapid cooling to stop crystallization"
+    },
+    {
+      "jargon": "Reflection or transmission X-ray setup",
+      "layman": "X-ray setup that bounces or passes through material"
+    },
+    {
+      "jargon": "Slit width adjustment",
+      "layman": "Changing X-ray beam size"
+    },
+    {
+      "jargon": "Linear material absorption coefficient",
+      "layman": "How much X-ray energy material absorbs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Changes in crystallinity as a function of depth",
+      "layman": "Crystallinity changes with depth"
+    },
+    {
+      "jargon": "Material heterogeneity",
+      "layman": "Material varies with depth"
+    },
+    {
+      "jargon": "Increase in crystallinity",
+      "layman": "More order in material"
+    },
+    {
+      "jargon": "Negligible crystallinity",
+      "layman": "Almost no order"
+    },
+    {
+      "jargon": "Bulk value",
+      "layman": "Full material's normal state"
+    }
+  ]
+}

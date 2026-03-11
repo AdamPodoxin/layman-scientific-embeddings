@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Singular value decomposition",
+      "layman": "Math tool to break down data into key parts"
+    },
+    {
+      "jargon": "Watermark",
+      "layman": "Hidden digital signature"
+    },
+    {
+      "jargon": "Human visual system",
+      "layman": "Human eye and brain for seeing"
+    },
+    {
+      "jargon": "Binary sequence",
+      "layman": "String of 0s and 1s"
+    },
+    {
+      "jargon": "Intentional attacks",
+      "layman": "Deliberate attempts to remove or alter data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Linear programming",
+      "layman": "Optimization using math equations"
+    },
+    {
+      "jargon": "Embedding framework",
+      "layman": "Method to hide data in images"
+    },
+    {
+      "jargon": "SVD-based embedding",
+      "layman": "Using SVD to hide data in images"
+    },
+    {
+      "jargon": "Visual imperceptibility constraint",
+      "layman": "Rule to keep changes invisible"
+    },
+    {
+      "jargon": "Human visual models",
+      "layman": "How humans see and perceive images"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Highest possible energy",
+      "layman": "Strongest signal without being noticed"
+    },
+    {
+      "jargon": "Robust to attacks",
+      "layman": "Stays intact even after changes"
+    },
+    {
+      "jargon": "Just noticeable thresholds",
+      "layman": "Point where changes become visible"
+    },
+    {
+      "jargon": "Spatial domain",
+      "layman": "Image as pixels in space"
+    },
+    {
+      "jargon": "Linear domain",
+      "layman": "Image in mathematical lines and vectors"
+    }
+  ]
+}

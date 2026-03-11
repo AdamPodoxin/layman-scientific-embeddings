@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "cytochrome P450 2B4",
+      "layman": "Liver enzyme that breaks down drugs"
+    },
+    {
+      "jargon": "surfactant films",
+      "layman": "Film made from soap-like molecules"
+    },
+    {
+      "jargon": "heme",
+      "layman": "Iron-containing part of the enzyme"
+    },
+    {
+      "jargon": "Fe(III/II) redox couple",
+      "layman": "Iron changing from oxidized to reduced state"
+    },
+    {
+      "jargon": "CYP BM3",
+      "layman": "Bacterial version of the enzyme"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "electrochemical analysis",
+      "layman": "Measuring electrical changes in a reaction"
+    },
+    {
+      "jargon": "cyclic voltammetry",
+      "layman": "Electrochemical test to track electron transfer"
+    },
+    {
+      "jargon": "electrode-bound P450",
+      "layman": "Enzyme attached to an electrode"
+    },
+    {
+      "jargon": "electronic absorption spectra",
+      "layman": "Light absorption pattern of a molecule"
+    },
+    {
+      "jargon": "thermodynamic parameters",
+      "layman": "Energy and entropy values of a reaction"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "absorption maximum at 418nm",
+      "layman": "Bright light peak at 418nm"
+    },
+    {
+      "jargon": "standard heterogeneous rate constant",
+      "layman": "Speed of electron transfer from electrode"
+    },
+    {
+      "jargon": "entropy and enthalpy changes",
+      "layman": "Energy and disorder changes in the reaction"
+    },
+    {
+      "jargon": "catalytic reduction of dioxygen",
+      "layman": "Enzyme reduces oxygen into water"
+    },
+    {
+      "jargon": "limited conformational changes",
+      "layman": "Small shape changes in the enzyme"
+    }
+  ]
+}

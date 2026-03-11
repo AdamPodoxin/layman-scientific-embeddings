@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Transplant recipients",
+      "layman": "People who received organ transplants"
+    },
+    {
+      "jargon": "End-stage renal disease",
+      "layman": "Severe kidney failure"
+    },
+    {
+      "jargon": "Haemodialysis patients",
+      "layman": "People on dialysis for kidney failure"
+    },
+    {
+      "jargon": "Cardiac disease",
+      "layman": "Heart disease"
+    },
+    {
+      "jargon": "Hyperhomocysteinemia",
+      "layman": "High homocysteine in blood"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Prospective study",
+      "layman": "Long-term observation over time"
+    },
+    {
+      "jargon": "Randomized trial",
+      "layman": "Random assignment to treatment groups"
+    },
+    {
+      "jargon": "Predictive value",
+      "layman": "Ability to forecast outcomes"
+    },
+    {
+      "jargon": "Observational study",
+      "layman": "Watching without changing conditions"
+    },
+    {
+      "jargon": "National study",
+      "layman": "Large-scale nationwide research"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mortality",
+      "layman": "Death risk"
+    },
+    {
+      "jargon": "Target haemoglobin",
+      "layman": "Desired blood oxygen level"
+    },
+    {
+      "jargon": "Cardiovascular risk",
+      "layman": "Heart disease risk"
+    },
+    {
+      "jargon": "Death rate differences",
+      "layman": "Variation in death rates between places"
+    },
+    {
+      "jargon": "Serum phosphorus and calcium\u00d7phosphate product",
+      "layman": "Blood levels linked to bone and heart health"
+    }
+  ]
+}

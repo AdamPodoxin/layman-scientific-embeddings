@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Architectural information",
+      "layman": "System design details"
+    },
+    {
+      "jargon": "IT architects",
+      "layman": "IT system designers"
+    },
+    {
+      "jargon": "Model of a viable architecture",
+      "layman": "Working design of a system"
+    },
+    {
+      "jargon": "Work products",
+      "layman": "Design documents"
+    },
+    {
+      "jargon": "Architectural workbench",
+      "layman": "Design tool for IT systems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Model-centric architectural methods",
+      "layman": "Design based on models"
+    },
+    {
+      "jargon": "Metamodel-driven tool",
+      "layman": "Tool built on a model framework"
+    },
+    {
+      "jargon": "Method-based tool",
+      "layman": "Tool following design rules"
+    },
+    {
+      "jargon": "Creative process",
+      "layman": "Design thinking"
+    },
+    {
+      "jargon": "Prototype tool",
+      "layman": "Early version of a tool"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Consistent and up-to-date work products",
+      "layman": "Current and accurate design docs"
+    },
+    {
+      "jargon": "Wider adoption of model-centric methods",
+      "layman": "More teams use design models"
+    },
+    {
+      "jargon": "Improved architectural thinking",
+      "layman": "Better system design decisions"
+    },
+    {
+      "jargon": "Feedback from IT architects",
+      "layman": "Input from real designers"
+    },
+    {
+      "jargon": "Use in production environments",
+      "layman": "Used in real-world settings"
+    }
+  ]
+}

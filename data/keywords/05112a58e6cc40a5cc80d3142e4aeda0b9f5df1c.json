@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Two-dimensional gravity",
+      "layman": "Gravity in a flat plane"
+    },
+    {
+      "jargon": "Expanding background",
+      "layman": "Space growing over time"
+    },
+    {
+      "jargon": "Density perturbation",
+      "layman": "Tiny variations in matter density"
+    },
+    {
+      "jargon": "(2+1)-dimensional gravity",
+      "layman": "Gravity in two space dimensions and one time dimension"
+    },
+    {
+      "jargon": "Spherical top-hat model",
+      "layman": "Simple ball-shaped cluster of matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Action principle of Einstein",
+      "layman": "Mathematical rule for gravity"
+    },
+    {
+      "jargon": "Newtonian limit",
+      "layman": "Simple gravity rules at slow speeds"
+    },
+    {
+      "jargon": "Linearized form",
+      "layman": "Simple version of the equations"
+    },
+    {
+      "jargon": "Numerical simulations",
+      "layman": "Computer models of physical systems"
+    },
+    {
+      "jargon": "Deriving equations",
+      "layman": "Finding math rules from principles"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "No structures can grow",
+      "layman": "No clumps form"
+    },
+    {
+      "jargon": "Structure formation",
+      "layman": "Clumps of matter form"
+    },
+    {
+      "jargon": "Fluid equations",
+      "layman": "Math rules for matter flow"
+    },
+    {
+      "jargon": "Linearized solution",
+      "layman": "Simple solution to the equations"
+    },
+    {
+      "jargon": "Nonlinear growth",
+      "layman": "Complex, real-world growth"
+    }
+  ]
+}

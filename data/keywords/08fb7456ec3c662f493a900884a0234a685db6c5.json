@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Plato",
+      "layman": "Ancient Greek philosopher"
+    },
+    {
+      "jargon": "Sartre",
+      "layman": "Modern French philosopher"
+    },
+    {
+      "jargon": "Classical philosophers",
+      "layman": "Ancient thinkers"
+    },
+    {
+      "jargon": "Philosophical ideas",
+      "layman": "Core beliefs about life and reality"
+    },
+    {
+      "jargon": "Philosophical argument",
+      "layman": "Reasoned debate between ideas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Selection from writings",
+      "layman": "Picking key texts to study"
+    },
+    {
+      "jargon": "Author's insights",
+      "layman": "Personal interpretations"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Breaking down arguments"
+    },
+    {
+      "jargon": "Conceptual comparison",
+      "layman": "Looking at similar ideas across time"
+    },
+    {
+      "jargon": "Historical context",
+      "layman": "Understanding the time period behind ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ideas from Plato to Sartre",
+      "layman": "A timeline of key beliefs"
+    },
+    {
+      "jargon": "Philosophical continuity",
+      "layman": "Shared themes over time"
+    },
+    {
+      "jargon": "Evolution of thought",
+      "layman": "How ideas changed over time"
+    },
+    {
+      "jargon": "Argument development",
+      "layman": "How debates grew and changed"
+    },
+    {
+      "jargon": "Interpretive framework",
+      "layman": "A way to understand philosophical texts"
+    }
+  ]
+}

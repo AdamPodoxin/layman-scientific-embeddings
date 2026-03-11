@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Geriatric patients",
+      "layman": "Older adults"
+    },
+    {
+      "jargon": "Somatic diseases",
+      "layman": "Body diseases"
+    },
+    {
+      "jargon": "Cognitive impairment",
+      "layman": "Memory problems"
+    },
+    {
+      "jargon": "Mini Mental Examination Test (MMSE)",
+      "layman": "Memory test score"
+    },
+    {
+      "jargon": "Cardiomyopathies",
+      "layman": "Heart muscle diseases"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mini mental examination test",
+      "layman": "Memory test"
+    },
+    {
+      "jargon": "Biochemical analyses",
+      "layman": "Blood and urine tests"
+    },
+    {
+      "jargon": "Ultrasound examination",
+      "layman": "Sound wave scan"
+    },
+    {
+      "jargon": "X-ray examination",
+      "layman": "X-ray scan"
+    },
+    {
+      "jargon": "Hormone testing",
+      "layman": "Check hormone levels"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Significant correlation",
+      "layman": "Strong connection"
+    },
+    {
+      "jargon": "MMSE score increased",
+      "layman": "Memory improved"
+    },
+    {
+      "jargon": "Statistical significance",
+      "layman": "Result is reliable"
+    },
+    {
+      "jargon": "Cognitive recovery",
+      "layman": "Better thinking"
+    },
+    {
+      "jargon": "No change in MMSE",
+      "layman": "No memory improvement"
+    }
+  ]
+}

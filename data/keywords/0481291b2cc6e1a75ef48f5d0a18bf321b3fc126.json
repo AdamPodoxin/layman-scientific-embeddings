@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Boolean subset logic",
+      "layman": "Either-in-or-out logic"
+    },
+    {
+      "jargon": "Partition logic",
+      "layman": "Alternative logic of divisions"
+    },
+    {
+      "jargon": "Micro-reality",
+      "layman": "Reality at the smallest scales"
+    },
+    {
+      "jargon": "Quantum mechanics",
+      "layman": "How particles behave at tiny scales"
+    },
+    {
+      "jargon": "Vector spaces",
+      "layman": "Mathematical spaces for physical quantities"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lifting program",
+      "layman": "Translating logic to quantum math"
+    },
+    {
+      "jargon": "Logical information theory",
+      "layman": "Information based on logic"
+    },
+    {
+      "jargon": "Subset-partition duality",
+      "layman": "Pairing groups with divisions"
+    },
+    {
+      "jargon": "Mathematical lifting",
+      "layman": "Applying logic to physical systems"
+    },
+    {
+      "jargon": "Dual logic",
+      "layman": "Two opposing but linked systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Objective indefiniteness",
+      "layman": "Properties not fixed until measured"
+    },
+    {
+      "jargon": "Alternative view of reality",
+      "layman": "Different way to see reality"
+    },
+    {
+      "jargon": "Matches quantum mechanics",
+      "layman": "Agrees with quantum predictions"
+    },
+    {
+      "jargon": "Coherent alternative views",
+      "layman": "Plausible alternatives to classical view"
+    },
+    {
+      "jargon": "Mathematical description of micro-reality",
+      "layman": "Equations for tiny-scale reality"
+    }
+  ]
+}

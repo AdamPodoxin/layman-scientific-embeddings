@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ethno-Cultural Minorities",
+      "layman": "Ethno-Cultural Minorities"
+    },
+    {
+      "jargon": "Women's Rights",
+      "layman": "Women's rights"
+    },
+    {
+      "jargon": "Multicultural jurisdictions",
+      "layman": "Different cultural areas with separate rules"
+    },
+    {
+      "jargon": "Liberal citizenship",
+      "layman": "Standard national citizenship"
+    },
+    {
+      "jargon": "Deliberative democracy",
+      "layman": "People discussing decisions together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critique",
+      "layman": "Critical analysis"
+    },
+    {
+      "jargon": "Conciliatory proposal",
+      "layman": "Balanced solution"
+    },
+    {
+      "jargon": "Analyse critically",
+      "layman": "Careful evaluation"
+    },
+    {
+      "jargon": "Review",
+      "layman": "Examine closely"
+    },
+    {
+      "jargon": "Explore",
+      "layman": "Investigate"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Overcoming ideal of citizenship",
+      "layman": "Moving beyond standard citizenship"
+    },
+    {
+      "jargon": "Inclusive citizenship",
+      "layman": "Citizenship that includes all cultures"
+    },
+    {
+      "jargon": "Balance between equality feminism and multiculturalism",
+      "layman": "Fair mix of equal rights and cultural diversity"
+    },
+    {
+      "jargon": "Multicultural jurisdictions alone not enough",
+      "layman": "Cultural areas alone don't solve all problems"
+    },
+    {
+      "jargon": "Insert into deliberative democracy",
+      "layman": "Add to shared decision-making"
+    }
+  ]
+}

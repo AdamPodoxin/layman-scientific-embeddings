@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quantum critical points",
+      "layman": "Points where quantum behavior changes suddenly"
+    },
+    {
+      "jargon": "Quasiparticle excitations",
+      "layman": "Tiny particle-like behaviors in materials"
+    },
+    {
+      "jargon": "Anti-de Sitter space",
+      "layman": "Hypothetical curved space with negative curvature"
+    },
+    {
+      "jargon": "Black holes",
+      "layman": "Gravitational objects that trap everything"
+    },
+    {
+      "jargon": "Hawking radiation",
+      "layman": "Radiation from black holes due to quantum effects"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Quantum kinetic equations",
+      "layman": "Equations for quantum motion without particles"
+    },
+    {
+      "jargon": "String theory",
+      "layman": "Theory linking particles to strings"
+    },
+    {
+      "jargon": "Anti-de Sitter/conformal field theory duality",
+      "layman": "Link between gravity and quantum fields"
+    },
+    {
+      "jargon": "Transport coefficients",
+      "layman": "Measures of how materials carry current or heat"
+    },
+    {
+      "jargon": "Magnetohydrodynamics",
+      "layman": "Study of magnetic fluids in motion"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Transport coefficients proportional to temperature",
+      "layman": "Flow properties depend only on temperature"
+    },
+    {
+      "jargon": "Nernst effect",
+      "layman": "Voltage from temperature changes in magnetic fields"
+    },
+    {
+      "jargon": "Hydrodynamic cyclotron resonance",
+      "layman": "Predicted resonance in electron motion"
+    },
+    {
+      "jargon": "Superfluid-insulator transition",
+      "layman": "Change from flowing to non-flowing state"
+    },
+    {
+      "jargon": "Mean free scattering time",
+      "layman": "Average time particles move before colliding"
+    }
+  ]
+}

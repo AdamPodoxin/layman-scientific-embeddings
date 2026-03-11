@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Malaria parasites",
+      "layman": "Malaria-causing organisms"
+    },
+    {
+      "jargon": "Host genes",
+      "layman": "Genes in the human body"
+    },
+    {
+      "jargon": "Pathogen genes",
+      "layman": "Genes in disease-causing organisms"
+    },
+    {
+      "jargon": "Virulence",
+      "layman": "Disease severity"
+    },
+    {
+      "jargon": "Resistance",
+      "layman": "Ability to avoid infection"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Genetic analysis",
+      "layman": "Studying DNA patterns"
+    },
+    {
+      "jargon": "Gene recombination",
+      "layman": "Genes mixing to form new combinations"
+    },
+    {
+      "jargon": "Mutation",
+      "layman": "Genetic changes over time"
+    },
+    {
+      "jargon": "Co-evolution",
+      "layman": "Both species changing together over time"
+    },
+    {
+      "jargon": "Population genetics",
+      "layman": "How genes spread in groups"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Asymptomatic infection",
+      "layman": "No symptoms"
+    },
+    {
+      "jargon": "Mild infection",
+      "layman": "Minor illness"
+    },
+    {
+      "jargon": "Severe infection",
+      "layman": "Dangerous illness"
+    },
+    {
+      "jargon": "Cerebral malaria",
+      "layman": "Malaria affecting the brain"
+    },
+    {
+      "jargon": "Gene spread in populations",
+      "layman": "Genes becoming more common"
+    }
+  ]
+}

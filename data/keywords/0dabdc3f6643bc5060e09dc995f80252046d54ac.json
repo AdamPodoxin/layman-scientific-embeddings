@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "SiC_p/ZA27 composite",
+      "layman": "Silicon carbide in zinc alloy"
+    },
+    {
+      "jargon": "Zr element",
+      "layman": "Zirconium addition"
+    },
+    {
+      "jargon": "Semi-solid temperature",
+      "layman": "Partially melted state"
+    },
+    {
+      "jargon": "ZA27 alloy",
+      "layman": "Zinc alloy with aluminum"
+    },
+    {
+      "jargon": "Microstructure",
+      "layman": "Tiny internal structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Isothermal heat treatment",
+      "layman": "Heating at constant temperature"
+    },
+    {
+      "jargon": "Microstructural evolution",
+      "layman": "Change in tiny structure over time"
+    },
+    {
+      "jargon": "Thixo forming",
+      "layman": "Shaping metal when partially melted"
+    },
+    {
+      "jargon": "Structural coarsening",
+      "layman": "Grain growth or thickening"
+    },
+    {
+      "jargon": "Heat treatment duration",
+      "layman": "How long material is heated"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ideal microstructure",
+      "layman": "Best internal shape for forming"
+    },
+    {
+      "jargon": "Faster structural evolution",
+      "layman": "Changes happen quicker"
+    },
+    {
+      "jargon": "No obvious structure coarsening",
+      "layman": "No large grain growth"
+    },
+    {
+      "jargon": "30\u201340 min treatment time",
+      "layman": "Optimal heating duration"
+    },
+    {
+      "jargon": "460\u2103 temperature",
+      "layman": "Specific heating level"
+    }
+  ]
+}

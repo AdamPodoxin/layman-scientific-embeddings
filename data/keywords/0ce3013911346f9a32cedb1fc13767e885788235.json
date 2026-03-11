@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Vaporware",
+      "layman": "Unreleased product announced early"
+    },
+    {
+      "jargon": "New product announcement",
+      "layman": "Company says a new product is coming"
+    },
+    {
+      "jargon": "Market availability",
+      "layman": "When a product is actually sold"
+    },
+    {
+      "jargon": "Competitors",
+      "layman": "Other companies making similar products"
+    },
+    {
+      "jargon": "Dominant firm",
+      "layman": "Big company with most market power"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Game-theoretic model",
+      "layman": "Model of companies playing a strategic game"
+    },
+    {
+      "jargon": "Empirical data analysis",
+      "layman": "Looking at real-world data"
+    },
+    {
+      "jargon": "Preannouncement timing",
+      "layman": "When a company announces before release"
+    },
+    {
+      "jargon": "Introduction timing",
+      "layman": "When a product actually launches"
+    },
+    {
+      "jargon": "Antitrust case",
+      "layman": "Legal case about fair competition"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Intentional vaporware",
+      "layman": "Deliberate early product announcement"
+    },
+    {
+      "jargon": "Product development costs",
+      "layman": "Money spent to build a product"
+    },
+    {
+      "jargon": "Entry deterrence",
+      "layman": "Preventing rivals from entering the market"
+    },
+    {
+      "jargon": "Strategic signal",
+      "layman": "Message sent to influence rivals"
+    },
+    {
+      "jargon": "Curvilinear relationship",
+      "layman": "Non-linear pattern in data"
+    }
+  ]
+}

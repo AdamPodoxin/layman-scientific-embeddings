@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Phyla",
+      "layman": "Major animal groups"
+    },
+    {
+      "jargon": "Animal phyla",
+      "layman": "Big groups of animals"
+    },
+    {
+      "jargon": "Fossils",
+      "layman": "Ancient animal remains"
+    },
+    {
+      "jargon": "Molecular genetics",
+      "layman": "Genetic material from DNA"
+    },
+    {
+      "jargon": "Evolutionary developmental biology",
+      "layman": "How animals evolve and develop"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Paleontology",
+      "layman": "Studying ancient life from fossils"
+    },
+    {
+      "jargon": "Embryology",
+      "layman": "Studying early animal development"
+    },
+    {
+      "jargon": "Comparative morphology",
+      "layman": "Comparing body structures"
+    },
+    {
+      "jargon": "Molecular phylogenetics",
+      "layman": "Using DNA to trace evolutionary relationships"
+    },
+    {
+      "jargon": "Model development",
+      "layman": "Creating theories to explain origins"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Origin of phyla",
+      "layman": "How animal groups first appeared"
+    },
+    {
+      "jargon": "Body plans",
+      "layman": "Basic animal shapes"
+    },
+    {
+      "jargon": "Early diversification",
+      "layman": "First spread of animal groups"
+    },
+    {
+      "jargon": "Evolutionary patterns",
+      "layman": "How groups changed over time"
+    },
+    {
+      "jargon": "Design elements",
+      "layman": "Key features in animal structures"
+    }
+  ]
+}

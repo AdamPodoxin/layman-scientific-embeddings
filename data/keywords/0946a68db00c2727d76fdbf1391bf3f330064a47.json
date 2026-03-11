@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "State",
+      "layman": "Government"
+    },
+    {
+      "jargon": "Caste",
+      "layman": "Social group"
+    },
+    {
+      "jargon": "Kin-based collectives",
+      "layman": "Family-based groups"
+    },
+    {
+      "jargon": "Political organisation",
+      "layman": "Way people govern"
+    },
+    {
+      "jargon": "Religion",
+      "layman": "Spiritual beliefs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "State formation",
+      "layman": "How governments develop"
+    },
+    {
+      "jargon": "Social and economic background",
+      "layman": "People's income and class"
+    },
+    {
+      "jargon": "Political development",
+      "layman": "Growth of political systems"
+    },
+    {
+      "jargon": "Institutional analysis",
+      "layman": "Studying how systems work"
+    },
+    {
+      "jargon": "Historical examination",
+      "layman": "Looking at past events"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Origin of the state",
+      "layman": "Where government began"
+    },
+    {
+      "jargon": "Nature of the state",
+      "layman": "What kind of government it is"
+    },
+    {
+      "jargon": "Changing social background",
+      "layman": "Shifting social conditions"
+    },
+    {
+      "jargon": "Ruling class influence",
+      "layman": "Power of elite groups"
+    },
+    {
+      "jargon": "Religion serving rulers",
+      "layman": "Religion used by leaders"
+    }
+  ]
+}

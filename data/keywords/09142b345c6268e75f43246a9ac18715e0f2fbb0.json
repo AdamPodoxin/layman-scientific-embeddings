@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Osteoporosis",
+      "layman": "Bone weakening disease"
+    },
+    {
+      "jargon": "Risk factors",
+      "layman": "Conditions that increase chance of disease"
+    },
+    {
+      "jargon": "Low-trauma fracture",
+      "layman": "Broken bone from minor injury"
+    },
+    {
+      "jargon": "Height loss",
+      "layman": "Decrease in height over time"
+    },
+    {
+      "jargon": "Prolonged oral steroid use",
+      "layman": "Long-term use of steroid pills"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Survey",
+      "layman": "Questionnaire sent to people"
+    },
+    {
+      "jargon": "Multivariable logistic regression",
+      "layman": "Statistical method to find links between factors"
+    },
+    {
+      "jargon": "Odds ratio",
+      "layman": "Measure of how likely something is"
+    },
+    {
+      "jargon": "Confidence interval",
+      "layman": "Range showing how reliable a result is"
+    },
+    {
+      "jargon": "Adjusting for other risk factors",
+      "layman": "Accounting for other known causes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Diagnosis",
+      "layman": "Getting a confirmed disease label"
+    },
+    {
+      "jargon": "Treatment",
+      "layman": "Starting medical care"
+    },
+    {
+      "jargon": "Underdiagnosed",
+      "layman": "Not correctly identified"
+    },
+    {
+      "jargon": "Undertreated",
+      "layman": "Not receiving proper care"
+    },
+    {
+      "jargon": "Female sex",
+      "layman": "Being a woman"
+    }
+  ]
+}

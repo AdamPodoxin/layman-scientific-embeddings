@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Proterozoic metamorphic rocks",
+      "layman": "Ancient, changed rocks"
+    },
+    {
+      "jargon": "Xindong Group",
+      "layman": "Xindong Group"
+    },
+    {
+      "jargon": "Heilongjiang Group",
+      "layman": "Heilongjiang Group"
+    },
+    {
+      "jargon": "Deep fault (F9)",
+      "layman": "Deep crack in the earth"
+    },
+    {
+      "jargon": "Cretaceous intermediate-acid volcanic rocks",
+      "layman": "Old volcano rocks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Metallogenic geological environment analysis",
+      "layman": "Studying rock conditions for gold"
+    },
+    {
+      "jargon": "Ore-controlling factors identification",
+      "layman": "Finding what controls gold formation"
+    },
+    {
+      "jargon": "Rock gold deposit prediction",
+      "layman": "Predicting where gold might be"
+    },
+    {
+      "jargon": "Ore-prospecting direction determination",
+      "layman": "Deciding where to search for gold"
+    },
+    {
+      "jargon": "Geological environment analysis",
+      "layman": "Studying earth conditions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Large-, medium-, small-scale rock gold deposits",
+      "layman": "Different sizes of gold deposits"
+    },
+    {
+      "jargon": "Ore-prospecting direction",
+      "layman": "Search path for gold"
+    },
+    {
+      "jargon": "Metallogenic rule",
+      "layman": "Pattern of gold formation"
+    },
+    {
+      "jargon": "Ore-controlling factors",
+      "layman": "What controls gold formation"
+    },
+    {
+      "jargon": "Primary rock gold metallogenic region",
+      "layman": "Main area for rock gold"
+    }
+  ]
+}

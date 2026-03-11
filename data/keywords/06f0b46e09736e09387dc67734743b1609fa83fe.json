@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rift basin",
+      "layman": "Splitting geological region"
+    },
+    {
+      "jargon": "Magma intumescing",
+      "layman": "Magma expanding"
+    },
+    {
+      "jargon": "Igneous rocks",
+      "layman": "Rock from melted material"
+    },
+    {
+      "jargon": "Sedimentary formations",
+      "layman": "Layered rock layers"
+    },
+    {
+      "jargon": "Basement",
+      "layman": "Deep underground rock base"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Gravity data",
+      "layman": "Weight measurements underground"
+    },
+    {
+      "jargon": "Magnetic data",
+      "layman": "Earth's magnetic field readings"
+    },
+    {
+      "jargon": "Seismic data",
+      "layman": "Sound wave travel through earth"
+    },
+    {
+      "jargon": "Joint solution",
+      "layman": "Combining different data types"
+    },
+    {
+      "jargon": "Basement undulation",
+      "layman": "Wavy shape of deep rock base"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Poor seismic data",
+      "layman": "Weak sound wave signals"
+    },
+    {
+      "jargon": "Difficult to identify basement",
+      "layman": "Hard to find deep rock base"
+    },
+    {
+      "jargon": "Evaluation of source rocks",
+      "layman": "Check for oil or gas potential"
+    },
+    {
+      "jargon": "Improved exploration effect",
+      "layman": "Better discovery results"
+    },
+    {
+      "jargon": "Deeper structure beneath volcanic rocks",
+      "layman": "Hidden layers under volcanic rock"
+    }
+  ]
+}

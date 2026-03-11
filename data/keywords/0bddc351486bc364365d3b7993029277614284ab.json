@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bilateral transactions",
+      "layman": "Two-country trade deals"
+    },
+    {
+      "jargon": "Producers",
+      "layman": "People who make goods"
+    },
+    {
+      "jargon": "Consumers",
+      "layman": "People who buy goods"
+    },
+    {
+      "jargon": "Economic transactions",
+      "layman": "Trade and financial exchanges"
+    },
+    {
+      "jargon": "Peace efforts",
+      "layman": "Actions to end war"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Welfare analysis",
+      "layman": "Evaluating well-being"
+    },
+    {
+      "jargon": "Trade policy assessment",
+      "layman": "Reviewing trade rules"
+    },
+    {
+      "jargon": "Impact evaluation",
+      "layman": "Measuring effects of actions"
+    },
+    {
+      "jargon": "Comparative analysis",
+      "layman": "Comparing different situations"
+    },
+    {
+      "jargon": "Production types",
+      "layman": "Types of goods made"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Welfare of producers",
+      "layman": "Producers' well-being"
+    },
+    {
+      "jargon": "Welfare of consumers",
+      "layman": "Consumers' well-being"
+    },
+    {
+      "jargon": "Attitude toward peace",
+      "layman": "People's view on peace"
+    },
+    {
+      "jargon": "Existing trade",
+      "layman": "Current trade"
+    },
+    {
+      "jargon": "New productions",
+      "layman": "New goods made"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hyperuniverse",
+      "layman": "Expanded universe of mathematical possibilities"
+    },
+    {
+      "jargon": "Set-theoretic truth",
+      "layman": "True mathematical facts about sets"
+    },
+    {
+      "jargon": "ZFC",
+      "layman": "Standard foundation of mathematics"
+    },
+    {
+      "jargon": "Justifiable principles",
+      "layman": "Logical rules with good reasons"
+    },
+    {
+      "jargon": "Mathematical objects",
+      "layman": "Abstract mathematical things"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Set-theoretic independence",
+      "layman": "Testing if a math question depends on assumptions"
+    },
+    {
+      "jargon": "Justification principles",
+      "layman": "Rules used to decide what's valid"
+    },
+    {
+      "jargon": "Model construction",
+      "layman": "Building mathematical examples"
+    },
+    {
+      "jargon": "Philosophical assumptions",
+      "layman": "Beliefs that guide reasoning"
+    },
+    {
+      "jargon": "Resolution of questions",
+      "layman": "Solving open math problems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Independent from ZFC",
+      "layman": "Not decided by standard math rules"
+    },
+    {
+      "jargon": "Mathematical resolution",
+      "layman": "Clear answer found"
+    },
+    {
+      "jargon": "Truth in hyperuniverse",
+      "layman": "Definite answers in expanded math world"
+    },
+    {
+      "jargon": "New mathematical facts",
+      "layman": "New truths discovered"
+    },
+    {
+      "jargon": "Consistent frameworks",
+      "layman": "Stable and reliable math systems"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "psoriatic arthritis",
+      "layman": "arthritis linked to psoriasis"
+    },
+    {
+      "jargon": "disease activity",
+      "layman": "symptoms of illness"
+    },
+    {
+      "jargon": "conventional synthetic DMARD",
+      "layman": "common arthritis medication"
+    },
+    {
+      "jargon": "TNF-inhibiting biological agent",
+      "layman": "biologic drug that blocks TNF"
+    },
+    {
+      "jargon": "joint disease",
+      "layman": "joint inflammation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "cross-sectional study",
+      "layman": "snapshot of patients at one time"
+    },
+    {
+      "jargon": "disease activity scoring",
+      "layman": "rating how sick a patient feels"
+    },
+    {
+      "jargon": "prospective registration",
+      "layman": "recorded as events happen"
+    },
+    {
+      "jargon": "clinical Disease Activity Index for Psoriatic Arthritis",
+      "layman": "score to measure arthritis severity"
+    },
+    {
+      "jargon": "treatment decision tracking",
+      "layman": "noting what treatment is chosen"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "remaining disease activity",
+      "layman": "arthritis still present despite treatment"
+    },
+    {
+      "jargon": "moderate to high disease activity",
+      "layman": "severe arthritis symptoms"
+    },
+    {
+      "jargon": "treatment adjustment",
+      "layman": "changing medication plan"
+    },
+    {
+      "jargon": "joint counts",
+      "layman": "number of swollen joints"
+    },
+    {
+      "jargon": "patient scores",
+      "layman": "how patients rate their pain and symptoms"
+    }
+  ]
+}

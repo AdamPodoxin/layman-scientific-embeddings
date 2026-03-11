@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Non-relativistic particle",
+      "layman": "Slow-moving particle"
+    },
+    {
+      "jargon": "Linear finite range potential",
+      "layman": "Limited, straight-line force field"
+    },
+    {
+      "jargon": "Bound state",
+      "layman": "Stable energy level"
+    },
+    {
+      "jargon": "Quark-confining potential",
+      "layman": "Force that keeps quarks together"
+    },
+    {
+      "jargon": "Triangular well",
+      "layman": "Triangular-shaped energy trap"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Transcendental eigenvalue equation",
+      "layman": "Complex math equation for energy levels"
+    },
+    {
+      "jargon": "Numerical solution",
+      "layman": "Solving with computers"
+    },
+    {
+      "jargon": "Energy spectrum",
+      "layman": "List of possible energy levels"
+    },
+    {
+      "jargon": "Attractive potential",
+      "layman": "Force pulling things together"
+    },
+    {
+      "jargon": "Finite range",
+      "layman": "Limited distance of influence"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Explicit eigen-energies",
+      "layman": "Exact energy values"
+    },
+    {
+      "jargon": "Energy spectrum",
+      "layman": "Energy levels found"
+    },
+    {
+      "jargon": "Potential significance in particle physics",
+      "layman": "Important for understanding particles"
+    },
+    {
+      "jargon": "Exciting applications in electronics",
+      "layman": "Useful in electronic devices"
+    },
+    {
+      "jargon": "Intricate equation",
+      "layman": "Complex and hard to solve"
+    }
+  ]
+}

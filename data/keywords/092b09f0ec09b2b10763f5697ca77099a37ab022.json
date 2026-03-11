@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Dynamic information flow tracking",
+      "layman": "Tracking of data movement in real time"
+    },
+    {
+      "jargon": "Spurious information flows",
+      "layman": "Unwanted data from unsafe inputs"
+    },
+    {
+      "jargon": "Untrusted I/O",
+      "layman": "Unreliable input and output devices"
+    },
+    {
+      "jargon": "Malicious software attacks",
+      "layman": "Harmful software attacks"
+    },
+    {
+      "jargon": "Program control",
+      "layman": "Program execution authority"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Operating system identification",
+      "layman": "System detects unsafe inputs"
+    },
+    {
+      "jargon": "Processor tracking",
+      "layman": "CPU monitors data paths"
+    },
+    {
+      "jargon": "Information flow monitoring",
+      "layman": "Watching how data moves"
+    },
+    {
+      "jargon": "Control transfer checking",
+      "layman": "Verifying if bad code takes over"
+    },
+    {
+      "jargon": "Memory overhead management",
+      "layman": "Controlling memory use"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Performance overhead of 1.1%",
+      "layman": "Minimal slowdown"
+    },
+    {
+      "jargon": "Memory overhead of 1.4%",
+      "layman": "Small memory use increase"
+    },
+    {
+      "jargon": "Attack effectiveness",
+      "layman": "Many attacks blocked"
+    },
+    {
+      "jargon": "Transparent protection",
+      "layman": "No changes needed for users"
+    },
+    {
+      "jargon": "No executable modification",
+      "layman": "Apps work as before"
+    }
+  ]
+}

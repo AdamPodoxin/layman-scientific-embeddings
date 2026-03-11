@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Unique game",
+      "layman": "A type of puzzle with constraints"
+    },
+    {
+      "jargon": "Semidefinite programming",
+      "layman": "Advanced math for optimization"
+    },
+    {
+      "jargon": "Alphabet size",
+      "layman": "Number of choices in a game"
+    },
+    {
+      "jargon": "Constraints",
+      "layman": "Rules that must be followed"
+    },
+    {
+      "jargon": "Variables",
+      "layman": "Unknowns in a system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Semidefinite programming",
+      "layman": "Advanced math for optimization"
+    },
+    {
+      "jargon": "Polynomial time algorithm",
+      "layman": "Fast solution method"
+    },
+    {
+      "jargon": "Approximation algorithm",
+      "layman": "Solution that's close enough"
+    },
+    {
+      "jargon": "Linear constraints",
+      "layman": "Simple rules connecting variables"
+    },
+    {
+      "jargon": "2-to-1 games",
+      "layman": "A special kind of puzzle"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Value 1 - O(1/log n)",
+      "layman": "High but not perfect game score"
+    },
+    {
+      "jargon": "Constant fraction of constraints",
+      "layman": "Most rules are satisfied"
+    },
+    {
+      "jargon": "Improves Khot's algorithm",
+      "layman": "Better performance than previous method"
+    },
+    {
+      "jargon": "Satisfies constant fraction",
+      "layman": "A fixed share of rules work"
+    },
+    {
+      "jargon": "O(1/(k/sup 10/(log k)/sup 5/))",
+      "layman": "Small error based on alphabet size"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Societies",
+      "layman": "Groups of people"
+    },
+    {
+      "jargon": "Human societies",
+      "layman": "Human groups"
+    },
+    {
+      "jargon": "Agrarian societies",
+      "layman": "Farm-based communities"
+    },
+    {
+      "jargon": "Western societies",
+      "layman": "Western countries' cultures"
+    },
+    {
+      "jargon": "Social change",
+      "layman": "Change in how people live"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Evolutionary theory",
+      "layman": "How societies change over time"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Studying past events"
+    },
+    {
+      "jargon": "Comparative study",
+      "layman": "Comparing different societies"
+    },
+    {
+      "jargon": "Cultural diffusion",
+      "layman": "Spreading of customs"
+    },
+    {
+      "jargon": "Theoretical modeling",
+      "layman": "Creating models to explain change"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Rise of the West",
+      "layman": "Western dominance"
+    },
+    {
+      "jargon": "Modern era",
+      "layman": "Today's world"
+    },
+    {
+      "jargon": "Societal transformation",
+      "layman": "Big shift in society"
+    },
+    {
+      "jargon": "Long-term stability",
+      "layman": "Long-lasting peace"
+    },
+    {
+      "jargon": "Cultural shift",
+      "layman": "Change in traditions"
+    }
+  ]
+}

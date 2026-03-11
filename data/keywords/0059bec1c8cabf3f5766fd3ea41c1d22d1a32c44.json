@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "mobile cloud computing",
-      "layman": "mobile cloud computing"
+      "jargon": "Mobile cloud computing",
+      "layman": "Mobile cloud computing"
     },
     {
-      "jargon": "cyber threats",
-      "layman": "online attacks"
+      "jargon": "Cyberattacks",
+      "layman": "Malicious online attacks"
     },
     {
-      "jargon": "data integrity",
-      "layman": "data accuracy"
+      "jargon": "Data integrity",
+      "layman": "Unchanged data"
     },
     {
-      "jargon": "users' confidentiality",
-      "layman": "user privacy"
+      "jargon": "User confidentiality",
+      "layman": "Private user information"
     },
     {
-      "jargon": "service availability",
-      "layman": "system uptime"
+      "jargon": "Service availability",
+      "layman": "System accessibility"
     }
   ],
   "methodologies": [
     {
-      "jargon": "deep learning approach",
-      "layman": "advanced AI learning"
+      "jargon": "Deep learning approach",
+      "layman": "Advanced AI learning method"
     },
     {
-      "jargon": "detect and isolate",
-      "layman": "find and stop threats"
+      "jargon": "Framework",
+      "layman": "System structure"
     },
     {
-      "jargon": "experimental results",
-      "layman": "test outcomes"
+      "jargon": "Experimental results",
+      "layman": "Test outcomes"
     },
     {
-      "jargon": "machine learning-based approaches",
-      "layman": "AI-based detection methods"
+      "jargon": "Machine learning-based approaches",
+      "layman": "AI methods using data patterns"
     },
     {
-      "jargon": "framework",
-      "layman": "system structure"
+      "jargon": "Detection and isolation",
+      "layman": "Finding and removing threats"
     }
   ],
   "outcomes": [
     {
-      "jargon": "high accuracy",
-      "layman": "very correct detection"
+      "jargon": "High accuracy",
+      "layman": "Very correct results"
     },
     {
-      "jargon": "97.11% accuracy",
+      "jargon": "Up to 97.11% accuracy",
       "layman": "97% correct detection"
     },
     {
-      "jargon": "recognizes diverse cyberattacks",
-      "layman": "detects many types of attacks"
+      "jargon": "Recognizes diverse cyberattacks",
+      "layman": "Detects many types of attacks"
     },
     {
-      "jargon": "effectiveness",
-      "layman": "works well"
+      "jargon": "Effectiveness comparison",
+      "layman": "Better than existing methods"
     },
     {
-      "jargon": "comparisons with current approaches",
-      "layman": "better than existing methods"
+      "jargon": "Preventive approach",
+      "layman": "Action before damage occurs"
     }
   ]
 }

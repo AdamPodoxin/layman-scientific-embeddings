@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Roman humanist",
+      "layman": "Scholar from Renaissance Rome"
+    },
+    {
+      "jargon": "Sixteenth-century dialogue",
+      "layman": "Talk between scholars from 1500s"
+    },
+    {
+      "jargon": "Humanists (1470\u20131540)",
+      "layman": "Scholars from 1470 to 1540"
+    },
+    {
+      "jargon": "Sack of Rome",
+      "layman": "Attack on Rome"
+    },
+    {
+      "jargon": "Counter Reformation",
+      "layman": "Response to religious reform"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dialogue format",
+      "layman": "Group discussion"
+    },
+    {
+      "jargon": "Historical notes",
+      "layman": "Background explanations"
+    },
+    {
+      "jargon": "Biographical roster",
+      "layman": "List of people's lives"
+    },
+    {
+      "jargon": "Translation",
+      "layman": "Converting old language to modern"
+    },
+    {
+      "jargon": "Contextualization",
+      "layman": "Adding background to understand"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lost era of humanism",
+      "layman": "Golden age of scholars ended"
+    },
+    {
+      "jargon": "Memorializing past",
+      "layman": "Remembering the past"
+    },
+    {
+      "jargon": "Social and intellectual fabric",
+      "layman": "Web of society and ideas"
+    },
+    {
+      "jargon": "Historical information",
+      "layman": "Past facts revealed"
+    },
+    {
+      "jargon": "Individual stories",
+      "layman": "Personal scholar tales"
+    }
+  ]
+}

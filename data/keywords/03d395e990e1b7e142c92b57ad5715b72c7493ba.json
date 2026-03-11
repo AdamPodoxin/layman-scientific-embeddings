@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Murine models",
+      "layman": "Laboratory mice for testing"
+    },
+    {
+      "jargon": "Cytokine storm",
+      "layman": "Overactive and dangerous immune response"
+    },
+    {
+      "jargon": "Foam nests",
+      "layman": "Foam nests"
+    },
+    {
+      "jargon": "Mourning cuttlefish",
+      "layman": "Mourning cuttlefish"
+    },
+    {
+      "jargon": "Industrial track",
+      "layman": "Industry-focused competition track"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "CRISPR-Cas9",
+      "layman": "Gene editing tool"
+    },
+    {
+      "jargon": "Double-blind study",
+      "layman": "Test where neither the doctor nor patient knows the treatment"
+    },
+    {
+      "jargon": "Peer review",
+      "layman": "Experts check each other's work"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering information"
+    },
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Mathematical examination of data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "P-value < 0.05",
+      "layman": "Significant result"
+    },
+    {
+      "jargon": "Apoptosis",
+      "layman": "Programmed cell death"
+    },
+    {
+      "jargon": "Increased efficacy",
+      "layman": "Greater effectiveness"
+    },
+    {
+      "jargon": "Reduced inflammation",
+      "layman": "Less swelling and irritation"
+    },
+    {
+      "jargon": "Positive correlation",
+      "layman": "Two things change together"
+    }
+  ]
+}

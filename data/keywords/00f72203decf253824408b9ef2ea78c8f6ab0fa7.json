@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Animal body plans",
+      "layman": "Basic body structures"
+    },
+    {
+      "jargon": "Developmental mechanisms",
+      "layman": "How organisms grow"
+    },
+    {
+      "jargon": "Evolutionary patterns",
+      "layman": "How traits change over time"
+    },
+    {
+      "jargon": "Phylogenetic relationships",
+      "layman": "Evolutionary family trees"
+    },
+    {
+      "jargon": "Molecular biologists",
+      "layman": "Scientists studying genes"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Comparative biology",
+      "layman": "Comparing species to find similarities"
+    },
+    {
+      "jargon": "Functional biology",
+      "layman": "Studying how organisms work"
+    },
+    {
+      "jargon": "Experimental discipline",
+      "layman": "Scientific testing and research"
+    },
+    {
+      "jargon": "Paleontological data",
+      "layman": "Fossil evidence"
+    },
+    {
+      "jargon": "Genetic analysis",
+      "layman": "Studying DNA to learn about traits"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Tremendous diversity",
+      "layman": "Wide variety of forms"
+    },
+    {
+      "jargon": "Interplay between development and evolution",
+      "layman": "How growth and change work together"
+    },
+    {
+      "jargon": "Integrated approach",
+      "layman": "Combining different science methods"
+    },
+    {
+      "jargon": "Research questions and hypotheses",
+      "layman": "Scientific problems and guesses"
+    },
+    {
+      "jargon": "Evolution of animal forms",
+      "layman": "How animals changed over time"
+    }
+  ]
+}

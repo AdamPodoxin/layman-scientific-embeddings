@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Emerging economies",
+      "layman": "Developing countries"
+    },
+    {
+      "jargon": "Capital inflows",
+      "layman": "Foreign money flowing in"
+    },
+    {
+      "jargon": "Economic activity",
+      "layman": "Growth of economy"
+    },
+    {
+      "jargon": "Financial stability",
+      "layman": "Healthy financial system"
+    },
+    {
+      "jargon": "Countercyclical policies",
+      "layman": "Policies to balance economic ups and downs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "New Keynesian model",
+      "layman": "Economic model with real-world behavior"
+    },
+    {
+      "jargon": "Numerical exercises",
+      "layman": "Math simulations"
+    },
+    {
+      "jargon": "Credible monetary policy",
+      "layman": "Strong and trustworthy interest rate decisions"
+    },
+    {
+      "jargon": "Fiscal policy",
+      "layman": "Government spending and tax decisions"
+    },
+    {
+      "jargon": "Macroeconomic model",
+      "layman": "Big-picture economic simulation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Adverse external shocks",
+      "layman": "Bad external events"
+    },
+    {
+      "jargon": "Degrees of freedom",
+      "layman": "Room to act"
+    },
+    {
+      "jargon": "Policy response",
+      "layman": "Government reaction to crisis"
+    },
+    {
+      "jargon": "Negative effects on domestic economy",
+      "layman": "Harm to local economy"
+    },
+    {
+      "jargon": "Economic fundamentals",
+      "layman": "Strong economic base"
+    }
+  ]
+}

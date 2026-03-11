@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "SO4\u2212",
+      "layman": "Sulfate radical"
+    },
+    {
+      "jargon": "OH",
+      "layman": "Hydroxyl radical"
+    },
+    {
+      "jargon": "Iron oxide",
+      "layman": "Iron-based mineral"
+    },
+    {
+      "jargon": "Refractory contaminants",
+      "layman": "Hard-to-break pollutants"
+    },
+    {
+      "jargon": "Phenol",
+      "layman": "Model pollutant"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Radical transfer",
+      "layman": "Transfer of reactive species"
+    },
+    {
+      "jargon": "Surface functionalization",
+      "layman": "Attaching molecules to surface"
+    },
+    {
+      "jargon": "Thermal treatment",
+      "layman": "Heating to modify material"
+    },
+    {
+      "jargon": "Kinetic assessment",
+      "layman": "Measuring reaction speed"
+    },
+    {
+      "jargon": "Energetics comparison",
+      "layman": "Energy analysis of reactions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Surface SO4\u2212 species",
+      "layman": "Active sulfate radicals on surface"
+    },
+    {
+      "jargon": "Recyclability",
+      "layman": "Can be reused"
+    },
+    {
+      "jargon": "High activity",
+      "layman": "Strong pollutant breakdown"
+    },
+    {
+      "jargon": "Optimized temperature",
+      "layman": "Best heating level found"
+    },
+    {
+      "jargon": "Long-term stability",
+      "layman": "Stays active over time"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Consistency",
+      "layman": "Reliability of data across systems"
+    },
+    {
+      "jargon": "Distributed storage systems",
+      "layman": "Networked data storage"
+    },
+    {
+      "jargon": "Linearizability",
+      "layman": "Instant data access across all nodes"
+    },
+    {
+      "jargon": "Eventual consistency",
+      "layman": "Data syncs over time"
+    },
+    {
+      "jargon": "Weak consistency",
+      "layman": "Data changes not immediately visible"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Partial order",
+      "layman": "Ranking of consistency levels"
+    },
+    {
+      "jargon": "Semantic strength",
+      "layman": "How strict a consistency rule is"
+    },
+    {
+      "jargon": "System mapping",
+      "layman": "Matching theories to real systems"
+    },
+    {
+      "jargon": "Definition refinement",
+      "layman": "Clarifying unclear terms"
+    },
+    {
+      "jargon": "Notion overview",
+      "layman": "Summarizing different consistency types"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Over 50 consistency notions",
+      "layman": "Many different data reliability models"
+    },
+    {
+      "jargon": "Ambiguous definitions clarified",
+      "layman": "Unclear rules made clear"
+    },
+    {
+      "jargon": "Partial order established",
+      "layman": "Consistency levels ranked from strong to weak"
+    },
+    {
+      "jargon": "Practical systems mapped",
+      "layman": "Real-world systems linked to theories"
+    },
+    {
+      "jargon": "Non-transactional focus",
+      "layman": "Single-object data changes only"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Personality",
+      "layman": "Personality"
+    },
+    {
+      "jargon": "Cognition",
+      "layman": "Thinking styles"
+    },
+    {
+      "jargon": "Trait psychology",
+      "layman": "Stable personality traits"
+    },
+    {
+      "jargon": "Cognitive styles",
+      "layman": "Ways of thinking"
+    },
+    {
+      "jargon": "Field-dependence",
+      "layman": "Depends on surroundings"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical perspectives",
+      "layman": "Past views on topics"
+    },
+    {
+      "jargon": "Contemporary perspectives",
+      "layman": "Current views on topics"
+    },
+    {
+      "jargon": "Methodological hurdles",
+      "layman": "Research method problems"
+    },
+    {
+      "jargon": "Interactionism",
+      "layman": "How traits and thoughts interact"
+    },
+    {
+      "jargon": "Theoretical integration",
+      "layman": "Combining theories"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Little overlap",
+      "layman": "Minimal connection"
+    },
+    {
+      "jargon": "Equivocal results",
+      "layman": "Uncertain findings"
+    },
+    {
+      "jargon": "Unintegrated theories",
+      "layman": "Disconnected ideas"
+    },
+    {
+      "jargon": "Separate vineyards",
+      "layman": "Distinct areas"
+    },
+    {
+      "jargon": "Future research proposals",
+      "layman": "New research plans"
+    }
+  ]
+}

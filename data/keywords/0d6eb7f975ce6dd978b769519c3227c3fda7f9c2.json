@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Motion picture",
+      "layman": "Movie"
+    },
+    {
+      "jargon": "Creative sphere",
+      "layman": "Creative team"
+    },
+    {
+      "jargon": "Financial resources",
+      "layman": "Money invested"
+    },
+    {
+      "jargon": "Marketing support",
+      "layman": "Promotion efforts"
+    },
+    {
+      "jargon": "Competition",
+      "layman": "Other movies vying for attention"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Social network analysis",
+      "layman": "Mapping connections between people"
+    },
+    {
+      "jargon": "Connectivity",
+      "layman": "How well linked things are"
+    },
+    {
+      "jargon": "Density",
+      "layman": "How tightly connected a group is"
+    },
+    {
+      "jargon": "Hypothesis testing",
+      "layman": "Checking if ideas are supported by data"
+    },
+    {
+      "jargon": "Box-office admissions",
+      "layman": "Number of tickets sold"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Box-office success",
+      "layman": "High ticket sales"
+    },
+    {
+      "jargon": "Team-based success",
+      "layman": "Success from group effort"
+    },
+    {
+      "jargon": "Star power",
+      "layman": "Fame of individual actors"
+    },
+    {
+      "jargon": "Economic framework",
+      "layman": "Financial structure of a film"
+    },
+    {
+      "jargon": "Industry knowledge",
+      "layman": "Deep understanding of film business"
+    }
+  ]
+}

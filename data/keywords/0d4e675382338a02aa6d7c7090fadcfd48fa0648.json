@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Computational biology",
+      "layman": "Using computers to study biology"
+    },
+    {
+      "jargon": "Formal language",
+      "layman": "Structured set of rules for writing or describing things"
+    },
+    {
+      "jargon": "Natural computing models",
+      "layman": "Computing methods inspired by nature"
+    },
+    {
+      "jargon": "Biological systems",
+      "layman": "Living systems like cells or organisms"
+    },
+    {
+      "jargon": "Computational approaches",
+      "layman": "Computer-based ways to solve biology problems"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Formal language-based approach",
+      "layman": "Using strict rules to model biological processes"
+    },
+    {
+      "jargon": "Surveys",
+      "layman": "Reviewing existing studies or data"
+    },
+    {
+      "jargon": "Modeling",
+      "layman": "Creating simplified versions of real systems"
+    },
+    {
+      "jargon": "Natural computing models",
+      "layman": "Using nature's processes to solve problems"
+    },
+    {
+      "jargon": "Computational approaches",
+      "layman": "Using computers to simulate or analyze biology"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Overview",
+      "layman": "Summary of what's known"
+    },
+    {
+      "jargon": "Survey",
+      "layman": "Collection of existing findings"
+    },
+    {
+      "jargon": "Approach",
+      "layman": "A method used to solve a problem"
+    },
+    {
+      "jargon": "Framework",
+      "layman": "A structure for organizing ideas"
+    },
+    {
+      "jargon": "Natural computing models",
+      "layman": "Nature-inspired computing methods"
+    }
+  ]
+}

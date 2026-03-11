@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spacetime",
+      "layman": "Space and time together"
+    },
+    {
+      "jargon": "High-energy photons",
+      "layman": "High-energy light particles"
+    },
+    {
+      "jargon": "Astrophysics",
+      "layman": "Study of the universe"
+    },
+    {
+      "jargon": "Small-scale structure",
+      "layman": "Tiny patterns in space"
+    },
+    {
+      "jargon": "Photons",
+      "layman": "Light particles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "High-energy astrophysics",
+      "layman": "Studying space with high-energy light"
+    },
+    {
+      "jargon": "Astrophysical observations",
+      "layman": "Observing space events from Earth"
+    },
+    {
+      "jargon": "Photon detection",
+      "layman": "Measuring light particles"
+    },
+    {
+      "jargon": "Energy measurement",
+      "layman": "Measuring how much energy light has"
+    },
+    {
+      "jargon": "Cosmic ray analysis",
+      "layman": "Studying high-energy particles from space"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Information on small-scale structure",
+      "layman": "Clues about tiny space patterns"
+    },
+    {
+      "jargon": "Spacetime foam",
+      "layman": "Tiny bubbling of space"
+    },
+    {
+      "jargon": "Structure of spacetime",
+      "layman": "How space and time are built"
+    },
+    {
+      "jargon": "High-energy photons",
+      "layman": "Light with very high energy"
+    },
+    {
+      "jargon": "Quantum fluctuations",
+      "layman": "Tiny random changes in space"
+    }
+  ]
+}

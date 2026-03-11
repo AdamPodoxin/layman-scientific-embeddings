@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "e-Government",
+      "layman": "Digital government services"
+    },
+    {
+      "jargon": "Less developed countries",
+      "layman": "Poorer nations"
+    },
+    {
+      "jargon": "Government activities",
+      "layman": "Public services"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Summary of existing research"
+    },
+    {
+      "jargon": "Applications",
+      "layman": "Real-world uses"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Systematic review",
+      "layman": "Structured research summary"
+    },
+    {
+      "jargon": "Comprehensive review",
+      "layman": "Full analysis of studies"
+    },
+    {
+      "jargon": "Implementation",
+      "layman": "Putting systems into use"
+    },
+    {
+      "jargon": "Government activities",
+      "layman": "Public services"
+    },
+    {
+      "jargon": "Evidence-based analysis",
+      "layman": "Using facts to draw conclusions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Key challenges",
+      "layman": "Main problems"
+    },
+    {
+      "jargon": "Effect on government activities",
+      "layman": "Impact on public services"
+    },
+    {
+      "jargon": "Results achieved",
+      "layman": "Outcomes from trials"
+    },
+    {
+      "jargon": "Lack of systematic evidence",
+      "layman": "Missing clear data"
+    },
+    {
+      "jargon": "Importance of e-Government",
+      "layman": "Value of digital services"
+    }
+  ]
+}

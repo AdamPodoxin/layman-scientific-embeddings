@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mental health clinician",
+      "layman": "Therapist"
+    },
+    {
+      "jargon": "Affluent public school setting",
+      "layman": "Rich public school"
+    },
+    {
+      "jargon": "Affluent families",
+      "layman": "Wealthy families"
+    },
+    {
+      "jargon": "School dysfunction",
+      "layman": "School problems"
+    },
+    {
+      "jargon": "Countertransference",
+      "layman": "Emotional reaction to client status"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Assessment process",
+      "layman": "Evaluating symptoms"
+    },
+    {
+      "jargon": "Intervention",
+      "layman": "Treatment"
+    },
+    {
+      "jargon": "Alliance building",
+      "layman": "Building trust"
+    },
+    {
+      "jargon": "Recognition of countertransference",
+      "layman": "Noticing emotional reactions"
+    },
+    {
+      "jargon": "Management of countertransference",
+      "layman": "Handling emotional reactions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Problematic alliance building",
+      "layman": "Poor therapist-client trust"
+    },
+    {
+      "jargon": "Effective intervention",
+      "layman": "Successful treatment"
+    },
+    {
+      "jargon": "Coping styles",
+      "layman": "Ways of handling stress"
+    },
+    {
+      "jargon": "Status-based responses",
+      "layman": "Reactions based on wealth"
+    },
+    {
+      "jargon": "Enhanced effectiveness",
+      "layman": "Better results"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "OneChip-98",
+      "layman": "Single-chip computer system"
+    },
+    {
+      "jargon": "Fixed-logic processor",
+      "layman": "Static processor core"
+    },
+    {
+      "jargon": "Reconfigurable logic array",
+      "layman": "Adjustable logic circuit"
+    },
+    {
+      "jargon": "Memory",
+      "layman": "Data storage"
+    },
+    {
+      "jargon": "MIPS-like processor",
+      "layman": "Processor based on MIPS design"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Seamless programming model",
+      "layman": "Simple instruction setup"
+    },
+    {
+      "jargon": "Instruction mapping",
+      "layman": "Linking instructions to bits"
+    },
+    {
+      "jargon": "Memory-consistency scheme",
+      "layman": "Hardware rule for memory access"
+    },
+    {
+      "jargon": "Performance enhancement applications",
+      "layman": "Apps that boost speed"
+    },
+    {
+      "jargon": "Mapping to Transmogrifier-2",
+      "layman": "Transferring code to FPGA"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Performance speedup",
+      "layman": "Much faster execution"
+    },
+    {
+      "jargon": "30 times speedup",
+      "layman": "30x faster than standard"
+    },
+    {
+      "jargon": "2-dimensional discrete cosine transform",
+      "layman": "Image compression process"
+    },
+    {
+      "jargon": "64-tap FIR filter",
+      "layman": "Signal filtering tool"
+    },
+    {
+      "jargon": "Stand-alone state-of-the-art processor",
+      "layman": "Top existing processor"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software architecture",
+      "layman": "Software structure"
+    },
+    {
+      "jargon": "Project architect",
+      "layman": "Lead software designer"
+    },
+    {
+      "jargon": "Organizational context",
+      "layman": "Team and company environment"
+    },
+    {
+      "jargon": "Leadership skills",
+      "layman": "Team guiding abilities"
+    },
+    {
+      "jargon": "Management skills",
+      "layman": "Project oversight abilities"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Non-technical duties",
+      "layman": "Non-technical responsibilities"
+    },
+    {
+      "jargon": "Workshop focus",
+      "layman": "Group learning session"
+    },
+    {
+      "jargon": "Project size increase",
+      "layman": "Larger software projects"
+    },
+    {
+      "jargon": "Quality of design",
+      "layman": "Design effectiveness"
+    },
+    {
+      "jargon": "Educational context",
+      "layman": "Learning environment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Make or break a project",
+      "layman": "Decide project success"
+    },
+    {
+      "jargon": "Technical issues",
+      "layman": "Engineering problems"
+    },
+    {
+      "jargon": "Project success",
+      "layman": "Project completion"
+    },
+    {
+      "jargon": "Design quality",
+      "layman": "Good software design"
+    },
+    {
+      "jargon": "Organizational impact",
+      "layman": "Team and company effects"
+    }
+  ]
+}

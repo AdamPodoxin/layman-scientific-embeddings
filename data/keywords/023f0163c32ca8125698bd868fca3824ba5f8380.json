@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Entrepreneurship",
+      "layman": "Starting new businesses"
+    },
+    {
+      "jargon": "Business incubation",
+      "layman": "Supporting new businesses"
+    },
+    {
+      "jargon": "Economic growth",
+      "layman": "Money and jobs increasing"
+    },
+    {
+      "jargon": "Innovation",
+      "layman": "New ideas or products"
+    },
+    {
+      "jargon": "Sustainable incomes",
+      "layman": "Stable and long-term earnings"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Business incubation",
+      "layman": "Supporting new businesses"
+    },
+    {
+      "jargon": "Economic reformulation",
+      "layman": "Changing how the economy works"
+    },
+    {
+      "jargon": "Knowledge integration",
+      "layman": "Using new knowledge in business"
+    },
+    {
+      "jargon": "Innovation cycle",
+      "layman": "Loop of creating and improving ideas"
+    },
+    {
+      "jargon": "Reinvestment",
+      "layman": "Putting money back into growth"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Competitiveness",
+      "layman": "Being able to win in the market"
+    },
+    {
+      "jargon": "Sustainable incomes",
+      "layman": "Stable and long-term earnings"
+    },
+    {
+      "jargon": "Tax revenues",
+      "layman": "Money from taxes used for public good"
+    },
+    {
+      "jargon": "Virtuous development circle",
+      "layman": "Positive cycle of growth"
+    },
+    {
+      "jargon": "Social and economic gains",
+      "layman": "Better lives and stronger economy"
+    }
+  ]
+}

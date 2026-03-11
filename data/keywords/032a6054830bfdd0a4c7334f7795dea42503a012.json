@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Artificial radioactive material",
+      "layman": "Man-made radioactive substances"
+    },
+    {
+      "jargon": "Marine environments",
+      "layman": "Ocean areas"
+    },
+    {
+      "jargon": "Human radiation exposure",
+      "layman": "People being exposed to radiation"
+    },
+    {
+      "jargon": "Radio-isotopes",
+      "layman": "Radioactive versions of elements"
+    },
+    {
+      "jargon": "Oceanography",
+      "layman": "Study of the oceans"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical path analysis",
+      "layman": "Planning to track key steps"
+    },
+    {
+      "jargon": "Labelled environments",
+      "layman": "Using tagged substances to track changes"
+    },
+    {
+      "jargon": "Neutron activation analysis",
+      "layman": "Testing materials with neutrons to detect elements"
+    },
+    {
+      "jargon": "Reactor propulsion systems",
+      "layman": "Nuclear-powered ships"
+    },
+    {
+      "jargon": "Isotope power sources",
+      "layman": "Devices that generate power from radioactive decay"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Public health problems",
+      "layman": "Health risks to people"
+    },
+    {
+      "jargon": "Basic physical, chemical and biological data",
+      "layman": "Fundamental ocean science data"
+    },
+    {
+      "jargon": "Rational exploitation of marine resources",
+      "layman": "Smart use of ocean resources"
+    },
+    {
+      "jargon": "Stimulus to marine pollution methodology",
+      "layman": "Push for better pollution study methods"
+    },
+    {
+      "jargon": "Advantages of labelled environments",
+      "layman": "Benefits of using tagged substances in studies"
+    }
+  ]
+}

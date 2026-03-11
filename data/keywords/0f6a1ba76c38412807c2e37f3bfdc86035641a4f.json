@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "blood and marrow transplantation",
+      "layman": "bone marrow transplant"
+    },
+    {
+      "jargon": "therapy-related symptoms",
+      "layman": "side effects of treatment"
+    },
+    {
+      "jargon": "state anxiety",
+      "layman": "temporary anxiety"
+    },
+    {
+      "jargon": "salivary cortisol",
+      "layman": "stress hormone in saliva"
+    },
+    {
+      "jargon": "art-making session",
+      "layman": "one-hour art activity"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "pre- and post-test crossover design",
+      "layman": "test before and after, then switch groups"
+    },
+    {
+      "jargon": "convenience sample",
+      "layman": "easy-to-reach group of patients"
+    },
+    {
+      "jargon": "crossover design",
+      "layman": "participants switch between treatments"
+    },
+    {
+      "jargon": "demographic questionnaire",
+      "layman": "form about patient background"
+    },
+    {
+      "jargon": "salivary cortisol samples",
+      "layman": "stress hormone collected from spit"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "significantly lower therapy-related symptoms",
+      "layman": "less treatment side effects"
+    },
+    {
+      "jargon": "no change in anxiety levels",
+      "layman": "anxiety stayed the same"
+    },
+    {
+      "jargon": "significantly lower salivary cortisol",
+      "layman": "lower stress hormone after art"
+    },
+    {
+      "jargon": "study hypothesis partially supported",
+      "layman": "some part of the guess was correct"
+    },
+    {
+      "jargon": "positive interactions between nurses and patients",
+      "layman": "better nurse-patient connections"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Text plans",
+      "layman": "Written outlines"
+    },
+    {
+      "jargon": "RST-style trees",
+      "layman": "Outline structures"
+    },
+    {
+      "jargon": "Communicative goals",
+      "layman": "What the message wants to achieve"
+    },
+    {
+      "jargon": "Integrated message",
+      "layman": "Combined message"
+    },
+    {
+      "jargon": "Critiques",
+      "layman": "Feedback on writing"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Rule-based system",
+      "layman": "System using clear rules"
+    },
+    {
+      "jargon": "Domain-independent rules",
+      "layman": "Rules that work across fields"
+    },
+    {
+      "jargon": "Domain-dependent rules",
+      "layman": "Rules specific to a field"
+    },
+    {
+      "jargon": "Text planning",
+      "layman": "Creating writing outlines"
+    },
+    {
+      "jargon": "Tree integration",
+      "layman": "Combining outline structures"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Conciseness",
+      "layman": "Short and clear message"
+    },
+    {
+      "jargon": "Coherence",
+      "layman": "Logical and consistent message"
+    },
+    {
+      "jargon": "Assimilation",
+      "layman": "Easy to understand and accept"
+    },
+    {
+      "jargon": "Corpus of critiques",
+      "layman": "Collection of feedback examples"
+    },
+    {
+      "jargon": "Multiple critiques",
+      "layman": "Several pieces of feedback"
+    }
+  ]
+}

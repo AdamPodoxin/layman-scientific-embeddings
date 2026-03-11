@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Dynamic object evaluation framework",
+      "layman": "Framework to test how databases handle changing access"
+    },
+    {
+      "jargon": "Access patterns",
+      "layman": "How data is retrieved and used"
+    },
+    {
+      "jargon": "Object-oriented databases",
+      "layman": "Databases that store data as objects"
+    },
+    {
+      "jargon": "Multimedia databases",
+      "layman": "Databases for storing media like videos and images"
+    },
+    {
+      "jargon": "XML databases",
+      "layman": "Databases that store data in XML format"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Configurable styles of change",
+      "layman": "Settable ways to change access patterns"
+    },
+    {
+      "jargon": "Dynamic clustering algorithms",
+      "layman": "Clustering methods that adapt to data changes"
+    },
+    {
+      "jargon": "Clustering",
+      "layman": "Grouping similar data together"
+    },
+    {
+      "jargon": "Performance evaluation",
+      "layman": "Testing how well a system works"
+    },
+    {
+      "jargon": "Prototype design",
+      "layman": "Initial version built for testing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Adaptability to access pattern changes",
+      "layman": "Ability to adjust to changing data use"
+    },
+    {
+      "jargon": "Performance comparison",
+      "layman": "Measuring how well algorithms perform"
+    },
+    {
+      "jargon": "State of the art algorithms",
+      "layman": "Best current algorithms"
+    },
+    {
+      "jargon": "Effectiveness of DOEF",
+      "layman": "DOEF works well in testing changes"
+    },
+    {
+      "jargon": "Access pattern change",
+      "layman": "Change in how data is accessed"
+    }
+  ]
+}

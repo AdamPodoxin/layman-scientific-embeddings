@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "6LoWPAN",
+      "layman": "Low-power wireless network"
+    },
+    {
+      "jargon": "IEEE 802.15.4",
+      "layman": "Wireless standard for low-power devices"
+    },
+    {
+      "jargon": "Mesh topology",
+      "layman": "Network where devices connect to multiple others"
+    },
+    {
+      "jargon": "Multi-hop routing",
+      "layman": "Data travels through multiple devices"
+    },
+    {
+      "jargon": "Low-power devices",
+      "layman": "Energy-saving electronic devices"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Routing requirements",
+      "layman": "Rules for how data moves in the network"
+    },
+    {
+      "jargon": "Layer-agnostic guidelines",
+      "layman": "Design rules that work across network layers"
+    },
+    {
+      "jargon": "Protocol design",
+      "layman": "Creating network communication rules"
+    },
+    {
+      "jargon": "Network formation",
+      "layman": "Setting up the network structure"
+    },
+    {
+      "jargon": "Topologies maintenance",
+      "layman": "Keeping the network structure stable"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Low-power characteristics",
+      "layman": "Devices use very little energy"
+    },
+    {
+      "jargon": "Link characteristics",
+      "layman": "Properties of device connections"
+    },
+    {
+      "jargon": "Design space",
+      "layman": "Possible options for network design"
+    },
+    {
+      "jargon": "General guidelines",
+      "layman": "Broad recommendations for routing"
+    },
+    {
+      "jargon": "Further analysis",
+      "layman": "More in-depth study needed"
+    }
+  ]
+}

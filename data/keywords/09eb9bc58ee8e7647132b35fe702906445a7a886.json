@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Protists",
+      "layman": "Simple eukaryotic organisms"
+    },
+    {
+      "jargon": "Eukaryotes",
+      "layman": "Cells with nuclei"
+    },
+    {
+      "jargon": "Prokaryotes",
+      "layman": "Cells without nuclei"
+    },
+    {
+      "jargon": "Flagella",
+      "layman": "Cell movement tails"
+    },
+    {
+      "jargon": "Pseudopodia",
+      "layman": "Cell extensions for movement"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Phylogenetic interrelationships",
+      "layman": "Evolutionary family trees"
+    },
+    {
+      "jargon": "Systematic classification",
+      "layman": "Organizing life by evolution"
+    },
+    {
+      "jargon": "Taxonomic attention",
+      "layman": "Categorizing organisms"
+    },
+    {
+      "jargon": "Evolutionary approaches",
+      "layman": "Studying how species evolved"
+    },
+    {
+      "jargon": "Experimental research",
+      "layman": "Lab testing of biological processes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Eukaryogenesis",
+      "layman": "Origin of eukaryotic cells"
+    },
+    {
+      "jargon": "Unicellular organization",
+      "layman": "Single-cell structure"
+    },
+    {
+      "jargon": "Microscopic size",
+      "layman": "Tiny in size"
+    },
+    {
+      "jargon": "No vascular forms",
+      "layman": "No internal transport systems"
+    },
+    {
+      "jargon": "Clearly differentiated tissue stages",
+      "layman": "No clear tissue layers"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "GPU",
+      "layman": "Graphics Processing Unit"
+    },
+    {
+      "jargon": "CUDA",
+      "layman": "Parallel programming environment"
+    },
+    {
+      "jargon": "Thread",
+      "layman": "Individual task in a program"
+    },
+    {
+      "jargon": "Memory model",
+      "layman": "How data is stored and accessed"
+    },
+    {
+      "jargon": "Kernel",
+      "layman": "Function run on GPU"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Data parallelism",
+      "layman": "Same operation on many data points"
+    },
+    {
+      "jargon": "Thread scheduling",
+      "layman": "Managing when threads run"
+    },
+    {
+      "jargon": "Latency hiding",
+      "layman": "Masking delays in processing"
+    },
+    {
+      "jargon": "Memory traffic reduction",
+      "layman": "Reducing data movement"
+    },
+    {
+      "jargon": "Floating point arithmetic",
+      "layman": "Math with decimal numbers"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "High-performance parallel application",
+      "layman": "Fast parallel program"
+    },
+    {
+      "jargon": "Efficient program",
+      "layman": "Well-optimized code"
+    },
+    {
+      "jargon": "GPU hardware performance features",
+      "layman": "GPU speed and capabilities"
+    },
+    {
+      "jargon": "Parallel execution models",
+      "layman": "Different ways to run parallel code"
+    },
+    {
+      "jargon": "200 million CUDA-capable GPUs",
+      "layman": "Many GPUs support CUDA"
+    }
+  ]
+}

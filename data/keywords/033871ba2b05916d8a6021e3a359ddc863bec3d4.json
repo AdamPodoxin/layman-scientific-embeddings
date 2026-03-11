@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hybrid systems",
+      "layman": "Systems combining different types of behaviors"
+    },
+    {
+      "jargon": "HyTech",
+      "layman": "HyTech"
+    },
+    {
+      "jargon": "Formal technologies",
+      "layman": "Mathematical tools for modeling systems"
+    },
+    {
+      "jargon": "Case studies",
+      "layman": "Real-world examples used for analysis"
+    },
+    {
+      "jargon": "Nontrivial case studies",
+      "layman": "Complex real-world examples"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Automatic tool",
+      "layman": "Self-running analysis tool"
+    },
+    {
+      "jargon": "Formal technologies incorporated",
+      "layman": "Built-in mathematical methods"
+    },
+    {
+      "jargon": "Analyzing hybrid systems",
+      "layman": "Studying mixed system behaviors"
+    },
+    {
+      "jargon": "Reviewing formal technologies",
+      "layman": "Examining mathematical modeling tools"
+    },
+    {
+      "jargon": "Illustrating use",
+      "layman": "Showing how the tool works in practice"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Three nontrivial case studies",
+      "layman": "Three complex real examples"
+    },
+    {
+      "jargon": "Tool for analyzing hybrid systems",
+      "layman": "Tool to study mixed systems"
+    },
+    {
+      "jargon": "Formal technologies",
+      "layman": "Mathematical modeling tools"
+    },
+    {
+      "jargon": "Hybrid system analysis",
+      "layman": "Understanding mixed system behavior"
+    },
+    {
+      "jargon": "Nontrivial",
+      "layman": "Complex and challenging"
+    }
+  ]
+}

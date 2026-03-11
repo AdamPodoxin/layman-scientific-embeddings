@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Education",
+      "layman": "Education"
+    },
+    {
+      "jargon": "Freedom of mind",
+      "layman": "Freedom of thought"
+    },
+    {
+      "jargon": "Nature state",
+      "layman": "State of natural instincts"
+    },
+    {
+      "jargon": "Philosophy of Right",
+      "layman": "Hegel's theory of society and rights"
+    },
+    {
+      "jargon": "Historical materialism",
+      "layman": "Study of society through material conditions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Marxist historical materialism",
+      "layman": "Analyzing society through material conditions"
+    },
+    {
+      "jargon": "Perspective of historical materialism",
+      "layman": "Looking at history through material basis"
+    },
+    {
+      "jargon": "Analyzing statements",
+      "layman": "Examining claims in text"
+    },
+    {
+      "jargon": "Theoretical foundation",
+      "layman": "Ideas that support a system"
+    },
+    {
+      "jargon": "Critical evaluation",
+      "layman": "Careful review and judgment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Missed material basis of mind",
+      "layman": "Ignored material roots of thinking"
+    },
+    {
+      "jargon": "Conservative political opinion",
+      "layman": "Supports traditional rule"
+    },
+    {
+      "jargon": "Idealism",
+      "layman": "Focus on ideas over reality"
+    },
+    {
+      "jargon": "Theoretical foundation for ruling class",
+      "layman": "Supports those in power"
+    },
+    {
+      "jargon": "Answered questions of what, why, how to educate",
+      "layman": "Provided answers to key education questions"
+    }
+  ]
+}

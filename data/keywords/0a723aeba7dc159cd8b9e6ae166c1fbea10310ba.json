@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "isopropyl methylphosphonofluoridate",
+      "layman": "Sarin"
+    },
+    {
+      "jargon": "\u03b3-alumina",
+      "layman": "Alumina surface"
+    },
+    {
+      "jargon": "phosphoryl oxygen",
+      "layman": "Phosphorus oxygen group"
+    },
+    {
+      "jargon": "propene",
+      "layman": "Propene gas"
+    },
+    {
+      "jargon": "P-F bond",
+      "layman": "Phosphorus-fluorine bond"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "infrared characterization",
+      "layman": "Infrared imaging"
+    },
+    {
+      "jargon": "adsorption",
+      "layman": "Molecule sticking to surface"
+    },
+    {
+      "jargon": "dealkylation",
+      "layman": "Removing alkyl group"
+    },
+    {
+      "jargon": "hydrolysis",
+      "layman": "Water breaking bond"
+    },
+    {
+      "jargon": "surface inactivation",
+      "layman": "Surface being blocked"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "decomposition reactions",
+      "layman": "Molecules breaking down"
+    },
+    {
+      "jargon": "fluorine released",
+      "layman": "Fluorine gas released"
+    },
+    {
+      "jargon": "POO grouping",
+      "layman": "Phosphorus-oxygen-oxygen bond"
+    },
+    {
+      "jargon": "basic surface sites",
+      "layman": "Basic surface spots"
+    },
+    {
+      "jargon": "hydrolysis proceeds faster over magnesium oxide",
+      "layman": "Reaction faster on magnesium oxide"
+    }
+  ]
+}

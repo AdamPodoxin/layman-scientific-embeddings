@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Moral reflection",
+      "layman": "Thinking about right and wrong"
+    },
+    {
+      "jargon": "Pragmatism",
+      "layman": "Pragmatism"
+    },
+    {
+      "jargon": "Structuralist theory",
+      "layman": "Theory about how structures shape meaning"
+    },
+    {
+      "jargon": "Post-structuralist theory",
+      "layman": "Theory that challenges fixed meanings"
+    },
+    {
+      "jargon": "Critical legacy",
+      "layman": "Historical tradition of criticism"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Revaluation",
+      "layman": "Reassessing old ideas"
+    },
+    {
+      "jargon": "Interpretation",
+      "layman": "Understanding meaning"
+    },
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful examination of arguments"
+    },
+    {
+      "jargon": "Theoretical challenge",
+      "layman": "Testing a theory with new ideas"
+    },
+    {
+      "jargon": "Revision",
+      "layman": "Updating an old idea"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Defence of moral reflection",
+      "layman": "Support for thoughtful ethics"
+    },
+    {
+      "jargon": "Revaluated critical legacy",
+      "layman": "Updated view of old criticism"
+    },
+    {
+      "jargon": "Challenges to modern criticism",
+      "layman": "New problems for current criticism"
+    },
+    {
+      "jargon": "Revised interpretation of pragmatism",
+      "layman": "New way of understanding pragmatism"
+    },
+    {
+      "jargon": "Pragmatic legacy",
+      "layman": "Historical tradition of practical thinking"
+    }
+  ]
+}

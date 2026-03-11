@@ -2,7 +2,11 @@
   "core_entities": [
     {
       "jargon": "Marine mammals",
-      "layman": "Sea animals like whales and seals"
+      "layman": "Sea animals that breathe air"
+    },
+    {
+      "jargon": "Paraphyletic group",
+      "layman": "Group of species not fully related"
     },
     {
       "jargon": "Environmental changes",
@@ -15,20 +19,16 @@
     {
       "jargon": "Abundance",
       "layman": "How many there are"
-    },
-    {
-      "jargon": "Distribution",
-      "layman": "Where they are found"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Paraphyletic group",
-      "layman": "Group that doesn't include all descendants"
+      "jargon": "Molecular ecology",
+      "layman": "Studying genes in nature"
     },
     {
-      "jargon": "Current abundance",
-      "layman": "How many are left now"
+      "jargon": "Current distribution",
+      "layman": "Where they are now"
     },
     {
       "jargon": "Past environmental changes",
@@ -39,18 +39,18 @@
       "layman": "Human-caused damage"
     },
     {
-      "jargon": "Distribution patterns",
-      "layman": "Where they live over time"
+      "jargon": "Abundance patterns",
+      "layman": "How numbers change over time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Current abundance",
-      "layman": "How many there are"
+      "layman": "How many today"
     },
     {
-      "jargon": "Distribution",
-      "layman": "Where they are found"
+      "jargon": "Distribution patterns",
+      "layman": "Where they live now"
     },
     {
       "jargon": "Past environmental changes",

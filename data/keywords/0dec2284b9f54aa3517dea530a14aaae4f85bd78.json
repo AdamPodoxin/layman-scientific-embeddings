@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Historical information",
+      "layman": "Past events and facts"
+    },
+    {
+      "jargon": "Digital records",
+      "layman": "Online documents and files"
+    },
+    {
+      "jargon": "Online interest lists",
+      "layman": "Websites people follow for topics"
+    },
+    {
+      "jargon": "Exogenous data",
+      "layman": "Outside sources of information"
+    },
+    {
+      "jargon": "User interest profiles",
+      "layman": "People's interests tracked online"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Data scraping",
+      "layman": "Automatically collecting web content"
+    },
+    {
+      "jargon": "Content filtering",
+      "layman": "Removing unwanted information"
+    },
+    {
+      "jargon": "User engagement analysis",
+      "layman": "Measuring how users interact with content"
+    },
+    {
+      "jargon": "Information curation",
+      "layman": "Selecting and organizing useful data"
+    },
+    {
+      "jargon": "Digital archiving",
+      "layman": "Saving online content for future use"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Unstructured data",
+      "layman": "Disorganized information"
+    },
+    {
+      "jargon": "Noise in data",
+      "layman": "Irrelevant or false details"
+    },
+    {
+      "jargon": "Hidden patterns",
+      "layman": "Secret connections in data"
+    },
+    {
+      "jargon": "User-driven discovery",
+      "layman": "People finding info through interest"
+    },
+    {
+      "jargon": "Information overload",
+      "layman": "Too much information to process"
+    }
+  ]
+}

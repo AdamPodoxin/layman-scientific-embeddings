@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Socialism",
+      "layman": "Socialism"
+    },
+    {
+      "jargon": "Central planners",
+      "layman": "Government planners"
+    },
+    {
+      "jargon": "Competitively generated prices",
+      "layman": "Market prices from competition"
+    },
+    {
+      "jargon": "Economic calculation problem",
+      "layman": "Problem of calculating costs without market prices"
+    },
+    {
+      "jargon": "Soviet bloc",
+      "layman": "Former Eastern European socialist countries"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Austrian school methodology",
+      "layman": "Economic theory based on free markets"
+    },
+    {
+      "jargon": "Historical evidence",
+      "layman": "Past events as proof"
+    },
+    {
+      "jargon": "Incentive structures",
+      "layman": "Rewards and punishments that motivate behavior"
+    },
+    {
+      "jargon": "Economic modeling",
+      "layman": "Simulating economies with rules"
+    },
+    {
+      "jargon": "Market prices",
+      "layman": "Prices formed by supply and demand"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Economic collapse",
+      "layman": "Economy failing"
+    },
+    {
+      "jargon": "Economic defects",
+      "layman": "Economic problems"
+    },
+    {
+      "jargon": "Lack of economic calculation",
+      "layman": "No way to calculate costs"
+    },
+    {
+      "jargon": "Poor incentives",
+      "layman": "Weak motivation for workers"
+    },
+    {
+      "jargon": "Vindicated",
+      "layman": "Proven correct"
+    }
+  ]
+}

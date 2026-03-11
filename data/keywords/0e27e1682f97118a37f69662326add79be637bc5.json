@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Government regulation",
+      "layman": "Government rules for products"
+    },
+    {
+      "jargon": "Product quality standard",
+      "layman": "Minimum quality level for products"
+    },
+    {
+      "jargon": "Firm",
+      "layman": "Company"
+    },
+    {
+      "jargon": "Nonmarket threats",
+      "layman": "Outside pressures not from markets"
+    },
+    {
+      "jargon": "Trial attorneys",
+      "layman": "Lawyers who sue over damages"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Game-theoretic model",
+      "layman": "Model of strategic choices between players"
+    },
+    {
+      "jargon": "Enforcement abilities",
+      "layman": "Power to punish or check violations"
+    },
+    {
+      "jargon": "Self-regulation",
+      "layman": "Companies setting their own rules"
+    },
+    {
+      "jargon": "Market value of products",
+      "layman": "How much products are worth in sales"
+    },
+    {
+      "jargon": "Nonmarket environment",
+      "layman": "Public and social pressures outside markets"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Firms engage in self-regulation",
+      "layman": "Companies voluntarily follow quality rules"
+    },
+    {
+      "jargon": "Government mandate without enforcement",
+      "layman": "Government sets rules but can't enforce them"
+    },
+    {
+      "jargon": "Product-induced damages",
+      "layman": "Harm caused by a product"
+    },
+    {
+      "jargon": "Consumer activism",
+      "layman": "Public campaigns against companies"
+    },
+    {
+      "jargon": "Equilibrium results",
+      "layman": "Stable outcomes where all parties act rationally"
+    }
+  ]
+}

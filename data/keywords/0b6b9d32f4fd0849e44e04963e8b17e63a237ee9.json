@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "p-aminobenzoic acid",
+      "layman": "p-aminobenzoic acid"
+    },
+    {
+      "jargon": "horseradish peroxidase",
+      "layman": "Enzyme from horseradish"
+    },
+    {
+      "jargon": "Compounds I and II",
+      "layman": "Enzyme's reactive forms"
+    },
+    {
+      "jargon": "heme",
+      "layman": "Iron-containing enzyme center"
+    },
+    {
+      "jargon": "free radical",
+      "layman": "Unstable, reactive molecule"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "single turnover experiments",
+      "layman": "One enzyme reaction at a time"
+    },
+    {
+      "jargon": "pH dependence",
+      "layman": "How reaction speed changes with acidity"
+    },
+    {
+      "jargon": "kinetic behavior",
+      "layman": "How fast the reaction proceeds"
+    },
+    {
+      "jargon": "rate constants",
+      "layman": "Speed of reaction measurements"
+    },
+    {
+      "jargon": "proton-transfer mechanisms",
+      "layman": "How protons move during reaction"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "deviations from first order behavior",
+      "layman": "Reaction speed changes unexpectedly"
+    },
+    {
+      "jargon": "free radical interaction with enzyme",
+      "layman": "Product attacks enzyme"
+    },
+    {
+      "jargon": "enzyme-substrate complex",
+      "layman": "Enzyme and substrate bind together"
+    },
+    {
+      "jargon": "diffusion-controlled limit",
+      "layman": "Reaction limited by how fast molecules meet"
+    },
+    {
+      "jargon": "three acid ionizations",
+      "layman": "Three proton changes in reaction"
+    }
+  ]
+}

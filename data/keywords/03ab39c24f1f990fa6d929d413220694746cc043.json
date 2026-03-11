@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Clonal organisms",
+      "layman": "Organisms that reproduce asexually"
+    },
+    {
+      "jargon": "Species",
+      "layman": "Group of similar organisms"
+    },
+    {
+      "jargon": "Symposium",
+      "layman": "Scientific meeting"
+    },
+    {
+      "jargon": "Audience questions",
+      "layman": "Questions from attendees"
+    },
+    {
+      "jargon": "Research design",
+      "layman": "Plan for scientific study"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Roundtable discussion",
+      "layman": "Group discussion with experts"
+    },
+    {
+      "jargon": "Summarizing talks",
+      "layman": "Putting together key points from presentations"
+    },
+    {
+      "jargon": "Audience engagement",
+      "layman": "Interacting with attendees"
+    },
+    {
+      "jargon": "Scientific sponsorship",
+      "layman": "Organizing by scientific groups"
+    },
+    {
+      "jargon": "Systematic zoology",
+      "layman": "Study of animal classification"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Evolutionary significance",
+      "layman": "Importance in evolution"
+    },
+    {
+      "jargon": "Research insight",
+      "layman": "New understanding from study"
+    },
+    {
+      "jargon": "Complex problems",
+      "layman": "Difficult scientific issues"
+    },
+    {
+      "jargon": "Future research design",
+      "layman": "Plans for future studies"
+    },
+    {
+      "jargon": "Scientific collaboration",
+      "layman": "Working together across groups"
+    }
+  ]
+}

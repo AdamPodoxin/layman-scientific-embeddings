@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Population",
+      "layman": "Group of organisms"
+    },
+    {
+      "jargon": "Allele",
+      "layman": "Gene variant"
+    },
+    {
+      "jargon": "Locus",
+      "layman": "Gene location"
+    },
+    {
+      "jargon": "Genetic drift",
+      "layman": "Random change in gene frequency"
+    },
+    {
+      "jargon": "Natural selection",
+      "layman": "Best-adapted traits survive"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hardy-Weinberg Law",
+      "layman": "Genetic equilibrium rule"
+    },
+    {
+      "jargon": "Mutation",
+      "layman": "Random gene change"
+    },
+    {
+      "jargon": "Nonrandom mating",
+      "layman": "Mating based on traits"
+    },
+    {
+      "jargon": "Matrix algebra",
+      "layman": "Math tool for modeling systems"
+    },
+    {
+      "jargon": "Stability theory",
+      "layman": "Study of system balance"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fundamental theorem of natural selection",
+      "layman": "Selection improves fitness"
+    },
+    {
+      "jargon": "Neutrality controversy",
+      "layman": "Debate on neutral vs. selected mutations"
+    },
+    {
+      "jargon": "Quantitative inheritance",
+      "layman": "Complex trait from many genes"
+    },
+    {
+      "jargon": "Age-specific selection",
+      "layman": "Selection based on age"
+    },
+    {
+      "jargon": "Coevolution",
+      "layman": "Mutual evolutionary change"
+    }
+  ]
+}

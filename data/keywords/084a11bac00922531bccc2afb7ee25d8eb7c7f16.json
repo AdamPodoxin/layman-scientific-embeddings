@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Congenital heart disease",
+      "layman": "Heart problems present at birth"
+    },
+    {
+      "jargon": "Hypoplastic Left Heart Syndrome",
+      "layman": "Underdeveloped left side of the heart"
+    },
+    {
+      "jargon": "Transposition of the Great Arteries",
+      "layman": "Major heart blood vessels connected wrongly"
+    },
+    {
+      "jargon": "Intubation",
+      "layman": "Putting a tube into the windpipe"
+    },
+    {
+      "jargon": "Metabolic acidosis",
+      "layman": "Body's acid levels too high"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Retrospective population-based study",
+      "layman": "Looking back at patient records over time"
+    },
+    {
+      "jargon": "Case note review",
+      "layman": "Checking medical records"
+    },
+    {
+      "jargon": "Local registers",
+      "layman": "Official patient databases"
+    },
+    {
+      "jargon": "Surgical patient list",
+      "layman": "List of patients who had heart surgery"
+    },
+    {
+      "jargon": "Follow-up period",
+      "layman": "Time after diagnosis to monitor health"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Risk of intubation",
+      "layman": "Chance of needing breathing tube"
+    },
+    {
+      "jargon": "Risk of metabolic acidosis",
+      "layman": "Chance of body acid imbalance"
+    },
+    {
+      "jargon": "Mortality",
+      "layman": "Death rate"
+    },
+    {
+      "jargon": "Long-term outcomes",
+      "layman": "Health after years"
+    },
+    {
+      "jargon": "Odds ratio (OR)",
+      "layman": "How much more likely an event is"
+    }
+  ]
+}

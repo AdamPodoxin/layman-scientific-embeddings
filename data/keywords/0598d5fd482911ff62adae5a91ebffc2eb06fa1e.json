@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "E-government",
+      "layman": "Government services online"
+    },
+    {
+      "jargon": "Citizens",
+      "layman": "People using services"
+    },
+    {
+      "jargon": "Service delivery",
+      "layman": "Providing services to people"
+    },
+    {
+      "jargon": "Government services",
+      "layman": "Services offered by government"
+    },
+    {
+      "jargon": "E-government development",
+      "layman": "Growth of online government services"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Requirement analysis",
+      "layman": "Understanding what people need"
+    },
+    {
+      "jargon": "Customer representation",
+      "layman": "Reflecting user needs"
+    },
+    {
+      "jargon": "Process evaluation",
+      "layman": "Checking how services work"
+    },
+    {
+      "jargon": "Stakeholder involvement",
+      "layman": "Including people in decisions"
+    },
+    {
+      "jargon": "Development process",
+      "layman": "How services are built"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Service quality",
+      "layman": "How good the service is"
+    },
+    {
+      "jargon": "Problems in construction",
+      "layman": "Issues in building services"
+    },
+    {
+      "jargon": "Development progress",
+      "layman": "How far services have come"
+    },
+    {
+      "jargon": "Citizen needs",
+      "layman": "What citizens require"
+    },
+    {
+      "jargon": "Improved government services",
+      "layman": "Better online government services"
+    }
+  ]
+}

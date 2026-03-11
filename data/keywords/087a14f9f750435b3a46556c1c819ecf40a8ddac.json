@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Lock-free concurrent algorithms",
+      "layman": "Algorithms that allow threads to make progress without blocking"
+    },
+    {
+      "jargon": "Wait-free algorithms",
+      "layman": "Algorithms that guarantee all operations complete quickly"
+    },
+    {
+      "jargon": "Concurrent operations",
+      "layman": "Multiple tasks running at the same time"
+    },
+    {
+      "jargon": "Stochastic scheduler",
+      "layman": "Random scheduling of tasks"
+    },
+    {
+      "jargon": "Markov chain",
+      "layman": "Math model for how systems change over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Markov chain lifting",
+      "layman": "Linking individual task progress to system-wide progress"
+    },
+    {
+      "jargon": "Performance analysis",
+      "layman": "Measuring how fast tasks complete"
+    },
+    {
+      "jargon": "Scheduling conditions",
+      "layman": "Rules for how tasks are assigned to processors"
+    },
+    {
+      "jargon": "Progress guarantee",
+      "layman": "Ensuring operations don't stall"
+    },
+    {
+      "jargon": "Asymptotic behavior",
+      "layman": "Long-term performance trends"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Wait-free progress with probability 1",
+      "layman": "Operations complete reliably over time"
+    },
+    {
+      "jargon": "Average number of steps",
+      "layman": "Typical time until a task finishes"
+    },
+    {
+      "jargon": "Efficient algorithms",
+      "layman": "Fast and practical solutions"
+    },
+    {
+      "jargon": "Commercial hardware architectures",
+      "layman": "Real-world computer systems"
+    },
+    {
+      "jargon": "Stochastic model",
+      "layman": "Model based on expected, not worst-case, performance"
+    }
+  ]
+}

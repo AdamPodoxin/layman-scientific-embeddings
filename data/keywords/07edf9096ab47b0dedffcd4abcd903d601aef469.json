@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Quantum gravity",
+      "layman": "Gravity at the smallest scales"
+    },
+    {
+      "jargon": "Local gauge invariance",
+      "layman": "Symmetry in physical laws under local changes"
+    },
+    {
+      "jargon": "Gravitational field",
+      "layman": "Field that carries gravity"
+    },
+    {
+      "jargon": "Gauge field",
+      "layman": "Field that mediates forces"
+    },
+    {
+      "jargon": "Cosmological constant",
+      "layman": "Constant in space that affects universe expansion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Leading order approximation",
+      "layman": "Simplest version of a complex model"
+    },
+    {
+      "jargon": "Classical tests",
+      "layman": "Standard gravity experiments"
+    },
+    {
+      "jargon": "Renormalizable quantum theory",
+      "layman": "Theory that can handle infinite values"
+    },
+    {
+      "jargon": "Field equations",
+      "layman": "Math rules for how forces behave"
+    },
+    {
+      "jargon": "Formulated based on symmetry",
+      "layman": "Built using fundamental balance rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Newton\u2019s theory of gravity",
+      "layman": "Old gravity law for everyday motion"
+    },
+    {
+      "jargon": "Einstein-like field equation",
+      "layman": "Gravity rule similar to Einstein's"
+    },
+    {
+      "jargon": "Same theoretical predictions",
+      "layman": "Matches general relativity results"
+    },
+    {
+      "jargon": "Classical tests",
+      "layman": "Passes standard gravity tests"
+    },
+    {
+      "jargon": "Renormalizable",
+      "layman": "Can be used in quantum calculations without breaking down"
+    }
+  ]
+}

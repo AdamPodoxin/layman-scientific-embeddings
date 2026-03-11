@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "alkali metals",
+      "layman": "alkali metals"
+    },
+    {
+      "jargon": "calcium oxalate monohydrate",
+      "layman": "calcium oxalate crystal"
+    },
+    {
+      "jargon": "ion pairs",
+      "layman": "charged particle pairs"
+    },
+    {
+      "jargon": "hydration energy",
+      "layman": "energy from water wrapping around ions"
+    },
+    {
+      "jargon": "crystallization",
+      "layman": "formation of solid crystals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "selection criterion",
+      "layman": "rule for choosing effective inhibitors"
+    },
+    {
+      "jargon": "theoretical model",
+      "layman": "scientific prediction based on theory"
+    },
+    {
+      "jargon": "colloidal theories",
+      "layman": "old models of how particles behave in solution"
+    },
+    {
+      "jargon": "ion size descriptors",
+      "layman": "measurements of ion size"
+    },
+    {
+      "jargon": "hydration affinity",
+      "layman": "how strongly ions attract water"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "60% reduction in crystal growth",
+      "layman": "crystal growth slowed by half"
+    },
+    {
+      "jargon": "distinct trend in efficacy",
+      "layman": "clear pattern in effectiveness"
+    },
+    {
+      "jargon": "inhibitors of crystal growth",
+      "layman": "substances that slow crystal formation"
+    },
+    {
+      "jargon": "ion pair hydration energy",
+      "layman": "energy from water bonding to ion pairs"
+    },
+    {
+      "jargon": "cannot be explained by simple descriptors",
+      "layman": "not predictable by basic size or charge"
+    }
+  ]
+}

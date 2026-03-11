@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Multi-component systems",
+      "layman": "Systems with many parts"
+    },
+    {
+      "jargon": "Reliability",
+      "layman": "How likely something is to work over time"
+    },
+    {
+      "jargon": "Queueing theory",
+      "layman": "Math for waiting lines"
+    },
+    {
+      "jargon": "Probability",
+      "layman": "Chances of something happening"
+    },
+    {
+      "jargon": "Schur functions",
+      "layman": "Mathematical tools for symmetry"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mathematical theory of reliability",
+      "layman": "Using math to study system reliability"
+    },
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Using data to find patterns"
+    },
+    {
+      "jargon": "Bayesian implications",
+      "layman": "Updating beliefs with new data"
+    },
+    {
+      "jargon": "Probabilistic concepts of aging",
+      "layman": "Using math to model how things wear out"
+    },
+    {
+      "jargon": "Historical perspectives",
+      "layman": "Looking back at past ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "1961 publication",
+      "layman": "Key book released in 1961"
+    },
+    {
+      "jargon": "1965 book",
+      "layman": "Important book published in 1965"
+    },
+    {
+      "jargon": "Separate discipline",
+      "layman": "New field of study"
+    },
+    {
+      "jargon": "Standard mathematical techniques",
+      "layman": "Common math tools used before"
+    },
+    {
+      "jargon": "Recent work on Schur functions",
+      "layman": "New studies using symmetry math"
+    }
+  ]
+}

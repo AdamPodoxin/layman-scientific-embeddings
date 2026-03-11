@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Recursive program schemes",
+      "layman": "Repeating program patterns"
+    },
+    {
+      "jargon": "Final coalgebras",
+      "layman": "Endpoints in infinite processes"
+    },
+    {
+      "jargon": "Infinite trees",
+      "layman": "Never-ending branching structures"
+    },
+    {
+      "jargon": "Second-order substitution",
+      "layman": "Replacing parts within rules"
+    },
+    {
+      "jargon": "Cantor two-thirds set",
+      "layman": "Strange, infinite pattern of gaps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Category-theoretic approach",
+      "layman": "Mathematical framework for structure"
+    },
+    {
+      "jargon": "Algebraic semantics",
+      "layman": "Using algebra to interpret programs"
+    },
+    {
+      "jargon": "Solving recursive schemes",
+      "layman": "Finding patterns in repeating code"
+    },
+    {
+      "jargon": "Substitution in infinite trees",
+      "layman": "Replacing nodes in endless trees"
+    },
+    {
+      "jargon": "Denotational semantics",
+      "layman": "Mapping code to meaning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Complete partial orders",
+      "layman": "Ordered sets with missing values"
+    },
+    {
+      "jargon": "Complete metric spaces",
+      "layman": "Spaces with distance rules"
+    },
+    {
+      "jargon": "Implicitly defined objects",
+      "layman": "Objects defined by rules, not directly"
+    },
+    {
+      "jargon": "Generalized solutions",
+      "layman": "Broader answers to program problems"
+    },
+    {
+      "jargon": "Uninterpreted solutions",
+      "layman": "Solutions without meaning assigned"
+    }
+  ]
+}

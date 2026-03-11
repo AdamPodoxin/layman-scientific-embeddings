@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Banks",
+      "layman": "Banks"
+    },
+    {
+      "jargon": "Wealth holders",
+      "layman": "Rich individuals"
+    },
+    {
+      "jargon": "Equity markets",
+      "layman": "Stock markets"
+    },
+    {
+      "jargon": "Capital requirements",
+      "layman": "Rules on how much money banks must hold"
+    },
+    {
+      "jargon": "Public safety nets",
+      "layman": "Government backup for banks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Supervision",
+      "layman": "Monitoring banks"
+    },
+    {
+      "jargon": "Improving markets",
+      "layman": "Making markets work better"
+    },
+    {
+      "jargon": "Limiting public safety nets",
+      "layman": "Reducing government bank support"
+    },
+    {
+      "jargon": "Macroeconomic policies",
+      "layman": "Big economy-wide policies"
+    },
+    {
+      "jargon": "Accounting standards",
+      "layman": "Financial reporting rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Illiquidity",
+      "layman": "Lack of available cash"
+    },
+    {
+      "jargon": "Subvert capital requirements",
+      "layman": "Bypass bank safety rules"
+    },
+    {
+      "jargon": "Risky banks face high cost",
+      "layman": "Bad banks pay high prices"
+    },
+    {
+      "jargon": "Short-run policy implementation",
+      "layman": "Quick policy changes"
+    },
+    {
+      "jargon": "Restraining bank risk",
+      "layman": "Reducing bank risk"
+    }
+  ]
+}

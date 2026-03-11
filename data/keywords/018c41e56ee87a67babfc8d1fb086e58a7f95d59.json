@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Banking legislation",
+      "layman": "Banking laws"
+    },
+    {
+      "jargon": "Commercial banking",
+      "layman": "Regular bank services"
+    },
+    {
+      "jargon": "Investment banking",
+      "layman": "Buying and selling stocks"
+    },
+    {
+      "jargon": "Interest groups",
+      "layman": "Groups pushing for policy change"
+    },
+    {
+      "jargon": "Regulatory policy",
+      "layman": "Rules that govern banks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past events"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "In-depth look at one example"
+    },
+    {
+      "jargon": "Market developments",
+      "layman": "Changes in the financial market"
+    },
+    {
+      "jargon": "Policy development",
+      "layman": "How rules are created"
+    },
+    {
+      "jargon": "Regulatory change",
+      "layman": "Updates to banking rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Separation of banking",
+      "layman": "Splitting commercial and investment banking"
+    },
+    {
+      "jargon": "Repeal attempts",
+      "layman": "Efforts to undo banking rules"
+    },
+    {
+      "jargon": "Orthodox literature",
+      "layman": "Commonly accepted theories"
+    },
+    {
+      "jargon": "Influence on policy",
+      "layman": "How groups affect decisions"
+    },
+    {
+      "jargon": "Underestimation of markets",
+      "layman": "Ignoring market impacts in policy"
+    }
+  ]
+}

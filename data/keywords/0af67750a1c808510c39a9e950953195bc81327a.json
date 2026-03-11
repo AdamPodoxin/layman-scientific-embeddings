@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Technologies",
+      "layman": "Tools and systems"
+    },
+    {
+      "jargon": "Electrical and computer engineering",
+      "layman": "Engineering of electronics and computers"
+    },
+    {
+      "jargon": "Bell Canada",
+      "layman": "Bell Canada"
+    },
+    {
+      "jargon": "Canadian Society for Electrical and Computer Engineering",
+      "layman": "Canadian engineering group"
+    },
+    {
+      "jargon": "Previous age",
+      "layman": "Older time period"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cast aside",
+      "layman": "Discard or abandon"
+    },
+    {
+      "jargon": "Keynote address",
+      "layman": "Main speech at a conference"
+    },
+    {
+      "jargon": "Conference",
+      "layman": "Meeting of experts"
+    },
+    {
+      "jargon": "Start",
+      "layman": "Begin"
+    },
+    {
+      "jargon": "Address",
+      "layman": "Speech"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Bury the past",
+      "layman": "Stop using old methods"
+    },
+    {
+      "jargon": "Served well",
+      "layman": "Worked effectively"
+    },
+    {
+      "jargon": "Decades on end",
+      "layman": "For many years"
+    },
+    {
+      "jargon": "A few years",
+      "layman": "Short time"
+    },
+    {
+      "jargon": "Next century",
+      "layman": "Future 100 years"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Central bank independence",
+      "layman": "Central bank's freedom from government control"
+    },
+    {
+      "jargon": "Inflation targeting",
+      "layman": "Setting inflation goals"
+    },
+    {
+      "jargon": "Public information",
+      "layman": "Information shared with the public"
+    },
+    {
+      "jargon": "Fundamental information",
+      "layman": "True economic facts"
+    },
+    {
+      "jargon": "Coordination",
+      "layman": "Group actions aligning together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Communication policy",
+      "layman": "How central banks share info"
+    },
+    {
+      "jargon": "Coordination mechanisms",
+      "layman": "Ways people align actions"
+    },
+    {
+      "jargon": "Policy signaling",
+      "layman": "Sending signals about future policy"
+    },
+    {
+      "jargon": "Information dissemination",
+      "layman": "Spreading information widely"
+    },
+    {
+      "jargon": "Public feedback loops",
+      "layman": "Public reacting to policy messages"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Economic effects",
+      "layman": "Financial impacts"
+    },
+    {
+      "jargon": "Action coordination",
+      "layman": "People acting together"
+    },
+    {
+      "jargon": "Deviation from fundamentals",
+      "layman": "Actions moving away from reality"
+    },
+    {
+      "jargon": "Over-influence of information",
+      "layman": "Too much info causes bad results"
+    },
+    {
+      "jargon": "Double-edged tool",
+      "layman": "Can help or hurt depending on use"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Meson-exchange currents",
+      "layman": "Particle exchange in nuclei"
+    },
+    {
+      "jargon": "Strangeness radius",
+      "layman": "Measure of strange quark size in nuclei"
+    },
+    {
+      "jargon": "Four-helium nucleus",
+      "layman": "Helium-4 nucleus"
+    },
+    {
+      "jargon": "Nucleon",
+      "layman": "Proton or neutron"
+    },
+    {
+      "jargon": "Parity-violating electron-$^4$He asymmetry",
+      "layman": "Asymmetry in electron scattering due to quantum effects"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "One-boson exchange approximation",
+      "layman": "Simple particle exchange model"
+    },
+    {
+      "jargon": "Computational calculation",
+      "layman": "Mathematical simulation"
+    },
+    {
+      "jargon": "Electron scattering",
+      "layman": "Firing electrons at nuclei to study them"
+    },
+    {
+      "jargon": "Parity violation",
+      "layman": "Breaking of mirror symmetry in nature"
+    },
+    {
+      "jargon": "Asymmetry measurement",
+      "layman": "Measuring imbalance in physical processes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "10% correction",
+      "layman": "Small adjustment to the result"
+    },
+    {
+      "jargon": "Does not hamper extraction",
+      "layman": "Does not spoil the measurement"
+    },
+    {
+      "jargon": "One-body contribution",
+      "layman": "Simple single-particle effect"
+    },
+    {
+      "jargon": "Strangeness radius extraction",
+      "layman": "Measuring strange quark size"
+    },
+    {
+      "jargon": "Parity-violating asymmetry",
+      "layman": "Measurable imbalance from quantum forces"
+    }
+  ]
+}

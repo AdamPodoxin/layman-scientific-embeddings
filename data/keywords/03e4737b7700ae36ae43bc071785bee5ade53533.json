@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Political asylum",
+      "layman": "Legal protection for refugees"
+    },
+    {
+      "jargon": "Graphic satire",
+      "layman": "Cartoons that criticize politics"
+    },
+    {
+      "jargon": "Political cartoonist",
+      "layman": "Artist who draws political jokes"
+    },
+    {
+      "jargon": "Draper Hill",
+      "layman": "Draper Hill"
+    },
+    {
+      "jargon": "Biographical notes",
+      "layman": "Life story details"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past events"
+    },
+    {
+      "jargon": "Artistic interpretation",
+      "layman": "Reading cartoons for meaning"
+    },
+    {
+      "jargon": "Circa 19",
+      "layman": "Around 19"
+    },
+    {
+      "jargon": "Bibliographic references",
+      "layman": "Sources cited in the text"
+    },
+    {
+      "jargon": "Life and work",
+      "layman": "How someone lived and created art"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Political satire history",
+      "layman": "History of political jokes"
+    },
+    {
+      "jargon": "Cartoonist biography",
+      "layman": "Life story of a cartoonist"
+    },
+    {
+      "jargon": "Editorial cartoons",
+      "layman": "News cartoons"
+    },
+    {
+      "jargon": "Circa 19 bibl. ref.",
+      "layman": "References from around 19"
+    },
+    {
+      "jargon": "Satirical commentary",
+      "layman": "Jokes about politics"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Philosopher",
+      "layman": "Person who studies ideas and values"
+    },
+    {
+      "jargon": "Nazi regime",
+      "layman": "Government during World War II in Germany"
+    },
+    {
+      "jargon": "Post-war Germany",
+      "layman": "Germany after World War II"
+    },
+    {
+      "jargon": "Book review",
+      "layman": "Summary of a book"
+    },
+    {
+      "jargon": "Author",
+      "layman": "Person who wrote the book"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Book review",
+      "layman": "Summary of a book"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Thinking through ideas and values"
+    },
+    {
+      "jargon": "Historical context",
+      "layman": "Understanding past events to explain now"
+    },
+    {
+      "jargon": "Political commentary",
+      "layman": "Opinions on government and society"
+    },
+    {
+      "jargon": "Resident",
+      "layman": "Person living in a place"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Views on government",
+      "layman": "Opinions about how government should work"
+    },
+    {
+      "jargon": "Post-war Germany",
+      "layman": "Germany after World War II"
+    },
+    {
+      "jargon": "Philosophical perspective",
+      "layman": "Deep thinking about life and society"
+    },
+    {
+      "jargon": "Political future",
+      "layman": "How Germany might be governed"
+    },
+    {
+      "jargon": "Historical reflection",
+      "layman": "Looking back at past events"
+    }
+  ]
+}

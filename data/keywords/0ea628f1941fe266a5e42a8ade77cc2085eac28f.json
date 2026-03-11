@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Service feature",
+      "layman": "Smart home function"
+    },
+    {
+      "jargon": "Dynamic Software Product Line",
+      "layman": "Flexible software system"
+    },
+    {
+      "jargon": "Decentralized decision-making",
+      "layman": "No central control"
+    },
+    {
+      "jargon": "Quorum sensing",
+      "layman": "Group-based decision making"
+    },
+    {
+      "jargon": "Firefly algorithm",
+      "layman": "Synchronization method"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Quorum sensing based service activation",
+      "layman": "Activate service when enough devices join"
+    },
+    {
+      "jargon": "Firefly algorithm for synchronization",
+      "layman": "Align devices using light signals"
+    },
+    {
+      "jargon": "Gossiping (epidemic) protocol",
+      "layman": "Spread info between devices"
+    },
+    {
+      "jargon": "Self-organization in biological organisms",
+      "layman": "Organisms organizing without central control"
+    },
+    {
+      "jargon": "Smart home scenario",
+      "layman": "Home automation example"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Seamless integration of new instances",
+      "layman": "New devices work without changes"
+    },
+    {
+      "jargon": "Decentralized coordination",
+      "layman": "Devices work together without central control"
+    },
+    {
+      "jargon": "No omniscient central controller",
+      "layman": "No single device knows everything"
+    },
+    {
+      "jargon": "Proof of concept",
+      "layman": "Tested and works in simple case"
+    },
+    {
+      "jargon": "Motivating scenarios",
+      "layman": "Real-life situations used to test"
+    }
+  ]
+}

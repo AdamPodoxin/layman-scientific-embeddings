@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Metaprograms",
+      "layman": "Software templates"
+    },
+    {
+      "jargon": "Source templates",
+      "layman": "Software blueprints"
+    },
+    {
+      "jargon": "Software components",
+      "layman": "Software parts"
+    },
+    {
+      "jargon": "C language glue routines",
+      "layman": "C code bridges"
+    },
+    {
+      "jargon": "Prolog programs",
+      "layman": "Logic-based programs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Annotated by-example style",
+      "layman": "Example-based programming"
+    },
+    {
+      "jargon": "Prolog-like predicates",
+      "layman": "Rules for conditions"
+    },
+    {
+      "jargon": "Source transformation",
+      "layman": "Code rewriting"
+    },
+    {
+      "jargon": "TXL source transformation tasks",
+      "layman": "TXL code tasks"
+    },
+    {
+      "jargon": "Prolog-style deduction",
+      "layman": "Logical reasoning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Automatic instantiation",
+      "layman": "Auto-generated software"
+    },
+    {
+      "jargon": "Automatically inferred instance",
+      "layman": "Auto-selected version"
+    },
+    {
+      "jargon": "Deriving glue routines",
+      "layman": "Creating connection code"
+    },
+    {
+      "jargon": "Generic software components",
+      "layman": "Reusable software parts"
+    },
+    {
+      "jargon": "GL graphics library",
+      "layman": "Graphics library"
+    }
+  ]
+}

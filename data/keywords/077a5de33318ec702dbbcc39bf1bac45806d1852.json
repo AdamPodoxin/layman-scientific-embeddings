@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Rational Expectations Hypothesis",
+      "layman": "Rational expectations hypothesis"
+    },
+    {
+      "jargon": "Strongly Rational equilibrium",
+      "layman": "Stable coordination equilibrium"
+    },
+    {
+      "jargon": "Cournot equilibrium",
+      "layman": "Competitive market balance"
+    },
+    {
+      "jargon": "Keynesian equilibrium",
+      "layman": "Keynesian market balance"
+    },
+    {
+      "jargon": "Overlapping generation model",
+      "layman": "Long-term intergenerational model"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Common knowledge of rationality",
+      "layman": "Everyone knows everyone else is rational"
+    },
+    {
+      "jargon": "Model reference being favorable",
+      "layman": "Model is well-suited to reality"
+    },
+    {
+      "jargon": "Reinterpretation as SR-equilibrium",
+      "layman": "Rewriting as stable expectation balance"
+    },
+    {
+      "jargon": "Coordination branch",
+      "layman": "Branch for aligning expectations"
+    },
+    {
+      "jargon": "Institutional analysis",
+      "layman": "Study of how institutions shape behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Stable coordination of expectations",
+      "layman": "Stable shared predictions"
+    },
+    {
+      "jargon": "Stabilizing speculation",
+      "layman": "Speculation that prevents crashes"
+    },
+    {
+      "jargon": "Dominant strategy in strategy space",
+      "layman": "Best choice in all scenarios"
+    },
+    {
+      "jargon": "Equilibrium at infinite horizon",
+      "layman": "Long-term stable outcome"
+    },
+    {
+      "jargon": "Normative Economics extension",
+      "layman": "New rules for economic behavior"
+    }
+  ]
+}

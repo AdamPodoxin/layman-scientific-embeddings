@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Virtual machines",
+      "layman": "Virtual machines"
+    },
+    {
+      "jargon": "Operating systems",
+      "layman": "Computer operating systems"
+    },
+    {
+      "jargon": "Xen",
+      "layman": "Virtualization platform"
+    },
+    {
+      "jargon": "Virtual memory",
+      "layman": "Computer memory in virtual form"
+    },
+    {
+      "jargon": "Virtual disk",
+      "layman": "Virtual storage device"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Introspection",
+      "layman": "Inspecting system internals"
+    },
+    {
+      "jargon": "Monitoring architecture",
+      "layman": "System design for monitoring"
+    },
+    {
+      "jargon": "Virtual memory introspection",
+      "layman": "Checking virtual memory in real time"
+    },
+    {
+      "jargon": "Disk activity monitoring",
+      "layman": "Tracking disk usage and actions"
+    },
+    {
+      "jargon": "Performance tests",
+      "layman": "Testing speed and efficiency"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Safe access",
+      "layman": "Secure access"
+    },
+    {
+      "jargon": "Efficient access",
+      "layman": "Fast access"
+    },
+    {
+      "jargon": "Functionality",
+      "layman": "Working capabilities"
+    },
+    {
+      "jargon": "Practical examples",
+      "layman": "Real-world uses"
+    },
+    {
+      "jargon": "Viability",
+      "layman": "Proven usefulness"
+    }
+  ]
+}

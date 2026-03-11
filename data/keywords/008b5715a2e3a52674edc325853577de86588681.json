@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Romans in the provinces",
+      "layman": "Roman citizens in foreign regions"
+    },
+    {
+      "jargon": "Autonomy",
+      "layman": "Freedom to make decisions"
+    },
+    {
+      "jargon": "Identity",
+      "layman": "Sense of self"
+    },
+    {
+      "jargon": "Archias",
+      "layman": "Roman figure in a provincial case"
+    },
+    {
+      "jargon": "Balbus",
+      "layman": "Roman figure in a provincial case"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Oratory",
+      "layman": "Public speaking"
+    },
+    {
+      "jargon": "Imperial contexts",
+      "layman": "Ruling power settings"
+    },
+    {
+      "jargon": "Power dynamics",
+      "layman": "How power is distributed"
+    },
+    {
+      "jargon": "Control mechanisms",
+      "layman": "Ways to manage influence"
+    },
+    {
+      "jargon": "Portrait construction",
+      "layman": "Creating a public image"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Romanization",
+      "layman": "Becoming Roman"
+    },
+    {
+      "jargon": "Political integration",
+      "layman": "Merging into Roman system"
+    },
+    {
+      "jargon": "Civic identity",
+      "layman": "Feeling like a citizen"
+    },
+    {
+      "jargon": "Control of generals",
+      "layman": "Managing military leaders"
+    },
+    {
+      "jargon": "Limits of oratory",
+      "layman": "When speeches fail"
+    }
+  ]
+}

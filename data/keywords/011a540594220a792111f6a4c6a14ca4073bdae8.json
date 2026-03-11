@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "5-dimensional spacetime",
+      "layman": "Space and time with an extra dimension"
+    },
+    {
+      "jargon": "Dust-filled universe",
+      "layman": "Universe filled with ordinary matter"
+    },
+    {
+      "jargon": "Rest mass",
+      "layman": "Mass when not moving"
+    },
+    {
+      "jargon": "Cosmological time",
+      "layman": "Time in the universe's history"
+    },
+    {
+      "jargon": "Particle",
+      "layman": "Tiny building block of matter"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Einstein equations",
+      "layman": "Math rules for gravity and space"
+    },
+    {
+      "jargon": "Cosmological solutions",
+      "layman": "Math models of the universe's shape"
+    },
+    {
+      "jargon": "Comparison with experiment",
+      "layman": "Checking against real-world data"
+    },
+    {
+      "jargon": "Hypothetical relation",
+      "layman": "Possible connection between two things"
+    },
+    {
+      "jargon": "Test",
+      "layman": "Check if a theory is true"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strongly refutes",
+      "layman": "Clearly disproves"
+    },
+    {
+      "jargon": "Dependence on cosmological time",
+      "layman": "Mass changing over time"
+    },
+    {
+      "jargon": "Experimental data",
+      "layman": "Real-world observations"
+    },
+    {
+      "jargon": "Implied dependence",
+      "layman": "Suggested connection"
+    },
+    {
+      "jargon": "Cosmological solutions",
+      "layman": "Math models of the universe"
+    }
+  ]
+}

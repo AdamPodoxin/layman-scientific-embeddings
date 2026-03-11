@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Stable canonical rules",
+      "layman": "Stable logical rules"
+    },
+    {
+      "jargon": "Admissible rules",
+      "layman": "Valid logical rules"
+    },
+    {
+      "jargon": "IPC",
+      "layman": "IPC"
+    },
+    {
+      "jargon": "K4",
+      "layman": "K4"
+    },
+    {
+      "jargon": "S4",
+      "layman": "S4"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Dichotomy property",
+      "layman": "Clear split into two cases"
+    },
+    {
+      "jargon": "Explicit bases",
+      "layman": "Clear starting rules"
+    },
+    {
+      "jargon": "Multi-conclusion rules",
+      "layman": "Rules with multiple outcomes"
+    },
+    {
+      "jargon": "Proof",
+      "layman": "Logical argument"
+    },
+    {
+      "jargon": "Establish",
+      "layman": "Prove exists"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Existence of explicit bases",
+      "layman": "Clear starting rules exist"
+    },
+    {
+      "jargon": "Alternative proof",
+      "layman": "New way to prove"
+    },
+    {
+      "jargon": "Dichotomy property",
+      "layman": "Clear split in results"
+    },
+    {
+      "jargon": "Stable canonical rules",
+      "layman": "Stable logical rules"
+    },
+    {
+      "jargon": "Admissible rules",
+      "layman": "Valid logical rules"
+    }
+  ]
+}

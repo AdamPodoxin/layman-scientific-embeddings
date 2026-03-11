@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Proof planning",
+      "layman": "Proof planning"
+    },
+    {
+      "jargon": "Computer algebra system",
+      "layman": "Math software that does symbolic math"
+    },
+    {
+      "jargon": "Symbolic computation",
+      "layman": "Math operations with symbols"
+    },
+    {
+      "jargon": "Calculus level proof",
+      "layman": "Final math proof step-by-step"
+    },
+    {
+      "jargon": "\u03a9MEGA system",
+      "layman": "\u03a9MEGA system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Separate computation and verification",
+      "layman": "Do math first, then check it"
+    },
+    {
+      "jargon": "Refinement of a proof plan",
+      "layman": "Turn plan into detailed proof"
+    },
+    {
+      "jargon": "Protocol information",
+      "layman": "Step-by-step calculation record"
+    },
+    {
+      "jargon": "Low-level calculus proof",
+      "layman": "Simple, checkable math proof"
+    },
+    {
+      "jargon": "Integration of computer algebra",
+      "layman": "Mixing math software into proof work"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Non-trivial symbolic computations",
+      "layman": "Hard symbolic math tasks"
+    },
+    {
+      "jargon": "Trivially checked computations",
+      "layman": "Easy to verify math results"
+    },
+    {
+      "jargon": "Correctness of computation",
+      "layman": "Math is proven right"
+    },
+    {
+      "jargon": "Self-implemented system",
+      "layman": "Built-in verification tool"
+    },
+    {
+      "jargon": "Demonstration in \u03a9MEGA",
+      "layman": "Proven in real system"
+    }
+  ]
+}

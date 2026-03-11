@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Educated farmers",
+      "layman": "Farmers with schooling"
+    },
+    {
+      "jargon": "Uneducated farmers",
+      "layman": "Farmers without schooling"
+    },
+    {
+      "jargon": "Agricultural productivity",
+      "layman": "Farm output level"
+    },
+    {
+      "jargon": "Production frontier",
+      "layman": "Maximum possible output"
+    },
+    {
+      "jargon": "Technological efficiency",
+      "layman": "How well tech is used"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Average production function",
+      "layman": "Standard productivity model"
+    },
+    {
+      "jargon": "Stochastic frontier production function",
+      "layman": "Statistical productivity model with noise"
+    },
+    {
+      "jargon": "Internal returns to schooling",
+      "layman": "Benefits farmers get from their own education"
+    },
+    {
+      "jargon": "External returns to schooling",
+      "layman": "Benefits others get from a farmer's education"
+    },
+    {
+      "jargon": "Efficiency measurement",
+      "layman": "How well farmers use resources"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Higher average farm output",
+      "layman": "More crop production"
+    },
+    {
+      "jargon": "Shifting outwards of the production frontier",
+      "layman": "Farmers can produce more than before"
+    },
+    {
+      "jargon": "External benefits several times higher than internal",
+      "layman": "Spillover benefits much larger than personal gains"
+    },
+    {
+      "jargon": "No improvement in technological efficiency",
+      "layman": "No better use of existing tools"
+    },
+    {
+      "jargon": "Source of externalities is innovation adoption",
+      "layman": "Education spreads new farming methods"
+    }
+  ]
+}

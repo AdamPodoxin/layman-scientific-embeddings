@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Danish state",
+      "layman": "Denmark as a country"
+    },
+    {
+      "jargon": "Gender issues",
+      "layman": "Issues about equality between men and women"
+    },
+    {
+      "jargon": "Development policy",
+      "layman": "How a country supports growth in other countries"
+    },
+    {
+      "jargon": "Western donor states",
+      "layman": "Rich countries that give money to others"
+    },
+    {
+      "jargon": "Gender and development aid",
+      "layman": "Help given to poor countries that also promotes gender equality"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Agenda-setting",
+      "layman": "Deciding what issues get attention"
+    },
+    {
+      "jargon": "International constitution",
+      "layman": "Creating shared rules between countries"
+    },
+    {
+      "jargon": "Policy implementation",
+      "layman": "Putting policies into action"
+    },
+    {
+      "jargon": "State identity",
+      "layman": "How a country sees itself"
+    },
+    {
+      "jargon": "Development aid",
+      "layman": "Money and support sent to help poorer nations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Radically different policy",
+      "layman": "A very different approach from others"
+    },
+    {
+      "jargon": "Less progressive policy",
+      "layman": "A less forward-thinking approach"
+    },
+    {
+      "jargon": "Gendered policies",
+      "layman": "Policies influenced by gender roles"
+    },
+    {
+      "jargon": "Challenges in implementation",
+      "layman": "Problems in putting plans into action"
+    },
+    {
+      "jargon": "Reconstituted identity",
+      "layman": "A new sense of self after change"
+    }
+  ]
+}

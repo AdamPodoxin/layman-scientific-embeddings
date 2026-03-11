@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "random field",
+      "layman": "Random field"
+    },
+    {
+      "jargon": "potential functions",
+      "layman": "Features that influence outcomes"
+    },
+    {
+      "jargon": "subgraphs",
+      "layman": "Parts of a network"
+    },
+    {
+      "jargon": "training samples",
+      "layman": "Example data used to learn"
+    },
+    {
+      "jargon": "word morphology",
+      "layman": "Word structure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Kullback-Leibler divergence",
+      "layman": "Difference between two probability models"
+    },
+    {
+      "jargon": "greedy algorithm",
+      "layman": "Step-by-step addition of features"
+    },
+    {
+      "jargon": "iterative scaling",
+      "layman": "Repeated adjustment of weights"
+    },
+    {
+      "jargon": "maximum entropy",
+      "layman": "Best model with least assumptions"
+    },
+    {
+      "jargon": "EM algorithm",
+      "layman": "Process to estimate unknown values"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "empirical distribution",
+      "layman": "Actual data pattern"
+    },
+    {
+      "jargon": "clustering",
+      "layman": "Grouping similar items"
+    },
+    {
+      "jargon": "non-Markovian",
+      "layman": "Not dependent only on immediate neighbors"
+    },
+    {
+      "jargon": "large number of parameters",
+      "layman": "Many adjustable values"
+    },
+    {
+      "jargon": "automatic word classification",
+      "layman": "Auto-sorting words into categories"
+    }
+  ]
+}

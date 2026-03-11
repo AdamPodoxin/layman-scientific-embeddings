@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "House prices",
+      "layman": "Cost of homes"
+    },
+    {
+      "jargon": "Capital gains",
+      "layman": "Profit from selling a home"
+    },
+    {
+      "jargon": "Real capital gains",
+      "layman": "Profit adjusted for inflation"
+    },
+    {
+      "jargon": "Housing market",
+      "layman": "Group of people buying and selling homes"
+    },
+    {
+      "jargon": "Owner-occupied housing",
+      "layman": "Homes owned and lived in"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Taxing capital gains",
+      "layman": "Imposing tax on home profit"
+    },
+    {
+      "jargon": "Price swings",
+      "layman": "Large changes in home prices"
+    },
+    {
+      "jargon": "Redistribution",
+      "layman": "Moving wealth between groups"
+    },
+    {
+      "jargon": "Simple settings",
+      "layman": "Basic scenarios"
+    },
+    {
+      "jargon": "Modeling",
+      "layman": "Simulating outcomes in a simplified way"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Larger price swings",
+      "layman": "More extreme home price changes"
+    },
+    {
+      "jargon": "No redistribution",
+      "layman": "No shift in wealth between buyers and sellers"
+    },
+    {
+      "jargon": "Tax fails to curb redistribution",
+      "layman": "Tax doesn't reduce wealth gap"
+    },
+    {
+      "jargon": "Market instability",
+      "layman": "Unstable housing prices"
+    },
+    {
+      "jargon": "Proposals rejected",
+      "layman": "Suggested taxes are not effective"
+    }
+  ]
+}

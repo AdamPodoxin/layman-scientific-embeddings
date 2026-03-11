@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Guadalupe Island",
+      "layman": "Guadalupe Island"
+    },
+    {
+      "jargon": "Shield volcanoes",
+      "layman": "Broad, flat volcanic mountains"
+    },
+    {
+      "jargon": "Fissure eruptions",
+      "layman": "Eruptions from cracks in the ground"
+    },
+    {
+      "jargon": "Alkalic olivine basalt",
+      "layman": "A type of volcanic rock"
+    },
+    {
+      "jargon": "Trachyte",
+      "layman": "A type of volcanic rock"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Petrology",
+      "layman": "Study of rocks"
+    },
+    {
+      "jargon": "Chemistry",
+      "layman": "Study of chemical composition"
+    },
+    {
+      "jargon": "Isotopic analysis",
+      "layman": "Measuring atomic variations to trace origins"
+    },
+    {
+      "jargon": "Geological mapping",
+      "layman": "Mapping rock types and features"
+    },
+    {
+      "jargon": "Tectonic setting",
+      "layman": "Earth's plate movement context"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Chemically similar volcanic series",
+      "layman": "Same rock composition as other volcanoes"
+    },
+    {
+      "jargon": "Fossil ridge crest",
+      "layman": "Old, inactive underwater mountain ridge"
+    },
+    {
+      "jargon": "Ridge-crest jumps",
+      "layman": "Ridges shifting location over time"
+    },
+    {
+      "jargon": "Abandoned ridge-crest segments",
+      "layman": "Old parts of ridges that stopped active"
+    },
+    {
+      "jargon": "Constraints on geometric models",
+      "layman": "Limits on possible shapes and patterns"
+    }
+  ]
+}

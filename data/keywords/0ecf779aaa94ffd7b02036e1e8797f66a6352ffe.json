@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Idiopathic pulmonary arterial hypertension",
+      "layman": "Unknown cause lung pressure disease"
+    },
+    {
+      "jargon": "Familial pulmonary arterial hypertension",
+      "layman": "Inherited lung pressure disease"
+    },
+    {
+      "jargon": "Pulmonary arterial hypertension",
+      "layman": "High lung artery pressure"
+    },
+    {
+      "jargon": "Pericardial effusion",
+      "layman": "Fluid around the heart"
+    },
+    {
+      "jargon": "Body mass index",
+      "layman": "Weight-to-height ratio"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Retrospective and observational study",
+      "layman": "Looking back at patient records"
+    },
+    {
+      "jargon": "Kaplan-Meier method",
+      "layman": "Tracking survival over time"
+    },
+    {
+      "jargon": "Cox proportional hazards analysis",
+      "layman": "Measuring risk of death over time"
+    },
+    {
+      "jargon": "Independent sample t test",
+      "layman": "Comparing two groups"
+    },
+    {
+      "jargon": "Nonparametric test",
+      "layman": "Statistical test for data that doesn't follow normal patterns"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "1-year survival rate",
+      "layman": "Percent alive after one year"
+    },
+    {
+      "jargon": "3-year survival rate",
+      "layman": "Percent alive after three years"
+    },
+    {
+      "jargon": "Death as primary outcome",
+      "layman": "Death is the main result measured"
+    },
+    {
+      "jargon": "Survival improved",
+      "layman": "More patients lived longer"
+    },
+    {
+      "jargon": "Mortality independently associated with factors",
+      "layman": "Certain factors predict who dies"
+    }
+  ]
+}

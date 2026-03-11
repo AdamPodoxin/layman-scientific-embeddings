@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Frame-dragging",
+      "layman": "Spinning space-time"
+    },
+    {
+      "jargon": "Gravitomagnetic field",
+      "layman": "Gravity's magnetic-like effect"
+    },
+    {
+      "jargon": "LAGEOS satellites",
+      "layman": "Laser-ranged satellites"
+    },
+    {
+      "jargon": "Lense-Thirring effect",
+      "layman": "Spinning Earth's gravity pull"
+    },
+    {
+      "jargon": "Earth's mass-energy currents",
+      "layman": "Earth's mass and energy flow"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Laser ranging",
+      "layman": "Measuring distance with lasers"
+    },
+    {
+      "jargon": "Orbit analysis",
+      "layman": "Studying satellite paths"
+    },
+    {
+      "jargon": "Data collection over 8 years",
+      "layman": "Long-term satellite tracking"
+    },
+    {
+      "jargon": "Precision measurement",
+      "layman": "Very accurate observation"
+    },
+    {
+      "jargon": "Gravitation tests",
+      "layman": "Testing gravity rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "20% accuracy",
+      "layman": "About right, within 20%"
+    },
+    {
+      "jargon": "1% accuracy",
+      "layman": "Extremely precise"
+    },
+    {
+      "jargon": "Lense-Thirring effect exists",
+      "layman": "Effect is real"
+    },
+    {
+      "jargon": "Value within ~20% of prediction",
+      "layman": "Matches theory closely"
+    },
+    {
+      "jargon": "Fully confirms previous measurements",
+      "layman": "Matches past results"
+    }
+  ]
+}

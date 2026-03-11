@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Jurassic volcanic rocks",
+      "layman": "Ancient volcanic rocks from Jurassic period"
+    },
+    {
+      "jargon": "Andesitic lavas",
+      "layman": "Volcanic lava with medium composition"
+    },
+    {
+      "jargon": "Dacitic ignimbrites",
+      "layman": "Fast-moving volcanic ash flows"
+    },
+    {
+      "jargon": "Rhyolitic composition",
+      "layman": "High-silica volcanic rock"
+    },
+    {
+      "jargon": "Major oxides",
+      "layman": "Key chemical components in rocks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Mathematical analysis of data"
+    },
+    {
+      "jargon": "Compositional biplots",
+      "layman": "Graph showing chemical relationships"
+    },
+    {
+      "jargon": "Cluster analysis",
+      "layman": "Grouping similar samples together"
+    },
+    {
+      "jargon": "Statistical inference",
+      "layman": "Drawing conclusions from data"
+    },
+    {
+      "jargon": "TAS and AFM diagrams",
+      "layman": "Charts for classifying rock types"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Two groups of volcanic units",
+      "layman": "Two distinct rock types found"
+    },
+    {
+      "jargon": "Closed set of data",
+      "layman": "Chemical parts add up to 100%"
+    },
+    {
+      "jargon": "Absence of compositional gap",
+      "layman": "No missing chemical pattern"
+    },
+    {
+      "jargon": "Defined relationship between samples and units",
+      "layman": "Samples match known rock types"
+    },
+    {
+      "jargon": "Detailed lithologic mapping better than formation mapping",
+      "layman": "Small rock details show volcanic history better"
+    }
+  ]
+}

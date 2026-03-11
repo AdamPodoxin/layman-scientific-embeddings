@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Neutron star",
+      "layman": "Dead star made of neutrons"
+    },
+    {
+      "jargon": "Nuclear matter equilibrium density",
+      "layman": "Normal density of atomic nuclei"
+    },
+    {
+      "jargon": "Equation of state",
+      "layman": "Rule linking pressure and density in stars"
+    },
+    {
+      "jargon": "Moment of inertia",
+      "layman": "How hard it is to spin a star"
+    },
+    {
+      "jargon": "Binding energy",
+      "layman": "Energy holding a star together"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Observational perspectives",
+      "layman": "Studying stars with telescopes"
+    },
+    {
+      "jargon": "Einstein's equations",
+      "layman": "Rules of gravity in space"
+    },
+    {
+      "jargon": "Buchdahl solution",
+      "layman": "Simple model of star shape"
+    },
+    {
+      "jargon": "Tolman solution",
+      "layman": "Simple model of star spin"
+    },
+    {
+      "jargon": "Analytic solutions",
+      "layman": "Simple math models of real physics"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Neutron star radius",
+      "layman": "Size of a neutron star"
+    },
+    {
+      "jargon": "Pressure near nuclear density",
+      "layman": "Force inside a star at normal nuclear density"
+    },
+    {
+      "jargon": "Radius independent of mass",
+      "layman": "Size doesn't change with weight"
+    },
+    {
+      "jargon": "Extreme softening",
+      "layman": "Very weak pressure at high density"
+    },
+    {
+      "jargon": "Universal functions",
+      "layman": "Same patterns across different stars"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hypothesis",
+      "layman": "Testable prediction"
+    },
+    {
+      "jargon": "Research design",
+      "layman": "Study plan"
+    },
+    {
+      "jargon": "Causation",
+      "layman": "Cause-and-effect link"
+    },
+    {
+      "jargon": "Empirical study",
+      "layman": "Real-world observation study"
+    },
+    {
+      "jargon": "Political science topics",
+      "layman": "Political issues and ideas"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hypothesis testing",
+      "layman": "Testing if a claim is true"
+    },
+    {
+      "jargon": "Measurement",
+      "layman": "Assigning numbers to ideas"
+    },
+    {
+      "jargon": "Inference",
+      "layman": "Drawing conclusions from data"
+    },
+    {
+      "jargon": "Quantitative approaches",
+      "layman": "Numbers-based data collection"
+    },
+    {
+      "jargon": "Qualitative approaches",
+      "layman": "In-depth, descriptive data collection"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Data gathering",
+      "layman": "Collecting information"
+    },
+    {
+      "jargon": "Critical evaluation",
+      "layman": "Judging research quality"
+    },
+    {
+      "jargon": "Experimental methods",
+      "layman": "Controlled testing"
+    },
+    {
+      "jargon": "Surveys",
+      "layman": "Questionnaires to collect opinions"
+    },
+    {
+      "jargon": "Content analysis",
+      "layman": "Analyzing written or media content"
+    }
+  ]
+}

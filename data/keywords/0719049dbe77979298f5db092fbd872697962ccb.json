@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Hebrew Bible",
+      "layman": "Hebrew Bible"
+    },
+    {
+      "jargon": "Metaethics",
+      "layman": "Nature of moral values"
+    },
+    {
+      "jargon": "Descriptive ethics",
+      "layman": "What is considered right in texts"
+    },
+    {
+      "jargon": "Normative ethics",
+      "layman": "What should be done"
+    },
+    {
+      "jargon": "Divinity-morality relation",
+      "layman": "How God's nature connects to morality"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Hermeneutically valid",
+      "layman": "Meaningful interpretation"
+    },
+    {
+      "jargon": "Philosophical inquiry",
+      "layman": "Thinking deeply about ideas"
+    },
+    {
+      "jargon": "Research problems",
+      "layman": "Questions guiding study"
+    },
+    {
+      "jargon": "Objectives",
+      "layman": "Goals of the study"
+    },
+    {
+      "jargon": "Methodology",
+      "layman": "Approach used to study"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Euthyphro Dilemma",
+      "layman": "God's commands vs. moral truth"
+    },
+    {
+      "jargon": "Principle of Sufficient Reason",
+      "layman": "Everything must have a reason"
+    },
+    {
+      "jargon": "Moral meaning in divine condition",
+      "layman": "Why morality exists in God's world"
+    },
+    {
+      "jargon": "Semantic assumptions",
+      "layman": "How words carry meaning"
+    },
+    {
+      "jargon": "Epistemological assumptions",
+      "layman": "How knowledge is gained"
+    }
+  ]
+}

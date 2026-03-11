@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Leonardo da Vinci programs",
+      "layman": "Training programs for construction workers"
+    },
+    {
+      "jargon": "Construction staff",
+      "layman": "Construction workers"
+    },
+    {
+      "jargon": "Construction engineers",
+      "layman": "Engineers in construction"
+    },
+    {
+      "jargon": "Management specialists",
+      "layman": "Construction managers"
+    },
+    {
+      "jargon": "Lisbon strategy",
+      "layman": "EU plan for better work and growth"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Improvement of education",
+      "layman": "Better training"
+    },
+    {
+      "jargon": "Formal and informal training methods",
+      "layman": "Official and hands-on learning"
+    },
+    {
+      "jargon": "Recognition of qualifications",
+      "layman": "Validating worker skills"
+    },
+    {
+      "jargon": "Implementation of strategy",
+      "layman": "Putting policies into action"
+    },
+    {
+      "jargon": "Development of training programs",
+      "layman": "Creating new training tools"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improvement of employees' qualifications",
+      "layman": "Workers get better skills"
+    },
+    {
+      "jargon": "Improvement of construction companies' performance",
+      "layman": "Companies become more efficient"
+    },
+    {
+      "jargon": "Enhanced staff education",
+      "layman": "Better worker learning"
+    },
+    {
+      "jargon": "Better employee skills",
+      "layman": "Workers become more capable"
+    },
+    {
+      "jargon": "Support for EU construction goals",
+      "layman": "Helps achieve EU targets"
+    }
+  ]
+}

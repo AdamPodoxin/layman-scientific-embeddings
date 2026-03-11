@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bernstein polynomials",
+      "layman": "Polynomial approximation method"
+    },
+    {
+      "jargon": "Vector-valued mappings",
+      "layman": "Functions that output vectors"
+    },
+    {
+      "jargon": "Infinite dimensional cube",
+      "layman": "Infinite-dimensional space shape"
+    },
+    {
+      "jargon": "Real Hilbert space",
+      "layman": "Infinite-dimensional space with distance rules"
+    },
+    {
+      "jargon": "Continuous mappings",
+      "layman": "Smooth functions without jumps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Approximation processes",
+      "layman": "Estimating values closely"
+    },
+    {
+      "jargon": "Modelled on classical Bernstein polynomials",
+      "layman": "Based on known polynomial method"
+    },
+    {
+      "jargon": "Generalized to vector-valued mappings",
+      "layman": "Extended to multi-dimensional outputs"
+    },
+    {
+      "jargon": "Extension to infinite dimensional setting",
+      "layman": "Scaled to infinite dimensions"
+    },
+    {
+      "jargon": "Obtained from interval functions",
+      "layman": "Built from one-dimensional functions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New concrete approximation processes",
+      "layman": "New practical estimation methods"
+    },
+    {
+      "jargon": "Operators for vector-valued mappings",
+      "layman": "Tools for vector functions"
+    },
+    {
+      "jargon": "Possible extension to infinite dimensional setting",
+      "layman": "Feasible scaling to infinite space"
+    },
+    {
+      "jargon": "Subset of a real Hilbert space",
+      "layman": "Part of a mathematical space"
+    },
+    {
+      "jargon": "Defined on a subset",
+      "layman": "Applied to a specific part"
+    }
+  ]
+}

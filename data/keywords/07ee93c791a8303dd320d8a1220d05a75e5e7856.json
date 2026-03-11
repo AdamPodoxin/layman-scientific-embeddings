@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Industrial Engineering Technology",
+      "layman": "Technical training in manufacturing and services"
+    },
+    {
+      "jargon": "Manufacturing organizations",
+      "layman": "Factories and production companies"
+    },
+    {
+      "jargon": "Service organizations",
+      "layman": "Businesses that provide services"
+    },
+    {
+      "jargon": "Integrated systems",
+      "layman": "Connected systems that work together"
+    },
+    {
+      "jargon": "Technical leaders",
+      "layman": "Experts who lead technical teams"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Study and application of methods",
+      "layman": "Learning and using proven techniques"
+    },
+    {
+      "jargon": "Developing systems",
+      "layman": "Creating efficient processes"
+    },
+    {
+      "jargon": "Implementing systems",
+      "layman": "Putting systems into action"
+    },
+    {
+      "jargon": "Integrated systems",
+      "layman": "Connected systems that work together"
+    },
+    {
+      "jargon": "Technical leadership",
+      "layman": "Leading with technical expertise"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Graduate readiness",
+      "layman": "Graduates are ready for jobs"
+    },
+    {
+      "jargon": "Efficient operations",
+      "layman": "Smooth and effective work processes"
+    },
+    {
+      "jargon": "Improved productivity",
+      "layman": "More output with less effort"
+    },
+    {
+      "jargon": "Optimized workflows",
+      "layman": "Better task flow in operations"
+    },
+    {
+      "jargon": "Technical leadership roles",
+      "layman": "Jobs with technical responsibility"
+    }
+  ]
+}

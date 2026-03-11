@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Semiconductor designer",
+      "layman": "Chip maker"
+    },
+    {
+      "jargon": "Federal appeals court",
+      "layman": "Higher court that reviews decisions"
+    },
+    {
+      "jargon": "JEDEC Solid State Technology Association",
+      "layman": "Group that sets tech standards"
+    },
+    {
+      "jargon": "Dynamic random-access memory (DRAM)",
+      "layman": "Type of computer memory"
+    },
+    {
+      "jargon": "Federal Trade Commission (FTC)",
+      "layman": "Government agency that enforces fair business practices"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Patent disclosure policy",
+      "layman": "Rule on when companies must share patent info"
+    },
+    {
+      "jargon": "Standards-setting proceeding",
+      "layman": "Process to create industry-wide rules"
+    },
+    {
+      "jargon": "Legal enforcement proceeding",
+      "layman": "Court case to enforce rules"
+    },
+    {
+      "jargon": "Civil fraud",
+      "layman": "Legal claim of dishonesty in business"
+    },
+    {
+      "jargon": "Unfair method of competition",
+      "layman": "Business practice seen as unfair"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Exonerated",
+      "layman": "Found not guilty"
+    },
+    {
+      "jargon": "Staggering lack of defining details",
+      "layman": "No clear rules or standards"
+    },
+    {
+      "jargon": "Narrow interpretation",
+      "layman": "Very strict reading of a rule"
+    },
+    {
+      "jargon": "Mistaken belief",
+      "layman": "Wrong idea about a rule"
+    },
+    {
+      "jargon": "Appeals court ruling stands",
+      "layman": "Final decision is upheld"
+    }
+  ]
+}

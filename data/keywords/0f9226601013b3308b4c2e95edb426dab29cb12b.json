@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Cryptographic key",
+      "layman": "Secret code for access"
+    },
+    {
+      "jargon": "Role hierarchy",
+      "layman": "Level-based access structure"
+    },
+    {
+      "jargon": "Hash function",
+      "layman": "Code that scrambles data"
+    },
+    {
+      "jargon": "Access control",
+      "layman": "Who can do what"
+    },
+    {
+      "jargon": "Dynamic access control",
+      "layman": "Changing access rules over time"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Key assignment",
+      "layman": "Assigning secret codes"
+    },
+    {
+      "jargon": "Key derivation",
+      "layman": "Creating keys from rules"
+    },
+    {
+      "jargon": "One-way hash functions",
+      "layman": "Scrambling data that can't be reversed"
+    },
+    {
+      "jargon": "Role relationships",
+      "layman": "How roles connect to each other"
+    },
+    {
+      "jargon": "Adding/deleting roles",
+      "layman": "Adding or removing access levels"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient key assignment",
+      "layman": "Fast and smart key setup"
+    },
+    {
+      "jargon": "Limited number of keys",
+      "layman": "Fewer secret codes used"
+    },
+    {
+      "jargon": "Solves access control",
+      "layman": "Fixes who can access what"
+    },
+    {
+      "jargon": "Resolves dynamic changes",
+      "layman": "Handles changing access rules"
+    },
+    {
+      "jargon": "Secure access",
+      "layman": "Safe access to data"
+    }
+  ]
+}

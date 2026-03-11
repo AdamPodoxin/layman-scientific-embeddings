@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Antithrombin III",
+      "layman": "Antithrombin III"
+    },
+    {
+      "jargon": "Sepsis survivors",
+      "layman": "People who survived sepsis"
+    },
+    {
+      "jargon": "Visual analog scale",
+      "layman": "Simple pain or feeling scale"
+    },
+    {
+      "jargon": "Karnofsky scale",
+      "layman": "Health status scale"
+    },
+    {
+      "jargon": "Placebo group",
+      "layman": "Group getting fake treatment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Randomized trial",
+      "layman": "Random assignment to groups"
+    },
+    {
+      "jargon": "Wilcoxon statistical test",
+      "layman": "Comparison of changes over time"
+    },
+    {
+      "jargon": "Long-term follow-up",
+      "layman": "Monitoring over 90 days"
+    },
+    {
+      "jargon": "Severity of illness",
+      "layman": "How sick a patient was"
+    },
+    {
+      "jargon": "Admitting diagnosis",
+      "layman": "Reason for hospital admission"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Quality of life improvements",
+      "layman": "Better daily living"
+    },
+    {
+      "jargon": "Social functioning",
+      "layman": "Ability to interact socially"
+    },
+    {
+      "jargon": "Psychologic functioning",
+      "layman": "Mental well-being"
+    },
+    {
+      "jargon": "Significant advantage",
+      "layman": "Clear benefit over placebo"
+    },
+    {
+      "jargon": "Extended time period",
+      "layman": "Long-term results"
+    }
+  ]
+}

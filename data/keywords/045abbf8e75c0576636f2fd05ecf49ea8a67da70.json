@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Shear bands",
+      "layman": "Areas of intense material deformation"
+    },
+    {
+      "jargon": "Temperature rise",
+      "layman": "Increase in heat"
+    },
+    {
+      "jargon": "Mechanical properties",
+      "layman": "How materials respond to stress"
+    },
+    {
+      "jargon": "Materials",
+      "layman": "Substances used in construction or devices"
+    },
+    {
+      "jargon": "Spatial resolution",
+      "layman": "Precision in location measurement"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "High spatial and temporal resolution",
+      "layman": "Very precise tracking over time and space"
+    },
+    {
+      "jargon": "Temperature monitoring",
+      "layman": "Measuring heat changes in real time"
+    },
+    {
+      "jargon": "Deformation analysis",
+      "layman": "Studying how materials bend or break"
+    },
+    {
+      "jargon": "Material testing",
+      "layman": "Applying stress to materials to see how they react"
+    },
+    {
+      "jargon": "High-speed imaging",
+      "layman": "Taking very fast pictures to see fast events"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Temperature rise in shear bands",
+      "layman": "Heat generated in deformed areas"
+    },
+    {
+      "jargon": "Improved mechanical properties",
+      "layman": "Better strength and durability"
+    },
+    {
+      "jargon": "High spatial and temporal resolution data",
+      "layman": "Clear, detailed heat and motion records"
+    },
+    {
+      "jargon": "Material performance",
+      "layman": "How well a material holds up under stress"
+    },
+    {
+      "jargon": "Thermal behavior",
+      "layman": "How heat behaves during deformation"
+    }
+  ]
+}

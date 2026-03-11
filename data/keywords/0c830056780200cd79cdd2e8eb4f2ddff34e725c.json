@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "bromonium ion",
+      "layman": "Bromine-containing positive ion"
+    },
+    {
+      "jargon": "\u03b2-bromocarbenium ion",
+      "layman": "Bromine and carbon positive ion"
+    },
+    {
+      "jargon": "alkenes",
+      "layman": "Double-bonded carbon molecules"
+    },
+    {
+      "jargon": "reactive intermediates",
+      "layman": "Short-lived chemical species"
+    },
+    {
+      "jargon": "solvent",
+      "layman": "Liquid environment around chemicals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "kinetic studies",
+      "layman": "Speed of reactions measured"
+    },
+    {
+      "jargon": "stereochemical studies",
+      "layman": "Spatial arrangement of atoms observed"
+    },
+    {
+      "jargon": "theoretical investigations",
+      "layman": "Computer simulations of reactions"
+    },
+    {
+      "jargon": "bromine addition",
+      "layman": "Bromine attaching to double bonds"
+    },
+    {
+      "jargon": "rate of formation",
+      "layman": "How fast a reaction starts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "rate of formation",
+      "layman": "How fast ions form"
+    },
+    {
+      "jargon": "subsequent evolution",
+      "layman": "How ions change over time"
+    },
+    {
+      "jargon": "solvent effects",
+      "layman": "How liquid changes reaction behavior"
+    },
+    {
+      "jargon": "kinetic data",
+      "layman": "Reaction speed measurements"
+    },
+    {
+      "jargon": "stereochemical outcomes",
+      "layman": "3D structure of reaction products"
+    }
+  ]
+}

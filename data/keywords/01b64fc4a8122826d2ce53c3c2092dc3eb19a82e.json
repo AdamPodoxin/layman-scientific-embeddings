@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mn4O46+ core",
+      "layman": "Manganese-oxo cubane center"
+    },
+    {
+      "jargon": "Photosynthetic water oxidation enzyme",
+      "layman": "Enzyme that splits water to make oxygen"
+    },
+    {
+      "jargon": "Manganese-oxo cubane",
+      "layman": "Manganese-oxo cube structure"
+    },
+    {
+      "jargon": "dpp- anion",
+      "layman": "Phosphinate group"
+    },
+    {
+      "jargon": "Mn4O2-butterfly core",
+      "layman": "Manganese-oxo butterfly shape"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Bond enthalpy data",
+      "layman": "Energy measurements of bonds"
+    },
+    {
+      "jargon": "UV light absorption",
+      "layman": "Using UV light to trigger reaction"
+    },
+    {
+      "jargon": "High resolution mass spectrometry",
+      "layman": "Precise mass measurement"
+    },
+    {
+      "jargon": "Charge-transfer excited state",
+      "layman": "Electron transfer in manganese-oxo bond"
+    },
+    {
+      "jargon": "Kinetic barrier",
+      "layman": "Energy hill blocking reaction"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Molecular oxygen release",
+      "layman": "Oxygen gas released"
+    },
+    {
+      "jargon": "Quantum efficiency >50%",
+      "layman": "High success rate in reaction"
+    },
+    {
+      "jargon": "Bridging dpp- anion release",
+      "layman": "Phosphinate group released"
+    },
+    {
+      "jargon": "Cationic species (dpp)5Mn4O2+",
+      "layman": "Positive manganese-oxo fragment"
+    },
+    {
+      "jargon": "Thermodynamically capable",
+      "layman": "Can release oxygen in theory"
+    }
+  ]
+}

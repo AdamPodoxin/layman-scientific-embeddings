@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Buddhist murals",
+      "layman": "Temple wall paintings"
+    },
+    {
+      "jargon": "Pagan temples",
+      "layman": "Ancient Buddhist temples"
+    },
+    {
+      "jargon": "Cosmic vision",
+      "layman": "View of the universe"
+    },
+    {
+      "jargon": "Buddhist cosmos",
+      "layman": "Buddhist view of the universe"
+    },
+    {
+      "jargon": "Indic Buddhist art",
+      "layman": "Early Buddhist artwork"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Iconographic analysis",
+      "layman": "Studying images to understand meaning"
+    },
+    {
+      "jargon": "Spatial reconstruction",
+      "layman": "Rebuilding temple layouts"
+    },
+    {
+      "jargon": "Photographic record",
+      "layman": "Photo documentation"
+    },
+    {
+      "jargon": "Contextual analysis",
+      "layman": "Understanding within broader settings"
+    },
+    {
+      "jargon": "Visual interpretation",
+      "layman": "Reading images as stories"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Lost splendour",
+      "layman": "Once-great beauty now gone"
+    },
+    {
+      "jargon": "Political and religious evidence",
+      "layman": "Proof of past power and beliefs"
+    },
+    {
+      "jargon": "Artistic position",
+      "layman": "High status in art"
+    },
+    {
+      "jargon": "Cosmological nature",
+      "layman": "View of the universe as absolute"
+    },
+    {
+      "jargon": "Treasures hidden in darkness",
+      "layman": "Secrets in dark areas"
+    }
+  ]
+}

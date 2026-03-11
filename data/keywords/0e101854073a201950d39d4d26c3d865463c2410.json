@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Turbulent field",
+      "layman": "Chaotic fluid motion"
+    },
+    {
+      "jargon": "Hierarchical structure",
+      "layman": "Layered pattern"
+    },
+    {
+      "jargon": "Fluctuation",
+      "layman": "Random change"
+    },
+    {
+      "jargon": "Uncertainty of measurement",
+      "layman": "Measurement error"
+    },
+    {
+      "jargon": "Fundamental equations",
+      "layman": "Core math rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Nonstandard mathematics",
+      "layman": "Extended math tools"
+    },
+    {
+      "jargon": "Closure methods",
+      "layman": "Simplifying math rules"
+    },
+    {
+      "jargon": "Mechanism of fluctuation",
+      "layman": "Cause of random motion"
+    },
+    {
+      "jargon": "Measurement uncertainty",
+      "layman": "How errors appear in data"
+    },
+    {
+      "jargon": "Equation derivation",
+      "layman": "Building math formulas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reasonable closure methods",
+      "layman": "Good simplification rules"
+    },
+    {
+      "jargon": "Precise results",
+      "layman": "Accurate predictions"
+    },
+    {
+      "jargon": "Natural picture",
+      "layman": "Logical and consistent model"
+    },
+    {
+      "jargon": "Fluctuation mechanism",
+      "layman": "How chaos starts"
+    },
+    {
+      "jargon": "Uncertainty pointed out",
+      "layman": "Errors clearly shown"
+    }
+  ]
+}

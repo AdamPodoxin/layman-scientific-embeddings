@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "African Company",
+      "layman": "Black theatre troupe"
+    },
+    {
+      "jargon": "Ex-slaves",
+      "layman": "Formerly enslaved people"
+    },
+    {
+      "jargon": "Black New Yorkers",
+      "layman": "African American residents of New York"
+    },
+    {
+      "jargon": "Shakespearean productions",
+      "layman": "Shakespeare plays"
+    },
+    {
+      "jargon": "Mixed race audiences",
+      "layman": "Audiences with people of different races"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Exhaustive research",
+      "layman": "Thorough investigation"
+    },
+    {
+      "jargon": "Imaginatively recovers",
+      "layman": "Creates vivid reconstructions"
+    },
+    {
+      "jargon": "Observe public behaviour",
+      "layman": "Watch how people act in public"
+    },
+    {
+      "jargon": "Recreates the experience",
+      "layman": "Builds a realistic version of past events"
+    },
+    {
+      "jargon": "Interweaves theatre and urban life",
+      "layman": "Connects performances with city life"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New sense of self",
+      "layman": "New identity"
+    },
+    {
+      "jargon": "Vibrant urban culture",
+      "layman": "Lively city life"
+    },
+    {
+      "jargon": "Feelings of excitement and hope",
+      "layman": "Positive emotions"
+    },
+    {
+      "jargon": "Feelings of disgust",
+      "layman": "Strong negative reaction"
+    },
+    {
+      "jargon": "Freedom in everyday life",
+      "layman": "Freedom in daily routines"
+    }
+  ]
+}

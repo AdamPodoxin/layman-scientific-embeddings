@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Monetary union",
+      "layman": "Shared currency area"
+    },
+    {
+      "jargon": "Euro-12 area",
+      "layman": "Group of 12 Euro-using countries"
+    },
+    {
+      "jargon": "Belgium",
+      "layman": "Belgium"
+    },
+    {
+      "jargon": "Finland",
+      "layman": "Finland"
+    },
+    {
+      "jargon": "Greece",
+      "layman": "Greece"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Real options model",
+      "layman": "Decision tool for uncertain futures"
+    },
+    {
+      "jargon": "Calibrated model",
+      "layman": "Model adjusted to real-world data"
+    },
+    {
+      "jargon": "Proxying inflation preferences",
+      "layman": "Using unemployment and debt to estimate inflation wishes"
+    },
+    {
+      "jargon": "Policymakers' inflation preferences",
+      "layman": "Government leaders' views on inflation"
+    },
+    {
+      "jargon": "Debt-to-GDP ratio",
+      "layman": "Amount of debt compared to national income"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Robust group of countries",
+      "layman": "Strongly committed group"
+    },
+    {
+      "jargon": "Choose to remain within EMU",
+      "layman": "Stay in shared currency"
+    },
+    {
+      "jargon": "Only Luxembourg would robustly want to leave",
+      "layman": "Only Luxembourg clearly wants to exit"
+    },
+    {
+      "jargon": "Ireland and Netherlands complement the core",
+      "layman": "Ireland and Netherlands closely match the core"
+    },
+    {
+      "jargon": "Uncertainty over future benefits",
+      "layman": "Not sure about future advantages"
+    }
+  ]
+}

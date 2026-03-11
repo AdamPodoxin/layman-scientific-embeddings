@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Scientific articles",
+      "layman": "Research papers"
+    },
+    {
+      "jargon": "Metadata",
+      "layman": "Article details"
+    },
+    {
+      "jargon": "Textual constructs",
+      "layman": "Text parts"
+    },
+    {
+      "jargon": "Sections",
+      "layman": "Article parts"
+    },
+    {
+      "jargon": "Tokens",
+      "layman": "Words"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Machine learning models",
+      "layman": "Smart computer systems"
+    },
+    {
+      "jargon": "Automatic analysis",
+      "layman": "Computer-based analysis"
+    },
+    {
+      "jargon": "Training dataset",
+      "layman": "Data for teaching models"
+    },
+    {
+      "jargon": "Annotation tools",
+      "layman": "Tools for labeling text"
+    },
+    {
+      "jargon": "Web-based tool",
+      "layman": "Online tool"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Automated literature review",
+      "layman": "Auto summary of research"
+    },
+    {
+      "jargon": "Time reduction",
+      "layman": "Faster work"
+    },
+    {
+      "jargon": "Efficient information extraction",
+      "layman": "Quick data finding"
+    },
+    {
+      "jargon": "Scalable and efficient",
+      "layman": "Works well at large scale"
+    },
+    {
+      "jargon": "Improved dataset quality",
+      "layman": "Better labeled data"
+    }
+  ]
+}

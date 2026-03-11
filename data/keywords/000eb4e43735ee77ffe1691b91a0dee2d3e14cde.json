@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
+      "jargon": "Hamilton's Quaternions",
+      "layman": "Four-number system for 3D space"
+    },
+    {
       "jargon": "Real vector space",
-      "layman": "Space of vectors with real numbers"
+      "layman": "Space of numbers and directions"
     },
     {
       "jargon": "n dimensions",
-      "layman": "n-dimensional space"
+      "layman": "n directions in space"
     },
     {
-      "jargon": "Quaternions",
-      "layman": "Four-number system"
+      "jargon": "Four dimensions",
+      "layman": "Four-dimensional space"
     },
     {
-      "jargon": "Hamilton's Hypercomplex",
-      "layman": "Hamilton's extended number system"
-    },
-    {
-      "jargon": "Vector multiplication",
-      "layman": "Multiplying vectors"
+      "jargon": "Hypercomplex numbers",
+      "layman": "Complex numbers in higher forms"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Proving impossibility",
-      "layman": "Showing something can't work"
+      "jargon": "Product of vectors",
+      "layman": "Multiplying directions"
     },
     {
-      "jargon": "Constructing a system",
-      "layman": "Building a mathematical system"
+      "jargon": "Multiplication and addition",
+      "layman": "Combining vectors with rules"
     },
     {
-      "jargon": "Reminding fundamental concepts",
+      "jargon": "Proof by contradiction",
+      "layman": "Showing something can't be true"
+    },
+    {
+      "jargon": "Construction in four dimensions",
+      "layman": "Building system in 4D space"
+    },
+    {
+      "jargon": "Reminder of fundamental concepts",
       "layman": "Reviewing basic ideas"
-    },
-    {
-      "jargon": "Deep work with concepts",
-      "layman": "Carefully exploring ideas"
-    },
-    {
-      "jargon": "Multiplication without commutativity",
-      "layman": "Multiplying in a non-symmetrical way"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Cannot define such a system",
-      "layman": "No such system exists"
-    },
-    {
-      "jargon": "Construction possible in four dimensions",
-      "layman": "Works in 4D space"
-    },
-    {
-      "jargon": "System contains real numbers",
-      "layman": "Includes real numbers"
+      "jargon": "Cannot define such system",
+      "layman": "No such number system exists"
     },
     {
       "jargon": "Non-commutative multiplication",
-      "layman": "Multiplication order matters"
+      "layman": "Multiplication doesn't follow order"
     },
     {
       "jargon": "Resulting system is quaternions",
-      "layman": "Ends up as quaternions"
+      "layman": "Ends up as quaternion system"
+    },
+    {
+      "jargon": "Contains real numbers",
+      "layman": "Includes all real numbers"
+    },
+    {
+      "jargon": "Possible in four dimensions",
+      "layman": "Works only in 4D space"
     }
   ]
 }

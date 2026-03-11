@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Selenite ion",
+      "layman": "Selenium ion"
+    },
+    {
+      "jargon": "1,2-Dimercaptoethane",
+      "layman": "DME compound"
+    },
+    {
+      "jargon": "Thioacetic acid",
+      "layman": "TAA compound"
+    },
+    {
+      "jargon": "Selenium-containing derivative",
+      "layman": "Selenium-containing product"
+    },
+    {
+      "jargon": "pH",
+      "layman": "Acidity or alkalinity"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Reaction between selenite and DME",
+      "layman": "Chemical reaction between selenium and DME"
+    },
+    {
+      "jargon": "Reaction between selenite and TAA",
+      "layman": "Chemical reaction between selenium and TAA"
+    },
+    {
+      "jargon": "Formation of products",
+      "layman": "Creating new compounds"
+    },
+    {
+      "jargon": "Equilibrium constants measurement",
+      "layman": "Measuring reaction balance"
+    },
+    {
+      "jargon": "pH dependent process",
+      "layman": "Process that changes with acidity"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Moderately stable derivatives",
+      "layman": "Stable new compounds"
+    },
+    {
+      "jargon": "Enhanced absorption in 230\u2013360 nm region",
+      "layman": "Stronger light absorption in certain range"
+    },
+    {
+      "jargon": "One product formed",
+      "layman": "Only one compound made"
+    },
+    {
+      "jargon": "Combining molar ratios 3:2 and 4:1",
+      "layman": "Specific ingredient ratios used"
+    },
+    {
+      "jargon": "Equilibrium constants measured",
+      "layman": "Reaction balance values found"
+    }
+  ]
+}

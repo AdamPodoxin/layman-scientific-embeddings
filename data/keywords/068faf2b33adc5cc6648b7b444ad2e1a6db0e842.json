@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Packet payload",
+      "layman": "Data inside a network packet"
+    },
+    {
+      "jargon": "Signature strings",
+      "layman": "Known threat patterns"
+    },
+    {
+      "jargon": "Bloom filter engines",
+      "layman": "Fast lookup tools for patterns"
+    },
+    {
+      "jargon": "Lookup table",
+      "layman": "Database for exact matches"
+    },
+    {
+      "jargon": "Prefix register heap",
+      "layman": "Memory for tracking partial patterns"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Pattern-matching",
+      "layman": "Finding known sequences in data"
+    },
+    {
+      "jargon": "Membership query",
+      "layman": "Checking if something is in a list"
+    },
+    {
+      "jargon": "Deterministic string-matching",
+      "layman": "Exact pattern search"
+    },
+    {
+      "jargon": "Scalable architecture",
+      "layman": "System that grows without slowing down"
+    },
+    {
+      "jargon": "Hardware resource saving",
+      "layman": "Using less physical space or power"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Gigabytes throughput",
+      "layman": "Handles huge amounts of data"
+    },
+    {
+      "jargon": "Large pattern set",
+      "layman": "Many different threat patterns"
+    },
+    {
+      "jargon": "Long patterns",
+      "layman": "Very long threat sequences"
+    },
+    {
+      "jargon": "High performance",
+      "layman": "Fast processing speed"
+    },
+    {
+      "jargon": "Scalable",
+      "layman": "Works well with growing demands"
+    }
+  ]
+}

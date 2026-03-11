@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Einstein field equations",
+      "layman": "Equations describing gravity"
+    },
+    {
+      "jargon": "Einstein\u2013Maxwell field equations",
+      "layman": "Gravity and electromagnetism equations"
+    },
+    {
+      "jargon": "Spencer cohomology",
+      "layman": "Math tool for studying field systems"
+    },
+    {
+      "jargon": "Cartan method",
+      "layman": "Math method for analyzing differential equations"
+    },
+    {
+      "jargon": "Cartan\u2013Kahler theory",
+      "layman": "Theory for solving geometric equations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Spencer cohomology",
+      "layman": "Math tool for studying field systems"
+    },
+    {
+      "jargon": "Cartan method",
+      "layman": "Math method for analyzing differential equations"
+    },
+    {
+      "jargon": "Calculating cohomology",
+      "layman": "Finding mathematical patterns in equations"
+    },
+    {
+      "jargon": "Proving involutivity",
+      "layman": "Showing a system follows consistent rules"
+    },
+    {
+      "jargon": "Deriving implications",
+      "layman": "Drawing logical conclusions from math"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Involutivity",
+      "layman": "Consistent and predictable behavior"
+    },
+    {
+      "jargon": "Field equations are involutive",
+      "layman": "Gravity equations follow logical rules"
+    },
+    {
+      "jargon": "Relation with Cartan method",
+      "layman": "Mathematical connection found"
+    },
+    {
+      "jargon": "Basic implications derived",
+      "layman": "Key results logically obtained"
+    },
+    {
+      "jargon": "System consistency",
+      "layman": "Equations behave reliably"
+    }
+  ]
+}

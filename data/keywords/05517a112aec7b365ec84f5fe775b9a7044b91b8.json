@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Experiential learning",
+      "layman": "Learning by doing"
+    },
+    {
+      "jargon": "Reflective component",
+      "layman": "Thinking about experiences"
+    },
+    {
+      "jargon": "Professional identity",
+      "layman": "Sense of being a professional"
+    },
+    {
+      "jargon": "Student conference",
+      "layman": "Student event for sharing ideas"
+    },
+    {
+      "jargon": "WITS choir",
+      "layman": "WITS choir"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Experiential learning",
+      "layman": "Learning by doing"
+    },
+    {
+      "jargon": "Reflective practice",
+      "layman": "Thinking after an experience"
+    },
+    {
+      "jargon": "Peer interaction",
+      "layman": "Talking with peers"
+    },
+    {
+      "jargon": "Lecture-based learning",
+      "layman": "Learning from a lecture"
+    },
+    {
+      "jargon": "Practical application",
+      "layman": "Hands-on learning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Heightened sense of belonging",
+      "layman": "Feeling part of something bigger"
+    },
+    {
+      "jargon": "Deeper self-knowledge",
+      "layman": "Better understanding of self"
+    },
+    {
+      "jargon": "Enhanced self-capabilities",
+      "layman": "Feeling more capable"
+    },
+    {
+      "jargon": "Euphoric feeling",
+      "layman": "Excited emotional state"
+    },
+    {
+      "jargon": "Opportunity to contribute",
+      "layman": "Chance to make a difference"
+    }
+  ]
+}

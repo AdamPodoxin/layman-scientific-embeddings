@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Transition state",
+      "layman": "Highest energy point in a reaction"
+    },
+    {
+      "jargon": "Hydrogen abstraction",
+      "layman": "Removing a hydrogen atom"
+    },
+    {
+      "jargon": "Fluorine",
+      "layman": "Fluorine"
+    },
+    {
+      "jargon": "CH3OH",
+      "layman": "Methanol"
+    },
+    {
+      "jargon": "OHF",
+      "layman": "Hydroxyl fluoride ion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Photoelectron spectroscopy",
+      "layman": "Measuring electron energy from ions"
+    },
+    {
+      "jargon": "Ab initio calculations",
+      "layman": "Computer simulations from first principles"
+    },
+    {
+      "jargon": "Dynamical simulation",
+      "layman": "Simulating motion in a reaction"
+    },
+    {
+      "jargon": "Reaction surface",
+      "layman": "Energy landscape of a reaction"
+    },
+    {
+      "jargon": "Vibrational structure",
+      "layman": "Patterns in molecular vibrations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Resolved vibrational structure",
+      "layman": "Clear vibration patterns in spectrum"
+    },
+    {
+      "jargon": "Hydrogen bond dissociation energy",
+      "layman": "Energy to break hydrogen bond"
+    },
+    {
+      "jargon": "Anharmonic potential",
+      "layman": "Non-ideal vibration energy shape"
+    },
+    {
+      "jargon": "Photoelectron spectra",
+      "layman": "Electron energy patterns from ions"
+    },
+    {
+      "jargon": "Bath degrees of freedom",
+      "layman": "Extra molecular motions that affect results"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Surrealist tenets",
+      "layman": "Surrealist principles"
+    },
+    {
+      "jargon": "Collective unconscious",
+      "layman": "Shared human mind"
+    },
+    {
+      "jargon": "Occultism",
+      "layman": "Hidden knowledge"
+    },
+    {
+      "jargon": "Myth",
+      "layman": "Traditional story"
+    },
+    {
+      "jargon": "Dream",
+      "layman": "Nighttime thought"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Incantatory rhythms",
+      "layman": "Repetitive chanting"
+    },
+    {
+      "jargon": "Text analysis",
+      "layman": "Studying writings"
+    },
+    {
+      "jargon": "Cosmogonic visions",
+      "layman": "Big picture visions of the universe"
+    },
+    {
+      "jargon": "Spiritist seances",
+      "layman": "Spirit communication sessions"
+    },
+    {
+      "jargon": "Internal apprehension",
+      "layman": "Inner understanding"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Algolagnic experience",
+      "layman": "Painful desire"
+    },
+    {
+      "jargon": "Apocalyptical prophecies",
+      "layman": "End-of-world predictions"
+    },
+    {
+      "jargon": "Pre-industrial collective past",
+      "layman": "Older shared history"
+    },
+    {
+      "jargon": "Primitive myth",
+      "layman": "Simple ancient story"
+    },
+    {
+      "jargon": "Unconscious desire",
+      "layman": "Hidden wants"
+    }
+  ]
+}

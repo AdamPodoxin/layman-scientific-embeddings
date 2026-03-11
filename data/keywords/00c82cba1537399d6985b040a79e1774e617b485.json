@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Symbionts",
+      "layman": "Bacterial partners"
+    },
+    {
+      "jargon": "Invertebrate animal species",
+      "layman": "Animals without backbones"
+    },
+    {
+      "jargon": "Host",
+      "layman": "Main organism"
+    },
+    {
+      "jargon": "Genetic variants",
+      "layman": "Different gene versions"
+    },
+    {
+      "jargon": "Colonization mechanisms",
+      "layman": "Ways bacteria settle in hosts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Molecular genetics",
+      "layman": "Studying genes at the molecular level"
+    },
+    {
+      "jargon": "Genetic manipulation",
+      "layman": "Changing genes in organisms"
+    },
+    {
+      "jargon": "Experimental introduction",
+      "layman": "Adding bacteria to hosts in tests"
+    },
+    {
+      "jargon": "Biochemical communication",
+      "layman": "Chemical messaging between organisms"
+    },
+    {
+      "jargon": "Molecular basis",
+      "layman": "Exact biological explanation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Novel colonization mechanisms",
+      "layman": "New ways bacteria take root"
+    },
+    {
+      "jargon": "Normal host development",
+      "layman": "Healthy growth of host"
+    },
+    {
+      "jargon": "Inducing development",
+      "layman": "Triggering growth"
+    },
+    {
+      "jargon": "Genetic interrogation",
+      "layman": "Deep gene analysis"
+    },
+    {
+      "jargon": "Model systems",
+      "layman": "Well-studied examples"
+    }
+  ]
+}

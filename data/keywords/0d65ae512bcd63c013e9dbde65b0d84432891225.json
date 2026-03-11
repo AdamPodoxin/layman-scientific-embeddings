@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Civil Engineering",
+      "layman": "Building and infrastructure design"
+    },
+    {
+      "jargon": "Construction Management",
+      "layman": "Overseeing building projects"
+    },
+    {
+      "jargon": "Print resources",
+      "layman": "Physical books and documents"
+    },
+    {
+      "jargon": "Electronic resources",
+      "layman": "Digital articles and databases"
+    },
+    {
+      "jargon": "Construction projects",
+      "layman": "Building initiatives"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Resource locating",
+      "layman": "Finding relevant materials"
+    },
+    {
+      "jargon": "Effective use",
+      "layman": "Using resources well"
+    },
+    {
+      "jargon": "Print and electronic access",
+      "layman": "Accessing physical and digital content"
+    },
+    {
+      "jargon": "Information retrieval",
+      "layman": "Finding specific information"
+    },
+    {
+      "jargon": "Guided navigation",
+      "layman": "Following structured help paths"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Assistance in locating",
+      "layman": "Help finding resources"
+    },
+    {
+      "jargon": "Effective utilization",
+      "layman": "Using resources properly"
+    },
+    {
+      "jargon": "Improved access",
+      "layman": "Better access to materials"
+    },
+    {
+      "jargon": "Comprehensive support",
+      "layman": "Full support for research"
+    },
+    {
+      "jargon": "Enhanced research efficiency",
+      "layman": "Faster, better research"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Electrical telegraphy",
+      "layman": "Electric telegraph system"
+    },
+    {
+      "jargon": "Submarine cables",
+      "layman": "Underwater communication cables"
+    },
+    {
+      "jargon": "Wireless telegraphy",
+      "layman": "Radio-based telegraph system"
+    },
+    {
+      "jargon": "Semaphore systems",
+      "layman": "Signal flags for communication"
+    },
+    {
+      "jargon": "Vacuum-tube transmitters",
+      "layman": "Old radio signal amplifiers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Archival research",
+      "layman": "Studying old records"
+    },
+    {
+      "jargon": "Operational changes",
+      "layman": "Changes in how systems run"
+    },
+    {
+      "jargon": "Military command and control",
+      "layman": "Coordinating military actions"
+    },
+    {
+      "jargon": "Equipment development",
+      "layman": "Improving communication devices"
+    },
+    {
+      "jargon": "Signal transmission",
+      "layman": "Sending messages through wires or air"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Global communication coverage",
+      "layman": "Worldwide reach"
+    },
+    {
+      "jargon": "Colonial military use",
+      "layman": "Use in colonial wars"
+    },
+    {
+      "jargon": "Wartime technological advances",
+      "layman": "Tech progress during wars"
+    },
+    {
+      "jargon": "Adoption in naval and aviation use",
+      "layman": "Used in ships and planes"
+    },
+    {
+      "jargon": "Factual errors in the text",
+      "layman": "Wrong information in the book"
+    }
+  ]
+}

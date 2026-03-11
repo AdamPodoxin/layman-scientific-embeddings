@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Black hole thermodynamics",
+      "layman": "Heat and energy behavior of black holes"
+    },
+    {
+      "jargon": "Microscopical degrees of freedom",
+      "layman": "Tiny building blocks of space"
+    },
+    {
+      "jargon": "Spatial region",
+      "layman": "Area of space"
+    },
+    {
+      "jargon": "Geometry",
+      "layman": "Shape of space"
+    },
+    {
+      "jargon": "Gravitation",
+      "layman": "Force of gravity"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Nonstandard statistics",
+      "layman": "Unusual statistical rules"
+    },
+    {
+      "jargon": "Statistical correlation",
+      "layman": "Connection between data points"
+    },
+    {
+      "jargon": "Holographic hypothesis",
+      "layman": "Theory that space is encoded on its surface"
+    },
+    {
+      "jargon": "Entropy scaling",
+      "layman": "How disorder grows with space size"
+    },
+    {
+      "jargon": "Microscopic correlations",
+      "layman": "Tiny connections between parts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Entropy scales with area",
+      "layman": "Disorder grows with surface, not volume"
+    },
+    {
+      "jargon": "No need for holography",
+      "layman": "No need for surface-based theory"
+    },
+    {
+      "jargon": "Gravitation affects statistics",
+      "layman": "Gravity changes how things behave"
+    },
+    {
+      "jargon": "Degrees of freedom are correlated",
+      "layman": "Small parts influence each other"
+    },
+    {
+      "jargon": "Statistical behavior of space",
+      "layman": "How space behaves like a system"
+    }
+  ]
+}

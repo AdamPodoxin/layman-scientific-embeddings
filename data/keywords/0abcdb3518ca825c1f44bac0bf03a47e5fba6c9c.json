@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Irreversible investments",
+      "layman": "Investments that can't be undone"
+    },
+    {
+      "jargon": "Market process",
+      "layman": "Economic conditions over time"
+    },
+    {
+      "jargon": "Expansion capacity",
+      "layman": "Growth potential of a business"
+    },
+    {
+      "jargon": "n-dimensional market",
+      "layman": "Market with many changing factors"
+    },
+    {
+      "jargon": "One-dimensional case",
+      "layman": "Simple market with one changing factor"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Mathematical treatment",
+      "layman": "Using math to solve problems"
+    },
+    {
+      "jargon": "Implicit conditions",
+      "layman": "Hidden rules for a solution"
+    },
+    {
+      "jargon": "Explicit solution",
+      "layman": "Clear and direct answer"
+    },
+    {
+      "jargon": "Fluctuating market",
+      "layman": "Market that changes over time"
+    },
+    {
+      "jargon": "Investment strategy",
+      "layman": "Plan for how to invest"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Best investment strategy",
+      "layman": "Optimal way to grow"
+    },
+    {
+      "jargon": "Solution exists",
+      "layman": "A good plan is possible"
+    },
+    {
+      "jargon": "n-dimensional case",
+      "layman": "Complex market scenario"
+    },
+    {
+      "jargon": "One-dimensional case",
+      "layman": "Simple market scenario"
+    },
+    {
+      "jargon": "Market fluctuations",
+      "layman": "Changing market conditions"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "core_entities": [
+    {
+      "jargon": "e-procurement tools",
+      "layman": "Online buying tools"
+    },
+    {
+      "jargon": "state governments",
+      "layman": "State-level government agencies"
+    },
+    {
+      "jargon": "procurement management",
+      "layman": "How governments buy goods and services"
+    },
+    {
+      "jargon": "centralized procurement office",
+      "layman": "Single central office for buying"
+    },
+    {
+      "jargon": "managerial innovation",
+      "layman": "New ways of managing operations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "empirical studies",
+      "layman": "Real-world data analysis"
+    },
+    {
+      "jargon": "data collection",
+      "layman": "Gathering information from agencies"
+    },
+    "diffusion process",
+    "adoption analysis",
+    "factor exploration"
+  ],
+  "outcomes": [
+    {
+      "jargon": "simple innovations",
+      "layman": "Easy-to-use new tools"
+    },
+    {
+      "jargon": "technically complex innovations",
+      "layman": "Hard-to-use, complicated tools"
+    },
+    {
+      "jargon": "rapid diffusion",
+      "layman": "Quick spread across agencies"
+    },
+    {
+      "jargon": "adoption of e-procurement tools",
+      "layman": "Using online buying tools"
+    },
+    {
+      "jargon": "managerial and technical challenges",
+      "layman": "Problems in using and managing the tools"
+    }
+  ]
+}

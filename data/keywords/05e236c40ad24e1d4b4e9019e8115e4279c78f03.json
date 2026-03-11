@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Free-form natural laws",
+      "layman": "Natural rules without fixed form"
+    },
+    {
+      "jargon": "Hamilton's equations of motion",
+      "layman": "Physics equations describing motion"
+    },
+    {
+      "jargon": "Newton's second law",
+      "layman": "Force equals mass times acceleration"
+    },
+    {
+      "jargon": "Hamiltonians",
+      "layman": "Energy-based physics rules"
+    },
+    {
+      "jargon": "Lagrangians",
+      "layman": "Energy difference rules in motion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Symbolic regression",
+      "layman": "Finding formulas from data"
+    },
+    {
+      "jargon": "Genetic algorithms",
+      "layman": "Evolution-like formula search"
+    },
+    {
+      "jargon": "Experimental measurements",
+      "layman": "Data from physical tests"
+    },
+    {
+      "jargon": "Data-driven learning",
+      "layman": "Learning from data only"
+    },
+    {
+      "jargon": "Implicit prior knowledge",
+      "layman": "Hidden assumptions in the method"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Find laws from data",
+      "layman": "Discover rules from experiments"
+    },
+    {
+      "jargon": "No prior physics knowledge",
+      "layman": "No pre-existing physics rules used"
+    },
+    {
+      "jargon": "Find Hamiltonians",
+      "layman": "Discover energy-based laws"
+    },
+    {
+      "jargon": "Find special Lagrangians",
+      "layman": "Find specific motion-based rules"
+    },
+    {
+      "jargon": "Demystify the process",
+      "layman": "Explain how it actually works"
+    }
+  ]
+}

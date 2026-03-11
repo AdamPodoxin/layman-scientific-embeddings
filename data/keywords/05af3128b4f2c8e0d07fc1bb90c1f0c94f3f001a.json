@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Electric powertrain",
+      "layman": "Electric vehicle engine system"
+    },
+    {
+      "jargon": "Virtual research lab",
+      "layman": "Online lab shared by researchers"
+    },
+    {
+      "jargon": "Component level components",
+      "layman": "Small parts in a system"
+    },
+    {
+      "jargon": "Sub-system level components",
+      "layman": "Groups of small parts working together"
+    },
+    {
+      "jargon": "System level components",
+      "layman": "Full vehicle power system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Functional Mock-up Interface (FMI)",
+      "layman": "Model sharing tool"
+    },
+    {
+      "jargon": "Model exchange and simulation",
+      "layman": "Running models together to test"
+    },
+    {
+      "jargon": "Multi-disciplinary design",
+      "layman": "Using many fields to design"
+    },
+    {
+      "jargon": "Control engineering",
+      "layman": "Managing system behavior"
+    },
+    {
+      "jargon": "Safety engineering",
+      "layman": "Ensuring no harm during operation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "High performance",
+      "layman": "Fast and efficient"
+    },
+    {
+      "jargon": "Low cost",
+      "layman": "Affordable"
+    },
+    {
+      "jargon": "Clean propulsion",
+      "layman": "Eco-friendly power"
+    },
+    {
+      "jargon": "Knowledge sharing",
+      "layman": "Sharing expert knowledge"
+    },
+    {
+      "jargon": "Open access to know-how",
+      "layman": "Free access to skills and tools"
+    }
+  ]
+}

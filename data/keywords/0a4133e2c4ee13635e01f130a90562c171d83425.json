@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Autonomous vehicles",
+      "layman": "Self-driving cars"
+    },
+    {
+      "jargon": "Heterogeneous environments",
+      "layman": "Mixed urban areas with different obstacles"
+    },
+    {
+      "jargon": "Obstacles",
+      "layman": "Barriers in the path"
+    },
+    {
+      "jargon": "Free configuration space",
+      "layman": "Clear path area for movement"
+    },
+    {
+      "jargon": "Dubin\u2019s motion model",
+      "layman": "Vehicle movement rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sampling-based methods",
+      "layman": "Random path testing"
+    },
+    {
+      "jargon": "Adaptive RRT",
+      "layman": "Smart pathfinding around obstacles"
+    },
+    {
+      "jargon": "Informed RRT*",
+      "layman": "Better pathfinding that improves over time"
+    },
+    {
+      "jargon": "RRT*",
+      "layman": "Improved pathfinding algorithm"
+    },
+    {
+      "jargon": "Simulation",
+      "layman": "Virtual testing environment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "50% improvement in initial solution",
+      "layman": "Faster initial path found"
+    },
+    {
+      "jargon": "25% improvement in convergence",
+      "layman": "Faster path refinement"
+    },
+    {
+      "jargon": "Path planning",
+      "layman": "Finding a safe route"
+    },
+    {
+      "jargon": "Urban environments",
+      "layman": "City settings with complexity"
+    },
+    {
+      "jargon": "Variable complexity",
+      "layman": "Changing difficulty levels"
+    }
+  ]
+}

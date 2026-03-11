@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Propositional primal logic",
+      "layman": "Simple logic with statements and quotes"
+    },
+    {
+      "jargon": "Quotations",
+      "layman": "Statements about statements"
+    },
+    {
+      "jargon": "p said \u03c6",
+      "layman": "Person says a statement"
+    },
+    {
+      "jargon": "p implied \u03c6",
+      "layman": "Person implies a statement"
+    },
+    {
+      "jargon": "Hilbertian calculus",
+      "layman": "Formal system for proving logic rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Derivation problem",
+      "layman": "Finding valid proof steps"
+    },
+    {
+      "jargon": "Linear time solution",
+      "layman": "Fast, simple proof process"
+    },
+    {
+      "jargon": "Shortest derivation",
+      "layman": "Shortest possible proof path"
+    },
+    {
+      "jargon": "Exponential time",
+      "layman": "Very slow, grows rapidly with size"
+    },
+    {
+      "jargon": "Proof from hypotheses",
+      "layman": "Deriving truth from given facts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Derivation solvable in linear time",
+      "layman": "Proofs happen quickly"
+    },
+    {
+      "jargon": "Exponential in length",
+      "layman": "Proofs take much longer"
+    },
+    {
+      "jargon": "One kind of quotation",
+      "layman": "Only one way of quoting"
+    },
+    {
+      "jargon": "Hilbertian calculus",
+      "layman": "Formal proof system"
+    },
+    {
+      "jargon": "Shortest derivation",
+      "layman": "Fastest possible proof"
+    }
+  ]
+}

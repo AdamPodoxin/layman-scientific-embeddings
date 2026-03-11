@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "e-Justice",
+      "layman": "Digital justice system"
+    },
+    {
+      "jargon": "Information and Communications Technologies",
+      "layman": "ICTs"
+    },
+    {
+      "jargon": "Justice sector",
+      "layman": "Justice system"
+    },
+    {
+      "jargon": "Law and order sector",
+      "layman": "Law and order system"
+    },
+    {
+      "jargon": "Sector Wide Approach",
+      "layman": "Coordinated sector strategy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "ICTs implementation",
+      "layman": "Using digital tools in services"
+    },
+    {
+      "jargon": "Service delivery",
+      "layman": "Providing services to people"
+    },
+    {
+      "jargon": "Communication, cooperation and coordination",
+      "layman": "Working together across departments"
+    },
+    {
+      "jargon": "Governance reform",
+      "layman": "Improving government systems"
+    },
+    {
+      "jargon": "Framework development",
+      "layman": "Creating a standard model"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved service delivery",
+      "layman": "Better services for citizens"
+    },
+    {
+      "jargon": "Enhanced collaboration",
+      "layman": "Better teamwork between agencies"
+    },
+    {
+      "jargon": "National scale implementation",
+      "layman": "Rolling out across the country"
+    },
+    {
+      "jargon": "Generic framework",
+      "layman": "A reusable model for other countries"
+    },
+    {
+      "jargon": "Performance improvement",
+      "layman": "More efficient justice system"
+    }
+  ]
+}

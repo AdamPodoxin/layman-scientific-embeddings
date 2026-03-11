@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Nearly zero energy building",
+      "layman": "Building with almost no energy use"
+    },
+    {
+      "jargon": "Building physics",
+      "layman": "Science of how buildings interact with energy and environment"
+    },
+    {
+      "jargon": "Human behaviour",
+      "layman": "How people use and interact with buildings"
+    },
+    {
+      "jargon": "Energy efficiency",
+      "layman": "Using less energy for the same function"
+    },
+    {
+      "jargon": "Thermal envelope",
+      "layman": "Building's outer layer that keeps heat in or out"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Energy modeling",
+      "layman": "Simulating building energy use"
+    },
+    {
+      "jargon": "Behavioral surveys",
+      "layman": "Questionnaires on how people use spaces"
+    },
+    {
+      "jargon": "Life cycle assessment",
+      "layman": "Measuring total environmental impact over time"
+    },
+    {
+      "jargon": "Parametric analysis",
+      "layman": "Testing how changes affect performance"
+    },
+    {
+      "jargon": "Sensitivity analysis",
+      "layman": "Checking how small changes impact results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Near-zero energy consumption",
+      "layman": "Almost no energy used"
+    },
+    {
+      "jargon": "Improved occupant comfort",
+      "layman": "People feel more comfortable"
+    },
+    {
+      "jargon": "Reduced carbon emissions",
+      "layman": "Less pollution from buildings"
+    },
+    {
+      "jargon": "Optimal design integration",
+      "layman": "Design fits human needs well"
+    },
+    {
+      "jargon": "Scalable solutions",
+      "layman": "Solutions that work in many places"
+    }
+  ]
+}

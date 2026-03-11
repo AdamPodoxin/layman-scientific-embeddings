@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Market taxation",
+      "layman": "Taxes on market sales"
+    },
+    {
+      "jargon": "Local government areas",
+      "layman": "Local regions"
+    },
+    {
+      "jargon": "Social relationships",
+      "layman": "Personal connections"
+    },
+    {
+      "jargon": "Collective norms",
+      "layman": "Shared rules"
+    },
+    {
+      "jargon": "Informal practices",
+      "layman": "Unofficial methods"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Ground-level view",
+      "layman": "On-the-ground observation"
+    },
+    {
+      "jargon": "Socially embedded realities",
+      "layman": "Local customs and practices"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering information"
+    },
+    {
+      "jargon": "Field research",
+      "layman": "Direct observation in real settings"
+    },
+    {
+      "jargon": "Comparative analysis",
+      "layman": "Comparing two areas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Greater equity",
+      "layman": "More fairness"
+    },
+    {
+      "jargon": "Reinforced inequalities",
+      "layman": "Worsened unfairness"
+    },
+    {
+      "jargon": "Nuanced understanding",
+      "layman": "Deeper insight"
+    },
+    {
+      "jargon": "Improved outcomes",
+      "layman": "Better results"
+    },
+    {
+      "jargon": "Minimized costs of informality",
+      "layman": "Fewer downsides of informal systems"
+    }
+  ]
+}

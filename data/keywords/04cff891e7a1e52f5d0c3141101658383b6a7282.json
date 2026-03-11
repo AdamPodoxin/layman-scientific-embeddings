@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "human capital",
+      "layman": "people's skills and knowledge"
+    },
+    {
+      "jargon": "education market",
+      "layman": "system where education is bought and sold"
+    },
+    {
+      "jargon": "labor market",
+      "layman": "job market"
+    },
+    {
+      "jargon": "undereducation",
+      "layman": "people with too little training for jobs"
+    },
+    {
+      "jargon": "over-education",
+      "layman": "people with too much training for jobs"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "microeconomic analysis",
+      "layman": "close look at individual choices"
+    },
+    {
+      "jargon": "cost-effectiveness estimation",
+      "layman": "measuring how much money is saved per unit of education"
+    },
+    {
+      "jargon": "theoretical modeling",
+      "layman": "building math models of education systems"
+    },
+    {
+      "jargon": "labor demand analysis",
+      "layman": "studying how many workers employers need"
+    },
+    {
+      "jargon": "social conflict analysis",
+      "layman": "studying how society's tensions affect jobs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "returns to investment",
+      "layman": "how much money education brings back"
+    },
+    {
+      "jargon": "productivity increase",
+      "layman": "higher output from workers"
+    },
+    {
+      "jargon": "income foregone",
+      "layman": "money lost by not working"
+    },
+    {
+      "jargon": "socialization role",
+      "layman": "education teaches values and norms"
+    },
+    {
+      "jargon": "policy recommendations",
+      "layman": "specific advice for education decisions"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Russian and Soviet cinema",
+      "layman": "Russian and Soviet films"
+    },
+    {
+      "jargon": "Documentary history",
+      "layman": "Recorded history of events"
+    },
+    {
+      "jargon": "Fairground novelty",
+      "layman": "Amusement attraction"
+    },
+    {
+      "jargon": "Mass medium",
+      "layman": "Popular entertainment for many people"
+    },
+    {
+      "jargon": "Propaganda",
+      "layman": "Messages used to influence public opinion"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Extensive research",
+      "layman": "In-depth investigation"
+    },
+    {
+      "jargon": "Original translation",
+      "layman": "Translating documents from another language"
+    },
+    {
+      "jargon": "Document selection",
+      "layman": "Choosing key historical records"
+    },
+    {
+      "jargon": "Historical reassessment",
+      "layman": "Re-evaluating past beliefs"
+    },
+    {
+      "jargon": "Aesthetic development",
+      "layman": "Evolution of visual style"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reassessment of conventional understanding",
+      "layman": "New way of seeing old beliefs"
+    },
+    {
+      "jargon": "Political development",
+      "layman": "Change in political messaging"
+    },
+    {
+      "jargon": "Emergence as entertainment",
+      "layman": "Became popular fun"
+    },
+    {
+      "jargon": "Emergence as propaganda",
+      "layman": "Used to spread political views"
+    },
+    {
+      "jargon": "Eve of World War II",
+      "layman": "Before World War II began"
+    }
+  ]
+}

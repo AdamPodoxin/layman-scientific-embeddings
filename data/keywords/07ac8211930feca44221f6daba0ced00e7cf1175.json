@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Itinerant preacher",
+      "layman": "Traveling preacher"
+    },
+    {
+      "jargon": "Colonial American religious world",
+      "layman": "Religious life in 18th century America"
+    },
+    {
+      "jargon": "Great Awakening",
+      "layman": "Major religious revival"
+    },
+    {
+      "jargon": "Transatlantic consumer society",
+      "layman": "Cross-Atlantic consumer culture"
+    },
+    {
+      "jargon": "Educated leaders",
+      "layman": "Learned community leaders"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Itinerancy",
+      "layman": "Traveling to preach"
+    },
+    {
+      "jargon": "Debate over itinerancy",
+      "layman": "Argument about traveling preachers"
+    },
+    {
+      "jargon": "Cultural and social anthropology",
+      "layman": "Study of culture and society"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Examining past events"
+    },
+    {
+      "jargon": "Scholarly interpretation",
+      "layman": "Experts analyzing history"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Dramatic change in religious practice",
+      "layman": "Big shift in how people worship"
+    },
+    {
+      "jargon": "Openness beyond local boundaries",
+      "layman": "Willingness to explore new beliefs"
+    },
+    {
+      "jargon": "Pluralistic society",
+      "layman": "Society with many different beliefs"
+    },
+    {
+      "jargon": "New model of the church",
+      "layman": "Different way of organizing church life"
+    },
+    {
+      "jargon": "Worldly and otherworldly transformations",
+      "layman": "Changes in both daily life and spiritual life"
+    }
+  ]
+}

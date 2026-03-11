@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Client-oriented open source software",
+      "layman": "Software built for real clients and shared freely"
+    },
+    {
+      "jargon": "Undergraduate software engineering course",
+      "layman": "University course teaching software building"
+    },
+    {
+      "jargon": "Open source development",
+      "layman": "Software made publicly available for anyone to use and improve"
+    },
+    {
+      "jargon": "Client",
+      "layman": "Real-world organization using the software"
+    },
+    {
+      "jargon": "Nonprofit",
+      "layman": "Organization that helps people without profit"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Agile development",
+      "layman": "Iterative software building with frequent updates"
+    },
+    {
+      "jargon": "Project development",
+      "layman": "Building a software project step by step"
+    },
+    {
+      "jargon": "Transferrable framework",
+      "layman": "Method that can be used in many courses"
+    },
+    {
+      "jargon": "Client engagement",
+      "layman": "Working directly with a real client"
+    },
+    {
+      "jargon": "Open source practice",
+      "layman": "Using open source software development methods"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Students engaged in real-world software experiences",
+      "layman": "Students work on real software problems"
+    },
+    {
+      "jargon": "Useful software application",
+      "layman": "Helpful software created for nonprofits"
+    },
+    {
+      "jargon": "Available as open source",
+      "layman": "Software freely shared for others to use"
+    },
+    {
+      "jargon": "Extensible by other students",
+      "layman": "Others can improve or build on it"
+    },
+    {
+      "jargon": "Transferrable to other institutions",
+      "layman": "Can be used in many universities"
+    }
+  ]
+}

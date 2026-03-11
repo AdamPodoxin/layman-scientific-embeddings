@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Financial privacy legislation",
+      "layman": "Privacy laws for financial companies"
+    },
+    {
+      "jargon": "Privacy policies",
+      "layman": "Company's privacy rules"
+    },
+    {
+      "jargon": "Gramm-Leach-Bliley Act (GLB) privacy rule",
+      "layman": "US law on financial data privacy"
+    },
+    {
+      "jargon": "Financial institutions",
+      "layman": "Banks and credit card companies"
+    },
+    {
+      "jargon": "Retailers",
+      "layman": "Stores and online sellers"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Longitudinal study",
+      "layman": "Study over time"
+    },
+    {
+      "jargon": "Policy analysis",
+      "layman": "Examining how policies change"
+    },
+    {
+      "jargon": "Control group",
+      "layman": "Group not subject to the rule"
+    },
+    {
+      "jargon": "Compliance requirements",
+      "layman": "Rules companies must follow"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering customer information"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "More complete privacy notices",
+      "layman": "Better explained privacy rules"
+    },
+    {
+      "jargon": "No significant change in consumer choices",
+      "layman": "No real change in user options"
+    },
+    {
+      "jargon": "Large information collection",
+      "layman": "Huge amounts of customer data gathered"
+    },
+    {
+      "jargon": "Extensive sharing with affiliates",
+      "layman": "Sharing data with related companies"
+    },
+    {
+      "jargon": "Third-party sharing without choices",
+      "layman": "Sharing data with outsiders without user consent"
+    }
+  ]
+}

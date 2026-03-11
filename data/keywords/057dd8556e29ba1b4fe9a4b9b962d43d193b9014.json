@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Audiovisual instruments",
+      "layman": "Video and photo tools"
+    },
+    {
+      "jargon": "Ethnographic research",
+      "layman": "Cultural observation study"
+    },
+    {
+      "jargon": "Film and photography",
+      "layman": "Movies and photos"
+    },
+    {
+      "jargon": "Cultural habits",
+      "layman": "Traditions and practices"
+    },
+    {
+      "jargon": "Human zoo",
+      "layman": "People displayed like animals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Visual anthropology",
+      "layman": "Study of culture through images"
+    },
+    {
+      "jargon": "Deep ethnographic description",
+      "layman": "Detailed cultural storytelling"
+    },
+    {
+      "jargon": "Post-colonial criticism",
+      "layman": "Critique of colonial observer roles"
+    },
+    {
+      "jargon": "Interrelationship",
+      "layman": "Observer and people working together"
+    },
+    {
+      "jargon": "Documental value",
+      "layman": "Value of recording truth"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Urgent anthropology",
+      "layman": "Quick cultural preservation"
+    },
+    {
+      "jargon": "Positivist conception",
+      "layman": "Simple, fact-based view"
+    },
+    {
+      "jargon": "Historically situated",
+      "layman": "Based on time and history"
+    },
+    {
+      "jargon": "Politically conscious",
+      "layman": "Aware of power and politics"
+    },
+    {
+      "jargon": "Immutable subjects",
+      "layman": "Unchanging people or groups"
+    }
+  ]
+}

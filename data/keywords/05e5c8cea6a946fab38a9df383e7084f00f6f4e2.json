@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Basement rocks",
+      "layman": "Deep, ancient rock layers"
+    },
+    {
+      "jargon": "Caledonian rocks",
+      "layman": "Old mountain-building rocks"
+    },
+    {
+      "jargon": "Devonian rocks",
+      "layman": "Ancient sea rock layers"
+    },
+    {
+      "jargon": "Carboniferous rocks",
+      "layman": "Old coal-forming rock layers"
+    },
+    {
+      "jargon": "Vendian diamictites",
+      "layman": "Glacial till deposits"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Thrust faults",
+      "layman": "Faults that push rock layers"
+    },
+    {
+      "jargon": "Fault block",
+      "layman": "Piece of rock moved by fault"
+    },
+    {
+      "jargon": "Structural continuity",
+      "layman": "Geological features connected across faults"
+    },
+    {
+      "jargon": "Lithological units",
+      "layman": "Different rock types"
+    },
+    {
+      "jargon": "Stratigraphic relation",
+      "layman": "Layering sequence of rocks"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Complex fault system",
+      "layman": "Messed-up network of faults"
+    },
+    {
+      "jargon": "Steeply west-dipping faults",
+      "layman": "Faults dipping sharply west"
+    },
+    {
+      "jargon": "Tilloid successions",
+      "layman": "Glacial layer patterns"
+    },
+    {
+      "jargon": "Two-stage glaciation",
+      "layman": "Two phases of ice age"
+    },
+    {
+      "jargon": "Faults separate formations",
+      "layman": "Faults cut rock layers apart"
+    }
+  ]
+}

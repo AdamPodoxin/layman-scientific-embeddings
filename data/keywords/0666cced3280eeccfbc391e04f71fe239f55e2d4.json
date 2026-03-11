@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "EU constitutional referendum",
+      "layman": "Vote on EU constitution"
+    },
+    {
+      "jargon": "Voters",
+      "layman": "People who voted"
+    },
+    {
+      "jargon": "Semantic networks",
+      "layman": "Web of related ideas"
+    },
+    {
+      "jargon": "Public discourse",
+      "layman": "Public conversations"
+    },
+    {
+      "jargon": "Vote choices",
+      "layman": "Decisions to vote yes or no"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Focus group interviews",
+      "layman": "Group discussions with experts"
+    },
+    {
+      "jargon": "Cognitive connectionist perspective",
+      "layman": "How people link ideas in their minds"
+    },
+    {
+      "jargon": "Information environment",
+      "layman": "Sources of information people see"
+    },
+    {
+      "jargon": "Reframing arguments",
+      "layman": "Changing how arguments are presented"
+    },
+    {
+      "jargon": "Path across semantic networks",
+      "layman": "Tracing how ideas connect in thought"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Shared knowledge",
+      "layman": "Common understanding"
+    },
+    {
+      "jargon": "Strategic selection of frames",
+      "layman": "Choosing specific viewpoints"
+    },
+    {
+      "jargon": "Systematically different information",
+      "layman": "Different details used by yes/no voters"
+    },
+    {
+      "jargon": "Idiosyncratic concerns",
+      "layman": "Personal worries"
+    },
+    {
+      "jargon": "Understandings not determined by discourse",
+      "layman": "Decisions not fully shaped by public talk"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Aqueous ions",
+      "layman": "Ions in water"
+    },
+    {
+      "jargon": "Ionic entropies",
+      "layman": "Disorder of ions in water"
+    },
+    {
+      "jargon": "Positive ions",
+      "layman": "Positive charged ions"
+    },
+    {
+      "jargon": "Negative ions",
+      "layman": "Negative charged ions"
+    },
+    {
+      "jargon": "Heat of reaction",
+      "layman": "Energy change in a reaction"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical survey",
+      "layman": "Careful review of existing data"
+    },
+    {
+      "jargon": "Tabulated data",
+      "layman": "Organized list of measurements"
+    },
+    {
+      "jargon": "Free energies",
+      "layman": "Energy available for work"
+    },
+    {
+      "jargon": "Reactions involving ions",
+      "layman": "Chemical changes with ions"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering experimental results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Remarkably consistent values",
+      "layman": "Very similar results across studies"
+    },
+    {
+      "jargon": "Tabulated entropies",
+      "layman": "List of entropy values for ions"
+    },
+    {
+      "jargon": "Heats of reactions",
+      "layman": "Measured heat changes"
+    },
+    {
+      "jargon": "Free energies",
+      "layman": "Energy changes in reactions"
+    },
+    {
+      "jargon": "Consistent ionic entropies",
+      "layman": "Same level of disorder for ions"
+    }
+  ]
+}

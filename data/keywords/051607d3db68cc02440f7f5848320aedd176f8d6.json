@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Deaf biographers",
+      "layman": "Writers who are deaf"
+    },
+    {
+      "jargon": "French deaf community",
+      "layman": "Deaf people in France"
+    },
+    {
+      "jargon": "Auguste Bebian",
+      "layman": "Deaf educator"
+    },
+    {
+      "jargon": "Abbe de l'Epee",
+      "layman": "Deaf education pioneer"
+    },
+    {
+      "jargon": "Abbe Sicard",
+      "layman": "Deaf education figure"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Biographical writing",
+      "layman": "Writing someone's life story"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past events"
+    },
+    {
+      "jargon": "Personal narrative",
+      "layman": "Sharing personal experiences"
+    },
+    {
+      "jargon": "Cultural exploration",
+      "layman": "Exploring different cultures"
+    },
+    {
+      "jargon": "Self-reflection",
+      "layman": "Thinking about oneself"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Assimilation into society",
+      "layman": "Becoming like the hearing world"
+    },
+    {
+      "jargon": "Personal identity",
+      "layman": "Who you truly are"
+    },
+    {
+      "jargon": "Ambivalence about deafness",
+      "layman": "Mixed feelings about being deaf"
+    },
+    {
+      "jargon": "Heroic representation",
+      "layman": "Portraying people as role models"
+    },
+    {
+      "jargon": "Crossing the cultural divide",
+      "layman": "Bridging deaf and hearing worlds"
+    }
+  ]
+}

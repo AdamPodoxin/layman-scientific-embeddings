@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Neck pain",
+      "layman": "Pain in the neck"
+    },
+    {
+      "jargon": "Manual therapy",
+      "layman": "Hands-on spinal treatments"
+    },
+    {
+      "jargon": "Physical therapy",
+      "layman": "Exercise-based treatment for movement"
+    },
+    {
+      "jargon": "General practitioner",
+      "layman": "Primary care doctor"
+    },
+    {
+      "jargon": "Nonspecific neck pain",
+      "layman": "Neck pain without a clear cause"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Randomized controlled trial",
+      "layman": "Randomly assigned treatment test"
+    },
+    {
+      "jargon": "Block randomization",
+      "layman": "Random assignment in groups"
+    },
+    {
+      "jargon": "Blinded assessment",
+      "layman": "Doctors don't know who got what treatment"
+    },
+    {
+      "jargon": "Range-of-motion assessment",
+      "layman": "Measuring how far joints move"
+    },
+    {
+      "jargon": "Eclectic manual therapy",
+      "layman": "Mix of different hands-on techniques"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "68.3% resolved or much improved",
+      "layman": "Most patients felt better after treatment"
+    },
+    {
+      "jargon": "Perceived recovery",
+      "layman": "How patients feel their pain is improving"
+    },
+    {
+      "jargon": "Functional disability",
+      "layman": "Ability to do daily activities"
+    },
+    {
+      "jargon": "Pain reduction",
+      "layman": "Less pain reported"
+    },
+    {
+      "jargon": "Spinal mobility",
+      "layman": "How freely the spine moves"
+    }
+  ]
+}

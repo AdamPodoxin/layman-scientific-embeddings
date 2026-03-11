@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ecclesiology",
+      "layman": "Study of the church"
+    },
+    {
+      "jargon": "Trinitarian Pentecostal perspective",
+      "layman": "Belief in God as three persons"
+    },
+    {
+      "jargon": "Church as people of God\u2019s presence",
+      "layman": "Church as community of God\u2019s presence"
+    },
+    {
+      "jargon": "Holy Spirit",
+      "layman": "Spirit of God"
+    },
+    {
+      "jargon": "Power ecclesiology",
+      "layman": "Church as source of divine power"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Construct a rough sketch",
+      "layman": "Create a basic model"
+    },
+    {
+      "jargon": "Investigate",
+      "layman": "Explore carefully"
+    },
+    {
+      "jargon": "Examine challenges",
+      "layman": "Look at problems"
+    },
+    {
+      "jargon": "Analyze individualism",
+      "layman": "Study personal-centered culture"
+    },
+    {
+      "jargon": "Respond to address",
+      "layman": "Reply to a speech"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Church structures",
+      "layman": "Church organization"
+    },
+    {
+      "jargon": "Predominant problem of individualism",
+      "layman": "Main issue of self-centered culture"
+    },
+    {
+      "jargon": "Divine presence",
+      "layman": "God\u2019s presence among believers"
+    },
+    {
+      "jargon": "Divine power",
+      "layman": "God\u2019s active power"
+    },
+    {
+      "jargon": "Constructive aspects",
+      "layman": "Positive church features"
+    }
+  ]
+}

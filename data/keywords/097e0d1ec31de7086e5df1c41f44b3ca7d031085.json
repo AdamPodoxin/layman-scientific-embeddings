@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ecological-geochemical mapping",
+      "layman": "Mapping of nature and chemicals in land"
+    },
+    {
+      "jargon": "Environmental geochemical baseline",
+      "layman": "Natural chemical levels in soil and water"
+    },
+    {
+      "jargon": "Mineral resources",
+      "layman": "Natural rocks with valuable minerals"
+    },
+    {
+      "jargon": "Agricultural geochemistry",
+      "layman": "Chemicals in soil for farming"
+    },
+    {
+      "jargon": "Rational land use",
+      "layman": "Smart use of land for people and nature"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Ecological-geochemical mapping",
+      "layman": "Mapping of nature and chemicals in land"
+    },
+    {
+      "jargon": "Investigation of environmental geochemical baseline",
+      "layman": "Checking natural chemical levels"
+    },
+    {
+      "jargon": "Prognosis of mineral resources",
+      "layman": "Predicting where minerals are found"
+    },
+    {
+      "jargon": "Research on agricultural geochemistry",
+      "layman": "Studying soil chemicals for crops"
+    },
+    {
+      "jargon": "Regional programming",
+      "layman": "Planning for areas based on needs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Rational land use",
+      "layman": "Smart use of land for people and nature"
+    },
+    {
+      "jargon": "Environmental geochemical baseline",
+      "layman": "Natural chemical levels in soil and water"
+    },
+    {
+      "jargon": "Prognosis of mineral resources",
+      "layman": "Predicting where minerals are found"
+    },
+    {
+      "jargon": "Research on agricultural geochemistry",
+      "layman": "Studying soil chemicals for crops"
+    },
+    {
+      "jargon": "Human health related to environment",
+      "layman": "Health impact of natural chemicals"
+    }
+  ]
+}

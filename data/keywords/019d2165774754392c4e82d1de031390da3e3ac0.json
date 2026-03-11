@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bourgeois education",
+      "layman": "Middle-class education"
+    },
+    {
+      "jargon": "Lilliputians",
+      "layman": "Tiny people"
+    },
+    {
+      "jargon": "Feudal society",
+      "layman": "Old social system based on land and lords"
+    },
+    {
+      "jargon": "Bourgeois society",
+      "layman": "Middle-class society"
+    },
+    {
+      "jargon": "Gulliver",
+      "layman": "Traveler character"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Historical research",
+      "layman": "Studying the past to understand now"
+    },
+    {
+      "jargon": "Textual analysis",
+      "layman": "Examining a text closely"
+    },
+    {
+      "jargon": "Satirical discourse",
+      "layman": "Mocking serious ideas to expose flaws"
+    },
+    {
+      "jargon": "Pedagogical ideas",
+      "layman": "Teaching methods and beliefs"
+    },
+    {
+      "jargon": "Classical literary approach",
+      "layman": "Interpreting old literature deeply"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Social contradictions",
+      "layman": "Inequalities in society"
+    },
+    {
+      "jargon": "Transition movement",
+      "layman": "Change from old to new system"
+    },
+    {
+      "jargon": "Satire on English children's education",
+      "layman": "Mocking how children were taught"
+    },
+    {
+      "jargon": "Defense of feudal pedagogy",
+      "layman": "Protecting old teaching methods"
+    },
+    {
+      "jargon": "Universal classic approach",
+      "layman": "Using old texts to understand today's world"
+    }
+  ]
+}

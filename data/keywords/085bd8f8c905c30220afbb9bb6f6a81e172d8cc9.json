@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Drosophila",
+      "layman": "Fly model"
+    },
+    {
+      "jargon": "Aging process",
+      "layman": "Biological decline over time"
+    },
+    {
+      "jargon": "Genes",
+      "layman": "DNA instructions"
+    },
+    {
+      "jargon": "Invertebrate model systems",
+      "layman": "Simple animals used in research"
+    },
+    {
+      "jargon": "Caenorhabditis elegans",
+      "layman": "Nematode worm model"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Demography",
+      "layman": "Study of population changes"
+    },
+    {
+      "jargon": "Molecular genetics",
+      "layman": "Studying genes at the molecular level"
+    },
+    {
+      "jargon": "Epidemiology",
+      "layman": "Tracking disease spread"
+    },
+    {
+      "jargon": "Genetic analysis",
+      "layman": "Examining gene function"
+    },
+    {
+      "jargon": "Extensive genetic analysis",
+      "layman": "Deep gene testing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reinvigorate the field",
+      "layman": "Revive scientific interest"
+    },
+    {
+      "jargon": "Commonly held assumptions",
+      "layman": "Widespread beliefs"
+    },
+    {
+      "jargon": "Aging research renaissance",
+      "layman": "New era in aging studies"
+    },
+    {
+      "jargon": "Challenged assumptions",
+      "layman": "Disproved common ideas"
+    },
+    {
+      "jargon": "Intimate nature of aging",
+      "layman": "Deeply connected to life processes"
+    }
+  ]
+}

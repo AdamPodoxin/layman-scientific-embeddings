@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Density matrix",
+      "layman": "Matrix describing a system's state"
+    },
+    {
+      "jargon": "Statistical density pro-matrix",
+      "layman": "Deformed matrix for statistical systems"
+    },
+    {
+      "jargon": "Planck scale",
+      "layman": "Extremely tiny scale of space and time"
+    },
+    {
+      "jargon": "Quantum mechanics",
+      "layman": "Physics of tiny particles"
+    },
+    {
+      "jargon": "Statistical mechanics",
+      "layman": "Physics of large groups of particles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Deformation construction",
+      "layman": "Building a modified version"
+    },
+    {
+      "jargon": "Analogy to quantum results",
+      "layman": "Using quantum ideas to guide statistical model"
+    },
+    {
+      "jargon": "Explicit description",
+      "layman": "Clear and detailed explanation"
+    },
+    {
+      "jargon": "Low-temperature limit",
+      "layman": "Very cold conditions"
+    },
+    {
+      "jargon": "Canonical Gibbs distribution",
+      "layman": "Standard probability rule for energy states"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Complete analogy",
+      "layman": "Same structure and rules in both theories"
+    },
+    {
+      "jargon": "Ordinary statistical density matrix",
+      "layman": "Normal statistical state at cold temperatures"
+    },
+    {
+      "jargon": "Deformed object",
+      "layman": "Modified version of the original object"
+    },
+    {
+      "jargon": "High-temperature behavior",
+      "layman": "What happens when it's very hot"
+    },
+    {
+      "jargon": "Temperature limit",
+      "layman": "Behavior at specific temperature levels"
+    }
+  ]
+}

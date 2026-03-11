@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Abstract argumentation framework",
+      "layman": "Set of arguments and their relationships"
+    },
+    {
+      "jargon": "Extension",
+      "layman": "Group of arguments that follow specific rules"
+    },
+    {
+      "jargon": "Domain",
+      "layman": "Set of all possible arguments"
+    },
+    {
+      "jargon": "Enumeration",
+      "layman": "List of all possible groups"
+    },
+    {
+      "jargon": "Text file",
+      "layman": "Digital list of data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Representation of extensions",
+      "layman": "Ways to organize argument groups"
+    },
+    {
+      "jargon": "Empirical evaluation",
+      "layman": "Testing in real situations"
+    },
+    {
+      "jargon": "Comparison of enumerations",
+      "layman": "Checking differences between lists"
+    },
+    {
+      "jargon": "Memory and time efficiency",
+      "layman": "Fast and low-resource processing"
+    },
+    {
+      "jargon": "Proposed representation",
+      "layman": "New way to store argument groups"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient comparison",
+      "layman": "Faster matching of argument groups"
+    },
+    {
+      "jargon": "Memory and time efficient",
+      "layman": "Uses less memory and time"
+    },
+    {
+      "jargon": "Large number of enumerations",
+      "layman": "Many long lists of argument groups"
+    },
+    {
+      "jargon": "Existing solutions",
+      "layman": "Old methods used before"
+    },
+    {
+      "jargon": "Newly proposed representation",
+      "layman": "Improved method for organizing data"
+    }
+  ]
+}

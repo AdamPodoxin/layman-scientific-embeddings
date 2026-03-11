@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Computational problems",
+      "layman": "Tasks a machine must solve"
+    },
+    {
+      "jargon": "Interactive games",
+      "layman": "Games between machine and environment"
+    },
+    {
+      "jargon": "Machine",
+      "layman": "Computing device"
+    },
+    {
+      "jargon": "Environment",
+      "layman": "External conditions or inputs"
+    },
+    {
+      "jargon": "Elementary problems",
+      "layman": "Basic computational tasks"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Soundness and completeness proof",
+      "layman": "Proof that system correctly captures valid rules"
+    },
+    {
+      "jargon": "Deductive propositional system",
+      "layman": "Logical system for deriving truths"
+    },
+    {
+      "jargon": "Parallel operations",
+      "layman": "Running tasks at the same time"
+    },
+    {
+      "jargon": "Choice operations",
+      "layman": "Deciding between different options"
+    },
+    {
+      "jargon": "Axiomatization",
+      "layman": "Creating a set of rules for a system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Always computable problems",
+      "layman": "Problems that can always be solved"
+    },
+    {
+      "jargon": "Valid formulas",
+      "layman": "True logical statements in the system"
+    },
+    {
+      "jargon": "Logical operators",
+      "layman": "Rules for combining problems"
+    },
+    {
+      "jargon": "Computability logic",
+      "layman": "Theory of what can be computed"
+    },
+    {
+      "jargon": "Fragments of valid formulas",
+      "layman": "Smaller parts of logical truths"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "K\u00e4hler manifold",
+      "layman": "Special curved space"
+    },
+    {
+      "jargon": "Supersymmetric oscillator",
+      "layman": "Oscillator with symmetry"
+    },
+    {
+      "jargon": "Magnetic field",
+      "layman": "Constant magnetic field"
+    },
+    {
+      "jargon": "K\u00e4hler potential",
+      "layman": "Function defining space shape"
+    },
+    {
+      "jargon": "Complex projective space",
+      "layman": "Special type of geometric space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Supersymmetrization",
+      "layman": "Adding symmetry to a system"
+    },
+    {
+      "jargon": "Hamiltonian mechanics",
+      "layman": "System governed by energy"
+    },
+    {
+      "jargon": "Phase space extension",
+      "layman": "Expanding space to include new variables"
+    },
+    {
+      "jargon": "Symplectic structure",
+      "layman": "Structure defining dynamics"
+    },
+    {
+      "jargon": "Quantization",
+      "layman": "Turning classical system into quantum one"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Hidden symmetries",
+      "layman": "Undetected symmetries"
+    },
+    {
+      "jargon": "Non-standard supersymmetry",
+      "layman": "Unusual symmetry type"
+    },
+    {
+      "jargon": "Exactly-solvable system",
+      "layman": "System with exact solutions"
+    },
+    {
+      "jargon": "Quasi-exactly solvable",
+      "layman": "Partially solvable system"
+    },
+    {
+      "jargon": "N = 2 superalgebra",
+      "layman": "Two-part symmetry structure"
+    }
+  ]
+}

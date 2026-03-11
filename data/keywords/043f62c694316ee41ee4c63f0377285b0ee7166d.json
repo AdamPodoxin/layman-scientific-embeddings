@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bipartite graph",
+      "layman": "Two groups of nodes connected only between groups"
+    },
+    {
+      "jargon": "Right-degree d",
+      "layman": "Each right node connects to d left nodes"
+    },
+    {
+      "jargon": "Input bits",
+      "layman": "Starting binary values"
+    },
+    {
+      "jargon": "Output bits",
+      "layman": "Final binary values"
+    },
+    {
+      "jargon": "Random balanced bipartite graph",
+      "layman": "Randomly connected two groups of equal size"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Backtracking algorithms",
+      "layman": "Step-by-step guessing and checking"
+    },
+    {
+      "jargon": "Myopic backtracking",
+      "layman": "Only looks one step ahead"
+    },
+    {
+      "jargon": "Drunk backtracking",
+      "layman": "Randomly wobbly path search"
+    },
+    {
+      "jargon": "DPLL elimination rules",
+      "layman": "Rules to simplify logic problems"
+    },
+    {
+      "jargon": "SAT solver",
+      "layman": "Computer that solves logic puzzles"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Expected size of preimage",
+      "layman": "Average number of possible inputs"
+    },
+    {
+      "jargon": "Exponential time",
+      "layman": "Time doubles rapidly with input size"
+    },
+    {
+      "jargon": "One-way function",
+      "layman": "Hard to reverse, easy to compute"
+    },
+    {
+      "jargon": "Inverting the function",
+      "layman": "Finding original input from output"
+    },
+    {
+      "jargon": "Exponential increase in running time",
+      "layman": "Time grows extremely fast"
+    }
+  ]
+}

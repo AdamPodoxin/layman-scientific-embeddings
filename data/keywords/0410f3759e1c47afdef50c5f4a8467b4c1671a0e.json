@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Gothic novel",
+      "layman": "Gothic novel"
+    },
+    {
+      "jargon": "Feminine power",
+      "layman": "Women's strength"
+    },
+    {
+      "jargon": "Second-wave feminism",
+      "layman": "Women's rights movement"
+    },
+    {
+      "jargon": "Third-wave feminism",
+      "layman": "New women's movement"
+    },
+    {
+      "jargon": "Villain-hero",
+      "layman": "Bad guy and hero"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Feminist perspective",
+      "layman": "Women's point of view"
+    },
+    {
+      "jargon": "Postmodern point of view",
+      "layman": "Modern, flexible thinking"
+    },
+    {
+      "jargon": "Gender conflicts",
+      "layman": "Tension between genders"
+    },
+    {
+      "jargon": "Narrative structure",
+      "layman": "Story pattern"
+    },
+    {
+      "jargon": "Cultural history",
+      "layman": "History of culture"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Critique of second-wave feminism",
+      "layman": "Challenge to old women's rights ideas"
+    },
+    {
+      "jargon": "Subversion of classic gothic structure",
+      "layman": "Breaking traditional story rules"
+    },
+    {
+      "jargon": "Social role",
+      "layman": "Role in society"
+    },
+    {
+      "jargon": "Biological sex",
+      "layman": "Physical gender"
+    },
+    {
+      "jargon": "Gender politics",
+      "layman": "How gender affects society"
+    }
+  ]
+}

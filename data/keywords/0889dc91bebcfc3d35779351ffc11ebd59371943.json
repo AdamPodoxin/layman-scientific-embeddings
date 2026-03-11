@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software engineering",
+      "layman": "Building software systematically"
+    },
+    {
+      "jargon": "Automotive systems",
+      "layman": "Car control systems"
+    },
+    {
+      "jargon": "Embedded systems",
+      "layman": "Software in devices that run on hardware"
+    },
+    {
+      "jargon": "Real-time systems",
+      "layman": "Systems that respond instantly"
+    },
+    {
+      "jargon": "Safety-critical systems",
+      "layman": "Systems where failure could be dangerous"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Model-driven development",
+      "layman": "Designing software using models"
+    },
+    {
+      "jargon": "Formal verification",
+      "layman": "Mathematically proving software works correctly"
+    },
+    {
+      "jargon": "Requirements analysis",
+      "layman": "Figuring out what the software needs to do"
+    },
+    {
+      "jargon": "Code refactoring",
+      "layman": "Improving software code without changing function"
+    },
+    {
+      "jargon": "Integration testing",
+      "layman": "Testing how different software parts work together"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved reliability",
+      "layman": "Software works consistently"
+    },
+    {
+      "jargon": "Reduced failure rate",
+      "layman": "Fewer system crashes"
+    },
+    {
+      "jargon": "Enhanced safety",
+      "layman": "Safer car operations"
+    },
+    {
+      "jargon": "Scalable architecture",
+      "layman": "System that grows without breaking"
+    },
+    {
+      "jargon": "Cross-platform compatibility",
+      "layman": "Works on different devices"
+    }
+  ]
+}

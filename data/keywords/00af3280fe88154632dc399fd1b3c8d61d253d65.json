@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Female flight attendants",
+      "layman": "Women working in airlines"
+    },
+    {
+      "jargon": "Male personnel",
+      "layman": "Men in the workplace"
+    },
+    {
+      "jargon": "Higher-status personnel",
+      "layman": "Men with more power or authority"
+    },
+    {
+      "jargon": "Equal-status personnel",
+      "layman": "Men at the same level as women"
+    },
+    {
+      "jargon": "Lower-status personnel",
+      "layman": "Men with less power or authority"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Perception-based survey",
+      "layman": "Women report what they observe"
+    },
+    {
+      "jargon": "Affective response rating",
+      "layman": "How strongly people feel emotions"
+    },
+    {
+      "jargon": "Hypothetical scenario testing",
+      "layman": "Imagined situations about harassment"
+    },
+    {
+      "jargon": "Socio-sexual behavior tracking",
+      "layman": "Recording sexual workplace actions"
+    },
+    {
+      "jargon": "Social exchange theory",
+      "layman": "People weigh benefits and costs of interactions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Negative affective state",
+      "layman": "Strong negative emotions"
+    },
+    {
+      "jargon": "Moderate verbal and physical harassment",
+      "layman": "Mild to strong words and touching"
+    },
+    {
+      "jargon": "No differential effect by status",
+      "layman": "Status doesn't change feelings"
+    },
+    {
+      "jargon": "Status has no effect on mild harassment",
+      "layman": "Low status doesn't matter for mild acts"
+    },
+    {
+      "jargon": "Most negative response to lower-status harassment",
+      "layman": "Worst feelings when low-status men act"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Electric Power",
+      "layman": "Electric power"
+    },
+    {
+      "jargon": "Energy research",
+      "layman": "Study of energy"
+    },
+    {
+      "jargon": "National Science Foundation",
+      "layman": "NSF"
+    },
+    {
+      "jargon": "Educational activities",
+      "layman": "Teaching and learning programs"
+    },
+    {
+      "jargon": "Research and education program",
+      "layman": "Research and teaching initiative"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Transfer of research",
+      "layman": "Moving research into classrooms"
+    },
+    {
+      "jargon": "Best practices",
+      "layman": "Proven methods"
+    },
+    {
+      "jargon": "Overview",
+      "layman": "Summary"
+    },
+    {
+      "jargon": "Review",
+      "layman": "Looking at examples"
+    },
+    {
+      "jargon": "Panel paper",
+      "layman": "Group discussion paper"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Successful transfer",
+      "layman": "Research used in teaching"
+    },
+    {
+      "jargon": "Exhaustive survey",
+      "layman": "Complete list"
+    },
+    {
+      "jargon": "Attempt to review",
+      "layman": "Try to look at examples"
+    },
+    {
+      "jargon": "Program area",
+      "layman": "Focus area"
+    },
+    {
+      "jargon": "Examples of success",
+      "layman": "Success stories"
+    }
+  ]
+}

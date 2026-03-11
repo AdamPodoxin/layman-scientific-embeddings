@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Multi-layer enterprises",
+      "layman": "Complex business organizations"
+    },
+    {
+      "jargon": "Systemic competiveness",
+      "layman": "Overall competitive strength of a system"
+    },
+    {
+      "jargon": "Globalization",
+      "layman": "Worldwide economic integration"
+    },
+    {
+      "jargon": "Micro-economical level",
+      "layman": "Small business operations"
+    },
+    {
+      "jargon": "Macro-economical level",
+      "layman": "National economic conditions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Five concepts of international competitiveness",
+      "layman": "Five ways to measure global competitiveness"
+    },
+    {
+      "jargon": "Five layers of the capital of organizations",
+      "layman": "Five types of organizational resources"
+    },
+    {
+      "jargon": "Theoretical concepts",
+      "layman": "Ideas based on theory"
+    },
+    {
+      "jargon": "Reflection on globalization challenges",
+      "layman": "Looking back at global market problems"
+    },
+    {
+      "jargon": "General assumptions",
+      "layman": "Basic beliefs about how things work"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "New approach to competitiveness",
+      "layman": "New way to assess global strength"
+    },
+    {
+      "jargon": "Determinants of the surrounding environment",
+      "layman": "Factors affecting external conditions"
+    },
+    {
+      "jargon": "Competitive system",
+      "layman": "A system that supports business success"
+    },
+    {
+      "jargon": "Actions at different economic levels",
+      "layman": "Strategies across business sizes"
+    },
+    {
+      "jargon": "Benchmark for competitiveness",
+      "layman": "Standard to measure success"
+    }
+  ]
+}
