@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "chronic pelvic pain",
+      "layman": "long-term pelvic pain"
+    },
+    {
+      "jargon": "diffuse abdominal/pelvic pain",
+      "layman": "widespread abdominal or pelvic pain"
+    },
+    {
+      "jargon": "vulvovaginal pain",
+      "layman": "pain in the vulva or vagina"
+    },
+    {
+      "jargon": "cyclic pain",
+      "layman": "pain that comes with the menstrual cycle"
+    },
+    {
+      "jargon": "neuropathic pain",
+      "layman": "pain from nerve damage"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "analysis of covariance",
+      "layman": "statistical comparison adjusting for differences"
+    },
+    {
+      "jargon": "pairwise contrasts",
+      "layman": "comparing groups two at a time"
+    },
+    {
+      "jargon": "questionnaire data",
+      "layman": "survey responses"
+    },
+    {
+      "jargon": "gynecologist identification",
+      "layman": "doctor identifying pain type"
+    },
+    {
+      "jargon": "patient records",
+      "layman": "medical history files"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "greater health impairment",
+      "layman": "worse overall health"
+    },
+    {
+      "jargon": "more lifetime trauma",
+      "layman": "more past traumatic events"
+    },
+    {
+      "jargon": "poorer mental health status",
+      "layman": "worse mental well-being"
+    },
+    {
+      "jargon": "poorer physical health status",
+      "layman": "worse physical health"
+    },
+    {
+      "jargon": "endometriosis unrelated to health status",
+      "layman": "endometriosis doesn't affect health"
+    }
+  ]
+}

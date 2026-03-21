@@ -1,0 +1,108 @@
+{
+  "core_entities": [
+    {
+      "jargon": "lithologic associations",
+      "layman": "Types of rock groups"
+    },
+    {
+      "jargon": "sedimentary association",
+      "layman": "Rock layer group from ancient seas"
+    },
+    {
+      "jargon": "volcanic association",
+      "layman": "Rock group from volcanic activity"
+    },
+    {
+      "jargon": "sandstone",
+      "layman": "Grainy sand rock"
+    },
+    {
+      "jargon": "mudstone",
+      "layman": "Clay-like rock"
+    },
+    {
+      "jargon": "calcareous siltstone",
+      "layman": "Silt rock with calcium"
+    },
+    {
+      "jargon": "conglomerate",
+      "layman": "Rock with big pebbles"
+    },
+    {
+      "jargon": "olistostrome",
+      "layman": "Rock from falling debris"
+    },
+    {
+      "jargon": "basalt",
+      "layman": "Dark volcanic rock"
+    },
+    {
+      "jargon": "argillite",
+      "layman": "Clay-rich rock"
+    },
+    {
+      "jargon": "chert",
+      "layman": "Hard, silica rock"
+    },
+    {
+      "jargon": "limestone",
+      "layman": "Calcium rock from shells"
+    },
+    {
+      "jargon": "turbidity current",
+      "layman": "Underwater mud flow"
+    },
+    {
+      "jargon": "debris flow",
+      "layman": "Fast-moving rock and mud slide"
+    },
+    {
+      "jargon": "mid-outer submarine fan",
+      "layman": "Deep sea slope deposit"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "turbidity currents",
+      "layman": "Underwater mud flows"
+    },
+    {
+      "jargon": "debris flows",
+      "layman": "Fast rock and mud slides"
+    },
+    {
+      "jargon": "detrital framework modes",
+      "layman": "Rock grain patterns"
+    },
+    {
+      "jargon": "whole rock geochemistry",
+      "layman": "Chemical analysis of rock"
+    },
+    {
+      "jargon": "eroded from continental-margin magmatic arc",
+      "layman": "Rock worn from mountain volcanic zone"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "95% of outcrop",
+      "layman": "Most rock seen on surface"
+    },
+    {
+      "jargon": "5% of outcrop",
+      "layman": "Small amount of rock visible"
+    },
+    {
+      "jargon": "volumetrically insignificant",
+      "layman": "Small volume in total"
+    },
+    {
+      "jargon": "widely distributed",
+      "layman": "Spreads across area"
+    },
+    {
+      "jargon": "erupted in oceanic environment",
+      "layman": "Volcanoes in ocean setting"
+    }
+  ]
+}

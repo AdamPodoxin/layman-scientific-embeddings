@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "new genes",
+      "layman": "new genes"
+    },
+    {
+      "jargon": "exon shuffling",
+      "layman": "mixing gene pieces"
+    },
+    {
+      "jargon": "retroposition",
+      "layman": "copy-paste gene mechanism"
+    },
+    {
+      "jargon": "gene duplication",
+      "layman": "gene copying"
+    },
+    {
+      "jargon": "X-chromosome",
+      "layman": "X-chromosome"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "exon shuffling",
+      "layman": "mixing gene pieces"
+    },
+    {
+      "jargon": "retroposition",
+      "layman": "copy-paste gene mechanism"
+    },
+    {
+      "jargon": "gene duplication",
+      "layman": "gene copying"
+    },
+    {
+      "jargon": "positive Darwinian selection",
+      "layman": "natural selection favoring changes"
+    },
+    {
+      "jargon": "genome analysis",
+      "layman": "studying genome data"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "rapid changes in sequence",
+      "layman": "fast gene changes"
+    },
+    {
+      "jargon": "continuous evolution of function",
+      "layman": "function keeps changing"
+    },
+    {
+      "jargon": "adaptive evolution",
+      "layman": "evolution driven by adaptation"
+    },
+    {
+      "jargon": "male-specific functions",
+      "layman": "only in males"
+    },
+    {
+      "jargon": "new functions are not rare",
+      "layman": "new gene functions are common"
+    }
+  ]
+}

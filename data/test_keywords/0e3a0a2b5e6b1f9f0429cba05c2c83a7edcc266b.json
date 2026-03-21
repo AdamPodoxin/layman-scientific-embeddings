@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Oblique correction parameter S",
+      "layman": "Angle correction factor"
+    },
+    {
+      "jargon": "Walking technicolor theories",
+      "layman": "Theories about strong forces in particles"
+    },
+    {
+      "jargon": "Perturbative vacuum polarization function",
+      "layman": "Particle interaction function in vacuum"
+    },
+    {
+      "jargon": "Analytic continuation by duality",
+      "layman": "Duality-based math technique"
+    },
+    {
+      "jargon": "Technicolor theories",
+      "layman": "Theories about strong force particles"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Analytic Continuation by Duality (ACD)",
+      "layman": "Duality-based math technique"
+    },
+    {
+      "jargon": "Vacuum polarization function",
+      "layman": "How particles affect empty space"
+    },
+    {
+      "jargon": "Perturbative approach",
+      "layman": "Small disturbance calculations"
+    },
+    {
+      "jargon": "Estimation using ACD",
+      "layman": "Using ACD to guess values"
+    },
+    {
+      "jargon": "Mathematical continuation",
+      "layman": "Extending math beyond original range"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "S = 1/6\u03c0",
+      "layman": "Angle value of 1/6\u03c0"
+    },
+    {
+      "jargon": "Fails to reproduce result",
+      "layman": "Doesn't match known value"
+    },
+    {
+      "jargon": "Reliability questioned",
+      "layman": "Trust in method is in doubt"
+    },
+    {
+      "jargon": "Well-known result",
+      "layman": "Established value"
+    },
+    {
+      "jargon": "Estimate of S",
+      "layman": "Guess for angle factor"
+    }
+  ]
+}

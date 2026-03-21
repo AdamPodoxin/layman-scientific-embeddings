@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ni\u2013W alloy coatings",
+      "layman": "Nickel-tungsten metal layers"
+    },
+    {
+      "jargon": "Tungsten content",
+      "layman": "Amount of tungsten in the coating"
+    },
+    {
+      "jargon": "Grain size",
+      "layman": "Size of tiny crystal pieces"
+    },
+    {
+      "jargon": "Amorphous-like structure",
+      "layman": "No clear crystal pattern"
+    },
+    {
+      "jargon": "Ni4W precipitates",
+      "layman": "Tiny tungsten-nickel crystals"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Electro-deposition",
+      "layman": "Electroplating process"
+    },
+    {
+      "jargon": "XRD",
+      "layman": "X-ray diffraction test"
+    },
+    {
+      "jargon": "Annealing",
+      "layman": "Heating and cooling process"
+    },
+    {
+      "jargon": "Wear resistance test",
+      "layman": "Test of how well it resists rubbing"
+    },
+    {
+      "jargon": "Hardness measurement",
+      "layman": "Measure of how tough the material is"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Grain size decreased",
+      "layman": "Smaller crystal pieces formed"
+    },
+    {
+      "jargon": "Micro-hardness increased",
+      "layman": "Material became harder"
+    },
+    {
+      "jargon": "Hardness of 1293 Hv",
+      "layman": "Very high hardness value"
+    },
+    {
+      "jargon": "Better wear resistance",
+      "layman": "Lasts longer under friction"
+    },
+    {
+      "jargon": "Formation of Ni4W and NW precipitates",
+      "layman": "New tiny crystals formed after heating"
+    }
+  ]
+}

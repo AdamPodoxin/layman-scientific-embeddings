@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "New-to-market product innovation",
+      "layman": "New product launched in a market"
+    },
+    {
+      "jargon": "Firm performance",
+      "layman": "Company success"
+    },
+    {
+      "jargon": "Japanese National Innovation Survey",
+      "layman": "Japan's company innovation survey"
+    },
+    {
+      "jargon": "Technological spillovers",
+      "layman": "Tech benefits shared between companies"
+    },
+    {
+      "jargon": "Firm-level data",
+      "layman": "Company-specific data"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Firm-level innovation survey",
+      "layman": "Survey of individual companies"
+    },
+    {
+      "jargon": "Economic impact analysis",
+      "layman": "Measuring financial effects"
+    },
+    {
+      "jargon": "Account for spillovers",
+      "layman": "Consider shared tech benefits"
+    },
+    {
+      "jargon": "Data obtained from survey",
+      "layman": "Data collected through questionnaires"
+    },
+    {
+      "jargon": "Examine contribution",
+      "layman": "Check how much something helps"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Contributes to firm performance",
+      "layman": "Helps company succeed"
+    },
+    {
+      "jargon": "New insights on product innovation",
+      "layman": "New understanding of product development"
+    },
+    {
+      "jargon": "Innovation activities",
+      "layman": "Company's creative efforts"
+    },
+    {
+      "jargon": "Economic impact",
+      "layman": "Financial effect on business"
+    },
+    {
+      "jargon": "Extent of contribution",
+      "layman": "How much it helps"
+    }
+  ]
+}

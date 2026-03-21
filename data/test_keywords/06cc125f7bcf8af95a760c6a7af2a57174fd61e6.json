@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Probabilistic programs",
+      "layman": "Programs with random choices"
+    },
+    {
+      "jargon": "Resource consumption",
+      "layman": "How much a program uses resources"
+    },
+    {
+      "jargon": "Markov decision processes",
+      "layman": "Models of decision-making with randomness"
+    },
+    {
+      "jargon": "Operational semantics",
+      "layman": "How programs actually run"
+    },
+    {
+      "jargon": "Symbolic bounds",
+      "layman": "General rules for maximum usage"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Static analysis",
+      "layman": "Automatic program inspection"
+    },
+    {
+      "jargon": "Weakest preconditions",
+      "layman": "Best possible guarantees before a step"
+    },
+    {
+      "jargon": "Automatic amortized resource analysis",
+      "layman": "Efficient method to estimate long-term resource use"
+    },
+    {
+      "jargon": "Linear programming",
+      "layman": "Math tool to find optimal solutions"
+    },
+    {
+      "jargon": "Prototype implementation",
+      "layman": "Early working version of software"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Upper bounds on expected resource consumption",
+      "layman": "Maximum predicted resource use"
+    },
+    {
+      "jargon": "Multivariate polynomials in inputs",
+      "layman": "Math formulas based on inputs"
+    },
+    {
+      "jargon": "Precise constant factors",
+      "layman": "Accurate numbers in the bounds"
+    },
+    {
+      "jargon": "Optimal bounds for some programs",
+      "layman": "Perfectly accurate estimates for some cases"
+    },
+    {
+      "jargon": "Automatically derived bounds",
+      "layman": "Machine-generated usage limits"
+    }
+  ]
+}

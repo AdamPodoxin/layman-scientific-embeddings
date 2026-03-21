@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Dark energy",
+      "layman": "Mysterious energy driving universe expansion"
+    },
+    {
+      "jargon": "Equation of state",
+      "layman": "How pressure relates to energy density"
+    },
+    {
+      "jargon": "Cosmological constant",
+      "layman": "Constant energy filling space"
+    },
+    {
+      "jargon": "Quintessence",
+      "layman": "Dynamic energy field"
+    },
+    {
+      "jargon": "Supernovae",
+      "layman": "Exploding stars"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Nonparametric method",
+      "layman": "No fixed assumptions about shape"
+    },
+    {
+      "jargon": "Data re-analysis",
+      "layman": "Re-examining old data"
+    },
+    {
+      "jargon": "Parameter uncertainty",
+      "layman": "Uncertainty in model inputs"
+    },
+    {
+      "jargon": "Statistical fitting",
+      "layman": "Matching data to models"
+    },
+    {
+      "jargon": "Cosmic microwave background",
+      "layman": "Faint light from early universe"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "w < \u22121",
+      "layman": "Energy pressure stronger than expected"
+    },
+    {
+      "jargon": "w = \u22121",
+      "layman": "Perfectly constant energy"
+    },
+    {
+      "jargon": "Ruled out models",
+      "layman": "Certain theories are eliminated"
+    },
+    {
+      "jargon": "Low resolution data",
+      "layman": "Limited data quality"
+    },
+    {
+      "jargon": "Mean value of w",
+      "layman": "Average measured energy ratio"
+    }
+  ]
+}

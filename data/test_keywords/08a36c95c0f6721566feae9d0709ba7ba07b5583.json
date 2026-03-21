@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Stable models",
+      "layman": "Consistent solutions"
+    },
+    {
+      "jargon": "Abductive logic programming",
+      "layman": "Logic programming with assumptions"
+    },
+    {
+      "jargon": "Predicate definitions",
+      "layman": "Logic rules"
+    },
+    {
+      "jargon": "Abducibles",
+      "layman": "Assumptions in logic"
+    },
+    {
+      "jargon": "Planning problems",
+      "layman": "Decision problems involving steps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Logic programming paradigm",
+      "layman": "Programming with logical rules"
+    },
+    {
+      "jargon": "Non-monotonic semantics",
+      "layman": "Rules that can change with new info"
+    },
+    {
+      "jargon": "Constraint-based reasoning",
+      "layman": "Using limits to find solutions"
+    },
+    {
+      "jargon": "Rule sets",
+      "layman": "Collections of logic rules"
+    },
+    {
+      "jargon": "Declarative approach",
+      "layman": "Stating what to solve, not how"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Combinatorial problems",
+      "layman": "Complex choices with many options"
+    },
+    {
+      "jargon": "Search problems",
+      "layman": "Finding solutions through exploration"
+    },
+    {
+      "jargon": "Standard paradigm",
+      "layman": "Traditional logic programming"
+    },
+    {
+      "jargon": "Smooth extension",
+      "layman": "Natural extension without major change"
+    },
+    {
+      "jargon": "Radical departure",
+      "layman": "Complete shift from traditional methods"
+    }
+  ]
+}

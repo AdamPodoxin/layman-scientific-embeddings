@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Business models",
+      "layman": "Business models"
+    },
+    {
+      "jargon": "Markets",
+      "layman": "Marketplaces"
+    },
+    {
+      "jargon": "Firms",
+      "layman": "Companies"
+    },
+    {
+      "jargon": "Market-making",
+      "layman": "Creating new markets"
+    },
+    {
+      "jargon": "Nintendo",
+      "layman": "Nintendo"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Assimilation of literatures",
+      "layman": "Combining different research areas"
+    },
+    {
+      "jargon": "Examination of case",
+      "layman": "Studying a real example"
+    },
+    {
+      "jargon": "Media coverage",
+      "layman": "Public attention"
+    },
+    {
+      "jargon": "Framework analysis",
+      "layman": "Using a structure to understand ideas"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Summarizing existing research"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Market-making",
+      "layman": "New market creation"
+    },
+    {
+      "jargon": "Growth of the firm",
+      "layman": "Company expansion"
+    },
+    {
+      "jargon": "Implications for growth",
+      "layman": "Effects on company development"
+    },
+    {
+      "jargon": "Tool for market-making",
+      "layman": "Method to build markets"
+    },
+    {
+      "jargon": "Way forward",
+      "layman": "Future direction"
+    }
+  ]
+}

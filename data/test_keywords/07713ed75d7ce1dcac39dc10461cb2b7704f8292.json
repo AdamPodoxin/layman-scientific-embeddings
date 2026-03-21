@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Down's syndrome",
+      "layman": "Down's syndrome"
+    },
+    {
+      "jargon": "Parents",
+      "layman": "Parents"
+    },
+    {
+      "jargon": "Children",
+      "layman": "Children"
+    },
+    {
+      "jargon": "Early intervention",
+      "layman": "Early support"
+    },
+    {
+      "jargon": "Conventional therapy services",
+      "layman": "Standard therapies"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Questionnaire",
+      "layman": "Survey"
+    },
+    {
+      "jargon": "Discussion with other parents",
+      "layman": "Talking with other parents"
+    },
+    {
+      "jargon": "Developmental potential",
+      "layman": "How much a child can grow and learn"
+    },
+    {
+      "jargon": "Cosmetic surgery",
+      "layman": "Aesthetic surgery"
+    },
+    {
+      "jargon": "Megavitamin therapy",
+      "layman": "High-dose vitamin treatment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Strong support for early intervention",
+      "layman": "High support for early help"
+    },
+    {
+      "jargon": "Increasing support for cosmetic surgery",
+      "layman": "More support for appearance surgery"
+    },
+    {
+      "jargon": "Unsupported therapies",
+      "layman": "Unproven treatments"
+    },
+    {
+      "jargon": "Underestimate developmental potential",
+      "layman": "Think children can't grow as much as they can"
+    },
+    {
+      "jargon": "Support for conventional therapy services",
+      "layman": "Support for standard therapies"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Evolving algebras",
+      "layman": "Algebras that change over time"
+    },
+    {
+      "jargon": "Partial evaluator",
+      "layman": "Tool that simplifies code"
+    },
+    {
+      "jargon": "University of Michigan",
+      "layman": "University of Michigan"
+    },
+    {
+      "jargon": "Automated system",
+      "layman": "Self-running process"
+    },
+    {
+      "jargon": "Algebra",
+      "layman": "Mathematical system with rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Automated partial evaluation",
+      "layman": "Auto-simplifying code"
+    },
+    {
+      "jargon": "Implementation",
+      "layman": "Putting a system into action"
+    },
+    {
+      "jargon": "Evolving",
+      "layman": "Changing over time"
+    },
+    {
+      "jargon": "Partial evaluation",
+      "layman": "Simplifying a program part by part"
+    },
+    {
+      "jargon": "System design",
+      "layman": "Building a working system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Implemented at University of Michigan",
+      "layman": "Built and tested at the university"
+    },
+    {
+      "jargon": "Automated",
+      "layman": "Runs without human input"
+    },
+    {
+      "jargon": "Evolving algebras",
+      "layman": "Changing mathematical systems"
+    },
+    {
+      "jargon": "Partial evaluator",
+      "layman": "Code simplifier tool"
+    },
+    {
+      "jargon": "Functional system",
+      "layman": "Working system that performs tasks"
+    }
+  ]
+}

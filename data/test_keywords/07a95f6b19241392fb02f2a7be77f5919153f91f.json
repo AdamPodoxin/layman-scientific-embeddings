@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Simplicial presheaves",
+      "layman": "Sheaves built from simple shapes"
+    },
+    {
+      "jargon": "Grothendieck site",
+      "layman": "Mathematical space with structure"
+    },
+    {
+      "jargon": "Closed model structure",
+      "layman": "Framework for mathematical operations"
+    },
+    {
+      "jargon": "Category",
+      "layman": "Collection of objects and connections"
+    },
+    {
+      "jargon": "Boolean localization",
+      "layman": "Simplification using logic rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Proof",
+      "layman": "Logical argument showing something is true"
+    },
+    {
+      "jargon": "Principle of Boolean localization",
+      "layman": "Using logic to simplify math objects"
+    },
+    {
+      "jargon": "Standard model structure",
+      "layman": "Established framework for operations"
+    },
+    {
+      "jargon": "Mathematical structure",
+      "layman": "Pattern in math objects"
+    },
+    {
+      "jargon": "Localization",
+      "layman": "Focusing on specific parts of a system"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Existence of standard closed model structure",
+      "layman": "Proven framework works universally"
+    },
+    {
+      "jargon": "Arbitrary Grothendieck site",
+      "layman": "Works on any mathematical setup"
+    },
+    {
+      "jargon": "New proof",
+      "layman": "New logical demonstration"
+    },
+    {
+      "jargon": "Mathematical classification",
+      "layman": "Categorization of math objects"
+    },
+    {
+      "jargon": "Existence",
+      "layman": "Something is shown to be real"
+    }
+  ]
+}

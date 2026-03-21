@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Art installation",
+      "layman": "Art installation"
+    },
+    {
+      "jargon": "Composting area",
+      "layman": "Place where waste breaks down"
+    },
+    {
+      "jargon": "Pollination",
+      "layman": "Flowers being fertilized by insects"
+    },
+    {
+      "jargon": "Subject of sense experience",
+      "layman": "Person having a sensory experience"
+    },
+    {
+      "jargon": "Material processes",
+      "layman": "Natural processes in the environment"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Viewer-object relations",
+      "layman": "Artwork and viewer interacting"
+    },
+    {
+      "jargon": "Public participation",
+      "layman": "People joining in on art"
+    },
+    {
+      "jargon": "Co-completion of meaning",
+      "layman": "Shared creation of meaning"
+    },
+    {
+      "jargon": "Openness to participation",
+      "layman": "Being open to people joining in"
+    },
+    {
+      "jargon": "Indifference to participation",
+      "layman": "Not caring if people join"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Non-subject-dependent reality",
+      "layman": "Reality that doesn't need people to exist"
+    },
+    {
+      "jargon": "Participatory regime of art",
+      "layman": "Art that depends on people joining"
+    },
+    {
+      "jargon": "Relational aesthetics",
+      "layman": "Art built on viewer connections"
+    },
+    {
+      "jargon": "Political claims",
+      "layman": "Ideas about power or society"
+    },
+    {
+      "jargon": "Reconfigurations of the subject",
+      "layman": "Changing who is seen as the viewer"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Veil",
+      "layman": "Clothing covering the head or face"
+    },
+    {
+      "jargon": "Contemporary visual arts",
+      "layman": "Modern art forms"
+    },
+    {
+      "jargon": "Photographic depictions",
+      "layman": "Photos of people"
+    },
+    {
+      "jargon": "Postrevolutionary Iran",
+      "layman": "Iran after a revolution"
+    },
+    {
+      "jargon": "Gender segregation",
+      "layman": "Separation by gender"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Autobiographical writing",
+      "layman": "Writing about personal experiences"
+    },
+    {
+      "jargon": "Political analysis",
+      "layman": "Examining power and society"
+    },
+    {
+      "jargon": "Historical examination",
+      "layman": "Looking at the past"
+    },
+    {
+      "jargon": "Art historical precedents",
+      "layman": "Past art examples"
+    },
+    {
+      "jargon": "Representation in media",
+      "layman": "How things are shown in images"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Voyeuristic interest",
+      "layman": "Curiosity about the unfamiliar"
+    },
+    {
+      "jargon": "Changing reception of veil imagery",
+      "layman": "How images of veils are now seen"
+    },
+    {
+      "jargon": "Photographic depictions of body in landscape",
+      "layman": "Photos of people in nature"
+    },
+    {
+      "jargon": "Codes of modesty",
+      "layman": "Rules about modest dress"
+    },
+    {
+      "jargon": "Art exhibition",
+      "layman": "Show of artworks"
+    }
+  ]
+}

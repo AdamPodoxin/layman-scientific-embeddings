@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Disputed asset",
+      "layman": "Contested property"
+    },
+    {
+      "jargon": "Legal ownership",
+      "layman": "Who legally owns something"
+    },
+    {
+      "jargon": "Litigants",
+      "layman": "People in a lawsuit"
+    },
+    {
+      "jargon": "Court",
+      "layman": "Judicial system"
+    },
+    {
+      "jargon": "Attorney",
+      "layman": "Lawyer"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Auction-theoretic framework",
+      "layman": "Modeling lawsuits like auctions"
+    },
+    {
+      "jargon": "Symmetric litigation environment",
+      "layman": "Equal rules for both sides"
+    },
+    {
+      "jargon": "Equilibrium legal expenditures",
+      "layman": "Stable spending levels in lawsuits"
+    },
+    {
+      "jargon": "Continuum of legal systems",
+      "layman": "Range of possible legal rules"
+    },
+    {
+      "jargon": "Rational litigants",
+      "layman": "Sensible parties who act in self-interest"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "British rule",
+      "layman": "British rule"
+    },
+    {
+      "jargon": "American rule",
+      "layman": "American rule"
+    },
+    {
+      "jargon": "Legal reforms",
+      "layman": "New legal rules"
+    },
+    {
+      "jargon": "Best case presentation",
+      "layman": "Strongest argument made"
+    },
+    {
+      "jargon": "Court observes case quality",
+      "layman": "Court sees how well each side argues"
+    }
+  ]
+}

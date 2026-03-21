@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Topological diagonalizations",
+      "layman": "Topological diagonalizations"
+    },
+    {
+      "jargon": "Open covers",
+      "layman": "Collections of open sets covering a space"
+    },
+    {
+      "jargon": "Sequences of open covers",
+      "layman": "Lists of open sets covering a space over time"
+    },
+    {
+      "jargon": "Rudin-Keisler ordering",
+      "layman": "Way of comparing filter structures"
+    },
+    {
+      "jargon": "Filters",
+      "layman": "Collections of sets with shared properties"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Diagonalization properties",
+      "layman": "Testing how properties behave under changes"
+    },
+    {
+      "jargon": "Taking unions",
+      "layman": "Combining sets together"
+    },
+    {
+      "jargon": "Finite or countable unions",
+      "layman": "Adding a finite or countable number of sets"
+    },
+    {
+      "jargon": "Near Coherence of Filters (NCF)",
+      "layman": "A rule about how filters relate to each other"
+    },
+    {
+      "jargon": "Surveying known results",
+      "layman": "Reviewing previous findings"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Closed under countable unions",
+      "layman": "Stays true when combining countably many sets"
+    },
+    {
+      "jargon": "Not provably closed under finite unions",
+      "layman": "Doesn't always hold when combining a few sets"
+    },
+    {
+      "jargon": "Consistently closed under unions below continuum",
+      "layman": "Works under certain large set conditions"
+    },
+    {
+      "jargon": "Settle the problem",
+      "layman": "Resolve the open question"
+    },
+    {
+      "jargon": "Combinatorial version of the problem",
+      "layman": "A simplified mathematical version of the issue"
+    }
+  ]
+}

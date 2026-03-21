@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ectopic pregnancy",
+      "layman": "Pregnancy outside the uterus"
+    },
+    {
+      "jargon": "Antineoplastic drugs",
+      "layman": "Cancer-fighting drugs"
+    },
+    {
+      "jargon": "Operating-theatre staff",
+      "layman": "Hospital staff in surgery rooms"
+    },
+    {
+      "jargon": "Nurses",
+      "layman": "Hospital nurses"
+    },
+    {
+      "jargon": "Ionising radiation",
+      "layman": "High-energy radiation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Chi-square analysis",
+      "layman": "Statistical test for associations"
+    },
+    {
+      "jargon": "Logistic regression",
+      "layman": "Statistical model for risk prediction"
+    },
+    {
+      "jargon": "Survey",
+      "layman": "Questionnaire study"
+    },
+    {
+      "jargon": "Odds ratio",
+      "layman": "Risk comparison between groups"
+    },
+    {
+      "jargon": "Confidence interval",
+      "layman": "Range of likely values"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ectopic pregnancy incidence",
+      "layman": "Rate of ectopic pregnancies"
+    },
+    {
+      "jargon": "Odds ratio of 10.0",
+      "layman": "10 times higher risk"
+    },
+    {
+      "jargon": "p < 0.02",
+      "layman": "Statistically significant link"
+    },
+    {
+      "jargon": "Small number of ectopic pregnancies",
+      "layman": "Few cases studied"
+    },
+    {
+      "jargon": "Widened confidence intervals",
+      "layman": "Uncertain result range"
+    }
+  ]
+}

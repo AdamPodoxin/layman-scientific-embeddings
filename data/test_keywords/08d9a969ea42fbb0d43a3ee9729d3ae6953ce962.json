@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Problem-solving entities",
+      "layman": "AI systems that solve problems"
+    },
+    {
+      "jargon": "Processing entities",
+      "layman": "Systems that handle data and operations"
+    },
+    {
+      "jargon": "Feedback control circuits",
+      "layman": "Circuits that adjust behavior based on output"
+    },
+    {
+      "jargon": "Biological distributed systems",
+      "layman": "Natural systems where parts work together"
+    },
+    {
+      "jargon": "Expert-systems",
+      "layman": "AI systems that mimic expert decision-making"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Closed loop feedback",
+      "layman": "System that adjusts based on real-time results"
+    },
+    {
+      "jargon": "Differential equations",
+      "layman": "Math equations modeling change over time"
+    },
+    {
+      "jargon": "Popov criterion",
+      "layman": "Rule to check system stability"
+    },
+    {
+      "jargon": "Lyapunov method",
+      "layman": "Tool to test if a system stays stable"
+    },
+    {
+      "jargon": "Hopf bifurcation theorem",
+      "layman": "Math rule for when systems start oscillating"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Oscillations with damping",
+      "layman": "Oscillations that slowly fade away"
+    },
+    {
+      "jargon": "Oscillations without damping",
+      "layman": "Oscillations that continue forever"
+    },
+    {
+      "jargon": "Permanent adjusted production",
+      "layman": "Stable, steady output over time"
+    },
+    {
+      "jargon": "Balance between antagonistic entities",
+      "layman": "Equilibrium between opposing forces"
+    },
+    {
+      "jargon": "Coherent distributed network",
+      "layman": "Well-connected, stable system of parts"
+    }
+  ]
+}

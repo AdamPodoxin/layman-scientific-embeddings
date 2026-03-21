@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Travel writings",
+      "layman": "Journeys written down"
+    },
+    {
+      "jargon": "Travel fellowship",
+      "layman": "Funding for travel"
+    },
+    {
+      "jargon": "Diary record",
+      "layman": "Personal journal"
+    },
+    {
+      "jargon": "Orientalist forces",
+      "layman": "Western views of Eastern cultures"
+    },
+    {
+      "jargon": "Historical narratives",
+      "layman": "Stories about the past"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Comparative reading",
+      "layman": "Comparing different texts"
+    },
+    {
+      "jargon": "Interrogating",
+      "layman": "Examining closely"
+    },
+    {
+      "jargon": "Narrative analysis",
+      "layman": "Studying stories"
+    },
+    {
+      "jargon": "Gender analysis",
+      "layman": "Looking at gender differences"
+    },
+    {
+      "jargon": "Subjectivity",
+      "layman": "Personal perspective"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Gender makes a difference",
+      "layman": "Women experience things differently"
+    },
+    {
+      "jargon": "Relationship to empire",
+      "layman": "How people see imperial power"
+    },
+    {
+      "jargon": "West's relationship to the East",
+      "layman": "Western view of Eastern countries"
+    },
+    {
+      "jargon": "Identity evident",
+      "layman": "Clear sense of self shown"
+    },
+    {
+      "jargon": "Discourses produced",
+      "layman": "Stories and ideas created"
+    }
+  ]
+}

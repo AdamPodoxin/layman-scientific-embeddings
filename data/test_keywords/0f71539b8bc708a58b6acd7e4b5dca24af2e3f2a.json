@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Extensional fuzzy numbers",
+      "layman": "Fuzzy numbers with clear boundaries"
+    },
+    {
+      "jargon": "MI-algebras",
+      "layman": "Mathematical structures for fuzzy arithmetic"
+    },
+    {
+      "jargon": "Mathematical morphology",
+      "layman": "Shape-based image analysis"
+    },
+    {
+      "jargon": "Real vectors",
+      "layman": "Sets of numbers representing directions or values"
+    },
+    {
+      "jargon": "Fuzzy numbers",
+      "layman": "Numbers with uncertain or blurred values"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Arithmetic framework",
+      "layman": "Math rules for fuzzy numbers"
+    },
+    {
+      "jargon": "Abstracting",
+      "layman": "Simplifying complex math into rules"
+    },
+    {
+      "jargon": "Algebraic framework",
+      "layman": "Mathematical structure for operations"
+    },
+    {
+      "jargon": "Developing theory",
+      "layman": "Building a mathematical explanation"
+    },
+    {
+      "jargon": "Studying general properties",
+      "layman": "Examining common behaviors in math systems"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Standard algebras",
+      "layman": "Common math systems that don't fit fuzzy cases"
+    },
+    {
+      "jargon": "General properties",
+      "layman": "Shared rules across different systems"
+    },
+    {
+      "jargon": "Framework for arithmetics",
+      "layman": "Math system that works for multiple types of numbers"
+    },
+    {
+      "jargon": "Appropriate structures",
+      "layman": "Math systems that fit real-world fuzzy data"
+    },
+    {
+      "jargon": "Non-appropriate algebras",
+      "layman": "Math systems that don't work well for fuzzy data"
+    }
+  ]
+}
