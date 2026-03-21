@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Life-world",
+      "layman": "Daily lived experience"
+    },
+    {
+      "jargon": "Modernity",
+      "layman": "Modern society and its structures"
+    },
+    {
+      "jargon": "Critical theory",
+      "layman": "Critical analysis of society"
+    },
+    {
+      "jargon": "Heidegger",
+      "layman": "Philosopher who studied being"
+    },
+    {
+      "jargon": "Frankfurt School",
+      "layman": "Group of social critics"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Ontology",
+      "layman": "Study of what exists"
+    },
+    {
+      "jargon": "Critique",
+      "layman": "Critical examination"
+    },
+    {
+      "jargon": "Reconciliation",
+      "layman": "Putting together different ideas"
+    },
+    {
+      "jargon": "Kantian critique",
+      "layman": "Critical analysis based on Kant's philosophy"
+    },
+    {
+      "jargon": "Lacanian perspective",
+      "layman": "View through Lacan's psychoanalytic lens"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Critical theory and reconciliation",
+      "layman": "Harmonizing different critical views"
+    },
+    {
+      "jargon": "Heidegger and Marxism",
+      "layman": "Linking existential philosophy with economic critique"
+    },
+    {
+      "jargon": "Psychoanalysis and critical theory",
+      "layman": "Connecting mental processes to social critique"
+    },
+    {
+      "jargon": "Heidegger and psychotherapy",
+      "layman": "Applying philosophy to mental health"
+    },
+    {
+      "jargon": "Adorno and Heidegger",
+      "layman": "Comparing two thinkers on society and being"
+    }
+  ]
+}

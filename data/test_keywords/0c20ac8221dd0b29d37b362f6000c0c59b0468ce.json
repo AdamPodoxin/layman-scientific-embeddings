@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Ni(+) ions",
+      "layman": "Nickel ions"
+    },
+    {
+      "jargon": "aminoacetonitrile",
+      "layman": "Precursor molecule to glycine"
+    },
+    {
+      "jargon": "glycine",
+      "layman": "Simple amino acid"
+    },
+    {
+      "jargon": "cyclic intermediate",
+      "layman": "Ring-shaped reaction stage"
+    },
+    {
+      "jargon": "potential energy surface",
+      "layman": "Energy landscape of a reaction"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "mass spectrometry",
+      "layman": "Measuring ion masses"
+    },
+    {
+      "jargon": "mass-analyzed ion kinetic energy (MIKE)",
+      "layman": "Ion speed measurement"
+    },
+    {
+      "jargon": "density functional theory (DFT)",
+      "layman": "Theoretical modeling of molecules"
+    },
+    {
+      "jargon": "B3LYP/6-311G(d,p) level",
+      "layman": "Computer simulation method"
+    },
+    {
+      "jargon": "unimolecular reactivity",
+      "layman": "Reaction within a single molecule"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "loss of HCN",
+      "layman": "Release of hydrogen cyanide"
+    },
+    {
+      "jargon": "loss of H\u2082",
+      "layman": "Release of hydrogen gas"
+    },
+    {
+      "jargon": "loss of H\u2082CNH",
+      "layman": "Release of hydrogen cyanide with hydrogen"
+    },
+    {
+      "jargon": "bond dissociation energy",
+      "layman": "Energy needed to break a bond"
+    },
+    {
+      "jargon": "dominant loss pathway",
+      "layman": "Main reaction route"
+    }
+  ]
+}

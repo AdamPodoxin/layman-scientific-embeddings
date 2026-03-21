@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Expert algorithms",
+      "layman": "Expert algorithms"
+    },
+    {
+      "jargon": "Policy sets",
+      "layman": "Sets of action rules"
+    },
+    {
+      "jargon": "Repeated matrix games",
+      "layman": "Repeated games with payoffs"
+    },
+    {
+      "jargon": "Average payoff",
+      "layman": "Average reward over time"
+    },
+    {
+      "jargon": "Future payoff",
+      "layman": "Expected future reward"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "E-HBA",
+      "layman": "E-HBA"
+    },
+    {
+      "jargon": "Type-based characterisation",
+      "layman": "Behavior pattern analysis"
+    },
+    {
+      "jargon": "Meta-algorithm",
+      "layman": "High-level algorithm that combines others"
+    },
+    {
+      "jargon": "Mixing past and future payoffs",
+      "layman": "Blending old and predicted rewards"
+    },
+    {
+      "jargon": "Predicted future payoff",
+      "layman": "Estimated future reward"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Improved performance",
+      "layman": "Better results"
+    },
+    {
+      "jargon": "Comprehensive set of games",
+      "layman": "Wide range of game scenarios"
+    },
+    {
+      "jargon": "Performance comparison",
+      "layman": "Side-by-side result analysis"
+    },
+    {
+      "jargon": "Significant improvement",
+      "layman": "Noticeable gain in results"
+    },
+    {
+      "jargon": "Agent typification",
+      "layman": "Categorizing agent behavior"
+    }
+  ]
+}

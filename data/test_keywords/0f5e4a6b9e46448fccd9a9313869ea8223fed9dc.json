@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Global knowledge economy",
+      "layman": "Global economy based on knowledge and skills"
+    },
+    {
+      "jargon": "High-skills workforce",
+      "layman": "People with advanced education and training"
+    },
+    {
+      "jargon": "Economic efficiency",
+      "layman": "Using resources in the most effective way"
+    },
+    {
+      "jargon": "Social justice",
+      "layman": "Fair treatment of all people in society"
+    },
+    {
+      "jargon": "Individual aspirations",
+      "layman": "Personal goals and dreams"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Examine",
+      "layman": "Analyze carefully"
+    },
+    {
+      "jargon": "Assess",
+      "layman": "Evaluate and judge"
+    },
+    {
+      "jargon": "Argue",
+      "layman": "Present a reasoned case"
+    },
+    {
+      "jargon": "Identify assumptions",
+      "layman": "Spot what is taken for granted"
+    },
+    {
+      "jargon": "Analyze relationships",
+      "layman": "Study how things are connected"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fundamental change",
+      "layman": "Major shift in how things work"
+    },
+    {
+      "jargon": "Public debates",
+      "layman": "Widespread discussions in society"
+    },
+    {
+      "jargon": "Policy debates",
+      "layman": "Government decision-making discussions"
+    },
+    {
+      "jargon": "Policy assumptions",
+      "layman": "Beliefs behind current policies"
+    },
+    {
+      "jargon": "Current views",
+      "layman": "Widespread beliefs about the economy"
+    }
+  ]
+}

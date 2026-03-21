@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Standard Model",
+      "layman": "Theory of fundamental particles"
+    },
+    {
+      "jargon": "QCD",
+      "layman": "Theory of strong force"
+    },
+    {
+      "jargon": "Electroweak symmetry breaking",
+      "layman": "How forces split into weak and electromagnetic"
+    },
+    {
+      "jargon": "Higgs sector",
+      "layman": "Part of theory that gives particles mass"
+    },
+    {
+      "jargon": "Higgs boson",
+      "layman": "Particle that gives mass to others"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "LHC",
+      "layman": "Large particle collider"
+    },
+    {
+      "jargon": "Conjecture",
+      "layman": "Unproven idea"
+    },
+    {
+      "jargon": "Verification",
+      "layman": "Testing to confirm"
+    },
+    {
+      "jargon": "Experimental validation",
+      "layman": "Proving through experiments"
+    },
+    {
+      "jargon": "New physics",
+      "layman": "Unknown laws of nature"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Higgs discovery",
+      "layman": "Finding the Higgs particle"
+    },
+    {
+      "jargon": "Discard the Higgs model",
+      "layman": "Reject the current mass theory"
+    },
+    {
+      "jargon": "More complicated reality",
+      "layman": "Complexer than expected"
+    },
+    {
+      "jargon": "Possible forms of new physics",
+      "layman": "Different ways new laws could appear"
+    },
+    {
+      "jargon": "LHC reveals new forms",
+      "layman": "LHC finds new types of particles or forces"
+    }
+  ]
+}

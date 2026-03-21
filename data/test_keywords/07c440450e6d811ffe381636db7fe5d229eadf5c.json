@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "universal values",
+      "layman": "common values everyone agrees on"
+    },
+    {
+      "jargon": "human nature",
+      "layman": "what makes humans fundamentally alike"
+    },
+    {
+      "jargon": "class and social properties",
+      "layman": "how society and class shape people"
+    },
+    {
+      "jargon": "social relations",
+      "layman": "how people connect through society"
+    },
+    {
+      "jargon": "democracy",
+      "layman": "system where people govern themselves"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "class analysis",
+      "layman": "studying society by class groups"
+    },
+    {
+      "jargon": "Marxist view",
+      "layman": "approach based on class and history"
+    },
+    {
+      "jargon": "class struggle",
+      "layman": "conflict between different social classes"
+    },
+    {
+      "jargon": "critical analysis",
+      "layman": "careful examination of ideas"
+    },
+    {
+      "jargon": "ideology critique",
+      "layman": "exposing false or misleading beliefs"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "abstract humanism",
+      "layman": "idealized view of humanity without context"
+    },
+    {
+      "jargon": "neo-colonial expansion",
+      "layman": "dominant countries spreading influence unfairly"
+    },
+    {
+      "jargon": "hypocritical nature",
+      "layman": "false claims that seem to hide real motives"
+    },
+    {
+      "jargon": "false universalism",
+      "layman": "claiming all people share values without proof"
+    },
+    {
+      "jargon": "Marxist approach",
+      "layman": "realistic view of human nature in society"
+    }
+  ]
+}

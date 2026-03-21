@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Disability",
+      "layman": "Disability"
+    },
+    {
+      "jargon": "Post-modernist ontology",
+      "layman": "Way of seeing reality through language"
+    },
+    {
+      "jargon": "Societal culture",
+      "layman": "Shared beliefs of society"
+    },
+    {
+      "jargon": "Power dynamics",
+      "layman": "Who holds influence in society"
+    },
+    {
+      "jargon": "Identity",
+      "layman": "Sense of self"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Workshop",
+      "layman": "Interactive learning session"
+    },
+    {
+      "jargon": "Textual methodology",
+      "layman": "Using written texts to explore ideas"
+    },
+    {
+      "jargon": "Self-contained text",
+      "layman": "A single, complete written piece"
+    },
+    {
+      "jargon": "Readership",
+      "layman": "How people engage with texts"
+    },
+    {
+      "jargon": "Narrative model",
+      "layman": "Story-based framework for understanding"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Perceived discrepancy",
+      "layman": "Gap between words and actions"
+    },
+    {
+      "jargon": "Language behavior",
+      "layman": "How people use language"
+    },
+    {
+      "jargon": "Stereotypes",
+      "layman": "Common false beliefs"
+    },
+    {
+      "jargon": "Relationship with society",
+      "layman": "How people connect to others"
+    },
+    {
+      "jargon": "Implications",
+      "layman": "Real-world consequences"
+    }
+  ]
+}

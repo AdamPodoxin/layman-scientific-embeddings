@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Magnetic thermoplastic nanofibers",
+      "layman": "Tiny magnetic fibers made from plastic"
+    },
+    {
+      "jargon": "Immiscible polymer blends",
+      "layman": "Two polymers that don't mix well"
+    },
+    {
+      "jargon": "Fe3O4 nanoparticles",
+      "layman": "Tiny magnetic particles"
+    },
+    {
+      "jargon": "PVA-co-PE",
+      "layman": "A special plastic blend"
+    },
+    {
+      "jargon": "Cellulose acetate butyrate matrix",
+      "layman": "A plastic base layer"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Melt extrusion",
+      "layman": "Heating and pushing plastic through a die"
+    },
+    {
+      "jargon": "Phase separation",
+      "layman": "Mixing materials that separate into layers"
+    },
+    {
+      "jargon": "Scanning electron microscopy",
+      "layman": "Microscope that takes images of tiny surfaces"
+    },
+    {
+      "jargon": "Transmission electron microscopy",
+      "layman": "Microscope that sees inside tiny materials"
+    },
+    {
+      "jargon": "Wide angle X-ray diffraction",
+      "layman": "Test that checks crystal structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Uniform dispersion of Fe3O4 nanoparticles",
+      "layman": "Even spread of magnetic particles"
+    },
+    {
+      "jargon": "Superparamagnetic behavior",
+      "layman": "Strong magnetic response at room temperature"
+    },
+    {
+      "jargon": "Saturation magnetization",
+      "layman": "Maximum magnetic strength"
+    },
+    {
+      "jargon": "Thermogravimetric analysis",
+      "layman": "Measures weight loss to find material amounts"
+    },
+    {
+      "jargon": "Potential applications in sensors and bio-molecular separation",
+      "layman": "Could be used in medical sensors or filtering molecules"
+    }
+  ]
+}

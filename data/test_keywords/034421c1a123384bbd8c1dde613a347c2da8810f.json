@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Positivism",
+      "layman": "Only facts from observation and measurement"
+    },
+    {
+      "jargon": "Psychological phenomena",
+      "layman": "Mental experiences and behaviors"
+    },
+    {
+      "jargon": "Philosophy of science",
+      "layman": "How science thinks about knowledge"
+    },
+    {
+      "jargon": "Quantitative imperative",
+      "layman": "Need to use numbers in research"
+    },
+    {
+      "jargon": "Methodolatry",
+      "layman": "Overreliance on a single method"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Quantitative research",
+      "layman": "Research using numbers"
+    },
+    {
+      "jargon": "Qualitative research",
+      "layman": "Research using words and stories"
+    },
+    {
+      "jargon": "Philosophical analysis",
+      "layman": "Thinking about science's foundations"
+    },
+    {
+      "jargon": "Disciplinary isolation",
+      "layman": "Fields working in silos"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering information from studies"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Misunderstandings in philosophy of science",
+      "layman": "Wrong beliefs about scientific methods"
+    },
+    {
+      "jargon": "Resistance to quantitative imperative",
+      "layman": "Refusing to only use numbers"
+    },
+    {
+      "jargon": "Non-quantifiable characteristics",
+      "layman": "Hard-to-measure mental traits"
+    },
+    {
+      "jargon": "Excesses of methodolatry",
+      "layman": "Going too far with one method"
+    },
+    {
+      "jargon": "Contextualization",
+      "layman": "Putting things in a broader setting"
+    }
+  ]
+}

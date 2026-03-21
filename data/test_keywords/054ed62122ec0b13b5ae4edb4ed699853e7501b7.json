@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Forensic psychiatric care",
+      "layman": "Psychiatric treatment in legal cases"
+    },
+    {
+      "jargon": "Gender relationships",
+      "layman": "How gender roles affect interactions"
+    },
+    {
+      "jargon": "Masculinities",
+      "layman": "Ways men are seen and acted upon"
+    },
+    {
+      "jargon": "Men's health",
+      "layman": "Health of men"
+    },
+    {
+      "jargon": "Caring work",
+      "layman": "Work of providing care"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Theoretical analysis",
+      "layman": "Analyzing ideas and concepts"
+    },
+    {
+      "jargon": "Daily interactions",
+      "layman": "Everyday conversations between staff and patients"
+    },
+    {
+      "jargon": "Construction of identities",
+      "layman": "How people see themselves"
+    },
+    {
+      "jargon": "Perception of health",
+      "layman": "How people view their own health"
+    },
+    {
+      "jargon": "Power relationships",
+      "layman": "Who holds control in a situation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Problematic health views",
+      "layman": "Unhealthy beliefs about well-being"
+    },
+    {
+      "jargon": "Gendered care practices",
+      "layman": "Care based on gender roles"
+    },
+    {
+      "jargon": "Equality in caring work",
+      "layman": "Fair treatment of men and women in care"
+    },
+    {
+      "jargon": "Safety emphasis",
+      "layman": "Focus on protecting people"
+    },
+    {
+      "jargon": "Health constructions",
+      "layman": "How health is defined in a group"
+    }
+  ]
+}

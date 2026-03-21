@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Differential lambda-mu-calculus",
+      "layman": "Extended logic system for computation"
+    },
+    {
+      "jargon": "Parigot's lambda-mu-calculus",
+      "layman": "Logic system for computation with control"
+    },
+    {
+      "jargon": "Ehrhard-Regnier's differential lambda-calculus",
+      "layman": "Logic system that tracks change in computation"
+    },
+    {
+      "jargon": "Reduction",
+      "layman": "Simplifying steps in computation"
+    },
+    {
+      "jargon": "Simply typed terms",
+      "layman": "Well-defined expressions in a system"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Church-Rosser property",
+      "layman": "Independent paths lead to same result"
+    },
+    {
+      "jargon": "Strong normalization",
+      "layman": "All computations eventually stop"
+    },
+    {
+      "jargon": "Proof of properties",
+      "layman": "Verifying system behaviors"
+    },
+    {
+      "jargon": "Extension of systems",
+      "layman": "Building on existing logic rules"
+    },
+    {
+      "jargon": "Reduction rules",
+      "layman": "Rules for simplifying expressions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Church-Rosser",
+      "layman": "All paths reach same outcome"
+    },
+    {
+      "jargon": "Strongly normalizing",
+      "layman": "All processes end in finite steps"
+    },
+    {
+      "jargon": "Reduction enjoys Church-Rosser",
+      "layman": "Simplification paths converge"
+    },
+    {
+      "jargon": "System extension",
+      "layman": "New system built from older ones"
+    },
+    {
+      "jargon": "Basic properties proven",
+      "layman": "Core behaviors confirmed"
+    }
+  ]
+}

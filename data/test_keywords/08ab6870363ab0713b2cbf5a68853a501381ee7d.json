@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Mount Simon Sandstone",
+      "layman": "Layer of sandstone"
+    },
+    {
+      "jargon": "Carbonate rock",
+      "layman": "Rock made of calcium carbonate"
+    },
+    {
+      "jargon": "Middle Run Formation",
+      "layman": "Type of rock layer"
+    },
+    {
+      "jargon": "Pre-Mount Simon rocks",
+      "layman": "Rocks below the sandstone"
+    },
+    {
+      "jargon": "Karst surface",
+      "layman": "Surface with sinkholes and caves"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Stratigraphic test hole",
+      "layman": "Drill hole to study rock layers"
+    },
+    {
+      "jargon": "Seismic lines",
+      "layman": "Sound waves to map underground rocks"
+    },
+    {
+      "jargon": "Cuttings analysis",
+      "layman": "Studying rock fragments from drill"
+    },
+    {
+      "jargon": "Seismic sections",
+      "layman": "Images from underground sound waves"
+    },
+    {
+      "jargon": "Hydrocarbon potential",
+      "layman": "Possibility of oil or gas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "1220 m thick carbonate unit",
+      "layman": "Carbonate layer 1.2 km deep"
+    },
+    {
+      "jargon": "Unconformity",
+      "layman": "Gap in rock layers"
+    },
+    {
+      "jargon": "Possible trap types",
+      "layman": "Potential oil or gas pockets"
+    },
+    {
+      "jargon": "Basin thickening",
+      "layman": "Basin getting wider and deeper"
+    },
+    {
+      "jargon": "Hydrocarbon production",
+      "layman": "Oil or gas can be extracted"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Berlin",
+      "layman": "Berlin"
+    },
+    {
+      "jargon": "East and West",
+      "layman": "East and West"
+    },
+    {
+      "jargon": "Soviet bloc",
+      "layman": "Soviet-aligned countries"
+    },
+    {
+      "jargon": "Western bloc",
+      "layman": "Western-aligned countries"
+    },
+    {
+      "jargon": "Germany",
+      "layman": "Germany"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Political tensions",
+      "layman": "Political tensions"
+    },
+    {
+      "jargon": "Strategic location",
+      "layman": "Strategic location"
+    },
+    {
+      "jargon": "Geographical division",
+      "layman": "Division by geography"
+    },
+    {
+      "jargon": "International politics",
+      "layman": "Global politics"
+    },
+    {
+      "jargon": "Concessions",
+      "layman": "Agreements or compromises"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Brink of open combat",
+      "layman": "Near war"
+    },
+    {
+      "jargon": "Symbol in political struggle",
+      "layman": "Symbol of conflict"
+    },
+    {
+      "jargon": "Sharply divided",
+      "layman": "Still split"
+    },
+    {
+      "jargon": "Muted political role",
+      "layman": "Less important now"
+    },
+    {
+      "jargon": "Essentially unchanged",
+      "layman": "Still the same"
+    }
+  ]
+}

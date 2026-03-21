@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Binary neutron stars",
+      "layman": "Two neutron stars orbiting each other"
+    },
+    {
+      "jargon": "Quasiequilibrium states",
+      "layman": "Nearly balanced, stable states"
+    },
+    {
+      "jargon": "Irrotational flow",
+      "layman": "Flow without rotation"
+    },
+    {
+      "jargon": "Relativistic hydrostatic equations",
+      "layman": "Equations for stable star shapes in strong gravity"
+    },
+    {
+      "jargon": "3+1 formalism",
+      "layman": "A way to split spacetime for computer simulations"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Relativistic hydrostatic equations",
+      "layman": "Equations for stable star shapes in strong gravity"
+    },
+    {
+      "jargon": "Numerical relativity",
+      "layman": "Simulating gravity with computers"
+    },
+    {
+      "jargon": "Post-Newtonian order",
+      "layman": "Refined approximation for gravity"
+    },
+    {
+      "jargon": "Derivation of equations",
+      "layman": "Creating new mathematical rules"
+    },
+    {
+      "jargon": "Computation in quasiequilibrium",
+      "layman": "Calculating stable star pairs over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Simpler and more tractable form",
+      "layman": "Easier to compute and use"
+    },
+    {
+      "jargon": "Different from previous equations",
+      "layman": "New and distinct mathematical form"
+    },
+    {
+      "jargon": "Hydrostatic equilibrium",
+      "layman": "Stars stay stable without collapsing"
+    },
+    {
+      "jargon": "First post-Newtonian order",
+      "layman": "More accurate gravity model"
+    },
+    {
+      "jargon": "Tractable computation",
+      "layman": "Can be calculated on computers"
+    }
+  ]
+}

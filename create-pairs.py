@@ -56,9 +56,6 @@ def get_terms_from_file(path: str):
 
 
 def save_pairs(pairs: list[tuple[str, str]], path: Path | str):
-    # df = pd.DataFrame(pairs, columns=["anchor", "positive"])
-    # df.to_parquet(path, compression="gzip", index=False)
-
     pairs_dict = {
         "anchor": [pair[0] for pair in pairs],
         "positive": [pair[1] for pair in pairs],

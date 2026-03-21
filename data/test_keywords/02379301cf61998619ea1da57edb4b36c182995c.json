@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Humanism",
+      "layman": "Belief in human values"
+    },
+    {
+      "jargon": "Philosophy",
+      "layman": "Study of life's big questions"
+    },
+    {
+      "jargon": "Human nature",
+      "layman": "Inherent human traits"
+    },
+    {
+      "jargon": "Freedom",
+      "layman": "Ability to make choices"
+    },
+    {
+      "jargon": "Destiny",
+      "layman": "Life's intended path"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful examination of ideas"
+    },
+    {
+      "jargon": "Ethical reasoning",
+      "layman": "Thinking about right and wrong"
+    },
+    {
+      "jargon": "Philosophical inquiry",
+      "layman": "Exploring ideas through discussion"
+    },
+    {
+      "jargon": "Moral life",
+      "layman": "Living with values and principles"
+    },
+    {
+      "jargon": "Knowledge and truth",
+      "layman": "Understanding what is real"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Scientific understanding",
+      "layman": "Clear explanation of nature"
+    },
+    {
+      "jargon": "Moral development",
+      "layman": "Growing sense of right and wrong"
+    },
+    {
+      "jargon": "Freedom of thought",
+      "layman": "Ability to think independently"
+    },
+    {
+      "jargon": "Human dignity",
+      "layman": "Respect for human worth"
+    },
+    {
+      "jargon": "Societal progress",
+      "layman": "Better society through reason"
+    }
+  ]
+}

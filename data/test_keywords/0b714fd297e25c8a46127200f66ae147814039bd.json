@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Adolescent",
+      "layman": "Teenager"
+    },
+    {
+      "jargon": "Parent-child relationship",
+      "layman": "Bond between parent and child"
+    },
+    {
+      "jargon": "Emotional crisis",
+      "layman": "Major emotional struggle"
+    },
+    {
+      "jargon": "Peer relationships",
+      "layman": "Relationships with friends"
+    },
+    {
+      "jargon": "Father-son dynamic",
+      "layman": "Father and son connection"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Psychodynamic perspective",
+      "layman": "Focus on unconscious emotions and early experiences"
+    },
+    {
+      "jargon": "Clinical work",
+      "layman": "Therapeutic intervention"
+    },
+    {
+      "jargon": "Contextualization",
+      "layman": "Placing events in a broader life picture"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "In-depth look at one person's situation"
+    },
+    {
+      "jargon": "Developmental trajectory",
+      "layman": "Path of growth over time"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "School refusal",
+      "layman": "Refusing to go to school"
+    },
+    {
+      "jargon": "Anxious engagement",
+      "layman": "Worrying interaction with others"
+    },
+    {
+      "jargon": "Emotional growth",
+      "layman": "Improving emotional skills"
+    },
+    {
+      "jargon": "Family dynamics",
+      "layman": "Patterns in family interactions"
+    },
+    {
+      "jargon": "Life context",
+      "layman": "Full picture of a person's life"
+    }
+  ]
+}

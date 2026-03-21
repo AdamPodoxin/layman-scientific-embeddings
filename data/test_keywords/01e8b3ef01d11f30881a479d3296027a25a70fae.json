@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Still-life painting",
+      "layman": "Painting of everyday objects"
+    },
+    {
+      "jargon": "Trompe l'oeil painting",
+      "layman": "Painting that looks like real objects"
+    },
+    {
+      "jargon": "American art",
+      "layman": "Art from the United States"
+    },
+    {
+      "jargon": "Colonial still lifes",
+      "layman": "Old paintings of food from early America"
+    },
+    {
+      "jargon": "Pop art",
+      "layman": "Popular culture art style"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Artistic representation",
+      "layman": "How artists show food in art"
+    },
+    {
+      "jargon": "Cultural critique",
+      "layman": "Using art to comment on society"
+    },
+    {
+      "jargon": "Historical analysis",
+      "layman": "Looking at past events through art"
+    },
+    {
+      "jargon": "Visual interpretation",
+      "layman": "Understanding meaning in images"
+    },
+    {
+      "jargon": "Recipe selection",
+      "layman": "Choosing old American recipes"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Reflection on society",
+      "layman": "Thoughts on culture and politics"
+    },
+    {
+      "jargon": "Expression of class",
+      "layman": "Show of social status"
+    },
+    {
+      "jargon": "Gender and race themes",
+      "layman": "Discussion of gender and race"
+    },
+    {
+      "jargon": "Commercialization of food",
+      "layman": "Food becoming a business"
+    },
+    {
+      "jargon": "Cultural history of Thanksgiving",
+      "layman": "History of Thanksgiving in America"
+    }
+  ]
+}

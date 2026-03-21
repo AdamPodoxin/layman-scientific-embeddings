@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Bipolar scales",
+      "layman": "Scales symmetric around zero"
+    },
+    {
+      "jargon": "t-conorms",
+      "layman": "Operations that combine values"
+    },
+    {
+      "jargon": "t-norms",
+      "layman": "Operations that combine values"
+    },
+    {
+      "jargon": "Uninorms",
+      "layman": "Generalized operations combining values"
+    },
+    {
+      "jargon": "Ordered Abelian groups",
+      "layman": "Mathematical structures with symmetry and order"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Endow with algebraic structure",
+      "layman": "Give mathematical rules to a set"
+    },
+    {
+      "jargon": "Build structure on t-conorms and t-norms",
+      "layman": "Create rules using combination operations"
+    },
+    {
+      "jargon": "Relate to uninorms",
+      "layman": "Connect to a broader mathematical framework"
+    },
+    {
+      "jargon": "Show that only strict t-norms build a group",
+      "layman": "Prove only certain rules allow group formation"
+    },
+    {
+      "jargon": "Connect to theory of ordered Abelian groups",
+      "layman": "Link to known mathematical symmetry rules"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Only way to build a group is strict t-norms",
+      "layman": "Only strict rules create group structure"
+    },
+    {
+      "jargon": "No way to build a ring",
+      "layman": "Ring structure cannot be formed"
+    },
+    {
+      "jargon": "Main result connected to ordered Abelian groups",
+      "layman": "Key finding tied to symmetry math"
+    },
+    {
+      "jargon": "Symmetric scales in decision making",
+      "layman": "Balanced scales for fair decisions"
+    },
+    {
+      "jargon": "Decision maker behavior symmetry",
+      "layman": "Symmetry in how people make choices"
+    }
+  ]
+}

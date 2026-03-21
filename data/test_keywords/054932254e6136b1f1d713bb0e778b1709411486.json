@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "XACML",
+      "layman": "Access control system"
+    },
+    {
+      "jargon": "Policy decision point",
+      "layman": "Decision maker for access rules"
+    },
+    {
+      "jargon": "Policy enforcement point",
+      "layman": "Enforcer of access rules"
+    },
+    {
+      "jargon": "BPEL",
+      "layman": "Workflow coordination language"
+    },
+    {
+      "jargon": "RDF",
+      "layman": "Data description format"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Policy coordination",
+      "layman": "Aligning access rules across systems"
+    },
+    {
+      "jargon": "Contextual information passing",
+      "layman": "Sharing extra details for decisions"
+    },
+    {
+      "jargon": "Policy evaluation",
+      "layman": "Checking if access is allowed"
+    },
+    {
+      "jargon": "Coordination using BPEL",
+      "layman": "Using workflow rules to sync actions"
+    },
+    {
+      "jargon": "Constructing and verifying RDF data",
+      "layman": "Building and checking data structure"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Policy compliance",
+      "layman": "Following access rules"
+    },
+    {
+      "jargon": "Synchronization among enforcement points",
+      "layman": "Keeping systems in sync"
+    },
+    {
+      "jargon": "Coordination across WWW",
+      "layman": "Working together across web services"
+    },
+    {
+      "jargon": "Decision beyond permit/deny",
+      "layman": "More detailed access decisions"
+    },
+    {
+      "jargon": "Error during evaluation",
+      "layman": "Problem when making a decision"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Software design",
+      "layman": "How software is built"
+    },
+    {
+      "jargon": "Value creation",
+      "layman": "Creating value for users or business"
+    },
+    {
+      "jargon": "Technical decisions",
+      "layman": "Engineering choices in software"
+    },
+    {
+      "jargon": "Organizational objectives",
+      "layman": "Company goals"
+    },
+    {
+      "jargon": "Information hiding",
+      "layman": "Hiding complex parts of software"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Software architecture",
+      "layman": "Software structure design"
+    },
+    {
+      "jargon": "Object-oriented design",
+      "layman": "Designing software with reusable parts"
+    },
+    {
+      "jargon": "Life-cycle models",
+      "layman": "Stages software goes through"
+    },
+    {
+      "jargon": "Economics-oriented models",
+      "layman": "Models linking cost to value"
+    },
+    {
+      "jargon": "Empirical bases",
+      "layman": "Real-world data used for testing"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cost reduction",
+      "layman": "Lower expenses"
+    },
+    {
+      "jargon": "Time-to-market",
+      "layman": "How fast software is released"
+    },
+    {
+      "jargon": "Value creation objectives",
+      "layman": "Goals to create value"
+    },
+    {
+      "jargon": "Technical-criteria disconnect",
+      "layman": "Gap between engineering and business goals"
+    },
+    {
+      "jargon": "Lack of models",
+      "layman": "Missing tools to predict value"
+    }
+  ]
+}

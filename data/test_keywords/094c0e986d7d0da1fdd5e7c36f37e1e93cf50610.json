@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Global fields",
+      "layman": "Broad mathematical number systems"
+    },
+    {
+      "jargon": "Polynomials",
+      "layman": "Mathematical expressions with variables"
+    },
+    {
+      "jargon": "Number fields",
+      "layman": "Number systems extending rationals"
+    },
+    {
+      "jargon": "Function fields",
+      "layman": "Fields based on functions"
+    },
+    {
+      "jargon": "Algorithms",
+      "layman": "Step-by-step math procedures"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Factoring polynomials",
+      "layman": "Breaking down math expressions"
+    },
+    {
+      "jargon": "Generic algorithm",
+      "layman": "General math solution method"
+    },
+    {
+      "jargon": "Efficient implementations",
+      "layman": "Fast computer versions"
+    },
+    {
+      "jargon": "Separate treatment",
+      "layman": "Different approaches for different cases"
+    },
+    {
+      "jargon": "Complexity issues",
+      "layman": "How hard the math is to compute"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Efficient implementations",
+      "layman": "Fast computer solutions"
+    },
+    {
+      "jargon": "Differ substantially",
+      "layman": "Very different in practice"
+    },
+    {
+      "jargon": "Illustrative examples",
+      "layman": "Clear real-world cases"
+    },
+    {
+      "jargon": "Complexity issues",
+      "layman": "Computational difficulty"
+    },
+    {
+      "jargon": "Global fields F",
+      "layman": "Mathematical systems with global rules"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Comparative Legal Studies",
+      "layman": "Study of different legal systems"
+    },
+    {
+      "jargon": "Universalist heritage",
+      "layman": "Global legal ideals"
+    },
+    {
+      "jargon": "Colonialist heritage",
+      "layman": "Legal systems from colonial times"
+    },
+    {
+      "jargon": "Nationalist heritage",
+      "layman": "Legal traditions rooted in national identity"
+    },
+    {
+      "jargon": "Functionalist heritage",
+      "layman": "Legal systems based on function"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Comparatists and sociology",
+      "layman": "Studying law through social patterns"
+    },
+    {
+      "jargon": "Comparatists and languages",
+      "layman": "Analyzing laws through language"
+    },
+    {
+      "jargon": "The question of understanding",
+      "layman": "How to truly grasp legal systems"
+    },
+    {
+      "jargon": "The same and the different",
+      "layman": "Finding similarities and differences"
+    },
+    {
+      "jargon": "Neo-romantic turn",
+      "layman": "Returning to emotional, cultural roots"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Transferability",
+      "layman": "How applicable one system is to another"
+    },
+    {
+      "jargon": "Extraordinary places",
+      "layman": "Unique legal settings"
+    },
+    {
+      "jargon": "Boundaries",
+      "layman": "Limits of comparative study"
+    },
+    {
+      "jargon": "Futures of legal studies",
+      "layman": "Possible directions for the field"
+    },
+    {
+      "jargon": "Beyond compare",
+      "layman": "Moving past simple comparisons"
+    }
+  ]
+}

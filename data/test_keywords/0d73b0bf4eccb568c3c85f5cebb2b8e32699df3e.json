@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "CuInS2 single crystals",
+      "layman": "Single crystals of copper indium sulfide"
+    },
+    {
+      "jargon": "Sulfur partial pressure",
+      "layman": "Pressure of sulfur gas"
+    },
+    {
+      "jargon": "In2S",
+      "layman": "Indium sulfide compound"
+    },
+    {
+      "jargon": "Cracks along the ingot",
+      "layman": "Gaps in the crystal structure"
+    },
+    {
+      "jargon": "CuS",
+      "layman": "Copper sulfide compound"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Gradient freeze technique",
+      "layman": "Slow cooling method to grow crystals"
+    },
+    {
+      "jargon": "EDX",
+      "layman": "Element analysis by X-rays"
+    },
+    {
+      "jargon": "XRD",
+      "layman": "Crystal structure analysis"
+    },
+    {
+      "jargon": "PL",
+      "layman": "Light emission test"
+    },
+    {
+      "jargon": "Gas phase loss",
+      "layman": "Loss into the air or vapor"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cracking decreases with higher sulfur pressure",
+      "layman": "Fewer cracks as sulfur pressure increases"
+    },
+    {
+      "jargon": "CuS present at cracks",
+      "layman": "Copper sulfide forms at crack sites"
+    },
+    {
+      "jargon": "Loss of In2S into gas phase",
+      "layman": "Indium sulfide escapes into gas"
+    },
+    {
+      "jargon": "Material is In-rich",
+      "layman": "More indium than expected"
+    },
+    {
+      "jargon": "Cracks still present at 2 bar",
+      "layman": "Cracks remain even at high pressure"
+    }
+  ]
+}

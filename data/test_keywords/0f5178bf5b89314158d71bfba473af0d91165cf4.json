@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Climate change",
+      "layman": "Long-term warming of Earth"
+    },
+    {
+      "jargon": "Democratic governance",
+      "layman": "Decision-making by the public"
+    },
+    {
+      "jargon": "Natural resources",
+      "layman": "Earth's raw materials"
+    },
+    {
+      "jargon": "Climate justice",
+      "layman": "Fair treatment of climate impacts"
+    },
+    {
+      "jargon": "Green Economy",
+      "layman": "Economy focused on sustainability"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Libertarian paternalism",
+      "layman": "Guiding choices without forcing them"
+    },
+    {
+      "jargon": "Trial by jury",
+      "layman": "Group decision through voting"
+    },
+    {
+      "jargon": "Four-Power-Model",
+      "layman": "Group of four powers making decisions"
+    },
+    {
+      "jargon": "Moral pragmatics",
+      "layman": "Practical ethics in tough decisions"
+    },
+    {
+      "jargon": "Commons governance",
+      "layman": "Managing shared resources"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Deficiency of democracy",
+      "layman": "Democracy fails to act"
+    },
+    {
+      "jargon": "Polarization",
+      "layman": "Strong division between groups"
+    },
+    {
+      "jargon": "Feasibility straitjacket",
+      "layman": "Limits on what's possible"
+    },
+    {
+      "jargon": "Ecological change",
+      "layman": "Environmental improvement"
+    },
+    {
+      "jargon": "Moral corruption",
+      "layman": "Loss of ethical integrity"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "acute exacerbations of chronic obstructive pulmonary disease",
+      "layman": "worsening of chronic lung disease"
+    },
+    {
+      "jargon": "clinical pathway",
+      "layman": "standardized treatment plan"
+    },
+    {
+      "jargon": "hospitalized patients",
+      "layman": "patients in the hospital"
+    },
+    {
+      "jargon": "oxygen therapy",
+      "layman": "oxygen treatment"
+    },
+    {
+      "jargon": "noninvasive positive pressure ventilation",
+      "layman": "breathing support without intubation"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "prospective data collection",
+      "layman": "tracking data as events happen"
+    },
+    {
+      "jargon": "clinical pathway design",
+      "layman": "creating a step-by-step treatment guide"
+    },
+    {
+      "jargon": "total quality management",
+      "layman": "system to improve care quality"
+    },
+    {
+      "jargon": "healthcare provider check",
+      "layman": "doctors follow a treatment checklist"
+    },
+    {
+      "jargon": "randomized controlled trials",
+      "layman": "experiments with random patient assignment"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "dropout rate",
+      "layman": "treatment stopped"
+    },
+    {
+      "jargon": "mortality rate",
+      "layman": "death rate in hospital"
+    },
+    {
+      "jargon": "oxygen administration rate",
+      "layman": "how often oxygen was given"
+    },
+    {
+      "jargon": "intubation rate",
+      "layman": "how often patients needed breathing tube"
+    },
+    {
+      "jargon": "average length of stay",
+      "layman": "average hospital stay duration"
+    }
+  ]
+}
