@@ -22,10 +22,10 @@ def print_similarities(model_path: Path):
 
 def main():
     print_similarities(MODELS_PATH / "vanilla-finetuned")
-    print_similarities(MODELS_PATH / "jargon-layman-finetuned 0.25")
-    print_similarities(MODELS_PATH / "jargon-layman-finetuned 0.5")
-    print_similarities(MODELS_PATH / "jargon-layman-finetuned 0.75")
-    print_similarities(MODELS_PATH / "jargon-layman-finetuned 1.0")
+    print_similarities(MODELS_PATH / "jargon-layman-finetuned-0.25")
+    print_similarities(MODELS_PATH / "jargon-layman-finetuned-0.50")
+    print_similarities(MODELS_PATH / "jargon-layman-finetuned-0.75")
+    print_similarities(MODELS_PATH / "jargon-layman-finetuned-1.00")
 
 
 if __name__ == "__main__":
