@@ -9,7 +9,7 @@ from datasets import Dataset, load_dataset
 
 TEST_KEYWORDS_PATH = Path("data") / "test_keywords"
 
-NUM_KEYWORDS_PER_ABSTRACT = 15
+TOP_K_ABSTRACTS = 5
 
 
 def read_keywords_file(path: Path) -> dict:
@@ -25,7 +25,7 @@ def get_layman_keywords_from_document(document: dict):
     return [pair["layman"] for pair in keyword_pairs]
 
 
-def get_scores(model_path: str | Path):  
+def get_scores(model_path: str | Path, top_k_abstracts=TOP_K_ABSTRACTS):  
     model = SentenceTransformer(str(model_path))
 
     paths = [path for path in TEST_KEYWORDS_PATH.iterdir()]
@@ -50,7 +50,7 @@ def get_scores(model_path: str | Path):
     search_results = semantic_search(
         query_embeddings=layman_embeddings,
         corpus_embeddings=abstract_embeddings,
-        top_k=NUM_KEYWORDS_PER_ABSTRACT,
+        top_k=top_k_abstracts,
     )
 
     num_keywords = search_df.shape[0]
@@ -61,15 +61,15 @@ def get_scores(model_path: str | Path):
         for i in range(num_keywords)
     ) / num_keywords
 
-    related_keyword_score = sum(
-        1 if any(search_results[i][j]["corpus_id"] == i for j in range(NUM_KEYWORDS_PER_ABSTRACT))
+    in_top_results_score = sum(
+        1 if any(search_results[i][j]["corpus_id"] == i for j in range(TOP_K_ABSTRACTS))
         else 0
         for i in range(num_keywords)
     ) / num_keywords
 
     return {
         "perfect_match_score": perfect_match_score,
-        "related_keyword_score": related_keyword_score,
+        "in_top_results_score": in_top_results_score,
     }
 
 
@@ -78,7 +78,7 @@ def main():
 
     scores = get_scores(model_path)
     print("Full match score:", scores["perfect_match_score"])
-    print("Related abstracts score:", scores["related_abstract_score"])
+    print("In top results score:", scores["in_top_results_score"])
 
 if __name__ == "__main__":
     main()

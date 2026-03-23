@@ -55,10 +55,11 @@ def get_scores(model_path: str | Path):
     ) / num_keywords
 
     related_keyword_score = sum(
-        1 if any(search_results[i][j]["corpus_id"] == i for j in range(NUM_KEYWORDS_PER_ABSTRACT))
+        1 if search_results[i][j]["corpus_id"] == i
         else 0
         for i in range(num_keywords)
-    ) / num_keywords
+        for j in range(NUM_KEYWORDS_PER_ABSTRACT)
+    ) / (num_keywords * NUM_KEYWORDS_PER_ABSTRACT)
 
     return {
         "perfect_match_score": perfect_match_score,
