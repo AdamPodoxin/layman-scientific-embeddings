@@ -105,7 +105,9 @@ if __name__ == "__main__":
     jargon_embeddings = model.encode(df["jargon"].to_list())
     layman_embeddings = model.encode(df["layman"].to_list())
 
-    pca = PCA()
+    # First reducing to 50 components using PCA
+    # before running through t-SNE, as per docs.
+    pca = PCA(n_components=50)
     jargon_pca = pca.fit_transform(jargon_embeddings)
     layman_pca = pca.fit_transform(layman_embeddings)
 
