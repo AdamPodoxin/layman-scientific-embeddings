@@ -24,8 +24,9 @@ def get_keywords_from_document(document: dict):
     return keyword_pairs
 
 
-def get_scores(model_path: str | Path):  
-    model = SentenceTransformer(str(model_path))
+def get_scores(model: str | Path | SentenceTransformer):
+    if model is not SentenceTransformer:
+        model = SentenceTransformer(str(model))
 
     df = pd.DataFrame(data={ "path": [path for path in TEST_KEYWORDS_PATH.iterdir()] })
     df["document"] = df["path"].apply(read_keywords_file)
@@ -64,6 +65,8 @@ def get_scores(model_path: str | Path):
     return {
         "perfect_match_score": perfect_match_score,
         "related_keyword_score": related_keyword_score,
+        "search_results": search_results,
+        "search_df": search_df,
     }
 
 

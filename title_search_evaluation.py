@@ -9,7 +9,7 @@ from datasets import Dataset, load_dataset
 
 TEST_KEYWORDS_PATH = Path("data") / "test_keywords"
 
-TOP_K_ABSTRACTS = 5
+TOP_K_TITLES = 5
 
 
 def read_keywords_file(path: Path) -> dict:
@@ -25,7 +25,7 @@ def get_layman_keywords_from_document(document: dict):
     return [pair["layman"] for pair in keyword_pairs]
 
 
-def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_ABSTRACTS):
+def get_scores(model: str | Path | SentenceTransformer, top_k_titles=TOP_K_TITLES):
     if model is not SentenceTransformer:
         model = SentenceTransformer(str(model))
 
@@ -41,17 +41,17 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_AB
 
     dataset_df = load_dataset("allenai/scirepeval", "scidocs_mag_mesh", split="evaluation").to_pandas()
     merged_df = pd.merge(df, dataset_df, on="doc_id")
-    search_df = merged_df.explode("layman")[["layman", "abstract"]] \
+    search_df = merged_df.explode("layman")[["layman", "title"]] \
                             .reset_index() \
                             .drop("index", axis=1)
 
-    abstract_embeddings = model.encode_document(search_df["abstract"])
+    title_embeddings = model.encode_document(search_df["title"])
     layman_embeddings = model.encode_query(search_df["layman"])
 
     search_results = semantic_search(
         query_embeddings=layman_embeddings,
-        corpus_embeddings=abstract_embeddings,
-        top_k=top_k_abstracts,
+        corpus_embeddings=title_embeddings,
+        top_k=top_k_titles,
     )
 
     num_keywords = search_df.shape[0]
@@ -63,7 +63,7 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_AB
     ) / num_keywords
 
     in_top_results_score = sum(
-        1 if any(search_results[i][j]["corpus_id"] == i for j in range(TOP_K_ABSTRACTS))
+        1 if any(search_results[i][j]["corpus_id"] == i for j in range(TOP_K_TITLES))
         else 0
         for i in range(num_keywords)
     ) / num_keywords
