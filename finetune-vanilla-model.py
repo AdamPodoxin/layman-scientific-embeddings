@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 from sentence_transformers import (
         SentenceTransformer, 
@@ -7,9 +8,6 @@ from sentence_transformers import (
     )
 from sentence_transformers.training_args import BatchSamplers
 from datasets import Dataset, DatasetDict, load_from_disk, concatenate_datasets
-
-
-BASE_EMBEDDING_MODEL = "allenai/scibert_scivocab_uncased"
 
 DATA_PATH = Path("data")
 
@@ -22,9 +20,6 @@ TITLE_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "title-layman"
 JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon"
 LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman"
 JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman"
-
-MODELS_PATH = Path("models")
-VANILLA_FINETUNED_MODEL_PATH = MODELS_PATH / "vanilla-finetuned"
 
 # All combinations of jargon-jargon, layman-layman, and jargon-layman,
 # as well as abstract-jargon, abstract-layman, title-jargon, and title-layman. 
@@ -39,7 +34,34 @@ BATCH_SIZE = 30
 PROP_PAIRS_TO_TAKE = 0.25
 
 
+def parse_args():
+    p = argparse.ArgumentParser("Finetune vanilla model")
+
+    p.add_argument(
+        "--model",
+        type=str,
+        default="allenai/scibert_scivocab_uncased",
+        help="Base embedding model to finetune",
+    )
+    p.add_argument(
+        "--model-name",
+        type=str,
+        default="scibert",
+        help="Base model name to save to output",
+    )
+    p.add_argument(
+        "--output",
+        type=Path,
+        default=Path("models/scidocs/"),
+        help="Output path to save model to",
+    )
+
+    return p.parse_args()
+
+
 def main():
+    args = parse_args()
+
     abstract_jargon_pairs_dataset: DatasetDict = load_from_disk(str(ABSTRACT_JARGON_PAIRS_PATH))
     abstract_layman_pairs_dataset: DatasetDict = load_from_disk(str(ABSTRACT_LAYMAN_PAIRS_PATH))
     
@@ -104,12 +126,12 @@ def main():
                                 .shuffle() \
                                 .take(int(PROP_PAIRS_TO_TAKE * full_dataset_val.shape[0]))
 
-    model = SentenceTransformer(BASE_EMBEDDING_MODEL)
+    model = SentenceTransformer(args.model)
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
     args = SentenceTransformerTrainingArguments(
-        output_dir=VANILLA_FINETUNED_MODEL_PATH,
+        output_dir=Path(args.output) / f"vanilla-{args.model_name}",
 
         learning_rate=LEARNING_RATE,
         weight_decay=WEIGHT_DECAY,
