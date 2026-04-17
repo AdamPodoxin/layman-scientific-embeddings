@@ -37,6 +37,8 @@ PROP_PAIRS_TO_TAKE = 0.25
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
+OUTPUT_MODEL_PATH = Path("models/scidocs/vanilla-qwen")
+
 
 def main():
     abstract_jargon_pairs_dataset: DatasetDict = load_from_disk(str(ABSTRACT_JARGON_PAIRS_PATH))
@@ -138,7 +140,7 @@ def main():
     loss = losses.CachedMultipleNegativesRankingLoss(st_model, mini_batch_size=MINI_BATCH_SIZE)
 
     args = SentenceTransformerTrainingArguments(
-        output_dir=Path("models/scidocs/vanilla-qwen"),
+        output_dir=OUTPUT_MODEL_PATH,
 
         learning_rate=LEARNING_RATE,
         weight_decay=WEIGHT_DECAY,
