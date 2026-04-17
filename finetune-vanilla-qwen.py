@@ -1,6 +1,6 @@
 from pathlib import Path
 import torch
-from transformers import AutoTokenizer, AutoModel, BitsAndBytesConfig
+from transformers import BitsAndBytesConfig
 from sentence_transformers import (
         SentenceTransformer, 
         SentenceTransformerTrainer, 
@@ -8,7 +8,7 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from peft import LoraConfig, TaskType, get_peft_model, prepare_model_for_kbit_training
+from peft import LoraConfig, TaskType, prepare_model_for_kbit_training
 from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
 

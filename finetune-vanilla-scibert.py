@@ -1,7 +1,6 @@
 import argparse
 from pathlib import Path
 import torch
-from transformers import BitsAndBytesConfig
 from sentence_transformers import (
         SentenceTransformer, 
         SentenceTransformerTrainer, 
@@ -9,7 +8,6 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from peft import LoraConfig, TaskType
 from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
 
