@@ -12,6 +12,7 @@ from sentence_transformers.sentence_transformer.training_args import BatchSample
 from peft import LoraConfig, TaskType
 from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
+
 DATA_PATH = Path("data")
 
 ABSTRACT_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-jargon"
@@ -36,40 +37,12 @@ BATCH_SIZE = 30
 
 PROP_PAIRS_TO_TAKE = 0.25
 
+MODEL_ID = "allenai/scibert_scivocab_uncased"
 
-def parse_args():
-    p = argparse.ArgumentParser("Finetune vanilla model")
-
-    p.add_argument(
-        "--model",
-        type=str,
-        default="allenai/scibert_scivocab_uncased",
-        help="Base embedding model to finetune",
-    )
-    p.add_argument(
-        "--model-name",
-        type=str,
-        default="scibert",
-        help="Base model name to save to output",
-    )
-    p.add_argument(
-        "--output",
-        type=Path,
-        default=Path("models/scidocs/"),
-        help="Output path to save model to",
-    )
-    p.add_argument(
-        "--peft",
-        action="store_true",
-        help="Should use PEFT to reduce model size and training time?",
-    )
-
-    return p.parse_args()
+OUTPUT_MODEL_PATH = Path("models/scidocs/vanilla-scibert")
 
 
 def main():
-    args = parse_args()
-
     abstract_jargon_pairs_dataset: DatasetDict = load_from_disk(str(ABSTRACT_JARGON_PAIRS_PATH))
     abstract_layman_pairs_dataset: DatasetDict = load_from_disk(str(ABSTRACT_LAYMAN_PAIRS_PATH))
     
@@ -134,34 +107,13 @@ def main():
                                 .shuffle() \
                                 .take(int(PROP_PAIRS_TO_TAKE * full_dataset_val.shape[0]))
 
-    model_kwargs = {}
 
-    if args.peft:
-        bnb_config = BitsAndBytesConfig(
-            load_in_4bit=True,
-            bnb_4bit_quant_type="nf4",
-            bnb_4bit_compute_dtype=torch.bfloat16,
-            bnb_4bit_use_double_quant=True,
-        )
-        model_kwargs["quantization_config"] = bnb_config
-
-    model = SentenceTransformer(args.model, model_kwargs=model_kwargs)
-
-    if args.peft:
-        peft_config = LoraConfig(
-            task_type=TaskType.FEATURE_EXTRACTION,
-            inference_mode=False,
-            r=8,
-            lora_alpha=16,
-            lora_dropout=0.1,
-            target_modules="all-linear"
-        )
-        model.add_adapter(peft_config)
+    model = SentenceTransformer(MODEL_ID)
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
     args = SentenceTransformerTrainingArguments(
-        output_dir=Path(args.output) / f"vanilla-{args.model_name}",
+        output_dir=OUTPUT_MODEL_PATH,
 
         learning_rate=LEARNING_RATE,
         weight_decay=WEIGHT_DECAY,
