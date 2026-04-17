@@ -8,6 +8,7 @@ from sentence_transformers import (
         losses, 
     )
 from sentence_transformers.training_args import BatchSamplers
+from peft import LoraConfig, TaskType
 from datasets import Dataset, DatasetDict, load_from_disk, concatenate_datasets
 
 DATA_PATH = Path("data")
@@ -57,9 +58,9 @@ def parse_args():
         help="Output path to save model to",
     )
     p.add_argument(
-        "--bit4",
+        "--peft",
         action="store_true",
-        help="Should load in 4-bit quantized mode?",
+        help="Should use PEFT to reduce model size and training time?",
     )
 
     return p.parse_args()
@@ -134,11 +135,22 @@ def main():
 
     model_kwargs = {}
 
-    if args.bit4:
+    if args.peft:
         bnb_config = BitsAndBytesConfig(load_in_4bit=True)
         model_kwargs["quantization_config"] = bnb_config
 
     model = SentenceTransformer(args.model, model_kwargs=model_kwargs)
+
+    if args.peft:
+        peft_config = LoraConfig(
+            task_type=TaskType.FEATURE_EXTRACTION,
+            inference_mode=False,
+            r=16,
+            lora_alpha=32,
+            lora_dropout=0.1,
+            target_modules="all-linear"
+        )
+        model.add_adapter(peft_config)
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
