@@ -1,5 +1,6 @@
 import argparse
 from pathlib import Path
+from transformers import BitsAndBytesConfig
 from sentence_transformers import (
         SentenceTransformer, 
         SentenceTransformerTrainer, 
@@ -54,6 +55,11 @@ def parse_args():
         type=Path,
         default=Path("models/scidocs/"),
         help="Output path to save model to",
+    )
+    p.add_argument(
+        "--bit4",
+        action="store_true",
+        help="Should load in 4-bit quantized mode?",
     )
 
     return p.parse_args()
@@ -126,7 +132,13 @@ def main():
                                 .shuffle() \
                                 .take(int(PROP_PAIRS_TO_TAKE * full_dataset_val.shape[0]))
 
-    model = SentenceTransformer(args.model)
+    model_kwargs = {}
+
+    if args.bit4:
+        bnb_config = BitsAndBytesConfig(load_in_4bit=True)
+        model_kwargs["quantization_config"] = bnb_config
+
+    model = SentenceTransformer(args.model, model_kwargs=model_kwargs)
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
