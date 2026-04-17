@@ -1,6 +1,4 @@
-import argparse
 from pathlib import Path
-import torch
 from sentence_transformers import (
         SentenceTransformer, 
         SentenceTransformerTrainer, 
