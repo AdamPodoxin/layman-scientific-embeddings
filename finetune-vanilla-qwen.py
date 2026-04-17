@@ -11,6 +11,7 @@ from sentence_transformers.sentence_transformer.training_args import BatchSample
 from peft import LoraConfig, TaskType, get_peft_model, prepare_model_for_kbit_training
 from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
+
 DATA_PATH = Path("data")
 
 ABSTRACT_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-jargon"
@@ -122,7 +123,7 @@ def main():
         bias="none",
     )
 
-    st_model = SentenceTransformer(
+    model = SentenceTransformer(
         MODEL_ID,
         model_kwargs={
             "quantization_config": bnb_config,
@@ -130,14 +131,14 @@ def main():
         }
     )
 
-    st_model._first_module().auto_model = prepare_model_for_kbit_training(
-        st_model._first_module().auto_model,
+    model._first_module().auto_model = prepare_model_for_kbit_training(
+        model._first_module().auto_model,
         use_gradient_checkpointing=True,
     )
 
-    st_model.add_adapter(lora_config)
+    model.add_adapter(lora_config)
 
-    loss = losses.CachedMultipleNegativesRankingLoss(st_model, mini_batch_size=MINI_BATCH_SIZE)
+    loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
     args = SentenceTransformerTrainingArguments(
         output_dir=OUTPUT_MODEL_PATH,
@@ -167,7 +168,7 @@ def main():
     )
 
     trainer = SentenceTransformerTrainer(
-        model=st_model,
+        model=model,
         train_dataset=train_dataset,
         eval_dataset=val_dataset,
         loss=loss,
