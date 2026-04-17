@@ -1,5 +1,6 @@
 import argparse
 from pathlib import Path
+import torch
 from transformers import BitsAndBytesConfig
 from sentence_transformers import (
         SentenceTransformer, 
@@ -136,7 +137,12 @@ def main():
     model_kwargs = {}
 
     if args.peft:
-        bnb_config = BitsAndBytesConfig(load_in_4bit=True)
+        bnb_config = BitsAndBytesConfig(
+            load_in_4bit=True,
+            bnb_4bit_quant_type="nf4",
+            bnb_4bit_compute_dtype=torch.bfloat16,
+            bnb_4bit_use_double_quant=True,
+        )
         model_kwargs["quantization_config"] = bnb_config
 
     model = SentenceTransformer(args.model, model_kwargs=model_kwargs)
@@ -145,8 +151,8 @@ def main():
         peft_config = LoraConfig(
             task_type=TaskType.FEATURE_EXTRACTION,
             inference_mode=False,
-            r=16,
-            lora_alpha=32,
+            r=8,
+            lora_alpha=16,
             lora_dropout=0.1,
             target_modules="all-linear"
         )
