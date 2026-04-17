@@ -5,11 +5,11 @@ from sentence_transformers import (
         SentenceTransformer, 
         SentenceTransformerTrainer, 
         SentenceTransformerTrainingArguments,
-        losses, 
     )
-from sentence_transformers.training_args import BatchSamplers
+from sentence_transformers.sentence_transformer import losses
+from sentence_transformers.sentence_transformer.training_args import BatchSamplers
 from peft import LoraConfig, TaskType
-from datasets import Dataset, DatasetDict, load_from_disk, concatenate_datasets
+from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
 DATA_PATH = Path("data")
 
