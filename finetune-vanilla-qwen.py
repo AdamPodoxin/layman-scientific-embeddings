@@ -32,9 +32,9 @@ MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
 LEARNING_RATE = 1e-5
 WEIGHT_DECAY = 1e-4
-BATCH_SIZE = 30
+BATCH_SIZE = 20
 
-PROP_PAIRS_TO_TAKE = 0.25
+PROP_PAIRS_TO_TAKE = 0.20
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
@@ -154,8 +154,9 @@ def main():
         save_total_limit=1,
         save_only_model=True,
 
-        per_device_train_batch_size=16,
-        per_device_eval_batch_size=16,
+        per_device_train_batch_size=BATCH_SIZE,
+        per_device_eval_batch_size=BATCH_SIZE,
+
         gradient_accumulation_steps=4,
         gradient_checkpointing=True,
 
