@@ -3,10 +3,10 @@ from sentence_transformers import (
         SentenceTransformer, 
         SentenceTransformerTrainer, 
         SentenceTransformerTrainingArguments,
-        losses, 
     )
-from sentence_transformers.training_args import BatchSamplers
-from datasets import Dataset, DatasetDict, load_from_disk, concatenate_datasets
+from sentence_transformers.sentence_transformer import losses
+from sentence_transformers.sentence_transformer.training_args import BatchSamplers
+from datasets import DatasetDict, load_from_disk
 
 
 DATA_PATH = Path("data")
@@ -14,8 +14,8 @@ DATA_PATH = Path("data")
 JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman"
 
 MODELS_PATH = Path("models")
-VANILLA_FINETUNED_MODEL_PATH = MODELS_PATH / "vanilla-finetuned"
-JARGON_LAYMAN_FINETUNED_MODEL_PATH = MODELS_PATH / "jargon-layman-finetuned"
+VANILLA_FINETUNED_MODEL_PATH = MODELS_PATH / "vanilla-scibert"
+OUTPUT_MODEL_PATH = MODELS_PATH / "jargon-layman-scibert"
 
 # All combinations of jargon-layman
 NUM_PAIRS_PER_ABSTRACT = 15 * 14
@@ -26,7 +26,7 @@ LEARNING_RATE = 2e-6
 WEIGHT_DECAY = 2e-6
 BATCH_SIZE = 30
 
-PROP_PAIRS_TO_TAKE = 0.75
+PROP_PAIRS_TO_TAKE = 1.00
 
 
 def main():
@@ -48,7 +48,7 @@ def main():
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
     args = SentenceTransformerTrainingArguments(
-        output_dir=JARGON_LAYMAN_FINETUNED_MODEL_PATH,
+        output_dir=OUTPUT_MODEL_PATH,
 
         learning_rate=LEARNING_RATE,
         weight_decay=WEIGHT_DECAY,
