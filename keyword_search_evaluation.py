@@ -25,7 +25,7 @@ def get_keywords_from_document(document: dict):
 
 
 def get_scores(model: str | Path | SentenceTransformer):
-    if model is not SentenceTransformer:
+    if type(model) is not SentenceTransformer:
         model = SentenceTransformer(str(model))
 
     df = pd.DataFrame(data={ "path": [path for path in TEST_KEYWORDS_PATH.iterdir()] })
@@ -38,8 +38,8 @@ def get_scores(model: str | Path | SentenceTransformer):
                     .reset_index()\
                     .drop("index", axis=1)
 
-    jargon_embeddings = model.encode_document(search_df["jargon"])
-    layman_embeddings = model.encode_query(search_df["layman"])
+    jargon_embeddings = model.encode_document(search_df["jargon"].to_list())
+    layman_embeddings = model.encode_query(search_df["layman"].to_list())
 
     search_results = semantic_search(
         query_embeddings=layman_embeddings,

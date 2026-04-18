@@ -26,7 +26,7 @@ def get_layman_keywords_from_document(document: dict):
 
 
 def get_scores(model: str | Path | SentenceTransformer, top_k_titles=TOP_K_TITLES):
-    if model is not SentenceTransformer:
+    if type(model) is not SentenceTransformer:
         model = SentenceTransformer(str(model))
 
     paths = [path for path in TEST_KEYWORDS_PATH.iterdir()]
@@ -45,8 +45,8 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_titles=TOP_K_TITLE
                             .reset_index() \
                             .drop("index", axis=1)
 
-    title_embeddings = model.encode_document(search_df["title"])
-    layman_embeddings = model.encode_query(search_df["layman"])
+    title_embeddings = model.encode_document(search_df["title"].to_list())
+    layman_embeddings = model.encode_query(search_df["layman"].to_list())
 
     search_results = semantic_search(
         query_embeddings=layman_embeddings,

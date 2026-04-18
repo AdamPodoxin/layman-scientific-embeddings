@@ -38,7 +38,7 @@ PROP_PAIRS_TO_TAKE = 0.25
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
-OUTPUT_MODEL_PATH = Path("models/scidocs/vanilla-qwen")
+OUTPUT_MODEL_PATH = Path("models/vanilla-qwen")
 
 
 def main():

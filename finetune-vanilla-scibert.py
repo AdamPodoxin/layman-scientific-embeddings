@@ -35,7 +35,7 @@ PROP_PAIRS_TO_TAKE = 0.25
 
 MODEL_ID = "allenai/scibert_scivocab_uncased"
 
-OUTPUT_MODEL_PATH = Path("models/scidocs/vanilla-scibert")
+OUTPUT_MODEL_PATH = Path("models/vanilla-scibert")
 
 
 def main():
