@@ -14,7 +14,7 @@ DATA_PATH = Path("data")
 JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman"
 
 MODELS_PATH = Path("models")
-VANILLA_FINETUNED_MODEL_PATH = MODELS_PATH / "vanilla-qwen-OLD"
+VANILLA_FINETUNED_MODEL_PATH = MODELS_PATH / "vanilla-qwen"
 OUTPUT_MODEL_PATH = MODELS_PATH / "jargon-layman-qwen"
 
 # All combinations of jargon-layman
@@ -24,7 +24,7 @@ MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
 LEARNING_RATE = 2e-6
 WEIGHT_DECAY = 2e-6
-BATCH_SIZE = 4096
+BATCH_SIZE = 256
 
 
 def main():
