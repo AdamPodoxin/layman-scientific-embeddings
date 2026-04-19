@@ -8,7 +8,7 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from peft import LoraConfig, TaskType, prepare_model_for_kbit_training
+from peft import LoraConfig, TaskType
 from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
 
@@ -32,7 +32,7 @@ MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
 LEARNING_RATE = 1e-5
 WEIGHT_DECAY = 1e-4
-BATCH_SIZE = 10
+BATCH_SIZE = 16
 
 PROP_PAIRS_TO_TAKE = 0.20
 
@@ -113,16 +113,6 @@ def main():
         bnb_4bit_use_double_quant=True,
     )
 
-    lora_config = LoraConfig(
-        task_type=TaskType.FEATURE_EXTRACTION,
-        inference_mode=False,
-        r=16,
-        lora_alpha=16,
-        lora_dropout=0.05,
-        target_modules="all-linear",
-        bias="none",
-    )
-
     model = SentenceTransformer(
         MODEL_ID,
         model_kwargs={
@@ -131,9 +121,15 @@ def main():
         }
     )
 
-    model._first_module().auto_model = prepare_model_for_kbit_training(
-        model._first_module().auto_model,
-        use_gradient_checkpointing=True,
+    lora_config = LoraConfig(
+        task_type=TaskType.FEATURE_EXTRACTION,
+        inference_mode=False,
+        r=16,
+        lora_alpha=16,
+        lora_dropout=0.05,
+        target_modules="all-linear",
+        bias="none",
+        use_qalora=True,
     )
 
     model.add_adapter(lora_config)
@@ -149,7 +145,6 @@ def main():
 
         eval_strategy="epoch",
         save_strategy="epoch",
-        load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         save_total_limit=1,
         save_only_model=True,
@@ -178,7 +173,7 @@ def main():
 
     trainer.train()
 
-    trainer.save_model()
+    model.save_pretrained(OUTPUT_MODEL_PATH)
 
 
 if __name__ == "__main__":

@@ -1,4 +1,7 @@
 from pathlib import Path
+import torch
+from safetensors.torch import load_file
+from transformers import BitsAndBytesConfig
 from sentence_transformers import (
         SentenceTransformer, 
         SentenceTransformerTrainer, 
@@ -6,12 +9,15 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
+from peft import LoraConfig, TaskType
 from datasets import DatasetDict, load_from_disk
 
 
 DATA_PATH = Path("data")
 
 JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman"
+
+MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
 MODELS_PATH = Path("models")
 VANILLA_FINETUNED_MODEL_PATH = MODELS_PATH / "vanilla-qwen"
@@ -33,7 +39,42 @@ def main():
     train_dataset = jargon_layman_pairs_dataset["train"]
     val_dataset = jargon_layman_pairs_dataset["val"]
 
-    model = SentenceTransformer(str(VANILLA_FINETUNED_MODEL_PATH))
+    bnb_config = BitsAndBytesConfig(
+        load_in_4bit=True,
+        bnb_4bit_quant_type="nf4",
+        bnb_4bit_compute_dtype=torch.bfloat16,
+        bnb_4bit_use_double_quant=True,
+    )
+
+    model = SentenceTransformer(
+        MODEL_ID,
+        model_kwargs={
+            "quantization_config": bnb_config,
+            "device_map": "auto",
+        }
+    )
+
+    lora_config = LoraConfig(
+        task_type=TaskType.FEATURE_EXTRACTION,
+        inference_mode=False,
+        r=16,
+        lora_alpha=16,
+        lora_dropout=0.05,
+        target_modules="all-linear",
+        bias="none",
+        use_qalora=True,
+    )
+
+    model._first_module().auto_model.add_adapter(lora_config)
+
+    adapter_state_dict = load_file(VANILLA_FINETUNED_MODEL_PATH / "adapter_model.safetensors")
+
+    remapped = {
+        k.replace("base_model.model.", ""): v 
+        for k, v in adapter_state_dict.items()
+    }
+
+    model._first_module().auto_model.load_state_dict(remapped, strict=False)
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
@@ -46,7 +87,6 @@ def main():
 
         eval_strategy="epoch",
         save_strategy="epoch",
-        load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         save_total_limit=1,
         save_only_model=True,
@@ -75,7 +115,7 @@ def main():
 
     trainer.train()
 
-    trainer.save_model()
+    model.save_pretrained(OUTPUT_MODEL_PATH)
 
 
 if __name__ == "__main__":
