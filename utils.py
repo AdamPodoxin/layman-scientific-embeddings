@@ -9,7 +9,7 @@ from peft import LoraConfig
 QWEN_MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
 
-def load_finetuned_qwen(adapter: Path):
+def load_finetuned_qwen(adapter: Path | str):
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
@@ -28,6 +28,9 @@ def load_finetuned_qwen(adapter: Path):
     lora_config = LoraConfig()
 
     model._first_module().auto_model.add_adapter(lora_config)
+
+    if type(adapter) is str:
+        adapter = Path(adapter)
 
     adapter_state_dict = load_file(adapter / "adapter_model.safetensors")
 
