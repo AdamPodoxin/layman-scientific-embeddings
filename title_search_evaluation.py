@@ -62,7 +62,18 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_titles=TOP_K_TITLE
         for i in range(num_keywords)
     ) / num_keywords
 
-    in_top_results_score = sum(
+    mean_reciprocal_rank = sum(
+        1 / (j + 1)  # j is 0-indexed, so j + 1 gives the 1-indexed rank
+        for i in range(num_keywords)
+        for j in range(top_k_titles)
+        if search_results[i][j]["corpus_id"] == i
+        and j == next(
+            k for k in range(top_k_titles)
+            if search_results[i][k]["corpus_id"] == i
+        )  # Only count the first match
+    ) / num_keywords
+
+    precision_at_5 = sum(
         1 if any(search_results[i][j]["corpus_id"] == i for j in range(TOP_K_TITLES))
         else 0
         for i in range(num_keywords)
@@ -70,7 +81,8 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_titles=TOP_K_TITLE
 
     return {
         "perfect_match_score": perfect_match_score,
-        "in_top_results_score": in_top_results_score,
+        "mean_reciprocal_rank": mean_reciprocal_rank,
+        "precision_at_5": precision_at_5,
         "search_results": search_results,
         "search_df": search_df,
     }

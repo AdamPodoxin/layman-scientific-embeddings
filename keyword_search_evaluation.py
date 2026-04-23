@@ -55,6 +55,17 @@ def get_scores(model: str | Path | SentenceTransformer):
         for i in range(num_keywords)
     ) / num_keywords
 
+    mean_reciprocal_rank = sum(
+        1 / (j + 1)  # j is 0-indexed, so j + 1 gives the 1-indexed rank
+        for i in range(num_keywords)
+        for j in range(NUM_KEYWORDS_PER_ABSTRACT)
+        if search_results[i][j]["corpus_id"] == i
+        and j == next(
+            k for k in range(NUM_KEYWORDS_PER_ABSTRACT)
+            if search_results[i][k]["corpus_id"] == i
+        )  # Only count the first match
+    ) / num_keywords
+
     related_keyword_score = sum(
         1 if search_results[i][j]["corpus_id"] == i
         else 0
@@ -62,9 +73,36 @@ def get_scores(model: str | Path | SentenceTransformer):
         for j in range(NUM_KEYWORDS_PER_ABSTRACT)
     ) / (num_keywords * NUM_KEYWORDS_PER_ABSTRACT)
 
+    # Recall@15: fraction of queries where a keyword from same abstract found in top 15
+    recall_at_15 = sum(
+        1 if any(search_df.iloc[search_results[i][j]["corpus_id"]]["path"] == search_df.iloc[i]["path"] 
+                 for j in range(NUM_KEYWORDS_PER_ABSTRACT))
+        else 0
+        for i in range(num_keywords)
+    ) / num_keywords
+
+    # Precision@15: fraction of returned results that are keywords from the same abstract
+    precision_at_15 = sum(
+        1 if search_df.iloc[search_results[i][j]["corpus_id"]]["path"] == search_df.iloc[i]["path"]
+        else 0
+        for i in range(num_keywords)
+        for j in range(NUM_KEYWORDS_PER_ABSTRACT)
+    ) / (num_keywords * NUM_KEYWORDS_PER_ABSTRACT)
+
+    # F1@15: harmonic mean of precision and recall
+    f1_at_15 = (
+        2 * (precision_at_15 * recall_at_15) / (precision_at_15 + recall_at_15)
+        if (precision_at_15 + recall_at_15) > 0
+        else 0
+    )
+
     return {
         "perfect_match_score": perfect_match_score,
+        "mean_reciprocal_rank": mean_reciprocal_rank,
         "related_keyword_score": related_keyword_score,
+        "recall_at_15": recall_at_15,
+        "precision_at_15": precision_at_15,
+        "f1_at_15": f1_at_15,
         "search_results": search_results,
         "search_df": search_df,
     }

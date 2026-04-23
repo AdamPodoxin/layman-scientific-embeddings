@@ -4,6 +4,7 @@ from safetensors.torch import load_file
 from transformers import BitsAndBytesConfig
 from sentence_transformers import SentenceTransformer
 from peft import LoraConfig
+import math
 
 
 QWEN_MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
@@ -42,3 +43,7 @@ def load_finetuned_qwen(adapter: Path | str):
     model._first_module().auto_model.load_state_dict(remapped, strict=False)
 
     return model
+
+
+def round_down_to_2_decimals(x: float):
+    return math.floor(x * 100) / 100
