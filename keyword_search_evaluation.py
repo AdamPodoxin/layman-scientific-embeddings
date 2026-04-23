@@ -55,7 +55,7 @@ def get_scores(model: str | Path | SentenceTransformer):
         for i in range(num_keywords)
     ) / num_keywords
 
-    mean_reciprocal_rank = sum(
+    mean_reciprocal_rank_at_15 = sum(
         1 / (j + 1)  # j is 0-indexed, so j + 1 gives the 1-indexed rank
         for i in range(num_keywords)
         for j in range(NUM_KEYWORDS_PER_ABSTRACT)
@@ -98,7 +98,7 @@ def get_scores(model: str | Path | SentenceTransformer):
 
     return {
         "perfect_match_score": perfect_match_score,
-        "mean_reciprocal_rank": mean_reciprocal_rank,
+        "mean_reciprocal_rank_at_15": mean_reciprocal_rank_at_15,
         "related_keyword_score": related_keyword_score,
         "recall_at_15": recall_at_15,
         "precision_at_15": precision_at_15,
