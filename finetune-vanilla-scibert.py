@@ -11,18 +11,18 @@ from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
 DATA_PATH = Path("data")
 
-ABSTRACT_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-jargon"
-ABSTRACT_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-layman"
+JARGON_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-abstract"
+LAYMAN_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "layman-abstract"
 
-TITLE_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "title-jargon"
-TITLE_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "title-layman"
+JARGON_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-title"
+LAYMAN_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "layman-title"
 
 JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon"
 LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman"
-JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman"
+LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
-# All combinations of jargon-jargon, layman-layman, and jargon-layman,
-# as well as abstract-jargon, abstract-layman, title-jargon, and title-layman. 
+# All combinations of jargon-jargon, layman-layman, and layman-jargon,
+# as well as jargon-abstract, layman-abstract, jargon-title, and layman-title. 
 NUM_PAIRS_PER_ABSTRACT = 15 * 14 * 3 + 15 * 4
 NUM_ABSTRACTS_IN_BATCH = 10
 MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
@@ -39,30 +39,30 @@ OUTPUT_MODEL_PATH = Path("models/vanilla-scibert")
 
 
 def main():
-    abstract_jargon_pairs_dataset: DatasetDict = load_from_disk(str(ABSTRACT_JARGON_PAIRS_PATH))
-    abstract_layman_pairs_dataset: DatasetDict = load_from_disk(str(ABSTRACT_LAYMAN_PAIRS_PATH))
+    jargon_abstract_pairs_dataset: DatasetDict = load_from_disk(str(JARGON_ABSTRACT_PAIRS_PATH))
+    layman_abstract_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_ABSTRACT_PAIRS_PATH))
     
-    title_jargon_pairs_dataset: DatasetDict = load_from_disk(str(TITLE_JARGON_PAIRS_PATH))
-    title_layman_pairs_dataset: DatasetDict = load_from_disk(str(TITLE_LAYMAN_PAIRS_PATH))
+    jargon_title_pairs_dataset: DatasetDict = load_from_disk(str(JARGON_TITLE_PAIRS_PATH))
+    layman_title_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_TITLE_PAIRS_PATH))
 
     jargon_jargon_pairs_dataset: DatasetDict = load_from_disk(str(JARGON_JARGON_PAIRS_PATH))
     layman_layman_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_LAYMAN_PAIRS_PATH))
-    jargon_layman_pairs_dataset: DatasetDict = load_from_disk(str(JARGON_LAYMAN_PAIRS_PATH))
+    layman_jargon_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_JARGON_PAIRS_PATH))
 
     keyword_keyword_pairs_dataset_train = concatenate_datasets([
         jargon_jargon_pairs_dataset["train"],
         layman_layman_pairs_dataset["train"],
-        jargon_layman_pairs_dataset["train"],
+        layman_jargon_pairs_dataset["train"],
     ])
 
     abstract_keyword_pairs_dataset_train = concatenate_datasets([
-        abstract_jargon_pairs_dataset["train"],
-        abstract_layman_pairs_dataset["train"],
+        jargon_abstract_pairs_dataset["train"],
+        layman_abstract_pairs_dataset["train"],
     ])
 
     title_keyword_pairs_dataset_train = concatenate_datasets([
-        title_jargon_pairs_dataset["train"],
-        title_layman_pairs_dataset["train"],
+        jargon_title_pairs_dataset["train"],
+        layman_title_pairs_dataset["train"],
     ])
 
     full_dataset_train = concatenate_datasets([
@@ -79,17 +79,17 @@ def main():
     keyword_keyword_pairs_dataset_val = concatenate_datasets([
         jargon_jargon_pairs_dataset["val"],
         layman_layman_pairs_dataset["val"],
-        jargon_layman_pairs_dataset["val"],
+        layman_jargon_pairs_dataset["val"],
     ])
 
     abstract_keyword_pairs_dataset_val = concatenate_datasets([
-        abstract_jargon_pairs_dataset["val"],
-        abstract_layman_pairs_dataset["val"],
+        jargon_abstract_pairs_dataset["val"],
+        layman_abstract_pairs_dataset["val"],
     ])
 
     title_keyword_pairs_dataset_val = concatenate_datasets([
-        title_jargon_pairs_dataset["val"],
-        title_layman_pairs_dataset["val"],
+        jargon_title_pairs_dataset["val"],
+        layman_title_pairs_dataset["val"],
     ])
 
     full_dataset_val = concatenate_datasets([

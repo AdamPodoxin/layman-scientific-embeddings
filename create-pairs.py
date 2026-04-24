@@ -9,15 +9,15 @@ from datasets import Dataset, DatasetDict, load_dataset
 DATA_PATH = Path("data")
 KEYWORDS_PATH = DATA_PATH / "keywords"
 
-ABSTRACT_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-jargon"
-ABSTRACT_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "abstract-layman"
+JARGON_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-abstract"
+LAYMAN_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "layman-abstract"
 
-TITLE_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "title-jargon"
-TITLE_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "title-layman"
+JARGON_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-title"
+LAYMAN_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "layman-title"
 
 JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon"
 LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman"
-JARGON_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-layman"
+LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
 DATASET_PATH = "allenai/scirepeval"
 DATASET_NAME = "scidocs_mag_mesh"
@@ -97,25 +97,25 @@ def main():
     assert len(abstracts) == len(jargon_terms_per_file)
     assert len(abstracts) == len(layman_terms_per_file)
 
-    abstract_jargon_pairs_per_file = [
-        create_pairs([abstract], jargon_terms)
-        for abstract, jargon_terms in zip(abstracts, jargon_terms_per_file)
+    jargon_abstract_pairs_per_file = [
+        create_pairs(jargon_terms, [abstract])
+        for jargon_terms, abstract in zip(jargon_terms_per_file, abstracts)
         if abstract is not None
     ]
-    abstract_layman_pairs_per_file = [
-        create_pairs([abstract], layman_terms)
-        for abstract, layman_terms in zip(abstracts, layman_terms_per_file)
+    layman_abstract_pairs_per_file = [
+        create_pairs(layman_terms, [abstract])
+        for layman_terms, abstract in zip(layman_terms_per_file, abstracts)
         if abstract is not None
     ]
 
-    title_jargon_pairs_per_file = [
-        create_pairs([title], jargon_terms)
-        for title, jargon_terms in zip(titles, jargon_terms_per_file)
+    jargon_title_pairs_per_file = [
+        create_pairs(jargon_terms, [title])
+        for jargon_terms, title in zip(jargon_terms_per_file, titles)
         if title is not None
     ]
-    title_layman_pairs_per_file = [
-        create_pairs([title], layman_terms)
-        for title, layman_terms in zip(titles, layman_terms_per_file)
+    layman_title_pairs_per_file = [
+        create_pairs(layman_terms, [title])
+        for layman_terms, title in zip(layman_terms_per_file, titles)
         if title is not None
     ]
 
@@ -127,30 +127,30 @@ def main():
         create_pairs(layman_terms, layman_terms)
         for layman_terms in layman_terms_per_file
     ]
-    jargon_layman_pairs_per_file = [
-        create_pairs(jargon_terms, layman_terms)
-        for jargon_terms, layman_terms in zip(jargon_terms_per_file, layman_terms_per_file)
+    layman_jargon_pairs_per_file = [
+        create_pairs(layman_terms, jargon_terms)
+        for layman_terms, jargon_terms in zip(layman_terms_per_file, jargon_terms_per_file)
     ]
 
-    abstract_jargon_pairs = list(itertools.chain.from_iterable(abstract_jargon_pairs_per_file))
-    abstract_layman_pairs = list(itertools.chain.from_iterable(abstract_layman_pairs_per_file))
+    jargon_abstract_pairs = list(itertools.chain.from_iterable(jargon_abstract_pairs_per_file))
+    layman_abstract_pairs = list(itertools.chain.from_iterable(layman_abstract_pairs_per_file))
 
-    title_jargon_pairs = list(itertools.chain.from_iterable(title_jargon_pairs_per_file))
-    title_layman_pairs = list(itertools.chain.from_iterable(title_layman_pairs_per_file))
+    jargon_title_pairs = list(itertools.chain.from_iterable(jargon_title_pairs_per_file))
+    layman_title_pairs = list(itertools.chain.from_iterable(layman_title_pairs_per_file))
     
     jargon_jargon_pairs = list(itertools.chain.from_iterable(jargon_jargon_pairs_per_file))
     layman_layman_pairs = list(itertools.chain.from_iterable(layman_layman_pairs_per_file))
-    jargon_layman_pairs = list(itertools.chain.from_iterable(jargon_layman_pairs_per_file))
+    layman_jargon_pairs = list(itertools.chain.from_iterable(layman_jargon_pairs_per_file))
     
-    save_pairs(abstract_jargon_pairs, ABSTRACT_JARGON_PAIRS_PATH)
-    save_pairs(abstract_layman_pairs, ABSTRACT_LAYMAN_PAIRS_PATH)
+    save_pairs(jargon_abstract_pairs, JARGON_ABSTRACT_PAIRS_PATH)
+    save_pairs(layman_abstract_pairs, LAYMAN_ABSTRACT_PAIRS_PATH)
     
-    save_pairs(title_jargon_pairs, TITLE_JARGON_PAIRS_PATH)
-    save_pairs(title_layman_pairs, TITLE_LAYMAN_PAIRS_PATH)
+    save_pairs(jargon_title_pairs, JARGON_TITLE_PAIRS_PATH)
+    save_pairs(layman_title_pairs, LAYMAN_TITLE_PAIRS_PATH)
 
     save_pairs(jargon_jargon_pairs, JARGON_JARGON_PAIRS_PATH)
     save_pairs(layman_layman_pairs, LAYMAN_LAYMAN_PAIRS_PATH)
-    save_pairs(jargon_layman_pairs, JARGON_LAYMAN_PAIRS_PATH)
+    save_pairs(layman_jargon_pairs, LAYMAN_JARGON_PAIRS_PATH)
 
 
 if __name__ == "__main__":
