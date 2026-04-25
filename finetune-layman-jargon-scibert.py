@@ -22,26 +22,16 @@ NUM_PAIRS_PER_ABSTRACT = 15 * 14
 NUM_ABSTRACTS_IN_BATCH = 10
 MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
-LEARNING_RATE = 2e-6
-WEIGHT_DECAY = 2e-6
-BATCH_SIZE = 30
-
-PROP_PAIRS_TO_TAKE = 1.00
+LEARNING_RATE = 1e-5
+WEIGHT_DECAY = 1e-4
+BATCH_SIZE = 32
 
 
 def main():
     layman_jargon_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_JARGON_PAIRS_PATH))
     
-    train_pairs = layman_jargon_pairs_dataset["train"]
-    val_pairs = layman_jargon_pairs_dataset["val"]
-
-    train_dataset = train_pairs \
-                    .shuffle() \
-                    .take(int(PROP_PAIRS_TO_TAKE * train_pairs.shape[0]))
-    
-    val_dataset = val_pairs \
-                    .shuffle() \
-                    .take(int(PROP_PAIRS_TO_TAKE * val_pairs.shape[0]))
+    train_dataset = layman_jargon_pairs_dataset["train"]
+    val_dataset = layman_jargon_pairs_dataset["val"]
 
     model = SentenceTransformer(str(VANILLA_FINETUNED_MODEL_PATH))
 
