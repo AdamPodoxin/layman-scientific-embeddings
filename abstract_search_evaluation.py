@@ -4,7 +4,7 @@ from pathlib import Path
 import pandas as pd
 from sentence_transformers.util import semantic_search
 from sentence_transformers import SentenceTransformer
-from datasets import Dataset, load_dataset
+from datasets import load_dataset
 
 
 TEST_KEYWORDS_PATH = Path("data") / "test_keywords"
@@ -26,7 +26,7 @@ def get_layman_keywords_from_document(document: dict):
 
 
 def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_ABSTRACTS):
-    if type(model) is not SentenceTransformer:
+    if not isinstance(model, SentenceTransformer):
         model = SentenceTransformer(str(model))
 
     paths = [path for path in TEST_KEYWORDS_PATH.iterdir()]
@@ -41,40 +41,51 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_AB
 
     dataset_df = load_dataset("allenai/scirepeval", "scidocs_mag_mesh", split="evaluation").to_pandas()
     merged_df = pd.merge(df, dataset_df, on="doc_id")
-    search_df = merged_df.explode("layman")[["layman", "abstract"]] \
-                            .reset_index() \
-                            .drop("index", axis=1)
+    corpus_df = merged_df[["doc_id", "abstract"]] \
+                    .drop_duplicates(subset="doc_id") \
+                    .reset_index(drop=True)
+    query_df = merged_df[["doc_id", "layman"]] \
+                    .explode("layman") \
+                    .reset_index(drop=True)
 
-    abstract_embeddings = model.encode_document(search_df["abstract"].to_list())
-    layman_embeddings = model.encode_query(search_df["layman"].to_list())
+    doc_id_to_corpus_id = {
+        doc_id: corpus_id
+        for corpus_id, doc_id in enumerate(corpus_df["doc_id"])
+    }
+    top_k = min(top_k_abstracts, corpus_df.shape[0])
+
+    abstract_embeddings = model.encode_document(corpus_df["abstract"].to_list())
+    layman_embeddings = model.encode_query(query_df["layman"].to_list())
 
     search_results = semantic_search(
         query_embeddings=layman_embeddings,
         corpus_embeddings=abstract_embeddings,
-        top_k=top_k_abstracts,
+        top_k=top_k,
     )
 
-    num_keywords = search_df.shape[0]
+    target_corpus_ids = query_df["doc_id"].map(doc_id_to_corpus_id).to_list()
+    num_keywords = query_df.shape[0]
 
     perfect_match_score = sum(
-        1 if search_results[i][0]["corpus_id"] == i
+        1 if search_results[i][0]["corpus_id"] == target_corpus_ids[i]
         else 0
         for i in range(num_keywords)
     ) / num_keywords
 
     mean_reciprocal_rank_at_5 = sum(
-        1 / (j + 1)  # j is 0-indexed, so j + 1 gives the 1-indexed rank
+        next(
+            (
+                1 / (rank + 1)  # rank is 0-indexed, so rank + 1 gives the 1-indexed rank
+                for rank, result in enumerate(search_results[i])
+                if result["corpus_id"] == target_corpus_ids[i]
+            ),
+            0,
+        )
         for i in range(num_keywords)
-        for j in range(top_k_abstracts)
-        if search_results[i][j]["corpus_id"] == i
-        and j == next(
-            k for k in range(top_k_abstracts)
-            if search_results[i][k]["corpus_id"] == i
-        )  # Only count the first match
     ) / num_keywords
 
     recall_at_5 = sum(
-        1 if any(search_results[i][j]["corpus_id"] == i for j in range(TOP_K_ABSTRACTS))
+        1 if any(result["corpus_id"] == target_corpus_ids[i] for result in search_results[i])
         else 0
         for i in range(num_keywords)
     ) / num_keywords
@@ -84,7 +95,8 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_AB
         "mean_reciprocal_rank_at_5": mean_reciprocal_rank_at_5,
         "recall_at_5": recall_at_5,
         "search_results": search_results,
-        "search_df": search_df,
+        "search_df": query_df,
+        "corpus_df": corpus_df,
     }
 
 
@@ -93,8 +105,8 @@ def main():
 
     scores = get_scores(model_path)
     print("Full match score:", scores["perfect_match_score"])
-    print("Mean reciprocal rank:", scores["mean_reciprocal_rank"])
-    print("Precision@5:", scores["precision_at_5"])
+    print("Mean reciprocal rank@5:", scores["mean_reciprocal_rank_at_5"])
+    print("Recall@5:", scores["recall_at_5"])
 
 if __name__ == "__main__":
     main()
