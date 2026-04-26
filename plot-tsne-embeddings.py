@@ -2,6 +2,7 @@ import argparse
 import json
 from pathlib import Path
 import pandas as pd
+import numpy as np
 from sentence_transformers import SentenceTransformer
 from datasets import load_dataset
 from sklearn.decomposition import PCA
@@ -90,7 +91,7 @@ if __name__ == "__main__":
     if bool(args.lora_qwen):
         model = load_finetuned_qwen(args.model_path)
     else:
-        model = SentenceTransformer(args.model_path)
+        model = SentenceTransformer(args.model_path, device="cuda")
 
     df = pd.DataFrame(data={ "path": [path for path in Path(args.input).iterdir()] })
     df["id"] = df["path"].apply(lambda path: path.stem)
@@ -108,31 +109,54 @@ if __name__ == "__main__":
 
     df = pd.merge(left=df, right=ds_df, left_on="id", right_on="doc_id")
 
-    df = df.explode(["jargon", "layman"])
+    # Filter to documents we want to plot BEFORE encoding
+    ids = list(set(df["id"]))
+    ids_to_plot = ids[:int(args.num_docs_plot)]
+    
+    df_filtered = df[df["id"].isin(ids_to_plot)]
+    ds_df_filtered = ds_df[ds_df["doc_id"].isin(ids_to_plot)]
 
-    jargon_embeddings = model.encode(df["jargon"].to_list())
-    layman_embeddings = model.encode(df["layman"].to_list())
+    df_filtered = df_filtered.explode(["jargon", "layman"])
 
+    jargon_embeddings = model.encode(df_filtered["jargon"].to_list())
+    layman_embeddings = model.encode(df_filtered["layman"].to_list())
+    
+    # Encode titles for filtered documents only
+    title_embeddings = model.encode(ds_df_filtered["title"].to_list())
+
+    # Combine all embeddings for consistent dimensionality reduction
+    all_embeddings = np.vstack([jargon_embeddings, layman_embeddings, title_embeddings])
+    
     # First reducing to 50 components using PCA
     # before running through t-SNE, as per docs.
     pca = PCA(n_components=50)
-    jargon_pca = pca.fit_transform(jargon_embeddings)
-    layman_pca = pca.fit_transform(layman_embeddings)
+    all_pca = pca.fit_transform(all_embeddings)
+    
+    # Split back into separate arrays
+    jargon_pca = all_pca[:len(jargon_embeddings)]
+    layman_pca = all_pca[len(jargon_embeddings):len(jargon_embeddings)+len(layman_embeddings)]
+    title_pca = all_pca[len(jargon_embeddings)+len(layman_embeddings):]
 
     tsne = TSNE(random_state=0)
-    jargon_tsne = tsne.fit_transform(jargon_pca)
-    layman_tsne = tsne.fit_transform(layman_pca)
+    all_tsne = tsne.fit_transform(all_pca)
+    
+    # Split back into separate arrays
+    jargon_tsne = all_tsne[:len(jargon_embeddings)]
+    layman_tsne = all_tsne[len(jargon_embeddings):len(jargon_embeddings)+len(layman_embeddings)]
+    title_tsne = all_tsne[len(jargon_embeddings)+len(layman_embeddings):]
 
-    df["jargon_tsne_component_0"] = jargon_tsne[:, 0]
-    df["jargon_tsne_component_1"] = jargon_tsne[:, 1]
+    df_filtered["jargon_tsne_component_0"] = jargon_tsne[:, 0]
+    df_filtered["jargon_tsne_component_1"] = jargon_tsne[:, 1]
 
-    df["layman_tsne_component_0"] = layman_tsne[:, 0]
-    df["layman_tsne_component_1"] = layman_tsne[:, 1]
+    df_filtered["layman_tsne_component_0"] = layman_tsne[:, 0]
+    df_filtered["layman_tsne_component_1"] = layman_tsne[:, 1]
+    
+    # Create a dataframe for titles
+    title_df_to_plot = ds_df_filtered.copy()
+    title_df_to_plot["title_tsne_component_0"] = title_tsne[:, 0]
+    title_df_to_plot["title_tsne_component_1"] = title_tsne[:, 1]
 
-    ids = list(set(df["id"]))
-    ids_to_plot = ids[:int(args.num_docs_plot)]
-
-    df_to_plot = df[df["id"].isin(ids_to_plot)]
+    df_to_plot = df_filtered
 
     sns.set_theme(
         context="talk",
@@ -154,6 +178,15 @@ if __name__ == "__main__":
         hue="id",
         legend=False,
         marker="D"
+    )
+    sns.scatterplot(
+        data=title_df_to_plot,
+        x="title_tsne_component_0",
+        y="title_tsne_component_1",
+        hue="doc_id",
+        legend=False,
+        marker="x",
+        s=200
     )
     plt.xlabel("")
     plt.ylabel("")
