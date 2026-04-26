@@ -76,7 +76,7 @@ def parse_args():
         help="HF dataset split",
     )
     p.add_argument(
-        "--num-docs-plot",
+        "--num-docs",
         type=int,
         default=10,
         help="Number of documents whose keywords to plot",
@@ -111,7 +111,7 @@ if __name__ == "__main__":
 
     # Filter to documents we want to plot BEFORE encoding
     ids = list(set(df["id"]))
-    ids_to_plot = ids[:int(args.num_docs_plot)]
+    ids_to_plot = ids[:int(args.num_docs)]
     
     df_filtered = df[df["id"].isin(ids_to_plot)]
     ds_df_filtered = ds_df[ds_df["doc_id"].isin(ids_to_plot)]
@@ -121,11 +121,11 @@ if __name__ == "__main__":
     jargon_embeddings = model.encode(df_filtered["jargon"].to_list())
     layman_embeddings = model.encode(df_filtered["layman"].to_list())
     
-    # Encode titles for filtered documents only
-    title_embeddings = model.encode(ds_df_filtered["title"].to_list())
+    # Encode abstracts for filtered documents only
+    abstract_embeddings = model.encode(ds_df_filtered["abstract"].to_list())
 
     # Combine all embeddings for consistent dimensionality reduction
-    all_embeddings = np.vstack([jargon_embeddings, layman_embeddings, title_embeddings])
+    all_embeddings = np.vstack([jargon_embeddings, layman_embeddings, abstract_embeddings])
     
     # First reducing to 50 components using PCA
     # before running through t-SNE, as per docs.
@@ -135,7 +135,7 @@ if __name__ == "__main__":
     # Split back into separate arrays
     jargon_pca = all_pca[:len(jargon_embeddings)]
     layman_pca = all_pca[len(jargon_embeddings):len(jargon_embeddings)+len(layman_embeddings)]
-    title_pca = all_pca[len(jargon_embeddings)+len(layman_embeddings):]
+    abstract_pca = all_pca[len(jargon_embeddings)+len(layman_embeddings):]
 
     tsne = TSNE(random_state=0)
     all_tsne = tsne.fit_transform(all_pca)
@@ -143,7 +143,7 @@ if __name__ == "__main__":
     # Split back into separate arrays
     jargon_tsne = all_tsne[:len(jargon_embeddings)]
     layman_tsne = all_tsne[len(jargon_embeddings):len(jargon_embeddings)+len(layman_embeddings)]
-    title_tsne = all_tsne[len(jargon_embeddings)+len(layman_embeddings):]
+    abstract_tsne = all_tsne[len(jargon_embeddings)+len(layman_embeddings):]
 
     df_filtered["jargon_tsne_component_0"] = jargon_tsne[:, 0]
     df_filtered["jargon_tsne_component_1"] = jargon_tsne[:, 1]
@@ -151,12 +151,18 @@ if __name__ == "__main__":
     df_filtered["layman_tsne_component_0"] = layman_tsne[:, 0]
     df_filtered["layman_tsne_component_1"] = layman_tsne[:, 1]
     
-    # Create a dataframe for titles
-    title_df_to_plot = ds_df_filtered.copy()
-    title_df_to_plot["title_tsne_component_0"] = title_tsne[:, 0]
-    title_df_to_plot["title_tsne_component_1"] = title_tsne[:, 1]
+    # Create a dataframe for abstracts
+    abstract_df_to_plot = ds_df_filtered.copy()
+    abstract_df_to_plot["id"] = abstract_df_to_plot["doc_id"]
+    abstract_df_to_plot["abstract_tsne_component_0"] = abstract_tsne[:, 0]
+    abstract_df_to_plot["abstract_tsne_component_1"] = abstract_tsne[:, 1]
 
     df_to_plot = df_filtered
+    
+    # Ensure id column is the same type and categorical in both dataframes
+    id_categories = sorted(df_to_plot["id"].unique())
+    df_to_plot["id"] = pd.Categorical(df_to_plot["id"], categories=id_categories)
+    abstract_df_to_plot["id"] = pd.Categorical(abstract_df_to_plot["id"], categories=id_categories)
 
     sns.set_theme(
         context="talk",
@@ -177,16 +183,17 @@ if __name__ == "__main__":
         y="layman_tsne_component_1",
         hue="id",
         legend=False,
-        marker="D"
+        marker="^"
     )
     sns.scatterplot(
-        data=title_df_to_plot,
-        x="title_tsne_component_0",
-        y="title_tsne_component_1",
-        hue="doc_id",
+        data=abstract_df_to_plot,
+        x="abstract_tsne_component_0",
+        y="abstract_tsne_component_1",
+        hue="id",
         legend=False,
-        marker="x",
-        s=200
+        marker="D",
+        linewidths=1,
+        edgecolor="black"
     )
     plt.xlabel("")
     plt.ylabel("")
