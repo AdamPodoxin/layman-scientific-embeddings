@@ -1,7 +1,6 @@
 import argparse
 import json
 from pathlib import Path
-import numpy as np
 import pandas as pd
 from sentence_transformers import SentenceTransformer
 from datasets import load_dataset
@@ -9,6 +8,7 @@ from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
 import matplotlib.pyplot as plt
 import seaborn as sns
+from utils import load_finetuned_qwen
 
 
 def read_keywords_file(path: Path) -> dict:
@@ -30,13 +30,18 @@ def parse_args():
     p.add_argument(
         "--model-path",
         type=str,
-        default="models/vanilla-finetuned",
+        default="models/vanilla-scibert",
         help="The HF model id or local directory",
+    )
+    p.add_argument(
+        "--lora-qwen",
+        action="store_true",
+        help="If the model is a finetuned Qwen model, then use the loading util",
     )
     p.add_argument(
         "--model-name",
         type=str,
-        default="LaySciSearch-vanilla-SciBERT",
+        default="vanilla-scibert",
         help="Model name to display in title",
     )
     p.add_argument(
@@ -48,7 +53,7 @@ def parse_args():
     p.add_argument(
         "--output",
         type=Path,
-        default=Path("plots/tsne/vanilla-tsne.png"),
+        default=Path("plots/tsne/vanilla-scibert.png"),
         help="Output image path",
     )
     p.add_argument(
@@ -72,7 +77,7 @@ def parse_args():
     p.add_argument(
         "--num-docs-plot",
         type=int,
-        default=8,
+        default=10,
         help="Number of documents whose keywords to plot",
     )
 
@@ -82,7 +87,10 @@ def parse_args():
 if __name__ == "__main__":
     args = parse_args()
 
-    model = SentenceTransformer(args.model_path)
+    if bool(args.lora_qwen):
+        model = load_finetuned_qwen(args.model_path)
+    else:
+        model = SentenceTransformer(args.model_path)
 
     df = pd.DataFrame(data={ "path": [path for path in Path(args.input).iterdir()] })
     df["id"] = df["path"].apply(lambda path: path.stem)
