@@ -1,6 +1,5 @@
 from pathlib import Path
 import torch
-from safetensors.torch import load_file
 from transformers import BitsAndBytesConfig
 from sentence_transformers import (
         SentenceTransformer, 
@@ -9,7 +8,6 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from peft import LoraConfig, TaskType
 from datasets import DatasetDict, load_from_disk
 
 
@@ -30,7 +28,14 @@ MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
 LEARNING_RATE = 1e-5
 WEIGHT_DECAY = 1e-4
-BATCH_SIZE = 256
+BATCH_SIZE = 64
+
+
+def get_document_prompt(model: SentenceTransformer) -> str:
+    for prompt_name in ("document", "passage", "corpus"):
+        if prompt_name in model.prompts:
+            return model.prompts[prompt_name]
+    return ""
 
 
 def main():
@@ -54,27 +59,13 @@ def main():
         }
     )
 
-    lora_config = LoraConfig(
-        task_type=TaskType.FEATURE_EXTRACTION,
-        inference_mode=False,
-        r=16,
-        lora_alpha=16,
-        lora_dropout=0.05,
-        target_modules="all-linear",
-        bias="none",
-        use_qalora=True,
-    )
+    model.load_adapter(str(VANILLA_FINETUNED_MODEL_PATH), adapter_name="default", is_trainable=True)
+    model.set_adapter("default")
 
-    model._first_module().auto_model.add_adapter(lora_config)
-
-    adapter_state_dict = load_file(VANILLA_FINETUNED_MODEL_PATH / "adapter_model.safetensors")
-
-    remapped = {
-        k.replace("base_model.model.", ""): v 
-        for k, v in adapter_state_dict.items()
+    column_prompts = {
+        "anchor": model.prompts.get("query", ""),
+        "positive": get_document_prompt(model),
     }
-
-    model._first_module().auto_model.load_state_dict(remapped, strict=False)
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
@@ -87,6 +78,7 @@ def main():
 
         eval_strategy="epoch",
         save_strategy="epoch",
+        load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         save_total_limit=1,
         save_only_model=True,
@@ -103,6 +95,8 @@ def main():
         dataloader_num_workers=4,
         dataloader_pin_memory=True,
         optim="paged_adamw_8bit",
+        prompts=column_prompts,
+        router_mapping={"anchor": "query", "positive": "document"},
     )
 
     trainer = SentenceTransformerTrainer(
@@ -115,7 +109,7 @@ def main():
 
     trainer.train()
 
-    model.save_pretrained(OUTPUT_MODEL_PATH)
+    trainer.save_model()
 
 
 if __name__ == "__main__":

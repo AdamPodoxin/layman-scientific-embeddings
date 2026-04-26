@@ -32,13 +32,20 @@ MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
 LEARNING_RATE = 1e-5
 WEIGHT_DECAY = 1e-4
-BATCH_SIZE = 16
+BATCH_SIZE = 64
 
-PROP_PAIRS_TO_TAKE = 0.20
+PROP_PAIRS_TO_TAKE = 0.25
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
 OUTPUT_MODEL_PATH = Path("models/vanilla-qwen")
+
+
+def get_document_prompt(model: SentenceTransformer) -> str:
+    for prompt_name in ("document", "passage", "corpus"):
+        if prompt_name in model.prompts:
+            return model.prompts[prompt_name]
+    return ""
 
 
 def main():
@@ -133,6 +140,12 @@ def main():
     )
 
     model.add_adapter(lora_config)
+    model.set_adapter("default")
+
+    column_prompts = {
+        "anchor": model.prompts.get("query", ""),
+        "positive": get_document_prompt(model),
+    }
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
@@ -145,6 +158,7 @@ def main():
 
         eval_strategy="epoch",
         save_strategy="epoch",
+        load_best_model_at_end=True,
         metric_for_best_model="eval_loss",
         save_total_limit=1,
         save_only_model=True,
@@ -160,7 +174,9 @@ def main():
 
         dataloader_num_workers=4,
         dataloader_pin_memory=True,
-        optim="paged_adamw_8bit", 
+        optim="paged_adamw_8bit",
+        prompts=column_prompts,
+        router_mapping={"anchor": "query", "positive": "document"},
     )
 
     trainer = SentenceTransformerTrainer(
@@ -173,7 +189,7 @@ def main():
 
     trainer.train()
 
-    model.save_pretrained(OUTPUT_MODEL_PATH)
+    trainer.save_model()
 
 
 if __name__ == "__main__":
