@@ -26,13 +26,13 @@ LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
 # All combinations of jargon-jargon, layman-layman, and layman-jargon,
 # as well as jargon-abstract, layman-abstract, jargon-title, and layman-title. 
-NUM_PAIRS_PER_ABSTRACT = 15 * 14 * 3 + 15 * 4
+NUM_PAIRS_PER_ABSTRACT = (15 * 14 * 2) + (15 * 15) + (15 * 4)
 NUM_ABSTRACTS_IN_BATCH = 10
 MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
-LEARNING_RATE = 1e-5
+LEARNING_RATE = 2e-4
 WEIGHT_DECAY = 1e-4
-BATCH_SIZE = 64
+BATCH_SIZE = 16
 
 PROP_PAIRS_TO_TAKE = 0.25
 
@@ -86,33 +86,6 @@ def main():
                                 .shuffle() \
                                 .take(int(PROP_PAIRS_TO_TAKE * full_dataset_train.shape[0]))
 
-    keyword_keyword_pairs_dataset_val = concatenate_datasets([
-        jargon_jargon_pairs_dataset["val"],
-        layman_layman_pairs_dataset["val"],
-        layman_jargon_pairs_dataset["val"],
-    ])
-
-    abstract_keyword_pairs_dataset_val = concatenate_datasets([
-        jargon_abstract_pairs_dataset["val"],
-        layman_abstract_pairs_dataset["val"],
-    ])
-
-    title_keyword_pairs_dataset_val = concatenate_datasets([
-        jargon_title_pairs_dataset["val"],
-        layman_title_pairs_dataset["val"],
-    ])
-
-    full_dataset_val = concatenate_datasets([
-        keyword_keyword_pairs_dataset_val,
-        abstract_keyword_pairs_dataset_val,
-        title_keyword_pairs_dataset_val,
-    ])
-
-    # For efficiency, taking a subset of the entire pairs dataset
-    val_dataset = full_dataset_val \
-                                .shuffle() \
-                                .take(int(PROP_PAIRS_TO_TAKE * full_dataset_val.shape[0]))
-
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
@@ -137,6 +110,7 @@ def main():
         target_modules="all-linear",
         bias="none",
         use_qalora=True,
+        use_rslora=True,
     )
 
     model.add_adapter(lora_config)
@@ -156,15 +130,11 @@ def main():
         weight_decay=WEIGHT_DECAY,
         batch_sampler=BatchSamplers.NO_DUPLICATES,
 
-        eval_strategy="epoch",
         save_strategy="epoch",
-        load_best_model_at_end=True,
-        metric_for_best_model="eval_loss",
         save_total_limit=1,
         save_only_model=True,
 
         per_device_train_batch_size=BATCH_SIZE,
-        per_device_eval_batch_size=BATCH_SIZE,
 
         gradient_accumulation_steps=4,
         gradient_checkpointing=True,
@@ -182,14 +152,13 @@ def main():
     trainer = SentenceTransformerTrainer(
         model=model,
         train_dataset=train_dataset,
-        eval_dataset=val_dataset,
         loss=loss,
         args=args,
     )
 
     trainer.train()
 
-    trainer.save_model()
+    model.save_pretrained(OUTPUT_MODEL_PATH)
 
 
 if __name__ == "__main__":
