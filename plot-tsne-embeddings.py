@@ -1,28 +1,19 @@
 import argparse
-import json
 from pathlib import Path
-import pandas as pd
+
+import matplotlib.pyplot as plt
 import numpy as np
+import pandas as pd
+import seaborn as sns
 from sentence_transformers import SentenceTransformer
-from datasets import load_dataset
 from sklearn.decomposition import PCA
 from sklearn.manifold import TSNE
-import matplotlib.pyplot as plt
-import seaborn as sns
-from utils import load_finetuned_qwen
 
-
-def read_keywords_file(path: Path) -> dict:
-    with open(path) as f:
-        return json.loads(f.read())
-
-
-def get_keywords_from_document(document: dict):
-    keyword_pairs: list[dict[str, str]] = list(document["core_entities"]) \
-                    + list(document["methodologies"]) \
-                    + list(document["outcomes"])
-    
-    return keyword_pairs
+from utils import (
+    build_keyword_search_df,
+    build_layman_document_search_dfs,
+    load_finetuned_qwen,
+)
 
 
 def parse_args():
@@ -46,34 +37,10 @@ def parse_args():
         help="Model name to display in title",
     )
     p.add_argument(
-        "--input",
-        type=Path,
-        default=Path("data/test_keywords"),
-        help="Path to keywords directory",
-    )
-    p.add_argument(
         "--output",
         type=Path,
         default=Path("plots/tsne/vanilla-scibert.png"),
         help="Output image path",
-    )
-    p.add_argument(
-        "--dataset-path",
-        type=str,
-        default="allenai/scirepeval",
-        help="HF dataset path",
-    )
-    p.add_argument(
-        "--dataset-name",
-        type=str,
-        default="scidocs_mag_mesh",
-        help="HF dataset name",
-    )
-    p.add_argument(
-        "--dataset-split",
-        type=str,
-        default="evaluation",
-        help="HF dataset split",
     )
     p.add_argument(
         "--num-docs",
@@ -93,36 +60,20 @@ if __name__ == "__main__":
     else:
         model = SentenceTransformer(args.model_path, device="cuda")
 
-    df = pd.DataFrame(data={ "path": [path for path in Path(args.input).iterdir()] })
-    df["id"] = df["path"].apply(lambda path: path.stem)
-    df["document"] = df["path"].apply(read_keywords_file)
-    df["keywords"] = df["document"].apply(get_keywords_from_document)
-    df["jargon"] = df["keywords"].apply(lambda keyword_pairs: list(pair["jargon"] for pair in keyword_pairs))
-    df["layman"] = df["keywords"].apply(lambda keyword_pairs: list(pair["layman"] for pair in keyword_pairs))
+    keyword_df = build_keyword_search_df()
+    _, abstract_corpus_df = build_layman_document_search_dfs("layman-abstract")
 
-    ds = load_dataset(
-        path=str(args.dataset_path),
-        name=str(args.dataset_name),
-        split=str(args.dataset_split)
-    )
-    ds_df = ds.to_pandas()
+    keyword_df = keyword_df.rename(columns={"doc_id": "id"})
+    abstract_corpus_df = abstract_corpus_df.rename(columns={"doc_id": "id", "document": "abstract"})
 
-    df = pd.merge(left=df, right=ds_df, left_on="id", right_on="doc_id")
+    ids_to_plot = sorted(keyword_df["id"].unique())[: int(args.num_docs)]
 
-    # Filter to documents we want to plot BEFORE encoding
-    ids = list(set(df["id"]))
-    ids_to_plot = ids[:int(args.num_docs)]
-    
-    df_filtered = df[df["id"].isin(ids_to_plot)]
-    ds_df_filtered = ds_df[ds_df["doc_id"].isin(ids_to_plot)]
-
-    df_filtered = df_filtered.explode(["jargon", "layman"])
+    df_filtered = keyword_df[keyword_df["id"].isin(ids_to_plot)]
+    abstract_df_filtered = abstract_corpus_df[abstract_corpus_df["id"].isin(ids_to_plot)]
 
     jargon_embeddings = model.encode(df_filtered["jargon"].to_list())
     layman_embeddings = model.encode(df_filtered["layman"].to_list())
-    
-    # Encode abstracts for filtered documents only
-    abstract_embeddings = model.encode(ds_df_filtered["abstract"].to_list())
+    abstract_embeddings = model.encode(abstract_df_filtered["abstract"].to_list())
 
     # Combine all embeddings for consistent dimensionality reduction
     all_embeddings = np.vstack([jargon_embeddings, layman_embeddings, abstract_embeddings])
@@ -152,8 +103,7 @@ if __name__ == "__main__":
     df_filtered["layman_tsne_component_1"] = layman_tsne[:, 1]
     
     # Create a dataframe for abstracts
-    abstract_df_to_plot = ds_df_filtered.copy()
-    abstract_df_to_plot["id"] = abstract_df_to_plot["doc_id"]
+    abstract_df_to_plot = abstract_df_filtered.copy()
     abstract_df_to_plot["abstract_tsne_component_0"] = abstract_tsne[:, 0]
     abstract_df_to_plot["abstract_tsne_component_1"] = abstract_tsne[:, 1]
 

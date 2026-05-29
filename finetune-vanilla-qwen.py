@@ -1,21 +1,29 @@
+import argparse
 from pathlib import Path
-import torch
-from transformers import BitsAndBytesConfig
+
 from sentence_transformers import (
-        SentenceTransformer, 
-        SentenceTransformerTrainer, 
-        SentenceTransformerTrainingArguments,
-    )
+    SentenceTransformer,
+    SentenceTransformerTrainer,
+    SentenceTransformerTrainingArguments,
+)
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from peft import LoraConfig, TaskType
 
-from utils import load_pairs_dataset, clean_pairs_for_training
+from utils import (
+    VANILLA_PAIR_TYPES,
+    VANILLA_PAIR_TYPES_FILTERED,
+    add_lora_adapter,
+    add_qwen_training_args,
+    get_qwen_optimizer,
+    load_pairs_dataset,
+    load_qwen_for_training,
+    merge_lora_and_save,
+    prepare_vanilla_qwen_datasets,
+)
 
 
-# All combinations of jargon-jargon, layman-layman, and layman-jargon,
-# as well as jargon-abstract, layman-abstract, jargon-title, and layman-title. 
-NUM_PAIRS_PER_ABSTRACT = (15 * 14 * 2) + (15 * 15) + (15 * 4)
+# layman-jargon + doc-keyword pairs, excluding jargon-jargon and layman-layman
+NUM_PAIRS_PER_ABSTRACT = (15 * 15) + (15 * 4)
 NUM_ABSTRACTS_IN_BATCH = 10
 MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
@@ -24,10 +32,34 @@ WEIGHT_DECAY = 1e-4
 BATCH_SIZE = 16
 
 PROP_PAIRS_TO_TAKE = 0.25
+LAYMAN_JARGON_WEIGHT = 2
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
 OUTPUT_MODEL_PATH = Path("models/vanilla-qwen")
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Fine-tune Qwen with LoRA on mixed retrieval pairs")
+    add_qwen_training_args(parser)
+    parser.add_argument(
+        "--output-path",
+        type=Path,
+        default=OUTPUT_MODEL_PATH,
+        help="Directory to save the fine-tuned model",
+    )
+    parser.add_argument(
+        "--include-same-language-pairs",
+        action="store_true",
+        help="Include jargon-jargon and layman-layman pairs in vanilla training",
+    )
+    parser.add_argument(
+        "--layman-jargon-weight",
+        type=int,
+        default=LAYMAN_JARGON_WEIGHT,
+        help="Repeat layman-jargon pairs this many times to upweight them",
+    )
+    return parser.parse_args()
 
 
 def get_document_prompt(model: SentenceTransformer) -> str:
@@ -38,43 +70,20 @@ def get_document_prompt(model: SentenceTransformer) -> str:
 
 
 def main():
+    args = parse_args()
+    use_4bit = not args.bf16_lora
+    pair_types = VANILLA_PAIR_TYPES if args.include_same_language_pairs else VANILLA_PAIR_TYPES_FILTERED
+
     pairs_dataset = load_pairs_dataset()
-    full_dataset_train = clean_pairs_for_training(pairs_dataset["train"])
-    full_dataset_val = clean_pairs_for_training(pairs_dataset["val"])
-
-    # For efficiency, taking a subset of the entire pairs dataset
-    train_dataset = full_dataset_train.take(int(PROP_PAIRS_TO_TAKE * full_dataset_train.shape[0]))
-    val_dataset = full_dataset_val.take(int(PROP_PAIRS_TO_TAKE * full_dataset_val.shape[0]))
-
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_quant_type="nf4",
-        bnb_4bit_compute_dtype=torch.bfloat16,
-        bnb_4bit_use_double_quant=True,
+    train_dataset, val_dataset = prepare_vanilla_qwen_datasets(
+        pairs_dataset,
+        PROP_PAIRS_TO_TAKE,
+        pair_types=pair_types,
+        layman_jargon_weight=args.layman_jargon_weight,
     )
 
-    model = SentenceTransformer(
-        MODEL_ID,
-        model_kwargs={
-            "quantization_config": bnb_config,
-            "device_map": "auto",
-        }
-    )
-
-    lora_config = LoraConfig(
-        task_type=TaskType.FEATURE_EXTRACTION,
-        inference_mode=False,
-        r=16,
-        lora_alpha=16,
-        lora_dropout=0.05,
-        target_modules="all-linear",
-        bias="none",
-        use_qalora=True,
-        use_rslora=True,
-    )
-
-    model.add_adapter(lora_config)
-    model.set_adapter("default")
+    model = load_qwen_for_training(use_4bit=use_4bit)
+    add_lora_adapter(model)
 
     column_prompts = {
         "anchor": model.prompts.get("query", ""),
@@ -83,8 +92,8 @@ def main():
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
-    args = SentenceTransformerTrainingArguments(
-        output_dir=OUTPUT_MODEL_PATH,
+    args_training = SentenceTransformerTrainingArguments(
+        output_dir=args.output_path,
 
         learning_rate=LEARNING_RATE,
         weight_decay=WEIGHT_DECAY,
@@ -108,7 +117,7 @@ def main():
 
         dataloader_num_workers=4,
         dataloader_pin_memory=True,
-        optim="paged_adamw_8bit",
+        optim=get_qwen_optimizer(use_4bit),
         prompts=column_prompts,
         router_mapping={"anchor": "query", "positive": "document"},
     )
@@ -118,12 +127,15 @@ def main():
         train_dataset=train_dataset,
         eval_dataset=val_dataset,
         loss=loss,
-        args=args,
+        args=args_training,
     )
 
     trainer.train()
 
-    trainer.save_model()
+    if args.merge_lora:
+        merge_lora_and_save(model, args.output_path)
+    else:
+        trainer.save_model()
 
 
 if __name__ == "__main__":

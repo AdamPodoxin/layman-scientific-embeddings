@@ -1,52 +1,19 @@
 import sys
-import json
 from pathlib import Path
-import pandas as pd
-from sentence_transformers.util import semantic_search
+
 from sentence_transformers import SentenceTransformer
-from datasets import load_dataset
+from sentence_transformers.util import semantic_search
 
-
-TEST_KEYWORDS_PATH = Path("data") / "test_keywords"
+from utils import build_layman_document_search_dfs
 
 TOP_K_ABSTRACTS = 5
-
-
-def read_keywords_file(path: Path) -> dict:
-    with open(path) as f:
-        return json.loads(f.read())
-
-
-def get_layman_keywords_from_document(document: dict):
-    keyword_pairs: list[dict[str, str]] = list(document["core_entities"]) \
-                    + list(document["methodologies"]) \
-                    + list(document["outcomes"])
-    
-    return [pair["layman"] for pair in keyword_pairs]
 
 
 def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_ABSTRACTS):
     if not isinstance(model, SentenceTransformer):
         model = SentenceTransformer(str(model))
 
-    paths = [path for path in TEST_KEYWORDS_PATH.iterdir()]
-    ids = [path.stem for path in paths]
-
-    df = pd.DataFrame(data={ 
-        "path": paths,
-        "doc_id": ids,
-    })
-    df["document"] = df["path"].apply(read_keywords_file)
-    df["layman"] = df["document"].apply(get_layman_keywords_from_document)
-
-    dataset_df = load_dataset("allenai/scirepeval", "scidocs_mag_mesh", split="evaluation").to_pandas()
-    merged_df = pd.merge(df, dataset_df, on="doc_id")
-    corpus_df = merged_df[["doc_id", "abstract"]] \
-                    .drop_duplicates(subset="doc_id") \
-                    .reset_index(drop=True)
-    query_df = merged_df[["doc_id", "layman"]] \
-                    .explode("layman") \
-                    .reset_index(drop=True)
+    query_df, corpus_df = build_layman_document_search_dfs("layman-abstract")
 
     doc_id_to_corpus_id = {
         doc_id: corpus_id
@@ -54,7 +21,7 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_AB
     }
     top_k = min(top_k_abstracts, corpus_df.shape[0])
 
-    abstract_embeddings = model.encode_document(corpus_df["abstract"].to_list())
+    abstract_embeddings = model.encode_document(corpus_df["document"].to_list())
     layman_embeddings = model.encode_query(query_df["layman"].to_list())
 
     search_results = semantic_search(
@@ -75,7 +42,7 @@ def get_scores(model: str | Path | SentenceTransformer, top_k_abstracts=TOP_K_AB
     mean_reciprocal_rank_at_5 = sum(
         next(
             (
-                1 / (rank + 1)  # rank is 0-indexed, so rank + 1 gives the 1-indexed rank
+                1 / (rank + 1)
                 for rank, result in enumerate(search_results[i])
                 if result["corpus_id"] == target_corpus_ids[i]
             ),
@@ -107,6 +74,7 @@ def main():
     print("Full match score:", scores["perfect_match_score"])
     print("Mean reciprocal rank@5:", scores["mean_reciprocal_rank_at_5"])
     print("Recall@5:", scores["recall_at_5"])
+
 
 if __name__ == "__main__":
     main()

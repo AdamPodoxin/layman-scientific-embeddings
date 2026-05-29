@@ -1,95 +1,85 @@
 import sys
-import json
 from pathlib import Path
-import pandas as pd
-from sentence_transformers.util import semantic_search
+
 from sentence_transformers import SentenceTransformer
+from sentence_transformers.util import semantic_search
 
-
-TEST_KEYWORDS_PATH = Path("data") / "test_keywords"
+from utils import build_keyword_search_df
 
 NUM_KEYWORDS_PER_ABSTRACT = 15
-
-
-def read_keywords_file(path: Path) -> dict:
-    with open(path) as f:
-        return json.loads(f.read())
-
-
-def get_keywords_from_document(document: dict):
-    keyword_pairs: list[dict[str, str]] = list(document["core_entities"]) \
-                    + list(document["methodologies"]) \
-                    + list(document["outcomes"])
-    
-    return keyword_pairs
 
 
 def get_scores(model: str | Path | SentenceTransformer):
     if type(model) is not SentenceTransformer:
         model = SentenceTransformer(str(model))
 
-    df = pd.DataFrame(data={ "path": [path for path in TEST_KEYWORDS_PATH.iterdir()] })
-    df["document"] = df["path"].apply(read_keywords_file)
-    df["keywords"] = df["document"].apply(get_keywords_from_document)
-    df["jargon"] = df["keywords"].apply(lambda keyword_pairs: list(pair["jargon"] for pair in keyword_pairs))
-    df["layman"] = df["keywords"].apply(lambda keyword_pairs: list(pair["layman"] for pair in keyword_pairs))
+    search_df = build_keyword_search_df()
 
-    search_df = df.explode(["jargon", "layman"])[["path", "jargon", "layman"]]\
-                    .reset_index()\
-                    .drop("index", axis=1)
+    unique_jargon = search_df["jargon"].drop_duplicates().reset_index(drop=True)
+    jargon_to_corpus_id = {
+        jargon: corpus_id
+        for corpus_id, jargon in enumerate(unique_jargon)
+    }
 
-    jargon_embeddings = model.encode_document(search_df["jargon"].to_list())
+    jargon_embeddings = model.encode_document(unique_jargon.to_list())
     layman_embeddings = model.encode_query(search_df["layman"].to_list())
+
+    top_k = min(NUM_KEYWORDS_PER_ABSTRACT, len(unique_jargon))
+    gold_corpus_ids = search_df["jargon"].map(jargon_to_corpus_id).to_list()
 
     search_results = semantic_search(
         query_embeddings=layman_embeddings,
         corpus_embeddings=jargon_embeddings,
-        top_k=NUM_KEYWORDS_PER_ABSTRACT,
+        top_k=top_k,
     )
 
     num_keywords = search_df.shape[0]
 
     perfect_match_score = sum(
-        1 if search_results[i][0]["corpus_id"] == i
+        1 if search_results[i][0]["corpus_id"] == gold_corpus_ids[i]
         else 0
         for i in range(num_keywords)
     ) / num_keywords
 
     mean_reciprocal_rank_at_15 = sum(
-        1 / (j + 1)  # j is 0-indexed, so j + 1 gives the 1-indexed rank
+        next(
+            (
+                1 / (rank + 1)
+                for rank, result in enumerate(search_results[i])
+                if result["corpus_id"] == gold_corpus_ids[i]
+            ),
+            0,
+        )
         for i in range(num_keywords)
-        for j in range(NUM_KEYWORDS_PER_ABSTRACT)
-        if search_results[i][j]["corpus_id"] == i
-        and j == next(
-            k for k in range(NUM_KEYWORDS_PER_ABSTRACT)
-            if search_results[i][k]["corpus_id"] == i
-        )  # Only count the first match
     ) / num_keywords
 
     related_keyword_score = sum(
-        1 if search_results[i][j]["corpus_id"] == i
+        1 if search_results[i][j]["corpus_id"] == gold_corpus_ids[i]
         else 0
         for i in range(num_keywords)
-        for j in range(NUM_KEYWORDS_PER_ABSTRACT)
-    ) / (num_keywords * NUM_KEYWORDS_PER_ABSTRACT)
+        for j in range(top_k)
+    ) / (num_keywords * top_k)
 
-    # Recall@15: fraction of queries where a keyword from same abstract found in top 15
+    jargon_to_doc_ids = search_df.groupby("jargon")["doc_id"].apply(set).to_dict()
+
     recall_at_15 = sum(
-        1 if any(search_df.iloc[search_results[i][j]["corpus_id"]]["path"] == search_df.iloc[i]["path"] 
-                 for j in range(NUM_KEYWORDS_PER_ABSTRACT))
+        1 if any(
+            search_df.iloc[i]["doc_id"] in jargon_to_doc_ids.get(unique_jargon.iloc[result["corpus_id"]], set())
+            for result in search_results[i][:top_k]
+        )
         else 0
         for i in range(num_keywords)
     ) / num_keywords
 
-    # Precision@15: fraction of returned results that are keywords from the same abstract
     precision_at_15 = sum(
-        1 if search_df.iloc[search_results[i][j]["corpus_id"]]["path"] == search_df.iloc[i]["path"]
+        1 if search_df.iloc[i]["doc_id"] in jargon_to_doc_ids.get(
+            unique_jargon.iloc[search_results[i][j]["corpus_id"]], set()
+        )
         else 0
         for i in range(num_keywords)
-        for j in range(NUM_KEYWORDS_PER_ABSTRACT)
-    ) / (num_keywords * NUM_KEYWORDS_PER_ABSTRACT)
+        for j in range(top_k)
+    ) / (num_keywords * top_k)
 
-    # F1@15: harmonic mean of precision and recall
     f1_at_15 = (
         2 * (precision_at_15 * recall_at_15) / (precision_at_15 + recall_at_15)
         if (precision_at_15 + recall_at_15) > 0
@@ -114,6 +104,7 @@ def main():
     scores = get_scores(model_path)
     print("Full match score:", scores["perfect_match_score"])
     print("Related keywords score:", scores["related_keyword_score"])
+
 
 if __name__ == "__main__":
     main()

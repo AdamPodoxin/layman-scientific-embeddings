@@ -1,16 +1,22 @@
+import argparse
 from pathlib import Path
-import torch
-from transformers import BitsAndBytesConfig
+
 from sentence_transformers import (
-        SentenceTransformer, 
-        SentenceTransformerTrainer, 
-        SentenceTransformerTrainingArguments,
-    )
+    SentenceTransformer,
+    SentenceTransformerTrainer,
+    SentenceTransformerTrainingArguments,
+)
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from peft import PeftModel
 
-from utils import load_pairs_dataset, clean_pairs_for_training
+from utils import (
+    add_qwen_training_args,
+    clean_pairs_for_training,
+    get_qwen_optimizer,
+    load_pairs_dataset,
+    load_vanilla_qwen_for_second_stage,
+    merge_lora_and_save,
+)
 
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
@@ -29,6 +35,24 @@ WEIGHT_DECAY = 1e-4
 BATCH_SIZE = 16
 
 
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Fine-tune Qwen LoRA on layman-jargon pairs")
+    add_qwen_training_args(parser)
+    parser.add_argument(
+        "--vanilla-model-path",
+        type=Path,
+        default=VANILLA_FINETUNED_MODEL_PATH,
+        help="Path to the vanilla fine-tuned LoRA adapter or merged model",
+    )
+    parser.add_argument(
+        "--output-path",
+        type=Path,
+        default=OUTPUT_MODEL_PATH,
+        help="Directory to save the fine-tuned model",
+    )
+    return parser.parse_args()
+
+
 def get_document_prompt(model: SentenceTransformer) -> str:
     for prompt_name in ("document", "passage", "corpus"):
         if prompt_name in model.prompts:
@@ -41,30 +65,16 @@ def count_trainable_parameters(model: SentenceTransformer) -> int:
 
 
 def main():
+    args = parse_args()
+    use_4bit = not args.bf16_lora
+
     pairs_dataset = load_pairs_dataset()
     train_dataset = clean_pairs_for_training(pairs_dataset["train"], {"layman-jargon"})
     val_dataset = clean_pairs_for_training(pairs_dataset["val"], {"layman-jargon"})
 
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_quant_type="nf4",
-        bnb_4bit_compute_dtype=torch.bfloat16,
-        bnb_4bit_use_double_quant=True,
-    )
-
-    model = SentenceTransformer(
-        MODEL_ID,
-        model_kwargs={
-            "quantization_config": bnb_config,
-            "device_map": "auto",
-        }
-    )
-
-    first_module = model._first_module()
-    first_module.auto_model = PeftModel.from_pretrained(
-        first_module.auto_model,
-        str(VANILLA_FINETUNED_MODEL_PATH),
-        is_trainable=True,
+    model = load_vanilla_qwen_for_second_stage(
+        args.vanilla_model_path,
+        use_4bit=use_4bit,
     )
 
     trainable_params = count_trainable_parameters(model)
@@ -82,8 +92,8 @@ def main():
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
-    args = SentenceTransformerTrainingArguments(
-        output_dir=OUTPUT_MODEL_PATH,
+    args_training = SentenceTransformerTrainingArguments(
+        output_dir=args.output_path,
 
         learning_rate=LEARNING_RATE,
         weight_decay=WEIGHT_DECAY,
@@ -98,7 +108,7 @@ def main():
 
         per_device_train_batch_size=BATCH_SIZE,
         per_device_eval_batch_size=BATCH_SIZE,
-        
+
         gradient_accumulation_steps=4,
         gradient_checkpointing=True,
 
@@ -107,7 +117,7 @@ def main():
 
         dataloader_num_workers=4,
         dataloader_pin_memory=True,
-        optim="paged_adamw_8bit",
+        optim=get_qwen_optimizer(use_4bit),
         prompts=column_prompts,
         router_mapping={"anchor": "query", "positive": "document"},
     )
@@ -117,12 +127,15 @@ def main():
         train_dataset=train_dataset,
         eval_dataset=val_dataset,
         loss=loss,
-        args=args,
+        args=args_training,
     )
 
     trainer.train()
 
-    trainer.save_model()
+    if args.merge_lora:
+        merge_lora_and_save(model, args.output_path)
+    else:
+        trainer.save_model()
 
 
 if __name__ == "__main__":
