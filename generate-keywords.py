@@ -1,3 +1,4 @@
+import argparse
 import time
 import json
 import traceback
@@ -7,7 +8,7 @@ from datasets import Dataset, load_dataset
 from vllm import LLM, SamplingParams
 
 
-NUM_ABSTRACTS_TO_PROCESS = 2
+NUM_ABSTRACTS_TO_PROCESS = 1_000
 KEYWORDS_PATH = Path("data") / "keywords"
 
 MODEL = "unsloth/Qwen3-4B-Instruct-2507"
@@ -94,7 +95,19 @@ def get_keywords_from_response(assistant_response: str) -> dict:
     return json.loads(assistant_response)
 
 
+def parse_args():
+    parser = argparse.ArgumentParser(description="Generate jargon-to-layman keywords for scientific abstracts.")
+    parser.add_argument(
+        "--force-regenerate",
+        action="store_true",
+        help="Regenerate keywords for all abstracts, even if they have already been processed.",
+    )
+    return parser.parse_args()
+
+
 def main():
+    args = parse_args()
+
     KEYWORDS_PATH.mkdir(parents=True, exist_ok=True)
     
     ds: Dataset = cast(
@@ -105,8 +118,12 @@ def main():
     ds = ds.filter(lambda row: row["title"] is not None and row["abstract"] is not None)
     ds = ds.take(NUM_ABSTRACTS_TO_PROCESS)
 
-    # Don't re-generate keywords for already done abstracts 
-    ds_to_generate = ds.filter(lambda row: not (KEYWORDS_PATH / f"{row["doc_id"]}.json").exists())
+    if args.force_regenerate:
+        ds_to_generate = ds
+    else:
+        # Don't re-generate keywords for already done abstracts
+        ds_to_generate = ds.filter(lambda row: not (KEYWORDS_PATH / f"{row["doc_id"]}.json").exists())
+
     ds_to_generate = ds_to_generate.map(create_messages_for_pipe)
 
     num_abstracts = ds_to_generate.shape[0]
