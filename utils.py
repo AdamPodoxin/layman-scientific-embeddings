@@ -1,9 +1,8 @@
 from pathlib import Path
 import torch
-from safetensors.torch import load_file
 from transformers import BitsAndBytesConfig
 from sentence_transformers import SentenceTransformer
-from peft import LoraConfig
+from peft import PeftModel
 from datasets import Dataset, DatasetDict, load_from_disk
 import math
 
@@ -41,38 +40,36 @@ def clean_pairs_for_training(ds: Dataset, pair_types: set[str] | frozenset[str] 
     return ds.remove_columns(["pair_type", "doc_id"])
 
 
-def load_finetuned_qwen(adapter: Path | str):
-    bnb_config = BitsAndBytesConfig(
+def load_qwen_bnb_config() -> BitsAndBytesConfig:
+    return BitsAndBytesConfig(
         load_in_4bit=True,
         bnb_4bit_quant_type="nf4",
         bnb_4bit_compute_dtype=torch.bfloat16,
         bnb_4bit_use_double_quant=True,
     )
 
-    model = SentenceTransformer(
+
+def load_qwen_base_4bit() -> SentenceTransformer:
+    return SentenceTransformer(
         QWEN_MODEL_ID,
         model_kwargs={
-            "quantization_config": bnb_config,
+            "quantization_config": load_qwen_bnb_config(),
             "device_map": "auto",
-        }
+        },
     )
 
-    lora_config = LoraConfig()
 
-    model._first_module().auto_model.add_adapter(lora_config)
-
-    if type(adapter) is str:
+def load_finetuned_qwen(adapter: Path | str) -> SentenceTransformer:
+    if isinstance(adapter, str):
         adapter = Path(adapter)
 
-    adapter_state_dict = load_file(adapter / "adapter_model.safetensors")
-
-    remapped = {
-        k.replace("base_model.model.", ""): v 
-        for k, v in adapter_state_dict.items()
-    }
-
-    model._first_module().auto_model.load_state_dict(remapped, strict=False)
-
+    model = load_qwen_base_4bit()
+    first_module = model._first_module()
+    first_module.auto_model = PeftModel.from_pretrained(
+        first_module.auto_model,
+        str(adapter),
+        is_trainable=False,
+    )
     return model
 
 

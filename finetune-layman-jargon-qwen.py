@@ -8,6 +8,7 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
+from peft import PeftModel
 
 from utils import load_pairs_dataset, clean_pairs_for_training
 
@@ -23,7 +24,7 @@ NUM_PAIRS_PER_ABSTRACT = 15 * 15
 NUM_ABSTRACTS_IN_BATCH = 10
 MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
-LEARNING_RATE = 2e-4
+LEARNING_RATE = 1e-5
 WEIGHT_DECAY = 1e-4
 BATCH_SIZE = 16
 
@@ -35,9 +36,14 @@ def get_document_prompt(model: SentenceTransformer) -> str:
     return ""
 
 
+def count_trainable_parameters(model: SentenceTransformer) -> int:
+    return sum(p.numel() for p in model.parameters() if p.requires_grad)
+
+
 def main():
     pairs_dataset = load_pairs_dataset()
     train_dataset = clean_pairs_for_training(pairs_dataset["train"], {"layman-jargon"})
+    val_dataset = clean_pairs_for_training(pairs_dataset["val"], {"layman-jargon"})
 
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
@@ -54,8 +60,20 @@ def main():
         }
     )
 
-    model.load_adapter(str(VANILLA_FINETUNED_MODEL_PATH), adapter_name="default", is_trainable=True)
-    model.set_adapter("default")
+    first_module = model._first_module()
+    first_module.auto_model = PeftModel.from_pretrained(
+        first_module.auto_model,
+        str(VANILLA_FINETUNED_MODEL_PATH),
+        is_trainable=True,
+    )
+
+    trainable_params = count_trainable_parameters(model)
+    if trainable_params == 0:
+        raise RuntimeError(
+            "No trainable parameters after loading vanilla adapter. "
+            "Check that is_trainable=True and the adapter path is valid."
+        )
+    print(f"Trainable parameters: {trainable_params:,}")
 
     column_prompts = {
         "anchor": model.prompts.get("query", ""),
@@ -71,7 +89,10 @@ def main():
         weight_decay=WEIGHT_DECAY,
         batch_sampler=BatchSamplers.NO_DUPLICATES,
 
+        eval_strategy="epoch",
         save_strategy="epoch",
+        load_best_model_at_end=True,
+        metric_for_best_model="eval_loss",
         save_total_limit=1,
         save_only_model=True,
 
@@ -94,13 +115,14 @@ def main():
     trainer = SentenceTransformerTrainer(
         model=model,
         train_dataset=train_dataset,
+        eval_dataset=val_dataset,
         loss=loss,
         args=args,
     )
 
     trainer.train()
 
-    model.save_pretrained(OUTPUT_MODEL_PATH)
+    trainer.save_model()
 
 
 if __name__ == "__main__":
