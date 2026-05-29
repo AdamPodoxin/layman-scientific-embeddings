@@ -221,3 +221,5 @@ models
 test.ipynb
 
 **/cache-*.arrow
+pyrightconfig.json
+.vscode/*
