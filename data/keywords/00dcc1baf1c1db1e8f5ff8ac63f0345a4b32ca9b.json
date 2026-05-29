@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Magma feeding system",
-      "layman": "Magma supply system"
+      "layman": "Magma supply network"
     },
     {
       "jargon": "Crustal chamber",
-      "layman": "Magma chamber in crust"
+      "layman": "Underground magma chamber"
     },
     {
       "jargon": "Volcanic dome",
-      "layman": "Volcano dome"
+      "layman": "Volcano's growing mound"
     },
     {
       "jargon": "NW-striking crustal faults",
-      "layman": "Northwest fault lines"
+      "layman": "Northwest-sloping cracks in rock"
     }
   ],
   "methodologies": [
@@ -28,33 +28,33 @@
     },
     {
       "jargon": "Focal zone geometry",
-      "layman": "Earthquake zone shape"
+      "layman": "Earthquake origin shape"
     },
     {
-      "jargon": "Seismicity analysis",
-      "layman": "Studying earthquake patterns"
+      "jargon": "Seismicity at depths",
+      "layman": "Earthquakes deep underground"
     },
     {
-      "jargon": "Interpretation of seismic data",
-      "layman": "Reading earthquake signals"
+      "jargon": "Interactive use of seismic data",
+      "layman": "Combining earthquake data for analysis"
     },
     {
-      "jargon": "Eruption forecasting",
-      "layman": "Predicting eruptions"
+      "jargon": "Melted primary magmas",
+      "layman": "Hot rock melted deep underground"
     }
   ],
   "outcomes": [
     {
-      "jargon": "70\u00b0 dip angle",
-      "layman": "70-degree slope"
+      "jargon": "70\u00b0 dipping focal zone",
+      "layman": "70-degree angle earthquake zone"
     },
     {
-      "jargon": "Increasing number and energy of earthquakes",
-      "layman": "More and stronger quakes"
+      "jargon": "Increased number and energy of earthquakes",
+      "layman": "More powerful quakes"
     },
     {
-      "jargon": "Extrusive-explosive activity",
-      "layman": "Eruption with lava and explosion"
+      "jargon": "Extrusive phase of eruptions",
+      "layman": "Flood lava from volcano"
     },
     {
       "jargon": "Most powerful eruption since 1964",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Successful eruption prediction",
-      "layman": "Eruption was correctly predicted"
+      "layman": "Eruption was foreseen"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Threebranes",
-      "layman": "Three-dimensional membranes"
-    },
-    {
-      "jargon": "Twelve dimensions",
-      "layman": "Space with 12 dimensions"
+      "layman": "Three-dimensional objects in space"
     },
     {
       "jargon": "M-theory",
-      "layman": "Theory of 11-dimensional physics"
+      "layman": "Theory of fundamental physics in 11 dimensions"
     },
     {
       "jargon": "F-theory",
-      "layman": "Theory using (10,2) signature"
+      "layman": "Theory using 10 space and 2 time dimensions"
     },
     {
-      "jargon": "Green-Schwarz threebrane",
-      "layman": "A type of 3D membrane in 12D space"
+      "jargon": "String theory",
+      "layman": "Theory where particles are vibrating strings"
+    },
+    {
+      "jargon": "Twelve dimensions",
+      "layman": "Space with 12 directions"
     }
   ],
   "methodologies": [
+    {
+      "jargon": "Green-Schwarz mechanism",
+      "layman": "Method to stabilize branes"
+    },
     {
       "jargon": "Non-perturbative string theory",
       "layman": "String theory without small disturbances"
     },
     {
       "jargon": "Signature (10,2)",
-      "layman": "Space with 10 space and 2 time dimensions"
+      "layman": "Special dimension setup"
     },
     {
       "jargon": "Formulation",
-      "layman": "Mathematical setup"
+      "layman": "Building a mathematical model"
     },
     {
       "jargon": "Realisation",
-      "layman": "Discovery or insight"
-    },
-    {
-      "jargon": "Investigate",
-      "layman": "Study or examine"
+      "layman": "Discovering a new idea"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Great increases in understanding",
-      "layman": "Better comprehension"
+      "jargon": "Structured understanding",
+      "layman": "Clearer picture of how things work"
     },
     {
-      "jargon": "Solved many problems",
-      "layman": "Many issues were resolved"
+      "jargon": "Solved problems",
+      "layman": "Challenges successfully addressed"
     },
     {
       "jargon": "Enhanced understanding",
-      "layman": "Improved knowledge"
+      "layman": "Greater clarity in theory"
     },
     {
       "jargon": "Proposed solution",
-      "layman": "Suggested answer"
+      "layman": "New way to approach problems"
     },
     {
-      "jargon": "Discussed formulation",
-      "layman": "Explained the setup"
+      "jargon": "Framework for investigation",
+      "layman": "Tool to study and test ideas"
     }
   ]
 }

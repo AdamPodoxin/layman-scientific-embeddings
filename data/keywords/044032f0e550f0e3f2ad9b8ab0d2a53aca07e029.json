@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Parent-child relationships",
-      "layman": "Parent-child relationships"
+      "jargon": "Achievement traits",
+      "layman": "Skills in doing well in school"
     },
     {
-      "jargon": "Achievement traits",
-      "layman": "Desire to succeed"
+      "jargon": "Parent-child relationships",
+      "layman": "How parents and kids interact"
     },
     {
       "jargon": "Acceptant parents",
-      "layman": "Supportive parents"
+      "layman": "Parents who are supportive"
     },
     {
       "jargon": "Hostile psychological control",
-      "layman": "Harsh emotional control"
+      "layman": "Parents who are strict and harsh"
     },
     {
       "jargon": "Firm discipline",
-      "layman": "Strict but clear rules"
+      "layman": "Clear rules and consistent consequences"
     }
   ],
   "methodologies": [
     {
       "jargon": "Test of Effective Academic Motivation",
-      "layman": "Survey on motivation to learn"
+      "layman": "School motivation survey"
     },
     {
       "jargon": "Children's Report of Parental Behavior Inventory",
-      "layman": "Child's report on parent behavior"
+      "layman": "Kid's report on parents' behavior"
     },
     {
       "jargon": "Correlation analysis",
-      "layman": "Measuring how two things are linked"
+      "layman": "Checking if two things are connected"
     },
     {
       "jargon": "Statistical significance",
-      "layman": "Strong enough result to be trusted"
+      "layman": "Result that is likely not due to chance"
     },
     {
-      "jargon": "Sex-based comparison",
+      "jargon": "Gender comparisons",
       "layman": "Comparing boys and girls"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Higher achievement traits",
-      "layman": "Stronger drive to succeed"
-    },
-    {
       "jargon": "Obedient and law abiding",
-      "layman": "Follow rules and obey"
+      "layman": "Follows rules and stays out of trouble"
     },
     {
       "jargon": "Works hard and effectively",
-      "layman": "Studies hard and gets results"
+      "layman": "Studies and completes work well"
     },
     {
       "jargon": "Ambitious",
-      "layman": "Wants to achieve big goals"
+      "layman": "Wants to achieve and succeed"
     },
     {
       "jargon": "No significant differences",
-      "layman": "Same for both boy and girl groups"
+      "layman": "Same for boys and girls"
+    },
+    {
+      "jargon": "Sex-specific associations",
+      "layman": "Only seen in boys, not girls"
     }
   ]
 }

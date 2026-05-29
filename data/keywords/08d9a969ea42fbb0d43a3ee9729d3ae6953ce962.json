@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Problem-solving entities",
-      "layman": "AI systems that solve problems"
+      "layman": "AI systems that make decisions"
     },
     {
       "jargon": "Processing entities",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Feedback control circuits",
-      "layman": "Circuits that adjust behavior based on output"
+      "layman": "Closed-loop systems that adjust based on output"
     },
     {
       "jargon": "Biological distributed systems",
-      "layman": "Natural systems where parts work together"
+      "layman": "Natural networks like brain or immune systems"
     },
     {
       "jargon": "Expert-systems",
-      "layman": "AI systems that mimic expert decision-making"
+      "layman": "AI that mimics expert decision-making"
     }
   ],
   "methodologies": [
     {
       "jargon": "Closed loop feedback",
-      "layman": "System that adjusts based on real-time results"
+      "layman": "System that adjusts in real time based on results"
     },
     {
       "jargon": "Differential equations",
-      "layman": "Math equations modeling change over time"
+      "layman": "Mathematical models for changing systems"
     },
     {
       "jargon": "Popov criterion",
-      "layman": "Rule to check system stability"
+      "layman": "Rule to test system stability"
     },
     {
       "jargon": "Lyapunov method",
-      "layman": "Tool to test if a system stays stable"
+      "layman": "Tool to check if a system stays stable"
     },
     {
       "jargon": "Hopf bifurcation theorem",
-      "layman": "Math rule for when systems start oscillating"
+      "layman": "Math rule that predicts system oscillations"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Permanent adjusted production",
+      "layman": "Steady, balanced output over time"
+    },
+    {
       "jargon": "Oscillations with damping",
-      "layman": "Oscillations that slowly fade away"
+      "layman": "Rising and falling patterns that slow down"
     },
     {
       "jargon": "Oscillations without damping",
-      "layman": "Oscillations that continue forever"
-    },
-    {
-      "jargon": "Permanent adjusted production",
-      "layman": "Stable, steady output over time"
+      "layman": "Rising and falling patterns that continue"
     },
     {
       "jargon": "Balance between antagonistic entities",
       "layman": "Equilibrium between opposing forces"
     },
     {
-      "jargon": "Coherent distributed network",
-      "layman": "Well-connected, stable system of parts"
+      "jargon": "Global and local coherence",
+      "layman": "Stability at both large and small levels"
     }
   ]
 }

@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Entanglement",
-      "layman": "Linked quantum states"
+      "layman": "Linked particles affecting each other instantly"
     },
     {
-      "jargon": "Ideal quantum ensembles",
-      "layman": "Perfectly synchronized quantum groups"
+      "jargon": "Ideal ensembles",
+      "layman": "Perfectly prepared particle groups"
     },
     {
       "jargon": "Quantum states",
-      "layman": "Quantum conditions of particles"
+      "layman": "Quantum versions of physical states"
     },
     {
       "jargon": "Particles",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Entanglement generation",
-      "layman": "Creating linked quantum states"
+      "layman": "Creating linked particles"
     },
     {
       "jargon": "State preparation",
-      "layman": "Setting up quantum conditions"
+      "layman": "Setting up quantum states"
     },
     {
-      "jargon": "Measurement protocols",
-      "layman": "Rules for observing quantum states"
+      "jargon": "Measurement",
+      "layman": "Testing quantum states"
     },
     {
-      "jargon": "Quantum coherence",
-      "layman": "Stable quantum state over time"
+      "jargon": "Temporal coherence",
+      "layman": "Stable quantum behavior over time"
     },
     {
-      "jargon": "Ensemble averaging",
-      "layman": "Taking average from many particle groups"
+      "jargon": "Quantum interference",
+      "layman": "Particles influencing each other in waves"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Perfect correlation",
-      "layman": "Exact matching of results"
+      "jargon": "Perfect correlations",
+      "layman": "Exact matching results"
     },
     {
       "jargon": "Violation of Bell inequalities",
-      "layman": "Proving quantum links are stronger than classical"
+      "layman": "Proves particles are truly linked"
     },
     {
       "jargon": "High fidelity",
-      "layman": "Accurate quantum state copying"
+      "layman": "Accurate quantum states"
     },
     {
       "jargon": "No classical explanation",
-      "layman": "No ordinary reason for the results"
+      "layman": "Results can't be explained by simple physics"
     },
     {
-      "jargon": "Paper withdrawn",
-      "layman": "Study canceled due to prior work"
+      "jargon": "Topological order",
+      "layman": "Hidden structure in quantum systems"
     }
   ]
 }

@@ -1,16 +1,16 @@
 {
   "core_entities": [
     {
-      "jargon": "Hyperuniverse",
-      "layman": "Expanded universe of mathematical possibilities"
+      "jargon": "Hyperuniverse program",
+      "layman": "New approach to mathematical truth"
     },
     {
       "jargon": "Set-theoretic truth",
-      "layman": "True mathematical facts about sets"
+      "layman": "Truth in mathematical sets"
     },
     {
       "jargon": "ZFC",
-      "layman": "Standard foundation of mathematics"
+      "layman": "Standard set theory base"
     },
     {
       "jargon": "Justifiable principles",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Set-theoretic independence",
-      "layman": "Testing if a math question depends on assumptions"
-    },
-    {
-      "jargon": "Justification principles",
-      "layman": "Rules used to decide what's valid"
-    },
-    {
-      "jargon": "Model construction",
-      "layman": "Building mathematical examples"
+      "layman": "Testing if a question depends on assumptions"
     },
     {
       "jargon": "Philosophical assumptions",
-      "layman": "Beliefs that guide reasoning"
+      "layman": "Beliefs about what is true"
     },
     {
       "jargon": "Resolution of questions",
-      "layman": "Solving open math problems"
+      "layman": "Solving long-standing math problems"
+    },
+    {
+      "jargon": "Mathematical content",
+      "layman": "What the math actually says"
+    },
+    {
+      "jargon": "Formal reasoning",
+      "layman": "Logical deductions from rules"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Independent from ZFC",
-      "layman": "Not decided by standard math rules"
+      "jargon": "Questions independent from ZFC",
+      "layman": "Some problems have no clear answer in standard math"
     },
     {
-      "jargon": "Mathematical resolution",
-      "layman": "Clear answer found"
+      "jargon": "Resolution of many questions",
+      "layman": "Many math puzzles are now solved"
     },
     {
-      "jargon": "Truth in hyperuniverse",
-      "layman": "Definite answers in expanded math world"
+      "jargon": "New mathematical framework",
+      "layman": "A new way to understand math"
     },
     {
-      "jargon": "New mathematical facts",
-      "layman": "New truths discovered"
+      "jargon": "Mathematical clarity",
+      "layman": "Better understanding of math truths"
     },
     {
-      "jargon": "Consistent frameworks",
-      "layman": "Stable and reliable math systems"
+      "jargon": "Truth justification",
+      "layman": "Why a result is considered true"
     }
   ]
 }

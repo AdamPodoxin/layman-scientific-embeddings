@@ -10,43 +10,43 @@
     },
     {
       "jargon": "reason",
-      "layman": "logical thinking"
+      "layman": "logic or sense-making"
     },
     {
       "jargon": "postmodernism",
-      "layman": "modern view challenging traditional ideas"
+      "layman": "critique of modern ideas about truth"
     },
     {
       "jargon": "communicative reason",
-      "layman": "reason based on discussion"
+      "layman": "shared reasoning through discussion"
     }
   ],
   "methodologies": [
     {
       "jargon": "theoretical approaches",
-      "layman": "ways of thinking about ideas"
+      "layman": "ways of thinking about problems"
     },
     {
       "jargon": "intellectual traditions",
-      "layman": "long-standing ways of thinking"
+      "layman": "long-standing ways of thinking in a field"
     },
     {
       "jargon": "disciplinary developments",
-      "layman": "growth in academic fields"
+      "layman": "growth within academic fields"
     },
     {
       "jargon": "polemic criticism",
-      "layman": "sharp criticism in debate"
+      "layman": "strong criticism in debate"
     },
     {
       "jargon": "philosophical analysis",
-      "layman": "deep thinking about ideas"
+      "layman": "deep study of ideas and beliefs"
     }
   ],
   "outcomes": [
     {
       "jargon": "crises of foundations",
-      "layman": "collapse of basic beliefs"
+      "layman": "undermining of basic beliefs"
     },
     {
       "jargon": "radical questioning",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "critical theory of society",
-      "layman": "study of society's problems"
+      "layman": "deep analysis of social issues"
     },
     {
-      "jargon": "changing roles of consensus",
-      "layman": "how agreement changes over time"
+      "jargon": "understanding of truth",
+      "layman": "how truth is formed"
     }
   ]
 }

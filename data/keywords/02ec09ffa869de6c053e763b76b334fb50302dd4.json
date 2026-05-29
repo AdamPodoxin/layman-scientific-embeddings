@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Propositional primal logic",
-      "layman": "Simple logic with statements and quotes"
+      "layman": "Logic system for simple statements"
     },
     {
       "jargon": "Quotations",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "p implied \u03c6",
-      "layman": "Person implies a statement"
+      "layman": "Person suggests a statement"
     },
     {
       "jargon": "Hilbertian calculus",
-      "layman": "Formal system for proving logic rules"
+      "layman": "Formal logic system for proofs"
     }
   ],
   "methodologies": [
     {
       "jargon": "Derivation problem",
-      "layman": "Finding valid proof steps"
+      "layman": "Finding valid proofs"
     },
     {
       "jargon": "Linear time solution",
-      "layman": "Fast, simple proof process"
+      "layman": "Solving fast, in proportion to size"
     },
     {
       "jargon": "Shortest derivation",
-      "layman": "Shortest possible proof path"
+      "layman": "Most concise proof"
     },
     {
       "jargon": "Exponential time",
-      "layman": "Very slow, grows rapidly with size"
+      "layman": "Growing extremely fast with size"
     },
     {
-      "jargon": "Proof from hypotheses",
-      "layman": "Deriving truth from given facts"
+      "jargon": "Hypotheses H",
+      "layman": "Starting assumptions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Derivation solvable in linear time",
-      "layman": "Proofs happen quickly"
+      "layman": "Proofs found quickly"
     },
     {
       "jargon": "Exponential in length",
-      "layman": "Proofs take much longer"
+      "layman": "Proofs grow too large rapidly"
+    },
+    {
+      "jargon": "Formula \u03c6 from hypotheses",
+      "layman": "Result based on starting ideas"
     },
     {
       "jargon": "One kind of quotation",
-      "layman": "Only one way of quoting"
+      "layman": "Single type of statement reference"
     },
     {
-      "jargon": "Hilbertian calculus",
-      "layman": "Formal proof system"
-    },
-    {
-      "jargon": "Shortest derivation",
-      "layman": "Fastest possible proof"
+      "jargon": "Shortest derivation exponential",
+      "layman": "Simplest proof takes very long"
     }
   ]
 }

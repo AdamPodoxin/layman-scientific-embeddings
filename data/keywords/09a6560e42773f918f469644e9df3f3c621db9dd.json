@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Atopic eczema",
-      "layman": "Itchy skin condition"
+      "layman": "Dry, itchy skin rash"
     },
     {
       "jargon": "Spinal manipulative therapy",
       "layman": "Spinal adjustments"
     },
     {
-      "jargon": "Excoriation",
-      "layman": "Skin scratching"
+      "jargon": "Excitement",
+      "layman": "Excitement"
     },
     {
       "jargon": "Pruritus",
       "layman": "Itching"
     },
     {
-      "jargon": "Oedema",
-      "layman": "Swelling"
+      "jargon": "Lesions",
+      "layman": "Skin patches or sores"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Questionnaire",
-      "layman": "Symptom survey"
+      "layman": "Survey to record symptoms"
     },
     {
       "jargon": "Photographic evidence",
-      "layman": "Before-and-after photos"
+      "layman": "Photos of the skin before and after"
     },
     {
-      "jargon": "Weekly treatment schedule",
-      "layman": "Once-a-week visits"
+      "jargon": "Weekly schedule",
+      "layman": "Once a week treatment"
     },
     {
-      "jargon": "Case study",
-      "layman": "Single patient analysis"
+      "jargon": "Rating system",
+      "layman": "Score to measure symptoms"
     }
   ],
   "outcomes": [
     {
       "jargon": "Marked improvement",
-      "layman": "Big symptom reduction"
+      "layman": "Big improvement"
+    },
+    {
+      "jargon": "Excoriation",
+      "layman": "Skin break or scratching"
+    },
+    {
+      "jargon": "Oedema",
+      "layman": "Swelling"
     },
     {
       "jargon": "Psychological ease",
       "layman": "Less stress and anxiety"
     },
     {
-      "jargon": "Lesions",
-      "layman": "Skin bumps or sores"
-    },
-    {
-      "jargon": "Symptom intensity",
-      "layman": "How bad symptoms feel"
-    },
-    {
-      "jargon": "Treatment efficacy",
-      "layman": "How well treatment works"
+      "jargon": "Patient-reported outcomes",
+      "layman": "Symptoms reported by patient"
     }
   ]
 }

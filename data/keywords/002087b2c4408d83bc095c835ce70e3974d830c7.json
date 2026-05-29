@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Trachytic lavas",
-      "layman": "Lava flows from volcanic eruptions"
+      "layman": "Lava from underwater or land eruptions"
     },
     {
-      "jargon": "Alkaline magmas",
-      "layman": "Magma rich in certain minerals"
+      "jargon": "Kenya Rift Valley",
+      "layman": "Split in the Earth's surface in Kenya"
     },
     {
       "jargon": "Late Pleistocene",
-      "layman": "Time period millions of years ago"
+      "layman": "Time period before recent history"
     },
     {
-      "jargon": "Volcanic shield",
-      "layman": "Large area of volcanic flows"
+      "jargon": "Alkaline and mildly peralkaline magmas",
+      "layman": "Magma with high mineral content"
     }
   ],
   "methodologies": [
     {
       "jargon": "Petrographical studies",
-      "layman": "Examining rock textures"
+      "layman": "Examining rock textures under microscope"
     },
     {
       "jargon": "Geochemical studies",
-      "layman": "Testing rock chemical makeup"
+      "layman": "Testing rock elements and compounds"
     },
     {
       "jargon": "Feldspar fractionation",
-      "layman": "Separating feldspar minerals over time"
+      "layman": "Minerals breaking down over time"
     },
     {
       "jargon": "Crystallisation",
-      "layman": "Forming crystals from magma"
+      "layman": "Turning magma into solid rock"
     },
     {
-      "jargon": "Trace element analysis",
-      "layman": "Measuring tiny mineral elements"
+      "jargon": "Magma differentiation",
+      "layman": "Magma changing composition as it cools"
     }
   ],
   "outcomes": [
     {
       "jargon": "Major element composition modified",
-      "layman": "Rock chemistry changed during cooling"
+      "layman": "Rock elements changed during cooling"
+    },
+    {
+      "jargon": "Residual trace elements",
+      "layman": "Tiny elements left behind"
+    },
+    {
+      "jargon": "Extensive volcanic shield",
+      "layman": "Large rock dome from many eruptions"
+    },
+    {
+      "jargon": "Widely dispersed centres",
+      "layman": "Eruptions from many different spots"
     },
     {
       "jargon": "Protracted feldspar fractionation",
-      "layman": "Slow separation of feldspar minerals"
-    },
-    {
-      "jargon": "Low residual trace elements",
-      "layman": "Few remaining trace minerals"
-    },
-    {
-      "jargon": "Differentiation within suite",
-      "layman": "Variation in rock types"
-    },
-    {
-      "jargon": "Widely dispersed eruption centres",
-      "layman": "Eruptions from many separate spots"
+      "layman": "Slow breakdown of minerals over time"
     }
   ]
 }

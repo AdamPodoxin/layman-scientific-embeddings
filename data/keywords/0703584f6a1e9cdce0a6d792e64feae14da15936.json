@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Ruby on Rails",
-      "layman": "Web development framework"
+      "layman": "Web development tool"
     },
     {
       "jargon": "Version control",
-      "layman": "Tracking changes to code"
+      "layman": "Tracking code changes"
     }
   ],
   "methodologies": [
     {
       "jargon": "Behavior-driven development",
-      "layman": "Writing tests from user needs"
+      "layman": "Writing tests with customer language"
     },
     {
       "jargon": "Test-first development",
-      "layman": "Write tests before writing code"
+      "layman": "Writing tests before writing code"
     },
     {
       "jargon": "User stories",
-      "layman": "Simple goals from customer perspective"
+      "layman": "Simple goals from customer needs"
     },
     {
       "jargon": "Low-fidelity mockups",
-      "layman": "Simple design sketches"
+      "layman": "Simple sketches of user interfaces"
     },
     {
       "jargon": "Velocity measurement",
-      "layman": "Team progress tracking"
+      "layman": "Tracking project progress speed"
     }
   ],
   "outcomes": [
     {
       "jargon": "Automated grading",
-      "layman": "Grading by computer"
+      "layman": "Grading assignments automatically"
     },
     {
-      "jargon": "Teamwork in distributed settings",
-      "layman": "Working together remotely"
+      "jargon": "Teamwork in distance learning",
+      "layman": "Working together online"
     },
     {
-      "jargon": "Requirements elicitation",
-      "layman": "Understanding user needs"
+      "jargon": "Student engagement",
+      "layman": "Students staying involved"
     },
     {
-      "jargon": "Effective presentation skills",
-      "layman": "Explaining ideas clearly"
+      "jargon": "Prerequisite programming courses",
+      "layman": "Programming background required"
     },
     {
-      "jargon": "Spontaneous study groups",
-      "layman": "Students forming groups to learn"
+      "jargon": "Stakeholder communication difficulties",
+      "layman": "Hard to explain goals clearly"
     }
   ]
 }

@@ -5,64 +5,64 @@
       "layman": "Middle-class education"
     },
     {
-      "jargon": "Lilliputians",
-      "layman": "Tiny people"
-    },
-    {
       "jargon": "Feudal society",
-      "layman": "Old social system based on land and lords"
+      "layman": "Old aristocratic society"
     },
     {
-      "jargon": "Bourgeois society",
-      "layman": "Middle-class society"
+      "jargon": "Lilliputians",
+      "layman": "Little people"
     },
     {
       "jargon": "Gulliver",
-      "layman": "Traveler character"
+      "layman": "Traveling man"
+    },
+    {
+      "jargon": "English children",
+      "layman": "British kids"
     }
   ],
   "methodologies": [
     {
       "jargon": "Historical research",
-      "layman": "Studying the past to understand now"
+      "layman": "Studying the past"
     },
     {
       "jargon": "Textual analysis",
-      "layman": "Examining a text closely"
+      "layman": "Reading and interpreting texts"
     },
     {
       "jargon": "Satirical discourse",
-      "layman": "Mocking serious ideas to expose flaws"
+      "layman": "Mocking speech"
     },
     {
-      "jargon": "Pedagogical ideas",
-      "layman": "Teaching methods and beliefs"
+      "jargon": "Theoretical foundation",
+      "layman": "Key ideas for analysis"
     },
     {
-      "jargon": "Classical literary approach",
-      "layman": "Interpreting old literature deeply"
+      "jargon": "Universal classic approach",
+      "layman": "Looking at old texts broadly"
     }
   ],
   "outcomes": [
     {
       "jargon": "Social contradictions",
-      "layman": "Inequalities in society"
+      "layman": "Unfair society problems"
     },
     {
-      "jargon": "Transition movement",
-      "layman": "Change from old to new system"
+      "jargon": "Pedagogical ideas",
+      "layman": "Teaching methods"
     },
     {
-      "jargon": "Satire on English children's education",
-      "layman": "Mocking how children were taught"
+      "jargon": "Class inequalities",
+      "layman": "Rich vs poor differences"
     },
     {
-      "jargon": "Defense of feudal pedagogy",
-      "layman": "Protecting old teaching methods"
+      "jargon": "Historical transition",
+      "layman": "Change from old to new society"
     },
     {
-      "jargon": "Universal classic approach",
-      "layman": "Using old texts to understand today's world"
+      "jargon": "Satire on education",
+      "layman": "Mocking how children are taught"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Monetary union",
-      "layman": "Shared currency area"
+      "jargon": "monetary union",
+      "layman": "shared currency group"
     },
     {
       "jargon": "Euro-12 area",
-      "layman": "Group of 12 Euro-using countries"
+      "layman": "EU countries using euro"
     },
     {
-      "jargon": "Belgium",
-      "layman": "Belgium"
+      "jargon": "policymakers",
+      "layman": "government decision-makers"
     },
     {
-      "jargon": "Finland",
-      "layman": "Finland"
+      "jargon": "inflation preferences",
+      "layman": "desire to control price rises"
     },
     {
-      "jargon": "Greece",
-      "layman": "Greece"
+      "jargon": "debt-to-GDP ratio",
+      "layman": "how much debt vs. economy size"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Real options model",
-      "layman": "Decision tool for uncertain futures"
+      "jargon": "calibrated theoretical model",
+      "layman": "adjusted model to match real data"
     },
     {
-      "jargon": "Calibrated model",
-      "layman": "Model adjusted to real-world data"
+      "jargon": "proxying inflation preferences",
+      "layman": "using unemployment and debt to estimate inflation goals"
     },
     {
-      "jargon": "Proxying inflation preferences",
-      "layman": "Using unemployment and debt to estimate inflation wishes"
+      "jargon": "robust group",
+      "layman": "stable and reliable set of countries"
     },
     {
-      "jargon": "Policymakers' inflation preferences",
-      "layman": "Government leaders' views on inflation"
+      "jargon": "core group",
+      "layman": "main group that consistently behaves similarly"
     },
     {
-      "jargon": "Debt-to-GDP ratio",
-      "layman": "Amount of debt compared to national income"
+      "jargon": "real options analysis",
+      "layman": "evaluating future choices under uncertainty"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Robust group of countries",
-      "layman": "Strongly committed group"
+      "jargon": "choose to remain in EMU",
+      "layman": "stay in shared currency"
     },
     {
-      "jargon": "Choose to remain within EMU",
-      "layman": "Stay in shared currency"
+      "jargon": "choose to leave EMU",
+      "layman": "exit shared currency"
     },
     {
-      "jargon": "Only Luxembourg would robustly want to leave",
-      "layman": "Only Luxembourg clearly wants to exit"
+      "jargon": "only Luxembourg wants to leave",
+      "layman": "Luxembourg is the only one who wants out"
     },
     {
       "jargon": "Ireland and Netherlands complement the core",
-      "layman": "Ireland and Netherlands closely match the core"
+      "layman": "Ireland and Netherlands closely support the main group"
     },
     {
-      "jargon": "Uncertainty over future benefits",
-      "layman": "Not sure about future advantages"
+      "jargon": "uncertainty over future benefits",
+      "layman": "doubt about future advantages"
     }
   ]
 }

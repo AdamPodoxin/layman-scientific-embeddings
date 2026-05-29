@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Complex systems",
-      "layman": "Interconnected systems"
-    },
-    {
       "jargon": "Macroscopic phenomena",
       "layman": "Large-scale effects"
     },
     {
+      "jargon": "Interactive elements",
+      "layman": "Components that influence each other"
+    },
+    {
       "jargon": "Space-time multi-scale dynamics",
-      "layman": "Dynamics across time and space"
+      "layman": "Patterns across time and space at different sizes"
     },
     {
       "jargon": "Global features",
-      "layman": "Whole-system behaviors"
+      "layman": "Overall system behaviors"
     },
     {
-      "jargon": "Emergent features",
-      "layman": "New behaviors from simple parts"
+      "jargon": "Complex systems",
+      "layman": "Systems with many parts that interact in complicated ways"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Simple rules",
-      "layman": "Basic interaction rules"
-    },
-    {
       "jargon": "Critical slowing down",
-      "layman": "Slowing down before a change"
+      "layman": "System slows down before major change"
     },
     {
-      "jargon": "System representation",
-      "layman": "Modeling systems with parts"
+      "jargon": "Simple rules",
+      "layman": "Basic interaction guidelines"
     },
     {
-      "jargon": "Collective evolution",
-      "layman": "Group-level change over time"
+      "jargon": "Emergence",
+      "layman": "Complex patterns from simple parts"
     },
     {
-      "jargon": "Multi-scale dynamics",
-      "layman": "Dynamics at different sizes"
+      "jargon": "Dynamic evolution",
+      "layman": "Change over time through interaction"
+    },
+    {
+      "jargon": "Paradigm extension",
+      "layman": "Applying a model to many areas"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Critical slowing down",
-      "layman": "Slowing down before a shift"
+      "jargon": "Collective evolution",
+      "layman": "Shared growth of system behavior"
     },
     {
-      "jargon": "Universal paradigm",
-      "layman": "Works across fields"
-    },
-    {
-      "jargon": "Wide range of systems",
-      "layman": "Many different types of systems"
+      "jargon": "Universal applicability",
+      "layman": "Works across many fields"
     },
     {
       "jargon": "Macroscopically relevant phenomena",
-      "layman": "Big-scale observable effects"
+      "layman": "Effects visible at large scale"
     },
     {
       "jargon": "Generic emergence",
-      "layman": "Common appearance of complex behaviors"
+      "layman": "Common appearance of complexity"
+    },
+    {
+      "jargon": "Critical slowing down",
+      "layman": "System slows down before big change"
     }
   ]
 }

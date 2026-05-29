@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Rational languages",
-      "layman": "Simple patterns of strings"
+      "layman": "Pattern-based sets of strings"
     },
     {
       "jargon": "Finite automata",
-      "layman": "Simple machines that follow rules"
+      "layman": "Simple machines that process inputs"
     },
     {
       "jargon": "Star-free problems",
-      "layman": "Problems about patterns without repetition"
+      "layman": "Problems without repeated patterns"
     },
     {
       "jargon": "Star-height problem",
-      "layman": "How deep can pattern repetition go"
+      "layman": "Depth of pattern repetition in languages"
     },
     {
       "jargon": "Dot-depth problem",
-      "layman": "How deeply nested are patterns"
+      "layman": "How deeply nested patterns can be"
     }
   ],
   "methodologies": [
     {
       "jargon": "Product of rational languages",
-      "layman": "Combining language patterns"
+      "layman": "Combining two language patterns"
     },
     {
       "jargon": "McNaughton's problem",
-      "layman": "Solving pattern complexity"
+      "layman": "Testing pattern complexity"
     },
     {
       "jargon": "Eggan's problem",
-      "layman": "Testing pattern nesting depth"
+      "layman": "Measuring pattern nesting levels"
     },
     {
       "jargon": "Brzozowski's problem",
-      "layman": "Studying pattern structure"
+      "layman": "Analyzing pattern depth in machines"
     },
     {
       "jargon": "Theoretical analysis",
-      "layman": "Mathematical reasoning"
+      "layman": "Mathematical reasoning without experiments"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Deep connections",
-      "layman": "Strong links between fields"
+      "jargon": "Deep connections to Algebra",
+      "layman": "Links to mathematical structures"
     },
     {
-      "jargon": "Expanding results",
-      "layman": "Growing understanding"
+      "jargon": "Expanding connections to Topology",
+      "layman": "Links to shape and space"
     },
     {
-      "jargon": "Mathematical insights",
-      "layman": "New ways of thinking"
+      "jargon": "Connections to Combinatorics",
+      "layman": "Links to counting patterns"
     },
     {
-      "jargon": "Interdisciplinary links",
-      "layman": "Connections across subjects"
+      "jargon": "Connections to Logic",
+      "layman": "Links to reasoning systems"
     },
     {
-      "jargon": "Understanding of product",
-      "layman": "Better grasp of combining patterns"
+      "jargon": "Universal Algebra contributions",
+      "layman": "General math rules applied"
     }
   ]
 }

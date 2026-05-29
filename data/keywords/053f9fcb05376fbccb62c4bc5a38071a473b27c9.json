@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Intentions",
-      "layman": "Underlying purposes"
+      "layman": "What someone wants to achieve"
     },
     {
       "jargon": "Natural language dialogue",
-      "layman": "Human conversation"
+      "layman": "Human-to-human spoken conversations"
     },
     {
       "jargon": "Sight-impairments",
-      "layman": "Vision difficulties"
+      "layman": "Difficulty seeing"
     },
     {
       "jargon": "Interactive system",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Plan inference techniques",
-      "layman": "Figuring out plans from data"
+      "layman": "Figuring out plans from actions or data"
     },
     {
       "jargon": "System design",
       "layman": "Building a working system"
     },
     {
-      "jargon": "Recognize intentions",
-      "layman": "Detect what someone wants"
+      "jargon": "Recognition",
+      "layman": "Identifying something"
     },
     {
-      "jargon": "Natural language system",
-      "layman": "System that understands speech"
+      "jargon": "Natural language processing",
+      "layman": "Understanding human language"
     },
     {
-      "jargon": "Visual analysis",
-      "layman": "Interpreting images"
+      "jargon": "User interaction",
+      "layman": "How users engage with the system"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Recognize intentions",
-      "layman": "Identify what is meant"
+      "jargon": "Recognizing intentions",
+      "layman": "Understanding user goals"
     },
     {
-      "jargon": "Alternative access",
-      "layman": "Different way to access info"
+      "jargon": "Access to content",
+      "layman": "Reaching information"
     },
     {
-      "jargon": "User interaction",
-      "layman": "People engaging with the system"
+      "jargon": "Alternative means",
+      "layman": "Different way to get information"
     },
     {
-      "jargon": "Content access",
-      "layman": "Getting information from visuals"
+      "jargon": "Interactive system",
+      "layman": "System that responds to input"
     },
     {
-      "jargon": "Communication beyond language",
-      "layman": "Sharing meaning without words"
+      "jargon": "Data interpretation",
+      "layman": "Understanding what data means"
     }
   ]
 }

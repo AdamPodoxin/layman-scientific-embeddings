@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "mitochondrial genome",
-      "layman": "Cell's energy-producing organ DNA"
+      "layman": "Energy-producing cell component"
     },
     {
       "jargon": "mt genomes",
@@ -10,37 +10,37 @@
     },
     {
       "jargon": "mosses",
-      "layman": "Mosses"
+      "layman": "Small, early land plants"
     },
     {
       "jargon": "angiosperms",
       "layman": "Flowering plants"
     },
     {
-      "jargon": "gene order",
-      "layman": "Sequence of genes on a chromosome"
+      "jargon": "intergenic repeat sequences",
+      "layman": "Repeating DNA between genes"
     }
   ],
   "methodologies": [
     {
       "jargon": "assembled complete mt genomes",
-      "layman": "Put together full mitochondrial DNA"
+      "layman": "Reconstructed full mitochondrial DNA"
     },
     {
       "jargon": "phylogenetic depth",
-      "layman": "Evolutionary history across species"
+      "layman": "Evolutionary history analysis"
     },
     {
       "jargon": "divergence time estimates",
-      "layman": "Estimated time since species split"
+      "layman": "Time since species split"
     },
     {
-      "jargon": "intergenic repeat sequences",
-      "layman": "Repeating DNA between genes"
+      "jargon": "gene loss",
+      "layman": "Missing a gene over time"
     },
     {
-      "jargon": "intragenomic recombinations",
-      "layman": "Gene swapping within the genome"
+      "jargon": "gene relocation",
+      "layman": "Gene moved to a new location"
     }
   ],
   "outcomes": [
@@ -49,19 +49,19 @@
       "layman": "350 million years of no change"
     },
     {
-      "jargon": "two independent gene losses",
-      "layman": "Two gene deletions"
-    },
-    {
-      "jargon": "single gene relocation",
-      "layman": "One gene moved to a new spot"
+      "jargon": "gene order lability",
+      "layman": "Changes in gene arrangement"
     },
     {
       "jargon": "evolutionary stability",
-      "layman": "Stable over long time"
+      "layman": "Stays unchanged over time"
     },
     {
-      "jargon": "complete lack of intergenic repeats",
+      "jargon": "only two gene losses",
+      "layman": "Only two genes missing"
+    },
+    {
+      "jargon": "no intergenic repeats",
       "layman": "No repeating DNA between genes"
     }
   ]

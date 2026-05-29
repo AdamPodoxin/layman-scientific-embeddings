@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Prouhet-Tarry-Escott problem",
-      "layman": "Math problem about equal sums of number sets"
+      "layman": "Math problem about equal sums of numbers"
     },
     {
       "jargon": "Non-negative integers",
-      "layman": "Whole numbers starting from zero"
+      "layman": "Whole numbers starting at zero"
     },
     {
       "jargon": "Mutually disjoint sets",
       "layman": "Groups with no numbers in common"
     },
     {
-      "jargon": "Classical Prouhet-Thue-Morse sequence",
-      "layman": "Pattern of 0s and 1s with balanced properties"
+      "jargon": "Product generating function",
+      "layman": "Math tool to build patterns from products"
     },
     {
-      "jargon": "Product generating function",
-      "layman": "Math tool that builds patterns from multiplication"
+      "jargon": "Prouhet-Thue-Morse sequence",
+      "layman": "Pattern of 0s and 1s that repeats in a special way"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Extending a rule to cover more cases"
     },
     {
-      "jargon": "Product generating function formula",
-      "layman": "Math formula using multiplication to build sequences"
+      "jargon": "Generating function formula",
+      "layman": "Math formula that creates sequences"
     },
     {
-      "jargon": "Generalization",
-      "layman": "Broadening a rule to apply in more situations"
-    },
-    {
-      "jargon": "Proof",
-      "layman": "Logical argument showing something is true"
+      "jargon": "Proof of a solution",
+      "layman": "Showing a solution works logically"
     },
     {
       "jargon": "Mathematical derivation",
-      "layman": "Building a result step by step using math"
+      "layman": "Building a solution step-by-step using math"
+    },
+    {
+      "jargon": "Sequence pattern analysis",
+      "layman": "Studying how patterns grow or repeat"
     }
   ],
   "outcomes": [
     {
       "jargon": "Equal sums of like powers",
-      "layman": "Same total when numbers are raised to same power"
+      "layman": "Same totals when numbers are raised to same powers"
     },
     {
-      "jargon": "New proof",
-      "layman": "Fresh logical explanation of a known result"
+      "jargon": "Generalized product generating function",
+      "layman": "A broader math rule for number patterns"
     },
     {
       "jargon": "Solution to the problem",
-      "layman": "Answer to the math puzzle"
+      "layman": "A working answer found for the math puzzle"
     },
     {
-      "jargon": "Disjoint sets with equal sums",
-      "layman": "Different groups with same totals"
+      "jargon": "Mutually disjoint sets with equal sums",
+      "layman": "Separate groups of numbers adding to same totals"
     },
     {
-      "jargon": "Mathematical structure",
-      "layman": "Hidden pattern in numbers"
+      "jargon": "Classical sequence extension",
+      "layman": "Expanding a known pattern to new forms"
     }
   ]
 }

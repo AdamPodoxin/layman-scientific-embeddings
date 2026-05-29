@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "lim+",
+      "layman": "Sum of limits equals limit of sum"
+    },
+    {
+      "jargon": "\u03b2-steps",
+      "layman": "Step in logical computation"
+    },
+    {
+      "jargon": "\u03b4+-steps",
+      "layman": "Step in logical transformation"
+    },
+    {
+      "jargon": "Non-permutability",
+      "layman": "Order can't be changed"
+    },
+    {
+      "jargon": "Smullyan's classification",
+      "layman": "Categorization of logic steps"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Formal proof",
+      "layman": "Logical deduction"
+    },
+    {
+      "jargon": "Pedagogical presentation",
+      "layman": "Teaching-focused explanation"
+    },
+    {
+      "jargon": "Search for proof",
+      "layman": "Find a logical argument"
+    },
+    {
+      "jargon": "Delta-rules",
+      "layman": "Rules for transforming logic steps"
+    },
+    {
+      "jargon": "Delta++-rule",
+      "layman": "Enhanced logic rule"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Non-permutability of beta-steps and delta+-steps",
+      "layman": "Order of steps matters"
+    },
+    {
+      "jargon": "Not visible with non-liberalized delta-rules",
+      "layman": "No issue in basic rules"
+    },
+    {
+      "jargon": "Not serious with liberalized delta-rules",
+      "layman": "Issue vanishes with stronger rules"
+    },
+    {
+      "jargon": "Practically important role",
+      "layman": "Crucial in real use"
+    },
+    {
+      "jargon": "(lim+) theorem",
+      "layman": "Sum of limits equals limit of sum"
+    }
+  ]
+}

@@ -13,56 +13,56 @@
       "layman": "Papua New Guinea"
     },
     {
-      "jargon": "Crustal block",
-      "layman": "Large piece of Earth's surface"
+      "jargon": "Geological structure",
+      "layman": "Earth's rock layer shape"
     },
     {
       "jargon": "Tectonic boundary",
-      "layman": "Edge where Earth plates meet"
+      "layman": "Edge where plates push against each other"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Geological mapping",
-      "layman": "Mapping rock features"
-    },
-    {
-      "jargon": "Structural analysis",
-      "layman": "Studying rock layer shapes"
-    },
     {
       "jargon": "Geochronology",
       "layman": "Dating rock layers"
     },
     {
-      "jargon": "Field survey",
-      "layman": "On-site rock observation"
+      "jargon": "Structural geology",
+      "layman": "Studying rock layer shapes and forces"
     },
     {
-      "jargon": "Geophysical profiling",
-      "layman": "Using tools to measure underground features"
+      "jargon": "Field mapping",
+      "layman": "Drawing rock features in the field"
+    },
+    {
+      "jargon": "Remote sensing",
+      "layman": "Using satellites to see land features"
+    },
+    {
+      "jargon": "Uplift rate analysis",
+      "layman": "Measuring how fast land rises"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Exhumation event",
-      "layman": "Rock rising from deep underground"
+      "jargon": "Exhumation rate",
+      "layman": "How fast rock is lifted up"
     },
     {
-      "jargon": "Fault reactivation",
-      "layman": "Faults becoming active again"
+      "jargon": "Vertical displacement",
+      "layman": "Change in height of rock layers"
     },
     {
-      "jargon": "Thermal subsidence",
-      "layman": "Ground sinking due to cooling"
+      "jargon": "Petrological evidence",
+      "layman": "Rock composition clues"
     },
     {
-      "jargon": "Exposure of deep crust",
-      "layman": "Deep rock layers coming to surface"
+      "jargon": "Structural inversion",
+      "layman": "Rock layers re-bent or flipped"
     },
     {
-      "jargon": "Paleo-structural patterns",
-      "layman": "Old rock layer patterns"
+      "jargon": "Tectonic cycling",
+      "layman": "Earth's slow rock movement cycles"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "core_entities": [
     {
-      "jargon": "CdSe nanoparticle",
-      "layman": "Tiny semiconductor particle"
+      "jargon": "CdSe nanoparticles",
+      "layman": "Tiny semiconductor particles"
     },
     {
-      "jargon": "CdSe/ZnS core/shell nanoparticle",
-      "layman": "Nanoparticle with inner and outer layers"
+      "jargon": "CdSe/ZnS core/shell nanoparticles",
+      "layman": "Nanoparticles with a core and protective shell"
     },
     {
       "jargon": "Photorefractive polymer",
@@ -18,25 +18,25 @@
     },
     {
       "jargon": "Electric field",
-      "layman": "Electric force between charged parts"
+      "layman": "Electric field"
     }
   ],
   "methodologies": [
     {
       "jargon": "Photoluminescence studies",
-      "layman": "Measuring light emission under light exposure"
+      "layman": "Measuring light emission"
     },
     {
       "jargon": "Tunneling of holes",
-      "layman": "Electrons jumping through barriers"
+      "layman": "Electrons passing through barriers"
     },
     {
       "jargon": "Partial recapture",
-      "layman": "Some holes returning after escaping"
+      "layman": "Holes being partially caught again"
     },
     {
       "jargon": "Sensitization",
-      "layman": "Making a material respond to light"
+      "layman": "Making the material respond to light"
     },
     {
       "jargon": "Field dependence",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "Hole tunneling",
-      "layman": "Holes move through nanoparticle walls"
+      "jargon": "Tunneling of holes out of nanoparticles",
+      "layman": "Holes escape from particles"
     },
     {
-      "jargon": "Hole recapture",
-      "layman": "Holes return to the nanoparticle"
+      "jargon": "Partial recapture of holes",
+      "layman": "Holes are partly re-captured"
     },
     {
       "jargon": "ZnS shell suppresses recapture",
-      "layman": "Outer layer stops holes from returning"
+      "layman": "Shell stops holes from returning"
     },
     {
-      "jargon": "Electric field dependence",
-      "layman": "Emission changes with electric field"
+      "jargon": "Electric field dependence of photoluminescence",
+      "layman": "Light emission changes with electric field"
     },
     {
-      "jargon": "Core/shell structure",
-      "layman": "Layered nanoparticle design"
+      "jargon": "Core/shell structure improves stability",
+      "layman": "Structure makes material more stable"
     }
   ]
 }

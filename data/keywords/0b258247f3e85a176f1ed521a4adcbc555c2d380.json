@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Alphabetic binary tree",
-      "layman": "Tree that sorts letters with yes/no choices"
+      "layman": "Tree for sorting letters"
     },
     {
       "jargon": "Microprocessor",
-      "layman": "Computer's central processor"
+      "layman": "Computer's brain chip"
     },
     {
       "jargon": "Switch statement",
-      "layman": "Code that chooses actions based on conditions"
+      "layman": "Code path selector"
     },
     {
-      "jargon": "Huffman code",
-      "layman": "Efficient way to compress data"
+      "jargon": "Huffman codes",
+      "layman": "Data compression method"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Optimal binary decision tree",
-      "layman": "Best possible choice tree"
+      "layman": "Best decision path"
     },
     {
-      "jargon": "Predictive branch capabilities",
-      "layman": "Processor that guesses which path to take"
+      "jargon": "Predictive branch capability",
+      "layman": "Branch prediction in chips"
     },
     {
       "jargon": "Static branch prediction",
-      "layman": "Processor guessing based on fixed rules"
+      "layman": "Fixed branch guessing"
     },
     {
       "jargon": "Dynamic branch prediction",
-      "layman": "Processor learning from past choices"
+      "layman": "Changing branch guessing"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Entropy-based performance bounds",
-      "layman": "Theoretical speed limits based on probability"
+      "layman": "Theoretical speed limits based on randomness"
     },
     {
       "jargon": "Faster in practice",
-      "layman": "Works better in real use"
+      "layman": "Works faster in real use"
     },
     {
-      "jargon": "Extra complexity for better results",
-      "layman": "More work to get better performance"
+      "jargon": "Better solution for small problems",
+      "layman": "Improved results on small cases"
     },
     {
-      "jargon": "Optimal decision trees",
-      "layman": "Best possible decision paths"
+      "jargon": "Optimal decision trees (literature)",
+      "layman": "Standard best decision trees"
     }
   ]
 }

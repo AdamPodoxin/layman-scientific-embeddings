@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Spectral function",
-      "layman": "Nucleon momentum distribution"
-    },
-    {
-      "jargon": "Neutrino interactions",
-      "layman": "Neutrinos hitting nuclei"
+      "layman": "Distribution of nucleon momenta"
     },
     {
       "jargon": "Nucleus",
       "layman": "Atomic core"
     },
     {
-      "jargon": "Free cross section",
-      "layman": "Neutrino collision chance with single nucleon"
+      "jargon": "Neutrino",
+      "layman": "Nearly invisible particle"
     },
     {
-      "jargon": "Bound nucleon",
-      "layman": "Proton or neutron in nucleus"
+      "jargon": "Argon",
+      "layman": "Argon"
+    },
+    {
+      "jargon": "Calcium",
+      "layman": "Calcium"
     }
   ],
   "methodologies": [
     {
       "jargon": "Impulse approximation",
-      "layman": "Treat nucleus as separate particles"
+      "layman": "Single-nucleon interaction model"
     },
-    {
-      "jargon": "Electron-scattering data",
-      "layman": "Measuring how electrons bounce off nuclei"
-    },
-    {
-      "jargon": "Folded integral",
-      "layman": "Combine collision chances with particle distributions"
-    },
-    {
-      "jargon": "Off-shell effect",
-      "layman": "Energy shift in particle interaction"
-    },
-    {
-      "jargon": "Cross section calculation",
-      "layman": "Measure how likely a collision is"
-    }
-  ],
-  "outcomes": [
     {
       "jargon": "Cross section",
       "layman": "Chance of interaction"
     },
     {
-      "jargon": "Lower cross section",
-      "layman": "Fewer interactions than expected"
+      "jargon": "Electron-scattering data",
+      "layman": "Scattering data from electrons"
+    },
+    {
+      "jargon": "Folded integral",
+      "layman": "Combining interaction and distribution data"
+    },
+    {
+      "jargon": "Off-shell effect",
+      "layman": "Energy mismatch in particle interaction"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cross section",
+      "layman": "Interaction chance"
     },
     {
       "jargon": "Fermi gas model",
-      "layman": "Old prediction method for nuclei"
+      "layman": "Simple nucleon model"
     },
     {
-      "jargon": "Accuracy verification",
-      "layman": "Check if results are correct"
+      "jargon": "Accurate spectral function",
+      "layman": "Precise momentum distribution"
+    },
+    {
+      "jargon": "Lower cross section",
+      "layman": "Fewer interactions"
     },
     {
       "jargon": "Kinematical region",
-      "layman": "Specific collision conditions"
+      "layman": "Specific interaction conditions"
     }
   ]
 }

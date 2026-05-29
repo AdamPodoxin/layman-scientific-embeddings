@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "CdxCo1\u2212x+tTitFe2\u22122tO4",
-      "layman": "Titanium-coated cobalt-cadmium ferrite"
+      "layman": "Titanium-substituted cobalt-cadmium ferrite"
     },
     {
       "jargon": "Spinel structure",
-      "layman": "Crystal lattice pattern"
+      "layman": "Crystal structure pattern"
     },
     {
       "jargon": "Lattice parameter",
-      "layman": "Crystal size measurement"
+      "layman": "Crystal grid size"
     },
     {
       "jargon": "Density",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Porosity",
-      "layman": "Empty spaces in the material"
+      "layman": "Air spaces in the material"
     }
   ],
   "methodologies": [
     {
       "jargon": "Double sintering ceramic technique",
-      "layman": "Two-step heating to form solid material"
+      "layman": "Two-step heating process"
     },
     {
       "jargon": "X-ray diffraction",
-      "layman": "X-ray scan to see crystal structure"
+      "layman": "X-ray pattern analysis"
     },
     {
       "jargon": "Temperature and magnetic field dependence",
-      "layman": "How properties change with heat and magnetism"
+      "layman": "How materials respond to heat and magnets"
     },
     {
       "jargon": "Effective magnetic moment",
-      "layman": "Overall magnetic strength of the material"
+      "layman": "Overall magnetic strength of a material"
     },
     {
       "jargon": "Mechanical pressure",
-      "layman": "Physical squeezing or compression"
+      "layman": "Physical compression force"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "dc resistivity",
-      "layman": "Electrical resistance at steady current"
+      "layman": "Electrical resistance under steady current"
     },
     {
       "jargon": "Increased effective magnetic moment",
       "layman": "Stronger overall magnetism"
     },
     {
-      "jargon": "Increase in Curie temperature up to t=0.15",
-      "layman": "Magnetism lasts longer at higher heat"
+      "jargon": "Decreased Curie temperature at high Ti",
+      "layman": "Magnetism loss at high titanium levels"
     }
   ]
 }

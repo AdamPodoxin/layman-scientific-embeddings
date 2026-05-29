@@ -1,56 +1,68 @@
 {
-	"core_entities": [
-		{
-			"jargon": "statesociety relations",
-			"layman": "state and society relationships"
-		},
-		{
-			"jargon": "political elites",
-			"layman": "top political leaders"
-		},
-		{
-			"jargon": "political institutions",
-			"layman": "government systems and bodies"
-		},
-		{
-			"jargon": "political culture",
-			"layman": "shared beliefs about politics"
-		},
-		{
-			"jargon": "economic reforms",
-			"layman": "changes to how China runs its economy"
-		}
-	],
-	"methodologies": [
-		{
-			"jargon": "generational change",
-			"layman": "change due to new age groups"
-		},
-		{
-			"jargon": "deliberate restaffing",
-			"layman": "intentional replacement of leaders"
-		},
-		{
-			"jargon": "partial liberalization",
-			"layman": "limited opening to outside ideas"
-		},
-		{
-			"jargon": "exposure to outside world",
-			"layman": "contact with global influences"
-		},
-		{
-			"jargon": "uninstitutionalized succession",
-			"layman": "no clear rules for leadership change"
-		}
-	],
-	"outcomes": [
-		{
-			"jargon": "increased power of society",
-			"layman": "society gaining more influence"
-		},
-		{
-			"jargon": "more educated elite",
-			"layman": "leaders with better education"
-		}
-	]
+  "core_entities": [
+    {
+      "jargon": "statesociety relations",
+      "layman": "relationship between government and civil society"
+    },
+    {
+      "jargon": "political elites",
+      "layman": "top political leaders"
+    },
+    {
+      "jargon": "political institutions",
+      "layman": "government structures and organizations"
+    },
+    {
+      "jargon": "political culture",
+      "layman": "shared beliefs about politics"
+    },
+    {
+      "jargon": "economic reforms",
+      "layman": "policy changes to boost economy"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "generational change",
+      "layman": "change due to new age groups"
+    },
+    {
+      "jargon": "deliberate restaffing",
+      "layman": "intentional replacement of staff"
+    },
+    {
+      "jargon": "partial liberalization",
+      "layman": "limited opening to new ideas"
+    },
+    {
+      "jargon": "exposure to outside world",
+      "layman": "contact with foreign cultures"
+    },
+    {
+      "jargon": "uninstitutionalized succession",
+      "layman": "no clear rules for leadership change"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "increased societal power",
+      "layman": "government losing control to public"
+    },
+    {
+      "jargon": "more educated elite",
+      "layman": "leaders getting better education"
+    },
+    {
+      "jargon": "more technically competent elite",
+      "layman": "leaders better at technical work"
+    },
+    {
+      "jargon": "decline in institutional legitimacy",
+      "layman": "government losing public trust"
+    },
+    {
+      "jargon": "endemic corruption",
+      "layman": "widespread dishonesty in power"
+    }
+  ]
 }

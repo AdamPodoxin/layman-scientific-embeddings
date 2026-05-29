@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "New crops",
-      "layman": "New crops"
+      "layman": "New types of crops"
     },
     {
-      "jargon": "US farmers",
-      "layman": "American farmers"
+      "jargon": "GATT",
+      "layman": "Global trade agreement"
     },
     {
-      "jargon": "European Community",
-      "layman": "European Union"
+      "jargon": "NAFTA",
+      "layman": "Trade agreement between the US, Canada, Mexico"
     },
     {
-      "jargon": "Global alliances",
-      "layman": "International partnerships"
+      "jargon": "Public funding",
+      "layman": "Government money for projects"
     },
     {
-      "jargon": "Free-riders",
-      "layman": "People who benefit without contributing"
+      "jargon": "R&D incentives",
+      "layman": "Rewards for research and development"
     }
   ],
   "methodologies": [
     {
       "jargon": "Strategic planning",
-      "layman": "Long-term goal-setting"
+      "layman": "Long-term strategy planning"
     },
     {
-      "jargon": "Policy recommendations",
-      "layman": "Suggested rules for government"
+      "jargon": "Policy development",
+      "layman": "Creating government policies"
     },
     {
-      "jargon": "Risk-sharing",
-      "layman": "Splitting financial risks"
+      "jargon": "Risk sharing",
+      "layman": "Pooling risks among countries"
     },
     {
-      "jargon": "R&D incentives",
-      "layman": "Rewards for research and development"
+      "jargon": "Evidence-based advocacy",
+      "layman": "Using facts to influence policy"
     },
     {
-      "jargon": "Public funding",
-      "layman": "Government money for projects"
+      "jargon": "Free-riding",
+      "layman": "Letting others benefit without paying"
     }
   ],
   "outcomes": [
@@ -57,12 +57,12 @@
       "layman": "Harm to nature"
     },
     {
-      "jargon": "Political challenges",
-      "layman": "Government difficulties"
+      "jargon": "Social and political consequences",
+      "layman": "Negative effects on people and government"
     },
     {
-      "jargon": "Increased exposure to free-market forces",
-      "layman": "More competition from global markets"
+      "jargon": "Policy changes",
+      "layman": "New laws or rules"
     }
   ]
 }

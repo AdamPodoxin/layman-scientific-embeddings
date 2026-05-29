@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "p-aminobenzoic acid",
-      "layman": "p-aminobenzoic acid"
+      "layman": "Aromatic acid compound"
     },
     {
       "jargon": "horseradish peroxidase",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Compounds I and II",
-      "layman": "Enzyme's reactive forms"
+      "layman": "Active enzyme states"
     },
     {
       "jargon": "heme",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "pH dependence",
-      "layman": "How reaction speed changes with acidity"
+      "layman": "How rate changes with acidity"
     },
     {
-      "jargon": "kinetic behavior",
-      "layman": "How fast the reaction proceeds"
+      "jargon": "ionic strength",
+      "layman": "Salt concentration in solution"
     },
     {
-      "jargon": "rate constants",
-      "layman": "Speed of reaction measurements"
+      "jargon": "rate data collection",
+      "layman": "Measuring reaction speed"
     },
     {
-      "jargon": "proton-transfer mechanisms",
-      "layman": "How protons move during reaction"
+      "jargon": "proton-transfer mechanism",
+      "layman": "Acid-base transfer during reaction"
     }
   ],
   "outcomes": [
     {
-      "jargon": "deviations from first order behavior",
-      "layman": "Reaction speed changes unexpectedly"
+      "jargon": "deviations from first order",
+      "layman": "Reaction speed doesn't match predictions"
     },
     {
-      "jargon": "free radical interaction with enzyme",
-      "layman": "Product attacks enzyme"
-    },
-    {
-      "jargon": "enzyme-substrate complex",
-      "layman": "Enzyme and substrate bind together"
+      "jargon": "second order rate constants",
+      "layman": "Reaction speed at two molecules involved"
     },
     {
       "jargon": "diffusion-controlled limit",
-      "layman": "Reaction limited by how fast molecules meet"
+      "layman": "Reaction too fast to slow down"
     },
     {
-      "jargon": "three acid ionizations",
-      "layman": "Three proton changes in reaction"
+      "jargon": "enzyme-substrate complex",
+      "layman": "Enzyme and substrate linked together"
+    },
+    {
+      "jargon": "rate-pH profile",
+      "layman": "How reaction speed changes with pH"
     }
   ]
 }

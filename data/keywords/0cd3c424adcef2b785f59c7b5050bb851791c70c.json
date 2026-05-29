@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Schwarzschild metric",
-      "layman": "Black hole spacetime model"
+      "layman": "Gravity around a non-rotating black hole"
     },
     {
-      "jargon": "Test particles",
-      "layman": "Tiny objects in space"
+      "jargon": "test particles",
+      "layman": "Small objects in space"
     },
     {
-      "jargon": "Cosmological term",
-      "layman": "Space expansion influence"
+      "jargon": "cosmological term",
+      "layman": "Gravity-related constant"
     },
     {
-      "jargon": "Static spherical source",
+      "jargon": "static spherical source",
       "layman": "Stationary, round mass"
     },
     {
-      "jargon": "Empty space",
+      "jargon": "empty space",
       "layman": "Vacuum"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Modified action",
-      "layman": "Altered gravity rule"
+      "jargon": "modified action",
+      "layman": "Changed gravity theory"
     },
     {
-      "jargon": "Compute field",
-      "layman": "Calculate gravitational effect"
+      "jargon": "compute the field",
+      "layman": "Calculate gravity effect"
     },
     {
-      "jargon": "Static potential",
-      "layman": "Stable force field"
+      "jargon": "static potential",
+      "layman": "Stable gravity field"
     },
     {
-      "jargon": "Scale-dependent term",
-      "layman": "Effect that changes with size"
+      "jargon": "scale-dependent",
+      "layman": "Changes with size"
     },
     {
-      "jargon": "Pioneers data",
-      "layman": "Spacecraft movement records"
+      "jargon": "field generated",
+      "layman": "Gravity created by a mass"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Non-Newtonian component",
+      "jargon": "non-Newtonian component",
       "layman": "Small gravity deviation"
     },
     {
-      "jargon": "Tiny correction",
-      "layman": "Minor change in force"
+      "jargon": "tiny correction",
+      "layman": "Very small change"
     },
     {
-      "jargon": "Depends on size",
-      "layman": "Changes with particle size"
+      "jargon": "depends on test particle size",
+      "layman": "Gravity changes with object size"
     },
     {
-      "jargon": "Possible relevance",
-      "layman": "May explain observed data"
+      "jargon": "Pioneers data",
+      "layman": "Old space probe measurements"
     },
     {
-      "jargon": "Recent Pioneers data",
-      "layman": "Old spacecraft motion clues"
+      "jargon": "possible relevance",
+      "layman": "Could explain old data"
     }
   ]
 }

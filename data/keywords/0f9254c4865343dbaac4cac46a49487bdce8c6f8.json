@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "\u03b2-lactoglobulin",
-      "layman": "Beta-lactoglobulin"
+      "layman": "Milk protein"
     },
     {
-      "jargon": "lysozyme",
-      "layman": "Lysozyme"
+      "jargon": "Lysozyme",
+      "layman": "Enzyme in egg whites"
     },
     {
-      "jargon": "electrostatic attraction",
-      "layman": "Opposite charges pulling together"
+      "jargon": "Electrostatic attraction",
+      "layman": "Opposite charges pull together"
     },
     {
-      "jargon": "protein mixture",
-      "layman": "Mix of proteins"
+      "jargon": "Protein mixture",
+      "layman": "Mix of different proteins"
     },
     {
-      "jargon": "additives",
-      "layman": "Added substances"
+      "jargon": "Additives",
+      "layman": "Substances added to mixtures"
     }
   ],
   "methodologies": [
     {
-      "jargon": "thermal aggregation",
-      "layman": "Heating-induced clumping"
+      "jargon": "Thermal aggregation",
+      "layman": "Heating causes proteins to clump"
     },
     {
-      "jargon": "nucleation",
-      "layman": "Starting point of clumping"
+      "jargon": "Nucleation",
+      "layman": "First small clump forms"
     },
     {
-      "jargon": "growth of aggregates",
-      "layman": "Clumps getting bigger"
+      "jargon": "Growth of aggregates",
+      "layman": "Clumps get bigger"
     },
     {
-      "jargon": "heat treatment",
+      "jargon": "Heat treatment",
       "layman": "Heating process"
     },
     {
-      "jargon": "partial unfolding",
-      "layman": "Proteins slightly changing shape"
+      "jargon": "Partial unfolding",
+      "layman": "Proteins lose shape slightly"
     }
   ],
   "outcomes": [
     {
-      "jargon": "co-aggregation",
-      "layman": "Proteins sticking together"
+      "jargon": "Co-aggregation",
+      "layman": "Different proteins stick together"
     },
     {
-      "jargon": "native structures",
-      "layman": "Original protein shapes"
+      "jargon": "Native structures",
+      "layman": "Original protein shape stays"
     },
     {
-      "jargon": "suppressed aggregation",
-      "layman": "Less clumping"
+      "jargon": "Suppressed nucleation",
+      "layman": "Small clumps don\u2019t start"
     },
     {
-      "jargon": "electrostatic attraction between molecules",
-      "layman": "Charges between proteins pulling them together"
+      "jargon": "Suppressed growth",
+      "layman": "Clumps don\u2019t grow larger"
     },
     {
-      "jargon": "sensitivity to partial unfolding",
-      "layman": "Highly affected by slight shape changes"
+      "jargon": "Electrostatic attraction between molecules",
+      "layman": "Charges between proteins pull them together"
     }
   ]
 }

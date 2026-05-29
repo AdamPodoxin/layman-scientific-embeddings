@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Efimov physics",
-      "layman": "Strange three-particle behavior"
+      "layman": "Universal behavior in few particles"
     },
     {
       "jargon": "Three-body parameter",
       "layman": "Key number describing three-particle system"
     },
     {
+      "jargon": "Three particles",
+      "layman": "Three atoms close together"
+    },
+    {
       "jargon": "Short-range two-body interactions",
-      "layman": "Close-pair forces between two atoms"
+      "layman": "Close interactions between two particles"
     },
     {
       "jargon": "Three-body potentials",
-      "layman": "Forces acting on three particles together"
-    },
-    {
-      "jargon": "Neutral atoms",
-      "layman": "Atoms with no electric charge"
+      "layman": "Forces between three particles"
     }
   ],
   "methodologies": [
     {
       "jargon": "Theoretical studies",
-      "layman": "Mathematical modeling"
+      "layman": "Computer models and math"
     },
     {
       "jargon": "Experimental measurements",
       "layman": "Direct observations in labs"
     },
     {
+      "jargon": "Resolving contradictions",
+      "layman": "Finding why things don't match"
+    },
+    {
+      "jargon": "Implications of interactions",
+      "layman": "What follows from particle forces"
+    },
+    {
       "jargon": "Effective barrier",
-      "layman": "Force that blocks particles from getting close"
-    },
-    {
-      "jargon": "Universal effective barrier",
-      "layman": "Universal force blocking close approach"
-    },
-    {
-      "jargon": "Implications of two-body interactions",
-      "layman": "Effects of pair forces on three-particle system"
+      "layman": "Virtual wall blocking particle closeness"
     }
   ],
   "outcomes": [
     {
       "jargon": "Three-body parameter universality",
-      "layman": "Same key number across different systems"
+      "layman": "Same value across different systems"
     },
     {
-      "jargon": "Apparent contradiction",
-      "layman": "Unexpected conflict between theory and data"
+      "jargon": "Unexpected discovery",
+      "layman": "Surprising finding in experiments"
     },
     {
       "jargon": "Universality emerges",
-      "layman": "Behavior becomes consistent across cases"
+      "layman": "Pattern appears in all cases"
     },
     {
-      "jargon": "Limitations on universality",
-      "layman": "Not true for all types of particles"
+      "jargon": "Limitations for light nuclei",
+      "layman": "Doesn't work for small atomic nuclei"
     },
     {
       "jargon": "More likely in neutral atoms",
-      "layman": "Works better with non-charged atoms"
+      "layman": "Works better in regular atoms"
     }
   ]
 }

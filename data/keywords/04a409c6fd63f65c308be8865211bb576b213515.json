@@ -5,64 +5,64 @@
       "layman": "Computer system software"
     },
     {
-      "jargon": "Multiaccess system",
-      "layman": "System allowing multiple users"
-    },
-    {
       "jargon": "Capabilities",
       "layman": "Security permissions"
     },
     {
       "jargon": "Memory hierarchy",
-      "layman": "Levels of computer memory"
+      "layman": "Memory levels"
     },
     {
-      "jargon": "CDC 6400",
-      "layman": "Old computer model"
+      "jargon": "Layers",
+      "layman": "System layers"
+    },
+    {
+      "jargon": "Protection",
+      "layman": "Security measures"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Layered organization",
-      "layman": "Building layers step by step"
+      "jargon": "Layered design",
+      "layman": "Building systems step by step"
     },
     {
       "jargon": "Protection between layers",
-      "layman": "Security between steps"
+      "layman": "Securing layer boundaries"
     },
     {
-      "jargon": "Maintaining protection",
-      "layman": "Keeping security safe"
+      "jargon": "Memory hierarchy organization",
+      "layman": "Organizing memory levels"
     },
     {
-      "jargon": "Adding levels to memory",
-      "layman": "Expanding memory levels"
+      "jargon": "System maintenance",
+      "layman": "Fixing system issues"
     },
     {
-      "jargon": "New solution",
-      "layman": "Improved fix"
+      "jargon": "Design retrofit",
+      "layman": "Updating system design"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Protection problems",
+      "layman": "Security failures"
+    },
+    {
+      "jargon": "Malfunctions",
+      "layman": "System crashes"
+    },
+    {
+      "jargon": "New solution",
+      "layman": "Improved design"
+    },
+    {
+      "jargon": "Layer addition issues",
+      "layman": "Problems adding layers"
+    },
+    {
       "jargon": "Good and bad points",
       "layman": "Strengths and weaknesses"
-    },
-    {
-      "jargon": "Serious problems",
-      "layman": "Major issues"
-    },
-    {
-      "jargon": "Malfunctions of later ones",
-      "layman": "Failures in later steps"
-    },
-    {
-      "jargon": "Protection problems",
-      "layman": "Security breakdowns"
-    },
-    {
-      "jargon": "Discussed and new solution",
-      "layman": "Issues reviewed and fixed"
     }
   ]
 }

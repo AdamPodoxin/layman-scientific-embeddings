@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Sequent proofs",
-      "layman": "Logical proofs structured in steps"
+      "layman": "Structured logical arguments in proofs"
     },
     {
       "jargon": "Cut-rules",
-      "layman": "Rules that connect different parts of a proof"
+      "layman": "Logical steps that combine premises"
     },
     {
       "jargon": "Term assignment",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Symmetric reducibility candidates",
-      "layman": "Proof elements that can be simplified equally"
+      "layman": "Potential simplifications in proofs"
     }
   ],
   "methodologies": [
     {
       "jargon": "Cut-elimination",
-      "layman": "Removing connections between proof steps"
+      "layman": "Simplifying proofs by removing logical steps"
     },
     {
-      "jargon": "Strong normalisation",
-      "layman": "Ensuring all proofs end in simple forms"
+      "jargon": "Gentzen's cut-reductions",
+      "layman": "Classic method for simplifying logic proofs"
     },
     {
       "jargon": "Term rewriting rules",
       "layman": "Rules for transforming proof terms"
     },
     {
-      "jargon": "Gentzen's cut-reductions",
-      "layman": "Standard method for simplifying proofs"
+      "jargon": "Strong normalisation",
+      "layman": "Procedures that always end in a simple form"
     },
     {
-      "jargon": "Annotated formulae",
-      "layman": "Formulae with extra labels for tracking"
+      "jargon": "Adapting symmetric reducibility",
+      "layman": "Modifying proof rules for stability"
     }
   ],
   "outcomes": [
     {
       "jargon": "Strongly normalising procedure",
-      "layman": "All proofs eventually simplify completely"
+      "layman": "Proof process that always ends cleanly"
     },
     {
       "jargon": "No special annotations",
-      "layman": "No need for extra labels on formulas"
+      "layman": "No extra markings needed on formulas"
     },
     {
-      "jargon": "Cut-rules can pass over others",
-      "layman": "Cut rules can skip or go over other rules"
+      "jargon": "Cut-rules pass over other cut-rules",
+      "layman": "Rules can go through each other"
     },
     {
-      "jargon": "Adapts symmetric reducibility",
-      "layman": "Uses a new way to prove simplification works"
+      "jargon": "Formalise cut-reductions",
+      "layman": "Make cut-reductions precise and clear"
     },
     {
-      "jargon": "Formalises cut-reductions",
-      "layman": "Makes cut simplifications precise and clear"
+      "jargon": "Less restrictive than prior methods",
+      "layman": "Flexible compared to older techniques"
     }
   ]
 }

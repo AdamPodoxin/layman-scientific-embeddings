@@ -2,41 +2,41 @@
   "core_entities": [
     {
       "jargon": "Selenite ion",
-      "layman": "Selenium ion"
+      "layman": "Selenium compound in solution"
     },
     {
       "jargon": "1,2-Dimercaptoethane",
-      "layman": "DME compound"
+      "layman": "DME, a two-sulfur molecule"
     },
     {
       "jargon": "Thioacetic acid",
-      "layman": "TAA compound"
+      "layman": "TAA, a sulfur-containing acid"
     },
     {
       "jargon": "Selenium-containing derivative",
-      "layman": "Selenium-containing product"
+      "layman": "Compound with selenium attached"
     },
     {
       "jargon": "pH",
-      "layman": "Acidity or alkalinity"
+      "layman": "Acidity or basicity of solution"
     }
   ],
   "methodologies": [
     {
       "jargon": "Reaction between selenite and DME",
-      "layman": "Chemical reaction between selenium and DME"
+      "layman": "Chemical mixing to form new compound"
     },
     {
       "jargon": "Reaction between selenite and TAA",
-      "layman": "Chemical reaction between selenium and TAA"
+      "layman": "Chemical mixing to form new compound"
     },
     {
-      "jargon": "Formation of products",
-      "layman": "Creating new compounds"
+      "jargon": "Formation of derivatives",
+      "layman": "Creating new chemicals from reactants"
     },
     {
       "jargon": "Equilibrium constants measurement",
-      "layman": "Measuring reaction balance"
+      "layman": "Measuring balance in chemical reactions"
     },
     {
       "jargon": "pH dependent process",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Moderately stable derivatives",
-      "layman": "Stable new compounds"
+      "layman": "Products that stay together for a while"
     },
     {
-      "jargon": "Enhanced absorption in 230\u2013360 nm region",
-      "layman": "Stronger light absorption in certain range"
+      "jargon": "Enhanced absorptions in 230\u2013360 nm region",
+      "layman": "Stronger light absorption in a range"
     },
     {
       "jargon": "One product formed",
-      "layman": "Only one compound made"
+      "layman": "Only one chemical result"
     },
     {
-      "jargon": "Combining molar ratios 3:2 and 4:1",
-      "layman": "Specific ingredient ratios used"
+      "jargon": "Combining molar ratios 3:2",
+      "layman": "3 parts to 2 parts ratio"
     },
     {
-      "jargon": "Equilibrium constants measured",
-      "layman": "Reaction balance values found"
+      "jargon": "Combining molar ratios 4:1",
+      "layman": "4 parts to 1 part ratio"
     }
   ]
 }

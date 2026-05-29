@@ -6,29 +6,29 @@
     },
     {
       "jargon": "Christian understanding",
-      "layman": "Religious compassion"
+      "layman": "Religious view of kindness"
     },
     {
-      "jargon": "Artistic system",
-      "layman": "Creative framework"
+      "jargon": "Effective assistance",
+      "layman": "Helping those in need"
     },
     {
       "jargon": "Concept word-nominee",
-      "layman": "Concept with a specific name"
+      "layman": "Concept tied to a word"
     },
     {
-      "jargon": "M. Gorky's creative works",
-      "layman": "Gorky's writings"
+      "jargon": "M. Gorky's artistic system",
+      "layman": "Gorky's creative worldview"
     }
   ],
   "methodologies": [
     {
       "jargon": "Conceptualization",
-      "layman": "Creating a concept"
+      "layman": "Thinking out a concept"
     },
     {
-      "jargon": "Implementation",
-      "layman": "Putting into practice"
+      "jargon": "Creative implementation",
+      "layman": "Putting ideas into art"
     },
     {
       "jargon": "Special understanding",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Artistic expression",
-      "layman": "Creative portrayal"
+      "layman": "Showcasing ideas through art"
     },
     {
-      "jargon": "Two independent aspects",
-      "layman": "Two separate forms"
+      "jargon": "Analysis of creative works",
+      "layman": "Studying Gorky's writings"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Two independent aspects",
+      "layman": "Two clear forms"
+    },
+    {
       "jargon": "Vivid expression",
-      "layman": "Strong representation"
+      "layman": "Strong and clear display"
     },
     {
-      "jargon": "Significance",
-      "layman": "Important meaning"
-    },
-    {
-      "jargon": "Effective assistance",
-      "layman": "Helping those in need"
+      "jargon": "Significance of mercy",
+      "layman": "Importance of kindness"
     },
     {
       "jargon": "Special understanding",
-      "layman": "Unique interpretation"
+      "layman": "Unique way of seeing"
     },
     {
-      "jargon": "Conceptual expression",
-      "layman": "Clear concept shown"
+      "jargon": "Concept word-nominee",
+      "layman": "Concept tied to a word"
     }
   ]
 }

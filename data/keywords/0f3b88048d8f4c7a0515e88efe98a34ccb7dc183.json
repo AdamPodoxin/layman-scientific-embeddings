@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Henry James and the battle of the sexes",
-      "layman": "Henry James and gender conflict"
+      "layman": "Henry James' gender conflict"
     },
     {
       "jargon": "Hitchcock's couples",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Randall Jarrell's sinister beings",
-      "layman": "Jarrell's dark figures"
+      "layman": "Jarrell's menacing figures"
     }
   ],
   "methodologies": [
     {
       "jargon": "Artistic gaze",
-      "layman": "Looking through art"
+      "layman": "Looking at people through art"
     },
     {
-      "jargon": "Visual analysis",
-      "layman": "Analyzing images"
+      "jargon": "Narrative analysis",
+      "layman": "Examining stories"
     },
     {
-      "jargon": "Narrative interpretation",
-      "layman": "Reading stories in art"
+      "jargon": "Visual symbolism",
+      "layman": "Meaning in images"
     },
     {
-      "jargon": "Gendered representation",
-      "layman": "How gender is shown in art"
+      "jargon": "Gender representation",
+      "layman": "How gender is shown in media"
     },
     {
-      "jargon": "Emotional resonance",
-      "layman": "Emotional impact of art"
+      "jargon": "Emotional duality",
+      "layman": "Split emotions in characters"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Split identities"
     },
     {
-      "jargon": "The disembodied body",
+      "jargon": "Disembodied body",
       "layman": "Body without a person"
     },
     {
-      "jargon": "Stanwyck closing the circle",
-      "layman": "Stanwyck completing the theme"
+      "jargon": "Closing the circle",
+      "layman": "Complete story loop"
     },
     {
-      "jargon": "Beaton's ladies",
-      "layman": "Beaton's elegant women"
+      "jargon": "Even-handed oddness",
+      "layman": "Fair but strange balance"
     },
     {
-      "jargon": "Marilyn Monroe's body",
-      "layman": "Marilyn Monroe's image"
+      "jargon": "Sinister beings",
+      "layman": "Dangerous or creepy figures"
     }
   ]
 }

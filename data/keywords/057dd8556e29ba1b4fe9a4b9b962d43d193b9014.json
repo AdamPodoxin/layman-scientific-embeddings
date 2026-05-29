@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Ethnographic research",
-      "layman": "Cultural observation study"
+      "layman": "Cultural field studies"
     },
     {
-      "jargon": "Film and photography",
-      "layman": "Movies and photos"
+      "jargon": "Photography",
+      "layman": "Photo documentation"
+    },
+    {
+      "jargon": "Film",
+      "layman": "Motion picture records"
     },
     {
       "jargon": "Cultural habits",
-      "layman": "Traditions and practices"
-    },
-    {
-      "jargon": "Human zoo",
-      "layman": "People displayed like animals"
+      "layman": "Traditional practices"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Study of culture through images"
     },
     {
+      "jargon": "Documental value",
+      "layman": "Truthful recording"
+    },
+    {
+      "jargon": "Post-colonial criticism",
+      "layman": "Critique of power in observation"
+    },
+    {
       "jargon": "Deep ethnographic description",
       "layman": "Detailed cultural storytelling"
     },
     {
-      "jargon": "Post-colonial criticism",
-      "layman": "Critique of colonial observer roles"
-    },
-    {
-      "jargon": "Interrelationship",
-      "layman": "Observer and people working together"
-    },
-    {
-      "jargon": "Documental value",
-      "layman": "Value of recording truth"
+      "jargon": "Stylistic and aesthetic qualities",
+      "layman": "Visual style and appeal"
     }
   ],
   "outcomes": [
     {
       "jargon": "Urgent anthropology",
-      "layman": "Quick cultural preservation"
+      "layman": "Fast cultural preservation"
     },
     {
-      "jargon": "Positivist conception",
-      "layman": "Simple, fact-based view"
+      "jargon": "Human zoo",
+      "layman": "Frozen cultural exhibits"
     },
     {
-      "jargon": "Historically situated",
-      "layman": "Based on time and history"
+      "jargon": "Historically situated subjects",
+      "layman": "People shaped by history"
     },
     {
-      "jargon": "Politically conscious",
-      "layman": "Aware of power and politics"
+      "jargon": "Active observer-subject relationship",
+      "layman": "People and researchers interact"
     },
     {
-      "jargon": "Immutable subjects",
-      "layman": "Unchanging people or groups"
+      "jargon": "Political consciousness",
+      "layman": "Awareness of power and bias"
     }
   ]
 }

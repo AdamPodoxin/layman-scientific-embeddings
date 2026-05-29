@@ -5,16 +5,16 @@
       "layman": "Modified amino acids"
     },
     {
-      "jargon": "Cupric ions",
-      "layman": "Copper ions"
-    },
-    {
       "jargon": "Oligoglycines",
       "layman": "Short chains of glycine"
     },
     {
+      "jargon": "Cupric ions",
+      "layman": "Copper ions"
+    },
+    {
       "jargon": "Trifunctional amino acid",
-      "layman": "Amino acid with three functional groups"
+      "layman": "Amino acid with three reaction sites"
     },
     {
       "jargon": "Montmorillonite",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Polymerization",
-      "layman": "Chain growth reaction"
+      "layman": "Linking molecules into chains"
     },
     {
-      "jargon": "Catalyzed by cupric ions",
-      "layman": "Speeded up by copper ions"
+      "jargon": "Copper complex formation",
+      "layman": "Binding copper to molecules"
     },
     {
-      "jargon": "Complexed with substances",
-      "layman": "Bound to other materials"
+      "jargon": "Catalyzed reaction",
+      "layman": "Reaction sped up by a catalyst"
     },
     {
-      "jargon": "Extended to aqueous medium",
-      "layman": "Try in water"
+      "jargon": "Reaction in organic solvents",
+      "layman": "Reaction in non-water chemicals"
     },
     {
-      "jargon": "Prebiotic significance",
-      "layman": "Relevance to early life"
+      "jargon": "Extension to aqueous medium",
+      "layman": "Trying the reaction in water"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Low yield and degree of polymerization",
-      "layman": "Small amount and short chains"
+      "layman": "Little product made"
     },
     {
-      "jargon": "Not successful in aqueous medium",
-      "layman": "Failed in water"
+      "jargon": "Prebiotic significance",
+      "layman": "Could have happened on early Earth"
     },
     {
-      "jargon": "Prebiotic significance discussed",
-      "layman": "Early life relevance explored"
+      "jargon": "Failure in aqueous medium",
+      "layman": "Didn\u2019t work in water"
     },
     {
-      "jargon": "Organic solvents",
-      "layman": "Non-water liquids"
+      "jargon": "Copper complexed with fatty acids",
+      "layman": "Copper bound to fats"
     }
   ]
 }

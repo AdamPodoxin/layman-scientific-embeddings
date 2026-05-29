@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Chilean literary canon",
-      "layman": "classic Chilean literature"
+      "layman": "mainstream Chilean literature"
     },
     {
       "jargon": "body representation",
       "layman": "how the body is shown"
     },
     {
-      "jargon": "anatomy",
-      "layman": "body structure"
+      "jargon": "playwrights and critics",
+      "layman": "writers and reviewers"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "textual analysis",
-      "layman": "reading texts closely"
+      "layman": "studying how texts are written"
     },
     {
       "jargon": "political desire",
-      "layman": "desire in politics"
+      "layman": "desire linked to power"
     },
     {
-      "jargon": "literary rewriting",
-      "layman": "changing classic stories"
+      "jargon": "canonical rewriting",
+      "layman": "revising established texts"
     },
     {
-      "jargon": "critical reading",
-      "layman": "deep reading by experts"
+      "jargon": "representation",
+      "layman": "how things are portrayed"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "marginal boy\u2019s body",
+      "layman": "body of the overlooked boy"
+    },
     {
       "jargon": "seduction of playwrights",
       "layman": "attracts writers"
     },
     {
-      "jargon": "representation of desire",
-      "layman": "shows how desire is expressed"
+      "jargon": "desire politics",
+      "layman": "desire as political force"
     },
     {
-      "jargon": "marginal boy\u2019s place in politics",
-      "layman": "where the boy fits in society"
+      "jargon": "marginalization",
+      "layman": "being left out"
     },
     {
-      "jargon": "cultural reinterpretation",
-      "layman": "new meaning in culture"
-    },
-    {
-      "jargon": "desire in post-dictatorship",
-      "layman": "desire after dictatorship"
+      "jargon": "cultural place",
+      "layman": "where someone fits in culture"
     }
   ]
 }

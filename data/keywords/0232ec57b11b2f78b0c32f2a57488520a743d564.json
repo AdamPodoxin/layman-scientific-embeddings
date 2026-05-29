@@ -5,16 +5,16 @@
       "layman": "Zinc"
     },
     {
-      "jargon": "Organic ligands",
-      "layman": "Organic molecules that bind metals"
-    },
-    {
       "jargon": "Marine phytoplankton",
-      "layman": "Tiny ocean plants"
+      "layman": "Marine algae"
     },
     {
       "jargon": "Diatom",
-      "layman": "Type of tiny ocean algae"
+      "layman": "Type of algae"
+    },
+    {
+      "jargon": "Organic ligands",
+      "layman": "Molecules that bind metals"
     },
     {
       "jargon": "Seawater",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Laboratory experiments",
-      "layman": "Tests in a lab"
+      "layman": "Lab testing"
     },
     {
       "jargon": "Electrochemical measurements",
-      "layman": "Measuring electrical changes in water"
+      "layman": "Electric measurements in water"
     },
     {
       "jargon": "Equilibrium calculations",
-      "layman": "Balancing chemical reactions"
+      "layman": "Predicting stable conditions"
     },
     {
       "jargon": "Polarographic data",
-      "layman": "Electrical data from metal reduction"
+      "layman": "Voltage-based measurements"
     },
     {
       "jargon": "Anodic Stripping Voltammetry",
-      "layman": "Electrochemical test for trace metals"
+      "layman": "Sensitivity metal detection"
     }
   ],
   "outcomes": [
     {
       "jargon": "Bioavailability",
-      "layman": "Ability to be absorbed by organisms"
+      "layman": "How much is usable"
     },
     {
       "jargon": "Reduction at -1.2 V",
-      "layman": "Metal being reduced at a specific voltage"
+      "layman": "Metal being reduced at specific voltage"
     },
     {
-      "jargon": "Zn-histidine complex",
-      "layman": "Zinc bound to histidine"
+      "jargon": "Bioactive trace metals",
+      "layman": "Active metals in small amounts"
     },
     {
       "jargon": "1:1 Zn-histidine complex",
-      "layman": "One zinc to one histidine"
+      "layman": "One zinc-one histidine bond"
     },
     {
-      "jargon": "1:2 Zn-histidine complex",
-      "layman": "One zinc to two histidines"
+      "jargon": "Zn-EDTA complexes",
+      "layman": "Zinc bound to EDTA"
     }
   ]
 }

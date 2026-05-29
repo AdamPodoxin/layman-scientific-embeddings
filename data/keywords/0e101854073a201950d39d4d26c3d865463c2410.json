@@ -2,51 +2,51 @@
   "core_entities": [
     {
       "jargon": "Turbulent field",
-      "layman": "Chaotic fluid motion"
+      "layman": "Chaos in fluid flow"
     },
     {
       "jargon": "Hierarchical structure",
-      "layman": "Layered pattern"
+      "layman": "Layered levels of complexity"
     },
     {
       "jargon": "Fluctuation",
-      "layman": "Random change"
+      "layman": "Random movements"
     },
     {
       "jargon": "Uncertainty of measurement",
-      "layman": "Measurement error"
+      "layman": "Imperfect detection accuracy"
     },
     {
       "jargon": "Fundamental equations",
-      "layman": "Core math rules"
+      "layman": "Core rules of turbulence"
     }
   ],
   "methodologies": [
     {
       "jargon": "Nonstandard mathematics",
-      "layman": "Extended math tools"
+      "layman": "Advanced math for chaos"
     },
     {
       "jargon": "Closure methods",
-      "layman": "Simplifying math rules"
+      "layman": "Rules to predict missing pieces"
     },
     {
       "jargon": "Mechanism of fluctuation",
-      "layman": "Cause of random motion"
+      "layman": "Cause of random motions"
     },
     {
-      "jargon": "Measurement uncertainty",
-      "layman": "How errors appear in data"
+      "jargon": "Description of structure",
+      "layman": "Mapping of levels in turbulence"
     },
     {
-      "jargon": "Equation derivation",
-      "layman": "Building math formulas"
+      "jargon": "Measurement process",
+      "layman": "How data is gathered"
     }
   ],
   "outcomes": [
     {
       "jargon": "Reasonable closure methods",
-      "layman": "Good simplification rules"
+      "layman": "Good prediction rules"
     },
     {
       "jargon": "Precise results",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Natural picture",
-      "layman": "Logical and consistent model"
+      "layman": "Logical explanation"
     },
     {
       "jargon": "Fluctuation mechanism",
-      "layman": "How chaos starts"
+      "layman": "How randomness appears"
     },
     {
       "jargon": "Uncertainty pointed out",
-      "layman": "Errors clearly shown"
+      "layman": "Errors recognized"
     }
   ]
 }

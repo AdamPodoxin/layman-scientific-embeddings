@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Monolignol",
+      "jargon": "monolignol",
       "layman": "Lignin building block"
     },
     {
-      "jargon": "Dilignol",
-      "layman": "Lignin precursor"
+      "jargon": "dilignol",
+      "layman": "Lignin precursor molecule"
     },
     {
-      "jargon": "Phospholipid bilayer",
-      "layman": "Cell membrane layer"
+      "jargon": "phospholipid bilayers",
+      "layman": "Cell membrane structure"
     },
     {
-      "jargon": "Lignin precursors",
-      "layman": "Molecules that form lignin"
+      "jargon": "model substances",
+      "layman": "Simulated chemicals"
     },
     {
-      "jargon": "Buffer composition",
-      "layman": "Solution conditions"
+      "jargon": "lignin precursors",
+      "layman": "Molecules that become lignin"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Immobilized liposome chromatography",
-      "layman": "Membrane testing method"
+      "jargon": "immobilized liposome chromatography",
+      "layman": "Membrane testing using tiny bubbles"
     },
     {
-      "jargon": "Temperature dependence",
-      "layman": "Effect of temperature"
+      "jargon": "temperature dependence",
+      "layman": "How temperature affects interaction"
     },
     {
-      "jargon": "Partitioning",
-      "layman": "Movement into membranes"
+      "jargon": "buffer composition",
+      "layman": "Liquid environment conditions"
     },
     {
-      "jargon": "Hydrophobic effects",
-      "layman": "Attraction to fats"
+      "jargon": "partitioning",
+      "layman": "Moving between two liquids"
     },
     {
-      "jargon": "Polar interactions",
-      "layman": "Electron-based attractions"
+      "jargon": "octanol/water partitioning",
+      "layman": "How chemicals spread in oil vs water"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Retention",
-      "layman": "How long molecules stay"
+      "jargon": "retention",
+      "layman": "How long a substance stays in membrane"
     },
     {
-      "jargon": "Hydrophobicity",
-      "layman": "Lipid-loving nature"
+      "jargon": "hydrophobic effects",
+      "layman": "Attraction to oily parts"
     },
     {
-      "jargon": "Passive diffusion",
-      "layman": "Spontaneous movement through membrane"
+      "jargon": "polar interactions",
+      "layman": "Electrostatic or water-based bonds"
     },
     {
-      "jargon": "Correlation",
-      "layman": "Strong connection between data"
+      "jargon": "correlation",
+      "layman": "Trend or pattern in data"
     },
     {
-      "jargon": "Cell membrane transport",
-      "layman": "Movement across cell wall"
+      "jargon": "passive diffusion",
+      "layman": "Simple movement through membrane"
     }
   ]
 }

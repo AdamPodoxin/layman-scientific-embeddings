@@ -1,8 +1,8 @@
 {
   "core_entities": [
     {
-      "jargon": "Group Purchasing Organizations",
-      "layman": "Medical buying groups"
+      "jargon": "Group Purchasing Organization",
+      "layman": "Healthcare buying group"
     },
     {
       "jargon": "Pharmaceuticals",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Medical equipment",
-      "layman": "Hospital machines"
+      "layman": "Medical devices"
     },
     {
       "jargon": "Hospitals and clinics",
@@ -18,17 +18,21 @@
     },
     {
       "jargon": "Suppliers",
-      "layman": "Product sellers"
+      "layman": "Product providers"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Aggregation of purchases",
+      "jargon": "Aggregated purchases",
       "layman": "Buying in bulk"
     },
     {
-      "jargon": "Market analysis",
-      "layman": "Studying market trends"
+      "jargon": "Price negotiation",
+      "layman": "Negotiating lower prices"
+    },
+    {
+      "jargon": "Market behavior analysis",
+      "layman": "Studying how markets work"
     },
     {
       "jargon": "Anti-trust oversight",
@@ -36,11 +40,7 @@
     },
     {
       "jargon": "Stock options",
-      "layman": "Company shares given to executives"
-    },
-    {
-      "jargon": "Rebates",
-      "layman": "Money given back by suppliers"
+      "layman": "Share incentives for executives"
     }
   ],
   "outcomes": [
@@ -50,15 +50,15 @@
     },
     {
       "jargon": "Bilateral oligopoly",
-      "layman": "Few big players controlling the market"
+      "layman": "Few dominant buyers and sellers"
+    },
+    {
+      "jargon": "Excessive rebates",
+      "layman": "Unfair financial bonuses"
     },
     {
       "jargon": "Non-competitive practices",
-      "layman": "Unfair business behavior"
-    },
-    {
-      "jargon": "Federal government oversight",
-      "layman": "Government regulation"
+      "layman": "Unfair business actions"
     },
     {
       "jargon": "Gap between theory and practice",

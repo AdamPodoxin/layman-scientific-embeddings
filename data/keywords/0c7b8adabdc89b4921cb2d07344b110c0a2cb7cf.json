@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "State aids",
-      "layman": "Government subsidies to industries"
+      "jargon": "Supranational intervention",
+      "layman": "International rules or actions"
     },
     {
-      "jargon": "Supranational intervention",
-      "layman": "International rules on government spending"
+      "jargon": "State aid",
+      "layman": "Government money to companies"
+    },
+    {
+      "jargon": "Wasteful spending",
+      "layman": "Money spent without benefit"
     },
     {
       "jargon": "Politicians",
-      "layman": "Government leaders"
+      "layman": "Government officials"
     },
     {
       "jargon": "Voters",
       "layman": "People who vote"
-    },
-    {
-      "jargon": "Wasteful spending",
-      "layman": "Money spent without clear benefit"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Signaling mechanism",
-      "layman": "Sending signals to show effort"
+      "jargon": "Model in which politicians fund projects",
+      "layman": "Politician funds projects to show effort"
     },
     {
-      "jargon": "Rational voting",
-      "layman": "Voters making smart choices"
-    },
-    {
-      "jargon": "Domestic political accountability",
-      "layman": "Government leaders answer to citizens"
-    },
-    {
-      "jargon": "Modeling",
-      "layman": "Creating a simplified version of reality"
+      "jargon": "Rational reward",
+      "layman": "People pay attention to actions they value"
     },
     {
       "jargon": "Transfrontier spillovers",
-      "layman": "Effects that cross national borders"
+      "layman": "Effects crossing borders"
+    },
+    {
+      "jargon": "Domestic political accountability",
+      "layman": "Government checks on leaders at home"
+    },
+    {
+      "jargon": "Curbing spending",
+      "layman": "Reducing unnecessary spending"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Wasteful spending as a by-product",
-      "layman": "Unnecessary spending caused by accountability"
+      "jargon": "Wasteful spending as a by-product of accountability",
+      "layman": "Unnecessary spending results from good accountability"
     },
     {
-      "jargon": "Curbing state aids",
-      "layman": "Reducing government subsidies"
+      "jargon": "Signal of diligence",
+      "layman": "Show effort to prove reliability"
     },
     {
-      "jargon": "Supranational state aid control",
-      "layman": "International rules on subsidies"
+      "jargon": "Voters reward politicians",
+      "layman": "People give support due to effort"
     },
     {
-      "jargon": "Political signaling",
-      "layman": "Leaders showing they're hardworking"
+      "jargon": "Role of state aid control mechanisms",
+      "layman": "How rules on government spending work"
     },
     {
-      "jargon": "Voter reward",
-      "layman": "Voters giving leaders credit for effort"
+      "jargon": "No international spillovers involved",
+      "layman": "No harm spreads across countries"
     }
   ]
 }

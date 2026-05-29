@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Biomimetic Si-Ge nanocomposites",
-      "layman": "Nature-inspired silicon-germanium mixtures"
+      "layman": "Nature-inspired silicon-germanium nanostructures"
     },
     {
       "jargon": "Interface thermal boundary resistance",
-      "layman": "Heat-blocking effect at material interfaces"
+      "layman": "Heat-blocking at material interfaces"
     },
     {
       "jargon": "Phonons",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Thermal conductivity analysis",
-      "layman": "Measuring how well heat moves through a material"
+      "layman": "Measuring how well a material conducts heat"
     },
     {
-      "jargon": "Periodicity",
-      "layman": "Repeating pattern in structure"
+      "jargon": "Structural periodicity",
+      "layman": "Regular pattern of layer thickness"
     },
     {
       "jargon": "Morphology",
-      "layman": "Shape and structure of material"
+      "layman": "Physical shape and structure"
     },
     {
       "jargon": "Temperature variation",
-      "layman": "Changing temperature conditions"
+      "layman": "Testing at different heat levels"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Direction-dependent thermal conductivity",
-      "layman": "Heat flows better in one direction than another"
+      "jargon": "Thermal diode effect",
+      "layman": "Material conducts heat better in one direction"
     },
     {
-      "jargon": "Thermal diode-like behavior",
-      "layman": "Material acts like a one-way heat valve"
-    },
-    {
-      "jargon": "Contrast in phonon spectral density",
-      "layman": "Different vibration patterns in materials"
+      "jargon": "Phonon spectral density",
+      "layman": "Pattern of heat vibration frequencies"
     },
     {
       "jargon": "Interfacial thermal boundary resistance",
-      "layman": "Heat-blocking at material boundaries"
+      "layman": "Heat resistance at material junctions"
+    },
+    {
+      "jargon": "Tailored thermal conductivity",
+      "layman": "Customized heat conduction properties"
     },
     {
       "jargon": "Strain-dependent thermal conductivity",
-      "layman": "Heat flow changes with stretching or squeezing"
+      "layman": "Heat flow changes with material stretching"
     }
   ]
 }

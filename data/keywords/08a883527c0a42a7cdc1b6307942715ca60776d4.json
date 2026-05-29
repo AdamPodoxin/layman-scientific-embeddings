@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Virtual photon",
-      "layman": "Fleeting photon in particle interaction"
+      "layman": "Fleeting energy wave"
     },
     {
-      "jargon": "Form factors",
-      "layman": "How decay probabilities change with distance"
+      "jargon": "Form factor",
+      "layman": "How decay strength changes with distance"
     }
   ],
   "methodologies": [
     {
       "jargon": "e+e\u2212 experiments",
-      "layman": "Particle collisions in electron-positron machines"
+      "layman": "Electron-positron collision tests"
     },
     {
       "jargon": "Cross section measurements",
-      "layman": "Counting how often decays happen"
+      "layman": "How often decays occur"
+    },
+    {
+      "jargon": "Branching fraction",
+      "layman": "How often a decay takes one path"
     },
     {
       "jargon": "Non-resonance virtual photon annihilation",
-      "layman": "Background decay from photon interaction"
+      "layman": "Unusual energy process when particles meet"
     },
     {
-      "jargon": "Branching fraction calculation",
-      "layman": "Measuring decay path probabilities"
-    },
-    {
-      "jargon": "Form factor revision",
-      "layman": "Updating decay shape estimates"
+      "jargon": "Revised form factors",
+      "layman": "Updated decay strength values"
     }
   ],
   "outcomes": [
     {
       "jargon": "Large contributions from virtual photon annihilation",
-      "layman": "Major background effect in data"
+      "layman": "Major effect from invisible energy"
     },
     {
       "jargon": "Revised form factors",
-      "layman": "Updated decay patterns"
+      "layman": "Updated decay strength values"
     },
     {
       "jargon": "Revised branching fractions",
-      "layman": "Updated decay likelihoods"
+      "layman": "Updated decay path odds"
     },
     {
       "jargon": "Observed cross sections",
-      "layman": "Measured decay frequencies"
+      "layman": "Measured decay frequency"
     },
     {
-      "jargon": "Decay mode analysis",
-      "layman": "Study of how particles break down"
+      "jargon": "Decay mode",
+      "layman": "How a particle breaks apart"
     }
   ]
 }

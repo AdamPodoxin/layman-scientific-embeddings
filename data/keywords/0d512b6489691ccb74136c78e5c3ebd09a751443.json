@@ -13,26 +13,26 @@
       "layman": "Meeting points in the network"
     },
     {
-      "jargon": "Fault-tolerance mechanisms",
-      "layman": "System recovery from failures"
+      "jargon": "Type hierarchy",
+      "layman": "Parent-child relationships in types"
     },
     {
-      "jargon": "Publish/subscribe model",
-      "layman": "Message delivery system"
+      "jargon": "Fault-tolerance mechanisms",
+      "layman": "Systems that handle failures"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Type- and attribute-based publish/subscribe",
-      "layman": "Messages grouped by type and details"
+      "jargon": "Publish/subscribe model",
+      "layman": "Send-and-receive messaging"
     },
     {
       "jargon": "Scalable routing algorithm",
-      "layman": "Smart message routing method"
+      "layman": "Smart routing that grows with users"
     },
     {
       "jargon": "Global broadcasts",
-      "layman": "Sending messages to everyone"
+      "layman": "Sending to everyone at once"
     },
     {
       "jargon": "Super-type subscriptions",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Fault-tolerance mechanisms",
-      "layman": "System recovery from failures"
+      "layman": "Handling system failures"
     }
   ],
   "outcomes": [
     {
       "jargon": "Scalable system",
-      "layman": "Handles large numbers of users"
+      "layman": "Grows well with more users"
     },
     {
       "jargon": "Robust system",
-      "layman": "Stays working during failures"
+      "layman": "Stays working despite problems"
     },
     {
       "jargon": "Avoids global broadcasts",
-      "layman": "Sends messages only where needed"
+      "layman": "Sends only to relevant users"
     },
     {
       "jargon": "Supports type hierarchies",
-      "layman": "Organizes events in a structure"
+      "layman": "Works with nested types"
     },
     {
       "jargon": "Copes with different failures",
-      "layman": "Handles various system crashes"
+      "layman": "Handles many types of crashes"
     }
   ]
 }

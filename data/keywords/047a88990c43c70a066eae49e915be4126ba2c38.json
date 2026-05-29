@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "American novelists",
-      "layman": "American writers"
+      "layman": "U.S. writers"
     },
     {
       "jargon": "French-American diplomatic squabble",
-      "layman": "U.S.-France political conflict"
+      "layman": "U.S.-France political dispute"
     },
     {
       "jargon": "Academic",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Sexual excesses",
-      "layman": "Uncontrolled sexual behavior"
+      "layman": "Excessive sexual behavior"
     },
     {
-      "jargon": "Abraham Lincoln",
-      "layman": "16th U.S. president"
+      "jargon": "Sculpture depicting Lincoln",
+      "layman": "Artwork showing Lincoln having sex"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Story told within a story"
     },
     {
-      "jargon": "Literary analysis",
-      "layman": "Interpreting a book's meaning"
+      "jargon": "Critical reading",
+      "layman": "Careful interpretation of text"
     },
     {
       "jargon": "Evocation",
-      "layman": "Mentioning or recalling something"
+      "layman": "Mention or recall of a memory or event"
     },
     {
-      "jargon": "Historical reference",
-      "layman": "Citing past events"
+      "jargon": "Historical analysis",
+      "layman": "Study of past events"
     },
     {
-      "jargon": "Collaboration",
-      "layman": "Working together"
+      "jargon": "Narrative framing",
+      "layman": "Using a story to structure an argument"
     }
   ],
   "outcomes": [
     {
       "jargon": "Anti-French tenor",
-      "layman": "Strong dislike of France"
+      "layman": "Negative view of France"
     },
     {
       "jargon": "Shared plot",
-      "layman": "Same story structure"
+      "layman": "Same basic storyline"
     },
     {
       "jargon": "Cultural sanctimony",
-      "layman": "Excessive moral superiority"
+      "layman": "Strong moral superiority"
     },
     {
-      "jargon": "Price to be paid",
-      "layman": "Cost of a decision"
+      "jargon": "Price of American pride",
+      "layman": "Cost of U.S. self-importance"
     },
     {
-      "jargon": "Idiosyncratic sculpture",
-      "layman": "Strange or unusual artwork"
+      "jargon": "Grief against the French",
+      "layman": "Sadness due to French actions"
     }
   ]
 }

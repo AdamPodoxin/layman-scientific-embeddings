@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Multicontext reconfigurable processors",
-      "layman": "Processors that switch settings quickly"
+      "layman": "Processors that can switch settings quickly"
     },
     {
       "jargon": "Context memory",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Processing elements",
-      "layman": "Processor building blocks"
+      "layman": "Tiny processor parts"
     },
     {
       "jargon": "Global instruction pointer",
@@ -18,17 +18,17 @@
     },
     {
       "jargon": "Local physical context number",
-      "layman": "Specific setting number for a processor block"
+      "layman": "Local setting ID for a processor part"
     }
   ],
   "methodologies": [
     {
       "jargon": "Context translation table",
-      "layman": "Table that maps one setting to another"
+      "layman": "Table that converts global settings to local ones"
     },
     {
       "jargon": "Template configuration method",
-      "layman": "Using basic patterns to build full settings"
+      "layman": "Using templates to build processor settings"
     },
     {
       "jargon": "Dynamic reconfiguration",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Configuration data",
-      "layman": "Data that defines processor setup"
+      "layman": "Data that sets up processor components"
     },
     {
       "jargon": "Evaluation using DRP-1",
-      "layman": "Testing on a real processor chip"
+      "layman": "Testing on a real processor model"
     }
   ],
   "outcomes": [
     {
       "jargon": "Reduced number of contexts",
-      "layman": "Fewer settings needed"
+      "layman": "Fewer needed settings"
     },
     {
       "jargon": "Total configuration data reduced to 6.9%",
-      "layman": "Setup data shrinks by 6.9%"
+      "layman": "Configuration size cut by 6.9%"
     },
     {
       "jargon": "Effective in small tile size",
-      "layman": "Works well when processor blocks are small"
+      "layman": "Works better in small processor sections"
+    },
+    {
+      "jargon": "25% fewer contexts required",
+      "layman": "Needs only 25% as many settings"
     },
     {
       "jargon": "Minimal return in finer processors",
       "layman": "Little benefit in very small processors"
-    },
-    {
-      "jargon": "Context memory size adds up",
-      "layman": "Memory needed grows too large"
     }
   ]
 }

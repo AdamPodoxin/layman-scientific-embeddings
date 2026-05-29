@@ -1,68 +1,59 @@
 {
   "core_entities": [
     {
-      "jargon": "Fungal evolution",
-      "layman": "Change in fungi over time"
+      "jargon": "Fungi",
+      "layman": "Fungi"
     },
     {
-      "jargon": "Plant\u2013fungus interactions",
-      "layman": "How plants and fungi work together"
+      "jargon": "Plants",
+      "layman": "Plants"
     },
+    "fungal evolution",
+    "aquatic\u2013terrestrial transitions",
+    "molecular phylogenetics"
+  ],
+  "methodologies": [
     {
       "jargon": "Molecular phylogenetics",
-      "layman": "Family tree from DNA"
+      "layman": "Gene-based family tree analysis"
     },
     {
       "jargon": "Fossil evidence",
       "layman": "Ancient remains"
     },
     {
-      "jargon": "Aquatic\u2013terrestrial transitions",
-      "layman": "Moving from water to land"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Molecular phylogenetics",
-      "layman": "Family tree from DNA"
-    },
-    {
-      "jargon": "Fossil record",
-      "layman": "Ancient rock layers with traces"
-    },
-    {
       "jargon": "Direct fossil evidence",
-      "layman": "Fossils showing real plant-fungus links"
-    },
-    {
-      "jargon": "Evolutionary history",
-      "layman": "How species changed over time"
+      "layman": "Direct ancient remains"
     },
     {
       "jargon": "Coevolution",
-      "layman": "Both species change together"
+      "layman": "Mutual evolutionary development"
+    },
+    {
+      "jargon": "Hypotheses",
+      "layman": "Scientific guesses based on data"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Hypotheses",
-      "layman": "Possible explanations"
+      "jargon": "Aquatic\u2013terrestrial transitions",
+      "layman": "Move from water to land"
     },
     {
       "jargon": "Fungal diversity",
       "layman": "Range of fungal types"
     },
     {
+      "jargon": "Evolutionary history",
+      "layman": "Past of how things evolved"
+    },
+    {
+      "jargon": "Plant\u2013fungus interactions",
+      "layman": "How plants and fungi work together"
+    },
+    {
       "jargon": "Origin of fungi",
       "layman": "First appearance of fungi"
-    },
-    {
-      "jargon": "Evolutionary history",
-      "layman": "How fungi changed over time"
-    },
-    {
-      "jargon": "Key traits",
-      "layman": "Important features for survival"
     }
   ]
 }

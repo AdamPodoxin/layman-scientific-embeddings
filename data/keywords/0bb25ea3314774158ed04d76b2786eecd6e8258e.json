@@ -5,26 +5,34 @@
       "layman": "Expert algorithms"
     },
     {
-      "jargon": "Policy sets",
-      "layman": "Sets of action rules"
+      "jargon": "Agent typification",
+      "layman": "Agent behavior types"
     },
     {
       "jargon": "Repeated matrix games",
-      "layman": "Repeated games with payoffs"
+      "layman": "Repeated strategy games"
     },
     {
       "jargon": "Average payoff",
-      "layman": "Average reward over time"
+      "layman": "Average reward"
     },
     {
-      "jargon": "Future payoff",
-      "layman": "Expected future reward"
+      "jargon": "Past payoff",
+      "layman": "Previous reward"
     }
   ],
   "methodologies": [
     {
       "jargon": "E-HBA",
-      "layman": "E-HBA"
+      "layman": "Expert-HBA algorithm"
+    },
+    {
+      "jargon": "Policy sets",
+      "layman": "Action rules"
+    },
+    {
+      "jargon": "Predicted future payoff",
+      "layman": "Expected future reward"
     },
     {
       "jargon": "Type-based characterisation",
@@ -32,15 +40,7 @@
     },
     {
       "jargon": "Meta-algorithm",
-      "layman": "High-level algorithm that combines others"
-    },
-    {
-      "jargon": "Mixing past and future payoffs",
-      "layman": "Blending old and predicted rewards"
-    },
-    {
-      "jargon": "Predicted future payoff",
-      "layman": "Estimated future reward"
+      "layman": "Higher-level algorithm"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Comprehensive set of games",
-      "layman": "Wide range of game scenarios"
+      "layman": "Wide range of tests"
     },
     {
       "jargon": "Performance comparison",
-      "layman": "Side-by-side result analysis"
+      "layman": "Side-by-side results"
     },
     {
       "jargon": "Significant improvement",
-      "layman": "Noticeable gain in results"
+      "layman": "Notable gain"
     },
     {
-      "jargon": "Agent typification",
-      "layman": "Categorizing agent behavior"
+      "jargon": "Mixed payoff approach",
+      "layman": "Combining past and expected rewards"
     }
   ]
 }

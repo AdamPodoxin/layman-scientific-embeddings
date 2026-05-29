@@ -1,38 +1,34 @@
 {
   "core_entities": [
     {
-      "jargon": "EU constitutional referendum",
-      "layman": "Vote on EU constitution"
+      "jargon": "European constitutional referendum",
+      "layman": "Vote on a European Union treaty"
     },
     {
-      "jargon": "Voters",
-      "layman": "People who voted"
+      "jargon": "Focus group interviews",
+      "layman": "Group discussions with voters"
     },
     {
       "jargon": "Semantic networks",
-      "layman": "Web of related ideas"
+      "layman": "Web of connected ideas"
     },
     {
       "jargon": "Public discourse",
-      "layman": "Public conversations"
+      "layman": "Public conversations about politics"
     },
     {
       "jargon": "Vote choices",
-      "layman": "Decisions to vote yes or no"
+      "layman": "Decisions about how to vote"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Focus group interviews",
-      "layman": "Group discussions with experts"
-    },
     {
       "jargon": "Cognitive connectionist perspective",
       "layman": "How people link ideas in their minds"
     },
     {
       "jargon": "Information environment",
-      "layman": "Sources of information people see"
+      "layman": "The sources of news and facts people see"
     },
     {
       "jargon": "Reframing arguments",
@@ -40,29 +36,33 @@
     },
     {
       "jargon": "Path across semantic networks",
-      "layman": "Tracing how ideas connect in thought"
+      "layman": "Tracing how ideas are connected"
+    },
+    {
+      "jargon": "Idiosyncratic concerns",
+      "layman": "Personal worries and values"
     }
   ],
   "outcomes": [
     {
       "jargon": "Shared knowledge",
-      "layman": "Common understanding"
-    },
-    {
-      "jargon": "Strategic selection of frames",
-      "layman": "Choosing specific viewpoints"
+      "layman": "Common understanding among voters"
     },
     {
       "jargon": "Systematically different information",
-      "layman": "Different details used by yes/no voters"
+      "layman": "Different details used by yes- and no-voters"
     },
     {
-      "jargon": "Idiosyncratic concerns",
-      "layman": "Personal worries"
+      "jargon": "Strategic selection of frames",
+      "layman": "Choosing specific viewpoints to suit beliefs"
+    },
+    {
+      "jargon": "Personalized accounts",
+      "layman": "Unique stories tied to individual concerns"
     },
     {
       "jargon": "Understandings not determined by discourse",
-      "layman": "Decisions not fully shaped by public talk"
+      "layman": "People are not fully shaped by public talk"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Budgets",
-      "layman": "Money plans for organisations"
+      "jargon": "Budget-setting",
+      "layman": "Setting financial plans"
     },
     {
-      "jargon": "Organisations",
-      "layman": "Groups of people working together"
+      "jargon": "Organisational aspects",
+      "layman": "Company-wide structures"
     },
     {
-      "jargon": "Individuals",
-      "layman": "Single people in an organisation"
+      "jargon": "Individual aspects",
+      "layman": "Personal employee factors"
     },
     {
       "jargon": "Stedry's experiments",
-      "layman": "Early studies on budget setting"
+      "layman": "Early studies on budgeting"
     },
     {
       "jargon": "Systems approaches",
-      "layman": "Holistic views of organisation structure"
+      "layman": "Holistic organisation views"
     }
   ],
   "methodologies": [
     {
       "jargon": "Budget-setting",
-      "layman": "Deciding how to allocate money"
+      "layman": "Setting financial plans"
     },
     {
-      "jargon": "Psychology approach",
-      "layman": "Studying individual behaviour"
+      "jargon": "Psychological focus",
+      "layman": "Studying individual minds"
     },
     {
-      "jargon": "Sociology of organisations",
-      "layman": "Studying how groups work"
+      "jargon": "Sociological systems approach",
+      "layman": "Examining organisation as a system"
+    },
+    {
+      "jargon": "Experimental studies",
+      "layman": "Research through tests"
     },
     {
       "jargon": "Theoretical emphasis",
-      "layman": "Focus of academic research"
-    },
-    {
-      "jargon": "Mutual influence",
-      "layman": "Two parts affecting each other"
+      "layman": "Focus on ideas over facts"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Difference of emphasis",
-      "layman": "Different research focuses"
-    },
-    {
       "jargon": "Mutual influence",
-      "layman": "Individuals and groups affect each other"
+      "layman": "Two-way impact"
     },
     {
-      "jargon": "Traditional approaches",
-      "layman": "Established ways of thinking"
+      "jargon": "Different traditions",
+      "layman": "Separate research styles"
     },
     {
-      "jargon": "Disciplinary tradition",
-      "layman": "Long-standing academic focus"
+      "jargon": "Disciplinary divide",
+      "layman": "US vs Europe differences"
     },
     {
-      "jargon": "Organisational aspects",
-      "layman": "Group-level budget effects"
+      "jargon": "Emphasis on individuals",
+      "layman": "Focus on people"
+    },
+    {
+      "jargon": "Emphasis on organisations",
+      "layman": "Focus on companies"
     }
   ]
 }

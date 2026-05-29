@@ -5,16 +5,16 @@
       "layman": "Public computer network"
     },
     {
-      "jargon": "Work flow",
-      "layman": "Step-by-step process"
-    },
-    {
       "jargon": "Peer-to-peer architecture",
       "layman": "Direct computer-to-computer network"
     },
     {
+      "jargon": "Work flow",
+      "layman": "Step-by-step task sequence"
+    },
+    {
       "jargon": "Work pool server",
-      "layman": "Central server managing tasks"
+      "layman": "Central computer handling tasks"
     },
     {
       "jargon": "Parallel processes",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Adaptive checkpoint scheme",
-      "layman": "Smart saving points during work"
+      "layman": "Dynamic save points"
     },
     {
-      "jargon": "Dynamic checkpoint decisions",
-      "layman": "Changing save times based on conditions"
+      "jargon": "Network parameter estimation",
+      "layman": "Measuring network speed and stability"
     },
     {
-      "jargon": "Mathematical checkpoint model",
-      "layman": "Math-based saving plan"
+      "jargon": "Decentralized decision making",
+      "layman": "Each computer makes its own choices"
     },
     {
-      "jargon": "Statistical data observation",
-      "layman": "Tracking system performance over time"
+      "jargon": "Runtime statistical data",
+      "layman": "Data collected during task execution"
     },
     {
-      "jargon": "Decentralized execution",
-      "layman": "No central control; each computer acts independently"
+      "jargon": "I/O off-loading",
+      "layman": "Moving data tasks to worker computers"
     }
   ],
   "outcomes": [
@@ -53,12 +53,12 @@
       "layman": "More reliable system"
     },
     {
-      "jargon": "Off-loaded I/O demand",
-      "layman": "Reduced server workload"
+      "jargon": "Dynamic checkpoint decisions",
+      "layman": "Smart saving decisions"
     },
     {
-      "jargon": "Inter-workflow I/O",
-      "layman": "Data transfer between steps"
+      "jargon": "Inter-work flow I/O demands",
+      "layman": "High data needs between tasks"
     },
     {
       "jargon": "Simulation results",

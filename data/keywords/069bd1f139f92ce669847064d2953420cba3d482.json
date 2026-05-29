@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Higher-dimensional unit cube",
-      "layman": "Multi-dimensional space filled with points"
+      "layman": "Multi-dimensional space with all points between 0 and 1"
     },
     {
       "jargon": "Dynamical systems",
-      "layman": "Systems that change over time"
+      "layman": "Changing systems over time"
     },
     {
       "jargon": "Ergodic theory",
-      "layman": "Study of long-term behavior in changing systems"
+      "layman": "Study of long-term average behavior in systems"
     },
     {
       "jargon": "Intervals",
-      "layman": "Ranges of numbers or values"
+      "layman": "Pieces of a range"
     }
   ],
   "methodologies": [
     {
       "jargon": "Cutting-and-stacking of intervals",
-      "layman": "Breaking and reassembling number ranges"
+      "layman": "Breaking and reassembling ranges"
     },
     {
-      "jargon": "Association of sequences to dynamical systems",
-      "layman": "Matching number patterns to time-evolving systems"
+      "jargon": "Associate sequences to dynamical systems",
+      "layman": "Link number patterns to changing systems"
     },
     {
       "jargon": "Ergodic theory tools",
-      "layman": "Mathematical tools for studying long-term patterns"
+      "layman": "Mathematical tools for studying averages"
     },
     {
       "jargon": "Dynamical point of view",
-      "layman": "Viewing patterns through motion and change"
+      "layman": "Viewing patterns through motion"
     },
     {
       "jargon": "Sequence analysis",
-      "layman": "Studying patterns in ordered lists"
+      "layman": "Examining patterns of numbers"
     }
   ],
   "outcomes": [
     {
       "jargon": "Discrepancy",
-      "layman": "How uneven a pattern is"
+      "layman": "How far numbers deviate from even spread"
     },
     {
       "jargon": "Suitable dynamical systems",
-      "layman": "Good matching systems for patterns"
+      "layman": "Good systems that match the patterns"
     },
     {
       "jargon": "Study of low-discrepancy sequences",
-      "layman": "Understanding evenly spaced patterns"
+      "layman": "Understanding even number patterns"
     },
     {
       "jargon": "Important technique",
       "layman": "Key method used"
     },
     {
-      "jargon": "Examples",
-      "layman": "Real-world cases shown"
+      "jargon": "Associations through examples",
+      "layman": "Connections shown through cases"
     }
   ]
 }

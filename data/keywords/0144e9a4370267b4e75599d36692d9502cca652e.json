@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "m-Chloroacetanilide",
-      "layman": "M-chloroacetanilide"
+      "jargon": "m- and p-chloroacetanilide",
+      "layman": "Chlorine-substituted acetanilide compounds"
     },
     {
-      "jargon": "p-Chloroacetanilide",
-      "layman": "P-chloroacetanilide"
+      "jargon": "molecular chlorine",
+      "layman": "Chlorine gas molecules"
     },
     {
-      "jargon": "Molecular chlorine",
-      "layman": "Chlorine gas"
+      "jargon": "acetic acid",
+      "layman": "Acetic acid solvent"
     },
     {
-      "jargon": "Acetic acid",
-      "layman": "Acetic acid"
+      "jargon": "substituent effects",
+      "layman": "How groups affect chemical reactions"
     },
     {
-      "jargon": "Isomers",
-      "layman": "Different forms of molecules"
+      "jargon": "free energy of activation",
+      "layman": "Energy needed to start a reaction"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Rate measurement",
-      "layman": "Measuring reaction speed"
+      "jargon": "measured rates",
+      "layman": "Reaction speeds recorded"
     },
     {
-      "jargon": "Partial rate factors",
-      "layman": "How fast a position reacts"
+      "jargon": "proportions of isomers",
+      "layman": "Amounts of different reaction products"
     },
     {
-      "jargon": "Additivity principle",
-      "layman": "Effects add up independently"
+      "jargon": "partial rate factors",
+      "layman": "How much each group speeds up or slows down a reaction"
     },
     {
-      "jargon": "Free energy of activation",
-      "layman": "Energy needed to start reaction"
+      "jargon": "additivity principle",
+      "layman": "Each group's effect adds up independently"
     },
     {
-      "jargon": "Proportions estimation",
-      "layman": "Estimating mix of products"
+      "jargon": "chlorination",
+      "layman": "Adding chlorine to a molecule"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Reaction rates",
-      "layman": "How fast chlorination happens"
+      "jargon": "partial rate factors",
+      "layman": "Speed factors for each position"
     },
     {
-      "jargon": "Isomer proportions",
-      "layman": "Amount of each form produced"
+      "jargon": "isomer proportions",
+      "layman": "Ratio of different product forms"
     },
     {
-      "jargon": "Substituent effects",
-      "layman": "How groups affect reaction"
+      "jargon": "reaction rates",
+      "layman": "How fast reactions occur"
     },
     {
-      "jargon": "Positional selectivity",
-      "layman": "Which positions react more"
+      "jargon": "free energy of activation",
+      "layman": "Energy barrier to reaction"
     },
     {
-      "jargon": "Free energy changes",
-      "layman": "Energy differences in reaction"
+      "jargon": "additivity principle",
+      "layman": "Substituent effects add up"
     }
   ]
 }

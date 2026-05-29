@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Wealth holders",
-      "layman": "Rich individuals"
+      "layman": "People with a lot of money"
     },
     {
       "jargon": "Equity markets",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Capital requirements",
-      "layman": "Rules on how much money banks must hold"
+      "layman": "Rules on how much money banks must have"
     },
     {
       "jargon": "Public safety nets",
@@ -27,42 +27,42 @@
       "layman": "Monitoring banks"
     },
     {
-      "jargon": "Improving markets",
-      "layman": "Making markets work better"
-    },
-    {
-      "jargon": "Limiting public safety nets",
-      "layman": "Reducing government bank support"
+      "jargon": "Policy recommendations",
+      "layman": "Suggested rules for government"
     },
     {
       "jargon": "Macroeconomic policies",
-      "layman": "Big economy-wide policies"
+      "layman": "Big economic rules"
     },
     {
-      "jargon": "Accounting standards",
-      "layman": "Financial reporting rules"
+      "jargon": "Market improvement",
+      "layman": "Fixing financial markets"
+    },
+    {
+      "jargon": "Limiting liabilities",
+      "layman": "Restricting how much banks can borrow"
     }
   ],
   "outcomes": [
     {
       "jargon": "Illiquidity",
-      "layman": "Lack of available cash"
+      "layman": "Lack of cash"
     },
     {
-      "jargon": "Subvert capital requirements",
-      "layman": "Bypass bank safety rules"
+      "jargon": "Subverting capital requirements",
+      "layman": "Banks breaking rules"
     },
     {
-      "jargon": "Risky banks face high cost",
-      "layman": "Bad banks pay high prices"
+      "jargon": "Rigorous accounting standards",
+      "layman": "Strict financial reporting"
     },
     {
-      "jargon": "Short-run policy implementation",
-      "layman": "Quick policy changes"
+      "jargon": "High price for raising liabilities",
+      "layman": "High cost when borrowing money"
     },
     {
       "jargon": "Restraining bank risk",
-      "layman": "Reducing bank risk"
+      "layman": "Reducing risky banking behavior"
     }
   ]
 }

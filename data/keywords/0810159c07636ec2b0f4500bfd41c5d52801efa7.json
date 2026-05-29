@@ -14,7 +14,7 @@
     },
     {
       "jargon": "SATURN conference",
-      "layman": "Conference on software architecture"
+      "layman": "Conference on architecture and software"
     },
     {
       "jargon": "Agile point of view",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Agile methodology",
-      "layman": "Iterative development with feedback"
+      "layman": "Iterative project development"
     },
     {
-      "jargon": "Weather forecasting",
+      "jargon": "Forecasting",
       "layman": "Predicting weather patterns"
     },
     {
-      "jargon": "System adaptation",
-      "layman": "Changing systems to respond to changes"
-    },
-    {
       "jargon": "Iterative design",
-      "layman": "Building in small steps and improving"
+      "layman": "Rebuilding and improving step by step"
     },
     {
-      "jargon": "Real-time monitoring",
-      "layman": "Watching systems as they operate"
+      "jargon": "Adaptive planning",
+      "layman": "Planning that changes as new info arrives"
+    },
+    {
+      "jargon": "System resilience",
+      "layman": "Ability to recover from disruptions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Architectural wisdom",
-      "layman": "Practical insights for design"
+      "layman": "Practical design insights"
     },
     {
-      "jargon": "Adaptive systems",
-      "layman": "Systems that adjust over time"
+      "jargon": "Risk adaptation",
+      "layman": "Adjusting to unexpected challenges"
     },
     {
-      "jargon": "Predictive modeling",
-      "layman": "Making forecasts based on data"
+      "jargon": "Uncertainty management",
+      "layman": "Handling unknowns effectively"
     },
     {
-      "jargon": "Resilience in design",
-      "layman": "Ability to recover from problems"
+      "jargon": "Real-time response",
+      "layman": "Quick reactions to changing conditions"
     },
     {
-      "jargon": "Dynamic response",
-      "layman": "Quick reaction to changes"
+      "jargon": "System stability",
+      "layman": "Consistent performance under stress"
     }
   ]
 }

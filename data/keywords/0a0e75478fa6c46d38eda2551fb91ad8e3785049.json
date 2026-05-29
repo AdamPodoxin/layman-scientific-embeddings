@@ -10,33 +10,33 @@
     },
     {
       "jargon": "Microservices architecture",
-      "layman": "Split system into small, independent parts"
+      "layman": "Split system of small, independent services"
     },
     {
       "jargon": "Jolie programming language",
-      "layman": "Programming language for building systems"
+      "layman": "Programming language for microservices"
     },
     {
       "jargon": "User interface",
-      "layman": "Screen for users to interact"
+      "layman": "Interface for users to interact"
     }
   ],
   "methodologies": [
     {
       "jargon": "Distributed microservices architecture",
-      "layman": "Spreading functions across multiple devices"
+      "layman": "Spreading services across computers"
     },
     {
       "jargon": "Advanced sensor network",
-      "layman": "Sophisticated sensor system"
+      "layman": "Sophisticated sensor network"
     },
     {
       "jargon": "Prototype deployment",
-      "layman": "Testing in real environment"
+      "layman": "Testing system in real building"
     },
     {
       "jargon": "Real-world academic building environment",
-      "layman": "Test in actual school building"
+      "layman": "Testing in actual college building"
     },
     {
       "jargon": "Centralized platform",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Flexibility",
-      "layman": "Easy to adjust settings"
+      "layman": "Easier to adjust and use"
     },
     {
       "jargon": "Comfort",
-      "layman": "More comfortable living"
+      "layman": "Greater comfort for occupants"
     },
     {
       "jargon": "Promising nature of approach",
-      "layman": "Approach works well"
+      "layman": "Approach shows potential"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Shear bands",
-      "layman": "Areas of intense material deformation"
+      "layman": "Shear bands"
     },
     {
       "jargon": "Temperature rise",
-      "layman": "Increase in heat"
-    },
-    {
-      "jargon": "Mechanical properties",
-      "layman": "How materials respond to stress"
+      "layman": "Heat increase"
     },
     {
       "jargon": "Materials",
-      "layman": "Substances used in construction or devices"
+      "layman": "Materials"
+    },
+    {
+      "jargon": "Mechanical properties",
+      "layman": "Strength and durability"
     },
     {
       "jargon": "Spatial resolution",
-      "layman": "Precision in location measurement"
+      "layman": "Precision in location"
     }
   ],
   "methodologies": [
     {
       "jargon": "High spatial and temporal resolution",
-      "layman": "Very precise tracking over time and space"
+      "layman": "Ultra-precise timing and position tracking"
     },
     {
       "jargon": "Temperature monitoring",
-      "layman": "Measuring heat changes in real time"
-    },
-    {
-      "jargon": "Deformation analysis",
-      "layman": "Studying how materials bend or break"
+      "layman": "Measuring heat changes"
     },
     {
       "jargon": "Material testing",
-      "layman": "Applying stress to materials to see how they react"
+      "layman": "Stress and strain experiments"
     },
     {
       "jargon": "High-speed imaging",
-      "layman": "Taking very fast pictures to see fast events"
+      "layman": "Fast video to see movement"
+    },
+    {
+      "jargon": "Thermal sensors",
+      "layman": "Tools to detect heat"
     }
   ],
   "outcomes": [
     {
       "jargon": "Temperature rise in shear bands",
-      "layman": "Heat generated in deformed areas"
+      "layman": "Heat generated in shear bands"
     },
     {
       "jargon": "Improved mechanical properties",
-      "layman": "Better strength and durability"
+      "layman": "Better strength and resilience"
+    },
+    {
+      "jargon": "Hot shear bands",
+      "layman": "Warm or hot shear bands"
     },
     {
       "jargon": "High spatial and temporal resolution data",
-      "layman": "Clear, detailed heat and motion records"
+      "layman": "Detailed heat and timing records"
     },
     {
-      "jargon": "Material performance",
-      "layman": "How well a material holds up under stress"
-    },
-    {
-      "jargon": "Thermal behavior",
-      "layman": "How heat behaves during deformation"
+      "jargon": "Non-hot shear bands",
+      "layman": "Cool shear bands"
     }
   ]
 }

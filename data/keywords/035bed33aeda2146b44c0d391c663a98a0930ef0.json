@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Definite integration",
-      "layman": "Area under a curve"
+      "layman": "Exact area under a curve"
     },
     {
       "jargon": "Randomized WZ procedure",
-      "layman": "Computer method to find series patterns"
-    },
-    {
-      "jargon": "Computer algebra programs",
-      "layman": "Software for symbolic math"
+      "layman": "Computational pattern matching"
     },
     {
       "jargon": "Series evaluation",
-      "layman": "Finding a value for an infinite sum"
+      "layman": "Sum of a sequence of numbers"
+    },
+    {
+      "jargon": "Computer algebra programs",
+      "layman": "Math software that manipulates symbols"
     }
   ],
   "methodologies": [
     {
       "jargon": "Randomized WZ procedure",
-      "layman": "Computer method to find series patterns"
+      "layman": "Computer-based pattern matching"
     },
     {
       "jargon": "Computer proof",
-      "layman": "Using computers to verify math"
+      "layman": "Mathematical proof by computer"
     },
     {
-      "jargon": "Definite integration",
-      "layman": "Calculating area under a curve"
+      "jargon": "Definite integration problem",
+      "layman": "Finding exact area using math"
     },
     {
-      "jargon": "Symbolic math",
-      "layman": "Working with equations without numbers"
+      "jargon": "Series evaluation",
+      "layman": "Calculating a sum of infinite terms"
     },
     {
-      "jargon": "Algorithmic proof",
-      "layman": "Using steps to show something is true"
+      "jargon": "Interaction between programs",
+      "layman": "Combined use of math tools"
     }
   ],
   "outcomes": [
     {
       "jargon": "Series evaluation",
-      "layman": "Finding a value for an infinite sum"
+      "layman": "Exact sum of a series"
     },
     {
       "jargon": "Computer proof",
-      "layman": "Math verified by computer"
+      "layman": "Validated math result by machine"
     },
     {
-      "jargon": "Harmonic numbers",
-      "layman": "Sum of reciprocals of integers"
+      "jargon": "Evaluation in terms of harmonic numbers",
+      "layman": "Sum expressed using known sums"
     },
     {
-      "jargon": "Pattern recognition",
-      "layman": "Spotting mathematical patterns"
+      "jargon": "New randomized WZ procedure",
+      "layman": "New pattern-finding method"
     },
     {
-      "jargon": "Exact evaluation",
-      "layman": "Precise mathematical result"
+      "jargon": "Fruitful interaction",
+      "layman": "Successful teamwork of tools"
     }
   ]
 }

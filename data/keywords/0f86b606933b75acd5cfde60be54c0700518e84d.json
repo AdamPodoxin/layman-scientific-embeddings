@@ -28,11 +28,11 @@
     },
     {
       "jargon": "Scientific research",
-      "layman": "Experiments and analysis in science"
+      "layman": "Experiments and studies in science"
     },
     {
       "jargon": "Particle physics",
-      "layman": "Study of subatomic particles"
+      "layman": "Study of smallest building blocks"
     },
     {
       "jargon": "Cosmology",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Theoretical modeling",
-      "layman": "Creating math-based simulations"
+      "layman": "Creating models to explain phenomena"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Disappearance in 1938",
-      "layman": "Vanished without trace"
+      "jargon": "Disappearance of Ettore Majorana",
+      "layman": "Mysterious vanishing"
     },
     {
       "jargon": "Scientific legacy",
-      "layman": "Lasting contributions to science"
+      "layman": "Impact on modern physics"
     },
     {
       "jargon": "Personal background",
-      "layman": "Private life and history"
+      "layman": "Life and personal history"
     },
     {
-      "jargon": "Recent research findings",
-      "layman": "New discoveries about his work"
+      "jargon": "Fundamental concepts",
+      "layman": "Core ideas in science"
     },
     {
-      "jargon": "Mysterious disappearance",
-      "layman": "Unexplained vanishing"
+      "jargon": "Recent discoveries",
+      "layman": "New findings in research"
     }
   ]
 }

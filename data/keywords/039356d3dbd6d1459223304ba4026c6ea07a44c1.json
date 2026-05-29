@@ -10,21 +10,21 @@
     },
     {
       "jargon": "\u03b1,\u03b1,\u03b1,\u03b1\u2032,\u03b1\u2032,\u03b1\u2032-hexachloro-p-xylene",
-      "layman": "Chemical compound with chlorine and xylene"
+      "layman": "Chlorine-covered xylene compound"
     },
     {
       "jargon": "Stabilized polymeric sulfur",
-      "layman": "Long-lasting sulfur chains"
+      "layman": "Solid sulfur chains kept stable"
     },
     {
       "jargon": "Complex systems",
-      "layman": "Mixtures of chemicals"
+      "layman": "Mixed chemical mixtures"
     }
   ],
   "methodologies": [
     {
       "jargon": "Rapid cooling",
-      "layman": "Fast freezing"
+      "layman": "Quick freezing"
     },
     {
       "jargon": "Melts",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Presence of complex systems",
-      "layman": "Adding special chemicals"
+      "layman": "Adding mixed chemicals"
     },
     {
       "jargon": "Synthesis",
-      "layman": "Creating in lab"
+      "layman": "Creating new material"
     },
     {
-      "jargon": "Examining possibility",
-      "layman": "Testing if something works"
+      "jargon": "Examination",
+      "layman": "Testing and checking"
     }
   ],
   "outcomes": [
     {
       "jargon": "Raised yield",
-      "layman": "More product made"
+      "layman": "More product formed"
     },
     {
       "jargon": "Stabilized",
-      "layman": "Longer-lasting"
+      "layman": "Kept from breaking down"
     },
     {
       "jargon": "Previously unstudied",
-      "layman": "Never tested before"
+      "layman": "Never before looked at"
     },
     {
       "jargon": "Possible improvement",
-      "layman": "Better results possible"
+      "layman": "Good chance of better results"
     },
     {
-      "jargon": "Examination of possibility",
-      "layman": "Checking if it works"
+      "jargon": "Raising yield",
+      "layman": "Producing more material"
     }
   ]
 }

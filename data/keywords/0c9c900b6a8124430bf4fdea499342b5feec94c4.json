@@ -9,60 +9,60 @@
       "layman": "Basic unit of magnetic charge"
     },
     {
-      "jargon": "CDF and D\u00d8 detectors",
-      "layman": "Particle detection systems at Fermilab"
-    },
-    {
       "jargon": "Photonic production",
-      "layman": "Creation using light particles"
+      "layman": "Creating particles using light"
     },
     {
-      "jargon": "GeV range",
-      "layman": "High energy level in particle physics"
+      "jargon": "CDF and D\u00d8 detectors",
+      "layman": "Particle sensors in accelerators"
+    },
+    {
+      "jargon": "GeV mass range",
+      "layman": "High-energy particle mass scale"
     }
   ],
   "methodologies": [
     {
       "jargon": "Pair production",
-      "layman": "Creating two particles from energy"
+      "layman": "Creating particle and anti-particle together"
     },
     {
       "jargon": "Cross section limits",
-      "layman": "Measuring how likely particles are to form"
+      "layman": "Measuring probability of interaction"
     },
     {
       "jargon": "Model assumptions",
-      "layman": "Simple rules used to make predictions"
+      "layman": "Simple theoretical rules used in analysis"
     },
     {
-      "jargon": "Mass limits",
-      "layman": "Estimated upper weight of particles"
+      "jargon": "Accelerator-based searches",
+      "layman": "Using particle colliders to look for particles"
     },
     {
-      "jargon": "Direct accelerator-based searches",
-      "layman": "Looking for particles using a particle collider"
+      "jargon": "Mass limits extraction",
+      "layman": "Finding the heaviest possible mass for a particle"
     }
   ],
   "outcomes": [
     {
       "jargon": "Cross sections ~1 pb",
-      "layman": "Very low chance of monopole formation"
+      "layman": "Very low chance of production"
     },
     {
       "jargon": "Hundreds of times smaller limits",
-      "layman": "Much tighter search boundaries"
+      "layman": "Much tighter detection constraints"
     },
     {
       "jargon": "Mass limits in hundreds of GeV",
-      "layman": "Particles likely heavier than hundreds of GeV"
+      "layman": "Particles heavier than known values"
+    },
+    {
+      "jargon": "No detection of monopoles",
+      "layman": "No evidence found"
     },
     {
       "jargon": "Simple model assumptions",
-      "layman": "Basic rules used in the analysis"
-    },
-    {
-      "jargon": "New experimental results",
-      "layman": "Updated findings from the experiment"
+      "layman": "Basic rules used to make predictions"
     }
   ]
 }

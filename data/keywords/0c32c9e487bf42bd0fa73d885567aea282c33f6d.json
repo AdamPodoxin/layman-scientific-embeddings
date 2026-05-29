@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Epistemological factors",
-      "layman": "How we know things"
+      "layman": "How we understand knowledge"
     },
     {
-      "jargon": "Philosophical views",
-      "layman": "Beliefs about truth and knowledge"
+      "jargon": "Philosophical factors",
+      "layman": "Beliefs about reality and truth"
     },
     {
       "jargon": "Ideological factors",
-      "layman": "Beliefs shaping values and decisions"
+      "layman": "Core beliefs shaping views"
     },
     {
-      "jargon": "University structure",
-      "layman": "How universities are organized"
+      "jargon": "University",
+      "layman": "College or higher education institution"
     },
     {
       "jargon": "Celtic Studies",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Review developments",
-      "layman": "Look back at changes over time"
+      "layman": "Examine historical changes"
     },
     {
       "jargon": "Explore implications",
-      "layman": "See what changes mean"
+      "layman": "Look at possible consequences"
     },
     {
       "jargon": "Case in point",
       "layman": "Example to illustrate a point"
     },
     {
-      "jargon": "Analyze meaning of knowledge",
-      "layman": "Examine what counts as knowledge"
+      "jargon": "Analytical framework",
+      "layman": "Model for understanding patterns"
     },
     {
-      "jargon": "Assess academic changes",
-      "layman": "Check how education is changing"
+      "jargon": "Cross-disciplinary approach",
+      "layman": "Looking at topics from different fields"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Survival of traditional humanities",
-      "layman": "Will old humanities last?"
-    },
-    {
       "jargon": "Changing technologies",
-      "layman": "New tech affecting education"
+      "layman": "New technology shifts"
     },
     {
-      "jargon": "Shaping views of knowledge",
-      "layman": "Changing how we see knowledge"
+      "jargon": "Meaning of knowledge",
+      "layman": "How knowledge is defined"
     },
     {
-      "jargon": "Implications for academe",
-      "layman": "Effects on universities"
+      "jargon": "Survival of traditional humanities",
+      "layman": "Will old humanities survive"
     },
     {
-      "jargon": "New century university",
-      "layman": "University in the 21st century"
+      "jargon": "Academe",
+      "layman": "University system as a whole"
+    },
+    {
+      "jargon": "21st century transformation",
+      "layman": "Big change in the coming century"
     }
   ]
 }

@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Josephus problem",
-      "layman": "survivor puzzle"
+      "layman": "survival puzzle"
     }
   ],
   "methodologies": [
     {
       "jargon": "non-recursive formulas",
-      "layman": "direct calculation formulas"
+      "layman": "direct formulas without repetition"
     },
     {
-      "jargon": "explicit upper and lower bounds",
-      "layman": "tight numerical limits"
+      "jargon": "upper and lower bounds",
+      "layman": "range between highest and lowest values"
     },
     {
       "jargon": "fast algorithm",
       "layman": "quick calculation method"
     },
     {
-      "jargon": "bounds for j(n, k, i)",
-      "layman": "estimated range for survivor position"
+      "jargon": "explicit formulas",
+      "layman": "clear formulas to compute"
     },
     {
-      "jargon": "recursive computation",
-      "layman": "step-by-step calculation"
+      "jargon": "bounds for j(n, k, i)",
+      "layman": "estimates for survival position"
     }
   ],
   "outcomes": [
     {
-      "jargon": "explicit formulas for j(n, 2, i)",
-      "layman": "clear formula for two-step elimination"
+      "jargon": "j(n, 2, i)",
+      "layman": "survival position for step 2"
     },
     {
-      "jargon": "explicit formulas for j(n, 3, i)",
-      "layman": "clear formula for three-step elimination"
+      "jargon": "j(n, 3, i)",
+      "layman": "survival position for step 3"
     },
     {
       "jargon": "bounds differ by 2k\u00b2",
-      "layman": "range is small and predictable"
+      "layman": "estimates are close"
     },
     {
       "jargon": "bounds are even better for k=4",
-      "layman": "tighter limits when k=4"
+      "layman": "tighter estimates for step 4"
     },
     {
-      "jargon": "j(n, k, i) computed efficiently",
-      "layman": "survivor position calculated quickly"
+      "jargon": "explicit upper and lower bounds",
+      "layman": "clear limits on survival spot"
     }
   ]
 }

@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Social fixed capital",
-      "layman": "Shared societal infrastructure"
+      "layman": "Shared social infrastructure"
     },
     {
       "jargon": "Means of communication",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Physical conditions of circulation",
-      "layman": "Infrastructure for moving goods"
+      "layman": "Public transportation and pathways"
     }
   ],
   "methodologies": [
     {
       "jargon": "Production of fixed capital",
-      "layman": "Creating long-term assets"
-    },
-    {
-      "jargon": "Communal conditions of social production",
-      "layman": "Shared conditions for society to produce"
+      "layman": "Creating long-term infrastructure"
     },
     {
       "jargon": "Capital relation",
-      "layman": "How money relates to production"
+      "layman": "How capital connects to society"
     },
     {
-      "jargon": "Particular capital",
-      "layman": "Individual business investment"
+      "jargon": "Communal conditions",
+      "layman": "Shared societal rules and systems"
     },
     {
       "jargon": "Production process",
-      "layman": "How goods are made"
+      "layman": "How things are made"
+    },
+    {
+      "jargon": "Social production",
+      "layman": "Making things together in society"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Specific relation",
-      "layman": "Clear connection between capital and society"
+      "layman": "Clear connection between things"
     },
     {
       "jargon": "General conditions of production",
-      "layman": "Common rules for making things"
+      "layman": "Basic ways society produces goods"
     },
     {
-      "jargon": "Incidentally",
-      "layman": "By the way"
+      "jargon": "Particular capital",
+      "layman": "Individual business or investment"
     },
     {
-      "jargon": "Prospect",
-      "layman": "Possible future possibility"
+      "jargon": "Communal conditions",
+      "layman": "Shared societal rules and systems"
     }
   ]
 }

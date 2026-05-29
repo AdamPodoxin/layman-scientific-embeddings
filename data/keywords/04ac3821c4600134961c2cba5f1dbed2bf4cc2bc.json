@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Ultracold fermions",
-      "layman": "Very cold particles that act like atoms"
+      "layman": "Very cold particles that behave like atoms"
     },
     {
       "jargon": "Optical lattices",
-      "layman": "Laser-created crystal-like traps"
+      "layman": "Lattices made of light"
+    },
+    {
+      "jargon": "Superfluidity",
+      "layman": "Liquid that flows without friction"
     },
     {
       "jargon": "Fermions",
-      "layman": "A type of particle that follows quantum rules"
+      "layman": "Particles that follow specific quantum rules"
     },
     {
-      "jargon": "Ferromagnetic phases",
-      "layman": "Magnetic alignment in materials"
-    },
-    {
-      "jargon": "FFLO state",
+      "jargon": "Fulde-Ferrell-Larkin-Ovchinnikov state",
       "layman": "Special state of matter with paired particles"
     }
   ],
   "methodologies": [
     {
       "jargon": "Bogoliubov-de Gennes equations",
-      "layman": "Math model for quantum behavior"
+      "layman": "Mathematical model for quantum behavior"
     },
     {
       "jargon": "Harmonically trapped",
-      "layman": "Particles held in a balanced, shaped well"
+      "layman": "Particles held in a balanced, stable cage"
     },
     {
       "jargon": "Solving equations",
       "layman": "Using math to predict behavior"
     },
     {
-      "jargon": "Filling densities",
-      "layman": "How many particles are packed in space"
+      "jargon": "Simulating physical systems",
+      "layman": "Using models to mimic real-world conditions"
     },
     {
-      "jargon": "Experimental proposals",
-      "layman": "Suggested ways to test the results"
+      "jargon": "Filling density",
+      "layman": "How many particles are in a given space"
     }
   ],
   "outcomes": [
     {
       "jargon": "Bimodal distribution of ferromagnetism",
-      "layman": "Two peaks in magnetic patterns"
+      "layman": "Two distinct peaks in magnetic behavior"
     },
     {
       "jargon": "Superfluid-pairing gap oscillates radially",
-      "layman": "Gap changes in a circular pattern"
+      "layman": "Gap between pairs wiggles with distance"
     },
     {
-      "jargon": "Fulde-Ferrell-Larkin-Ovchinnikov state",
-      "layman": "Unique pairing state in cold atoms"
+      "jargon": "FFLO state with gap oscillation along angular direction",
+      "layman": "Special state with gap changing with angle"
     },
     {
-      "jargon": "Gap oscillation along angular direction",
-      "layman": "Gap changes in a spinning pattern"
+      "jargon": "Ferromagnetic order modulates accordingly",
+      "layman": "Magnetic order changes with conditions"
     },
     {
       "jargon": "Square lattice-like FFLO state",
-      "layman": "Grid-like pattern of paired particles"
+      "layman": "FFLO pattern forming a square grid"
     }
   ]
 }

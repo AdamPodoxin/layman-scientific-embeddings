@@ -6,63 +6,63 @@
     },
     {
       "jargon": "bilinear operation",
-      "layman": "bilinear operation"
+      "layman": "operation with two inputs and one output"
     },
     {
       "jargon": "tensorial product",
-      "layman": "tensor product"
+      "layman": "combined operation on vectors"
     },
     {
       "jargon": "rewrite system",
-      "layman": "rewrite system"
+      "layman": "rule-based transformation system"
     },
     {
       "jargon": "algebraic structure",
-      "layman": "algebraic structure"
+      "layman": "mathematical system with rules"
     }
   ],
   "methodologies": [
     {
       "jargon": "rewrite system",
-      "layman": "algorithmic rule system"
+      "layman": "set of rules to transform expressions"
     },
     {
       "jargon": "algorithm on terms",
-      "layman": "rule-based computation"
+      "layman": "step-by-step process on math expressions"
     },
     {
       "jargon": "define by propositions",
-      "layman": "define by rules"
+      "layman": "define by rules that must be followed"
     },
     {
       "jargon": "validate operations",
-      "layman": "check operations"
+      "layman": "check that operations follow rules"
     },
     {
-      "jargon": "replace propositions",
-      "layman": "replace rules"
+      "jargon": "probabilistic programming languages",
+      "layman": "programming with uncertainty"
     }
   ],
   "outcomes": [
     {
-      "jargon": "validates algebraic structure",
-      "layman": "meets mathematical rules"
+      "jargon": "replace propositions by algorithms",
+      "layman": "use rules instead of logic checks"
     },
     {
-      "jargon": "defined by algorithm",
-      "layman": "defined by computation"
+      "jargon": "validate the structure",
+      "layman": "confirm the system works as expected"
     },
     {
-      "jargon": "validates vector space",
-      "layman": "meets vector space rules"
+      "jargon": "compute vector space",
+      "layman": "calculate space of vectors"
     },
     {
-      "jargon": "validates bilinear operation",
-      "layman": "meets bilinear rules"
+      "jargon": "define bilinear operation",
+      "layman": "set up a two-way math rule"
     },
     {
-      "jargon": "computational definition",
-      "layman": "defined using computation"
+      "jargon": "semantics of quantum programming",
+      "layman": "meaning behind quantum code"
     }
   ]
 }

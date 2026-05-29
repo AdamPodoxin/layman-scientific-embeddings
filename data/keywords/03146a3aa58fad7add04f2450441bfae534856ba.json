@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Groupoid semantics",
-      "layman": "Framework for understanding systems with multiple types of behavior"
+      "layman": "Mathematical framework for systems"
     },
     {
       "jargon": "Logical degrees of freedom",
-      "layman": "States that represent information or decisions"
+      "layman": "States that can be true or false"
     },
     {
       "jargon": "Thermal degrees of freedom",
-      "layman": "States related to heat and temperature"
+      "layman": "Heat-related states"
     },
     {
       "jargon": "Encryption function",
-      "layman": "Process that hides data securely"
+      "layman": "Process that hides data"
     },
     {
       "jargon": "Quantum teleportation",
-      "layman": "Transfer of quantum information between places"
+      "layman": "Transferring quantum states"
     }
   ],
   "methodologies": [
     {
       "jargon": "Syntactic model",
-      "layman": "Model based on rules and structure"
+      "layman": "Rule-based simulation"
     },
     {
       "jargon": "Algebraic characterization",
-      "layman": "Mathematical description of a system"
+      "layman": "Mathematical description"
     },
     {
       "jargon": "Linear representation theory",
-      "layman": "Method to describe systems using lines and math"
+      "layman": "Pattern mapping using lines"
     },
     {
       "jargon": "Functorial classical model",
-      "layman": "Classical model that maps to quantum systems"
+      "layman": "Classical model that connects to quantum"
     },
     {
       "jargon": "Landauer's principle",
-      "layman": "Rule linking information processing to heat"
+      "layman": "Heat produced by computation"
     }
   ],
   "outcomes": [
     {
       "jargon": "Heat produced by encryption",
-      "layman": "Heat generated when data is encrypted"
+      "layman": "Heat from data processing"
     },
     {
-      "jargon": "Algebraic characterization of heat",
-      "layman": "Mathematical prediction of heat output"
+      "jargon": "Predicted heat",
+      "layman": "Expected heat output"
     },
     {
       "jargon": "Quantum semantics",
-      "layman": "Quantum-level meaning of a system"
+      "layman": "Quantum behavior explained mathematically"
     },
     {
-      "jargon": "Functorial model for quantum phenomena",
-      "layman": "Classical model that explains quantum events"
+      "jargon": "Underlying quantum structure",
+      "layman": "Hidden quantum patterns"
     },
     {
-      "jargon": "Predicted heat output",
-      "layman": "Expected heat from a process"
+      "jargon": "Functorial model",
+      "layman": "Connected classical-quantum system"
     }
   ]
 }

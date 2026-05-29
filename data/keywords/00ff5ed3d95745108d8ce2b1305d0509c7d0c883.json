@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Great October Socialist Revolution",
-      "layman": "Soviet revolution"
+      "layman": "Major political change in Russia"
     },
     {
       "jargon": "Far North peoples",
-      "layman": "Indigenous northern communities"
+      "layman": "Inhabitants of remote northern regions"
+    },
+    {
+      "jargon": "Educational policy",
+      "layman": "Government plan for schools"
     },
     {
       "jargon": "Economic development",
-      "layman": "Improving economy"
+      "layman": "Improvement of local economy"
     },
     {
-      "jargon": "Cultural equality",
-      "layman": "Equal cultural rights"
-    },
-    {
-      "jargon": "Backward peoples",
-      "layman": "Underdeveloped communities"
+      "jargon": "Cultural inequality",
+      "layman": "Lack of equal culture and opportunity"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Policy implementation",
-      "layman": "Carrying out government plans"
+      "jargon": "Legislative grants",
+      "layman": "Government laws providing funds"
     },
     {
-      "jargon": "Legislative action",
-      "layman": "Passing new laws"
+      "jargon": "Policy implementation",
+      "layman": "Putting plans into action"
     },
     {
       "jargon": "Cultural upgrading",
-      "layman": "Improving cultural standards"
-    },
-    {
-      "jargon": "Educational expansion",
-      "layman": "Growing schools and education"
+      "layman": "Improving education and traditions"
     },
     {
       "jargon": "Economic policy",
-      "layman": "Government plans to boost economy"
+      "layman": "Strategies to boost economy"
+    },
+    {
+      "jargon": "Social equality",
+      "layman": "Equal rights for all people"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Cultural equality",
-      "layman": "Equal cultural rights"
-    },
-    {
-      "jargon": "Improved education level",
-      "layman": "Higher education standards"
-    },
-    {
-      "jargon": "Reduction of inequality",
-      "layman": "Less disparity"
-    },
-    {
-      "jargon": "Higher culture level",
-      "layman": "Better cultural development"
-    },
-    {
       "jargon": "Equal rights",
-      "layman": "Same rights for all"
+      "layman": "Everyone gets the same opportunities"
+    },
+    {
+      "jargon": "Low level of culture",
+      "layman": "Poor education and traditions"
+    },
+    {
+      "jargon": "Inequality liquidation",
+      "layman": "Ending of unfair conditions"
+    },
+    {
+      "jargon": "Upgraded economy",
+      "layman": "Stronger local economy"
+    },
+    {
+      "jargon": "Improved culture",
+      "layman": "Better education and practices"
     }
   ]
 }

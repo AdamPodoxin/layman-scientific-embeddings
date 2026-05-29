@@ -24,19 +24,19 @@
   "methodologies": [
     {
       "jargon": "Book cataloguing",
-      "layman": "Organizing books by topic"
+      "layman": "Organizing books in lists"
     },
     {
       "jargon": "Literature review",
-      "layman": "Looking at existing books on a topic"
+      "layman": "Looking through books to find patterns"
     },
     {
       "jargon": "Website browsing",
-      "layman": "Searching online book sites"
+      "layman": "Checking websites for books"
     },
     {
       "jargon": "Book library access",
-      "layman": "Using a book database"
+      "layman": "Using a library site to find books"
     },
     {
       "jargon": "Genre classification",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "Book selection",
-      "layman": "Choosing the right book"
+      "jargon": "Best book discovery",
+      "layman": "Finding the perfect book"
     },
     {
       "jargon": "Job deadline relief",
-      "layman": "Saving time before deadline"
+      "layman": "Solving work stress"
     },
     {
-      "jargon": "Satisfaction from reading",
-      "layman": "Feeling happy after reading"
+      "jargon": "Book selection satisfaction",
+      "layman": "Feeling happy with a book choice"
     },
     {
-      "jargon": "Access to diverse catalogues",
-      "layman": "Finding many types of books"
+      "jargon": "Comprehensive catalogues",
+      "layman": "Full lists of books"
     },
     {
-      "jargon": "Best book recommendation",
-      "layman": "Finding the perfect book"
+      "jargon": "Diverse topic coverage",
+      "layman": "Books on many subjects"
     }
   ]
 }

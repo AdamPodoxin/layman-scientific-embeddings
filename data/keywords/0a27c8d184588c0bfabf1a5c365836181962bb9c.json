@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Coastal management programs",
-      "layman": "Rules for protecting coastlines"
+      "layman": "Government efforts to manage coastlines"
     },
     {
       "jargon": "National Estuarine Research Reserves",
-      "layman": "Protected coastal wetlands"
+      "layman": "Protected coastal wetlands for research"
     },
     {
       "jargon": "Coastal Zone Management Act",
-      "layman": "Law for coastal protection"
+      "layman": "Law that funds coastal protection"
     },
     {
       "jargon": "National Oceanic and Atmospheric Administration",
-      "layman": "Ocean and weather agency"
+      "layman": "U.S. agency that monitors oceans"
     },
     {
-      "jargon": "Estuaries",
-      "layman": "Where rivers meet the sea"
+      "jargon": "State coastal management programs",
+      "layman": "State-level plans for coastal protection"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Performance Measurement System",
-      "layman": "System to track success"
+      "jargon": "Performance measurement system",
+      "layman": "System to track how well programs work"
     },
     {
       "jargon": "Assess",
-      "layman": "Evaluate"
+      "layman": "Evaluate or measure impact"
     },
     {
       "jargon": "Develop",
-      "layman": "Create"
+      "layman": "Create or design a tool or plan"
+    },
+    {
+      "jargon": "National impact",
+      "layman": "Effect on the whole country"
     },
     {
       "jargon": "Monitor",
-      "layman": "Keep an eye on"
-    },
-    {
-      "jargon": "Evaluate impact",
-      "layman": "See how effective something is"
+      "layman": "Keep track over time"
     }
   ],
   "outcomes": [
     {
       "jargon": "National impact",
-      "layman": "Overall effect across the country"
-    },
-    {
-      "jargon": "State coastal management programs",
-      "layman": "State-level coastal rules"
+      "layman": "Effect on the whole country"
     },
     {
       "jargon": "Performance metrics",
-      "layman": "Success numbers"
+      "layman": "Measures of success"
     },
     {
-      "jargon": "Effectiveness",
-      "layman": "How well it works"
+      "jargon": "Program effectiveness",
+      "layman": "How well programs are working"
     },
     {
-      "jargon": "Management impact",
-      "layman": "Results of coastal rules"
+      "jargon": "Environmental outcomes",
+      "layman": "Results for nature and ecosystems"
+    },
+    {
+      "jargon": "Policy impact",
+      "layman": "Influence on environmental rules"
     }
   ]
 }

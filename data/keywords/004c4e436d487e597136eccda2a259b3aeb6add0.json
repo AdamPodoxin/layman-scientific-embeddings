@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "DNA molecules",
-      "layman": "DNA strands"
-    },
-    {
-      "jargon": "Plasmid DNA",
-      "layman": "Circular DNA in cells"
+      "layman": "Genetic strands"
     },
     {
       "jargon": "Cationic lipid bilayers",
-      "layman": "Membrane made of charged lipids"
+      "layman": "Positive lipid layers"
+    },
+    {
+      "jargon": "Plasmid DNA",
+      "layman": "Circle-shaped DNA"
     },
     {
       "jargon": "Mg2+ ions",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "2-D condensation",
-      "layman": "DNA folding into 2D layers"
+      "layman": "2D packing of DNA"
     },
     {
       "jargon": "Interhelical distance",
-      "layman": "Space between DNA helix turns"
+      "layman": "Distance between DNA coils"
     },
     {
-      "jargon": "Concentration increases",
-      "layman": "More ions added"
+      "jargon": "Ion concentration",
+      "layman": "Amount of ions in solution"
     },
     {
-      "jargon": "Ion binding",
-      "layman": "Ions attaching to DNA"
+      "jargon": "Condensation",
+      "layman": "DNA folding together"
     },
     {
-      "jargon": "Condensation process",
-      "layman": "DNA packing together"
+      "jargon": "High-valence cations",
+      "layman": "Strongly charged positive ions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Minimum interhelical distance",
-      "layman": "Smallest spacing between DNA layers"
+      "layman": "Smallest spacing between DNA coils"
     },
     {
-      "jargon": "No change with Mn2+",
-      "layman": "No effect from manganese ions"
+      "jargon": "No similar change with Mn2+",
+      "layman": "No change with manganese ions"
     },
     {
       "jargon": "DNA leaves bilayers",
-      "layman": "DNA detaches from membrane"
+      "layman": "DNA exits the layer"
     },
     {
-      "jargon": "Spermidine at 0.05 mM",
-      "layman": "Spermidine at low concentration"
+      "jargon": "0.05 mM spermidine concentration",
+      "layman": "Low dose of spermidine"
     },
     {
-      "jargon": "High-valence cations",
-      "layman": "Strongly charged ions"
+      "jargon": "Understand 2-D condensation",
+      "layman": "Learn how DNA packs flatly"
     }
   ]
 }

@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Sustainable community development",
-      "layman": "Helping communities grow without harming the environment"
+      "layman": "Community growth without harming the environment"
     },
     {
       "jargon": "Social justice education",
       "layman": "Teaching fairness in engineering"
     },
     {
-      "jargon": "Emancipatory pedagogies",
-      "layman": "Teaching that empowers students"
+      "jargon": "Engineers",
+      "layman": "Engineers"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Critical pedagogies",
-      "layman": "Teaching that questions power and inequality"
+      "layman": "Teaching that challenges power structures"
     },
     {
-      "jargon": "Global engineering projects",
-      "layman": "Engineering work done internationally"
+      "jargon": "Emancipatory pedagogies",
+      "layman": "Teaching that empowers students"
     },
     {
-      "jargon": "Community engagement",
-      "layman": "Working with local communities"
+      "jargon": "Global engineering education",
+      "layman": "Engineering education across countries"
     },
     {
-      "jargon": "Pedagogical reflection",
-      "layman": "Thinking about teaching methods after action"
+      "jargon": "Learning from failure",
+      "layman": "Improving through mistakes"
     }
   ],
   "outcomes": [
     {
       "jargon": "Enhanced global service-learning projects",
-      "layman": "Better community-focused engineering projects"
+      "layman": "Better international service projects"
     },
     {
-      "jargon": "Improved student learning outcomes",
-      "layman": "Students learn more effectively"
+      "jargon": "Improved student engagement",
+      "layman": "Students more involved"
     },
     {
-      "jargon": "Increased student agency",
-      "layman": "Students feel more in control"
+      "jargon": "Sustainable community development",
+      "layman": "Environmentally sound community growth"
     },
     {
-      "jargon": "Sustainable development impact",
-      "layman": "Positive long-term community change"
+      "jargon": "Social justice outcomes",
+      "layman": "Fairer engineering practices"
     },
     {
-      "jargon": "Equitable engineering practices",
-      "layman": "Fairer engineering solutions for all"
+      "jargon": "Project resilience",
+      "layman": "Projects that recover from setbacks"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Software reliability engineering",
-      "layman": "Ensuring software works without failure"
+      "layman": "Ensuring software works without failures"
     },
     {
       "jargon": "Process structure",
       "layman": "How development workflows are organized"
     },
     {
-      "jargon": "Quality metrics",
-      "layman": "Measures of software quality"
+      "jargon": "Integration testing",
+      "layman": "Testing how different software parts work together"
     },
     {
-      "jargon": "Code stability",
-      "layman": "How consistent and reliable code is"
+      "jargon": "Project profile",
+      "layman": "Overall view of a software project"
     },
     {
       "jargon": "Fault convergence",
-      "layman": "When software errors stop appearing over time"
+      "layman": "Faults getting fewer over time"
     }
   ],
   "methodologies": [
     {
       "jargon": "Metrics re-evaluation",
-      "layman": "Reviewing quality measures over time"
-    },
-    {
-      "jargon": "Integration testing",
-      "layman": "Testing how different software parts work together"
+      "layman": "Re-checking performance measures"
     },
     {
       "jargon": "Quality control chart",
-      "layman": "Graph showing software quality trends"
+      "layman": "Graph showing quality trends over time"
     },
     {
-      "jargon": "Agile development",
-      "layman": "Iterative software building in small steps"
+      "jargon": "Code stability",
+      "layman": "How consistent code changes are"
     },
     {
-      "jargon": "Project profile",
-      "layman": "Overview of a software project's key traits"
+      "jargon": "Iterative development",
+      "layman": "Building software in small, repeated steps"
+    },
+    {
+      "jargon": "Agile",
+      "layman": "Flexible software development approach"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Quality metrics",
+      "layman": "Numbers to measure software quality"
+    },
+    {
       "jargon": "Code stability",
-      "layman": "Code that doesn\u2019t break easily"
+      "layman": "Stable code over time"
     },
     {
       "jargon": "Fault convergence",
       "layman": "Fewer bugs over time"
     },
     {
-      "jargon": "Quality metrics",
-      "layman": "Clear signs of software quality"
+      "jargon": "Quality control chart",
+      "layman": "Shows if quality is improving"
     },
     {
       "jargon": "Process structure",
-      "layman": "Clear development workflow"
-    },
-    {
-      "jargon": "Integration testing",
-      "layman": "Fewer connection errors in software"
+      "layman": "Clear workflow structure"
     }
   ]
 }

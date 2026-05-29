@@ -2,51 +2,55 @@
   "core_entities": [
     {
       "jargon": "Air pollution",
-      "layman": "Dirty air"
+      "layman": "Pollutants in the air"
     },
     {
       "jargon": "Radiation balance",
-      "layman": "Earth's heat balance"
+      "layman": "Sunlight balance in the atmosphere"
     },
     {
       "jargon": "Precipitation mechanisms",
-      "layman": "Rain and snow formation"
+      "layman": "Rain and snow formation processes"
     },
     {
       "jargon": "Climate",
-      "layman": "Weather patterns over time"
+      "layman": "Long-term weather patterns"
     },
     {
       "jargon": "Pollutants",
-      "layman": "Harmful substances in air"
+      "layman": "Harmful substances in the air"
     }
   ],
   "methodologies": [
     {
       "jargon": "Prediction",
-      "layman": "Estimating future outcomes"
+      "layman": "Forecasting effects"
     },
     {
       "jargon": "Measurement",
-      "layman": "Taking data to observe"
+      "layman": "Detecting pollution levels"
+    },
+    {
+      "jargon": "Response characteristics",
+      "layman": "How systems react to pollution"
     },
     {
       "jargon": "Research needs",
-      "layman": "What more needs to be studied"
+      "layman": "What studies are missing"
     },
     {
       "jargon": "Setting standards",
-      "layman": "Creating safety rules"
-    },
-    {
-      "jargon": "Testimony",
-      "layman": "Official statement given in response"
+      "layman": "Establishing safety rules"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Threats",
-      "layman": "Harmful impacts"
+      "jargon": "Disturb radiation balance",
+      "layman": "Change in sunlight balance"
+    },
+    {
+      "jargon": "Affect precipitation mechanisms",
+      "layman": "Change in rain and snow"
     },
     {
       "jargon": "Ambiguities of prediction",
@@ -54,15 +58,11 @@
     },
     {
       "jargon": "Ambiguities of measurement",
-      "layman": "Uncertain data"
+      "layman": "Uncertain pollution readings"
     },
     {
-      "jargon": "Response characteristics",
-      "layman": "How systems react"
-    },
-    {
-      "jargon": "By-product",
-      "layman": "Unintended harmful result"
+      "jargon": "Threats to climate",
+      "layman": "Climate risks from pollution"
     }
   ]
 }

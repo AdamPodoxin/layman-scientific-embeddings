@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "down-faulted red basins",
-      "layman": "down-dropped red sediment basins"
+      "jargon": "Down-faulted red basins",
+      "layman": "Down-dropped red sedimentary basins"
     },
     {
-      "jargon": "carbonaceous-siliceous-pelitic rock type uranium deposits",
-      "layman": "uranium deposits in mixed rock types"
+      "jargon": "Carbonaceous-siliceous-pelitic rock type uranium deposits",
+      "layman": "Uranium deposits in sedimentary rocks with organic and siliceous parts"
     },
     {
-      "jargon": "marginal fractures",
-      "layman": "edge cracks in basins"
+      "jargon": "Marginal fractures",
+      "layman": "Fractures at the edge of basins"
     },
     {
-      "jargon": "sedimentary-exogenous transformation type",
-      "layman": "uranium formed from outside sources in sediments"
+      "jargon": "Red basins",
+      "layman": "Red-colored sedimentary basins"
     },
     {
-      "jargon": "sedimentary-hydrothermal superimposed transformation type",
-      "layman": "uranium from heat and water mixing with sediments"
+      "jargon": "Yangtze continental block",
+      "layman": "Eastern edge of the Yangtze landmass"
     }
   ],
   "methodologies": [
     {
-      "jargon": "analyzing deposit distributions",
-      "layman": "mapping where uranium is found"
+      "jargon": "Sedimentary-exogenous transformation",
+      "layman": "Uranium formed from external sediments"
     },
     {
-      "jargon": "proposing ore-controlling mechanism",
-      "layman": "suggesting how uranium forms in specific places"
+      "jargon": "Sedimentary-hydrothermal superimposed transformation",
+      "layman": "Uranium formed from heat and water mixing with sediments"
     },
     {
-      "jargon": "connective effect",
-      "layman": "linking geological features to uranium formation"
+      "jargon": "Deposit distribution analysis",
+      "layman": "Mapping where uranium deposits are found"
     },
     {
-      "jargon": "geological analysis",
-      "layman": "studying rock formations and patterns"
+      "jargon": "Geological correlation",
+      "layman": "Matching rock layers across regions"
     },
     {
-      "jargon": "distribution patterns",
-      "layman": "how things are spread out in space"
+      "jargon": "Fracture network analysis",
+      "layman": "Studying crack patterns in rock"
     }
   ],
   "outcomes": [
     {
-      "jargon": "ore-concentrated areas",
-      "layman": "areas with high uranium levels"
+      "jargon": "Ore-concentrated areas",
+      "layman": "Areas with high uranium concentration"
     },
     {
-      "jargon": "deposit distributions",
-      "layman": "where uranium deposits are located"
+      "jargon": "Connective effect",
+      "layman": "Link between fractures and uranium formation"
     },
     {
-      "jargon": "uranium concentration",
-      "layman": "how much uranium is present"
+      "jargon": "Ore-controlling mechanism",
+      "layman": "How basins control uranium buildup"
     },
     {
-      "jargon": "marginal fractures",
-      "layman": "cracks along basin edges"
+      "jargon": "Distribution at or near edges",
+      "layman": "Uranium found close to basin edges"
     },
     {
-      "jargon": "ore-controlling mechanism",
-      "layman": "how the basin controls uranium formation"
+      "jargon": "Marginal fractures as control",
+      "layman": "Edge cracks guide uranium formation"
     }
   ]
 }

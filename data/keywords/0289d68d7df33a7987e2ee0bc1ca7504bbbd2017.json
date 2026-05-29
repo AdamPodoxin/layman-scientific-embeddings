@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Fluids",
-      "layman": "Liquid or gas substances"
+      "layman": "Liquids and gases"
     },
     {
-      "jargon": "Classical Mechanics",
+      "jargon": "Classical mechanics",
       "layman": "Physics of motion and forces"
     },
     {
       "jargon": "Foundational aspects",
-      "layman": "Basic principles of a system"
+      "layman": "Basic building blocks"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Checking units and scales"
     },
     {
-      "jargon": "Comparative analysis",
+      "jargon": "Comparative study",
       "layman": "Comparing solids and fluids"
+    },
+    {
+      "jargon": "Structural analysis",
+      "layman": "Examining physical structure"
     },
     {
       "jargon": "Physical modeling",
       "layman": "Simulating real-world behavior"
     },
     {
-      "jargon": "Structural analysis",
-      "layman": "Studying how things hold shape"
-    },
-    {
-      "jargon": "Mechanical behavior study",
-      "layman": "Testing how materials move under force"
+      "jargon": "Theoretical examination",
+      "layman": "Analyzing ideas without experiments"
     }
   ],
   "outcomes": [
     {
       "jargon": "Foundational aspects",
-      "layman": "Basic rules of nature"
+      "layman": "Basic principles"
     },
     {
       "jargon": "Structural differences",
-      "layman": "How solids and fluids behave differently"
+      "layman": "Different behaviors under forces"
     },
     {
-      "jargon": "Dimensional consistency",
-      "layman": "Units match logically"
+      "jargon": "Dimensional inconsistencies",
+      "layman": "Mismatched units or scales"
     },
     {
-      "jargon": "Physical behavior patterns",
-      "layman": "How things move or respond"
+      "jargon": "Physical behavior",
+      "layman": "How things move and respond"
     },
     {
-      "jargon": "Core principles",
-      "layman": "Basic truths in physics"
+      "jargon": "Foundational problems",
+      "layman": "Deep issues in the basics"
     }
   ]
 }

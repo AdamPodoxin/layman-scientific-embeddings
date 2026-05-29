@@ -5,64 +5,64 @@
       "layman": "Knowledge from observation and experience"
     },
     {
-      "jargon": "Historical development",
-      "layman": "How ideas have changed over time"
+      "jargon": "Historical methods",
+      "layman": "Old ways of gathering knowledge"
     },
     {
-      "jargon": "Scientific method",
-      "layman": "Systematic way to test ideas"
+      "jargon": "Scientific practice",
+      "layman": "How science is done"
     },
     {
-      "jargon": "Philosophical traditions",
-      "layman": "Different ways of thinking about knowledge"
+      "jargon": "Philosophical inquiry",
+      "layman": "Thoughtful investigation of ideas"
     },
     {
-      "jargon": "Experimental evidence",
-      "layman": "Data from tests and observations"
+      "jargon": "Scientific tradition",
+      "layman": "Long-standing scientific customs"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Historical analysis",
-      "layman": "Studying past events to find patterns"
+      "jargon": "Critical analysis",
+      "layman": "Careful examination of evidence"
+    },
+    {
+      "jargon": "Historical review",
+      "layman": "Looking back at past records"
+    },
+    {
+      "jargon": "Source verification",
+      "layman": "Checking the reliability of sources"
     },
     {
       "jargon": "Primary sources",
-      "layman": "Original documents from the time"
+      "layman": "Original records from the past"
     },
     {
       "jargon": "Comparative study",
-      "layman": "Looking at different cases side by side"
-    },
-    {
-      "jargon": "Critical evaluation",
-      "layman": "Carefully judging the quality of evidence"
-    },
-    {
-      "jargon": "Causal reasoning",
-      "layman": "Figuring out what causes what"
+      "layman": "Comparing different cases or times"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Epistemological shift",
-      "layman": "Change in how we understand knowledge"
-    },
-    {
       "jargon": "Methodological evolution",
-      "layman": "Improvement in research methods over time"
+      "layman": "Science methods changing over time"
     },
     {
-      "jargon": "Consensus formation",
-      "layman": "Agreement among experts"
+      "jargon": "Shift in epistemology",
+      "layman": "Change in how knowledge is viewed"
     },
     {
-      "jargon": "Validation through replication",
-      "layman": "Results confirmed by repeated testing"
+      "jargon": "Validation of observations",
+      "layman": "Confirming what was seen"
     },
     {
-      "jargon": "Rejection of dogma",
-      "layman": "Moving away from old, untested beliefs"
+      "jargon": "Consistency over time",
+      "layman": "Finds that hold true through history"
+    },
+    {
+      "jargon": "Rejection of dogmatic theories",
+      "layman": "Putting aside old, unquestioned beliefs"
     }
   ]
 }

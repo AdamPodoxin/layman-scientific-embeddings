@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Polyploidy",
-      "layman": "Having extra sets of chromosomes"
+      "jargon": "Polyploidization",
+      "layman": "Extra sets of chromosomes"
     },
     {
       "jargon": "Angiosperms",
       "layman": "Flowering plants"
     },
     {
-      "jargon": "Eukaryotic lineages",
-      "layman": "Groups of organisms with complex cells"
+      "jargon": "Palaeopolyploidy",
+      "layman": "Ancient genome duplications"
     },
     {
       "jargon": "Vascular plants",
-      "layman": "Plants with internal tubes for water"
+      "layman": "Plants with vascular tissue"
     },
     {
       "jargon": "Teleost fishes",
-      "layman": "Bony fish like salmon and tuna"
+      "layman": "Bony fish"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Copying of entire genome"
     },
     {
-      "jargon": "Palaeopolyploidy",
-      "layman": "Ancient genome duplication events"
+      "jargon": "Evolutionary analysis",
+      "layman": "Tracing how species changed over time"
     },
     {
-      "jargon": "Evolutionary processes",
-      "layman": "Changes over time in species"
+      "jargon": "Paleogenomics",
+      "layman": "Studying ancient DNA"
     },
     {
-      "jargon": "Phylogenetic analysis",
-      "layman": "Tracing evolutionary relationships"
+      "jargon": "Phylogenetic inference",
+      "layman": "Building family trees of species"
     },
     {
       "jargon": "Molecular dating",
-      "layman": "Estimating when events happened in history"
+      "layman": "Estimating when events occurred in history"
     }
   ],
   "outcomes": [
     {
       "jargon": "70% of angiosperms",
-      "layman": "Most flowering plants have had genome copies"
+      "layman": "Most flowering plants had genome copies"
     },
     {
       "jargon": "Widespread in eukaryotes",
-      "layman": "Common across many life forms"
+      "layman": "Common across all complex life"
     },
     {
-      "jargon": "Ancient genome duplication",
-      "layman": "Old copy of genetic material"
+      "jargon": "Ancient duplication in yeast",
+      "layman": "Early yeast had extra genome sets"
     },
     {
-      "jargon": "Early ancestor of vertebrates",
-      "layman": "First ancestor of animals with backbones"
+      "jargon": "Repeated in teleosts",
+      "layman": "Fish evolved genome copies many times"
     },
     {
-      "jargon": "Repeated during teleost evolution",
-      "layman": "Happened more than once in bony fish"
+      "jargon": "15% of angiosperms",
+      "layman": "Half of flowering plants show polyploidy"
     }
   ]
 }

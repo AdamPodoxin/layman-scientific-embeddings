@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
+      "jargon": "Nonmetallic material surface",
+      "layman": "Surface of a material that isn't a metal"
+    },
+    {
       "jargon": "Metallization",
-      "layman": "Coating with metal"
+      "layman": "Coating a surface with metal"
     },
     {
-      "jargon": "Nonmetallic material",
-      "layman": "Material without metal"
+      "jargon": "Metal layer",
+      "layman": "Thin layer of metal"
     },
     {
-      "jargon": "Surface",
-      "layman": "Outer layer"
+      "jargon": "Surface modification",
+      "layman": "Changing a surface's properties"
     },
     {
-      "jargon": "Material application",
-      "layman": "Use of a material in a product"
-    },
-    {
-      "jargon": "Metallized surface",
-      "layman": "Metal-coated surface"
+      "jargon": "New materials",
+      "layman": "Innovative materials"
     }
   ],
   "methodologies": [
     {
       "jargon": "Metallization methods",
-      "layman": "Techniques to add metal to surfaces"
-    },
-    {
-      "jargon": "Principle of metallization",
-      "layman": "Basic rule for how metal coats form"
+      "layman": "Techniques to apply metal to surfaces"
     },
     {
       "jargon": "Surface treatment",
-      "layman": "Process to prepare surface for coating"
+      "layman": "Process to prepare a surface for coating"
     },
     {
-      "jargon": "Coating technology",
-      "layman": "Technology for applying layers"
+      "jargon": "Deposition process",
+      "layman": "Method of adding material layer by layer"
     },
     {
-      "jargon": "Application development",
-      "layman": "Designing new uses for materials"
+      "jargon": "Chemical vapor deposition",
+      "layman": "Growing metal layer from gas"
+    },
+    {
+      "jargon": "Sputtering",
+      "layman": "Spraying metal atoms onto surface"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Improved conductivity",
+      "layman": "Better ability to carry electricity"
+    },
+    {
+      "jargon": "Enhanced durability",
+      "layman": "Greater resistance to wear"
+    },
+    {
       "jargon": "New material applications",
-      "layman": "New ways to use materials"
+      "layman": "New uses for materials"
     },
     {
       "jargon": "Developmental prospects",
       "layman": "Future growth potential"
     },
     {
-      "jargon": "Surface modification",
-      "layman": "Changing surface properties"
-    },
-    {
-      "jargon": "Enhanced performance",
-      "layman": "Better function"
-    },
-    {
-      "jargon": "Material functionality",
-      "layman": "Material's ability to work well"
+      "jargon": "Surface adhesion",
+      "layman": "Metal sticks tightly to surface"
     }
   ]
 }

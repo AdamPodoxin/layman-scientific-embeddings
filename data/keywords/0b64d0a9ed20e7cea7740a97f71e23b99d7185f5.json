@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Manual therapy",
-      "layman": "Hands-on spinal treatments"
+      "layman": "Hands-on spinal manipulation"
     },
     {
       "jargon": "Physical therapy",
-      "layman": "Exercise-based treatment for movement"
+      "layman": "Therapy involving exercises"
     },
     {
       "jargon": "General practitioner",
-      "layman": "Primary care doctor"
+      "layman": "Family doctor"
     },
     {
       "jargon": "Nonspecific neck pain",
-      "layman": "Neck pain without a clear cause"
+      "layman": "Neck pain without clear cause"
     }
   ],
   "methodologies": [
     {
       "jargon": "Randomized controlled trial",
-      "layman": "Randomly assigned treatment test"
+      "layman": "Random assignment to compare treatments"
     },
     {
       "jargon": "Block randomization",
-      "layman": "Random assignment in groups"
-    },
-    {
-      "jargon": "Blinded assessment",
-      "layman": "Doctors don't know who got what treatment"
+      "layman": "Balanced grouping to ensure fair distribution"
     },
     {
       "jargon": "Range-of-motion assessment",
-      "layman": "Measuring how far joints move"
+      "layman": "Measuring neck movement"
     },
     {
-      "jargon": "Eclectic manual therapy",
-      "layman": "Mix of different hands-on techniques"
+      "jargon": "Blinded evaluation",
+      "layman": "Study where evaluators don't know treatment group"
+    },
+    {
+      "jargon": "Eclectic treatment approach",
+      "layman": "Mix of different therapy techniques"
     }
   ],
   "outcomes": [
     {
-      "jargon": "68.3% resolved or much improved",
-      "layman": "Most patients felt better after treatment"
+      "jargon": "68.3% pain resolution",
+      "layman": "Most patients felt pain gone"
     },
     {
       "jargon": "Perceived recovery",
-      "layman": "How patients feel their pain is improving"
+      "layman": "Patient's sense of improvement"
     },
     {
       "jargon": "Functional disability",
-      "layman": "Ability to do daily activities"
+      "layman": "Ability to perform daily tasks"
     },
     {
-      "jargon": "Pain reduction",
-      "layman": "Less pain reported"
+      "jargon": "6-week intervention",
+      "layman": "6-week treatment period"
     },
     {
-      "jargon": "Spinal mobility",
-      "layman": "How freely the spine moves"
+      "jargon": "Mobilization techniques",
+      "layman": "Passive joint movement to ease stiffness"
     }
   ]
 }

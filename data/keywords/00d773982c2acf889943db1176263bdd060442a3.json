@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Geological block",
-      "layman": "Large rock mass"
+      "layman": "Large land section"
     },
     {
       "jargon": "Mantle",
@@ -17,26 +17,26 @@
       "layman": "Earth's outer layer"
     },
     {
-      "jargon": "Volcanic eruption",
-      "layman": "Lava explosion"
+      "jargon": "Volcanic eruptions",
+      "layman": "Lava explosions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Geophysical data",
-      "layman": "Earth measurements"
+      "layman": "Earth sensors data"
     },
     {
       "jargon": "Geological comprehensive analysis",
-      "layman": "Full rock study"
+      "layman": "Full land study"
     },
     {
-      "jargon": "Extension",
-      "layman": "Stretching"
+      "jargon": "Fault extension",
+      "layman": "Cracks spreading"
     },
     {
       "jargon": "Volcanism",
-      "layman": "Volcanic activity"
+      "layman": "Magma rising"
     },
     {
       "jargon": "Sediment formation",
@@ -49,20 +49,20 @@
       "layman": "Rising area"
     },
     {
-      "jargon": "Volcanic eruptions",
-      "layman": "Lava bursts"
+      "jargon": "Intermediate-acidic volcanic eruptions",
+      "layman": "Mixture lava flows"
     },
     {
       "jargon": "Thick clastic sediment",
-      "layman": "Heavy rock layers"
+      "layman": "Heavy rock layer"
     },
     {
-      "jargon": "Ore deposits",
-      "layman": "Mineral riches"
+      "jargon": "Large or medium ore deposits",
+      "layman": "Big mineral piles"
     },
     {
       "jargon": "Fault depression zone formation",
-      "layman": "Deep sinking area formed"
+      "layman": "Deep sink formed by faults"
     }
   ]
 }

@@ -9,52 +9,52 @@
       "layman": "Teenagers"
     },
     {
-      "jargon": "Autonomy",
-      "layman": "Ability to make own decisions"
+      "jargon": "Parents",
+      "layman": "Parents"
     },
     {
       "jargon": "Families",
-      "layman": "Parent groups"
+      "layman": "Families"
     },
     {
-      "jargon": "Public telephone",
-      "layman": "Phone in public places"
+      "jargon": "Autonomy",
+      "layman": "Ability to act independently"
     }
   ],
   "methodologies": [
     {
       "jargon": "Educational course",
-      "layman": "Training program"
+      "layman": "School-based training program"
     },
     {
       "jargon": "Annual repetition",
       "layman": "Held every year"
     },
     {
-      "jargon": "Participation",
-      "layman": "People joining the course"
-    },
-    {
       "jargon": "Replication in cities",
-      "layman": "Spread to other cities"
+      "layman": "Copied in different cities"
     },
     {
-      "jargon": "Personality development",
-      "layman": "Growing self-awareness"
+      "jargon": "Person-centered approach",
+      "layman": "Focusing on individual needs"
+    },
+    {
+      "jargon": "Skill development",
+      "layman": "Building practical abilities"
     }
   ],
   "outcomes": [
     {
       "jargon": "Cross roads independently",
-      "layman": "Walk across streets alone"
+      "layman": "Walk across streets by themselves"
     },
     {
       "jargon": "Use public telephone",
-      "layman": "Use a public phone"
+      "layman": "Dial a public phone"
     },
     {
       "jargon": "Ask for information",
-      "layman": "Seek help when needed"
+      "layman": "Get help when stuck"
     },
     {
       "jargon": "Go shopping",

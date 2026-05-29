@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Electrodeposited metal matrix/metal particle composite",
-      "layman": "Coating built by electric current"
+      "layman": "Metal coating made by electric current"
     },
     {
       "jargon": "Light optical microscopy",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Scanning electron microscopy",
-      "layman": "High-power microscope for surface details"
+      "layman": "High-power microscope for details"
     },
     {
       "jargon": "Electron probe microanalysis",
-      "layman": "Test to check material composition"
+      "layman": "Chemical testing under microscope"
     },
     {
       "jargon": "Differential thermal analysis",
-      "layman": "Heating test to see phase changes"
+      "layman": "Heat testing to see changes"
     }
   ],
   "outcomes": [
@@ -50,7 +50,7 @@
     },
     {
       "jargon": "Formation of intermetallic phases",
-      "layman": "Metal mixtures form at boundaries"
+      "layman": "Metal layers form at edges"
     },
     {
       "jargon": "NiAl islands",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Final equilibrium microstructure",
-      "layman": "Stable final coating pattern"
+      "layman": "Final stable metal pattern"
     }
   ]
 }

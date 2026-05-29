@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Smarandache sequences",
-      "layman": "Special number patterns"
+      "layman": "Special number sequences"
     },
     {
       "jargon": "Computer Algebra System",
-      "layman": "Math software"
+      "layman": "Math software tool"
     },
     {
       "jargon": "Conjectures",
-      "layman": "Unproven hypotheses"
+      "layman": "Unproven theories"
     },
     {
-      "jargon": "Numbers",
-      "layman": "Digits or values"
+      "jargon": "Number theory",
+      "layman": "Study of numbers"
     },
     {
-      "jargon": "Mathematical problems",
-      "layman": "Hard math puzzles"
+      "jargon": "Mathematical patterns",
+      "layman": "Number patterns"
     }
   ],
   "methodologies": [
     {
       "jargon": "Computer Algebra System",
-      "layman": "Math software"
+      "layman": "Math software tool"
     },
     {
-      "jargon": "Solutions are discovered",
-      "layman": "Answers are found"
+      "jargon": "Solutions discovered",
+      "layman": "Patterns found by computer"
     },
     {
-      "jargon": "Related problems",
-      "layman": "Connected math issues"
+      "jargon": "Numerical analysis",
+      "layman": "Computing number behavior"
     },
     {
-      "jargon": "Explorations",
-      "layman": "Investigations"
+      "jargon": "Algebraic computation",
+      "layman": "Mathematical calculations"
     },
     {
-      "jargon": "Analysis",
-      "layman": "Breaking down to understand"
+      "jargon": "Algorithmic exploration",
+      "layman": "Systematic computer search"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Solutions are discovered",
-      "layman": "Answers are found"
+      "jargon": "Solutions discovered",
+      "layman": "Patterns found"
     },
     {
       "jargon": "Conjectures presented",
-      "layman": "Guesses shared"
+      "layman": "New guesses made"
     },
     {
       "jargon": "Related problems",
       "layman": "Connected math issues"
     },
     {
-      "jargon": "Explorations",
-      "layman": "Investigations"
+      "jargon": "Mathematical discoveries",
+      "layman": "New math findings"
     },
     {
-      "jargon": "Mathematical patterns",
-      "layman": "Repeating number trends"
+      "jargon": "Sequence properties",
+      "layman": "Characteristics of number patterns"
     }
   ]
 }

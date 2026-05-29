@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Cognitive processes",
-      "layman": "Thinking patterns"
+      "layman": "Thinking processes"
     },
     {
       "jargon": "Personality traits",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Motivational processes",
-      "layman": "What drives people to act"
+      "layman": "Driving forces behind actions"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Interdisciplinary dialogue",
-      "layman": "Collaboration across fields"
+      "jargon": "Interdisciplinary research",
+      "layman": "Research across fields"
     },
     {
-      "jargon": "Research evolution",
-      "layman": "How studies change over time"
+      "jargon": "Personal interest-driven research",
+      "layman": "Research based on personal curiosity"
     },
     {
-      "jargon": "Personal interests",
-      "layman": "What researchers are passionate about"
+      "jargon": "Collaborative research",
+      "layman": "Working with others on research"
     },
     {
-      "jargon": "Opportunities for collaboration",
-      "layman": "Chances to work with others"
+      "jargon": "Dynamic evolution of research",
+      "layman": "Research that changes over time"
     },
     {
-      "jargon": "Dynamic and multi-faceted",
-      "layman": "Complex and changing"
+      "jargon": "Exploration at the borders",
+      "layman": "Looking at edges of knowledge"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Intrinsic diversity",
-      "layman": "Natural variety in creativity"
+      "layman": "Variety within the field"
+    },
+    {
+      "jargon": "Risk-taking",
+      "layman": "Taking chances"
     },
     {
       "jargon": "Creative thinking",
-      "layman": "Original and novel ideas"
+      "layman": "Original ideas and solutions"
     },
     {
-      "jargon": "Impact at the borders",
-      "layman": "Influence at the edges of fields"
-    },
-    {
-      "jargon": "Taking risks",
-      "layman": "Trying new and uncertain things"
+      "jargon": "Research impact",
+      "layman": "Real-world influence of findings"
     }
   ]
 }

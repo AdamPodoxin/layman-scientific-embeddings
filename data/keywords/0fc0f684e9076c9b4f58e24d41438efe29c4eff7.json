@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Customs unions",
-      "layman": "Trade groups with shared borders and rules"
+      "jargon": "customs unions",
+      "layman": "Trade groups with shared rules"
     },
     {
-      "jargon": "Free trade areas",
-      "layman": "Regions with reduced trade barriers"
+      "jargon": "free trade areas",
+      "layman": "Regions with open trade"
     },
     {
-      "jargon": "Tariff-ridden equilibrium",
-      "layman": "Trade balance with high import taxes"
+      "jargon": "tariff-ridden equilibrium",
+      "layman": "Trade balance with high taxes"
     },
     {
-      "jargon": "Economic growth",
-      "layman": "Increase in a country's output"
+      "jargon": "investment sector",
+      "layman": "Part of economy where money is saved and used for growth"
     },
     {
-      "jargon": "Two sectors",
-      "layman": "Two main parts of the economy"
+      "jargon": "consumption sector",
+      "layman": "Part of economy where people spend money"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Dynamic effects",
-      "layman": "Long-term trade impacts"
+      "jargon": "dynamic effects",
+      "layman": "Long-term trade changes"
     },
     {
-      "jargon": "Neoclassical framework",
-      "layman": "Simple economic model with clear rules"
+      "jargon": "neoclassical framework",
+      "layman": "Simple economic model based on basic principles"
     },
     {
-      "jargon": "Endogenous growth",
+      "jargon": "growth models",
+      "layman": "Economic models that show how economies grow"
+    },
+    {
+      "jargon": "endogenous economic growth",
       "layman": "Growth driven by internal factors"
     },
     {
-      "jargon": "Time-based policies",
-      "layman": "Trade rules that change over time"
-    },
-    {
-      "jargon": "Growth models",
-      "layman": "Mathematical tools to study growth"
+      "jargon": "agent behavior over time",
+      "layman": "People's decisions changing over years"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Trade creation",
-      "layman": "More goods available due to trade"
+      "jargon": "trade creation",
+      "layman": "More trade between countries"
     },
     {
-      "jargon": "Trade diversion",
-      "layman": "Goods shifting from one market to another"
+      "jargon": "trade diversion",
+      "layman": "Trade shifting away from better options"
     },
     {
-      "jargon": "Second best",
-      "layman": "Best possible outcome under real-world limits"
+      "jargon": "second best",
+      "layman": "Best available solution after a trade-off"
     },
     {
-      "jargon": "No increasing returns",
-      "layman": "No sudden gains from scale"
+      "jargon": "increasing returns",
+      "layman": "When benefits grow faster than input"
     },
     {
-      "jargon": "No bequest motives",
-      "layman": "No desire to pass wealth to heirs"
+      "jargon": "bequest motives",
+      "layman": "Wanting to pass wealth to heirs"
     }
   ]
 }

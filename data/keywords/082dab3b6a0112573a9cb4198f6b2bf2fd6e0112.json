@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Domestic abuse",
-      "layman": "Family violence"
+      "layman": "Violence in homes"
     },
     {
       "jargon": "Policy-making",
-      "layman": "Government decision-making"
+      "layman": "Deciding laws and rules"
     },
     {
       "jargon": "Children's rights",
-      "layman": "Rights of young people"
-    },
-    {
-      "jargon": "Young people",
-      "layman": "Young people"
+      "layman": "Rights of kids"
     },
     {
       "jargon": "Participatory action research",
-      "layman": "Joint research with community members"
+      "layman": "People working together to study and solve problems"
+    },
+    {
+      "jargon": "Young people",
+      "layman": "Teenagers and young adults"
     }
   ],
   "methodologies": [
     {
       "jargon": "Co-production of knowledge",
-      "layman": "Creating knowledge together"
+      "layman": "Working together to create new understanding"
     },
     {
-      "jargon": "Participatory Action Research Process",
-      "layman": "Research where participants take action"
+      "jargon": "Feminist perspective",
+      "layman": "View from women's experiences and rights"
     },
     {
       "jargon": "Qualitative first part",
-      "layman": "Initial interviews and observations"
+      "layman": "In-depth interviews and stories"
+    },
+    {
+      "jargon": "Participatory action research process",
+      "layman": "Research where participants take active roles"
     },
     {
       "jargon": "Critical friendship",
-      "layman": "Deep, respectful relationship with leaders"
-    },
-    {
-      "jargon": "Ethical principles",
-      "layman": "Guiding rules for fairness and safety"
+      "layman": "Deep, respectful relationship with leaders for mutual learning"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Feeling safe, in control, and free"
     },
     {
-      "jargon": "Public online awareness campaign",
-      "layman": "Online campaign to raise awareness"
+      "jargon": "Public awareness campaign",
+      "layman": "Online campaign to educate the public"
     },
     {
-      "jargon": "Film production",
-      "layman": "Making a film to share stories"
+      "jargon": "Stigma attached to domestic abuse",
+      "layman": "Society's judgment or shame about abuse"
     },
     {
-      "jargon": "Multi-million fund",
-      "layman": "Large funding amount"
+      "jargon": "Tokenistic participation",
+      "layman": "Only appearing in decisions without real power"
     },
     {
-      "jargon": "Conditions of grant",
-      "layman": "Rules for receiving money"
+      "jargon": "Change agents",
+      "layman": "People who drive change"
     }
   ]
 }

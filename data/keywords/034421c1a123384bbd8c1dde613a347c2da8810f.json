@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Positivism",
-      "layman": "Only facts from observation and measurement"
-    },
-    {
-      "jargon": "Psychological phenomena",
-      "layman": "Mental experiences and behaviors"
+      "layman": "Strict belief that only observable facts can be known"
     },
     {
       "jargon": "Philosophy of science",
-      "layman": "How science thinks about knowledge"
+      "layman": "Study of how science works and what it can know"
+    },
+    {
+      "jargon": "Psychological phenomena",
+      "layman": "Mental or emotional experiences"
     },
     {
       "jargon": "Quantitative imperative",
@@ -18,51 +18,48 @@
     },
     {
       "jargon": "Methodolatry",
-      "layman": "Overreliance on a single method"
+      "layman": "Excessive faith in a single method"
     }
   ],
   "methodologies": [
     {
       "jargon": "Quantitative research",
-      "layman": "Research using numbers"
+      "layman": "Research using numbers and statistics"
     },
     {
       "jargon": "Qualitative research",
-      "layman": "Research using words and stories"
+      "layman": "Research using stories and descriptions"
     },
+    "methodolatry",
     {
-      "jargon": "Philosophical analysis",
-      "layman": "Thinking about science's foundations"
+      "jargon": "Philosophical argument",
+      "layman": "Logical debate about beliefs or ideas"
     },
     {
       "jargon": "Disciplinary isolation",
-      "layman": "Fields working in silos"
-    },
-    {
-      "jargon": "Data collection",
-      "layman": "Gathering information from studies"
+      "layman": "Lack of connection between fields"
     }
   ],
   "outcomes": [
     {
       "jargon": "Misunderstandings in philosophy of science",
-      "layman": "Wrong beliefs about scientific methods"
+      "layman": "Wrong beliefs about science's nature"
     },
     {
-      "jargon": "Resistance to quantitative imperative",
-      "layman": "Refusing to only use numbers"
+      "jargon": "Resistance to quantitative methods",
+      "layman": "Rejecting number-based research"
     },
     {
       "jargon": "Non-quantifiable characteristics",
-      "layman": "Hard-to-measure mental traits"
+      "layman": "Qualities that can't be measured"
     },
     {
-      "jargon": "Excesses of methodolatry",
-      "layman": "Going too far with one method"
+      "jargon": "Excesses and limitations",
+      "layman": "Overdoing or missing key points"
     },
     {
       "jargon": "Contextualization",
-      "layman": "Putting things in a broader setting"
+      "layman": "Putting arguments into real-life settings"
     }
   ]
 }

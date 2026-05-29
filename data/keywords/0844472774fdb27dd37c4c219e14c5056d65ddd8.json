@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "RSOS models",
-      "layman": "Types of physical systems with critical behavior"
+      "layman": "Types of physical systems with specific rules"
     },
     {
       "jargon": "Unitary minimal models",
-      "layman": "Simplest mathematical models of critical points"
+      "layman": "Simple rules for particle behavior at critical points"
     },
     {
       "jargon": "Z_n parafermions",
-      "layman": "Particles with discrete symmetry"
+      "layman": "Particles with special symmetry types"
     },
     {
       "jargon": "Virasoro Algebra",
@@ -18,47 +18,47 @@
     },
     {
       "jargon": "Boundary conditions",
-      "layman": "Rules at the edges of a system"
+      "layman": "Rules for how edges behave in a system"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Analytically compute",
-      "layman": "Calculate exactly using math"
+      "jargon": "Renyi entropies",
+      "layman": "Measure of quantum connection between parts"
     },
     {
-      "jargon": "Expand around critical points",
-      "layman": "Look at small changes near a turning point"
+      "jargon": "Analytical computation",
+      "layman": "Exact mathematical calculation"
     },
     {
-      "jargon": "Compare with field theory",
-      "layman": "Check against known physical predictions"
+      "jargon": "Expansion around critical points",
+      "layman": "Close-up study near phase changes"
+    },
+    {
+      "jargon": "Comparison with field theory",
+      "layman": "Check against known physics predictions"
     },
     {
       "jargon": "Entanglement spectrum",
-      "layman": "Pattern of quantum connections between parts"
-    },
-    {
-      "jargon": "Choose boundary conditions",
-      "layman": "Set rules for system edges"
+      "layman": "Pattern of quantum connections"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Renyi entropies",
-      "layman": "Measure of quantum connection strength"
-    },
-    {
       "jargon": "Unusual corrections",
-      "layman": "Unexpected deviations from theory"
+      "layman": "Unexpected changes near critical points"
     },
     {
       "jargon": "Operator content",
-      "layman": "Types of physical actions in the system"
+      "layman": "Types of physical operations present"
     },
     {
       "jargon": "Symmetries",
-      "layman": "Conserved patterns in the system"
+      "layman": "Conserved patterns in behavior"
+    },
+    {
+      "jargon": "Ground states",
+      "layman": "Lowest energy configurations"
     },
     {
       "jargon": "Logarithmic corrections",

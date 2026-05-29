@@ -2,11 +2,15 @@
   "core_entities": [
     {
       "jargon": "chronic pelvic pain",
-      "layman": "long-term pelvic pain"
+      "layman": "long-lasting pelvic pain"
+    },
+    {
+      "jargon": "subtypes",
+      "layman": "types of pain patterns"
     },
     {
       "jargon": "diffuse abdominal/pelvic pain",
-      "layman": "widespread abdominal or pelvic pain"
+      "layman": "widespread belly/pelvic pain"
     },
     {
       "jargon": "vulvovaginal pain",
@@ -14,17 +18,13 @@
     },
     {
       "jargon": "cyclic pain",
-      "layman": "pain that comes with the menstrual cycle"
-    },
-    {
-      "jargon": "neuropathic pain",
-      "layman": "pain from nerve damage"
+      "layman": "pain that occurs with the menstrual cycle"
     }
   ],
   "methodologies": [
     {
       "jargon": "analysis of covariance",
-      "layman": "statistical comparison adjusting for differences"
+      "layman": "statistical comparison adjusting for factors"
     },
     {
       "jargon": "pairwise contrasts",
@@ -36,11 +36,11 @@
     },
     {
       "jargon": "gynecologist identification",
-      "layman": "doctor identifying pain type"
+      "layman": "doctor's symptom-based diagnosis"
     },
     {
       "jargon": "patient records",
-      "layman": "medical history files"
+      "layman": "medical patient files"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "more past traumatic events"
     },
     {
-      "jargon": "poorer mental health status",
-      "layman": "worse mental well-being"
+      "jargon": "poorer mental health",
+      "layman": "bad mental well-being"
     },
     {
-      "jargon": "poorer physical health status",
-      "layman": "worse physical health"
+      "jargon": "poorer physical health",
+      "layman": "worse physical condition"
     },
     {
       "jargon": "endometriosis unrelated to health status",
-      "layman": "endometriosis doesn't affect health"
+      "layman": "endometriosis does not affect health"
     }
   ]
 }

@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Scalar \u03c3 meson",
-      "layman": "Low-mass particle in nuclear force"
+      "layman": "Low-mass particle in nature"
     },
     {
       "jargon": "\u03c1 meson",
-      "layman": "Particle that decays into pions and gamma"
+      "layman": "Particle that decays into pions and photons"
     },
     {
       "jargon": "\u03c9 meson",
-      "layman": "Particle that decays into pions and gamma"
+      "layman": "Particle that decays into pions and photons"
     },
     {
       "jargon": "\u03c0\u2070 meson",
@@ -24,29 +24,29 @@
   "methodologies": [
     {
       "jargon": "Chiral perturbation theory",
-      "layman": "Math model for weak nuclear forces"
+      "layman": "Theory for weak force interactions"
     },
     {
       "jargon": "Linear sigma model",
-      "layman": "Model for particle interactions"
+      "layman": "Model for studying scalar particles"
     },
     {
       "jargon": "Radiative decay",
-      "layman": "Decay that emits light"
-    },
-    {
-      "jargon": "Decay channel",
-      "layman": "Pathway a particle takes to break down"
+      "layman": "Decay that emits photons"
     },
     {
       "jargon": "Data analysis",
-      "layman": "Study of experimental results"
+      "layman": "Interpreting experimental results"
+    },
+    {
+      "jargon": "Measurement accuracy",
+      "layman": "Precision of observed values"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Low mass \u03c3 (500)",
-      "layman": "Light particle around 500 MeV"
+      "jargon": "\u03c3 (500) contribution",
+      "layman": "Effect of a low-mass particle"
     },
     {
       "jargon": "Moderately narrow \u03c3 (500)",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Complementarity",
-      "layman": "Two models agree well together"
+      "layman": "Both models agree well"
     },
     {
       "jargon": "Accommodated in framework",
-      "layman": "Fits within existing theory"
+      "layman": "Fits within current theory"
     },
     {
-      "jargon": "Less sensitive",
-      "layman": "Not strongly affected by changes"
+      "jargon": "Less sensitive to \u03c3 (500)",
+      "layman": "Not strongly affected by the particle"
     }
   ]
 }

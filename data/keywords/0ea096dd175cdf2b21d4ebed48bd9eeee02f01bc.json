@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Metadata",
-      "layman": "Article details"
+      "layman": "Document details"
     },
     {
       "jargon": "Textual constructs",
@@ -18,35 +18,35 @@
     },
     {
       "jargon": "Tokens",
-      "layman": "Words"
+      "layman": "Words in text"
     }
   ],
   "methodologies": [
     {
       "jargon": "Machine learning models",
-      "layman": "Smart computer systems"
+      "layman": "AI models"
     },
     {
       "jargon": "Automatic analysis",
       "layman": "Computer-based analysis"
     },
     {
-      "jargon": "Training dataset",
-      "layman": "Data for teaching models"
-    },
-    {
       "jargon": "Annotation tools",
-      "layman": "Tools for labeling text"
+      "layman": "Tools for marking text"
     },
     {
-      "jargon": "Web-based tool",
-      "layman": "Online tool"
+      "jargon": "Natural language processing",
+      "layman": "Computer understanding of text"
+    },
+    {
+      "jargon": "Training dataset",
+      "layman": "Sample data for learning"
     }
   ],
   "outcomes": [
     {
       "jargon": "Automated literature review",
-      "layman": "Auto summary of research"
+      "layman": "Auto-summary of research"
     },
     {
       "jargon": "Time reduction",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Efficient information extraction",
-      "layman": "Quick data finding"
+      "layman": "Quick data gathering"
     },
     {
-      "jargon": "Scalable and efficient",
-      "layman": "Works well at large scale"
+      "jargon": "Full-text scientific articles",
+      "layman": "Complete research papers"
     },
     {
-      "jargon": "Improved dataset quality",
-      "layman": "Better labeled data"
+      "jargon": "Scalable and efficient analysis",
+      "layman": "Larger data handled well"
     }
   ]
 }

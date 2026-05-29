@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Geography dissertations",
-      "layman": "Geography research theses"
+      "jargon": "Geographic dissertations",
+      "layman": "Geography research papers"
     },
     {
       "jargon": "Institutional affiliation",
-      "layman": "University or school connection"
+      "layman": "University or school link"
     },
     {
-      "jargon": "Geographical reach",
-      "layman": "How far research spreads"
+      "jargon": "French geography research",
+      "layman": "Geography studies in France"
     },
     {
       "jargon": "Degree production",
       "layman": "Number of degrees awarded"
     },
     {
-      "jargon": "French geography",
-      "layman": "Geography studied in France"
+      "jargon": "Geographical reach",
+      "layman": "How far research spreads"
     }
   ],
   "methodologies": [
+    {
+      "jargon": "Geo-bibliometric mapping",
+      "layman": "Mapping research patterns"
+    },
     {
       "jargon": "Examination of salient characteristics",
       "layman": "Analyzing key features"
     },
     {
-      "jargon": "Mapping",
-      "layman": "Creating visual patterns"
+      "jargon": "Pattern discernment",
+      "layman": "Finding trends"
     },
     {
-      "jargon": "Trend discernment",
-      "layman": "Spotting patterns over time"
+      "jargon": "Data analysis of academic output",
+      "layman": "Looking at research data"
     },
     {
-      "jargon": "Concentration analysis",
-      "layman": "Finding hotspots of activity"
-    },
-    {
-      "jargon": "Literature studies",
-      "layman": "Studying published works"
+      "jargon": "National research traditions",
+      "layman": "Country-specific academic styles"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Strengths and trends",
-      "layman": "Key strengths and patterns"
+      "jargon": "Institutional concentrations",
+      "layman": "Clumps of university activity"
     },
     {
-      "jargon": "Concentrations of activity",
-      "layman": "Clumps of research activity"
+      "jargon": "Research strengths and trends",
+      "layman": "Main strengths and patterns"
     },
     {
-      "jargon": "Research tradition",
-      "layman": "Long-standing academic style"
+      "jargon": "Activity establishment",
+      "layman": "Clear research patterns set"
     },
     {
-      "jargon": "Institutional base",
-      "layman": "Main universities involved"
+      "jargon": "Base of research",
+      "layman": "Core research hub"
     },
     {
-      "jargon": "National research template",
-      "layman": "Model for other countries"
+      "jargon": "Template for other disciplines",
+      "layman": "Model for other fields"
     }
   ]
 }

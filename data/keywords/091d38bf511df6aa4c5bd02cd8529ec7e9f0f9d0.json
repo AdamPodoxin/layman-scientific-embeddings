@@ -5,64 +5,64 @@
       "layman": "New institutionalism"
     },
     {
-      "jargon": "News organizations",
-      "layman": "News companies"
-    },
-    {
-      "jargon": "Journalists",
-      "layman": "News reporters"
+      "jargon": "Journalism",
+      "layman": "News media"
     },
     {
       "jargon": "Political field",
       "layman": "Political environment"
     },
     {
+      "jargon": "News organizations",
+      "layman": "News companies"
+    },
+    {
       "jargon": "Democratic society",
-      "layman": "Free and fair society"
+      "layman": "Democracy"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Embeddedness",
-      "layman": "Being connected to larger systems"
+      "jargon": "Entangled",
+      "layman": "Connected in complex ways"
     },
     {
-      "jargon": "Field theory",
-      "layman": "Study of groups in context"
+      "jargon": "Embodied in broader fields",
+      "layman": "Embedded in larger systems"
     },
     {
-      "jargon": "Ideals of objectivity",
-      "layman": "Goal of fair reporting"
-    },
-    {
-      "jargon": "Organizational practices",
-      "layman": "Daily work routines"
+      "jargon": "Reconceptualization",
+      "layman": "Redefining ideas"
     },
     {
       "jargon": "Historical analysis",
-      "layman": "Looking at past changes"
+      "layman": "Looking at the past"
+    },
+    {
+      "jargon": "Theoretical application",
+      "layman": "Using a theory in a new area"
     }
   ],
   "outcomes": [
     {
       "jargon": "Partisan press",
-      "layman": "Biased news coverage"
+      "layman": "Biased news"
     },
     {
-      "jargon": "Objectivity",
-      "layman": "Fair and neutral reporting"
+      "jargon": "Objective news",
+      "layman": "Fair and balanced news"
+    },
+    {
+      "jargon": "Organizational changes",
+      "layman": "Changes in how newsrooms work"
     },
     {
       "jargon": "Transformations in journalism",
-      "layman": "Major changes in news"
+      "layman": "Major shifts in news practices"
     },
     {
-      "jargon": "Redefined ideals",
-      "layman": "New standards for news"
-    },
-    {
-      "jargon": "Political conflicts",
-      "layman": "Tensions in politics"
+      "jargon": "Democratization of information",
+      "layman": "Greater public access to facts"
     }
   ]
 }

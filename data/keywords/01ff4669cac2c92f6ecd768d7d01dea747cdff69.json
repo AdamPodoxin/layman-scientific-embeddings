@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Thiamin pyrophosphate",
-      "layman": "Thiamin pyrophosphate"
+      "layman": "TPP vitamin compound"
     },
     {
       "jargon": "Pyrimidine ring",
-      "layman": "Ring in the molecule"
+      "layman": "Six-membered ring in TPP"
     },
     {
       "jargon": "Hydrate form",
@@ -18,13 +18,13 @@
     },
     {
       "jargon": "Carbinolamine form",
-      "layman": "Hydroxyl-containing form"
+      "layman": "Alcohol-linked form"
     }
   ],
   "methodologies": [
     {
       "jargon": "Oxidation",
-      "layman": "Adding oxygen to a molecule"
+      "layman": "Adding oxygen to react"
     },
     {
       "jargon": "Ultraviolet spectroscopy",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "1H NMR",
-      "layman": "Hydrogen atom detection"
+      "layman": "Hydrogen signal scan"
     },
     {
       "jargon": "13C NMR",
-      "layman": "Carbon atom detection"
+      "layman": "Carbon signal scan"
     },
     {
       "jargon": "31P NMR",
-      "layman": "Phosphorus atom detection"
+      "layman": "Phosphate signal scan"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Balanced mix of forms"
     },
     {
-      "jargon": "Hydration reaction",
-      "layman": "Water adds to molecule"
+      "jargon": "Temperature-dependent equilibria",
+      "layman": "Change with temperature"
     },
     {
-      "jargon": "Deacetylation",
+      "jargon": "pH-dependent keto form decrease",
+      "layman": "Less keto at higher pH"
+    },
+    {
+      "jargon": "Acetyl deacetylation",
       "layman": "Acetyl group lost"
     },
     {
-      "jargon": "Acetyl transfer",
-      "layman": "Acetyl group moved"
-    },
-    {
-      "jargon": "Kinetic and thermodynamic reactivity",
-      "layman": "How fast and stable reactions are"
+      "jargon": "Acetyl transfer to nucleophiles",
+      "layman": "Acetyl group moves to other molecules"
     }
   ]
 }

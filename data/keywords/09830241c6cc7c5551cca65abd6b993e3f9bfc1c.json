@@ -13,56 +13,56 @@
       "layman": "Blood in urine"
     },
     {
-      "jargon": "Infiltrative tumours",
-      "layman": "Tumors that spread into surrounding tissue"
+      "jargon": "Infiltrative tumors",
+      "layman": "Tumors that spread into tissue"
     },
     {
-      "jargon": "Occupational risk",
-      "layman": "Work-related cancer risk"
+      "jargon": "Occupational risks",
+      "layman": "Job-related dangers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Diagnostic delay",
-      "layman": "Time between symptoms and doctor visit"
+      "layman": "Time before getting tested"
     },
     {
       "jargon": "Treatment initiation delay",
-      "layman": "Time between diagnosis and starting treatment"
+      "layman": "Delay in starting care"
     },
     {
       "jargon": "Clinical case series",
-      "layman": "Group of patient cases studied together"
+      "layman": "Group of patient cases studied"
     },
     {
       "jargon": "Retrospective analysis",
       "layman": "Looking back at patient records"
     },
     {
-      "jargon": "Patient history review",
-      "layman": "Checking patient background like jobs and smoking"
+      "jargon": "Prognosis assessment",
+      "layman": "Evaluating likely outcome"
     }
   ],
   "outcomes": [
     {
       "jargon": "Up to 24% delay in GP visit",
-      "layman": "24% wait over 3 months for doctor"
+      "layman": "Many wait over 3 months for doctor"
     },
     {
       "jargon": "Up to 21% delay in urologist visit",
-      "layman": "21% wait over 3 months for urologist"
+      "layman": "Many wait over 3 months for specialist"
     },
     {
-      "jargon": "Only 38% start treatment in first 3 months",
-      "layman": "Only 38% begin treatment early"
+      "jargon": "Only 38% start treatment within 3 months",
+      "layman": "Most begin treatment too late"
     },
     {
-      "jargon": "Higher rate of infiltrative tumors in under-65s with delay",
-      "layman": "Younger patients with late visits have aggressive tumors"
+      "jargon": "Higher rate of infiltrative tumors in younger patients",
+      "layman": "Younger patients have more aggressive cancer"
     },
     {
-      "jargon": "Smoking and occupational exposure linked to higher incidence",
-      "layman": "Smoking and work history increase cancer risk"
+      "jargon": "Smoking and occupational history linked to bladder cancer",
+      "layman": "Smoking and jobs increase risk"
     }
   ]
 }

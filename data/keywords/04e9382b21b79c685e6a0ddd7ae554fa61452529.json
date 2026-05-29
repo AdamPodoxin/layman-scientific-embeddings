@@ -2,67 +2,58 @@
   "core_entities": [
     {
       "jargon": "Granitic rocks",
-      "layman": "Hard, light-colored rocks"
+      "layman": "Large, light-colored rocks"
     },
     {
       "jargon": "Continental crust",
-      "layman": "Earth's top layer on land"
+      "layman": "Earth's top layer above oceans"
     },
-    {
-      "jargon": "Basaltic rocks",
-      "layman": "Dark rocks from ocean floor"
-    },
-    {
-      "jargon": "Source rock composition",
-      "layman": "Original rock makeup"
-    },
-    {
-      "jargon": "Formation depth",
-      "layman": "How deep rocks formed"
-    }
+    "basaltic rocks",
+    "source rock composition",
+    "formation depth"
   ],
   "methodologies": [
     {
       "jargon": "Sr and Yb contents",
-      "layman": "Levels of two minerals in rock"
-    },
-    {
-      "jargon": "Classification criteria",
-      "layman": "Rules for sorting rocks"
-    },
-    {
-      "jargon": "Geological tracing",
-      "layman": "Mapping rock history"
+      "layman": "Levels of two chemical elements"
     },
     {
       "jargon": "Composition analysis",
       "layman": "Testing rock makeup"
     },
     {
-      "jargon": "Vertical movement tracking",
-      "layman": "Monitoring upward or downward shifts"
+      "jargon": "Stratigraphic correlation",
+      "layman": "Matching rock layers"
+    },
+    {
+      "jargon": "Geological modeling",
+      "layman": "Simulating crust movements"
+    },
+    {
+      "jargon": "Tectonic tracing",
+      "layman": "Following plate movements"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Variation of Sr and Yb",
-      "layman": "Changes in mineral levels"
+      "jargon": "Variation of Sr and Yb contents",
+      "layman": "Changes in element levels"
     },
     {
-      "jargon": "Crust thickness",
-      "layman": "How thick the land layer is"
+      "jargon": "Formation depth indicators",
+      "layman": "Clues about how deep rocks formed"
     },
     {
-      "jargon": "Evolution of tectonics",
-      "layman": "Change in Earth's plate movements"
+      "jargon": "Crust thickness estimation",
+      "layman": "Guessing how thick the crust is"
     },
     {
-      "jargon": "Ancient plateaus",
-      "layman": "Old flat land areas"
+      "jargon": "Ancient plateaus identification",
+      "layman": "Finding old flat highlands"
     },
     {
-      "jargon": "Mountain ranges",
-      "layman": "Long chains of mountains"
+      "jargon": "Mountain range history",
+      "layman": "Tracking past mountain growth"
     }
   ]
 }

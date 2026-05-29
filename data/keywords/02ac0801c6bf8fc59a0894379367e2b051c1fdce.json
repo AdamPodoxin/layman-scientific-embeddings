@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "New-to-market product innovation",
-      "layman": "New product launched in a market"
+      "layman": "New product launched for the first time"
     },
     {
       "jargon": "Firm performance",
-      "layman": "Company success"
+      "layman": "Company's success level"
+    },
+    {
+      "jargon": "Technological spillovers",
+      "layman": "Benefits from other companies' tech"
     },
     {
       "jargon": "Japanese National Innovation Survey",
       "layman": "Japan's company innovation survey"
     },
     {
-      "jargon": "Technological spillovers",
-      "layman": "Tech benefits shared between companies"
-    },
-    {
       "jargon": "Firm-level data",
-      "layman": "Company-specific data"
+      "layman": "Data on individual companies"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Survey of individual companies"
     },
     {
-      "jargon": "Economic impact analysis",
+      "jargon": "Economic impact assessment",
       "layman": "Measuring financial effects"
     },
     {
       "jargon": "Account for spillovers",
-      "layman": "Consider shared tech benefits"
+      "layman": "Consider indirect tech benefits"
     },
     {
-      "jargon": "Data obtained from survey",
-      "layman": "Data collected through questionnaires"
+      "jargon": "Data analysis",
+      "layman": "Looking at data patterns"
     },
     {
-      "jargon": "Examine contribution",
-      "layman": "Check how much something helps"
+      "jargon": "Statistical examination",
+      "layman": "Checking numbers for meaning"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Contributes to firm performance",
+      "jargon": "Contribution to firm performance",
       "layman": "Helps company succeed"
     },
     {
       "jargon": "New insights on product innovation",
-      "layman": "New understanding of product development"
+      "layman": "New understanding of innovation"
     },
     {
-      "jargon": "Innovation activities",
-      "layman": "Company's creative efforts"
+      "jargon": "Extent of innovation impact",
+      "layman": "How much innovation helps"
     },
     {
       "jargon": "Economic impact",
-      "layman": "Financial effect on business"
+      "layman": "Financial benefits"
     },
     {
-      "jargon": "Extent of contribution",
-      "layman": "How much it helps"
+      "jargon": "Innovation contribution",
+      "layman": "Value added by new products"
     }
   ]
 }

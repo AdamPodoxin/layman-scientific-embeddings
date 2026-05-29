@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Sugar Island",
-      "layman": "Island where sugar was produced"
+      "layman": "Island producing sugar"
     },
     {
       "jargon": "Montserrat",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Colonial period",
-      "layman": "Time when European powers ruled colonies"
+      "layman": "Time when European powers colonized lands"
     },
     {
       "jargon": "Spatial distortion",
-      "layman": "Map that is stretched or bent"
+      "layman": "Map distortion in size or shape"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Documentary research",
-      "layman": "Studying old records"
+      "layman": "Reviewing written records"
     },
     {
       "jargon": "Field study",
-      "layman": "On-the-ground research"
-    },
-    {
-      "jargon": "Archaeological field research",
-      "layman": "Digging to find old things"
+      "layman": "On-site research"
     },
     {
       "jargon": "Correcting spatial distortion",
-      "layman": "Fixing map shape errors"
+      "layman": "Fixing map size or shape errors"
+    },
+    {
+      "jargon": "Archaeological field research",
+      "layman": "Digging to find buried history"
     }
   ],
   "outcomes": [
     {
-      "jargon": "High accuracy",
-      "layman": "Very precise measurements"
+      "jargon": "Accurate map",
+      "layman": "Map that shows true details"
     },
     {
       "jargon": "Freeze frame of colonial agency",
-      "layman": "Snapshot of colonial power"
+      "layman": "Snapshot of colonial actions"
     },
     {
-      "jargon": "Reap valuable information",
-      "layman": "Get useful data"
+      "jargon": "Valuable historical data",
+      "layman": "Useful historical facts"
     },
     {
-      "jargon": "Supposed unreliable source",
-      "layman": "Map thought to be inaccurate"
+      "jargon": "Reliable source of information",
+      "layman": "Trusted historical source"
     },
     {
-      "jargon": "Graphic depictions",
-      "layman": "Visual representations"
+      "jargon": "Progress of colonists",
+      "layman": "Colonists' advancements"
     }
   ]
 }

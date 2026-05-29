@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Formal language",
-      "layman": "Structured set of rules for writing or describing things"
+      "layman": "Structured set of rules for symbols"
     },
     {
       "jargon": "Natural computing models",
-      "layman": "Computing methods inspired by nature"
+      "layman": "Computing inspired by nature"
     },
     {
       "jargon": "Biological systems",
-      "layman": "Living systems like cells or organisms"
+      "layman": "Living systems like cells or organs"
     },
     {
       "jargon": "Computational approaches",
-      "layman": "Computer-based ways to solve biology problems"
+      "layman": "Computer-based science methods"
     }
   ],
   "methodologies": [
     {
       "jargon": "Formal language-based approach",
-      "layman": "Using strict rules to model biological processes"
+      "layman": "Using defined rules to model biology"
     },
     {
       "jargon": "Surveys",
-      "layman": "Reviewing existing studies or data"
-    },
-    {
-      "jargon": "Modeling",
-      "layman": "Creating simplified versions of real systems"
+      "layman": "Reviewing existing studies"
     },
     {
       "jargon": "Natural computing models",
-      "layman": "Using nature's processes to solve problems"
+      "layman": "Mimicking nature's problem-solving"
     },
     {
-      "jargon": "Computational approaches",
-      "layman": "Using computers to simulate or analyze biology"
+      "jargon": "Modeling",
+      "layman": "Creating digital simulations"
+    },
+    {
+      "jargon": "Computational analysis",
+      "layman": "Using computers to analyze data"
     }
   ],
   "outcomes": [
     {
       "jargon": "Overview",
-      "layman": "Summary of what's known"
+      "layman": "Summary of current knowledge"
+    },
+    {
+      "jargon": "Approaches",
+      "layman": "Methods used in research"
     },
     {
       "jargon": "Survey",
-      "layman": "Collection of existing findings"
+      "layman": "Collection of existing examples"
     },
     {
-      "jargon": "Approach",
-      "layman": "A method used to solve a problem"
+      "jargon": "Structured analysis",
+      "layman": "Clear breakdown of data"
     },
     {
       "jargon": "Framework",
-      "layman": "A structure for organizing ideas"
-    },
-    {
-      "jargon": "Natural computing models",
-      "layman": "Nature-inspired computing methods"
+      "layman": "A reliable system for studying biology"
     }
   ]
 }

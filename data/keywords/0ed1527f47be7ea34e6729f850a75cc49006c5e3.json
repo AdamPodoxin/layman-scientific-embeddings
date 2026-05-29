@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Organic phosphates",
-      "layman": "Organic phosphates"
+      "layman": "Phosphate-containing organic molecules"
     },
     {
       "jargon": "Hemoglobin",
       "layman": "Blood protein that carries oxygen"
     },
     {
-      "jargon": "Heme-heme interaction energy",
-      "layman": "Energy between heme groups in hemoglobin"
+      "jargon": "Heme",
+      "layman": "Iron-containing part of hemoglobin"
     },
     {
       "jargon": "Tetrameric hemoglobin",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Anions",
-      "layman": "Negatively charged molecules"
+      "layman": "Negatively charged ions"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Binding studies",
-      "layman": "Testing how molecules stick together"
+      "jargon": "Ligand binding",
+      "layman": "Molecule attaching to a protein"
     },
     {
-      "jargon": "Equilibrium analysis",
-      "layman": "Measuring balance between states"
+      "jargon": "Equilibrium",
+      "layman": "Balance between two states"
     },
     {
-      "jargon": "Affinity measurement",
-      "layman": "Measuring how strongly molecules bind"
+      "jargon": "Binding kinetics",
+      "layman": "Speed of molecule attachment"
+    },
+    {
+      "jargon": "Affinity for oxygen",
+      "layman": "How strongly hemoglobin holds oxygen"
     },
     {
       "jargon": "Calculation of interaction energy",
-      "layman": "Estimating energy from molecular interactions"
-    },
-    {
-      "jargon": "Ligand binding",
-      "layman": "Molecules attaching to hemoglobin"
+      "layman": "Estimating energy from interactions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Decreased affinity for oxygen",
-      "layman": "Weaker oxygen binding"
+      "layman": "Less strong oxygen binding"
     },
     {
       "jargon": "Reduced n value",
-      "layman": "Lower binding efficiency"
+      "layman": "Lower efficiency in oxygen binding"
     },
     {
-      "jargon": "About a third to a half of heme-heme energy",
-      "layman": "Half the bonding energy comes from phosphate binding"
+      "jargon": "Heme-heme interaction energy",
+      "layman": "Energy between hemoglobin units"
     },
     {
-      "jargon": "Intermediates bound to oxygen",
-      "layman": "Stable states during oxygen binding"
+      "jargon": "Linked reaction",
+      "layman": "Reaction that involves multiple steps"
     },
     {
-      "jargon": "Smallest meaningful unit of hemoglobin",
-      "layman": "Four-part hemoglobin is minimal for study"
+      "jargon": "Smallest unit for description",
+      "layman": "Basic building block for analysis"
     }
   ]
 }

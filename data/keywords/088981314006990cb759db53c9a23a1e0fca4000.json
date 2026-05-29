@@ -5,42 +5,42 @@
       "layman": "Banking and finance industry"
     },
     {
-      "jargon": "Real sector",
-      "layman": "Productive economy"
+      "jargon": "Production sector",
+      "layman": "Real economy or manufacturing"
     },
     {
       "jargon": "Financial institutions",
-      "layman": "Banks and financial companies"
+      "layman": "Banks and financial firms"
+    },
+    {
+      "jargon": "Innovations",
+      "layman": "New technologies or ideas"
     },
     {
       "jargon": "Productivity gains",
-      "layman": "Increased economic output"
-    },
-    {
-      "jargon": "Knowledge-based firms",
-      "layman": "Firms driven by innovation"
+      "layman": "Increased efficiency in work"
     }
   ],
   "methodologies": [
     {
       "jargon": "Schumpeterian financial leverage",
-      "layman": "Using finance to boost innovation"
+      "layman": "Using finance to drive innovation"
+    },
+    {
+      "jargon": "Knowledge-based perspective",
+      "layman": "Firms relying on knowledge and skills"
     },
     {
       "jargon": "Minsky's tendency towards financial fragility",
-      "layman": "Tendency to become financially unstable"
-    },
-    {
-      "jargon": "Analysis on par with production sector",
-      "layman": "Equal treatment to manufacturing sector"
-    },
-    {
-      "jargon": "Link between knowledge-based operations and financial leverage",
-      "layman": "Connecting innovation to finance"
+      "layman": "System getting more unstable over time"
     },
     {
       "jargon": "Policy recommendations",
       "layman": "Suggested government actions"
+    },
+    {
+      "jargon": "Risk management",
+      "layman": "Managing financial risks"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Risk of financial collapse"
     },
     {
-      "jargon": "Innovation exploitation",
-      "layman": "Using new ideas to grow business"
-    },
-    {
-      "jargon": "Increasing real wages",
-      "layman": "Higher worker pay"
+      "jargon": "Real wages",
+      "layman": "How much workers earn"
     },
     {
       "jargon": "Per capita incomes",
-      "layman": "Average income per person"
+      "layman": "Average household income"
+    },
+    {
+      "jargon": "Exploitation of productivity enhancing innovations",
+      "layman": "Using new ideas to grow output"
     },
     {
       "jargon": "Financial regulation",
-      "layman": "Rules for financial stability"
+      "layman": "Rules for financial systems"
     }
   ]
 }

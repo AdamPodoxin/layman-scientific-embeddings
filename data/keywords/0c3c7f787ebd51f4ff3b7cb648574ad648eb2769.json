@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Homospory",
-      "layman": "Single type of spore"
+      "jargon": "Homosporous pteridophytes",
+      "layman": "Ferns and related plants that produce one type of spore"
     },
     {
-      "jargon": "Heterospory",
-      "layman": "Two types of spores"
+      "jargon": "Heterosporous pteridophytes",
+      "layman": "Plants that produce two types of spores"
     },
     {
-      "jargon": "Pteridophytes",
-      "layman": "Ferns and related plants"
-    },
-    {
-      "jargon": "Seed plants",
-      "layman": "Plants that produce seeds"
+      "jargon": "Sporophyte",
+      "layman": "Diploid plant body that makes spores"
     },
     {
       "jargon": "Gametophyte",
-      "layman": "Haploid plant stage that makes eggs and sperm"
+      "layman": "Haploid plant that makes sperm and eggs"
+    },
+    {
+      "jargon": "Microspores",
+      "layman": "Small spores that become male gametophytes"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Life cycle alternation",
-      "layman": "Switching between plant stages"
-    },
-    {
-      "jargon": "Spore production",
-      "layman": "Making spores from plants"
+      "jargon": "Reproductive biology",
+      "layman": "Study of how plants reproduce"
     },
     {
       "jargon": "Genetic hypothesis testing",
-      "layman": "Testing plant genetics ideas"
+      "layman": "Testing ideas about plant genes"
     },
     {
-      "jargon": "Reproductive biology",
-      "layman": "How plants reproduce"
+      "jargon": "Life cycle analysis",
+      "layman": "Examining how plants go through stages"
     },
     {
-      "jargon": "Fossil record",
-      "layman": "Ancient plant remains"
+      "jargon": "Molecular phylogeny",
+      "layman": "Tracing plant family relationships using genes"
+    },
+    {
+      "jargon": "Comparative genomics",
+      "layman": "Comparing DNA across plant groups"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Diversification burst",
-      "layman": "Rapid plant variety growth"
+      "jargon": "Alternation of generations",
+      "layman": "Plant life cycling between spore and gametophyte stages"
     },
     {
-      "jargon": "Evolutionary potential",
-      "layman": "Ability to evolve over time"
-    },
-    {
-      "jargon": "Genetic complexity",
-      "layman": "Complex plant DNA patterns"
-    },
-    {
-      "jargon": "Sister group",
-      "layman": "Closest plant relatives"
-    },
-    {
-      "jargon": "Uniform spores",
+      "jargon": "Uniform spore production",
       "layman": "All spores are the same size"
+    },
+    {
+      "jargon": "Unisexual gametophytes",
+      "layman": "Gametophytes have only male or female parts"
+    },
+    {
+      "jargon": "Evolutionary stability",
+      "layman": "Long-standing plant reproductive pattern"
+    },
+    {
+      "jargon": "Biodiversity foundation",
+      "layman": "Base for plant variety and diversity"
     }
   ]
 }

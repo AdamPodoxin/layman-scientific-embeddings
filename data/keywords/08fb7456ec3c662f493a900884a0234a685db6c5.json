@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Sartre",
-      "layman": "Modern French philosopher"
+      "layman": "20th century French philosopher"
     },
     {
       "jargon": "Classical philosophers",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Philosophical ideas",
-      "layman": "Core beliefs about life and reality"
+      "layman": "Philosophical thoughts"
     },
     {
       "jargon": "Philosophical argument",
-      "layman": "Reasoned debate between ideas"
+      "layman": "Logical reasoning in philosophy"
     }
   ],
   "methodologies": [
     {
       "jargon": "Selection from writings",
-      "layman": "Picking key texts to study"
+      "layman": "Picking key texts"
     },
     {
       "jargon": "Author's insights",
-      "layman": "Personal interpretations"
+      "layman": "Personal observations"
     },
     {
       "jargon": "Philosophical analysis",
-      "layman": "Breaking down arguments"
+      "layman": "Breaking down ideas"
     },
     {
-      "jargon": "Conceptual comparison",
-      "layman": "Looking at similar ideas across time"
+      "jargon": "Conceptual mapping",
+      "layman": "Connecting ideas"
     },
     {
-      "jargon": "Historical context",
-      "layman": "Understanding the time period behind ideas"
+      "jargon": "Historical tracing",
+      "layman": "Following ideas over time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Ideas from Plato to Sartre",
-      "layman": "A timeline of key beliefs"
+      "layman": "Philosophical ideas across centuries"
+    },
+    {
+      "jargon": "Comprehensive introduction",
+      "layman": "Clear overview"
+    },
+    {
+      "jargon": "Author's observations",
+      "layman": "Personal take on ideas"
+    },
+    {
+      "jargon": "Philosophical development",
+      "layman": "How ideas evolved"
     },
     {
       "jargon": "Philosophical continuity",
       "layman": "Shared themes over time"
-    },
-    {
-      "jargon": "Evolution of thought",
-      "layman": "How ideas changed over time"
-    },
-    {
-      "jargon": "Argument development",
-      "layman": "How debates grew and changed"
-    },
-    {
-      "jargon": "Interpretive framework",
-      "layman": "A way to understand philosophical texts"
     }
   ]
 }

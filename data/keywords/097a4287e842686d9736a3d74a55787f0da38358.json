@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Late Cretaceous intrusions",
-      "layman": "Ancient mountain rock formations"
+      "jargon": "Intrusions",
+      "layman": "Magma pushes into rock"
     },
     {
       "jargon": "Altered rocks",
-      "layman": "Changed rocks"
+      "layman": "Roocked changed by heat or fluids"
     },
     {
       "jargon": "Mineralized rocks",
-      "layman": "Rocks with minerals"
+      "layman": "Rocks with minerals deposited"
+    },
+    {
+      "jargon": "Late Cretaceous",
+      "layman": "Time period millions of years ago"
     },
     {
       "jargon": "Big Belt Mountains",
-      "layman": "Big Belt Mountains"
-    },
-    {
-      "jargon": "Isotopic data",
-      "layman": "Element ratio measurements"
+      "layman": "Mountain range in Montana"
     }
   ],
   "methodologies": [
     {
       "jargon": "Isotopic data",
-      "layman": "Element ratio measurements"
+      "layman": "Measuring atomic fingerprints"
+    },
+    {
+      "jargon": "Geochemical analysis",
+      "layman": "Testing rock chemistry"
     },
     {
       "jargon": "Rock alteration",
-      "layman": "Rock changes over time"
+      "layman": "Rock changing over time"
     },
     {
-      "jargon": "Mineralization process",
-      "layman": "Mineral formation in rocks"
+      "jargon": "Mineral formation",
+      "layman": "Growth of minerals in rock"
     },
     {
-      "jargon": "Geochronological analysis",
-      "layman": "Dating rock layers"
-    },
-    {
-      "jargon": "Geochemical profiling",
-      "layman": "Measuring chemical makeup"
+      "jargon": "Geologic mapping",
+      "layman": "Charting rock layers and features"
     }
   ],
   "outcomes": [
     {
       "jargon": "Isotopic signatures",
-      "layman": "Unique element patterns"
+      "layman": "Unique chemical clues in rocks"
     },
     {
-      "jargon": "Magmatic intrusion timing",
-      "layman": "When magma entered the rocks"
+      "jargon": "Magma source",
+      "layman": "Origin of the hot rock"
     },
     {
       "jargon": "Thermal history",
-      "layman": "Heat changes over time"
+      "layman": "Heat journey of the rocks"
     },
     {
-      "jargon": "Fluid-rock interaction",
-      "layman": "Liquid-rock mixing"
+      "jargon": "Metamorphic grade",
+      "layman": "Degree of rock transformation"
     },
     {
-      "jargon": "Mineral deposit formation",
-      "layman": "Creation of mineral deposits"
+      "jargon": "Fission track dating",
+      "layman": "Age estimation from cracks in minerals"
     }
   ]
 }

@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "A-to-I RNA editing",
-      "layman": "Adenosine-to-inosine RNA changes"
+      "layman": "Adenosine-to-inosine RNA change"
     },
     {
       "jargon": "Metazoan species",
-      "layman": "Complex animals from worms to humans"
+      "layman": "Complex animals like worms and humans"
     },
     {
       "jargon": "Editing sites",
-      "layman": "Specific RNA locations edited"
+      "layman": "RNA locations where editing happens"
     },
     {
       "jargon": "ADAR motif",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Central nervous system",
-      "layman": "Brain and nerves"
+      "layman": "Brain and nervous system"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Clustering and conservation strategies",
-      "layman": "Grouping similar sites and checking over time"
+      "layman": "Grouping and comparing similar edits"
     },
     {
-      "jargon": "Single-nucleotide polymorphism",
-      "layman": "DNA differences between individuals"
-    },
-    {
-      "jargon": "Genome sequencing",
-      "layman": "Reading entire DNA sequence"
+      "jargon": "Single-nucleotide polymorphism information",
+      "layman": "Genetic variation data"
     },
     {
       "jargon": "Spatiotemporal dynamics",
       "layman": "Changes over time and space"
+    },
+    {
+      "jargon": "Evolutionary history",
+      "layman": "How traits changed over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Highly clustered and conserved editing sites",
-      "layman": "Editing sites that stay the same and cluster together"
+      "jargon": "High editing level",
+      "layman": "Strong editing at a site"
     },
     {
-      "jargon": "Higher editing level",
-      "layman": "More editing at a site"
+      "jargon": "Magnitude of ADAR motif",
+      "layman": "Strength of editing pattern"
     },
     {
-      "jargon": "Higher magnitude of ADAR motif",
-      "layman": "Stronger editing pattern signal"
+      "jargon": "Nonsynonymous to synonymous editing ratio",
+      "layman": "Change in protein-causing edits"
     },
     {
-      "jargon": "Increased ratio of nonsynonymous to synonymous editing",
-      "layman": "More changes that affect proteins"
+      "jargon": "Functional benefit",
+      "layman": "Useful biological role"
     },
     {
-      "jargon": "Conserved enrichment in CNS",
-      "layman": "Editing stays strong in brain and nerves over time"
+      "jargon": "Conserved enrichment",
+      "layman": "Stable presence across species"
     }
   ]
 }

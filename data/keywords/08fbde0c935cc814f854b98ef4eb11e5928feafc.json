@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
+      "jargon": "Folate binding protein",
+      "layman": "Protein that binds folate"
+    },
+    {
+      "jargon": "Ligand",
+      "layman": "Molecule that binds to protein"
+    },
+    {
       "jargon": "Hydrogen ion concentration",
       "layman": "Acidity level"
     },
     {
-      "jargon": "Ligand binding protein",
-      "layman": "Protein that binds to molecules"
-    },
-    {
-      "jargon": "Cow's milk folate binding protein",
-      "layman": "Milk protein that binds folate"
-    },
-    {
       "jargon": "Buffer composition",
-      "layman": "Type of chemical solution used"
+      "layman": "Type of solution used"
     },
     {
       "jargon": "Polymerization",
-      "layman": "Protein chains joining together"
+      "layman": "Protein clumping together"
     }
   ],
   "methodologies": [
     {
       "jargon": "Ligand binding",
-      "layman": "Molecule attaching to protein"
+      "layman": "Protein-molecule attachment"
     },
     {
       "jargon": "Aggregation behavior",
-      "layman": "Protein clumping together"
+      "layman": "How proteins group together"
     },
     {
-      "jargon": "pH adjustment",
-      "layman": "Changing acidity or alkalinity"
+      "jargon": "pH measurement",
+      "layman": "Acidity or alkalinity test"
     },
     {
-      "jargon": "Binding affinity",
-      "layman": "How strongly molecules stick"
+      "jargon": "Protein concentration variation",
+      "layman": "Changing protein amount"
     },
     {
       "jargon": "Complex models",
-      "layman": "Mathematical tools to explain behavior"
+      "layman": "Mathematical simulations"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Protein polymerization",
-      "layman": "Protein forms large chains"
+      "jargon": "Polymerization at pH 5.0",
+      "layman": "Clumping happens in acidic conditions"
+    },
+    {
+      "jargon": "No polymerization in acetate",
+      "layman": "No clumping in acetate buffer"
     },
     {
       "jargon": "Weaker binding in acetate",
-      "layman": "Less sticking in acetate"
+      "layman": "Less attachment in acetate"
     },
     {
-      "jargon": "Stronger binding at lower protein concentration",
-      "layman": "Better binding when protein is rare"
+      "jargon": "Increased binding affinity",
+      "layman": "Stronger binding"
     },
     {
-      "jargon": "Polymerization at pH 7.4",
-      "layman": "Clumping happens at higher pH"
-    },
-    {
-      "jargon": "Leveling off at 10\u22126 M",
-      "layman": "Binding stops improving at low concentration"
+      "jargon": "Affinity levels off at 10\u207b\u2076 M",
+      "layman": "Binding stops improving at low protein levels"
     }
   ]
 }

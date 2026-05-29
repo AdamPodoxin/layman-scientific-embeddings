@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Dynamic information flow tracking",
-      "layman": "Tracking of data movement in real time"
-    },
-    {
-      "jargon": "Spurious information flows",
-      "layman": "Unwanted data from unsafe inputs"
-    },
-    {
-      "jargon": "Untrusted I/O",
-      "layman": "Unreliable input and output devices"
+      "layman": "Tracking data flow in real time"
     },
     {
       "jargon": "Malicious software attacks",
-      "layman": "Harmful software attacks"
+      "layman": "Harmful computer viruses"
+    },
+    {
+      "jargon": "Untrusted I/O",
+      "layman": "Unreliable input from devices"
+    },
+    {
+      "jargon": "Spurious information flows",
+      "layman": "Fake data paths"
     },
     {
       "jargon": "Program control",
-      "layman": "Program execution authority"
+      "layman": "Program decision making"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Operating system identification",
-      "layman": "System detects unsafe inputs"
+      "jargon": "Dynamic information flow tracking",
+      "layman": "Real-time data flow monitoring"
     },
     {
       "jargon": "Processor tracking",
-      "layman": "CPU monitors data paths"
+      "layman": "CPU watches data paths"
     },
     {
-      "jargon": "Information flow monitoring",
-      "layman": "Watching how data moves"
+      "jargon": "Identifying input channels",
+      "layman": "Detecting unsafe device inputs"
     },
     {
-      "jargon": "Control transfer checking",
-      "layman": "Verifying if bad code takes over"
+      "jargon": "Checking instruction and pointer usage",
+      "layman": "Verifying if data controls program actions"
     },
     {
-      "jargon": "Memory overhead management",
-      "layman": "Controlling memory use"
+      "jargon": "Transparent protection",
+      "layman": "Security without changes to software"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Performance overhead of 1.1%",
-      "layman": "Minimal slowdown"
+      "jargon": "Effective defense against attacks",
+      "layman": "Blocks harmful software"
     },
     {
-      "jargon": "Memory overhead of 1.4%",
-      "layman": "Small memory use increase"
+      "jargon": "Negligible performance overhead",
+      "layman": "Doesn't slow computers much"
     },
     {
-      "jargon": "Attack effectiveness",
-      "layman": "Many attacks blocked"
+      "jargon": "1.4% memory overhead",
+      "layman": "Uses slightly more memory"
     },
     {
-      "jargon": "Transparent protection",
-      "layman": "No changes needed for users"
+      "jargon": "1.1% performance overhead",
+      "layman": "Runs almost as fast as normal"
     },
     {
-      "jargon": "No executable modification",
-      "layman": "Apps work as before"
+      "jargon": "Protection without code changes",
+      "layman": "Works without touching programs"
     }
   ]
 }

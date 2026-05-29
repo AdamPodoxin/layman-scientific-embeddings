@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Discrete subgroup",
-      "layman": "Group with regular, spaced patterns"
+      "layman": "Group with regular, repeating structure"
     },
     {
       "jargon": "Fuchsian group",
-      "layman": "Group that acts on hyperbolic space"
+      "layman": "Group that acts on curving surfaces"
     },
     {
       "jargon": "Hyperbolic geometry",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Symbolic computation",
-      "layman": "Mathematical manipulation without numbers"
+      "layman": "Mathematical calculations with symbols"
     },
     {
       "jargon": "Proof techniques",
-      "layman": "Logical steps to show something is true"
+      "layman": "Mathematical reasoning methods"
     },
     {
-      "jargon": "Algorithm",
-      "layman": "Step-by-step procedure"
+      "jargon": "Discreteness algorithm",
+      "layman": "Tool to check if a group is structured"
     },
     {
-      "jargon": "Discreteness test",
-      "layman": "Check if a group has regular structure"
+      "jargon": "Hyperbolic geometry techniques",
+      "layman": "Methods from curved space math"
     }
   ],
   "outcomes": [
     {
       "jargon": "Polynomial bound",
-      "layman": "Calculation grows slowly"
+      "layman": "A predictable growth limit"
+    },
+    {
+      "jargon": "Algebraic algorithm",
+      "layman": "Math tool for symbolic operations"
     },
     {
       "jargon": "Existence of bound",
-      "layman": "A limit on how long it takes"
+      "layman": "A clear limit exists"
     },
     {
-      "jargon": "Discrete or not",
-      "layman": "Whether the group is structured or not"
+      "jargon": "Discrete determination",
+      "layman": "Can tell if group is structured"
     },
     {
-      "jargon": "Fuchsian determination",
-      "layman": "Whether it acts like a Fuchsian group"
-    },
-    {
-      "jargon": "Hyperbolic geometry techniques",
-      "layman": "Using curved space rules"
+      "jargon": "Fuchsian classification",
+      "layman": "Categorizing groups by shape behavior"
     }
   ]
 }

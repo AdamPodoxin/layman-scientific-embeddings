@@ -5,8 +5,8 @@
       "layman": "Old software systems"
     },
     {
-      "jargon": "COBOL",
-      "layman": "Old programming language"
+      "jargon": "COBOL systems",
+      "layman": "Old programs written in COBOL"
     },
     {
       "jargon": "Type information",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Program understanding tools",
-      "layman": "Tools to read code"
+      "layman": "Tools to read and interpret code"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Hypertext-based program understanding",
-      "layman": "Web-like navigation of code"
-    },
     {
       "jargon": "Inferred type information",
       "layman": "Guessing data types from code"
     },
     {
-      "jargon": "TypeXPLORER",
-      "layman": "Tool for browsing old code"
+      "jargon": "Hypertext-based navigation",
+      "layman": "Linking code sections like web pages"
     },
     {
-      "jargon": "Software re-engineering",
-      "layman": "Rewriting old software"
+      "jargon": "TypeXplorer tool",
+      "layman": "Tool for browsing code by types"
     },
     {
-      "jargon": "Browsing individual statements",
-      "layman": "Examining single lines of code"
+      "jargon": "Re-engineering",
+      "layman": "Rewriting or updating old software"
+    },
+    {
+      "jargon": "Code browsing",
+      "layman": "Exploring software line by line"
     }
   ],
   "outcomes": [
     {
       "jargon": "New levels of abstraction",
-      "layman": "Simpler, higher-level views"
+      "layman": "Higher-level code views"
+    },
+    {
+      "jargon": "Individual statements understanding",
+      "layman": "Understanding single code lines"
+    },
+    {
+      "jargon": "Software architecture understanding",
+      "layman": "Seeing how software is connected"
+    },
+    {
+      "jargon": "100,000 lines of code",
+      "layman": "Large codebase studied"
     },
     {
       "jargon": "Meaningful presentation of types",
-      "layman": "Clear display of data types"
-    },
-    {
-      "jargon": "Understanding at statement level",
-      "layman": "Seeing how code works line by line"
-    },
-    {
-      "jargon": "Understanding at architecture level",
-      "layman": "Seeing how software is built"
-    },
-    {
-      "jargon": "100,000 lines of code system",
-      "layman": "Large industrial software system"
+      "layman": "Types shown clearly to users"
     }
   ]
 }

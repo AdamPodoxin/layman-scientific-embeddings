@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Marine mammals",
-      "layman": "Sea animals that breathe air"
+      "layman": "Sea animals like whales and seals"
     },
     {
       "jargon": "Paraphyletic group",
-      "layman": "Group of species not fully related"
-    },
-    {
-      "jargon": "Environmental changes",
-      "layman": "Changes in climate or nature"
-    },
-    {
-      "jargon": "Anthropogenic impacts",
-      "layman": "Human-caused damage"
+      "layman": "Group of species not all sharing a common ancestor"
     },
     {
       "jargon": "Abundance",
-      "layman": "How many there are"
+      "layman": "How many are present"
+    },
+    {
+      "jargon": "Distribution",
+      "layman": "Where they are found"
+    },
+    {
+      "jargon": "Anthropogenic impacts",
+      "layman": "Human-caused changes"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Molecular ecology",
-      "layman": "Studying genes in nature"
-    },
-    {
-      "jargon": "Current distribution",
-      "layman": "Where they are now"
+      "jargon": "Current abundance and distribution",
+      "layman": "Measuring how many and where they live now"
     },
     {
       "jargon": "Past environmental changes",
-      "layman": "Old climate shifts"
+      "layman": "Older climate and sea changes"
     },
     {
-      "jargon": "Anthropogenic impacts",
-      "layman": "Human-caused damage"
+      "jargon": "Environmental monitoring",
+      "layman": "Tracking environment over time"
     },
     {
-      "jargon": "Abundance patterns",
-      "layman": "How numbers change over time"
+      "jargon": "Species distribution modeling",
+      "layman": "Mapping where species live"
+    },
+    {
+      "jargon": "Ecological footprint analysis",
+      "layman": "Measuring human impact on nature"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Current abundance",
-      "layman": "How many today"
-    },
-    {
-      "jargon": "Distribution patterns",
-      "layman": "Where they live now"
-    },
-    {
       "jargon": "Past environmental changes",
-      "layman": "Old climate shifts"
+      "layman": "Climate shifts in the past"
     },
     {
       "jargon": "Anthropogenic impacts",
-      "layman": "Human-caused damage"
+      "layman": "Human-made damage"
     },
     {
-      "jargon": "Shaped by",
-      "layman": "Influenced by"
+      "jargon": "Current abundance",
+      "layman": "Current numbers of species"
+    },
+    {
+      "jargon": "Distribution patterns",
+      "layman": "Where species are clustered"
+    },
+    {
+      "jargon": "Shaped by past changes",
+      "layman": "Influenced by old environmental events"
     }
   ]
 }

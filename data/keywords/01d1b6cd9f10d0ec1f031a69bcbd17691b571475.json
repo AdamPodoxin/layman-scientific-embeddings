@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Economically privileged pole",
-      "layman": "Women with high income and wealth"
+      "jargon": "Economic diversity",
+      "layman": "Variety in women's finances"
     },
     {
-      "jargon": "Labour market experiences",
-      "layman": "Women's work experiences"
+      "jargon": "Women's pay",
+      "layman": "Women's earnings"
+    },
+    {
+      "jargon": "Pensions",
+      "layman": "Retirement savings"
+    },
+    {
+      "jargon": "Wealth",
+      "layman": "Money and assets"
     },
     {
       "jargon": "Occupational patterns",
-      "layman": "Types of jobs women hold"
-    },
-    {
-      "jargon": "Wage disparities",
-      "layman": "Pay differences between groups"
-    },
-    {
-      "jargon": "Pension positions",
-      "layman": "Women's retirement savings status"
+      "layman": "Jobs people hold"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Data analysis",
-      "layman": "Looking at patterns in data"
+      "layman": "Looking at data patterns"
     },
     {
-      "jargon": "Cross-cutting social divisions",
-      "layman": "Looking at class, race, and other factors"
+      "jargon": "Cross-cutting divisions",
+      "layman": "Looking at overlaps in gender, class, race"
     },
     {
-      "jargon": "Statistical modeling",
-      "layman": "Using math to find patterns"
+      "jargon": "Labor market experiences",
+      "layman": "How people work and earn"
     },
     {
-      "jargon": "Explanatory variable",
-      "layman": "Factor that helps explain outcomes"
+      "jargon": "Statistical evaluation",
+      "layman": "Checking for significant trends"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Polarization in women's labour market experiences",
-      "layman": "Women's work outcomes are splitting apart"
+      "jargon": "Polarization in women's labor market",
+      "layman": "Split in women's job and pay outcomes"
     },
     {
-      "jargon": "Decline in power of gender",
-      "layman": "Gender explains less of the differences"
+      "jargon": "Privileged pole",
+      "layman": "Top group of women doing better financially"
     },
     {
-      "jargon": "Economic diversity amongst women",
-      "layman": "Women have different economic paths"
-    },
-    {
-      "jargon": "Substantially better wages",
-      "layman": "Higher pay for some women"
+      "jargon": "Decline in gender's explanatory power",
+      "layman": "Gender less explains pay differences"
     },
     {
       "jargon": "Economic security",
-      "layman": "Financial stability in later life"
+      "layman": "Financial stability"
+    },
+    {
+      "jargon": "Pension positions of women",
+      "layman": "Women's retirement benefits"
     }
   ]
 }

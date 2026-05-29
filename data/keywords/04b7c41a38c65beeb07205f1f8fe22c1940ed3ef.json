@@ -1,34 +1,34 @@
 {
   "core_entities": [
     {
-      "jargon": "SO4\u2212",
-      "layman": "Sulfate radical"
-    },
-    {
-      "jargon": "OH",
-      "layman": "Hydroxyl radical"
+      "jargon": "SO42-",
+      "layman": "Sulfate ion"
     },
     {
       "jargon": "Iron oxide",
       "layman": "Iron-based mineral"
     },
     {
-      "jargon": "Refractory contaminants",
-      "layman": "Hard-to-break pollutants"
+      "jargon": "OH radical",
+      "layman": "Hydroxyl radical"
     },
     {
       "jargon": "Phenol",
-      "layman": "Model pollutant"
+      "layman": "Common pollutant"
+    },
+    {
+      "jargon": "Fe\u03b4+",
+      "layman": "Partially charged iron"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Radical transfer",
-      "layman": "Transfer of reactive species"
-    },
-    {
       "jargon": "Surface functionalization",
       "layman": "Attaching molecules to surface"
+    },
+    {
+      "jargon": "Radical transfer",
+      "layman": "Transfer of reactive particles"
     },
     {
       "jargon": "Thermal treatment",
@@ -39,30 +39,30 @@
       "layman": "Measuring reaction speed"
     },
     {
-      "jargon": "Energetics comparison",
-      "layman": "Energy analysis of reactions"
+      "jargon": "Electrochemical activation",
+      "layman": "Using electric potential to trigger reactions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Surface SO4\u2212 species",
-      "layman": "Active sulfate radicals on surface"
+      "jargon": "Recalcitrant contaminants",
+      "layman": "Hard-to-break-down pollutants"
     },
     {
-      "jargon": "Recyclability",
-      "layman": "Can be reused"
+      "jargon": "Surface SO4\u2212 species",
+      "layman": "Stable sulfate radicals on surface"
     },
     {
       "jargon": "High activity",
       "layman": "Strong pollutant breakdown"
     },
     {
-      "jargon": "Optimized temperature",
-      "layman": "Best heating level found"
+      "jargon": "Excellent recyclability",
+      "layman": "Can be reused many times"
     },
     {
-      "jargon": "Long-term stability",
-      "layman": "Stays active over time"
+      "jargon": "Optimized temperature",
+      "layman": "Best heating condition"
     }
   ]
 }

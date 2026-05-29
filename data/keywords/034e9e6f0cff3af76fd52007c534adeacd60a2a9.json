@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Hayden White",
-      "layman": "Hayden White"
-    },
-    {
-      "jargon": "Historians",
-      "layman": "People who write history"
+      "layman": "Historian"
     },
     {
       "jargon": "Historical data",
-      "layman": "Records of past events"
+      "layman": "Past events recorded"
+    },
+    {
+      "jargon": "Historical structures",
+      "layman": "Patterns in history"
     },
     {
       "jargon": "Philosophy of history",
-      "layman": "How history is understood as a discipline"
+      "layman": "How history is understood"
     },
     {
-      "jargon": "Structures",
-      "layman": "Patterns or frameworks"
+      "jargon": "Recorded histories",
+      "layman": "Written accounts of the past"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Systematic review",
-      "layman": "Careful, organized analysis"
+      "jargon": "Systematic treatment",
+      "layman": "Organized analysis"
     },
     {
-      "jargon": "Philosophical analysis",
-      "layman": "Thinking deeply about ideas"
+      "jargon": "Critical evaluation",
+      "layman": "Careful examination"
     },
     {
-      "jargon": "Unifying vision",
-      "layman": "Single clear explanation"
+      "jargon": "Unified vision",
+      "layman": "Single clear understanding"
     },
     {
-      "jargon": "Critical engagement",
-      "layman": "Careful and thoughtful discussion"
+      "jargon": "Philosophical argument",
+      "layman": "Logical reasoning about ideas"
     },
     {
-      "jargon": "Scholarly fashion",
-      "layman": "Academic and careful approach"
+      "jargon": "Interpretive framework",
+      "layman": "Way of reading or interpreting"
     }
   ],
   "outcomes": [
     {
       "jargon": "Freedom of choice",
-      "layman": "Ability to make decisions"
+      "layman": "Ability to decide"
     },
     {
-      "jargon": "Responsibility for structures",
-      "layman": "Being held accountable for patterns"
+      "jargon": "Structural responsibility",
+      "layman": "Accountability for patterns"
     },
     {
-      "jargon": "Plasticity in history writing",
-      "layman": "Flexibility in how history is told"
+      "jargon": "Plasticity in histories",
+      "layman": "Flexibility in how stories are told"
     },
     {
-      "jargon": "Guiding theme",
-      "layman": "Main idea throughout the work"
+      "jargon": "Brouhahas",
+      "layman": "Fierce debates"
     },
     {
-      "jargon": "Philosophical question",
-      "layman": "A deep, thought-provoking question"
+      "jargon": "Scholarly fashion",
+      "layman": "Carefully researched approach"
     }
   ]
 }

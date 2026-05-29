@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Semicrystalline polymers",
-      "layman": "Polymers with both ordered and disordered parts"
+      "jargon": "crystallinity",
+      "layman": "ordered molecular structure"
     },
     {
-      "jargon": "Crystallinity",
-      "layman": "Degree of ordered structure in material"
+      "jargon": "polymer surface",
+      "layman": "top layer of plastic"
     },
     {
-      "jargon": "Crystal orientation",
-      "layman": "Direction of crystal alignment"
+      "jargon": "semicrystalline polymers",
+      "layman": "plastics with both ordered and disordered parts"
     },
     {
-      "jargon": "Polymer surface",
-      "layman": "Top layer of polymer material"
+      "jargon": "bulk of material",
+      "layman": "middle part of the material"
     },
     {
-      "jargon": "Vinylidene fluoride\u2013tetrafluoroethylene copolymer",
-      "layman": "Special plastic blend"
+      "jargon": "vinylidene fluoride\u2013tetrafluoroethylene copolymer",
+      "layman": "special type of fluoropolymer"
     }
   ],
   "methodologies": [
     {
       "jargon": "X-ray diffraction",
-      "layman": "Using X-rays to see internal structure"
+      "layman": "using X-rays to see internal structure"
     },
     {
-      "jargon": "Quenching",
-      "layman": "Rapid cooling to stop crystallization"
+      "jargon": "quenching",
+      "layman": "rapid cooling to stop crystallization"
     },
     {
-      "jargon": "Reflection or transmission X-ray setup",
+      "jargon": "reflection or transmission X-ray setup",
       "layman": "X-ray setup that bounces or passes through material"
     },
     {
-      "jargon": "Slit width adjustment",
-      "layman": "Changing X-ray beam size"
+      "jargon": "slit width adjustment",
+      "layman": "controlling X-ray beam size"
     },
     {
-      "jargon": "Linear material absorption coefficient",
-      "layman": "How much X-ray energy material absorbs"
+      "jargon": "linear material absorption coefficient",
+      "layman": "how much X-ray light is absorbed by material"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Changes in crystallinity as a function of depth",
-      "layman": "Crystallinity changes with depth"
+      "jargon": "degree of crystallinity as a function of depth",
+      "layman": "crystallinity changes with depth"
     },
     {
-      "jargon": "Material heterogeneity",
-      "layman": "Material varies with depth"
+      "jargon": "material heterogeneity",
+      "layman": "uniformity differences in material layers"
     },
     {
-      "jargon": "Increase in crystallinity",
-      "layman": "More order in material"
+      "jargon": "increase in crystallinity",
+      "layman": "more ordered structure forms"
     },
     {
-      "jargon": "Negligible crystallinity",
-      "layman": "Almost no order"
+      "jargon": "crystallization near surface",
+      "layman": "crystals form close to the surface"
     },
     {
-      "jargon": "Bulk value",
-      "layman": "Full material's normal state"
+      "jargon": "asymmetric crystallization",
+      "layman": "crystallization differs on one side only"
     }
   ]
 }

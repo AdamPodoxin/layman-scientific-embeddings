@@ -6,63 +6,63 @@
     },
     {
       "jargon": "MI-algebras",
-      "layman": "Mathematical structures for fuzzy arithmetic"
-    },
-    {
-      "jargon": "Mathematical morphology",
-      "layman": "Shape-based image analysis"
-    },
-    {
-      "jargon": "Real vectors",
-      "layman": "Sets of numbers representing directions or values"
+      "layman": "Mathematical structure for fuzzy arithmetic"
     },
     {
       "jargon": "Fuzzy numbers",
-      "layman": "Numbers with uncertain or blurred values"
+      "layman": "Uncertain numbers with ranges"
+    },
+    {
+      "jargon": "Real vectors",
+      "layman": "Sets of real numbers used in math"
+    },
+    {
+      "jargon": "Mathematical morphology",
+      "layman": "Mathematical tool for shape analysis"
     }
   ],
   "methodologies": [
     {
       "jargon": "Arithmetic framework",
-      "layman": "Math rules for fuzzy numbers"
+      "layman": "System for doing math operations"
     },
     {
       "jargon": "Abstracting",
-      "layman": "Simplifying complex math into rules"
+      "layman": "Simplifying to a general model"
     },
     {
-      "jargon": "Algebraic framework",
-      "layman": "Mathematical structure for operations"
+      "jargon": "Developing a theory",
+      "layman": "Building a set of rules and principles"
     },
     {
-      "jargon": "Developing theory",
-      "layman": "Building a mathematical explanation"
+      "jargon": "Studying structures",
+      "layman": "Examining mathematical patterns"
     },
     {
-      "jargon": "Studying general properties",
-      "layman": "Examining common behaviors in math systems"
+      "jargon": "Generalizing sets",
+      "layman": "Applying rules to broader cases"
     }
   ],
   "outcomes": [
     {
       "jargon": "Standard algebras",
-      "layman": "Common math systems that don't fit fuzzy cases"
+      "layman": "Common math systems"
     },
     {
       "jargon": "General properties",
-      "layman": "Shared rules across different systems"
-    },
-    {
-      "jargon": "Framework for arithmetics",
-      "layman": "Math system that works for multiple types of numbers"
+      "layman": "Broad rules that apply widely"
     },
     {
       "jargon": "Appropriate structures",
-      "layman": "Math systems that fit real-world fuzzy data"
+      "layman": "Good-fit mathematical models"
     },
     {
-      "jargon": "Non-appropriate algebras",
-      "layman": "Math systems that don't work well for fuzzy data"
+      "jargon": "Arithmetic of fuzzy numbers",
+      "layman": "Doing math with uncertain values"
+    },
+    {
+      "jargon": "Framework for math morphology",
+      "layman": "Tool for shape-based math operations"
     }
   ]
 }

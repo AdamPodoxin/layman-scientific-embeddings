@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Statefinders",
-      "layman": "Cosmic state indicators"
-    },
-    {
       "jargon": "Deceleration parameter",
-      "layman": "Rate of universe slowing down"
+      "layman": "Rate of universe's slowdown"
     },
     {
       "jargon": "Jerk",
-      "layman": "Change in acceleration of the universe"
+      "layman": "Rate of change in acceleration"
     },
     {
       "jargon": "Kerk (snap)",
-      "layman": "Change in jerk of the universe"
+      "layman": "Rate of change in jerk"
     },
     {
-      "jargon": "Sudden future singularities",
-      "layman": "Unexpected infinite pressure in the future"
+      "jargon": "Scale factor",
+      "layman": "Size of the universe over time"
+    },
+    {
+      "jargon": "Future singularity",
+      "layman": "Point where universe's laws break down"
     }
   ],
   "methodologies": [
     {
       "jargon": "Friedmann cosmology",
-      "layman": "Model of the expanding universe"
+      "layman": "Model of universe expansion"
     },
     {
-      "jargon": "Higher-order derivatives of scale factor",
-      "layman": "Rates of change in cosmic expansion"
+      "jargon": "Higher-order derivatives",
+      "layman": "Successive rates of change"
     },
     {
       "jargon": "Energy conditions",
       "layman": "Rules for energy and pressure in space"
     },
     {
-      "jargon": "Time derivatives of energy density",
-      "layman": "How energy changes over time"
+      "jargon": "Observational parameters",
+      "layman": "Measurements from the universe"
     },
     {
-      "jargon": "Higher-order energy conditions",
-      "layman": "Advanced rules for energy behavior"
+      "jargon": "Time derivatives",
+      "layman": "How values change over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Finite energy density with infinite pressure",
-      "layman": "High pressure but normal energy"
+      "jargon": "Sudden future singularities",
+      "layman": "Abrupt collapse of universe physics"
     },
     {
-      "jargon": "Pressure singularity",
-      "layman": "Pressure becomes infinite"
+      "jargon": "Finite energy density",
+      "layman": "Energy stays within limits"
     },
     {
-      "jargon": "Observational parameters",
-      "layman": "Measurable cosmic data"
+      "jargon": "Pressure with finite energy density",
+      "layman": "Large pressure but no infinite energy"
     },
     {
-      "jargon": "Future cosmic evolution",
-      "layman": "How the universe will change in the future"
+      "jargon": "Higher-order energy conditions",
+      "layman": "New rules for energy in extreme cases"
     },
     {
-      "jargon": "Singularity development",
-      "layman": "Unexpected endpoint in cosmic expansion"
+      "jargon": "Statefinders",
+      "layman": "Tools to track cosmic evolution"
     }
   ]
 }

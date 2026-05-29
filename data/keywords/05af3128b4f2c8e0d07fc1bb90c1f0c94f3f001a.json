@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Electric powertrain",
-      "layman": "Electric vehicle engine system"
+      "layman": "Electric propulsion system"
     },
     {
       "jargon": "Virtual research lab",
-      "layman": "Online lab shared by researchers"
+      "layman": "Online lab community"
     },
     {
       "jargon": "Component level components",
-      "layman": "Small parts in a system"
+      "layman": "Small system parts"
     },
     {
       "jargon": "Sub-system level components",
-      "layman": "Groups of small parts working together"
+      "layman": "Grouped system parts"
     },
     {
       "jargon": "System level components",
-      "layman": "Full vehicle power system"
+      "layman": "Complete system parts"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Model exchange and simulation",
-      "layman": "Running models together to test"
-    },
-    {
-      "jargon": "Multi-disciplinary design",
-      "layman": "Using many fields to design"
+      "layman": "Sharing and testing models"
     },
     {
       "jargon": "Control engineering",
-      "layman": "Managing system behavior"
+      "layman": "System control design"
     },
     {
       "jargon": "Safety engineering",
-      "layman": "Ensuring no harm during operation"
+      "layman": "Safety system design"
+    },
+    {
+      "jargon": "Physics and mathematics modeling",
+      "layman": "Using math and laws to simulate"
     }
   ],
   "outcomes": [
     {
       "jargon": "High performance",
-      "layman": "Fast and efficient"
+      "layman": "Good performance"
     },
     {
       "jargon": "Low cost",
-      "layman": "Affordable"
+      "layman": "Cheap to produce"
     },
     {
-      "jargon": "Clean propulsion",
-      "layman": "Eco-friendly power"
+      "jargon": "Clean propulsion systems",
+      "layman": "Eco-friendly engines"
     },
     {
-      "jargon": "Knowledge sharing",
-      "layman": "Sharing expert knowledge"
+      "jargon": "Open know-how",
+      "layman": "Shared knowledge"
     },
     {
-      "jargon": "Open access to know-how",
-      "layman": "Free access to skills and tools"
+      "jargon": "Research achievements",
+      "layman": "Project successes"
     }
   ]
 }

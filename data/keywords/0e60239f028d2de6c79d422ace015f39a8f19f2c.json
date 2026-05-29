@@ -5,64 +5,64 @@
       "layman": "Study of mind through science"
     },
     {
-      "jargon": "Goncalves de Magalhaes",
-      "layman": "Brazilian philosopher"
+      "jargon": "Philosophical modernization",
+      "layman": "Updating philosophy to modern ideas"
     },
     {
-      "jargon": "Tobias Barreto",
-      "layman": "Brazilian philosopher"
+      "jargon": "Jesuit Psychology",
+      "layman": "Religious-based mental studies"
+    },
+    {
+      "jargon": "Naturalism in Psychology",
+      "layman": "View of mind as part of nature"
     },
     {
       "jargon": "Self-consciousness",
-      "layman": "Awareness of oneself"
-    },
-    {
-      "jargon": "Naturalism",
-      "layman": "Belief that only natural causes exist"
+      "layman": "Awareness of one's own thoughts"
     }
   ],
   "methodologies": [
     {
       "jargon": "Philosophical critique",
-      "layman": "Critical analysis of ideas"
-    },
-    {
-      "jargon": "Philosophical modernization",
-      "layman": "Updating old philosophical ideas"
+      "layman": "Criticism of ideas through philosophy"
     },
     {
       "jargon": "Textual analysis",
       "layman": "Studying written works"
     },
     {
-      "jargon": "Critical opposition",
-      "layman": "Challenging existing views"
+      "jargon": "Intellectual opposition",
+      "layman": "Challenging existing ideas"
     },
     {
-      "jargon": "Western Philosophy",
-      "layman": "European philosophical traditions"
+      "jargon": "Historical context",
+      "layman": "Understanding past circumstances"
+    },
+    {
+      "jargon": "Philosophical engagement",
+      "layman": "Deep discussion between ideas"
     }
   ],
   "outcomes": [
     {
       "jargon": "Opposition to positive trend",
-      "layman": "Challenging popular views"
+      "layman": "Rejecting a growing influence"
     },
     {
       "jargon": "Overcoming contemplative character",
-      "layman": "Moving beyond reflective thinking"
-    },
-    {
-      "jargon": "Philosophical modernization in Brazil",
-      "layman": "Modernizing Brazilian thought"
+      "layman": "Moving beyond quiet reflection"
     },
     {
       "jargon": "Recognition of naturalism",
-      "layman": "Accepting natural causes in mind"
+      "layman": "Accepting mind as part of nature"
     },
     {
       "jargon": "Entry into Western Philosophy",
-      "layman": "Joining mainstream European ideas"
+      "layman": "Becoming part of global thinking"
+    },
+    {
+      "jargon": "Philosophical significance",
+      "layman": "Important contribution to thought"
     }
   ]
 }

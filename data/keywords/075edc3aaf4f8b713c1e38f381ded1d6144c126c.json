@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Resource misallocation",
-      "layman": "Wasted or misused resources"
+      "layman": "Wasteful distribution of resources"
     },
     {
       "jargon": "Aggregate productivity",
       "layman": "Overall economic efficiency"
     },
     {
-      "jargon": "Stock market prices",
-      "layman": "Stock prices"
+      "jargon": "Firm-level production",
+      "layman": "Individual company output"
     },
     {
-      "jargon": "Firm-level production data",
-      "layman": "Company-level output data"
+      "jargon": "Stock market prices",
+      "layman": "Market-based prices for companies"
     }
   ],
   "methodologies": [
     {
       "jargon": "Calibration strategy",
-      "layman": "Tuning model to real data"
+      "layman": "Adjusting model to match real data"
     },
     {
       "jargon": "Private learning",
-      "layman": "Learning from internal sources"
+      "layman": "Firms learning from internal data"
     },
     {
       "jargon": "Financial market learning",
-      "layman": "Learning from stock prices"
+      "layman": "Firms learning from stock prices"
     },
     {
       "jargon": "Data combination",
-      "layman": "Merging different data sets"
+      "layman": "Using multiple data sources together"
     },
     {
-      "jargon": "Econometric modeling",
-      "layman": "Statistical economic modeling"
+      "jargon": "Economic modeling",
+      "layman": "Building a simplified economy simulation"
     }
   ],
   "outcomes": [
     {
       "jargon": "Productivity losses",
-      "layman": "Lost efficiency"
+      "layman": "Lost efficiency in production"
     },
     {
       "jargon": "Output losses",
-      "layman": "Lost production"
+      "layman": "Lost economic output"
     },
     {
       "jargon": "5-19% productivity loss",
-      "layman": "5-19% efficiency drop"
+      "layman": "Major efficiency drop"
     },
     {
       "jargon": "8-28% output loss",
-      "layman": "8-28% production drop"
+      "layman": "Large economic loss"
     },
     {
       "jargon": "Smaller losses in US",
-      "layman": "Less loss in US"
+      "layman": "Less impact in the US"
     }
   ]
 }

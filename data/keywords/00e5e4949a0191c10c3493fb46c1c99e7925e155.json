@@ -5,64 +5,64 @@
       "layman": "Map making"
     },
     {
-      "jargon": "Geographic information",
-      "layman": "Location data"
+      "jargon": "Geographic data",
+      "layman": "Locations and spatial information"
     },
     {
-      "jargon": "Topographic features",
-      "layman": "Landforms and elevations"
+      "jargon": "Topographic maps",
+      "layman": "Maps showing terrain elevation"
     },
     {
-      "jargon": "Scale",
-      "layman": "Map size ratio"
+      "jargon": "Cartographic symbols",
+      "layman": "Map signs and icons"
     },
     {
-      "jargon": "Projection",
-      "layman": "Map shape transformation"
+      "jargon": "Spatial representation",
+      "layman": "How places are shown on maps"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Cartographic representation",
-      "layman": "Creating map visuals"
+      "jargon": "Map projections",
+      "layman": "Turning Earth's curve into flat maps"
+    },
+    {
+      "jargon": "Georeferencing",
+      "layman": "Aligning maps to real-world locations"
+    },
+    {
+      "jargon": "Boundary drawing",
+      "layman": "Drawing borders on maps"
+    },
+    {
+      "jargon": "Data collection methods",
+      "layman": "Gathering information for maps"
     },
     {
       "jargon": "Spatial analysis",
-      "layman": "Analyzing location patterns"
-    },
-    {
-      "jargon": "Map generalization",
-      "layman": "Simplifying map details"
-    },
-    {
-      "jargon": "Data collection",
-      "layman": "Gathering location facts"
-    },
-    {
-      "jargon": "Symbolization",
-      "layman": "Using symbols on maps"
+      "layman": "Analyzing patterns on maps"
     }
   ],
   "outcomes": [
     {
       "jargon": "Improved spatial understanding",
-      "layman": "Better grasp of locations"
+      "layman": "Better sense of where things are"
     },
     {
-      "jargon": "Accurate geographic representation",
-      "layman": "Correct map showing"
+      "jargon": "Enhanced navigation",
+      "layman": "Easier way to find places"
     },
     {
-      "jargon": "Enhanced decision-making",
-      "layman": "Better choices based on maps"
+      "jargon": "Societal application",
+      "layman": "Use in daily life and planning"
     },
     {
       "jargon": "Public accessibility",
       "layman": "Maps available to everyone"
     },
     {
-      "jargon": "Societal application",
-      "layman": "Use in daily life"
+      "jargon": "Functional clarity",
+      "layman": "Clear and useful map features"
     }
   ]
 }

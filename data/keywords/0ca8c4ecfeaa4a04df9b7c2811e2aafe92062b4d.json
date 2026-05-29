@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Physical space",
-      "layman": "Real space"
+      "layman": "Real-world space"
     },
     {
       "jargon": "Vacuum particles",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "New interpretation of Special Theory of Relativity",
-      "layman": "New way of seeing relativity"
+      "layman": "New way of seeing light and motion"
     },
     {
       "jargon": "Model for physical space",
-      "layman": "Space blueprint"
+      "layman": "Space model"
     },
     {
       "jargon": "4-Dimensional Complex Space",
-      "layman": "Space with four complex layers"
+      "layman": "Space with four dimensions and complex parts"
     },
     {
       "jargon": "Internal complex space",
       "layman": "Inner complex layer in each dimension"
     },
     {
-      "jargon": "Connecting intangible reality",
-      "layman": "Linking unseen reality"
+      "jargon": "Consistent derivation from Classical Theory",
+      "layman": "Building quantum rules from old physics"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Consistent understanding of Quantum Mechanics",
-      "layman": "Clear link between quantum and classical rules"
+      "jargon": "Basic principles of Quantum Mechanics",
+      "layman": "Quantum rules explained"
     },
     {
-      "jargon": "Natural phenomena connected to intangible reality",
-      "layman": "Nature tied to unseen things"
+      "jargon": "Connection with intangible reality",
+      "layman": "Link to unseen reality"
     },
     {
       "jargon": "Cannot be measured directly",
-      "layman": "Not directly observable"
+      "layman": "Cannot be seen or touched"
     },
     {
-      "jargon": "Vacuum electrons as a model",
-      "layman": "Electrons used to explain empty space"
+      "jargon": "Understand Quantum Mechanics consistently",
+      "layman": "Make sense of quantum physics"
     },
     {
-      "jargon": "Understand basic principles from Classical Theory",
-      "layman": "Learn quantum rules from old physics"
+      "jargon": "Natural phenomena have a connection",
+      "layman": "Nature connects to unseen things"
     }
   ]
 }

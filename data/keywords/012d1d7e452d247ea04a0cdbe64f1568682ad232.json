@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Oil price increases",
-      "layman": "Higher oil prices"
+      "layman": "Higher fuel costs"
     },
     {
       "jargon": "Egyptian economy",
-      "layman": "Egypt's economy"
+      "layman": "Egypt's economic system"
     },
     {
       "jargon": "Energy sources",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Power consumption",
-      "layman": "Energy usage"
+      "layman": "Amount of electricity used"
     },
     {
       "jargon": "Energy policy",
@@ -24,15 +24,15 @@
   "methodologies": [
     {
       "jargon": "Simulation economic model",
-      "layman": "Computer economic model"
+      "layman": "Economic forecast model"
     },
     {
       "jargon": "Input-output analysis",
-      "layman": "Economic interdependence analysis"
+      "layman": "Economic flow analysis"
     },
     {
       "jargon": "Price subsidies",
-      "layman": "Government price support"
+      "layman": "Government fuel price support"
     },
     {
       "jargon": "Public finance",
@@ -40,7 +40,7 @@
     },
     {
       "jargon": "National income",
-      "layman": "Total income of a country"
+      "layman": "Country's total earnings"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Using less energy"
     },
     {
-      "jargon": "Impact on trade",
-      "layman": "Effect on imports and exports"
+      "jargon": "Impact on public finance",
+      "layman": "Effect on government budget"
+    },
+    {
+      "jargon": "National income",
+      "layman": "Country's total earnings"
     },
     {
       "jargon": "Industrial development",
-      "layman": "Growth of factories and industries"
+      "layman": "Growth of factories"
     },
     {
       "jargon": "Agricultural development",
       "layman": "Improvement in farming"
-    },
-    {
-      "jargon": "Employment levels",
-      "layman": "Number of jobs created"
     }
   ]
 }

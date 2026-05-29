@@ -5,12 +5,12 @@
       "layman": "Ownership of resources"
     },
     {
-      "jargon": "Right",
-      "layman": "Legal or moral entitlement"
+      "jargon": "Virtue",
+      "layman": "Moral character"
     },
     {
       "jargon": "Cosmopolitan right",
-      "layman": "Rights for all people, globally"
+      "layman": "Right to live freely across nations"
     },
     {
       "jargon": "State",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Applying the concept of right",
-      "layman": "Using rights to guide decisions"
+      "layman": "Using moral principles in practice"
     },
     {
       "jargon": "Reappraisal",
-      "layman": "Reevaluating a previous idea"
+      "layman": "Reevaluating old ideas"
     },
     {
-      "jargon": "Theoretical framework",
-      "layman": "System of ideas to explain things"
+      "jargon": "Theoretical analysis",
+      "layman": "Examining ideas logically"
     },
     {
-      "jargon": "Philosophical analysis",
-      "layman": "Deep thinking about ideas"
+      "jargon": "Philosophical argument",
+      "layman": "Logical reasoning in ethics"
     },
     {
-      "jargon": "Political philosophy",
-      "layman": "Study of government and justice"
+      "jargon": "Political theory",
+      "layman": "Study of government and power"
     }
   ],
   "outcomes": [
     {
       "jargon": "Fichte's theory of property",
-      "layman": "How property is justified in society"
-    },
-    {
-      "jargon": "Moral connection between right and virtue",
-      "layman": "Right actions lead to good character"
-    },
-    {
-      "jargon": "Virtue in public speech",
-      "layman": "Good character in national addresses"
+      "layman": "How ownership is justified"
     },
     {
       "jargon": "Right to morality",
-      "layman": "Morality is built on rights"
+      "layman": "Morality linked to justice"
     },
     {
-      "jargon": "Babeuf's influence on Fichte",
-      "layman": "Fichte was shaped by Babeuf's ideas"
+      "jargon": "Moral grounding of the state",
+      "layman": "State based on moral values"
+    },
+    {
+      "jargon": "Virtue in public life",
+      "layman": "Good character in leadership"
+    },
+    {
+      "jargon": "Social cohesion",
+      "layman": "Strong community bond"
     }
   ]
 }

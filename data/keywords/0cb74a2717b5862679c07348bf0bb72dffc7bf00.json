@@ -6,41 +6,41 @@
     },
     {
       "jargon": "Winter Gardens, Blackpool",
-      "layman": "Blackpool's Victorian entertainment palace"
+      "layman": "Blackpool entertainment venue"
     },
     {
       "jargon": "Cargo-cult",
-      "layman": "Religious-like practice of copying rituals without understanding"
+      "layman": "Group that mimics technology without understanding it"
     },
     {
       "jargon": "Speculative fiction",
-      "layman": "Fiction that explores possible futures"
+      "layman": "Fiction that imagines possible futures"
     },
     {
       "jargon": "Collective memory",
-      "layman": "Shared cultural memories of a group"
+      "layman": "Shared cultural memories"
     }
   ],
   "methodologies": [
     {
       "jargon": "Narrative film",
-      "layman": "Storytelling through film"
+      "layman": "Story-based film"
     },
     {
-      "jargon": "Art installation",
-      "layman": "Immersive art environment"
+      "jargon": "Installation art",
+      "layman": "Immersive art exhibit"
     },
     {
       "jargon": "Political rhetoric",
       "layman": "Speech used to influence public opinion"
     },
     {
-      "jargon": "Speculative exploration",
-      "layman": "Imagining alternative realities"
+      "jargon": "Imagining future-primitive worlds",
+      "layman": "Creating imagined simple, tech-less societies"
     },
     {
-      "jargon": "Cultural site analysis",
-      "layman": "Studying a place's cultural significance"
+      "jargon": "Location-based storytelling",
+      "layman": "Telling stories using a specific place"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Long-lasting cultural impact"
     },
     {
-      "jargon": "Future-primitive world",
-      "layman": "A primitive society with no clear tech-magic divide"
+      "jargon": "Incomprehensible tech-magic boundary",
+      "layman": "Technology and magic feel the same"
     },
     {
-      "jargon": "Indistinguishable technology and magic",
-      "layman": "Tech and magic are seen as the same"
+      "jargon": "Rise of a Thatcher cargo-cult",
+      "layman": "People worship Thatcher like a myth"
     },
     {
-      "jargon": "Ritualized political practice",
-      "layman": "Repeating political rituals without meaning"
+      "jargon": "Blurring of technology and magic",
+      "layman": "Tech and magic are no longer separate"
     },
     {
-      "jargon": "Reimagined social reality",
-      "layman": "New way of seeing society"
+      "jargon": "Questioning of social perception",
+      "layman": "Challenging how we see society"
     }
   ]
 }

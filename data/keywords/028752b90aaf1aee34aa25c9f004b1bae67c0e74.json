@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "eschatology",
-      "layman": "End times beliefs"
+      "layman": "End times belief"
     },
     {
       "jargon": "political theology",
@@ -17,52 +17,52 @@
       "layman": "Group efforts for salvation"
     },
     {
-      "jargon": "theological motives",
-      "layman": "Religious reasons driving actions"
+      "jargon": "religious devotion",
+      "layman": "Strong spiritual commitment"
     }
   ],
   "methodologies": [
     {
-      "jargon": "analytical explanation",
-      "layman": "Clear breakdown of ideas"
+      "jargon": "conceptual analysis",
+      "layman": "Breaking down ideas"
     },
     {
-      "jargon": "conceptual introduction",
-      "layman": "Introducing a key idea"
+      "jargon": "theological interpretation",
+      "layman": "Reading religious texts"
     },
     {
-      "jargon": "historical development",
-      "layman": "How ideas evolved over time"
+      "jargon": "historical analysis",
+      "layman": "Looking at past events"
     },
     {
-      "jargon": "ideological devotion",
-      "layman": "Strong belief in a cause"
+      "jargon": "ideological examination",
+      "layman": "Examining beliefs and power"
     },
     {
-      "jargon": "theological influence",
-      "layman": "Religious ideas shaping views"
+      "jargon": "three-stage presentation",
+      "layman": "Step-by-step explanation"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "world-negating view",
+      "layman": "Rejecting the current world"
+    },
     {
       "jargon": "violent movements",
       "layman": "Aggressive political actions"
     },
     {
-      "jargon": "dogmatic devotions",
-      "layman": "Strict religious beliefs"
+      "jargon": "ideological devotions",
+      "layman": "Strong belief-driven loyalty"
     },
     {
-      "jargon": "present-day position",
-      "layman": "Current religious view"
-    },
-    {
-      "jargon": "world-negating view",
-      "layman": "Belief that the world is flawed or evil"
+      "jargon": "present-day theological position",
+      "layman": "Modern religious belief"
     },
     {
       "jargon": "central theme",
-      "layman": "Main focus of belief"
+      "layman": "Main focus"
     }
   ]
 }

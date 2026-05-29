@@ -1,16 +1,12 @@
 {
   "core_entities": [
     {
-      "jargon": "Semiconductor designer",
-      "layman": "Chip maker"
-    },
-    {
-      "jargon": "Federal appeals court",
-      "layman": "Higher court that reviews decisions"
+      "jargon": "Rambus Inc.",
+      "layman": "Semiconductor company"
     },
     {
       "jargon": "JEDEC Solid State Technology Association",
-      "layman": "Group that sets tech standards"
+      "layman": "Standards group for electronics"
     },
     {
       "jargon": "Dynamic random-access memory (DRAM)",
@@ -18,51 +14,55 @@
     },
     {
       "jargon": "Federal Trade Commission (FTC)",
-      "layman": "Government agency that enforces fair business practices"
+      "layman": "U.S. agency that regulates business practices"
+    },
+    {
+      "jargon": "IEEE",
+      "layman": "Engineering standards organization"
     }
   ],
   "methodologies": [
     {
       "jargon": "Patent disclosure policy",
-      "layman": "Rule on when companies must share patent info"
+      "layman": "Rules for sharing patent info"
     },
     {
       "jargon": "Standards-setting proceeding",
-      "layman": "Process to create industry-wide rules"
+      "layman": "Process to create technical standards"
     },
     {
-      "jargon": "Legal enforcement proceeding",
-      "layman": "Court case to enforce rules"
+      "jargon": "Federal appeals court ruling",
+      "layman": "Court decision on a legal case"
     },
     {
       "jargon": "Civil fraud",
-      "layman": "Legal claim of dishonesty in business"
+      "layman": "Fraud in a legal lawsuit"
     },
     {
-      "jargon": "Unfair method of competition",
-      "layman": "Business practice seen as unfair"
+      "jargon": "Enforcement proceeding",
+      "layman": "Legal action to stop patent use"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Exonerated",
-      "layman": "Found not guilty"
+      "jargon": "Exonerated in patent case",
+      "layman": "Found not guilty of wrongdoing"
     },
     {
       "jargon": "Staggering lack of defining details",
-      "layman": "No clear rules or standards"
+      "layman": "Unclear rules in a policy"
     },
     {
-      "jargon": "Narrow interpretation",
-      "layman": "Very strict reading of a rule"
+      "jargon": "Narrow interpretation of policy",
+      "layman": "Very strict reading of rules"
     },
     {
-      "jargon": "Mistaken belief",
-      "layman": "Wrong idea about a rule"
+      "jargon": "Unfair method of competition",
+      "layman": "Unfair business practice"
     },
     {
-      "jargon": "Appeals court ruling stands",
-      "layman": "Final decision is upheld"
+      "jargon": "Pore over disclosure policies",
+      "layman": "Review rules for better clarity"
     }
   ]
 }

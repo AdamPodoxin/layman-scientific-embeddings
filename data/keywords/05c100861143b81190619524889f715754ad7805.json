@@ -2,63 +2,63 @@
   "core_entities": [
     {
       "jargon": "AECs",
-      "layman": "Mathematical structures for classifying theories"
+      "layman": "Abstract elementary categories"
     },
     {
       "jargon": "Tameness",
-      "layman": "Controlled growth of theories"
+      "layman": "Controlled behavior in mathematical structures"
     },
     {
       "jargon": "Good \u03bb-frames",
-      "layman": "Well-organized theory frameworks"
+      "layman": "Well-organized frameworks for data"
     },
     {
       "jargon": "Nonforking",
-      "layman": "Predictable theory behavior"
+      "layman": "Predictable pattern of relationships"
     },
     {
       "jargon": "Limit models",
-      "layman": "Final model in a sequence"
+      "layman": "Final, completed models in a sequence"
     }
   ],
   "methodologies": [
     {
       "jargon": "Stability transfer theorem",
-      "layman": "Moving stability between sizes"
+      "layman": "Moving stability results between systems"
     },
     {
       "jargon": "Classification theory",
-      "layman": "Categorizing mathematical theories"
+      "layman": "System for sorting and understanding complex structures"
     },
     {
-      "jargon": "Frame construction",
-      "layman": "Building theory frameworks"
-    },
-    {
-      "jargon": "Cardinality analysis",
-      "layman": "Studying size of mathematical objects"
+      "jargon": "Frame combination",
+      "layman": "Merging two organizational systems"
     },
     {
       "jargon": "Uniqueness proof",
-      "layman": "Showing only one possible model"
+      "layman": "Showing only one possible outcome"
+    },
+    {
+      "jargon": "Cardinality analysis",
+      "layman": "Study of how big different sets are"
     }
   ],
   "outcomes": [
     {
       "jargon": "Well-behaved nonforking",
-      "layman": "Predictable and stable theory rules"
+      "layman": "Predictable and stable results"
     },
     {
       "jargon": "Longstanding gap filled",
-      "layman": "Missing piece solved"
+      "layman": "Missing piece now solved"
     },
     {
-      "jargon": "Applicability increased",
-      "layman": "More useful in real cases"
+      "jargon": "Increased applicability",
+      "layman": "More useful in real situations"
     },
     {
       "jargon": "Complete stability transfer",
-      "layman": "Full stability moved across sizes"
+      "layman": "Full consistency across systems"
     },
     {
       "jargon": "Uniqueness of limit models",

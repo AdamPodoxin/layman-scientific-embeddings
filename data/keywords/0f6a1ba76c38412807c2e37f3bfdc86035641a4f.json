@@ -10,11 +10,11 @@
     },
     {
       "jargon": "state anxiety",
-      "layman": "temporary anxiety"
+      "layman": "short-term anxiety"
     },
     {
       "jargon": "salivary cortisol",
-      "layman": "stress hormone in saliva"
+      "layman": "cortisol in spit"
     },
     {
       "jargon": "art-making session",
@@ -24,29 +24,29 @@
   "methodologies": [
     {
       "jargon": "pre- and post-test crossover design",
-      "layman": "test before and after, then switch groups"
-    },
-    {
-      "jargon": "convenience sample",
-      "layman": "easy-to-reach group of patients"
-    },
-    {
-      "jargon": "crossover design",
-      "layman": "participants switch between treatments"
+      "layman": "test before and after, switch groups"
     },
     {
       "jargon": "demographic questionnaire",
-      "layman": "form about patient background"
+      "layman": "info about age and background"
+    },
+    {
+      "jargon": "Spielberger State-Trait Anxiety Index",
+      "layman": "anxiety scale"
     },
     {
       "jargon": "salivary cortisol samples",
-      "layman": "stress hormone collected from spit"
+      "layman": "cortisol spit tests"
+    },
+    {
+      "jargon": "intervention group",
+      "layman": "group that gets art session"
     }
   ],
   "outcomes": [
     {
       "jargon": "significantly lower therapy-related symptoms",
-      "layman": "less treatment side effects"
+      "layman": "less side effects after art"
     },
     {
       "jargon": "no change in anxiety levels",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "study hypothesis partially supported",
-      "layman": "some part of the guess was correct"
+      "layman": "some results matched predictions"
     },
     {
       "jargon": "positive interactions between nurses and patients",
-      "layman": "better nurse-patient connections"
+      "layman": "better nurse-patient conversations"
     }
   ]
 }

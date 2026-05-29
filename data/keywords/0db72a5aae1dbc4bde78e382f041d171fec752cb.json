@@ -5,64 +5,64 @@
       "layman": "History of Western music"
     },
     {
-      "jargon": "Sonata as comedy",
-      "layman": "Sonata as comedy"
-    },
-    {
-      "jargon": "Ninth Symphony",
-      "layman": "Ninth Symphony"
+      "jargon": "Beethoven's Ninth Symphony",
+      "layman": "Beethoven's Ninth Symphony"
     },
     {
       "jargon": "New German Cinema",
-      "layman": "New German Cinema"
+      "layman": "German films of the 1970s and 1980s"
     },
     {
       "jargon": "Fritz Reiner",
       "layman": "Fritz Reiner"
+    },
+    {
+      "jargon": "Musical manuscript facsimiles",
+      "layman": "Exact copies of original music scores"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Film score analysis",
-      "layman": "Analyzing film scores"
+      "jargon": "Case studies",
+      "layman": "Detailed analysis of specific examples"
     },
     {
       "jargon": "Cultural appropriation",
-      "layman": "Using culture for influence"
+      "layman": "Using culture for political or emotional effect"
     },
     {
-      "jargon": "Biographical study",
+      "jargon": "Film score use",
+      "layman": "Using music in films"
+    },
+    {
+      "jargon": "Biographical analysis",
       "layman": "Studying a person's life"
     },
     {
-      "jargon": "Repertory guide",
-      "layman": "Guide to music repertoire"
-    },
-    {
-      "jargon": "Manuscript facsimile",
-      "layman": "Exact copy of original manuscript"
+      "jargon": "Score editions",
+      "layman": "Published versions of music scores"
     }
   ],
   "outcomes": [
     {
       "jargon": "Cultural connection",
-      "layman": "Shared cultural link"
+      "layman": "Linking films to a shared culture"
     },
     {
-      "jargon": "Ideological use",
-      "layman": "Use to express ideas"
+      "jargon": "Nazi appropriation",
+      "layman": "Nazis using Beethoven's music for propaganda"
     },
     {
       "jargon": "Legacy exploration",
-      "layman": "Exploring lasting impact"
+      "layman": "Exploring Beethoven's lasting impact"
     },
     {
-      "jargon": "Deaf man and singer comparison",
-      "layman": "Comparing Beethoven to others"
+      "jargon": "Mood setting",
+      "layman": "Using music to create atmosphere"
     },
     {
-      "jargon": "Absence of Beethoven legacy",
-      "layman": "No discussion of Beethoven's influence"
+      "jargon": "Historical context",
+      "layman": "Understanding music in its time"
     }
   ]
 }

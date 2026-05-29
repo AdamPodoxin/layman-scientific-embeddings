@@ -9,12 +9,12 @@
       "layman": "Medical device sector"
     },
     {
-      "jargon": "European business",
-      "layman": "Business in Europe"
+      "jargon": "Business initiatives",
+      "layman": "Company projects"
     },
     {
-      "jargon": "Key initiatives",
-      "layman": "Major projects"
+      "jargon": "European business",
+      "layman": "Business in Europe"
     },
     {
       "jargon": "Trade association",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
+      "jargon": "Key initiatives",
+      "layman": "Major actions taken"
+    },
+    {
       "jargon": "Reports",
       "layman": "Official summaries"
     },
     {
       "jargon": "Industry outlook",
-      "layman": "Future predictions"
-    },
-    {
-      "jargon": "Key initiatives",
-      "layman": "Major projects"
+      "layman": "Predictions for future"
     },
     {
       "jargon": "Annual review",
-      "layman": "Yearly summary"
+      "layman": "Yearly update"
     },
     {
-      "jargon": "Industry analysis",
-      "layman": "Study of industry trends"
+      "jargon": "Industry expectations",
+      "layman": "What the industry anticipates"
     }
   ],
   "outcomes": [
     {
-      "jargon": "2003 initiatives",
-      "layman": "Actions taken in 2003"
+      "jargon": "Key initiatives of the year",
+      "layman": "Main efforts in 2003"
     },
     {
-      "jargon": "Industry expectations",
-      "layman": "What the industry will do next"
+      "jargon": "What the industry can expect",
+      "layman": "Future business trends"
     },
     {
       "jargon": "Trade association reports",
       "layman": "Official industry updates"
     },
     {
-      "jargon": "Key developments",
-      "layman": "Major changes"
+      "jargon": "Annual industry assessment",
+      "layman": "Year-end evaluation"
     },
     {
-      "jargon": "Business trends",
-      "layman": "Patterns in business growth"
+      "jargon": "Medical technology growth",
+      "layman": "Increase in medical devices"
     }
   ]
 }

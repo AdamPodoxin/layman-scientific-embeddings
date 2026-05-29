@@ -1,46 +1,46 @@
 {
   "core_entities": [
     {
-      "jargon": "Graph",
-      "layman": "Network of connections"
+      "jargon": "Three-dimensional graphs",
+      "layman": "3D graphs"
     },
     {
       "jargon": "Nodes",
-      "layman": "Points in a network"
-    },
-    {
-      "jargon": "Three-dimensional space",
-      "layman": "3D virtual environment"
-    },
-    {
-      "jargon": "Web-page bookmarks",
-      "layman": "Saved web pages"
+      "layman": "Points in a diagram"
     },
     {
       "jargon": "Sub-structures",
-      "layman": "Reference patterns in a layout"
+      "layman": "Smaller parts of a design"
+    },
+    {
+      "jargon": "User-specific graphs",
+      "layman": "Personalized diagrams"
+    },
+    {
+      "jargon": "Web-page bookmarks",
+      "layman": "Bookmarked web pages"
     }
   ],
   "methodologies": [
     {
       "jargon": "Layout algorithm",
-      "layman": "Rule for arranging nodes"
+      "layman": "Arrangement method"
     },
     {
-      "jargon": "User viewpoint manipulation",
-      "layman": "Changing perspective in 3D"
+      "jargon": "Viewpoint manipulation",
+      "layman": "Changing viewing angle"
+    },
+    {
+      "jargon": "Locality recognition",
+      "layman": "Spotting nearby areas"
     },
     {
       "jargon": "Edge-tracing",
-      "layman": "Following lines between nodes"
+      "layman": "Following lines between points"
     },
     {
-      "jargon": "Recall of sub-structures",
-      "layman": "Remembering key patterns"
-    },
-    {
-      "jargon": "Asymmetric information diagrams",
-      "layman": "Unbalanced visual layouts"
+      "jargon": "Symmetry aesthetics",
+      "layman": "Balanced and symmetric look"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Easy-to-remember layout"
     },
     {
+      "jargon": "Reference points",
+      "layman": "Key spots to orient around"
+    },
+    {
       "jargon": "High number of nodes",
-      "layman": "Many connections shown"
+      "layman": "Many connections in one diagram"
     },
     {
-      "jargon": "User recall",
-      "layman": "Viewer remembers key parts"
+      "jargon": "User recall of sub-structures",
+      "layman": "User remembers small parts"
     },
     {
-      "jargon": "No need for symmetry",
-      "layman": "No need for balanced shape"
-    },
-    {
-      "jargon": "Relational information",
-      "layman": "How things are connected"
+      "jargon": "Replacement of edge-tracing",
+      "layman": "Using memory instead of lines"
     }
   ]
 }

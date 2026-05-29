@@ -9,60 +9,60 @@
       "layman": "How language is used in power struggles"
     },
     {
-      "jargon": "Ukrainian identity",
-      "layman": "Ukrainian national identity"
+      "jargon": "Identity",
+      "layman": "Sense of self"
     },
     {
-      "jargon": "Historical burden",
-      "layman": "Past history's lasting impact"
+      "jargon": "Ukrainian society",
+      "layman": "Ukraine's social structure"
     },
     {
-      "jargon": "Contestation",
-      "layman": "Ongoing conflict or debate"
+      "jargon": "Historical memory",
+      "layman": "How past events are remembered"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Visual analysis",
-      "layman": "Analyzing images"
+      "jargon": "Image analysis",
+      "layman": "Examining photos for patterns"
     },
     {
-      "jargon": "Discourse analysis",
-      "layman": "Studying how language is used in conversations"
+      "jargon": "Political discourse analysis",
+      "layman": "Studying speeches and debates"
     },
     {
-      "jargon": "Identity mapping",
-      "layman": "Linking language to identity"
+      "jargon": "Cultural representation",
+      "layman": "How culture is shown in media"
     },
     {
-      "jargon": "Historical interpretation",
-      "layman": "Understanding the past through context"
+      "jargon": "Narrative construction",
+      "layman": "Building stories to explain reality"
     },
     {
-      "jargon": "Political symbolism",
-      "layman": "Using symbols to represent political views"
+      "jargon": "Contestation analysis",
+      "layman": "Analyzing points of disagreement"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Burden of the past",
+      "layman": "Weight of history on current decisions"
+    },
+    {
       "jargon": "Language contestation",
-      "layman": "Debate over language use"
+      "layman": "Arguments over language use"
     },
     {
-      "jargon": "Identity fragmentation",
-      "layman": "Splitting of national identity"
+      "jargon": "Identity formation",
+      "layman": "How identity is built"
     },
     {
-      "jargon": "Cultural memory",
-      "layman": "Shared memories of culture"
+      "jargon": "Visual symbolism",
+      "layman": "Meaning in images"
     },
     {
-      "jargon": "National belonging",
-      "layman": "Feeling of being part of a nation"
-    },
-    {
-      "jargon": "Historical legacy",
-      "layman": "Lasting influence of the past"
+      "jargon": "Sociopolitical tension",
+      "layman": "Conflict in society over power and values"
     }
   ]
 }

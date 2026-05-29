@@ -6,25 +6,25 @@
     },
     {
       "jargon": "Einstein field equations",
-      "layman": "Equations describing gravity in general relativity"
+      "layman": "Equations describing gravity"
     },
     {
       "jargon": "Spherical dust collapse",
-      "layman": "Collapse of dust in a spherical shape"
+      "layman": "Collapse of dust in a sphere"
     },
     {
       "jargon": "Cauchy horizon",
-      "layman": "Boundary where predictability breaks down"
+      "layman": "Boundary where predictions break down"
     },
     {
       "jargon": "Curvature strength",
-      "layman": "How sharply spacetime bends"
+      "layman": "How sharply space bends"
     }
   ],
   "methodologies": [
     {
       "jargon": "Perturbative calculation",
-      "layman": "Small-change approximation"
+      "layman": "Small change analysis"
     },
     {
       "jargon": "Quantum particle creation",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Backreaction",
-      "layman": "Effect of quantum processes on spacetime"
+      "layman": "Effect of particles on the system"
     },
     {
       "jargon": "Regular evolution",
-      "layman": "Smooth, predictable development"
+      "layman": "Normal, smooth development"
     },
     {
-      "jargon": "Class of solutions",
-      "layman": "Group of possible mathematical models"
+      "jargon": "Wider class of solutions",
+      "layman": "Many possible scenarios"
     }
   ],
   "outcomes": [
     {
       "jargon": "Quantum effect prevents NS formation",
-      "layman": "Quantum effects stop singularities from forming"
+      "layman": "Quantum effects stop naked singularities"
     },
     {
       "jargon": "Particle creation diverges",
-      "layman": "Particle creation becomes infinite"
+      "layman": "Particles burst uncontrollably"
     },
     {
       "jargon": "Particle creation is finite",
-      "layman": "Particle creation stays limited"
+      "layman": "Particles appear in a limited way"
     },
     {
       "jargon": "Strong NSs disappear or hide",
-      "layman": "Strong singularities vanish or become hidden"
+      "layman": "Strong singularities vanish or are hidden"
     },
     {
-      "jargon": "Weak NSs remain visible",
-      "layman": "Weak singularities stay exposed"
+      "jargon": "Weak NSs remain unhidden",
+      "layman": "Weak singularities stay visible"
     }
   ]
 }

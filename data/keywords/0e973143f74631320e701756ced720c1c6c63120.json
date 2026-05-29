@@ -1,56 +1,68 @@
 {
-	"core_entities": [
-		{
-			"jargon": "Account planning",
-			"layman": "Account planning"
-		},
-		{
-			"jargon": "Consumer insights",
-			"layman": "What consumers think and feel"
-		},
-		{
-			"jargon": "Competitive intelligence",
-			"layman": "Understanding rivals' strategies"
-		},
-		{
-			"jargon": "Business strategy",
-			"layman": "Company's overall direction"
-		},
-		{
-			"jargon": "Brand strategy",
-			"layman": "How a brand is positioned and presented"
-		}
-	],
-	"methodologies": [
-		{
-			"jargon": "Advertising placement",
-			"layman": "Where ads are shown"
-		},
-		{
-			"jargon": "Creative output",
-			"layman": "Ad content produced"
-		}
-	],
-	"outcomes": [
-		{
-			"jargon": "Market opportunities",
-			"layman": "Growth chances in the market"
-		},
-		{
-			"jargon": "Brand opportunities",
-			"layman": "Chances to grow the brand"
-		},
-		{
-			"jargon": "Core competencies",
-			"layman": "Company's key strengths"
-		},
-		{
-			"jargon": "Optimal brand representation",
-			"layman": "Brand shown correctly"
-		},
-		{
-			"jargon": "Brand positioning",
-			"layman": "How brand is seen in market"
-		}
-	]
+  "core_entities": [
+    {
+      "jargon": "Account planning",
+      "layman": "Planning advertising based on consumer data"
+    },
+    {
+      "jargon": "Business strategy",
+      "layman": "Company's overall direction and goals"
+    },
+    {
+      "jargon": "Brand strategy",
+      "layman": "How a brand is positioned and perceived"
+    },
+    {
+      "jargon": "Consumer insights",
+      "layman": "What consumers think and feel"
+    },
+    {
+      "jargon": "Competitive intelligence",
+      "layman": "Understanding rivals' strengths and weaknesses"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Market opportunities analysis",
+      "layman": "Evaluating where a business can grow"
+    },
+    {
+      "jargon": "Trends analysis",
+      "layman": "Tracking changes in consumer behavior"
+    },
+    {
+      "jargon": "Strategic input",
+      "layman": "Guiding decisions with a long-term plan"
+    },
+    {
+      "jargon": "Brand portfolio",
+      "layman": "All brands a company offers"
+    },
+    {
+      "jargon": "Positioning",
+      "layman": "How a product is seen in the market"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Optimal brand representation",
+      "layman": "Brand shown clearly and authentically"
+    },
+    {
+      "jargon": "Core competencies exploited",
+      "layman": "Key strengths used in all marketing"
+    },
+    {
+      "jargon": "Brand values reflected",
+      "layman": "Brand's values shown in ads"
+    },
+    {
+      "jargon": "Brand personality celebrated",
+      "layman": "Brand's character highlighted"
+    },
+    {
+      "jargon": "Market opportunities fully exploited",
+      "layman": "All possible growth areas taken advantage of"
+    }
+  ]
 }

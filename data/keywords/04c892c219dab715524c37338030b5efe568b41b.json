@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Eukaryotes",
-      "layman": "Organisms with complex cells"
+      "layman": "Organisms with nuclei"
     },
     {
       "jargon": "Cenancestor",
-      "layman": "Common ancestor of all life forms"
+      "layman": "Common ancestor"
     },
     {
-      "jargon": "Archaeabacteria",
-      "layman": "Ancient bacteria-like organisms"
+      "jargon": "Archaebacteria",
+      "layman": "Ancient bacteria"
     },
     {
       "jargon": "Protein evolution",
-      "layman": "Change in proteins over time"
+      "layman": "How proteins change over time"
     }
   ],
   "methodologies": [
     {
       "jargon": "Molecular clock calculations",
-      "layman": "Estimating age using genetic changes"
+      "layman": "Dating using genetic changes"
     },
     {
-      "jargon": "Evolutionary distance",
-      "layman": "How different two species are genetically"
+      "jargon": "Evolutionary distance estimates",
+      "layman": "Measuring how far apart species are"
     },
     {
-      "jargon": "Divergence time",
-      "layman": "When two groups split from a common ancestor"
+      "jargon": "Divergence time estimation",
+      "layman": "Estimating when species split"
     },
     {
-      "jargon": "Equations for estimating divergence",
-      "layman": "Math formulas to predict split times"
+      "jargon": "Equations for divergence",
+      "layman": "Math models for splits"
     },
     {
-      "jargon": "Genetic mutation rate",
-      "layman": "Rate at which genes change over time"
+      "jargon": "Genetic sequence analysis",
+      "layman": "Comparing DNA sequences"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Constraints on protein evolution",
-      "layman": "Limits on how proteins change over time"
+      "jargon": "Evolutionary distance between eubacteria and eukaryotes",
+      "layman": "How far apart the groups are"
     },
     {
-      "jargon": "Estimated divergence times",
-      "layman": "Predicted time when groups split"
+      "jargon": "Divergence times",
+      "layman": "When the split happened"
     },
     {
-      "jargon": "Support for existing date ranges",
-      "layman": "Agreement with previous estimates"
+      "jargon": "Range of dates for cenancestor",
+      "layman": "Estimated age of common ancestor"
     },
     {
-      "jargon": "Molecular clock effects",
-      "layman": "How clock methods affect results"
+      "jargon": "Support for Doolittle et al. estimates",
+      "layman": "Agrees with earlier findings"
     },
     {
-      "jargon": "Age of eubacteria/eukaryote split",
-      "layman": "When bacteria and complex life split"
+      "jargon": "Effect of molecular clock",
+      "layman": "How clock affects timing estimates"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Dark matter",
-      "layman": "Invisible matter that holds galaxies together"
+      "layman": "invisible matter that influences gravity"
     },
     {
-      "jargon": "Collision-less particles",
-      "layman": "Particles that don't collide with each other"
+      "jargon": "Collision-less system",
+      "layman": "matter that doesn't collide or interact"
     },
     {
       "jargon": "Expanding universe",
-      "layman": "Universe growing larger over time"
+      "layman": "universe growing larger over time"
     },
     {
       "jargon": "Gravitational clustering",
-      "layman": "Matter grouping under gravity"
+      "layman": "matter grouping under gravity"
     },
     {
-      "jargon": "Cosmic structure",
-      "layman": "Large-scale patterns in the universe"
+      "jargon": "Semianalytic methods",
+      "layman": "mixed math and model-based predictions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Semianalytic methods",
-      "layman": "Mixed math and simulation models"
+      "layman": "mixed math and model-based predictions"
     },
     {
-      "jargon": "Gravitational potential",
-      "layman": "Gravity's influence field"
+      "jargon": "Gravitational clustering model",
+      "layman": "model showing how gravity pulls matter together"
+    },
+    {
+      "jargon": "Cosmological simulations",
+      "layman": "computer models of the universe's evolution"
+    },
+    {
+      "jargon": "Analytical approximations",
+      "layman": "simplified math to get rough answers"
     },
     {
       "jargon": "N-body simulations",
-      "layman": "Computer models of many particles moving under gravity"
-    },
-    {
-      "jargon": "Initial conditions",
-      "layman": "Starting state of the universe"
-    },
-    {
-      "jargon": "Linear perturbation theory",
-      "layman": "Small changes in gravity over time"
+      "layman": "computer simulations of many particles"
     }
   ],
   "outcomes": [
     {
       "jargon": "Open questions",
-      "layman": "Unclear or unsolved issues"
+      "layman": "unsolved problems in science"
     },
     {
-      "jargon": "Clustering hierarchy",
-      "layman": "How structures form at different scales"
-    },
-    {
-      "jargon": "Non-linear evolution",
-      "layman": "Complex growth of structures"
-    },
-    {
-      "jargon": "Small-scale discrepancies",
-      "layman": "Mismatches in small regions"
+      "jargon": "Stellar formation",
+      "layman": "formation of stars from gas"
     },
     {
       "jargon": "Structure formation",
-      "layman": "How galaxies and clusters form"
+      "layman": "how large-scale patterns form"
+    },
+    {
+      "jargon": "Initial density fluctuations",
+      "layman": "tiny early differences in matter density"
+    },
+    {
+      "jargon": "Large-scale structure",
+      "layman": "big patterns in the cosmos"
     }
   ]
 }

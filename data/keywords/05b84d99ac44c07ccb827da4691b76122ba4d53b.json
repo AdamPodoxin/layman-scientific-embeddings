@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Pfaffian integration theorem",
-      "layman": "Math rule for integrating certain functions"
+      "layman": "Math rule for calculating integrals in certain systems"
     },
     {
       "jargon": "Ginibre's Orthogonal Ensemble",
-      "layman": "Random matrix collection"
+      "layman": "Random matrix setup for physics or math studies"
     },
     {
       "jargon": "Fredholm Pfaffian",
-      "layman": "Special math object for integration"
+      "layman": "A mathematical tool for handling certain integrals"
     },
     {
       "jargon": "Spectral properties",
-      "layman": "How energy levels are distributed"
+      "layman": "How energy levels or values are distributed"
     },
     {
-      "jargon": "Orthogonal Ensemble",
-      "layman": "Group of random matrices with specific rules"
+      "jargon": "Linear algebraic proof",
+      "layman": "Proof using basic math operations on vectors and matrices"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Fredholm Pfaffian",
-      "layman": "Math tool using operators and integrals"
+      "jargon": "Proof based on Fredholm Pfaffian",
+      "layman": "Using a mathematical tool to prove a result"
     },
     {
-      "jargon": "Linear algebraic proof",
-      "layman": "Proof using only matrices and vectors"
+      "jargon": "Purely linear algebraic proof",
+      "layman": "Using only vector and matrix math to prove something"
+    },
+    {
+      "jargon": "Spectral analysis",
+      "layman": "Studying the pattern of values in a system"
+    },
+    {
+      "jargon": "Alternative proofs",
+      "layman": "Different ways to arrive at the same conclusion"
     },
     {
       "jargon": "Compact proofs",
       "layman": "Short and efficient mathematical arguments"
-    },
-    {
-      "jargon": "Spectral analysis",
-      "layman": "Study of energy levels in systems"
-    },
-    {
-      "jargon": "Proof based on structure",
-      "layman": "Using mathematical patterns to show truth"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Two alternative proofs",
-      "layman": "Two different ways to show the result"
+      "jargon": "Integration theorem",
+      "layman": "A rule that allows calculation under specific conditions"
+    },
+    {
+      "jargon": "Recent studies",
+      "layman": "New research findings"
     },
     {
       "jargon": "Emergence of the theorem",
-      "layman": "The rule appeared in recent studies"
+      "layman": "The theorem appeared in new scientific work"
     },
     {
-      "jargon": "Compact formulation",
-      "layman": "Simple and clear mathematical form"
+      "jargon": "Mathematical consistency",
+      "layman": "The results make sense and are reliable"
     },
     {
-      "jargon": "Integration theorem",
-      "layman": "Rule for combining functions in math"
-    },
-    {
-      "jargon": "Spectral properties of matrices",
-      "layman": "How random matrix energy levels behave"
+      "jargon": "Two alternative proofs",
+      "layman": "Two different ways to show the same truth"
     }
   ]
 }

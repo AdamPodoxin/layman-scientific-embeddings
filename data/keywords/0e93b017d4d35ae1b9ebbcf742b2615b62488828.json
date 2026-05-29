@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Quaternary basin",
-      "layman": "Ancient sediment-filled valley"
+      "layman": "Ancient depression filled with sediment"
     },
     {
       "jargon": "Subglacial fluvial system",
-      "layman": "River-like deposits under ice"
+      "layman": "Rivers under ice"
     },
     {
       "jargon": "Glaciolacustrine deposits",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Alluvial fan",
-      "layman": "Fan-shaped sediment deposit"
+      "layman": "Sediment spreads from mountain slope"
     },
     {
       "jargon": "Channel deposits",
-      "layman": "Sediment in river channels"
+      "layman": "Sand layers in river channels"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Reflection seismic profiles",
+      "jargon": "High-resolution reflection seismic profiles",
       "layman": "Seismic imaging of underground layers"
     },
     {
       "jargon": "Lithologic logs",
-      "layman": "Sediment type records"
+      "layman": "Sediment type records from drill cores"
     },
     {
       "jargon": "Depositional systems approach",
-      "layman": "Mapping how sediments were laid down"
+      "layman": "Mapping how sediments are laid down"
     },
     {
-      "jargon": "High-resolution seismic data",
-      "layman": "Detailed underground scans"
+      "jargon": "Seismic data analysis",
+      "layman": "Studying underground echoes to see layers"
     },
     {
-      "jargon": "Core data",
-      "layman": "Direct rock samples from ground"
+      "jargon": "Core sampling",
+      "layman": "Taking rock samples from deep earth"
     }
   ],
   "outcomes": [
     {
       "jargon": "Thick sequence of fine and coarse clastics",
-      "layman": "Layered sand and silt deposits"
+      "layman": "Large amount of sand and silt layers"
     },
     {
-      "jargon": "Basal suite of compact, stratified coarse clastics",
-      "layman": "Dense, layered gravel at the bottom"
+      "jargon": "Basal suite of compact, stratified clastics",
+      "layman": "Dense, layered sand and gravel at bottom"
     },
     {
       "jargon": "Older sediments almost completely excavated",
-      "layman": "Old layers mostly removed"
+      "layman": "Old layers nearly erased by glacial flow"
     },
     {
-      "jargon": "Late Wisconsinan glaciation",
-      "layman": "Late ice age period"
+      "jargon": "High hydrostatic pressure",
+      "layman": "Pressure from water under ice"
     },
     {
-      "jargon": "Glaciers capable of eroding older deposits",
-      "layman": "Ice sheets could remove old layers"
+      "jargon": "Late Wisconsinan glaciers capable of eroding older deposits",
+      "layman": "Glaciers could clear out old soil during peak ice age"
     }
   ]
 }

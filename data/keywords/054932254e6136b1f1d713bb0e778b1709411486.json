@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "XACML",
-      "layman": "Access control system"
+      "layman": "Access control rule system"
     },
     {
       "jargon": "Policy decision point",
-      "layman": "Decision maker for access rules"
+      "layman": "Decision center for access rules"
     },
     {
       "jargon": "Policy enforcement point",
       "layman": "Enforcer of access rules"
     },
     {
-      "jargon": "BPEL",
-      "layman": "Workflow coordination language"
+      "jargon": "Web services",
+      "layman": "Connected online services"
     },
     {
       "jargon": "RDF",
-      "layman": "Data description format"
+      "layman": "Data format for describing resources"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Policy coordination",
-      "layman": "Aligning access rules across systems"
+      "jargon": "Contextual information",
+      "layman": "Extra details for decisions"
     },
     {
-      "jargon": "Contextual information passing",
-      "layman": "Sharing extra details for decisions"
+      "jargon": "BPEL",
+      "layman": "Workflow coordination language"
+    },
+    {
+      "jargon": "Policy coordination",
+      "layman": "Syncing access rules across systems"
     },
     {
       "jargon": "Policy evaluation",
-      "layman": "Checking if access is allowed"
+      "layman": "Checking if access rules apply"
     },
     {
-      "jargon": "Coordination using BPEL",
-      "layman": "Using workflow rules to sync actions"
-    },
-    {
-      "jargon": "Constructing and verifying RDF data",
-      "layman": "Building and checking data structure"
+      "jargon": "Data verification",
+      "layman": "Confirming data accuracy"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Policy compliance",
-      "layman": "Following access rules"
+      "jargon": "Permit",
+      "layman": "Allow access"
     },
     {
-      "jargon": "Synchronization among enforcement points",
-      "layman": "Keeping systems in sync"
+      "jargon": "Deny",
+      "layman": "Block access"
     },
     {
-      "jargon": "Coordination across WWW",
-      "layman": "Working together across web services"
-    },
-    {
-      "jargon": "Decision beyond permit/deny",
-      "layman": "More detailed access decisions"
+      "jargon": "Indeterminate",
+      "layman": "Unclear decision"
     },
     {
       "jargon": "Error during evaluation",
-      "layman": "Problem when making a decision"
+      "layman": "Problem in decision-making"
+    },
+    {
+      "jargon": "Synchronized workflow",
+      "layman": "Smooth coordination among services"
     }
   ]
 }

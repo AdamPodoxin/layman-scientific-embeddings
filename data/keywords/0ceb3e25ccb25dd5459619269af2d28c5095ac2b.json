@@ -10,11 +10,11 @@
     },
     {
       "jargon": "People",
-      "layman": "People"
+      "layman": "Individuals"
     },
     {
       "jargon": "Organizations",
-      "layman": "Groups"
+      "layman": "Companies"
     },
     {
       "jargon": "Psychology research",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Performance evaluation",
-      "layman": "Measuring how well someone does their job"
+      "layman": "Checking how well someone does their job"
     },
     {
       "jargon": "Awareness",
       "layman": "Knowing something"
     },
     {
-      "jargon": "Causal reasoning",
-      "layman": "Understanding why things happen"
+      "jargon": "Reflection",
+      "layman": "Thinking about experiences"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Lack of awareness",
-      "layman": "Not realizing they're failing"
+      "jargon": "Not realizing it",
+      "layman": "Not seeing their shortcomings"
     },
     {
       "jargon": "Poor performance",
       "layman": "Doing things badly"
     },
     {
-      "jargon": "Unrealized failure",
-      "layman": "Not knowing they're failing"
+      "jargon": "Lack of awareness",
+      "layman": "Not knowing they're doing poorly"
     },
     {
-      "jargon": "Self-perception bias",
-      "layman": "Thinking you're better than you are"
+      "jargon": "Underestimation",
+      "layman": "Thinking things are better than they are"
     },
     {
-      "jargon": "Inadequate knowledge",
-      "layman": "Not knowing enough"
+      "jargon": "Self-ignorance",
+      "layman": "Not recognizing one's own flaws"
     }
   ]
 }

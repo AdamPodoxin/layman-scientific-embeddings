@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Water quality criteria",
+      "layman": "Rules for safe water levels"
+    },
+    {
+      "jargon": "Human health",
+      "layman": "People's health"
+    },
+    {
+      "jargon": "Aquatic life",
+      "layman": "Fish and other water creatures"
+    },
+    {
+      "jargon": "Water quality standards",
+      "layman": "Water safety rules"
+    },
+    {
+      "jargon": "States and tribes",
+      "layman": "Local governments and tribal groups"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Scientific knowledge",
+      "layman": "Best available science"
+    },
+    {
+      "jargon": "Develop",
+      "layman": "Create or build"
+    },
+    {
+      "jargon": "Adopt",
+      "layman": "Accept and use"
+    },
+    {
+      "jargon": "Guidance",
+      "layman": "Suggestions for action"
+    },
+    {
+      "jargon": "Latest scientific knowledge",
+      "layman": "Most up-to-date science"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Protect human health",
+      "layman": "Keep people safe"
+    },
+    {
+      "jargon": "Protect aquatic life",
+      "layman": "Keep fish and wildlife safe"
+    },
+    {
+      "jargon": "Serve as guidance",
+      "layman": "Provide clear recommendations"
+    },
+    {
+      "jargon": "Support state and tribal decisions",
+      "layman": "Help local groups make choices"
+    },
+    {
+      "jargon": "Ensure environmental safety",
+      "layman": "Keep water safe for nature"
+    }
+  ]
+}

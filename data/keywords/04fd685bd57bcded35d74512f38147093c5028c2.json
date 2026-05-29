@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Subsets",
-      "layman": "Groups within a larger set"
+      "layman": "Parts of a whole group"
     },
     {
       "jargon": "Universe set",
-      "layman": "Full collection of elements"
+      "layman": "Complete set of things being studied"
     },
     {
       "jargon": "Epimorphisms",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Topological models",
-      "layman": "Logic using space and continuity"
+      "layman": "Logic using space and shapes"
     },
     {
       "jargon": "Tableau system",
       "layman": "Logical proof method"
     },
     {
-      "jargon": "Duality in category theory",
-      "layman": "Symmetrical relationships in math structures"
+      "jargon": "Dual logic",
+      "layman": "Reverse logic structure"
     }
   ],
   "outcomes": [
     {
       "jargon": "Correctness theorems",
-      "layman": "Proofs that rules work"
+      "layman": "Proofs that system works"
     },
     {
       "jargon": "Completeness theorems",
-      "layman": "Proofs that all valid statements are captured"
+      "layman": "Proofs that system captures all valid logic"
     },
     {
-      "jargon": "Dual logic",
-      "layman": "Opposite form of logic"
+      "jargon": "Logic of subsets",
+      "layman": "Standard way of organizing logic"
     },
     {
-      "jargon": "Quotient objects",
-      "layman": "Grouped versions of objects"
+      "jargon": "Duality between quotient objects and subobjects",
+      "layman": "Pairing of groupings and subdivisions"
     },
     {
-      "jargon": "Subobjects",
-      "layman": "Parts within a whole"
+      "jargon": "Interpretation of propositional logic",
+      "layman": "How basic logic is understood"
     }
   ]
 }

@@ -17,8 +17,8 @@
       "layman": "Cellular energy protein"
     },
     {
-      "jargon": "Fe(III) reduction",
-      "layman": "Iron reduction process"
+      "jargon": "Horse heart ferricytochrome c",
+      "layman": "Horse heart cytochrome c"
     }
   ],
   "methodologies": [
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Direct electrochemistry",
-      "layman": "Electron transfer directly"
+      "layman": "Electron transfer without mediators"
     },
     {
       "jargon": "UV-visible spectroscopy",
@@ -40,7 +40,7 @@
     },
     {
       "jargon": "Sorption kinetics",
-      "layman": "Speed of attachment"
+      "layman": "How fast it attaches"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Peak sorption at pH 8\u201310",
-      "layman": "Strongest binding in that pH range"
+      "layman": "Best binding in neutral-to-basic conditions"
     },
     {
       "jargon": "Negative reduction potential",
-      "layman": "Harder to oxidize"
+      "layman": "Easier to accept electrons"
     },
     {
-      "jargon": "pH-independent sorption kinetics",
-      "layman": "Attachment speed unchanged with pH"
+      "jargon": "Rapid sorption kinetics",
+      "layman": "Fast attachment"
     },
     {
-      "jargon": "Conformational changes after 60 h",
-      "layman": "Shape change after days"
+      "jargon": "Slow conformational changes",
+      "layman": "Slow shape shift"
     }
   ]
 }

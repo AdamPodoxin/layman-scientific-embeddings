@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Civil Engineering",
-      "layman": "Building and infrastructure design"
+      "layman": "Engineering of buildings and infrastructure"
     },
     {
       "jargon": "Construction Management",
-      "layman": "Overseeing building projects"
+      "layman": "Planning and oversight of building projects"
     },
     {
       "jargon": "Print resources",
-      "layman": "Physical books and documents"
+      "layman": "Physical books and journals"
     },
     {
       "jargon": "Electronic resources",
-      "layman": "Digital articles and databases"
+      "layman": "Digital books and online articles"
     },
     {
-      "jargon": "Construction projects",
-      "layman": "Building initiatives"
+      "jargon": "Infrastructure",
+      "layman": "Roads, bridges, and public buildings"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Finding relevant materials"
     },
     {
-      "jargon": "Effective use",
-      "layman": "Using resources well"
+      "jargon": "Effective usage",
+      "layman": "Using resources correctly"
     },
     {
-      "jargon": "Print and electronic access",
-      "layman": "Accessing physical and digital content"
+      "jargon": "Project planning",
+      "layman": "Organizing a construction schedule"
     },
     {
-      "jargon": "Information retrieval",
-      "layman": "Finding specific information"
+      "jargon": "Digital access",
+      "layman": "Accessing online databases"
     },
     {
-      "jargon": "Guided navigation",
-      "layman": "Following structured help paths"
+      "jargon": "Physical access",
+      "layman": "Using printed books and materials"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Assistance in locating",
-      "layman": "Help finding resources"
+      "jargon": "Locating resources",
+      "layman": "Finding needed information"
     },
     {
-      "jargon": "Effective utilization",
-      "layman": "Using resources properly"
+      "jargon": "Using resources effectively",
+      "layman": "Getting the most out of materials"
     },
     {
-      "jargon": "Improved access",
-      "layman": "Better access to materials"
+      "jargon": "Improved project delivery",
+      "layman": "Better construction timelines"
     },
     {
-      "jargon": "Comprehensive support",
-      "layman": "Full support for research"
+      "jargon": "Access to up-to-date data",
+      "layman": "Staying current with new methods"
     },
     {
-      "jargon": "Enhanced research efficiency",
-      "layman": "Faster, better research"
+      "jargon": "Enhanced decision-making",
+      "layman": "Making smarter choices in engineering"
     }
   ]
 }

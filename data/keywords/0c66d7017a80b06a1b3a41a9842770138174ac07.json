@@ -5,64 +5,64 @@
       "layman": "Literature rooted in African culture"
     },
     {
-      "jargon": "Afrocentric examination",
-      "layman": "Analysis from an African perspective"
+      "jargon": "Afrocentric analysis",
+      "layman": "Analysis from an African-focused perspective"
     },
     {
       "jargon": "Black writers",
       "layman": "African American authors"
     },
     {
-      "jargon": "Eurocentered criteria",
-      "layman": "Western-based standards"
+      "jargon": "Spiritual commentary",
+      "layman": "Moral or religious reflections"
     },
     {
-      "jargon": "Signifyin",
-      "layman": "A form of cultural wordplay and meaning"
+      "jargon": "Eurocentered criteria",
+      "layman": "Judgments based on European standards"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Signifyin",
+      "layman": "Creative wordplay to express deeper meaning"
+    },
+    {
+      "jargon": "Coolness",
+      "layman": "Aesthetic or cultural style of confidence"
+    },
+    {
       "jargon": "Critical examination",
-      "layman": "Careful analysis"
+      "layman": "Close review and evaluation"
     },
     {
-      "jargon": "Literary analysis",
-      "layman": "Interpreting literature"
-    },
-    {
-      "jargon": "Cultural critique",
-      "layman": "Judging culture from a critical view"
+      "jargon": "Literary production",
+      "layman": "Writing and publishing of literature"
     },
     {
       "jargon": "Analytical tools",
-      "layman": "Methods to understand meaning"
-    },
-    {
-      "jargon": "Spiritual commentary",
-      "layman": "Reflections on spiritual life"
+      "layman": "Methods used to interpret meaning"
     }
   ],
   "outcomes": [
     {
       "jargon": "Ideological commentary",
-      "layman": "Exploration of beliefs and values"
+      "layman": "Social or political messages"
     },
     {
-      "jargon": "Social commentary",
-      "layman": "Reflection on society"
+      "jargon": "Spiritual and social insights",
+      "layman": "Understanding of faith and community"
     },
     {
-      "jargon": "Spiritual insight",
-      "layman": "Understanding of spiritual life"
+      "jargon": "Conclusions about literary value",
+      "layman": "Judgments on a work's importance"
+    },
+    {
+      "jargon": "True reflection of tradition",
+      "layman": "Accurate representation of cultural life"
     },
     {
       "jargon": "Cultural contribution",
-      "layman": "Value added by culture"
-    },
-    {
-      "jargon": "Legacy of Black fathers",
-      "layman": "Impact of Black father figures"
+      "layman": "Value added to cultural history"
     }
   ]
 }

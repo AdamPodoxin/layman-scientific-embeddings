@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Rift basin",
-      "layman": "Splitting geological region"
+      "layman": "Splitting geological area"
     },
     {
       "jargon": "Magma intumescing",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Sedimentary formations",
-      "layman": "Layered rock layers"
+      "layman": "Laydown layers of sediment"
     },
     {
       "jargon": "Basement",
-      "layman": "Deep underground rock base"
+      "layman": "Deep underlying rock layer"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Magnetic data",
-      "layman": "Earth's magnetic field readings"
+      "layman": "Magnetic field readings"
     },
     {
       "jargon": "Seismic data",
-      "layman": "Sound wave travel through earth"
+      "layman": "Sound wave reflections"
     },
     {
       "jargon": "Joint solution",
-      "layman": "Combining different data types"
+      "layman": "Combining multiple data types"
     },
     {
       "jargon": "Basement undulation",
-      "layman": "Wavy shape of deep rock base"
+      "layman": "Wavy shape of deep rock"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Weak sound wave signals"
     },
     {
-      "jargon": "Difficult to identify basement",
-      "layman": "Hard to find deep rock base"
+      "jargon": "Difficulty identifying basement",
+      "layman": "Can't see deep rock clearly"
     },
     {
       "jargon": "Evaluation of source rocks",
-      "layman": "Check for oil or gas potential"
+      "layman": "Assessing rock that holds oil"
     },
     {
       "jargon": "Improved exploration effect",
-      "layman": "Better discovery results"
+      "layman": "Better detection results"
     },
     {
       "jargon": "Deeper structure beneath volcanic rocks",
-      "layman": "Hidden layers under volcanic rock"
+      "layman": "Hidden layers below lava rocks"
     }
   ]
 }

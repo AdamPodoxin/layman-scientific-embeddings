@@ -5,64 +5,55 @@
       "layman": "Mouse"
     },
     {
-      "jargon": "Word processing",
-      "layman": "Editing text"
+      "jargon": "Douglas Engelbart",
+      "layman": "Computer pioneer"
     },
     {
+      "jargon": "Stanford Research Institute",
+      "layman": "Research organization"
+    },
+    {
+      "jargon": "Computer conference",
+      "layman": "Tech meeting"
+    },
+    {
+      "jargon": "Word processing",
+      "layman": "Editing text on a computer"
+    }
+  ],
+  "methodologies": [
+    {
       "jargon": "Dynamic links",
-      "layman": "Connecting parts of a document"
+      "layman": "Connected screens for shared actions"
     },
     {
       "jargon": "Shared-screen collaboration",
       "layman": "Working together on one screen"
     },
-    {
-      "jargon": "Computing technologies",
-      "layman": "Digital tools for computers"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Demonstration",
-      "layman": "Showcasing a new tool"
-    },
-    {
-      "jargon": "Computer conference",
-      "layman": "Meeting of computer experts"
-    },
-    {
-      "jargon": "Development",
-      "layman": "Building something new"
-    },
-    {
-      "jargon": "Studying",
-      "layman": "Testing or observing"
-    },
-    {
-      "jargon": "Collaboration",
-      "layman": "Working together"
-    }
+    "mouse",
+    "demonstration",
+    "technology showcase"
   ],
   "outcomes": [
     {
-      "jargon": "Modern computing",
+      "jargon": "First public showcase",
+      "layman": "First time seen publicly"
+    },
+    {
+      "jargon": "Modern computing elements",
       "layman": "Today's computer features"
     },
     {
-      "jargon": "First public showcase",
-      "layman": "First time shown to the public"
+      "jargon": "Audience awe",
+      "layman": "People were amazed"
     },
     {
-      "jargon": "Audience amazed",
-      "layman": "People were surprised"
-    },
-    {
-      "jargon": "Technology under development",
+      "jargon": "Computing technologies under development",
       "layman": "New tech being built"
     },
     {
-      "jargon": "Innovation introduced",
-      "layman": "New ideas shared"
+      "jargon": "Revolutionized computing interface",
+      "layman": "Changed how people use computers"
     }
   ]
 }

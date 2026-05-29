@@ -5,26 +5,26 @@
       "layman": "Set of arguments and their relationships"
     },
     {
-      "jargon": "Extension",
-      "layman": "Group of arguments that follow specific rules"
+      "jargon": "Extensions",
+      "layman": "Groups of arguments that follow specific rules"
     },
     {
       "jargon": "Domain",
       "layman": "Set of all possible arguments"
     },
     {
-      "jargon": "Enumeration",
-      "layman": "List of all possible groups"
+      "jargon": "Delimiters",
+      "layman": "Separators in text files"
     },
     {
-      "jargon": "Text file",
-      "layman": "Digital list of data"
+      "jargon": "Enumeration",
+      "layman": "Listing all possible options"
     }
   ],
   "methodologies": [
     {
       "jargon": "Representation of extensions",
-      "layman": "Ways to organize argument groups"
+      "layman": "Ways to write down argument groups"
     },
     {
       "jargon": "Empirical evaluation",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Comparison of enumerations",
-      "layman": "Checking differences between lists"
+      "layman": "Checking how similar two lists are"
+    },
+    {
+      "jargon": "Efficient comparison",
+      "layman": "Fast and smart matching"
     },
     {
       "jargon": "Memory and time efficiency",
-      "layman": "Fast and low-resource processing"
-    },
-    {
-      "jargon": "Proposed representation",
-      "layman": "New way to store argument groups"
+      "layman": "Using little memory and fast processing"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Efficient comparison",
-      "layman": "Faster matching of argument groups"
-    },
-    {
-      "jargon": "Memory and time efficient",
-      "layman": "Uses less memory and time"
-    },
-    {
-      "jargon": "Large number of enumerations",
-      "layman": "Many long lists of argument groups"
-    },
-    {
-      "jargon": "Existing solutions",
-      "layman": "Old methods used before"
+      "jargon": "Memory and time efficient manner",
+      "layman": "Uses less memory and runs faster"
     },
     {
       "jargon": "Newly proposed representation",
-      "layman": "Improved method for organizing data"
+      "layman": "New way to organize argument groups"
+    },
+    {
+      "jargon": "Large number of enumerations",
+      "layman": "Thousands of argument sets"
+    },
+    {
+      "jargon": "Performance improvement",
+      "layman": "Better speed and saving resources"
+    },
+    {
+      "jargon": "Existing solutions",
+      "layman": "Old methods used for comparison"
     }
   ]
 }

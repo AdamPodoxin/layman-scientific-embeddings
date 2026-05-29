@@ -9,7 +9,7 @@
       "layman": "Hidden data space"
     },
     {
-      "jargon": "Feature representation",
+      "jargon": "Feature representations",
       "layman": "Data features"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Supervised discrimination tasks",
-      "layman": "Label-based classification"
+      "layman": "Tasks where correct answers are known"
     }
   ],
   "methodologies": [
@@ -28,11 +28,7 @@
     },
     {
       "jargon": "Linearize semantics",
-      "layman": "Simplify meaning"
-    },
-    {
-      "jargon": "Project data back",
-      "layman": "Push data back into hidden space"
+      "layman": "Simplify meaning structure"
     },
     {
       "jargon": "Auxiliary problems",
@@ -40,29 +36,33 @@
     },
     {
       "jargon": "Unsupervised feature learning",
-      "layman": "Learn features without labels"
+      "layman": "Learning without labels"
+    },
+    {
+      "jargon": "Self-supervised feature learning",
+      "layman": "Learning from data itself"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Competitive with contemporary approaches",
-      "layman": "Matches current best methods"
-    },
-    {
       "jargon": "Learned feature representation",
       "layman": "Useful data features"
+    },
+    {
+      "jargon": "Competitive with contemporary approaches",
+      "layman": "Performs as well as current methods"
     },
     {
       "jargon": "Empirically demonstrated",
       "layman": "Proven through experiments"
     },
     {
-      "jargon": "Useful for auxiliary tasks",
-      "layman": "Helps with side problems"
+      "jargon": "Complex data distributions",
+      "layman": "Rich data patterns"
     },
     {
-      "jargon": "Inverse mapping learned",
-      "layman": "Reverse path learned"
+      "jargon": "Simple latent distributions",
+      "layman": "Basic hidden data patterns"
     }
   ]
 }

@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Herbal remedies",
-      "layman": "Plant-based medicines"
+      "layman": "Plant-based cures"
     },
     {
       "jargon": "Richard Bradley",
-      "layman": "18th-century English farmer"
+      "layman": "English farming writer"
     },
     {
       "jargon": "Philip Miller",
-      "layman": "Gardening expert"
+      "layman": "English gardening expert"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Traditional farming practices",
-      "layman": "Old farming methods"
+      "jargon": "Traditional farming lore",
+      "layman": "Old farming rules passed down"
     },
     {
-      "jargon": "Manual translation",
-      "layman": "Copying books by hand"
+      "jargon": "Adapted to the climates",
+      "layman": "Tailored to local weather"
     },
     {
-      "jargon": "Access to English works",
-      "layman": "Getting books from England"
+      "jargon": "Published manuals",
+      "layman": "Written farming guides"
     },
     {
-      "jargon": "Relied on English texts",
-      "layman": "Used foreign farming books"
+      "jargon": "Transmitted through print",
+      "layman": "Shared via books"
     },
     {
-      "jargon": "Published gardening authorities",
-      "layman": "Books by known gardeners"
+      "jargon": "Relied on English works",
+      "layman": "Used foreign gardening books"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Little farming literature",
-      "layman": "Few written farming guides"
+      "jargon": "Little writing on farming",
+      "layman": "Scarce farming records"
     },
     {
-      "jargon": "Depended on English works",
-      "layman": "Used foreign books for advice"
+      "jargon": "Depended on English texts",
+      "layman": "Used foreign guides"
     },
     {
-      "jargon": "Adapted to U.S. climates",
-      "layman": "Adjusted to local weather"
+      "jargon": "Found English editions",
+      "layman": "Got British versions in colonies"
     },
     {
-      "jargon": "Limited colonial writing",
-      "layman": "Not much was written"
+      "jargon": "Gardening authorities",
+      "layman": "Respected gardening experts"
     },
     {
-      "jargon": "Gardening practices from England",
-      "layman": "Gardening from British methods"
+      "jargon": "Concocting herbal remedies",
+      "layman": "Creating plant cures"
     }
   ]
 }

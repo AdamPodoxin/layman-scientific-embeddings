@@ -5,8 +5,8 @@
       "layman": "The Church Militant"
     },
     {
-      "jargon": "Neo-Latin poetic genre",
-      "layman": "Latin-style poetry from the early modern period"
+      "jargon": "Neo-Latin",
+      "layman": "Latin-based writing from the early modern period"
     },
     {
       "jargon": "Anglo-Latin miniature epics",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Manuscript translation",
-      "layman": "Handwritten version of a poem"
+      "layman": "Handwritten version of a text"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Contextual analysis",
-      "layman": "Studying a text in its historical background"
+      "jargon": "Textual analysis",
+      "layman": "Studying written texts for patterns"
     },
     {
-      "jargon": "Textual revision",
-      "layman": "Changing a text to fit a different style"
+      "jargon": "Historical context",
+      "layman": "Placing a text in its time period"
     },
     {
       "jargon": "Comparative reading",
-      "layman": "Comparing two texts to find similarities"
+      "layman": "Comparing poems to see similarities"
     },
     {
-      "jargon": "Historical siting",
-      "layman": "Placing a text in its time and place"
+      "jargon": "Revision of text",
+      "layman": "Editing or changing a text to fit a style"
     },
     {
-      "jargon": "Poetic genre mapping",
-      "layman": "Matching a poem to a known style or type"
+      "jargon": "Poetic genre analysis",
+      "layman": "Studying how a poem fits a type of writing"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Generic ties",
-      "layman": "Strong connections in style or form"
+      "jargon": "Close generic ties",
+      "layman": "Strong similarity in form and style"
     },
     {
-      "jargon": "Vernacular choice",
-      "layman": "Using everyday language instead of Latin"
-    },
-    {
-      "jargon": "Textual revision",
-      "layman": "Changing the original text to fit a different style"
+      "jargon": "Revises elements of tradition",
+      "layman": "Updates or changes old patterns"
     },
     {
       "jargon": "Surprising proximity",
-      "layman": "Unexpected closeness to another tradition"
+      "layman": "Unexpected closeness to a different kind of poem"
+    },
+    {
+      "jargon": "Departure from tradition",
+      "layman": "Moving away from old styles"
     },
     {
       "jargon": "New light on Herbert\u2019s choice",
-      "layman": "New understanding of why Herbert wrote in English"
+      "layman": "Better understanding of why Herbert chose English"
     }
   ]
 }

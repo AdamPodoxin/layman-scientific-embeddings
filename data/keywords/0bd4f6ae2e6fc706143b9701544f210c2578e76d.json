@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Puiseux series",
-      "layman": "Special mathematical series"
+      "layman": "Puiseux series"
     },
     {
       "jargon": "Oscillatory integrals",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Smooth adapted coordinates",
-      "layman": "Smooth coordinate system"
+      "layman": "Smooth adapted coordinates"
     },
     {
       "jargon": "Singularities",
@@ -18,17 +18,17 @@
     },
     {
       "jargon": "Real-analytic case",
-      "layman": "Smooth, well-behaved functions"
+      "layman": "Smooth functions in real numbers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Newton's method",
-      "layman": "Iterative calculation process"
+      "layman": "Iterative approximation"
     },
     {
       "jargon": "Resolution of singularities",
-      "layman": "Fixing sharp points in math"
+      "layman": "Smoothing out sharp points"
     },
     {
       "jargon": "Infinite recursive process",
@@ -40,17 +40,17 @@
     },
     {
       "jargon": "Convergence proof",
-      "layman": "Showing a series settles down"
+      "layman": "Showing it stabilizes"
     }
   ],
   "outcomes": [
     {
       "jargon": "Existence of Puiseux series",
-      "layman": "Series exists"
+      "layman": "Series actually exists"
     },
     {
       "jargon": "Convergence of Puiseux series",
-      "layman": "Series stabilizes"
+      "layman": "Series settles down"
     },
     {
       "jargon": "Existence of smooth adapted coordinates",
@@ -58,7 +58,7 @@
     },
     {
       "jargon": "Proof in two dimensions",
-      "layman": "Result in 2D space"
+      "layman": "Confirmed in 2D space"
     },
     {
       "jargon": "General smooth case",

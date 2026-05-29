@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Courtly lexicon",
-      "layman": "Words from the royal court"
+      "layman": "Words from the capital's elite culture"
     }
   ],
   "methodologies": [
     {
       "jargon": "Poetic exchange",
-      "layman": "Poets sharing verses"
+      "layman": "Sharing poems between people"
     },
     {
       "jargon": "Dialectical interaction",
       "layman": "Back-and-forth dialogue"
     },
     {
-      "jargon": "Representation through poetry",
-      "layman": "Using poems to describe places"
-    },
-    {
-      "jargon": "Movement patterns",
-      "layman": "How people traveled and settled"
-    },
-    {
       "jargon": "Political inertia",
-      "layman": "Slow change in government systems"
+      "layman": "Slow change in power structures"
+    },
+    {
+      "jargon": "Movement of warrior camps",
+      "layman": "Shifting soldier bases"
+    },
+    {
+      "jargon": "Representation through poetry",
+      "layman": "Using poems to show a place"
     }
   ],
   "outcomes": [
     {
       "jargon": "Persistent medieval",
-      "layman": "Long-lasting medieval traditions"
+      "layman": "Long-lasting medieval way of life"
     },
     {
       "jargon": "Nuanced representation",
-      "layman": "More detailed and accurate depictions"
+      "layman": "More accurate and detailed view"
     },
     {
       "jargon": "Stock portrayal",
-      "layman": "Simple or clich\u00e9d image of a place"
+      "layman": "Simple or basic image of a place"
     },
     {
       "jargon": "Attachment to place",
-      "layman": "Strong emotional bond with a location"
+      "layman": "Strong bond with a location"
     },
     {
-      "jargon": "Shift in perception",
-      "layman": "Changing view of a region over time"
+      "jargon": "Unruliness of experience",
+      "layman": "Real-life unpredictability"
     }
   ]
 }

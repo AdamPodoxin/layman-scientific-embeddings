@@ -5,64 +5,64 @@
       "layman": "Program studying politics"
     },
     {
-      "jargon": "Graduate courses",
-      "layman": "Advanced university classes"
+      "jargon": "American government",
+      "layman": "U.S. government system"
     },
     {
       "jargon": "Undergraduate courses",
       "layman": "College-level classes"
     },
     {
-      "jargon": "American government",
-      "layman": "U.S. government system"
+      "jargon": "Graduate courses",
+      "layman": "Advanced college classes"
     },
     {
       "jargon": "Laboratory sessions",
-      "layman": "Hands-on class activities"
+      "layman": "Hands-on learning sessions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Research-oriented situation",
-      "layman": "Real-world research setup"
+      "layman": "Situation based on real research"
     },
     {
       "jargon": "Student observation",
-      "layman": "Watching students in action"
+      "layman": "Watching students observe"
     },
     {
       "jargon": "Student participation",
-      "layman": "Students joining in"
+      "layman": "Students taking part"
     },
     {
-      "jargon": "Accompanying laboratory sessions",
-      "layman": "Class with hands-on practice"
+      "jargon": "Accompanying sessions",
+      "layman": "Side activities with classes"
     },
     {
-      "jargon": "Begun in 1957",
-      "layman": "Started over 60 years ago"
+      "jargon": "Political engagement",
+      "layman": "Getting involved in politics"
     }
   ],
   "outcomes": [
     {
       "jargon": "Excellent results",
-      "layman": "Good success"
+      "layman": "Great success"
     },
     {
       "jargon": "Social science research",
       "layman": "Study of human behavior"
     },
     {
+      "jargon": "Research begun in 1957",
+      "layman": "Started 60+ years ago"
+    },
+    {
+      "jargon": "Research at North Carolina",
+      "layman": "Study happening in NC"
+    },
+    {
       "jargon": "Teaching of politics",
-      "layman": "Teaching about political systems"
-    },
-    {
-      "jargon": "Research features",
-      "layman": "Key aspects of research"
-    },
-    {
-      "jargon": "Program's outstanding features",
-      "layman": "Notable strengths of the program"
+      "layman": "How politics is taught"
     }
   ]
 }

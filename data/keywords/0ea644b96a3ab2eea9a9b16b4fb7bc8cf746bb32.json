@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Obliq",
-      "layman": "Obliq"
+      "layman": "Programming language"
     },
     {
       "jargon": "Distributed objects",
-      "layman": "Objects that exist on different computers"
+      "layman": "Objects that live on different computers"
     },
     {
       "jargon": "Lexically-scoped",
-      "layman": "Scope based on code location"
+      "layman": "Scope based on code structure"
     },
     {
       "jargon": "Network connections",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Distributed lexical scoping",
-      "layman": "Managing code access across computers"
+      "layman": "Rules for variable access across networks"
     },
     {
-      "jargon": "Roam over the network",
-      "layman": "Move computations between computers"
+      "jargon": "Roaming computations",
+      "layman": "Processes that move between computers"
     },
     {
       "jargon": "Interpreted language",
-      "layman": "Language executed directly, not compiled"
+      "layman": "Code executed directly, not compiled"
+    },
+    {
+      "jargon": "UnTyped language",
+      "layman": "No fixed data types"
     },
     {
       "jargon": "Object-oriented computation",
-      "layman": "Computing using objects with behaviors"
-    },
-    {
-      "jargon": "Local to a site",
-      "layman": "Bound to a specific computer location"
+      "layman": "Computing built around objects"
     }
   ],
   "outcomes": [
-    {
-      "jargon": "Distributed object-oriented computation",
-      "layman": "Computing across devices using objects"
-    },
     {
       "jargon": "Maintaining network connections",
       "layman": "Staying connected while moving"
     },
     {
-      "jargon": "Lexically-scoped language",
-      "layman": "Code scope defined by where it's written"
+      "jargon": "Distributed computation",
+      "layman": "Computing spread across networked machines"
     },
     {
-      "jargon": "Untyped language",
-      "layman": "No strict rules about data types"
+      "jargon": "Local to a site",
+      "layman": "Only accessible on one computer"
     },
     {
-      "jargon": "Networked computation",
-      "layman": "Computing that works across multiple devices"
+      "jargon": "Networked execution",
+      "layman": "Running code across multiple devices"
+    },
+    {
+      "jargon": "Scoping mechanism",
+      "layman": "Rule for finding variables remotely"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Bilateral transactions",
-      "layman": "Two-country trade deals"
+      "layman": "Trade between two countries"
     },
     {
       "jargon": "Producers",
-      "layman": "People who make goods"
+      "layman": "Firms or farmers making goods"
     },
     {
       "jargon": "Consumers",
-      "layman": "People who buy goods"
+      "layman": "People buying goods and services"
     },
     {
-      "jargon": "Economic transactions",
-      "layman": "Trade and financial exchanges"
+      "jargon": "Welfare",
+      "layman": "Overall well-being"
     },
     {
-      "jargon": "Peace efforts",
-      "layman": "Actions to end war"
+      "jargon": "Existing production",
+      "layman": "Current goods being made"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Welfare analysis",
-      "layman": "Evaluating well-being"
+      "jargon": "Economic transactions",
+      "layman": "Trade and business exchanges"
     },
     {
-      "jargon": "Trade policy assessment",
-      "layman": "Reviewing trade rules"
+      "jargon": "Peace effort",
+      "layman": "Government pushing for peace"
     },
     {
-      "jargon": "Impact evaluation",
-      "layman": "Measuring effects of actions"
+      "jargon": "Impact analysis",
+      "layman": "Evaluating effects of changes"
     },
     {
-      "jargon": "Comparative analysis",
-      "layman": "Comparing different situations"
+      "jargon": "Trade liberalization",
+      "layman": "Opening up markets for trade"
     },
     {
-      "jargon": "Production types",
-      "layman": "Types of goods made"
+      "jargon": "Establishing new production",
+      "layman": "Starting to make new goods"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Welfare of producers",
-      "layman": "Producers' well-being"
-    },
-    {
-      "jargon": "Welfare of consumers",
-      "layman": "Consumers' well-being"
-    },
-    {
       "jargon": "Attitude toward peace",
-      "layman": "People's view on peace"
+      "layman": "People's support for peace"
     },
     {
-      "jargon": "Existing trade",
-      "layman": "Current trade"
+      "jargon": "Welfare improvement",
+      "layman": "Better living conditions"
     },
     {
-      "jargon": "New productions",
-      "layman": "New goods made"
+      "jargon": "Citizen access to goods",
+      "layman": "People can buy more goods"
+    },
+    {
+      "jargon": "Economic benefits",
+      "layman": "Better income and growth"
+    },
+    {
+      "jargon": "New trade agreements",
+      "layman": "New deals between countries"
     }
   ]
 }

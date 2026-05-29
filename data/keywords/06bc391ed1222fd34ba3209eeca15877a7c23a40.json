@@ -10,11 +10,11 @@
     },
     {
       "jargon": "G-varieties",
-      "layman": "Spaces with group actions"
+      "layman": "Geometric spaces with group actions"
     },
     {
       "jargon": "Affine G-varieties",
-      "layman": "Flat spaces with group actions"
+      "layman": "Flat spaces with group symmetry"
     },
     {
       "jargon": "Oriented cycles",
@@ -24,11 +24,11 @@
   "methodologies": [
     {
       "jargon": "GIT-equivalence",
-      "layman": "Equality under group symmetry"
+      "layman": "Equality in geometric invariant theory"
     },
     {
       "jargon": "Construction of GIT-fan",
-      "layman": "Building the fan structure"
+      "layman": "Building the fan step-by-step"
     },
     {
       "jargon": "Cox rings",
@@ -36,11 +36,11 @@
     },
     {
       "jargon": "Geometric Invariant Theory",
-      "layman": "Method to study symmetric spaces"
+      "layman": "Method to study symmetric shapes"
     },
     {
       "jargon": "Group actions",
-      "layman": "Symmetries applied to objects"
+      "layman": "Symmetries applied to shapes"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Well-behaved symmetric spaces"
     },
     {
-      "jargon": "Simpler construction",
-      "layman": "Easier method to build"
-    },
-    {
       "jargon": "No oriented cycles",
       "layman": "No closed loops with direction"
     },
     {
-      "jargon": "Geometriae Dedicata",
-      "layman": "Mathematical journal"
+      "jargon": "Simplified construction",
+      "layman": "Easy-to-use method"
     },
     {
-      "jargon": "Cox rings",
-      "layman": "Polynomial structure for geometry"
+      "jargon": "Recent construction",
+      "layman": "New and updated method"
+    },
+    {
+      "jargon": "Follow closely",
+      "layman": "Exact replication of steps"
     }
   ]
 }

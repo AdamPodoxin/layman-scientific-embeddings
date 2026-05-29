@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Nucleotide 5\u2032-monophosphates",
-      "layman": "Phosphate-containing building blocks of RNA"
+      "layman": "Phosphate-containing building blocks of DNA/RNA"
     },
     {
       "jargon": "Protonated ethylenediamine",
-      "layman": "A charged amine with two nitrogen groups"
+      "layman": "Amino compound with extra hydrogen ions"
     },
     {
       "jargon": "Putrescine",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Cadaverine",
-      "layman": "A biogenic amine found in decaying tissue"
+      "layman": "A biological amine found in decay"
     },
     {
       "jargon": "Spermidine",
@@ -24,29 +24,29 @@
   "methodologies": [
     {
       "jargon": "Potentiometrically",
-      "layman": "Measuring voltage changes to detect interactions"
+      "layman": "Measuring electrical potential changes"
     },
     {
       "jargon": "Stability analysis",
-      "layman": "Testing how long complexes last"
-    },
-    {
-      "jargon": "Charge product \u03b6",
-      "layman": "How much charge is in the combined ions"
+      "layman": "Assessing how long a chemical complex lasts"
     },
     {
       "jargon": "Hydrogen bonding",
-      "layman": "Atoms sharing electrons to stick together"
+      "layman": "Molecular attraction through shared hydrogen"
     },
     {
       "jargon": "Steric arrangement",
-      "layman": "How molecules fit in space"
+      "layman": "Molecular shape affecting interactions"
+    },
+    {
+      "jargon": "Chemical speciation",
+      "layman": "How molecules exist in different forms"
     }
   ],
   "outcomes": [
     {
       "jargon": "Species ALH20",
-      "layman": "A stable complex with two negative charges"
+      "layman": "A stable phosphate-amine complex"
     },
     {
       "jargon": "Species ALH3+",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Species ALH42+",
-      "layman": "A highly charged complex with four positive charges"
+      "layman": "A highly charged phosphate-amine complex"
     },
     {
-      "jargon": "logKr/\u03b6 constant",
-      "layman": "Stability pattern stays the same across systems"
+      "jargon": "logK/\u03b6 ratio",
+      "layman": "Measure of complex stability per charge"
     },
     {
-      "jargon": "Chemical speciation",
-      "layman": "How molecules exist in different forms"
+      "jargon": "Similarity to ATP complexes",
+      "layman": "Same stability pattern as ATP complexes"
     }
   ]
 }

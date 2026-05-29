@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "knowledge-intensive firms",
-      "layman": "firms relying on knowledge"
+      "jargon": "Knowledge-intensive firms",
+      "layman": "Firms relying on knowledge"
     },
     {
-      "jargon": "innovation networks",
-      "layman": "networks of firms collaborating"
+      "jargon": "Innovation networks",
+      "layman": "Groups of companies working together"
     },
     {
-      "jargon": "biotechnology firms",
-      "layman": "biotech companies"
+      "jargon": "Biotechnology firms",
+      "layman": "Biotech companies"
     },
     {
-      "jargon": "social capital",
-      "layman": "trust and relationships in networks"
+      "jargon": "Social capital",
+      "layman": "Trust and relationships in networks"
     },
     {
-      "jargon": "complementary assets",
-      "layman": "supporting resources for innovation"
+      "jargon": "Network embeddedness",
+      "layman": "Being connected to a group"
     }
   ],
   "methodologies": [
     {
-      "jargon": "rare event logit model",
-      "layman": "model for rare partnership choices"
+      "jargon": "Rare event logit model",
+      "layman": "Model for predicting rare choices"
     },
     {
-      "jargon": "questionnaire-based face-to-face interviews",
-      "layman": "direct surveys with interviews"
+      "jargon": "Questionnaire-based interviews",
+      "layman": "Surveys with face-to-face questions"
     },
     {
-      "jargon": "documentary information",
-      "layman": "official records and documents"
+      "jargon": "Documentary information",
+      "layman": "Written records and documents"
     },
     {
-      "jargon": "imprinting",
-      "layman": "learning from early connections"
+      "jargon": "Imprinting",
+      "layman": "Learning early connections"
     },
     {
-      "jargon": "network embeddedness",
-      "layman": "being part of a group of similar firms"
+      "jargon": "Inertia for tie persistence",
+      "layman": "Staying with current partners"
     }
   ],
   "outcomes": [
     {
-      "jargon": "partner selection",
-      "layman": "choosing who to work with"
+      "jargon": "Partner selection",
+      "layman": "Choosing a business partner"
     },
     {
-      "jargon": "resource access",
-      "layman": "getting needed resources"
+      "jargon": "Resource access",
+      "layman": "Getting needed supplies"
     },
     {
-      "jargon": "persistence in ties",
-      "layman": "keeping existing partnerships"
+      "jargon": "Knowledge resources",
+      "layman": "Important information"
     },
     {
-      "jargon": "novelty in ties",
-      "layman": "forming new partnerships"
+      "jargon": "Complementary assets",
+      "layman": "Extra resources that match needs"
     },
     {
-      "jargon": "different network strategies",
-      "layman": "varied ways to build networks"
+      "jargon": "Credibility",
+      "layman": "Trustworthiness and reputation"
     }
   ]
 }

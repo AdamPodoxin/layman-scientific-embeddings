@@ -2,33 +2,33 @@
   "core_entities": [
     {
       "jargon": "Mn4O46+ core",
-      "layman": "Manganese-oxo cubane center"
+      "layman": "Manganese-oxo cluster"
+    },
+    {
+      "jargon": "Manganese-oxo cubane core",
+      "layman": "Cube-shaped manganese-oxo group"
     },
     {
       "jargon": "Photosynthetic water oxidation enzyme",
       "layman": "Enzyme that splits water to make oxygen"
     },
     {
-      "jargon": "Manganese-oxo cubane",
-      "layman": "Manganese-oxo cube structure"
+      "jargon": "Mn4O4 core",
+      "layman": "Manganese-oxo cube center"
     },
     {
       "jargon": "dpp- anion",
-      "layman": "Phosphinate group"
-    },
-    {
-      "jargon": "Mn4O2-butterfly core",
-      "layman": "Manganese-oxo butterfly shape"
+      "layman": "Phosphinate ligand"
     }
   ],
   "methodologies": [
     {
       "jargon": "Bond enthalpy data",
-      "layman": "Energy measurements of bonds"
+      "layman": "Energy measurements from bonds"
     },
     {
       "jargon": "UV light absorption",
-      "layman": "Using UV light to trigger reaction"
+      "layman": "UV light exposure"
     },
     {
       "jargon": "High resolution mass spectrometry",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Charge-transfer excited state",
-      "layman": "Electron transfer in manganese-oxo bond"
+      "layman": "Electron transfer during light absorption"
     },
     {
-      "jargon": "Kinetic barrier",
-      "layman": "Energy hill blocking reaction"
+      "jargon": "Kinetic prevention",
+      "layman": "Slowed chemical reaction"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Molecular oxygen release",
-      "layman": "Oxygen gas released"
+      "jargon": "Release of molecular O2",
+      "layman": "Production of oxygen gas"
+    },
+    {
+      "jargon": "Activation barrier",
+      "layman": "Energy hurdle blocking reaction"
     },
     {
       "jargon": "Quantum efficiency >50%",
-      "layman": "High success rate in reaction"
+      "layman": "Half the times reaction works"
     },
     {
       "jargon": "Bridging dpp- anion release",
-      "layman": "Phosphinate group released"
+      "layman": "Ligand released during reaction"
     },
     {
-      "jargon": "Cationic species (dpp)5Mn4O2+",
-      "layman": "Positive manganese-oxo fragment"
-    },
-    {
-      "jargon": "Thermodynamically capable",
-      "layman": "Can release oxygen in theory"
+      "jargon": "Mn4O2-butterfly core type",
+      "layman": "Flattened manganese-oxo structure"
     }
   ]
 }

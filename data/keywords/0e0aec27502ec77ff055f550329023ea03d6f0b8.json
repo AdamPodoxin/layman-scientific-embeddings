@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Emerging market economies",
-      "layman": "Growing economies"
+      "layman": "Growing countries with developing economies"
     },
     {
       "jargon": "Central bank balance sheets",
@@ -23,12 +23,16 @@
   ],
   "methodologies": [
     {
-      "jargon": "Monetary policy measures",
-      "layman": "Interest rate changes"
+      "jargon": "Macroeconomic policies",
+      "layman": "Big economy-wide policy decisions"
     },
     {
       "jargon": "Macroprudential instruments",
-      "layman": "Tools to manage financial risk"
+      "layman": "Tools to keep financial systems stable"
+    },
+    {
+      "jargon": "Monetary policy measures",
+      "layman": "Actions taken by central banks to control money"
     },
     {
       "jargon": "Fiscal policy measures",
@@ -36,33 +40,29 @@
     },
     {
       "jargon": "Credit growth",
-      "layman": "More loans being given"
-    },
-    {
-      "jargon": "Foreign exchange appreciation",
-      "layman": "Currency becomes stronger"
+      "layman": "How much loans are being given"
     }
   ],
   "outcomes": [
     {
       "jargon": "Deflation risk",
-      "layman": "Prices falling too much"
+      "layman": "Risk of falling prices"
     },
     {
       "jargon": "Policy rates approaching zero",
-      "layman": "Interest rates near minimum"
+      "layman": "Interest rates near minimum level"
     },
     {
       "jargon": "Currency depreciation",
-      "layman": "Currency loses value"
+      "layman": "Local money loses value abroad"
     },
     {
-      "jargon": "Negative growth",
-      "layman": "Economy shrinking"
+      "jargon": "Liquidity problems",
+      "layman": "Difficulties in accessing cash"
     },
     {
-      "jargon": "Surge in capital inflows",
-      "layman": "Rapid increase in foreign money"
+      "jargon": "Foreign exchange appreciation",
+      "layman": "Currency gains value overseas"
     }
   ]
 }

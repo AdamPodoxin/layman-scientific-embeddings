@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Relational databases",
-      "layman": "Organized data tables"
+      "layman": "Data stored in tables"
     },
     {
       "jargon": "Bulk data",
@@ -32,7 +32,7 @@
     },
     {
       "jargon": "Interactive data-base support",
-      "layman": "Real-time data interaction"
+      "layman": "Real-time data manipulation"
     },
     {
       "jargon": "Prototype development",
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Solving database problems",
-      "layman": "Fixing database issues"
+      "layman": "Fixing real database issues"
     },
     {
       "jargon": "Evolving prototype",
-      "layman": "Growing test system"
-    },
-    {
-      "jargon": "Functional extensibility",
-      "layman": "Ability to add new features"
+      "layman": "Growing test system over time"
     },
     {
       "jargon": "Research in implementation",
-      "layman": "Learning how to build better systems"
+      "layman": "Learning how to build systems better"
+    },
+    {
+      "jargon": "User-friendly interface",
+      "layman": "Easy-to-use system for users"
     }
   ]
 }

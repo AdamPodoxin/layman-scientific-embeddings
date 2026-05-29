@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Nature state",
-      "layman": "State of natural instincts"
+      "layman": "State of pure instinct"
     },
     {
       "jargon": "Philosophy of Right",
-      "layman": "Hegel's theory of society and rights"
+      "layman": "Hegel's theory of society and law"
     },
     {
       "jargon": "Historical materialism",
-      "layman": "Study of society through material conditions"
+      "layman": "Study of society through its material conditions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Marxist historical materialism",
-      "layman": "Analyzing society through material conditions"
+      "layman": "Analyzing society through economics and material life"
     },
     {
       "jargon": "Perspective of historical materialism",
-      "layman": "Looking at history through material basis"
+      "layman": "Looking at history through material conditions"
     },
     {
-      "jargon": "Analyzing statements",
-      "layman": "Examining claims in text"
+      "jargon": "Critical analysis",
+      "layman": "Careful examination and evaluation"
+    },
+    {
+      "jargon": "Comparative interpretation",
+      "layman": "Comparing ideas across different views"
     },
     {
       "jargon": "Theoretical foundation",
-      "layman": "Ideas that support a system"
-    },
-    {
-      "jargon": "Critical evaluation",
-      "layman": "Careful review and judgment"
+      "layman": "Core belief system"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Missed material basis of mind",
-      "layman": "Ignored material roots of thinking"
+      "jargon": "Material basis of mind",
+      "layman": "Physical roots of thinking"
     },
     {
       "jargon": "Conservative political opinion",
-      "layman": "Supports traditional rule"
+      "layman": "Supports current power structures"
     },
     {
       "jargon": "Idealism",
-      "layman": "Focus on ideas over reality"
+      "layman": "Belief in ideas over reality"
     },
     {
-      "jargon": "Theoretical foundation for ruling class",
-      "layman": "Supports those in power"
+      "jargon": "Ruling class",
+      "layman": "Class that controls power"
     },
     {
-      "jargon": "Answered questions of what, why, how to educate",
-      "layman": "Provided answers to key education questions"
+      "jargon": "Political theory",
+      "layman": "How government and society should work"
     }
   ]
 }

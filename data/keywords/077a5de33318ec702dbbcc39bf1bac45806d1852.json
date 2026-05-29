@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Strongly Rational equilibrium",
-      "layman": "Stable coordination equilibrium"
+      "layman": "Stable equilibrium with rational expectations"
     },
     {
       "jargon": "Cournot equilibrium",
@@ -18,51 +18,45 @@
     },
     {
       "jargon": "Overlapping generation model",
-      "layman": "Long-term intergenerational model"
+      "layman": "Model of people living and dying over time"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Common knowledge of rationality",
+      "jargon": "Common knowledge of individual rationality",
       "layman": "Everyone knows everyone else is rational"
     },
     {
-      "jargon": "Model reference being favorable",
-      "layman": "Model is well-suited to reality"
+      "jargon": "Favorable model assumption",
+      "layman": "Model that makes sense for predictions"
     },
-    {
-      "jargon": "Reinterpretation as SR-equilibrium",
-      "layman": "Rewriting as stable expectation balance"
-    },
-    {
-      "jargon": "Coordination branch",
-      "layman": "Branch for aligning expectations"
-    },
-    {
-      "jargon": "Institutional analysis",
-      "layman": "Study of how institutions shape behavior"
-    }
+    "rationality as dominant strategy",
+    "strategy that always wins",
+    "coordination branch in Normative Economics",
+    "rules for how people align expectations",
+    "institutional analysis",
+    "study of how institutions shape decisions"
   ],
   "outcomes": [
     {
       "jargon": "Stable coordination of expectations",
-      "layman": "Stable shared predictions"
+      "layman": "People's predictions stay steady"
     },
     {
-      "jargon": "Stabilizing speculation",
-      "layman": "Speculation that prevents crashes"
+      "jargon": "Speculation can be stabilizing",
+      "layman": "Guessing can prevent crashes"
     },
     {
-      "jargon": "Dominant strategy in strategy space",
-      "layman": "Best choice in all scenarios"
+      "jargon": "Equilibrium is strongly rational",
+      "layman": "Market balance is stable and logical"
     },
     {
-      "jargon": "Equilibrium at infinite horizon",
-      "layman": "Long-term stable outcome"
+      "jargon": "Reinterpretation of Keynesian equilibrium",
+      "layman": "Keynesian model fits rational expectations"
     },
     {
-      "jargon": "Normative Economics extension",
-      "layman": "New rules for economic behavior"
+      "jargon": "Equilibria with infinite horizon",
+      "layman": "Long-term market stability"
     }
   ]
 }

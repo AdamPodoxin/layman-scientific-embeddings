@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Reliability",
-      "layman": "How likely something is to work over time"
+      "layman": "Ability to work without failure"
     },
     {
       "jargon": "Queueing theory",
-      "layman": "Math for waiting lines"
+      "layman": "Study of waiting lines"
     },
     {
       "jargon": "Probability",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Mathematical theory of reliability",
-      "layman": "Using math to study system reliability"
+      "jargon": "Bayesian implications",
+      "layman": "Updated beliefs with new data"
     },
     {
       "jargon": "Statistical analysis",
       "layman": "Using data to find patterns"
     },
     {
-      "jargon": "Bayesian implications",
-      "layman": "Updating beliefs with new data"
+      "jargon": "Probabilistic concepts",
+      "layman": "Using probabilities to model things"
     },
     {
-      "jargon": "Probabilistic concepts of aging",
-      "layman": "Using math to model how things wear out"
+      "jargon": "Mathematical modeling",
+      "layman": "Creating math models of real systems"
     },
     {
-      "jargon": "Historical perspectives",
-      "layman": "Looking back at past ideas"
+      "jargon": "Aging models",
+      "layman": "Math tools for studying wear and tear"
     }
   ],
   "outcomes": [
     {
-      "jargon": "1961 publication",
-      "layman": "Key book released in 1961"
+      "jargon": "Reliability structures",
+      "layman": "Design patterns that prevent failure"
     },
     {
-      "jargon": "1965 book",
-      "layman": "Important book published in 1965"
-    },
-    {
-      "jargon": "Separate discipline",
-      "layman": "New field of study"
+      "jargon": "Historical perspectives",
+      "layman": "Past views on the topic"
     },
     {
       "jargon": "Standard mathematical techniques",
-      "layman": "Common math tools used before"
+      "layman": "Common math used for solutions"
     },
     {
-      "jargon": "Recent work on Schur functions",
-      "layman": "New studies using symmetry math"
+      "jargon": "New research on Schur functions",
+      "layman": "Recent studies on symmetry math"
+    },
+    {
+      "jargon": "Emergence of reliability as a discipline",
+      "layman": "Reliability became its own field"
     }
   ]
 }

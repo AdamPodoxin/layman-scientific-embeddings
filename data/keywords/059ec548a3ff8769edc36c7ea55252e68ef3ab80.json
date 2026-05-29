@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Immigrant workers",
-      "layman": "Foreign workers moving to a country"
+      "layman": "Foreign workers moving to new countries"
     },
     {
       "jargon": "Labor market",
-      "layman": "Place where workers and jobs meet"
+      "layman": "Place where workers find jobs"
     },
     {
       "jargon": "Output per worker",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
+      "jargon": "Cross-country income differences",
+      "layman": "How much richer some countries are than others"
+    },
+    {
       "jargon": "Estimate human capital endowments",
-      "layman": "Measure worker skills and abilities"
+      "layman": "Guess how much skill people have"
     },
     {
-      "jargon": "Cross-country comparison",
-      "layman": "Compare countries side by side"
+      "jargon": "Same labor market",
+      "layman": "Same place where jobs are available"
     },
     {
-      "jargon": "Labor market observation",
-      "layman": "Watch how workers perform in one market"
+      "jargon": "Immigrant earnings",
+      "layman": "How much money immigrants earn"
     },
     {
-      "jargon": "Implied earnings differences",
-      "layman": "Use earnings to infer worker quality"
-    },
-    {
-      "jargon": "Panel data analysis",
-      "layman": "Track data over time for many countries"
+      "jargon": "Observation of workers",
+      "layman": "Watching how people perform in jobs"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Cross-country income differences",
-      "layman": "Gap in how much people earn between countries"
-    },
-    {
-      "jargon": "Fraction of output gap",
-      "layman": "Part of the income gap explained by skills and tools"
+      "jargon": "Fraction of income differences",
+      "layman": "Proportion of income gap explained by skills"
     },
     {
       "jargon": "Less than half of output gap",
-      "layman": "Only a small part of income gap is due to skills and machines"
+      "layman": "Fewer than half the income gap is due to skills and equipment"
     },
     {
-      "jargon": "U.S. output per worker",
-      "layman": "Average earnings in the U.S. per worker"
+      "jargon": "Countries below 40 percent U.S. output",
+      "layman": "Countries with lower worker output than U.S."
     },
     {
-      "jargon": "Below 40 percent of U.S. output",
-      "layman": "Countries with lower average worker earnings"
+      "jargon": "Cross-country income differences",
+      "layman": "Income gaps between nations"
+    },
+    {
+      "jargon": "Human and physical capital account for a fraction",
+      "layman": "Skills and machines explain only part of income gaps"
     }
   ]
 }

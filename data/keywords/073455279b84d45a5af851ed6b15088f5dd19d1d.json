@@ -2,59 +2,59 @@
   "core_entities": [
     {
       "jargon": "Dark matter",
-      "layman": "Hidden mass in space"
+      "layman": "Unknown mass in space"
     },
     {
       "jargon": "Cosmic repulsion",
-      "layman": "Universe pushing itself apart"
+      "layman": "Space pushing apart"
     },
     {
       "jargon": "Standard gravity",
-      "layman": "Normal gravity rules"
+      "layman": "Gravity as we know it"
     },
     {
       "jargon": "Conformal gravity",
-      "layman": "Gravity adjusted to fit space"
+      "layman": "Gravity adjusted to fit scale"
     },
     {
       "jargon": "Fine-tuned universe",
-      "layman": "Universe set to very specific values"
+      "layman": "Universe with precise settings"
     }
   ],
   "methodologies": [
     {
       "jargon": "Extrapolation",
-      "layman": "Extending a rule beyond its original range"
+      "layman": "Extending a pattern"
     },
     {
       "jargon": "Cosmological distance scales",
-      "layman": "Large distances in the universe"
+      "layman": "Large-scale space measurements"
     },
     {
-      "jargon": "Solar system origins",
+      "jargon": "Solar system gravity",
       "layman": "Gravity tested in our solar system"
     },
     {
       "jargon": "Gravitational extrapolation",
-      "layman": "Applying gravity rules to far space"
+      "layman": "Using gravity rules from small to large scales"
     },
     {
       "jargon": "Theoretical modeling",
-      "layman": "Building models of how things work"
+      "layman": "Building models to explain the universe"
     }
   ],
   "outcomes": [
     {
       "jargon": "Missing mass problem",
-      "layman": "Missing mass in galaxies"
+      "layman": "Missing weight in space"
     },
     {
       "jargon": "Missing energy problem",
-      "layman": "Missing energy in space"
+      "layman": "Missing energy in universe"
     },
     {
-      "jargon": "Fine-tuning challenge",
-      "layman": "Universe needs precise setup"
+      "jargon": "Fine-tuning issue",
+      "layman": "Universe needs perfect balance"
     },
     {
       "jargon": "Resolved issues",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Natural resolution",
-      "layman": "Problems fixed without new parts"
+      "layman": "Problems fixed without extra pieces"
     }
   ]
 }

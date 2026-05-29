@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Spin(n)",
-      "layman": "Rotation group"
+      "layman": "Rotation group for higher dimensions"
     },
     {
       "jargon": "Pin group",
-      "layman": "Related rotation group"
+      "layman": "Group related to rotations and reflections"
     },
     {
       "jargon": "Clifford algebra",
       "layman": "Mathematical structure for rotations"
     },
     {
-      "jargon": "Unit quaternions",
-      "layman": "Rotations using quaternions"
+      "jargon": "Unit complex numbers",
+      "layman": "Rotations in two dimensions"
     },
     {
-      "jargon": "Unit complex numbers",
-      "layman": "Rotations using complex numbers"
+      "jargon": "Unit quaternions",
+      "layman": "Rotations in three dimensions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Action of a group on R",
-      "layman": "Group-induced rotations"
+      "layman": "Rotations applied to space"
     },
     {
       "jargon": "Multiplication in an algebra",
-      "layman": "Using algebra to rotate"
+      "layman": "Combining numbers to produce rotations"
     },
     {
       "jargon": "Study of Clifford algebra structure",
-      "layman": "Analyzing algebra rules"
+      "layman": "Analyzing the rules of a rotation math system"
     },
     {
       "jargon": "Defining subgroups of units",
-      "layman": "Selecting key rotation elements"
+      "layman": "Choosing specific rotation-producing members"
     },
     {
-      "jargon": "Investigating symmetric bilinear forms",
-      "layman": "Examining shape and symmetry"
+      "jargon": "8-periodicity theorem",
+      "layman": "Pattern in rotation behavior every 8 dimensions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Generalization of rotations",
-      "layman": "Extended rotation method"
+      "jargon": "Rotations in R induced by Spin(n)",
+      "layman": "Rotations in space caused by spinors"
     },
     {
-      "jargon": "8-periodicity theorem",
+      "jargon": "Generalization of U(1) and SU(2) actions",
+      "layman": "Extending rotation rules to higher dimensions"
+    },
+    {
+      "jargon": "Well-chosen subgroups of units",
+      "layman": "Carefully selected rotation builders"
+    },
+    {
+      "jargon": "Beautiful 8-periodicity theorem",
       "layman": "Pattern repeats every 8 dimensions"
     },
     {
-      "jargon": "Well-chosen subgroups",
-      "layman": "Carefully selected rotation sets"
-    },
-    {
-      "jargon": "Action induced by group",
-      "layman": "Rotations caused by group"
-    },
-    {
-      "jargon": "Beautiful mathematical pattern",
-      "layman": "Elegant repeating structure"
+      "jargon": "Understanding of spinor groups",
+      "layman": "Clear grasp of how rotations work in complex spaces"
     }
   ]
 }

@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Utopian fiction",
-      "layman": "Stories of perfect societies"
+      "layman": "Stories about perfect societies"
     },
     {
       "jargon": "Dystopian fiction",
-      "layman": "Stories of broken societies"
+      "layman": "Stories about broken societies"
     },
     {
       "jargon": "Social perfection",
-      "layman": "Ideal social systems"
+      "layman": "Perfect social systems"
     },
     {
       "jargon": "Plato's Republic",
-      "layman": "Ancient ideal society book"
+      "layman": "Ancient ideal society story"
     },
     {
       "jargon": "Sir Thomas More",
-      "layman": "Author of Utopia"
+      "layman": "Historical writer of Utopia"
     }
   ],
   "methodologies": [
@@ -28,25 +28,25 @@
     },
     {
       "jargon": "Sociological perspective",
-      "layman": "Looking at society"
+      "layman": "Study of society"
     },
     {
       "jargon": "Psychological perspective",
-      "layman": "Looking at minds"
+      "layman": "Study of minds"
     },
     {
-      "jargon": "Political perspective",
-      "layman": "Looking at power"
+      "jargon": "Political analysis",
+      "layman": "Study of power and government"
     },
     {
-      "jargon": "Aesthetic perspective",
-      "layman": "Looking at beauty"
+      "jargon": "Aesthetic evaluation",
+      "layman": "Judgment of beauty or style"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Roots of utopian thought",
-      "layman": "Origins of ideal society ideas"
+      "jargon": "No place elsewhere",
+      "layman": "Ideals not found outside reality"
     },
     {
       "jargon": "Contemporary actors",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Costume dance",
-      "layman": "Modern lives in idealized forms"
+      "layman": "Tempting people into false hopes"
     },
     {
-      "jargon": "No place else but here",
-      "layman": "Ideals exist in today's world"
+      "jargon": "Roots of fiction",
+      "layman": "Origins of these stories"
     },
     {
-      "jargon": "Fictional narratives",
-      "layman": "Imagined stories"
+      "jargon": "Clear meaning today",
+      "layman": "Clear lessons for now"
     }
   ]
 }

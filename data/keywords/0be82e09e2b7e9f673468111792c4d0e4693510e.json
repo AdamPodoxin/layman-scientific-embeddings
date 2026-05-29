@@ -1,8 +1,8 @@
 {
   "core_entities": [
     {
-      "jargon": "Qualitative optimization problems",
-      "layman": "Preference-based decision problems"
+      "jargon": "Optimization problems",
+      "layman": "Preference problems"
     },
     {
       "jargon": "Generator",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Propositional theory",
-      "layman": "Set of logical statements"
+      "layman": "Simple logic statements"
     },
     {
       "jargon": "Answer-set semantics",
-      "layman": "Logic-based solution model"
+      "layman": "Logical outcome model"
     }
   ],
   "methodologies": [
     {
       "jargon": "Standard propositional logic semantics",
-      "layman": "Normal logic interpretation"
+      "layman": "Standard logic rules"
     },
     {
       "jargon": "Equilibrium-model semantics",
-      "layman": "Stable solution approach"
+      "layman": "Stable outcome rules"
     },
     {
       "jargon": "Modular representation",
-      "layman": "Building blocks for models"
+      "layman": "Separate part-based design"
     },
     {
       "jargon": "Rewriting techniques",
-      "layman": "Simplifying model rules"
+      "layman": "Simplifying problem steps"
     },
     {
       "jargon": "Strong equivalence",
-      "layman": "Same meaning in all contexts"
+      "layman": "Same meaning across forms"
     }
   ],
   "outcomes": [
     {
       "jargon": "Strong equivalence",
-      "layman": "Interchangeable results"
+      "layman": "Same result in any context"
     },
     {
-      "jargon": "Optimization problem generalization",
-      "layman": "Broader problem class"
+      "jargon": "Interchangeability",
+      "layman": "Can swap without changing outcome"
     },
     {
-      "jargon": "Reasoning tasks complexity",
-      "layman": "Hardness of analysis"
+      "jargon": "Reasoning tasks",
+      "layman": "Problem-solving challenges"
+    },
+    {
+      "jargon": "Complexity of reasoning",
+      "layman": "How hard it is to solve"
     },
     {
       "jargon": "Preference theories",
-      "layman": "How choices are ranked"
-    },
-    {
-      "jargon": "Interchangeability within context",
-      "layman": "Same effect in different settings"
+      "layman": "How choices are made"
     }
   ]
 }

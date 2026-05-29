@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Land Reform",
-      "layman": "Changes to land ownership rules"
+      "jargon": "Land reform",
+      "layman": "Rewriting land ownership rules"
     },
     {
       "jargon": "Collectivisation",
       "layman": "Group farming system"
     },
     {
-      "jargon": "Village Reconstruction",
+      "jargon": "Village reconstruction",
       "layman": "Rebuilding village structures"
     },
     {
-      "jargon": "Village Spatial Order",
-      "layman": "How villages are arranged in space"
+      "jargon": "Social organisation",
+      "layman": "How communities are structured"
     },
     {
-      "jargon": "Power Relations",
-      "layman": "Who holds influence in a community"
+      "jargon": "Power relations",
+      "layman": "Who holds influence in villages"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Rules for managing communities"
     },
     {
-      "jargon": "Social Organisation",
-      "layman": "How people are grouped in society"
+      "jargon": "Village reform",
+      "layman": "Changes to village systems"
     },
     {
       "jargon": "Industrialisation",
-      "layman": "Turning agriculture into factories"
+      "layman": "Growing villages through factories"
     },
     {
-      "jargon": "Cooperation",
-      "layman": "Working together for shared goals"
+      "jargon": "Spatial order",
+      "layman": "How space is organised in villages"
     },
     {
-      "jargon": "Reform",
-      "layman": "Systematic changes to improve things"
+      "jargon": "Power relations analysis",
+      "layman": "Studying who controls decisions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Implications",
-      "layman": "Effects or consequences"
-    },
-    {
-      "jargon": "Aftermath",
-      "layman": "What happened later"
-    },
-    {
-      "jargon": "Power Relations",
-      "layman": "Who holds influence in a community"
+      "jargon": "Village reform and its aftermath",
+      "layman": "Long-term effects of village changes"
     },
     {
       "jargon": "Cooperation",
-      "layman": "Working together for shared goals"
+      "layman": "People working together"
     },
     {
-      "jargon": "Spatial Order",
-      "layman": "How villages are arranged in space"
+      "jargon": "Power shifts",
+      "layman": "Change in who has authority"
+    },
+    {
+      "jargon": "Spatial reorganisation",
+      "layman": "New layout of village spaces"
+    },
+    {
+      "jargon": "Improved social structure",
+      "layman": "Better community organisation"
     }
   ]
 }

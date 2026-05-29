@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Critical systems",
-      "layman": "Systems where failure could be dangerous"
+      "layman": "Important systems like hospitals or power grids"
     },
     {
       "jargon": "Software-engineering-oriented approaches",
       "layman": "Engineering methods for software"
     },
     {
-      "jargon": "Design activities",
-      "layman": "Planning steps for building systems"
+      "jargon": "Formal tools",
+      "layman": "Precise design tools"
     },
     {
-      "jargon": "Design artifacts",
-      "layman": "Outputs from the design process"
+      "jargon": "Design activities",
+      "layman": "Steps in making a system"
     }
   ],
   "methodologies": [
     {
       "jargon": "Formal tools",
-      "layman": "Precise, structured design tools"
+      "layman": "Precise design tools"
     },
     {
       "jargon": "Specification process",
-      "layman": "Step-by-step method to define requirements"
+      "layman": "Step-by-step design plan"
     },
     {
-      "jargon": "Design of ambient intelligence applications",
-      "layman": "Creating smart systems that adapt"
+      "jargon": "Design activities",
+      "layman": "Steps in making a system"
     },
     {
-      "jargon": "Rigorous software-engineering-oriented approaches",
-      "layman": "Strict engineering methods for software"
+      "jargon": "Software-engineering-oriented approaches",
+      "layman": "Engineering methods for software"
     },
     {
-      "jargon": "Practical experience",
-      "layman": "Real-world knowledge from past projects"
+      "jargon": "AmI design artifacts",
+      "layman": "Design outputs like plans or models"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Rigorous software-engineering-oriented approaches",
+      "layman": "Strong, reliable design process"
+    },
+    {
       "jargon": "Formal tools",
-      "layman": "Clear, reliable design tools"
+      "layman": "Precise design tools"
     },
     {
       "jargon": "Specification process",
-      "layman": "Defined way to describe system needs"
+      "layman": "Clear, defined design plan"
     },
     {
-      "jargon": "AmI design activities",
-      "layman": "Planned steps to build smart systems"
-    },
-    {
-      "jargon": "Design artifacts",
-      "layman": "Final deliverables from design work"
+      "jargon": "Design activities",
+      "layman": "Steps in making a system"
     },
     {
       "jargon": "Critical systems",
-      "layman": "Systems where failure is dangerous"
+      "layman": "Important systems like hospitals or power grids"
     }
   ]
 }

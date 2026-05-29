@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Educational success",
-      "layman": "Success in school"
+      "layman": "Academic achievement"
     },
     {
       "jargon": "Family's cultural capital",
@@ -24,15 +24,15 @@
   "methodologies": [
     {
       "jargon": "Proportional stratified sampling",
-      "layman": "Selecting students based on group proportions"
+      "layman": "Representative student selection"
     },
     {
-      "jargon": "Parent interviews",
-      "layman": "Talking to parents"
+      "jargon": "Parental interviews",
+      "layman": "Talks with parents"
     },
     {
       "jargon": "Empirical condition",
-      "layman": "Real-world observation"
+      "layman": "Real-life study"
     },
     {
       "jargon": "Theoretical models",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Cultural convergence",
-      "layman": "Cultures becoming more similar"
+      "layman": "Cultures merging"
     }
   ],
   "outcomes": [
     {
       "jargon": "Significant impact",
-      "layman": "Strong effect"
+      "layman": "Strong influence"
     },
     {
-      "jargon": "Does not support hypothesis",
-      "layman": "Does not back the theory"
+      "jargon": "Support for hypothesis",
+      "layman": "Confirms the theory"
+    },
+    {
+      "jargon": "Do not support the hypothesis",
+      "layman": "Does not confirm the theory"
     },
     {
       "jargon": "Educational success",
-      "layman": "Success in school"
+      "layman": "Academic achievement"
     },
     {
-      "jargon": "Two theoretical models",
-      "layman": "Two scientific ideas"
-    },
-    {
-      "jargon": "Family's cultural capital",
-      "layman": "Family's cultural resources"
+      "jargon": "Cultural reproduction",
+      "layman": "Culture passed down through generations"
     }
   ]
 }

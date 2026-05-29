@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "CuInS2 single crystals",
-      "layman": "Single crystals of copper indium sulfide"
+      "layman": "Single crystals of copper indium disulfide"
     },
     {
       "jargon": "Sulfur partial pressure",
-      "layman": "Pressure of sulfur gas"
+      "layman": "Sulfur gas pressure in mixture"
     },
     {
       "jargon": "In2S",
       "layman": "Indium sulfide compound"
     },
     {
-      "jargon": "Cracks along the ingot",
-      "layman": "Gaps in the crystal structure"
+      "jargon": "Cracking along the ingot",
+      "layman": "Cracks in the crystal rod"
     },
     {
       "jargon": "CuS",
@@ -24,29 +24,29 @@
   "methodologies": [
     {
       "jargon": "Gradient freeze technique",
-      "layman": "Slow cooling method to grow crystals"
+      "layman": "Cooling method that slowly reduces temperature"
     },
     {
       "jargon": "EDX",
-      "layman": "Element analysis by X-rays"
+      "layman": "X-ray analysis for material composition"
     },
     {
       "jargon": "XRD",
-      "layman": "Crystal structure analysis"
+      "layman": "X-ray diffraction to identify crystal structure"
     },
     {
-      "jargon": "PL",
-      "layman": "Light emission test"
+      "jargon": "Photoluminescence (PL)",
+      "layman": "Light emission test for material quality"
     },
     {
-      "jargon": "Gas phase loss",
-      "layman": "Loss into the air or vapor"
+      "jargon": "Gas phase",
+      "layman": "Air-like environment in the furnace"
     }
   ],
   "outcomes": [
     {
       "jargon": "Cracking decreases with higher sulfur pressure",
-      "layman": "Fewer cracks as sulfur pressure increases"
+      "layman": "Fewer cracks at higher sulfur pressure"
     },
     {
       "jargon": "CuS present at cracks",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Material is In-rich",
-      "layman": "More indium than expected"
+      "layman": "More indium than copper in final product"
     },
     {
-      "jargon": "Cracks still present at 2 bar",
-      "layman": "Cracks remain even at high pressure"
+      "jargon": "Moderate size crystals",
+      "layman": "Medium-sized crystal samples"
     }
   ]
 }

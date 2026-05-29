@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "High entropy alloy",
-      "layman": "Multi-element alloy"
+      "jargon": "high entropy alloy",
+      "layman": "mixed metal alloy"
     },
     {
-      "jargon": "Amorphous phase",
-      "layman": "Non-crystalline structure"
+      "jargon": "amorphous phase",
+      "layman": "glass-like structure"
     },
     {
-      "jargon": "Body-centered cubic phase",
-      "layman": "Crystal structure with atoms in a cubic pattern"
+      "jargon": "body-centered cubic phase",
+      "layman": "crystalline metal structure"
     },
     {
-      "jargon": "Metastable phase",
-      "layman": "Temporary stable state"
+      "jargon": "nano-crystals",
+      "layman": "tiny crystal pieces"
     },
     {
-      "jargon": "Nano-crystals",
-      "layman": "Tiny crystal particles"
+      "jargon": "metastable phase",
+      "layman": "temporary stable state"
     }
   ],
   "methodologies": [
     {
-      "jargon": "High voltage electron microscopy",
-      "layman": "Electron microscope under high voltage"
+      "jargon": "high voltage electron microscopy",
+      "layman": "electronic microscope under high voltage"
     },
     {
-      "jargon": "In-situ observation",
-      "layman": "Watching changes in real time"
+      "jargon": "in-situ observation",
+      "layman": "watching changes in real time"
     },
     {
-      "jargon": "Fast electron irradiation",
-      "layman": "Rapid electron beam exposure"
+      "jargon": "fast electron irradiation",
+      "layman": "rapid electron beam exposure"
     },
     {
-      "jargon": "Thermal crystallization",
-      "layman": "Heating to form crystals"
+      "jargon": "thermal crystallization",
+      "layman": "heating to form crystals"
     },
     {
-      "jargon": "Solid state amorphization",
-      "layman": "Turning solid into amorphous form"
+      "jargon": "solid state amorphization",
+      "layman": "turning metal into glass-like form inside solid state"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Amorphous phase formation",
-      "layman": "Formation of non-crystalline material"
+      "jargon": "amorphous phase formed",
+      "layman": "glass-like structure created"
     },
     {
-      "jargon": "Phase stability under irradiation",
-      "layman": "How structure holds up under radiation"
+      "jargon": "b.c.c. phase formed",
+      "layman": "crystalline structure formed"
     },
     {
-      "jargon": "Point defects at grain boundaries",
-      "layman": "Small errors at crystal edges"
+      "jargon": "nano-crystals formed",
+      "layman": "tiny crystals grown"
     },
     {
-      "jargon": "SSA in HEAs",
-      "layman": "Amorphization in multi-element alloys"
+      "jargon": "SSA observed",
+      "layman": "amorphization seen in metal"
     },
     {
-      "jargon": "First experimental evidence",
-      "layman": "First proven observation"
+      "jargon": "phase stability differences",
+      "layman": "different behavior under radiation"
     }
   ]
 }

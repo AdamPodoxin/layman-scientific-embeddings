@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Heterogeneous environments",
-      "layman": "Mixed urban areas with different obstacles"
+      "layman": "Mixed urban settings"
     },
     {
       "jargon": "Obstacles",
       "layman": "Barriers in the path"
     },
     {
-      "jargon": "Free configuration space",
-      "layman": "Clear path area for movement"
+      "jargon": "Path planning",
+      "layman": "Finding a route"
     },
     {
       "jargon": "Dubin\u2019s motion model",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Adaptive RRT",
-      "layman": "Smart pathfinding around obstacles"
+      "layman": "Smart path avoidance"
     },
     {
       "jargon": "Informed RRT*",
-      "layman": "Better pathfinding that improves over time"
-    },
-    {
-      "jargon": "RRT*",
-      "layman": "Improved pathfinding algorithm"
+      "layman": "Better path optimization"
     },
     {
       "jargon": "Simulation",
-      "layman": "Virtual testing environment"
+      "layman": "Digital road testing"
+    },
+    {
+      "jargon": "Free configuration space",
+      "layman": "Available movement area"
     }
   ],
   "outcomes": [
     {
       "jargon": "50% improvement in initial solution",
-      "layman": "Faster initial path found"
+      "layman": "Faster first path found"
     },
     {
       "jargon": "25% improvement in convergence",
       "layman": "Faster path refinement"
     },
     {
-      "jargon": "Path planning",
-      "layman": "Finding a safe route"
+      "jargon": "Obstruction handling",
+      "layman": "Avoiding obstacles"
     },
     {
-      "jargon": "Urban environments",
-      "layman": "City settings with complexity"
+      "jargon": "Optimal path planning",
+      "layman": "Best possible route"
     },
     {
-      "jargon": "Variable complexity",
-      "layman": "Changing difficulty levels"
+      "jargon": "Urban path planning",
+      "layman": "Routing in cities"
     }
   ]
 }

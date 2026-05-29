@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Romans in the provinces",
-      "layman": "Roman citizens in foreign regions"
+      "layman": "Roman citizens outside Rome"
+    },
+    {
+      "jargon": "Power",
+      "layman": "Authority to make decisions"
     },
     {
       "jargon": "Autonomy",
-      "layman": "Freedom to make decisions"
+      "layman": "Freedom to make one's own choices"
     },
     {
       "jargon": "Identity",
-      "layman": "Sense of self"
+      "layman": "Who someone feels they are"
     },
     {
-      "jargon": "Archias",
-      "layman": "Roman figure in a provincial case"
-    },
-    {
-      "jargon": "Balbus",
-      "layman": "Roman figure in a provincial case"
+      "jargon": "Generals",
+      "layman": "Military commanders"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Oratory",
-      "layman": "Public speaking"
+      "jargon": "How to become a Roman",
+      "layman": "Process of joining Roman society"
+    },
+    {
+      "jargon": "Controlling the uncontrollable",
+      "layman": "Managing difficult situations"
+    },
+    {
+      "jargon": "Orator as a great man",
+      "layman": "Building a famous speaker's image"
     },
     {
       "jargon": "Imperial contexts",
-      "layman": "Ruling power settings"
+      "layman": "Conditions of the Roman Empire"
     },
     {
-      "jargon": "Power dynamics",
-      "layman": "How power is distributed"
-    },
-    {
-      "jargon": "Control mechanisms",
-      "layman": "Ways to manage influence"
-    },
-    {
-      "jargon": "Portrait construction",
-      "layman": "Creating a public image"
+      "jargon": "Portrait of the orator",
+      "layman": "Creating a picture of a famous speaker"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Romanization",
-      "layman": "Becoming Roman"
+      "jargon": "Power, autonomy, and identity",
+      "layman": "Authority, freedom, and self-perception"
     },
     {
-      "jargon": "Political integration",
-      "layman": "Merging into Roman system"
+      "jargon": "Cases of Archias and Balbus",
+      "layman": "Examples of individuals joining Rome"
     },
     {
-      "jargon": "Civic identity",
-      "layman": "Feeling like a citizen"
+      "jargon": "Cicero and the generals",
+      "layman": "Cicero's role in managing military leaders"
     },
     {
-      "jargon": "Control of generals",
-      "layman": "Managing military leaders"
+      "jargon": "Cicero on Cicero",
+      "layman": "Cicero describing himself"
     },
     {
       "jargon": "Limits of oratory",
-      "layman": "When speeches fail"
+      "layman": "Boundaries of what speeches can achieve"
     }
   ]
 }

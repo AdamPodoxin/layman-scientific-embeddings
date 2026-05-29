@@ -14,55 +14,55 @@
     },
     {
       "jargon": "\u03b1,\u03b1-dimer",
-      "layman": "Two alpha subunits together"
+      "layman": "Two alpha subunits joined"
     },
     {
       "jargon": "\u03b1,\u03b2-dimer",
-      "layman": "Alpha and beta subunits together"
+      "layman": "Alpha and beta subunits joined"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Cross-linking",
-      "layman": "Bonding subunits together"
-    },
     {
       "jargon": "Cupric-phenanthroline complex",
       "layman": "Copper-phenanthroline mix"
     },
     {
-      "jargon": "Exposure to Cu\u00b2\u207a",
-      "layman": "Exposure to copper ions"
+      "jargon": "Cross-linking",
+      "layman": "Bonding protein pieces together"
     },
     {
       "jargon": "EDTA treatment",
-      "layman": "Adding EDTA to break bonds"
+      "layman": "Use of EDTA to remove bonds"
+    },
+    {
+      "jargon": "Enzyme exposure",
+      "layman": "Putting enzyme in solution"
     },
     {
       "jargon": "Quaternary structure",
-      "layman": "Overall enzyme shape"
+      "layman": "How protein parts fit together"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Higher molecular weight products",
+      "jargon": "Products of higher molecular weight",
       "layman": "Larger enzyme complexes"
     },
     {
       "jargon": "Dissociation in EDTA",
-      "layman": "Breaks apart in EDTA"
+      "layman": "Separates in EDTA solution"
+    },
+    {
+      "jargon": "Non-covalent interaction",
+      "layman": "Not a permanent bond"
     },
     {
       "jargon": "Disulfide bond",
-      "layman": "Sulfur bond between proteins"
+      "layman": "Sulfur-based bond"
     },
     {
-      "jargon": "Covalent cross-linking",
-      "layman": "Permanent bonding between parts"
-    },
-    {
-      "jargon": "Interpretation with caution",
-      "layman": "Results need more proof"
+      "jargon": "Uncertain nature",
+      "layman": "Still not known"
     }
   ]
 }

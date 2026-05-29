@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Allegory",
-      "layman": "Symbolic story"
+      "layman": "Hidden meaning in stories"
     },
     {
       "jargon": "Montage",
-      "layman": "Assembly of images"
+      "layman": "Assembled image or scene"
     },
     {
-      "jargon": "Hegelian idealization",
-      "layman": "Ideal view of history"
+      "jargon": "Historical material",
+      "layman": "Past events and conditions"
     },
     {
-      "jargon": "German tragic drama",
-      "layman": "Tragic plays from Germany"
-    },
-    {
-      "jargon": "Baudelaire",
-      "layman": "Poet Baudelaire"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Critique of symbolic conception",
-      "layman": "Challenging fixed meanings"
+      "jargon": "Symbolic conception",
+      "layman": "Total idea of meaning"
     },
     {
       "jargon": "Image problem",
       "layman": "How images carry meaning"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful interpretation"
     },
     {
-      "jargon": "Constructivist avantgarde",
-      "layman": "Modern art movement"
+      "jargon": "Theoretical angles",
+      "layman": "Different viewpoints"
+    },
+    {
+      "jargon": "Avant-garde art",
+      "layman": "Bold new art forms"
+    },
+    {
+      "jargon": "Constructivist approach",
+      "layman": "Building from new ideas"
     },
     {
       "jargon": "Disruption of totality",
-      "layman": "Breaking down complete views"
-    },
-    {
-      "jargon": "Fluctuation between concepts",
-      "layman": "Shifting between ideas"
+      "layman": "Breaking down complete systems"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Dismissal of significance",
-      "layman": "Rejecting meaning"
+      "jargon": "Critique of idealization",
+      "layman": "Rejection of perfect history"
     },
     {
-      "jargon": "Fixation on loss",
-      "layman": "Focus on absence"
+      "jargon": "Loss of significance",
+      "layman": "No clear meaning left"
     },
     {
-      "jargon": "Commitment to work of grief",
-      "layman": "Dedication to mourning art"
+      "jargon": "Performance of image",
+      "layman": "How images are shown"
     },
     {
       "jargon": "Tension between allegory and montage",
-      "layman": "Conflict between rejection and building"
+      "layman": "Pull between denial and creation"
     },
     {
-      "jargon": "Contemporary debates about memory",
-      "layman": "Modern discussions on memory"
+      "jargon": "Contemporary debates on memory",
+      "layman": "Current discussions about memory"
     }
   ]
 }

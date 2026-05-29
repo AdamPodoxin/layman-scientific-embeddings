@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "scheme",
-      "layman": "mathematical space"
+      "layman": "Mathematical space"
     },
     {
       "jargon": "closed subset",
-      "layman": "part of a space with boundary"
+      "layman": "Group of points together in a set"
     },
     {
       "jargon": "reduced subscheme",
-      "layman": "simplest version of a subset"
+      "layman": "Simplified version of a space"
     },
     {
       "jargon": "Spec R",
-      "layman": "affine space from a ring"
+      "layman": "Affine space from a ring"
     },
     {
-      "jargon": "ideal I(S)",
-      "layman": "set of rules defining a subset"
+      "jargon": "subscheme",
+      "layman": "Part of a larger mathematical space"
     }
   ],
   "methodologies": [
     {
       "jargon": "universal property",
-      "layman": "unique way to connect objects"
+      "layman": "Defining rule that fits all cases"
     },
     {
       "jargon": "morphism",
-      "layman": "mapping between spaces"
-    },
-    {
-      "jargon": "affine scheme",
-      "layman": "simplest type of mathematical space"
+      "layman": "Mapping between spaces"
     },
     {
       "jargon": "factor through",
-      "layman": "go through a specific path"
+      "layman": "Go through a specific path"
+    },
+    {
+      "jargon": "affine scheme",
+      "layman": "Simple mathematical space"
     },
     {
       "jargon": "induced structure",
-      "layman": "structure copied from a larger space"
+      "layman": "Structure built from existing parts"
     }
   ],
   "outcomes": [
     {
       "jargon": "unique reduced closed subscheme",
-      "layman": "one clear, simple version"
+      "layman": "One clear simplified version"
     },
     {
       "jargon": "image lies in S",
-      "layman": "mapping ends in a specific area"
+      "layman": "Map ends up in a certain group"
     },
     {
       "jargon": "Spec R/I(S)",
-      "layman": "mathematical object defined by rules"
+      "layman": "Mathematical object from division of ring"
     },
     {
       "jargon": "entire underlying set",
-      "layman": "whole space"
+      "layman": "All points in the space"
     },
     {
-      "jargon": "exercise: verify",
-      "layman": "check that it works"
+      "jargon": "Exercise: verify",
+      "layman": "Check it works as claimed"
     }
   ]
 }

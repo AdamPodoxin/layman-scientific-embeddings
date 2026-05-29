@@ -9,60 +9,60 @@
       "layman": "Market changes over time"
     },
     {
-      "jargon": "World Trade Organization",
-      "layman": "Global trade group"
-    },
-    {
       "jargon": "Institutional regulations",
       "layman": "Government building rules"
     },
     {
-      "jargon": "Construction economics",
-      "layman": "Costs and profits in building"
+      "jargon": "World Trade Organization",
+      "layman": "Global trade group"
+    },
+    {
+      "jargon": "Olympic Games",
+      "layman": "Olympic Games"
     }
   ],
   "methodologies": [
     {
       "jargon": "Market analysis",
-      "layman": "Studying market trends"
-    },
-    {
-      "jargon": "Development analysis",
-      "layman": "Examining growth patterns"
-    },
-    {
-      "jargon": "Global environmental context",
-      "layman": "Looking at global conditions"
+      "layman": "Studying market patterns"
     },
     {
       "jargon": "Economic development",
-      "layman": "How economies grow"
+      "layman": "Growth of economy"
     },
     {
       "jargon": "Regulatory assessment",
-      "layman": "Evaluating government rules"
+      "layman": "Evaluating rules and laws"
+    },
+    {
+      "jargon": "Global environmental context",
+      "layman": "Global environment"
+    },
+    {
+      "jargon": "Development trends",
+      "layman": "Patterns of growth"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Rapidly increasing demand",
-      "layman": "Fast rise in building needs"
+      "jargon": "Increased construction demand",
+      "layman": "More building projects"
     },
     {
-      "jargon": "Challenging opportunities",
-      "layman": "Difficult but good chances"
+      "jargon": "Market transformation",
+      "layman": "Market changes"
     },
     {
-      "jargon": "Market potential changes",
-      "layman": "Future market shifts"
+      "jargon": "Entry into WTO",
+      "layman": "China joining global trade"
     },
     {
-      "jargon": "Comprehensive image",
-      "layman": "Full picture of the market"
+      "jargon": "Comprehensive market image",
+      "layman": "Clear picture of market"
     },
     {
-      "jargon": "Global environment",
-      "layman": "International context"
+      "jargon": "Opportunities for foreign firms",
+      "layman": "Chances for overseas companies"
     }
   ]
 }

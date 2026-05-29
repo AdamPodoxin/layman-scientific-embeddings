@@ -6,25 +6,25 @@
     },
     {
       "jargon": "Undergraduate software engineering course",
-      "layman": "University course teaching software building"
+      "layman": "College course on building software"
     },
     {
       "jargon": "Open source development",
-      "layman": "Software made publicly available for anyone to use and improve"
+      "layman": "Software made available for anyone to use and improve"
     },
     {
       "jargon": "Client",
-      "layman": "Real-world organization using the software"
+      "layman": "A real organization or person using the software"
     },
     {
       "jargon": "Nonprofit",
-      "layman": "Organization that helps people without profit"
+      "layman": "A charitable organization"
     }
   ],
   "methodologies": [
     {
       "jargon": "Agile development",
-      "layman": "Iterative software building with frequent updates"
+      "layman": "Iterative software building with regular updates"
     },
     {
       "jargon": "Project development",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Transferrable framework",
-      "layman": "Method that can be used in many courses"
+      "layman": "A reusable course structure"
     },
     {
-      "jargon": "Client engagement",
-      "layman": "Working directly with a real client"
+      "jargon": "Integration of client work",
+      "layman": "Including real client needs in the project"
     },
     {
-      "jargon": "Open source practice",
-      "layman": "Using open source software development methods"
+      "jargon": "One-semester course",
+      "layman": "A course that runs over one term"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Students work on real software problems"
     },
     {
-      "jargon": "Useful software application",
-      "layman": "Helpful software created for nonprofits"
+      "jargon": "Nonprofits gain useful software",
+      "layman": "Charities get helpful tools"
     },
     {
-      "jargon": "Available as open source",
-      "layman": "Software freely shared for others to use"
+      "jargon": "Project available as open source",
+      "layman": "Software is freely shared and improved"
     },
     {
-      "jargon": "Extensible by other students",
-      "layman": "Others can improve or build on it"
+      "jargon": "Students can extend and adapt software",
+      "layman": "Students can add new features or change the software"
     },
     {
-      "jargon": "Transferrable to other institutions",
-      "layman": "Can be used in many universities"
+      "jargon": "Framework transferrable to other institutions",
+      "layman": "The method works in many schools"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Private transnational governance",
-      "layman": "Private rules across countries"
+      "layman": "Private global rules made by companies or groups across countries"
     },
     {
       "jargon": "Southern hemisphere",
-      "layman": "Developing countries"
+      "layman": "Countries in the Global South"
     },
     {
       "jargon": "Northern interests",
-      "layman": "Rich country priorities"
+      "layman": "Decisions and priorities from wealthy, developed nations"
     },
     {
       "jargon": "Southern stakeholders",
-      "layman": "People from developing nations"
+      "layman": "People or groups from Southern countries involved in decisions"
     },
     {
       "jargon": "Sustainability politics",
-      "layman": "Efforts to protect the planet"
+      "layman": "Discussions about protecting the environment and long-term survival"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Comparative perspective",
-      "layman": "Comparing different cases"
-    },
-    {
       "jargon": "Discursive shifts",
-      "layman": "Changing how issues are talked about"
+      "layman": "Change in how issues are talked about"
     },
     {
       "jargon": "Regulatory frameworks",
-      "layman": "Rules that govern actions"
+      "layman": "Rules and guidelines that govern actions"
     },
     {
       "jargon": "Decision-making processes",
-      "layman": "How choices are made"
+      "layman": "How choices are made in groups"
     },
     {
       "jargon": "Knowledge-centered elements",
-      "layman": "Focusing on information and data"
+      "layman": "Parts of governance focused on information and expertise"
+    },
+    {
+      "jargon": "Multi-level governance",
+      "layman": "Decisions made at different levels\u2014local, national, global"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Significant influence",
-      "layman": "Strong impact"
+      "jargon": "Influence on Southern stakeholders",
+      "layman": "Impact on people from developing countries"
     },
     {
       "jargon": "Normative concepts",
-      "layman": "Core values or principles"
+      "layman": "Core values or ideas about right and wrong"
     },
     {
-      "jargon": "New regulatory frameworks",
-      "layman": "New rules created"
+      "jargon": "Constrained framing of sustainability",
+      "layman": "Limited ways sustainability issues can be discussed"
     },
     {
-      "jargon": "Low representation",
-      "layman": "Underrepresented voices"
+      "jargon": "Low representation of Southern actors",
+      "layman": "Few Southern voices in decisions"
     },
     {
-      "jargon": "Political framing",
-      "layman": "How issues are presented as political matters"
+      "jargon": "Increased representation in political framing",
+      "layman": "Better inclusion when issues are framed as political matters"
     }
   ]
 }

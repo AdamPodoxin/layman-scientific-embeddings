@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Jurassic volcanic rocks",
-      "layman": "Ancient volcanic rocks from Jurassic period"
+      "layman": "Ancient volcanic rocks"
     },
     {
       "jargon": "Andesitic lavas",
-      "layman": "Volcanic lava with medium composition"
+      "layman": "Mid-range volcanic lava"
     },
     {
       "jargon": "Dacitic ignimbrites",
-      "layman": "Fast-moving volcanic ash flows"
+      "layman": "Explosive volcanic deposits"
     },
     {
       "jargon": "Rhyolitic composition",
@@ -18,21 +18,21 @@
     },
     {
       "jargon": "Major oxides",
-      "layman": "Key chemical components in rocks"
+      "layman": "Key chemical elements in rocks"
     }
   ],
   "methodologies": [
     {
       "jargon": "Statistical analysis",
-      "layman": "Mathematical analysis of data"
+      "layman": "Data patterns analysis"
     },
     {
       "jargon": "Compositional biplots",
-      "layman": "Graph showing chemical relationships"
+      "layman": "Chemical data visualization"
     },
     {
       "jargon": "Cluster analysis",
-      "layman": "Grouping similar samples together"
+      "layman": "Grouping similar samples"
     },
     {
       "jargon": "Statistical inference",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "TAS and AFM diagrams",
-      "layman": "Charts for classifying rock types"
+      "layman": "Chemical composition charts"
     }
   ],
   "outcomes": [
     {
       "jargon": "Two groups of volcanic units",
-      "layman": "Two distinct rock types found"
+      "layman": "Two distinct volcanic types"
     },
     {
       "jargon": "Closed set of data",
-      "layman": "Chemical parts add up to 100%"
+      "layman": "All parts add to 100%"
     },
     {
-      "jargon": "Absence of compositional gap",
-      "layman": "No missing chemical pattern"
+      "jargon": "Compositional gap",
+      "layman": "Missing chemical transition"
     },
     {
-      "jargon": "Defined relationship between samples and units",
-      "layman": "Samples match known rock types"
+      "jargon": "Defined sample subsets",
+      "layman": "Clear groups of similar rocks"
     },
     {
-      "jargon": "Detailed lithologic mapping better than formation mapping",
-      "layman": "Small rock details show volcanic history better"
+      "jargon": "Lithologic mapping more representative",
+      "layman": "Detailed rock types show real evolution"
     }
   ]
 }

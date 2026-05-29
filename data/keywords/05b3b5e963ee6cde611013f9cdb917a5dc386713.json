@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Semidurable goods",
-      "layman": "Goods that last a while but wear out"
+      "layman": "Goods that wear out over time"
     },
     {
       "jargon": "Collusive agreements",
       "layman": "Secret price-fixing deals"
     },
     {
-      "jargon": "Oligopoly",
-      "layman": "Few big companies controlling the market"
+      "jargon": "Depreciation rate",
+      "layman": "Rate at which goods lose value"
     },
     {
       "jargon": "Consumer heterogeneity",
-      "layman": "Different customers with different needs"
+      "layman": "Different consumers with different needs"
     },
     {
-      "jargon": "Second-hand market",
-      "layman": "Used goods market"
+      "jargon": "Oligopoly",
+      "layman": "Few big sellers controlling the market"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Depreciation rate",
-      "layman": "How fast goods lose value"
+      "jargon": "Second-hand market",
+      "layman": "Market for used goods"
     },
     {
       "jargon": "Leasing policy",
-      "layman": "Rules for renting goods"
+      "layman": "Policy allowing people to rent goods"
     },
     {
       "jargon": "Buy-back",
-      "layman": "Company buying back used goods"
-    },
-    {
-      "jargon": "Market dynamics",
-      "layman": "How the market changes over time"
+      "layman": "Policy where companies take back used goods"
     },
     {
       "jargon": "Incentive analysis",
       "layman": "Studying what motivates decisions"
+    },
+    {
+      "jargon": "Market dynamics",
+      "layman": "How markets change over time"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Profit maximization",
-      "layman": "Making the most money"
+      "layman": "Increasing profits"
     },
     {
-      "jargon": "Collusion strengthening",
-      "layman": "Price-fixing becomes more likely"
+      "jargon": "Strategic behavior",
+      "layman": "Deliberate decision-making"
     },
     {
-      "jargon": "Policy effects",
-      "layman": "How rules change market behavior"
+      "jargon": "Market strength",
+      "layman": "How powerful the market is"
     },
     {
-      "jargon": "Differing incentives",
-      "layman": "Different goals for few vs. one company"
+      "jargon": "Policy impact",
+      "layman": "Effect of rules on the market"
     }
   ]
 }

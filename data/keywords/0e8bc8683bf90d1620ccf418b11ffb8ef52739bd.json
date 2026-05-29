@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "QCD amplitudes",
-      "layman": "Particle collision outcomes"
+      "layman": "Energy interactions in particles"
     },
     {
       "jargon": "High-energy regime",
-      "layman": "Very high energy collisions"
+      "layman": "Very high energy conditions"
     },
     {
       "jargon": "Reaction-diffusion processes",
-      "layman": "Spreading and reacting patterns"
+      "layman": "How things spread and react over time"
     },
     {
       "jargon": "Universality class",
       "layman": "Shared behavior across different systems"
     },
     {
-      "jargon": "Energy evolution",
-      "layman": "How energy changes over time"
+      "jargon": "Asymptotic features",
+      "layman": "Long-term behavior at extremes"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Asymptotic features",
-      "layman": "Long-term behavior patterns"
-    },
-    {
-      "jargon": "Analytical computation",
-      "layman": "Mathematical prediction"
-    },
-    {
-      "jargon": "Correspondence",
-      "layman": "Matching between two systems"
-    },
-    {
       "jargon": "Energy evolution",
       "layman": "How energy changes over time"
     },
     {
-      "jargon": "Review arguments",
-      "layman": "Examining and explaining reasons"
+      "jargon": "Analytical computation",
+      "layman": "Mathematical calculation without simulation"
+    },
+    {
+      "jargon": "Correspondence",
+      "layman": "Link between two different systems"
+    },
+    {
+      "jargon": "Computational modeling",
+      "layman": "Using math to simulate real-world behavior"
+    },
+    {
+      "jargon": "Universality class mapping",
+      "layman": "Finding shared patterns across systems"
     }
   ],
   "outcomes": [
     {
       "jargon": "Asymptotic features",
-      "layman": "Long-term behavior patterns"
-    },
-    {
-      "jargon": "Universality class",
-      "layman": "Shared behavior across systems"
+      "layman": "Long-term behavior at extremes"
     },
     {
       "jargon": "Analytical results",
       "layman": "Exact mathematical predictions"
     },
     {
-      "jargon": "High-energy QCD",
-      "layman": "High-energy particle interactions"
+      "jargon": "Energy scaling",
+      "layman": "How energy grows with size or speed"
     },
     {
-      "jargon": "Reaction-diffusion processes",
-      "layman": "Spreading and reacting patterns"
+      "jargon": "Predictive power",
+      "layman": "Ability to forecast outcomes"
+    },
+    {
+      "jargon": "High-energy behavior",
+      "layman": "What happens at very high energies"
     }
   ]
 }

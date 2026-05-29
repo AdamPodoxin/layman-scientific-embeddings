@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Stylistics",
-      "layman": "Style and presentation"
+      "layman": "Film style and techniques"
     },
     {
       "jargon": "Politics",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Neorealism",
-      "layman": "Real-life storytelling"
+      "layman": "Realistic film style"
     },
     {
       "jargon": "Southern Question",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Iconographic analysis",
-      "layman": "Analyzing visual symbols"
+      "layman": "Studying visual symbols in films"
     },
     {
-      "jargon": "Stylistic examination",
-      "layman": "Looking at film style"
+      "jargon": "Stylistic comparison",
+      "layman": "Comparing film techniques"
     },
     {
       "jargon": "Political interpretation",
-      "layman": "Reading political messages"
+      "layman": "Reading political messages in films"
     },
     {
       "jargon": "Narrative structure",
-      "layman": "How the story is built"
+      "layman": "How a story is told"
     },
     {
-      "jargon": "Dialect use",
-      "layman": "Using regional speech"
+      "jargon": "Historical context",
+      "layman": "Understanding time period of a film"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Resistance",
-      "layman": "Opposition to authority"
+      "jargon": "Resistance films",
+      "layman": "Films showing opposition to authority"
+    },
+    {
+      "jargon": "Dialect portrayal",
+      "layman": "Use of regional speech"
     },
     {
       "jargon": "Neopopulism",
-      "layman": "Popular, grassroots politics"
-    },
-    {
-      "jargon": "Psychoanalysis",
-      "layman": "Exploring inner emotions"
+      "layman": "Popular, people-centered politics"
     },
     {
       "jargon": "Cinematic crisis",
-      "layman": "Breakdown in film traditions"
+      "layman": "Period of film instability"
     },
     {
-      "jargon": "National language",
-      "layman": "Shared cultural identity through language"
+      "jargon": "Psychoanalytic reading",
+      "layman": "Interpreting films through psychology"
     }
   ]
 }

@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Pulmonary arterial hypertension",
-      "layman": "High blood pressure in the lungs"
+      "layman": "High blood pressure in lung arteries"
     },
     {
       "jargon": "Right heart failure",
-      "layman": "Heart on the right side fails"
+      "layman": "Heart struggles to pump blood"
     },
     {
       "jargon": "Brain natriuretic peptide",
-      "layman": "Hormone released when heart is stressed"
+      "layman": "Hormone from the heart"
     },
     {
       "jargon": "6-min walk distance",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "PAH etiology",
-      "layman": "Cause of pulmonary arterial hypertension"
+      "layman": "Cause of the lung pressure problem"
     }
   ],
   "methodologies": [
     {
       "jargon": "Risk assessment",
-      "layman": "Evaluating risk of disease worsening"
+      "layman": "Evaluating how likely disease is to worsen"
     },
     {
-      "jargon": "Serial monitoring",
-      "layman": "Checking over time"
+      "jargon": "Serial fashion",
+      "layman": "Over time, repeated checks"
     },
     {
-      "jargon": "Prognostic scores",
-      "layman": "Predictive tools for disease outcome"
+      "jargon": "Clinical parameters",
+      "layman": "Medical signs and symptoms"
     },
     {
       "jargon": "Hemodynamic parameters",
       "layman": "Blood pressure and flow measurements"
     },
     {
-      "jargon": "Clinical parameters",
-      "layman": "Medical symptoms and signs"
+      "jargon": "Prognostic scores",
+      "layman": "Predictive scoring systems"
     }
   ],
   "outcomes": [
     {
       "jargon": "Disease progression",
-      "layman": "Disease gets worse over time"
+      "layman": "Worsening of the illness"
     },
     {
       "jargon": "Increased hospitalizations",
-      "layman": "More hospital visits"
-    },
-    {
-      "jargon": "Treatment response",
-      "layman": "How well treatment works"
+      "layman": "More doctor visits due to illness"
     },
     {
       "jargon": "Prognosis",
-      "layman": "Likelihood of disease outcome"
+      "layman": "Likelihood of how the disease will develop"
     },
     {
-      "jargon": "Resource allocation",
-      "layman": "How care is distributed"
+      "jargon": "Treatment resource allocation",
+      "layman": "Deciding who gets which treatment"
+    },
+    {
+      "jargon": "Consistency in treatment",
+      "layman": "Same care approach for all patients"
     }
   ]
 }

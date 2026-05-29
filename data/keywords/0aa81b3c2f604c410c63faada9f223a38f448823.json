@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "carbon nanotubes",
-      "layman": "tiny cylindrical carbon structures"
+      "layman": "tiny hollow tubes of carbon"
     },
     {
       "jargon": "zinc oxide nanowires",
-      "layman": "thin zinc oxide fibers"
+      "layman": "thin wires made of zinc oxide"
     },
     {
       "jargon": "carbon cloth",
-      "layman": "mesh made of carbon fibers"
+      "layman": "fabric made of carbon fibers"
     },
     {
-      "jargon": "iron sulfate",
-      "layman": "iron-based chemical catalyst"
+      "jargon": "catalyst",
+      "layman": "substance that speeds up reactions"
     },
     {
-      "jargon": "stainless steel",
-      "layman": "strong metal used as catalyst"
+      "jargon": "carbon source",
+      "layman": "material that supplies carbon for growth"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "physical vapor deposition",
-      "layman": "building materials from vapor"
+      "layman": "depositing material from vapor state"
     },
     {
       "jargon": "field emission",
-      "layman": "electrons jumping from surface"
-    },
-    {
-      "jargon": "electron transport",
-      "layman": "electrons moving through material"
+      "layman": "electrons jumping from material under voltage"
     },
     {
       "jargon": "microscopic observations",
-      "layman": "seeing tiny details under microscope"
+      "layman": "seeing small things under a microscope"
+    },
+    {
+      "jargon": "electron transport characteristics",
+      "layman": "how electrons move through a material"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "field enhancement factor of ~4\u00d710\u2074",
-      "layman": "strong amplification of electric field"
+      "layman": "greatly increased electric field"
     },
     {
       "jargon": "electric wall-by-wall breakdown",
-      "layman": "electric failure across entire surface"
+      "layman": "electric failure across the entire surface"
     },
     {
       "jargon": "non-ballistic transport",
-      "layman": "electrons scatter as they move"
+      "layman": "electrons scatter while moving"
     },
     {
-      "jargon": "significant scattering",
-      "layman": "electrons bump into things while moving"
+      "jargon": "significant scattering occurs",
+      "layman": "electrons bump into things often"
     }
   ]
 }

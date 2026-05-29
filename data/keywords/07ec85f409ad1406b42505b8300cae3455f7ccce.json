@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Pragmatism",
-      "layman": "Pragmatism"
+      "layman": "Practical beliefs about what works"
     },
     {
       "jargon": "Structuralist theory",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Critical legacy",
-      "layman": "Historical tradition of criticism"
+      "layman": "Historical tradition of critical thinking"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Revaluation",
-      "layman": "Reassessing old ideas"
+      "jargon": "Revaluated interpretation",
+      "layman": "New way of understanding old ideas"
     },
     {
-      "jargon": "Interpretation",
-      "layman": "Understanding meaning"
+      "jargon": "Challenges assumptions",
+      "layman": "Questioning accepted beliefs"
     },
     {
-      "jargon": "Critical analysis",
-      "layman": "Careful examination of arguments"
+      "jargon": "Revised interpretation",
+      "layman": "Updated understanding"
     },
     {
-      "jargon": "Theoretical challenge",
-      "layman": "Testing a theory with new ideas"
+      "jargon": "Defence of tradition",
+      "layman": "Protecting old ideas"
     },
     {
-      "jargon": "Revision",
-      "layman": "Updating an old idea"
+      "jargon": "Theoretical critique",
+      "layman": "Critically examining ideas"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Defence of moral reflection",
-      "layman": "Support for thoughtful ethics"
+      "jargon": "Revaluated legacy",
+      "layman": "Updated view of past beliefs"
     },
     {
-      "jargon": "Revaluated critical legacy",
-      "layman": "Updated view of old criticism"
+      "jargon": "Critique of structuralism",
+      "layman": "Challenging structuralist views"
     },
     {
-      "jargon": "Challenges to modern criticism",
-      "layman": "New problems for current criticism"
+      "jargon": "Reinterpretation of pragmatism",
+      "layman": "New meaning for practical thought"
     },
     {
-      "jargon": "Revised interpretation of pragmatism",
-      "layman": "New way of understanding pragmatism"
+      "jargon": "Moral reflection in modern culture",
+      "layman": "Modern thinking about ethics"
     },
     {
-      "jargon": "Pragmatic legacy",
-      "layman": "Historical tradition of practical thinking"
+      "jargon": "Critical tradition in America",
+      "layman": "American tradition of critical thought"
     }
   ]
 }

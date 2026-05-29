@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Litigants",
-      "layman": "People in a lawsuit"
+      "layman": "People in a legal dispute"
     },
     {
       "jargon": "Court",
       "layman": "Judicial system"
     },
     {
-      "jargon": "Attorney",
-      "layman": "Lawyer"
+      "jargon": "Attorneys",
+      "layman": "Lawyers"
     }
   ],
   "methodologies": [
@@ -27,8 +27,8 @@
       "layman": "Modeling lawsuits like auctions"
     },
     {
-      "jargon": "Symmetric litigation environment",
-      "layman": "Equal rules for both sides"
+      "jargon": "Symmetric litigation environments",
+      "layman": "Equal conditions for both sides"
     },
     {
       "jargon": "Equilibrium legal expenditures",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Continuum of legal systems",
-      "layman": "Range of possible legal rules"
+      "layman": "Full range of possible legal rules"
     },
     {
       "jargon": "Rational litigants",
-      "layman": "Sensible parties who act in self-interest"
+      "layman": "Sensible decision-makers in court"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Awarded asset",
+      "layman": "Asset given to winner"
+    },
+    {
+      "jargon": "Case quality",
+      "layman": "How strong a legal argument is"
+    },
+    {
       "jargon": "British rule",
-      "layman": "British rule"
+      "layman": "Rule where winner pays their own costs"
     },
     {
       "jargon": "American rule",
-      "layman": "American rule"
+      "layman": "Rule where each side pays their own costs"
     },
     {
       "jargon": "Legal reforms",
-      "layman": "New legal rules"
-    },
-    {
-      "jargon": "Best case presentation",
-      "layman": "Strongest argument made"
-    },
-    {
-      "jargon": "Court observes case quality",
-      "layman": "Court sees how well each side argues"
+      "layman": "New legal rules proposed"
     }
   ]
 }

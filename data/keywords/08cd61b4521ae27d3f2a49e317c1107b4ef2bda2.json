@@ -5,42 +5,42 @@
       "layman": "Diabetes"
     },
     {
-      "jargon": "Chronic illness",
-      "layman": "Long-term illness"
-    },
-    {
-      "jargon": "Acute illness",
-      "layman": "Sudden illness"
-    },
-    {
-      "jargon": "Primary care",
+      "jargon": "Primary care practice",
       "layman": "General doctor visits"
     },
     {
+      "jargon": "Chronic diseases",
+      "layman": "Long-term illnesses"
+    },
+    {
+      "jargon": "Acute illnesses",
+      "layman": "Sudden illnesses"
+    },
+    {
       "jargon": "Outpatient visits",
-      "layman": "Patient visits outside hospital"
+      "layman": "Doctor visits outside the hospital"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Davis Observation Code",
+      "jargon": "Davis Observation Code (DOC)",
       "layman": "Standardized visit behavior tracking"
+    },
+    {
+      "jargon": "Discriminant analysis",
+      "layman": "Pattern comparison tool"
     },
     {
       "jargon": "Time use categorization",
       "layman": "Sorting visit activities by type"
     },
     {
-      "jargon": "Discriminant analysis",
-      "layman": "Finding patterns that separate types of visits"
-    },
-    {
       "jargon": "Consecutive outpatient visits",
       "layman": "Back-to-back patient visits"
     },
     {
-      "jargon": "Direct observation",
-      "layman": "Nurses watching doctor-patient interactions"
+      "jargon": "Categorized behaviors",
+      "layman": "Grouped actions during visits"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Health education",
-      "layman": "Teaching patients about health"
+      "layman": "Teaching about illness management"
     },
     {
       "jargon": "Feedback on results",
-      "layman": "Reviewing test or check results"
+      "layman": "Reviewing test results"
     },
     {
       "jargon": "Chattiness",
-      "layman": "Just talking without focus"
+      "layman": "Unstructured small talk"
     },
     {
       "jargon": "Dietary advice",
-      "layman": "Suggestions about food choices"
+      "layman": "Suggestions on what to eat"
     }
   ]
 }

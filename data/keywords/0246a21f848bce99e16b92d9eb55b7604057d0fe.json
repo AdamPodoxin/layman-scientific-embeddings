@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Indivisible lines",
-      "layman": "Lines with no smaller parts"
+      "layman": "Lines with no smallest part"
     },
     {
       "jargon": "Incommensurable lines",
-      "layman": "Lines that can't be measured with the same unit"
+      "layman": "Lines that can't be measured with a common unit"
     },
     {
       "jargon": "Mathematical sciences",
-      "layman": "Mathematical principles and proofs"
+      "layman": "Math-based scientific systems"
     },
     {
       "jargon": "Perceptual phenomena",
-      "layman": "Things we observe through senses"
+      "layman": "Things we see or feel in daily life"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Treatise on indivisible lines"
     },
     {
-      "jargon": "Mathematical proof",
-      "layman": "Logical argument based on math"
+      "jargon": "Argumentation",
+      "layman": "Logical reasoning"
     },
     {
-      "jargon": "Discussion in the books about time and motion",
-      "layman": "Analysis of time and movement in texts"
+      "jargon": "Analysis of mathematical proofs",
+      "layman": "Reviewing mathematical conclusions"
     },
     {
-      "jargon": "Contradiction analysis",
-      "layman": "Checking for logical conflicts"
+      "jargon": "Discussion on time and motion",
+      "layman": "Talking about how time and movement work"
     },
     {
-      "jargon": "Perceptual observation",
-      "layman": "Observing what we see and feel"
+      "jargon": "Conflict resolution",
+      "layman": "Resolving contradictions between ideas"
     }
   ],
   "outcomes": [
     {
       "jargon": "Contradiction with mathematical sciences",
-      "layman": "Conflict with math principles"
-    },
-    {
-      "jargon": "Firmly established conclusion",
-      "layman": "Well-known and proven result"
+      "layman": "Mathematical conflict"
     },
     {
       "jargon": "Conflict between atomism and perceptual phenomena",
-      "layman": "Disagreement between theory and senses"
+      "layman": "Disagreement between small particles and what we see"
+    },
+    {
+      "jargon": "Firmly established conclusion",
+      "layman": "Well-proven result"
     },
     {
       "jargon": "Reputable beliefs",
-      "layman": "Accepted and trusted views"
+      "layman": "Commonly accepted ideas"
     },
     {
-      "jargon": "Incommensurable lines",
-      "layman": "Lines that can't be measured equally"
+      "jargon": "Conflict between atomism and mathematics",
+      "layman": "Mismatch between particle theory and math"
     }
   ]
 }

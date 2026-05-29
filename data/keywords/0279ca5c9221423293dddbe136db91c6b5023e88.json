@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Bernstein polynomials",
-      "layman": "Polynomial approximation method"
-    },
-    {
-      "jargon": "Vector-valued mappings",
-      "layman": "Functions that output vectors"
+      "layman": "Mathematical approximation tool"
     },
     {
       "jargon": "Infinite dimensional cube",
       "layman": "Infinite-dimensional space shape"
+    },
+    {
+      "jargon": "Vector-valued mappings",
+      "layman": "Functions that assign vectors"
     },
     {
       "jargon": "Real Hilbert space",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Approximation processes",
-      "layman": "Estimating values closely"
+      "layman": "Mathematical smoothing methods"
     },
     {
       "jargon": "Modelled on classical Bernstein polynomials",
-      "layman": "Based on known polynomial method"
-    },
-    {
-      "jargon": "Generalized to vector-valued mappings",
-      "layman": "Extended to multi-dimensional outputs"
+      "layman": "Built from known polynomial methods"
     },
     {
       "jargon": "Extension to infinite dimensional setting",
-      "layman": "Scaled to infinite dimensions"
+      "layman": "Scaling up to infinite dimensions"
     },
     {
-      "jargon": "Obtained from interval functions",
-      "layman": "Built from one-dimensional functions"
+      "jargon": "Generalized to vector-valued mappings",
+      "layman": "Adapted for multi-component functions"
+    },
+    {
+      "jargon": "Operators",
+      "layman": "Mathematical transformation tools"
     }
   ],
   "outcomes": [
     {
       "jargon": "New concrete approximation processes",
-      "layman": "New practical estimation methods"
-    },
-    {
-      "jargon": "Operators for vector-valued mappings",
-      "layman": "Tools for vector functions"
+      "layman": "New practical smoothing tools"
     },
     {
       "jargon": "Possible extension to infinite dimensional setting",
-      "layman": "Feasible scaling to infinite space"
+      "layman": "Feasible in infinite dimensions"
     },
     {
       "jargon": "Subset of a real Hilbert space",
       "layman": "Part of a mathematical space"
     },
     {
-      "jargon": "Defined on a subset",
-      "layman": "Applied to a specific part"
+      "jargon": "Defined on a real interval",
+      "layman": "Defined on a line segment"
+    },
+    {
+      "jargon": "Same idea generalized",
+      "layman": "Same method applied to new cases"
     }
   ]
 }

@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Causation",
-      "layman": "Cause-and-effect link"
+      "layman": "Cause-and-effect relationship"
     },
     {
-      "jargon": "Empirical study",
-      "layman": "Real-world observation study"
+      "jargon": "Quantitative data",
+      "layman": "Numbers-based data"
     },
     {
-      "jargon": "Political science topics",
-      "layman": "Political issues and ideas"
+      "jargon": "Qualitative data",
+      "layman": "Descriptive, non-number data"
     }
   ],
   "methodologies": [
     {
       "jargon": "Hypothesis testing",
-      "layman": "Testing if a claim is true"
+      "layman": "Testing if a guess is true"
     },
     {
       "jargon": "Measurement",
-      "layman": "Assigning numbers to ideas"
+      "layman": "Assigning numbers or descriptions to things"
     },
     {
       "jargon": "Inference",
       "layman": "Drawing conclusions from data"
     },
     {
-      "jargon": "Quantitative approaches",
-      "layman": "Numbers-based data collection"
+      "jargon": "Experiments",
+      "layman": "Controlled tests"
     },
     {
-      "jargon": "Qualitative approaches",
-      "layman": "In-depth, descriptive data collection"
+      "jargon": "Surveys",
+      "layman": "Questionnaires to gather opinions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Data gathering",
-      "layman": "Collecting information"
+      "jargon": "Empirical study",
+      "layman": "Based on real-world evidence"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering facts"
     },
     {
       "jargon": "Critical evaluation",
-      "layman": "Judging research quality"
+      "layman": "Carefully judging research"
     },
     {
-      "jargon": "Experimental methods",
-      "layman": "Controlled testing"
+      "jargon": "Research design",
+      "layman": "Study plan"
     },
     {
-      "jargon": "Surveys",
-      "layman": "Questionnaires to collect opinions"
-    },
-    {
-      "jargon": "Content analysis",
-      "layman": "Analyzing written or media content"
+      "jargon": "Causal inference",
+      "layman": "Finding true cause-effect links"
     }
   ]
 }

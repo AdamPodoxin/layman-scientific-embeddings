@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Hot deformation",
-      "layman": "Shaping metal when hot"
+      "layman": "Deforming metal when heated"
     },
     {
       "jargon": "Microstructure",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Processing map",
-      "layman": "Guide for optimal shaping conditions"
+      "layman": "Guide for heating and deformation conditions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Isothermal compression tests",
-      "layman": "Compressing metal at constant temperature"
+      "layman": "Compressing metal at fixed temperature"
     },
     {
       "jargon": "Arrhenius-type constitutive equation",
-      "layman": "Math model for material behavior under heat and stress"
+      "layman": "Equation to predict material behavior under heat and stress"
     },
     {
       "jargon": "Optical microscopy",
-      "layman": "Using light to see material details"
+      "layman": "Magnifying glass for viewing material details"
     },
     {
       "jargon": "Electron backscatter diffraction",
-      "layman": "Analyzing crystal patterns with electrons"
+      "layman": "Advanced microscope to study crystal arrangement"
     },
     {
       "jargon": "Gleeble-1500 thermal simulator",
-      "layman": "Machine that simulates hot metal processing"
+      "layman": "Machine to simulate heating and deformation"
     }
   ],
   "outcomes": [
     {
       "jargon": "Two DRX domains",
-      "layman": "Two zones of crystal growth during heating"
+      "layman": "Two regions where crystals form during deformation"
     },
     {
-      "jargon": "280\u2013350\u00b0C and 0.15\u20131 s\u207b\u00b9",
+      "jargon": "280\u2013350\u00b0C and 0.15\u20131 s\u22121",
       "layman": "Temperature and speed range for crystal growth"
     },
     {
-      "jargon": "330\u2013400\u00b0C and 0.001\u20130.09 s\u207b\u00b9",
-      "layman": "Another temperature-speed zone for crystal growth"
+      "jargon": "330\u2013400\u00b0C and 0.001\u20130.09 s\u22121",
+      "layman": "Another temperature and speed range for crystal growth"
     },
     {
       "jargon": "Unstable regions",
-      "layman": "Conditions where material deforms poorly"
+      "layman": "Conditions where material fails to deform smoothly"
     },
     {
       "jargon": "Microstructural evolution",
-      "layman": "How material structure changes over time"
+      "layman": "Change in material\u2019s internal structure over time"
     }
   ]
 }

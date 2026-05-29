@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Fixed-logic processor",
-      "layman": "Static processor core"
+      "layman": "Standard processor core"
     },
     {
       "jargon": "Reconfigurable logic array",
-      "layman": "Adjustable logic circuit"
+      "layman": "Flexible processor array"
     },
     {
       "jargon": "Memory",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "MIPS-like processor",
-      "layman": "Processor based on MIPS design"
+      "layman": "Standard computer processor design"
     }
   ],
   "methodologies": [
     {
       "jargon": "Seamless programming model",
-      "layman": "Simple instruction setup"
+      "layman": "Easy-to-use instruction system"
     },
     {
       "jargon": "Instruction mapping",
-      "layman": "Linking instructions to bits"
+      "layman": "Linking instructions to hardware bits"
     },
     {
       "jargon": "Memory-consistency scheme",
-      "layman": "Hardware rule for memory access"
+      "layman": "Synchronized memory access"
     },
     {
-      "jargon": "Performance enhancement applications",
-      "layman": "Apps that boost speed"
+      "jargon": "Hardware implementation",
+      "layman": "Built-in system design"
     },
     {
-      "jargon": "Mapping to Transmogrifier-2",
-      "layman": "Transferring code to FPGA"
+      "jargon": "Application mapping",
+      "layman": "Transferring software to hardware"
     }
   ],
   "outcomes": [
     {
       "jargon": "Performance speedup",
-      "layman": "Much faster execution"
+      "layman": "Faster processing speed"
     },
     {
       "jargon": "30 times speedup",
-      "layman": "30x faster than standard"
+      "layman": "30x faster performance"
     },
     {
-      "jargon": "2-dimensional discrete cosine transform",
-      "layman": "Image compression process"
+      "jargon": "Interconnection bottleneck",
+      "layman": "Slow data connection problem"
     },
     {
-      "jargon": "64-tap FIR filter",
-      "layman": "Signal filtering tool"
+      "jargon": "Concurrent execution",
+      "layman": "Running programs at same time"
     },
     {
-      "jargon": "Stand-alone state-of-the-art processor",
-      "layman": "Top existing processor"
+      "jargon": "Field programmable system",
+      "layman": "Configurable hardware platform"
     }
   ]
 }

@@ -13,56 +13,56 @@
       "layman": "Kanazawa Technical College"
     },
     {
-      "jargon": "Measurement",
-      "layman": "Taking readings"
+      "jargon": "CDIO",
+      "layman": "Education framework for design, development, implementation, and operation"
     },
     {
-      "jargon": "Control",
-      "layman": "Managing processes"
+      "jargon": "Algorithms",
+      "layman": "Step-by-step problem-solving rules"
     }
   ],
   "methodologies": [
     {
-      "jargon": "System and algorithm design",
-      "layman": "Planning system and step-by-step rules"
+      "jargon": "Measurement",
+      "layman": "Taking accurate readings"
     },
     {
-      "jargon": "Hardware and software design",
-      "layman": "Building physical and digital parts"
+      "jargon": "Analysis",
+      "layman": "Breaking down data to understand it"
     },
     {
-      "jargon": "System construction",
-      "layman": "Putting the system together"
+      "jargon": "Control",
+      "layman": "Regulating system behavior"
     },
     {
-      "jargon": "System operation",
-      "layman": "Running the system"
+      "jargon": "Circuits",
+      "layman": "Electrical pathways in devices"
     },
     {
-      "jargon": "CDIO framework",
-      "layman": "Teaching through conceive, design, implement, operate"
+      "jargon": "System design",
+      "layman": "Creating a working plan for a system"
     }
   ],
   "outcomes": [
     {
       "jargon": "Interdisciplinary education",
-      "layman": "Learning across fields"
+      "layman": "Learning across subjects"
     },
     {
       "jargon": "Student feedback",
-      "layman": "Students' opinions"
+      "layman": "Students' opinions on the program"
     },
     {
-      "jargon": "Interest in other study fields",
-      "layman": "Curiosity about other subjects"
+      "jargon": "Novelty",
+      "layman": "Unusual or new combination"
     },
     {
-      "jargon": "Novelty of combining life sciences and engineering",
-      "layman": "New mix of science and engineering"
+      "jargon": "Trial and error",
+      "layman": "Learning through mistakes"
     },
     {
-      "jargon": "Awareness of trial and error",
-      "layman": "Learning from mistakes"
+      "jargon": "Effective for engineering education",
+      "layman": "Helps teach engineering well"
     }
   ]
 }

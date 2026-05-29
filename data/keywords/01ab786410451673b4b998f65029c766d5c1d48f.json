@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
+      "jargon": "Atrabiliarios",
+      "layman": "Atrabiliarios"
+    },
+    {
       "jargon": "Melancholy",
-      "layman": "Deep sadness"
+      "layman": "Deep sadness or sorrow"
     },
     {
       "jargon": "Fetishism",
       "layman": "Strong obsession with objects"
     },
     {
-      "jargon": "Atrabiliarios",
-      "layman": "Atrabiliarios"
-    },
-    {
       "jargon": "Museum displays",
-      "layman": "How art is shown in museums"
+      "layman": "How objects are shown in museums"
     },
     {
       "jargon": "Memory",
-      "layman": "Past experiences stored in mind"
+      "layman": "Personal recollection"
     }
   ],
   "methodologies": [
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Artistic representation",
-      "layman": "How emotions are shown through art"
+      "layman": "Art as expression of emotions"
     },
     {
-      "jargon": "Visual symbolism",
-      "layman": "Meaning behind images"
+      "jargon": "Critical analysis",
+      "layman": "Careful examination of meaning"
     },
     {
-      "jargon": "Critical engagement",
-      "layman": "Careful thinking about art and power"
+      "jargon": "Visual storytelling",
+      "layman": "Using images to tell stories"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Mechanisms of melancholy",
-      "layman": "How sadness works in people"
+      "jargon": "Emotional resonance",
+      "layman": "Strong emotional impact"
     },
     {
-      "jargon": "Link between fetishism and memory",
-      "layman": "Objects hold strong emotional memories"
+      "jargon": "Collective memory",
+      "layman": "Shared group memories"
     },
     {
-      "jargon": "Public interpretation of trauma",
-      "layman": "How society understands pain"
+      "jargon": "Powerful viewing experience",
+      "layman": "Deep impression from seeing"
     },
     {
-      "jargon": "Emotional resonance in art",
-      "layman": "Art creates strong emotional reactions"
+      "jargon": "Cultural reflection",
+      "layman": "Seeing society in art"
     },
     {
-      "jargon": "Power dynamics in museums",
-      "layman": "Who controls what we see and remember"
+      "jargon": "Memory preservation",
+      "layman": "Keeping memories alive"
     }
   ]
 }

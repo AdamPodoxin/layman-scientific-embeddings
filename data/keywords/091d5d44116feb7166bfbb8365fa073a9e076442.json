@@ -6,11 +6,11 @@
     },
     {
       "jargon": "patient delay",
-      "layman": "time between symptom start and seeing a doctor"
+      "layman": "time from symptom to first doctor visit"
     },
     {
       "jargon": "system delay",
-      "layman": "time between first doctor visit and clinic visit"
+      "layman": "time from doctor visit to clinic visit"
     },
     {
       "jargon": "psychiatric morbidity",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "breast cancer diagnosis",
-      "layman": "being diagnosed with breast cancer"
+      "layman": "finding cancer in the breast"
     }
   ],
   "methodologies": [
     {
       "jargon": "odds ratio",
-      "layman": "how likely a delay is due to a factor"
+      "layman": "how likely delay is due to a factor"
     },
     {
       "jargon": "confidence interval",
-      "layman": "range showing how sure we are in a result"
-    },
-    {
-      "jargon": "median",
-      "layman": "middle value in a group"
+      "layman": "range of possible values for a result"
     },
     {
       "jargon": "cohort study",
-      "layman": "long-term group study of patients over time"
+      "layman": "tracking a group over time"
     },
     {
-      "jargon": "multivariate analysis",
-      "layman": "checking how many factors affect a result together"
+      "jargon": "median time",
+      "layman": "middle value in a list of times"
+    },
+    {
+      "jargon": "statistical analysis",
+      "layman": "using math to find patterns"
     }
   ],
   "outcomes": [
     {
-      "jargon": "4 weeks or more delay",
-      "layman": "delay of 28 days or more"
+      "jargon": "35% delayed 4 weeks or more",
+      "layman": "35% waited 28 days or longer"
+    },
+    {
+      "jargon": "odds ratio 3.6\u20138.0",
+      "layman": "3 to 8 times more likely to delay"
     },
     {
       "jargon": "median 13 days delay",
-      "layman": "average delay of 13 days"
-    },
-    {
-      "jargon": "median 7 days delay",
-      "layman": "average delay of 7 days for cancer cases"
+      "layman": "most waited about 13 days"
     },
     {
       "jargon": "median 18 days system delay",
-      "layman": "average 18-day gap between visits"
+      "layman": "average wait from doctor to clinic was 18 days"
     },
     {
-      "jargon": "OR = 3.6\u20138.0",
-      "layman": "strong link between belief and delay"
+      "jargon": "median 7 days for cancer patients",
+      "layman": "cancer patients waited about 7 days"
     }
   ]
 }

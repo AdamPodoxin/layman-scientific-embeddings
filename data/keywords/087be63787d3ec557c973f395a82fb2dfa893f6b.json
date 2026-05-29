@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Interaction Graphs",
-      "layman": "Networks showing how parts interact"
-    },
-    {
-      "jargon": "Graphs",
-      "layman": "Diagrams showing connections"
+      "layman": "Graphs showing how components interact"
     },
     {
       "jargon": "Exponential connectives",
       "layman": "Operations that amplify or scale"
     },
     {
+      "jargon": "Graphings",
+      "layman": "Extended graphs with geometric properties"
+    },
+    {
       "jargon": "Geometry of Interaction",
-      "layman": "Method to study proofs using shapes"
+      "layman": "Framework for understanding proofs through shapes"
     },
     {
       "jargon": "Elementary Linear Logic (ELL)",
-      "layman": "Logic for simple, fast computations"
+      "layman": "Logic for computations that finish quickly"
     }
   ],
   "methodologies": [
     {
       "jargon": "Combinatorial approach",
-      "layman": "Using combinations to solve problems"
-    },
-    {
-      "jargon": "Graphings",
-      "layman": "Extended graphs with geometric features"
+      "layman": "Building solutions from combinations"
     },
     {
       "jargon": "Geometric realization",
-      "layman": "Turning abstract graphs into shapes"
+      "layman": "Turning abstract shapes into physical forms"
     },
     {
-      "jargon": "Model construction",
-      "layman": "Building a system to represent ideas"
+      "jargon": "Interpret proofs by graphs",
+      "layman": "Using graphs to understand proofs"
     },
     {
       "jargon": "Parametrized models",
       "layman": "Models that change based on settings"
+    },
+    {
+      "jargon": "Map-based construction",
+      "layman": "Building models using specific mappings"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Functions that can be computed quickly"
     },
     {
-      "jargon": "Computable in elementary time",
-      "layman": "Can be solved in fast, simple steps"
+      "jargon": "Functions computable in elementary time",
+      "layman": "Computations that finish in reasonable time"
     },
     {
       "jargon": "Special cases",
-      "layman": "Simple examples within a broader system"
+      "layman": "Simple versions of more complex cases"
     },
     {
-      "jargon": "Generalization",
-      "layman": "Extending a rule to cover more cases"
+      "jargon": "Generalized framework",
+      "layman": "Broader system that includes previous models"
     },
     {
       "jargon": "Family of models",
-      "layman": "Multiple related models based on choices"
+      "layman": "Group of related models with different settings"
     }
   ]
 }

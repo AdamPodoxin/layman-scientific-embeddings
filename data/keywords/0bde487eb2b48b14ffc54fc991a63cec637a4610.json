@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Organizational unethical behavior",
-      "layman": "Unethical actions by companies"
-    },
-    {
-      "jargon": "Stock market",
-      "layman": "Stock market"
+      "layman": "Company misconduct"
     },
     {
       "jargon": "Stock performance",
-      "layman": "Stock price changes"
+      "layman": "Stock price movement"
+    },
+    {
+      "jargon": "Market reactions",
+      "layman": "Investor responses"
     },
     {
       "jargon": "Organizational context",
-      "layman": "Company environment"
+      "layman": "Business environment"
     },
     {
-      "jargon": "News of unethical behavior",
-      "layman": "Reports of company misconduct"
+      "jargon": "Unethical behavior",
+      "layman": "Wrongful actions in business"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Develop and test a model",
-      "layman": "Create and evaluate a theory"
+      "jargon": "Model development",
+      "layman": "Building a theoretical framework"
     },
     {
-      "jargon": "Extend understanding",
-      "layman": "Improve current knowledge"
+      "jargon": "Model testing",
+      "layman": "Validating the framework"
     },
     {
-      "jargon": "Take into account",
-      "layman": "Consider factors"
+      "jargon": "Empirical validation",
+      "layman": "Checking results with real data"
     },
     {
-      "jargon": "Analyze reactions",
-      "layman": "Study public responses"
+      "jargon": "Extending understanding",
+      "layman": "Broadening the explanation"
     },
     {
-      "jargon": "Test a model",
-      "layman": "Validate a theory with data"
+      "jargon": "News dissemination",
+      "layman": "How news spreads about companies"
     }
   ],
   "outcomes": [
     {
       "jargon": "Stock performance impact",
-      "layman": "Effect on stock prices"
+      "layman": "How stock prices change"
     },
     {
-      "jargon": "Market responses",
-      "layman": "How markets react"
+      "jargon": "Investor behavior shift",
+      "layman": "People change how they invest"
     },
     {
-      "jargon": "Behavioral reactions",
-      "layman": "People's reactions"
+      "jargon": "Market responsiveness",
+      "layman": "Market reacts quickly"
     },
     {
-      "jargon": "Model validation",
-      "layman": "Prove the model works"
+      "jargon": "Information asymmetry",
+      "layman": "Unequal access to information"
     },
     {
-      "jargon": "Impact assessment",
-      "layman": "Measure the effect"
+      "jargon": "Behavioral response",
+      "layman": "People's reactions to news"
     }
   ]
 }

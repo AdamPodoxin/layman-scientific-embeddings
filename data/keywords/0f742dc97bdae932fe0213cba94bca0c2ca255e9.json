@@ -6,41 +6,41 @@
     },
     {
       "jargon": "convex real valued function",
-      "layman": "A curved mathematical rule that grows faster than a straight line"
+      "layman": "Special type of mathematical curve"
     },
     {
       "jargon": "testing problem",
-      "layman": "A situation where we need to decide between two possibilities"
+      "layman": "A challenge in making decisions under uncertainty"
     },
     {
-      "jargon": "Ostrowski\u2019s inequality",
-      "layman": "A rule for how close values can be in a range"
+      "jargon": "Ostrowski's inequality",
+      "layman": "Mathematical rule for bounding differences"
     },
     {
       "jargon": "trapezoid inequality",
-      "layman": "A rule about how well a shape can be approximated by a trapezoid"
+      "layman": "Rule for estimating area under curves"
     }
   ],
   "methodologies": [
     {
-      "jargon": "define f-divergences",
-      "layman": "Set up the rules for measuring differences"
+      "jargon": "Ostrowski\u2019s inequality",
+      "layman": "Mathematical rule for bounding differences"
     },
     {
-      "jargon": "utilise Ostrowski\u2019s inequality",
-      "layman": "Use a mathematical rule to find limits"
+      "jargon": "trapezoid inequality",
+      "layman": "Rule for estimating area under curves"
     },
     {
       "jargon": "prove bounds",
-      "layman": "Show the limits of how large or small something can be"
+      "layman": "Show limits of a mathematical result"
     },
     {
       "jargon": "investigate limitations",
-      "layman": "Check where the rules break down"
+      "layman": "Check where a method fails"
     },
     {
       "jargon": "adjust parameter f",
-      "layman": "Change a setting to fit a specific need"
+      "layman": "Change a setting to fit a need"
     }
   ],
   "outcomes": [
@@ -49,16 +49,16 @@
       "layman": "Limits on how far apart distributions can be"
     },
     {
-      "jargon": "five classes of f-divergences",
-      "layman": "Five types of distance measures"
+      "jargon": "limitations of inequalities",
+      "layman": "Where the math rules don't work well"
     },
     {
       "jargon": "strengths of inequalities",
-      "layman": "How well the rules work in practice"
+      "layman": "Where the math rules work well"
     },
     {
-      "jargon": "limitations of inequalities",
-      "layman": "Where the rules fail or don\u2019t apply"
+      "jargon": "five classes of f-divergences",
+      "layman": "Five different types of distance measures"
     },
     {
       "jargon": "extended set of f-divergences",

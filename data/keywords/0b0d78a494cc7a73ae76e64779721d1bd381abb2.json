@@ -5,16 +5,16 @@
       "layman": "Good that can't be split"
     },
     {
-      "jargon": "Social implications",
-      "layman": "Effects on society"
+      "jargon": "Society",
+      "layman": "Group of people"
     },
     {
       "jargon": "Individual behavior",
       "layman": "How people act"
     },
     {
-      "jargon": "Winner of an indivisible good",
-      "layman": "Chosen recipient of the good"
+      "jargon": "Winner",
+      "layman": "Selected recipient"
     },
     {
       "jargon": "Eligible individuals",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Model of choice",
-      "layman": "Decision-making framework"
+      "layman": "Decision framework"
     },
     {
       "jargon": "Quantification",
-      "layman": "Measuring in numbers"
+      "layman": "Measuring amount"
     },
     {
       "jargon": "Distribution",
       "layman": "Sharing out"
     },
     {
-      "jargon": "Societal behavior",
-      "layman": "How society acts"
+      "jargon": "Social implications",
+      "layman": "Effects on society"
     },
     {
       "jargon": "Choice among group",
-      "layman": "Picking from a group"
+      "layman": "Picking one from many"
     }
   ],
   "outcomes": [
     {
       "jargon": "Sense of impartiality",
-      "layman": "Feeling of fairness"
+      "layman": "Fairness feeling"
     },
     {
-      "jargon": "Individual decisions",
-      "layman": "Personal choices"
+      "jargon": "Selection of winner",
+      "layman": "Who wins the good"
     },
     {
-      "jargon": "Social behavior patterns",
-      "layman": "Common social actions"
+      "jargon": "Individual behavior change",
+      "layman": "People act differently"
     },
     {
-      "jargon": "Fair allocation",
-      "layman": "Even sharing"
+      "jargon": "Social behavior impact",
+      "layman": "How society changes"
     },
     {
-      "jargon": "Model implications",
-      "layman": "Real-world effects"
+      "jargon": "Quantified fairness",
+      "layman": "Fairness measured"
     }
   ]
 }

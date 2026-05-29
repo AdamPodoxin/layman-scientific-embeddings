@@ -5,64 +5,64 @@
       "layman": "System design details"
     },
     {
-      "jargon": "IT architects",
-      "layman": "IT system designers"
-    },
-    {
-      "jargon": "Model of a viable architecture",
-      "layman": "Working design of a system"
+      "jargon": "Architecture models",
+      "layman": "Visual design representations"
     },
     {
       "jargon": "Work products",
-      "layman": "Design documents"
+      "layman": "Project deliverables"
     },
     {
-      "jargon": "Architectural workbench",
-      "layman": "Design tool for IT systems"
+      "jargon": "IT architects",
+      "layman": "Tech system designers"
+    },
+    {
+      "jargon": "Model-centric methods",
+      "layman": "Design approaches using models"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Model-centric architectural methods",
-      "layman": "Design based on models"
-    },
-    {
       "jargon": "Metamodel-driven tool",
-      "layman": "Tool built on a model framework"
+      "layman": "Tool built on a design blueprint"
     },
     {
-      "jargon": "Method-based tool",
-      "layman": "Tool following design rules"
+      "jargon": "Method-based design",
+      "layman": "Tool guided by established processes"
     },
     {
       "jargon": "Creative process",
-      "layman": "Design thinking"
+      "layman": "Design by imagination and insight"
     },
     {
-      "jargon": "Prototype tool",
-      "layman": "Early version of a tool"
+      "jargon": "Information collection",
+      "layman": "Gathering design facts"
+    },
+    {
+      "jargon": "Work product consistency",
+      "layman": "Keeping project outputs aligned"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Consistent and up-to-date work products",
-      "layman": "Current and accurate design docs"
+      "jargon": "Viable architecture",
+      "layman": "Functional design solution"
     },
     {
-      "jargon": "Wider adoption of model-centric methods",
-      "layman": "More teams use design models"
+      "jargon": "Tool adoption",
+      "layman": "Widespread use of the tool"
     },
     {
-      "jargon": "Improved architectural thinking",
-      "layman": "Better system design decisions"
+      "jargon": "Work product alignment",
+      "layman": "All outputs match each other"
     },
     {
-      "jargon": "Feedback from IT architects",
-      "layman": "Input from real designers"
-    },
-    {
-      "jargon": "Use in production environments",
+      "jargon": "Production environment use",
       "layman": "Used in real-world settings"
+    },
+    {
+      "jargon": "Design motivation",
+      "layman": "Why the tool was created"
     }
   ]
 }

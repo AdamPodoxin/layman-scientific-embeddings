@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Civil society",
-      "layman": "Public life beyond the government"
+      "layman": "Public life outside government"
     },
     {
       "jargon": "Citizenship",
-      "layman": "Rights and status of being a member of a country"
+      "layman": "Legal status of being a citizen"
     },
     {
       "jargon": "State-civil society distinction",
       "layman": "Separation between government and public life"
     },
     {
-      "jargon": "Marxist theories",
-      "layman": "Economic-focused political views"
+      "jargon": "Rights",
+      "layman": "Privileges or freedoms granted to people"
     },
     {
-      "jargon": "Liberal theories",
-      "layman": "Individual freedoms-focused political views"
+      "jargon": "Culture",
+      "layman": "Shared beliefs and traditions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Theoretical analysis",
-      "layman": "Examining ideas and concepts"
+      "layman": "Deep logical examination"
     },
     {
       "jargon": "Conceptual paradox",
-      "layman": "Contradiction in a theory"
+      "layman": "Contradictory idea"
     },
     {
       "jargon": "Under-theorization",
       "layman": "Lack of deep explanation"
     },
     {
-      "jargon": "Discourse analysis",
-      "layman": "Studying how ideas are discussed"
+      "jargon": "Distinguishing theses",
+      "layman": "Comparing different views"
     },
     {
-      "jargon": "Symbolization",
-      "layman": "Use of symbols to represent ideas"
+      "jargon": "Alternative theoretical strategy",
+      "layman": "New way of thinking"
     }
   ],
   "outcomes": [
     {
       "jargon": "Conceptual impasse",
-      "layman": "Theoretical dead end"
+      "layman": "Dead end in theory"
+    },
+    {
+      "jargon": "Globalization challenge",
+      "layman": "Pressure from global changes"
     },
     {
       "jargon": "Multivalent character of citizenship",
       "layman": "Multiple forms of citizenship"
     },
     {
-      "jargon": "Poor understanding of culture",
-      "layman": "Limited grasp of cultural values"
+      "jargon": "Impoverished understanding",
+      "layman": "Shallow view of something"
     },
     {
-      "jargon": "Globalization challenge",
-      "layman": "Problem of global connections"
-    },
-    {
-      "jargon": "Alternative theoretical strategy",
-      "layman": "New way of thinking about the issue"
+      "jargon": "Theoretical strategy",
+      "layman": "Plan to solve a problem"
     }
   ]
 }

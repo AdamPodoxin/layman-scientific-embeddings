@@ -13,56 +13,56 @@
       "layman": "Freud"
     },
     {
-      "jargon": "Enlightenment ideals",
-      "layman": "Values of reason and science"
+      "jargon": "Dichotomy",
+      "layman": "Binary split"
     },
     {
-      "jargon": "Binary opposition",
-      "layman": "Two opposing groups"
+      "jargon": "Enlightenment ideals",
+      "layman": "Values of reason and science"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Tacit dichotomy",
-      "layman": "Unspoken division"
+      "jargon": "Binary opposition",
+      "layman": "Two-sided contrast"
     },
     {
-      "jargon": "Presupposed",
-      "layman": "Assumed without proof"
+      "jargon": "Presupposed dichotomy",
+      "layman": "Assumed two-part split"
     },
     {
-      "jargon": "Commitment",
-      "layman": "Strong dedication"
+      "jargon": "Commitment to ideals",
+      "layman": "Staying true to principles"
     },
     {
       "jargon": "Heritage",
-      "layman": "Family history"
+      "layman": "Family traditions"
     },
     {
-      "jargon": "Critical critique",
-      "layman": "Careful examination"
+      "jargon": "Rational critique",
+      "layman": "Careful analysis using reason"
     }
   ],
   "outcomes": [
     {
       "jargon": "Fundamental wrong",
-      "layman": "Major error"
+      "layman": "Core error"
     },
     {
-      "jargon": "Proud of being both",
-      "layman": "Happy to be both"
+      "jargon": "Pride in identity",
+      "layman": "Feeling confident in self"
     },
     {
-      "jargon": "Dual identity",
-      "layman": "Two identities together"
+      "jargon": "Integrated identity",
+      "layman": "Having both parts together"
     },
     {
       "jargon": "Challenging assumptions",
-      "layman": "Questioning common beliefs"
+      "layman": "Questioning beliefs"
     },
     {
-      "jargon": "Reversing the table",
-      "layman": "Flipping the usual view"
+      "jargon": "Universal science",
+      "layman": "Science for all people"
     }
   ]
 }

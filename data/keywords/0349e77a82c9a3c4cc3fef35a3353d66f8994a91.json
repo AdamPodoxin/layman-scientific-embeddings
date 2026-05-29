@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Weissliegendes",
-      "layman": "Permian sandstones in the North Sea"
+      "layman": "North Sea sandstone layer"
     },
     {
       "jargon": "Graywackes",
-      "layman": "Sandstones with mixed rock types"
+      "layman": "Rough, mixed sandstone rocks"
     },
     {
       "jargon": "Subgraywackes",
-      "layman": "Sandstones with grayish mix"
+      "layman": "Slightly sandy, gray rocks"
     },
     {
       "jargon": "Subarkoses",
-      "layman": "Sandstones with more feldspar"
+      "layman": "Sand-rich rocks with some clay"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Rock composition analysis"
     },
     {
-      "jargon": "Grain sorting",
-      "layman": "How evenly sized the sand particles are"
-    },
-    {
-      "jargon": "Grain rounding",
-      "layman": "How smooth the sand grains are"
-    },
-    {
-      "jargon": "Post-depositional etching",
-      "layman": "Sand grains worn down after being laid down"
+      "jargon": "Post-depositionally etched",
+      "layman": "Grains weakened after being buried"
     },
     {
       "jargon": "Marine reworking",
-      "layman": "Oceans reshaping rocks over time"
+      "layman": "Ocean water reshaping rocks"
+    },
+    {
+      "jargon": "Geological transport",
+      "layman": "Movement of rocks by water"
+    },
+    {
+      "jargon": "Transgression",
+      "layman": "Sea level rising and moving inland"
     }
   ],
   "outcomes": [
     {
       "jargon": "Shallow marine environment",
-      "layman": "Deposited in shallow ocean areas"
+      "layman": "Deposited in shallow ocean area"
     },
     {
       "jargon": "Aeolian dune interpretation",
-      "layman": "Wind-blown dune theory"
+      "layman": "Old idea that sand came from wind-blown dunes"
     },
     {
-      "jargon": "Transgression of the Zechstein Sea",
-      "layman": "Sea level rising into the area"
+      "jargon": "Zechstein Sea",
+      "layman": "Ancient ocean during the Permian"
     },
     {
       "jargon": "Thuringian in age",
-      "layman": "Formed during a specific time period"
+      "layman": "Older than previously thought"
     },
     {
       "jargon": "Saxonian age",
-      "layman": "Older time period theory"
+      "layman": "Earlier time period assumption"
     }
   ]
 }

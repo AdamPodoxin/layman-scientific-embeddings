@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Cross-country movement",
-      "layman": "Movement across countries"
-    },
-    {
-      "jargon": "Engineers",
-      "layman": "Engineers"
+      "layman": "Travel across countries"
     },
     {
       "jargon": "Corps of Engineers",
       "layman": "Army engineering group"
     },
     {
-      "jargon": "Intelligence guidance",
-      "layman": "Military intelligence rules"
+      "jargon": "Document dissemination",
+      "layman": "Sharing official documents"
     },
     {
-      "jargon": "Document dissemination",
-      "layman": "Sharing documents"
+      "jargon": "Department of the Army",
+      "layman": "Army leadership body"
+    },
+    {
+      "jargon": "Intelligence guidance",
+      "layman": "Official military advice"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Production",
-      "layman": "Making or creating"
+      "jargon": "Document approval",
+      "layman": "Reviewing and signing a report"
     },
     {
       "jargon": "Dissemination",
       "layman": "Spreading information"
     },
     {
-      "jargon": "Review",
-      "layman": "Checking for accuracy"
+      "jargon": "Review by intelligence office",
+      "layman": "Checking by intelligence team"
     },
     {
-      "jargon": "Approval",
-      "layman": "Official acceptance"
+      "jargon": "Approval by chief of engineers",
+      "layman": "Final approval by engineering leader"
     },
     {
-      "jargon": "Analysis",
-      "layman": "Breaking down information"
+      "jargon": "Guidance representation",
+      "layman": "Showing official policy"
     }
   ],
   "outcomes": [
     {
       "jargon": "Approved for dissemination",
-      "layman": "Allowed to be shared"
+      "layman": "Accepted for sharing"
     },
     {
-      "jargon": "Not reviewed by intelligence office",
-      "layman": "No official intelligence check"
+      "jargon": "No review by intelligence office",
+      "layman": "Not checked by intelligence"
     },
     {
       "jargon": "Does not represent agreed guidance",
-      "layman": "Not official policy"
+      "layman": "Not official army recommendation"
     },
     {
-      "jargon": "Department of the Army guidance",
-      "layman": "Army-wide rules"
+      "jargon": "Dissemination within Corps",
+      "layman": "Shared within engineering unit"
     },
     {
-      "jargon": "Chief of Engineers approval",
-      "layman": "Top engineer's okay"
+      "jargon": "Not final policy",
+      "layman": "Not binding advice"
     }
   ]
 }

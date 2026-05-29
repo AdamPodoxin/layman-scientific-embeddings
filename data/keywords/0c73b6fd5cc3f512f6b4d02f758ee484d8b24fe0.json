@@ -2,22 +2,22 @@
   "core_entities": [
     {
       "jargon": "Rank equivalence operators",
-      "layman": "Operators that preserve rank"
+      "layman": "Operators that keep rank the same"
     },
     {
       "jargon": "Generators",
-      "layman": "Objects that create or define transformations"
+      "layman": "Elements that produce changes"
     },
     {
-      "jargon": "Rank",
-      "layman": "Order or level in a system"
+      "jargon": "Rank preserving operators",
+      "layman": "Operators that maintain rank"
     },
     {
       "jargon": "Theorem",
-      "layman": "A proven mathematical statement"
+      "layman": "A proven statement"
     },
     {
-      "jargon": "Proof",
+      "jargon": "Mathematical proof",
       "layman": "Logical argument showing something is true"
     }
   ],
@@ -27,42 +27,42 @@
       "layman": "Valid logical explanation"
     },
     {
-      "jargon": "Form of generators",
-      "layman": "Shape or structure of creating tools"
+      "jargon": "Determine form",
+      "layman": "Figure out structure"
     },
     {
-      "jargon": "Preserving rank",
-      "layman": "Keeping order unchanged"
+      "jargon": "Present new proof",
+      "layman": "Show a new logical argument"
     },
     {
-      "jargon": "Operator",
-      "layman": "A rule or function that acts on data"
+      "jargon": "Analyze operators",
+      "layman": "Study how operators work"
     },
     {
-      "jargon": "Mathematical proof",
-      "layman": "Step-by-step logic to show truth"
+      "jargon": "Show example",
+      "layman": "Give a clear illustration"
     }
   ],
   "outcomes": [
     {
-      "jargon": "New correct proof",
-      "layman": "Fixed and valid proof"
+      "jargon": "Theorem is true",
+      "layman": "The principle holds"
     },
     {
-      "jargon": "Determined form",
-      "layman": "Found exact structure"
+      "jargon": "Proof is wrong",
+      "layman": "Original argument had a flaw"
     },
     {
-      "jargon": "Interesting example",
-      "layman": "Notable case study"
+      "jargon": "Form of generators is determined",
+      "layman": "Pattern of generators is found"
     },
     {
-      "jargon": "Theorem of A. Markova",
-      "layman": "Known mathematical rule"
+      "jargon": "Interesting example is shown",
+      "layman": "A surprising case is presented"
     },
     {
-      "jargon": "Wrong proof",
-      "layman": "Incorrect logical argument"
+      "jargon": "New, correct proof is presented",
+      "layman": "A valid new explanation is given"
     }
   ]
 }

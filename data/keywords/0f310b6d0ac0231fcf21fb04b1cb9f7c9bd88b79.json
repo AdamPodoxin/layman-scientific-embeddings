@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Reaction-bonded silicon nitride",
-      "layman": "Silicon nitride bonded by chemical reaction"
+      "layman": "Silicon nitride bonded through chemical reaction"
     },
     {
       "jargon": "Powder metallurgical methods",
-      "layman": "Molding powder into solid material"
+      "layman": "Process using powdered materials to form solids"
     },
     {
       "jargon": "Structural ceramic material",
-      "layman": "Strong ceramic used in building parts"
+      "layman": "Strong ceramic used in construction"
     },
     {
       "jargon": "Ceramic components",
-      "layman": "Pieces made of ceramic"
+      "layman": "Parts made of ceramic"
     }
   ],
   "methodologies": [
     {
       "jargon": "Powder metallurgical techniques",
-      "layman": "Using powder to make solid parts"
+      "layman": "Using powders to create solid parts"
     },
     {
       "jargon": "Nitridation process",
       "layman": "Chemical process to add nitrogen"
     },
     {
-      "jargon": "Fabrication",
-      "layman": "Making a material into a shape"
-    },
-    {
-      "jargon": "Reaction bonding",
+      "jargon": "Reaction-bonding",
       "layman": "Bonding through chemical reaction"
     },
     {
-      "jargon": "Production of ceramic components",
-      "layman": "Making ceramic parts without cutting"
+      "jargon": "Fabrication",
+      "layman": "Making a product from raw material"
+    },
+    {
+      "jargon": "Heat treatment",
+      "layman": "Heating material to change its structure"
     }
   ],
   "outcomes": [
     {
       "jargon": "Little or no machining",
-      "layman": "Almost no cutting needed"
+      "layman": "Minimal cutting or shaping needed"
     },
     {
       "jargon": "Resultant properties",
-      "layman": "Final material characteristics"
+      "layman": "Final physical characteristics"
     },
     {
       "jargon": "High-temperature performance",
-      "layman": "Works well at high heat"
+      "layman": "Stays strong at high heat"
     },
     {
-      "jargon": "Structural strength",
-      "layman": "Strong enough to hold shape"
+      "jargon": "Structural integrity",
+      "layman": "Strong and durable structure"
     },
     {
       "jargon": "Production efficiency",
-      "layman": "Easy and fast to make"
+      "layman": "Easy and efficient to make"
     }
   ]
 }

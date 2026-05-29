@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Hamilton's equations of motion",
-      "layman": "Physics equations describing motion"
+      "layman": "Physics rules for how things move"
     },
     {
       "jargon": "Newton's second law",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Hamiltonians",
-      "layman": "Energy-based physics rules"
+      "layman": "Energy-based physical rules"
     },
     {
       "jargon": "Lagrangians",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Genetic algorithms",
-      "layman": "Evolution-like formula search"
+      "layman": "Computer evolved solutions"
     },
     {
-      "jargon": "Experimental measurements",
-      "layman": "Data from physical tests"
-    },
-    {
-      "jargon": "Data-driven learning",
-      "layman": "Learning from data only"
+      "jargon": "Experimental data",
+      "layman": "Measured observations"
     },
     {
       "jargon": "Implicit prior knowledge",
       "layman": "Hidden assumptions in the method"
+    },
+    {
+      "jargon": "Training on physical systems",
+      "layman": "Using real-world systems to learn"
     }
   ],
   "outcomes": [
     {
       "jargon": "Find laws from data",
-      "layman": "Discover rules from experiments"
+      "layman": "Discover rules without prior input"
     },
     {
       "jargon": "No prior physics knowledge",
-      "layman": "No pre-existing physics rules used"
+      "layman": "No known physics assumptions"
     },
     {
       "jargon": "Find Hamiltonians",
-      "layman": "Discover energy-based laws"
+      "layman": "Discover energy-based rules"
     },
     {
-      "jargon": "Find special Lagrangians",
+      "jargon": "Discover special Lagrangians",
       "layman": "Find specific motion-based rules"
     },
     {
-      "jargon": "Demystify the process",
-      "layman": "Explain how it actually works"
+      "jargon": "Implicit use of physics laws",
+      "layman": "Unseen physics assumptions are used"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Vacuum",
-      "layman": "Empty space"
-    },
-    {
-      "jargon": "Particles",
-      "layman": "Tiny building blocks"
+      "jargon": "Quantum field theories",
+      "layman": "Theories about particles and forces in space"
     },
     {
       "jargon": "General relativity",
-      "layman": "Theory of gravity"
+      "layman": "Theory of gravity and spacetime"
     },
     {
-      "jargon": "Quantum field theories",
-      "layman": "Theories about tiny particles and forces"
+      "jargon": "Vacuum dynamics",
+      "layman": "How empty space behaves"
     },
     {
-      "jargon": "Cosmological constant",
-      "layman": "A value that affects the universe's expansion"
+      "jargon": "Mass structures",
+      "layman": "How particles get their mass"
+    },
+    {
+      "jargon": "Interacting particles",
+      "layman": "Particles that affect each other"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Internal dynamics",
-      "layman": "How things move inside"
-    },
-    {
       "jargon": "One-to-one correspondence",
-      "layman": "Exact matching between two things"
+      "layman": "Exact matching between two systems"
     },
     {
-      "jargon": "Proved to be",
-      "layman": "Shown to be true"
+      "jargon": "Proved",
+      "layman": "Confirmed through logic and math"
     },
     {
-      "jargon": "Equations",
-      "layman": "Mathematical rules"
+      "jargon": "Theoretical expectation",
+      "layman": "Prediction from theory"
     },
     {
-      "jargon": "Interacting particles",
-      "layman": "Particles that influence each other"
+      "jargon": "Equations of internal dynamics",
+      "layman": "Math rules for how systems change"
+    },
+    {
+      "jargon": "Unifying framework",
+      "layman": "Single model that connects different theories"
     }
   ],
   "outcomes": [
     {
       "jargon": "High value for the cosmological constant",
-      "layman": "Large value for universe expansion factor"
+      "layman": "Large value for universe's expansion force"
     },
     {
-      "jargon": "Unifying theories",
-      "layman": "Combining gravity and quantum rules"
-    },
-    {
-      "jargon": "Mass structures",
-      "layman": "How mass is formed"
+      "jargon": "Cosmological constant",
+      "layman": "Force pushing space to expand"
     },
     {
       "jargon": "Theoretical expectation",
-      "layman": "What theory predicts"
+      "layman": "Predicted outcome from theory"
     },
     {
-      "jargon": "Equations of general relativity",
-      "layman": "Math rules for gravity"
+      "jargon": "Vacuum equations match gravity equations",
+      "layman": "Empty space math matches gravity math"
+    },
+    {
+      "jargon": "Correspondence between particle and gravity laws",
+      "layman": "Particle rules and gravity rules match"
     }
   ]
 }

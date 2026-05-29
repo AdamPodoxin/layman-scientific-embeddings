@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Carbonate rock",
-      "layman": "Rock made of calcium carbonate"
+      "layman": "Stones made of ancient sea minerals"
     },
     {
       "jargon": "Middle Run Formation",
@@ -14,17 +14,17 @@
     },
     {
       "jargon": "Pre-Mount Simon rocks",
-      "layman": "Rocks below the sandstone"
+      "layman": "Rocks below sandstone layer"
     },
     {
       "jargon": "Karst surface",
-      "layman": "Surface with sinkholes and caves"
+      "layman": "Eroded rock surface with sinkholes"
     }
   ],
   "methodologies": [
     {
       "jargon": "Stratigraphic test hole",
-      "layman": "Drill hole to study rock layers"
+      "layman": "Drill to see rock layers"
     },
     {
       "jargon": "Seismic lines",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Cuttings analysis",
-      "layman": "Studying rock fragments from drill"
-    },
-    {
-      "jargon": "Seismic sections",
-      "layman": "Images from underground sound waves"
+      "layman": "Study of rock fragments from drill"
     },
     {
       "jargon": "Hydrocarbon potential",
-      "layman": "Possibility of oil or gas"
+      "layman": "Possible oil or gas in rocks"
+    },
+    {
+      "jargon": "Trap types",
+      "layman": "Places where oil or gas could get trapped"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Gap in rock layers"
     },
     {
-      "jargon": "Possible trap types",
-      "layman": "Potential oil or gas pockets"
-    },
-    {
       "jargon": "Basin thickening",
-      "layman": "Basin getting wider and deeper"
+      "layman": "Underground area getting deeper"
     },
     {
       "jargon": "Hydrocarbon production",
-      "layman": "Oil or gas can be extracted"
+      "layman": "Oil or gas can be produced"
+    },
+    {
+      "jargon": "Need for modern well",
+      "layman": "Requires new drill to confirm findings"
     }
   ]
 }

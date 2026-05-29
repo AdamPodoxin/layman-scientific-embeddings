@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Political theory",
-      "layman": "Study of government and power"
+      "layman": "Study of government and justice"
     },
     {
       "jargon": "Utilitarianism",
-      "layman": "Rule that maximizes happiness"
+      "layman": "Goal of maximizing happiness"
     },
     {
       "jargon": "Rational choice theory",
@@ -14,17 +14,17 @@
     },
     {
       "jargon": "Liberalism",
-      "layman": "Belief in individual freedoms"
+      "layman": "Belief in individual rights"
     },
     {
       "jargon": "Postcolonialism",
-      "layman": "Critique of colonial power and culture"
+      "layman": "Critique of colonial power"
     }
   ],
   "methodologies": [
     {
       "jargon": "Conceptual change",
-      "layman": "Changing how ideas are understood"
+      "layman": "Changing core ideas over time"
     },
     {
       "jargon": "Anachronism",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Feminist interpretation",
-      "layman": "Reading politics through gender lens"
+      "layman": "Reading politics through women's perspectives"
     },
     {
       "jargon": "Legal positivism",
       "layman": "Separating law from morality"
     },
     {
-      "jargon": "Deleuze and Guattari's political philosophy",
-      "layman": "Non-traditional approach to power and freedom"
+      "jargon": "Interpretation",
+      "layman": "Understanding meaning in texts"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Multiculturalism and oppression",
-      "layman": "Different cultures facing unfair treatment"
+      "jargon": "Multiculturalism",
+      "layman": "Respecting multiple cultures"
     },
     {
-      "jargon": "International theory",
-      "layman": "Study of global politics"
+      "jargon": "Oppression",
+      "layman": "Systematic unfair treatment"
     },
     {
       "jargon": "Political power",
-      "layman": "Control over decisions and resources"
+      "layman": "Influence over decisions"
     },
     {
-      "jargon": "Public philosophy",
-      "layman": "Philosophy for society's use"
+      "jargon": "International relations",
+      "layman": "How nations interact"
     },
     {
-      "jargon": "Object of political theory",
-      "layman": "What political theory is trying to explain"
+      "jargon": "Deleuze and Guattari's political philosophy",
+      "layman": "Radical idea of power and flows"
     }
   ]
 }

@@ -2,41 +2,41 @@
   "core_entities": [
     {
       "jargon": "Congenital heart disease",
-      "layman": "Heart problems present at birth"
+      "layman": "Heart disease present at birth"
     },
     {
       "jargon": "Hypoplastic Left Heart Syndrome",
-      "layman": "Underdeveloped left side of the heart"
+      "layman": "Underdeveloped left side of heart"
     },
     {
       "jargon": "Transposition of the Great Arteries",
-      "layman": "Major heart blood vessels connected wrongly"
+      "layman": "Major heart vessel swap at birth"
     },
     {
       "jargon": "Intubation",
-      "layman": "Putting a tube into the windpipe"
+      "layman": "Putting a tube in the windpipe"
     },
     {
       "jargon": "Metabolic acidosis",
-      "layman": "Body's acid levels too high"
+      "layman": "Body's acid levels go too high"
     }
   ],
   "methodologies": [
     {
       "jargon": "Retrospective population-based study",
-      "layman": "Looking back at patient records over time"
+      "layman": "Looking back at medical records"
     },
     {
       "jargon": "Case note review",
-      "layman": "Checking medical records"
+      "layman": "Checking patient medical records"
     },
     {
       "jargon": "Local registers",
-      "layman": "Official patient databases"
+      "layman": "Official birth and health records"
     },
     {
       "jargon": "Surgical patient list",
-      "layman": "List of patients who had heart surgery"
+      "layman": "List of children who had heart surgery"
     },
     {
       "jargon": "Follow-up period",
@@ -45,12 +45,12 @@
   ],
   "outcomes": [
     {
-      "jargon": "Risk of intubation",
-      "layman": "Chance of needing breathing tube"
+      "jargon": "Odds ratio (OR)",
+      "layman": "Risk comparison between groups"
     },
     {
-      "jargon": "Risk of metabolic acidosis",
-      "layman": "Chance of body acid imbalance"
+      "jargon": "95% confidence interval",
+      "layman": "Range showing how sure we are about results"
     },
     {
       "jargon": "Mortality",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Long-term outcomes",
-      "layman": "Health after years"
+      "layman": "Health years later"
     },
     {
-      "jargon": "Odds ratio (OR)",
-      "layman": "How much more likely an event is"
+      "jargon": "Postnatal outcome measures",
+      "layman": "Health results after birth"
     }
   ]
 }

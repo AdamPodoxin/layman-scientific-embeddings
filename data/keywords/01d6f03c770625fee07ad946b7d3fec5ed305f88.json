@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "RE theory",
-      "layman": "Recursive theory"
+      "layman": "Recursive enumerable theory"
     },
     {
       "jargon": "non-surjective unordered pairing",
       "layman": "Pairing without one-to-one mapping"
     },
     {
-      "jargon": "axiomatizable",
-      "layman": "Can be fully described by rules"
-    },
-    {
-      "jargon": "scheme",
-      "layman": "Set of rules or formulas"
+      "jargon": "axiomatizable by a scheme",
+      "layman": "Can be described by a set of rules"
     },
     {
       "jargon": "theory of non-surjective unordered pairing",
       "layman": "Theory of pairing without full coverage"
+    },
+    {
+      "jargon": "Vaught's Theorem",
+      "layman": "Key result in logic about theories"
     }
   ],
   "methodologies": [
     {
       "jargon": "improvement of Vaught's Theorem",
-      "layman": "Better version of a known rule"
+      "layman": "Better version of a known result"
     },
     {
       "jargon": "direct interpretation",
-      "layman": "Clear understanding of a system"
+      "layman": "Clear understanding of one system through another"
     },
     {
-      "jargon": "axiomatization by a scheme",
-      "layman": "Building rules from a set of formulas"
+      "jargon": "axiomatization",
+      "layman": "Creating a formal set of rules"
     },
     {
-      "jargon": "pairing need not be functional",
-      "layman": "Pairing doesn't have to be one-to-one"
+      "jargon": "scheme",
+      "layman": "Set of rule templates"
     },
     {
-      "jargon": "RE theory interprets",
-      "layman": "A theory understands another theory"
+      "jargon": "recursive enumerable theory",
+      "layman": "Theory that can be listed by a computer"
     }
   ],
   "outcomes": [
     {
-      "jargon": "axiomatizable by a scheme",
-      "layman": "Can be fully described by a rule set"
-    },
-    {
-      "jargon": "any RE theory",
-      "layman": "All such recursive theories"
+      "jargon": "is axiomatizable by a scheme",
+      "layman": "Can be fully described by rules"
     },
     {
       "jargon": "directly interprets",
-      "layman": "Clearly understands"
+      "layman": "Reproduces behavior through mapping"
     },
     {
-      "jargon": "improved result",
-      "layman": "Stronger conclusion than before"
+      "jargon": "pairing need not be functional",
+      "layman": "Pairing can be uneven"
     },
     {
-      "jargon": "the theory of non-surjective pairing",
-      "layman": "A specific pairing rule"
+      "jargon": "any RE theory",
+      "layman": "All such theories"
+    },
+    {
+      "jargon": "improvement of axioms",
+      "layman": "Stronger, clearer rules"
     }
   ]
 }

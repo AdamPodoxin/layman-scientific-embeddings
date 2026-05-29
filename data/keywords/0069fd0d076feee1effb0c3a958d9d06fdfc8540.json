@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "IIB flux vacua",
-      "layman": "Types of stable universes in string theory"
+      "layman": "Possible universes with specific physical laws"
     },
     {
       "jargon": "Calabi-Yau orientifolds",
-      "layman": "Special geometric shapes in string theory"
+      "layman": "Special shapes in space that influence physics"
     },
     {
       "jargon": "Moduli space",
-      "layman": "Space of possible shapes and sizes"
+      "layman": "Space of all possible configurations"
     },
     {
       "jargon": "Conifold point",
-      "layman": "Special point in shape space"
+      "layman": "Special point in space where physics changes"
     },
     {
       "jargon": "D3 charge",
-      "layman": "Energy of a type of particle in the model"
+      "layman": "Energy of a type of particle in the system"
     }
   ],
   "methodologies": [
     {
       "jargon": "Constructing vacua",
-      "layman": "Building stable universe models"
+      "layman": "Building possible universe setups"
     },
     {
       "jargon": "Characterizing vacua",
-      "layman": "Describing properties of stable models"
+      "layman": "Figuring out properties of possible universes"
     },
     {
       "jargon": "Analyzing curvature",
-      "layman": "Measuring how curved space is"
+      "layman": "Measuring how much space bends"
     },
     {
       "jargon": "Studying functional dependence",
-      "layman": "Looking at how one quantity changes with another"
+      "layman": "Looking at how one thing changes with another"
     },
     {
-      "jargon": "Examining moduli space",
-      "layman": "Mapping possible universe shapes"
+      "jargon": "Numerical simulation",
+      "layman": "Running computer models of complex systems"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Density of vacua governed by det(-R\u2212\u03c9)",
-      "layman": "Vacua cluster in specific regions"
+      "jargon": "Density of vacua governed by det(-R-\u03c9)",
+      "layman": "Number of possible universes follows a mathematical rule"
     },
     {
       "jargon": "Attractor at \u03c8 = 1",
-      "layman": "Most vacua gather near a key point"
-    },
-    {
-      "jargon": "Small neighborhood around \u03c8 = 1",
-      "layman": "Tiny area containing many models"
+      "layman": "Most universes cluster near one special point"
     },
     {
       "jargon": "Power law growth",
-      "layman": "Number increases steadily with exponent"
+      "layman": "Number increases steadily with a simple math pattern"
+    },
+    {
+      "jargon": "Small neighborhood around \u03c8 = 1",
+      "layman": "Many solutions are close to a key point"
     },
     {
       "jargon": "Support for Ashok and Douglas prediction",
-      "layman": "Theory is confirmed by data"
+      "layman": "A known theory is confirmed by the results"
     }
   ]
 }

@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "X-term",
-      "layman": "Mathematical expression"
+      "layman": "Mathematical expression in logic"
     },
     {
       "jargon": "Church's numerals",
-      "layman": "Numbers in logic form"
+      "layman": "Numbers represented in logic"
     },
     {
       "jargon": "Enumerator",
-      "layman": "Special term that lists numbers"
+      "layman": "Expression that lists numbers"
     },
     {
       "jargon": "Reducing",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Recursion theoretic proof",
-      "layman": "Logical proof using recursive steps"
+      "layman": "Logical proof using self-referencing ideas"
     },
     {
-      "jargon": "Ingenious recursion",
-      "layman": "Smart repeated process"
+      "jargon": "Recursive function",
+      "layman": "Function that calls itself"
     },
     {
-      "jargon": "Proof by Statman",
-      "layman": "Mathematical proof by Statman"
+      "jargon": "Proof by induction",
+      "layman": "Step-by-step logical argument"
     },
     {
-      "jargon": "Closed X-term",
-      "layman": "Complete mathematical expression"
+      "jargon": "Self-referencing",
+      "layman": "Something referring to itself"
     },
     {
       "jargon": "Church numerals",
-      "layman": "Numbers built from logic rules"
+      "layman": "Numbers represented in logic"
     }
   ],
   "outcomes": [
     {
       "jargon": "Every enumerator is reducing",
-      "layman": "All such terms simplify"
+      "layman": "All number-listing expressions simplify"
     },
     {
       "jargon": "An ingenious proof",
-      "layman": "A clever mathematical argument"
+      "layman": "A clever logical demonstration"
     },
     {
       "jargon": "No direct proof",
-      "layman": "No simple explanation found"
+      "layman": "No simple, obvious proof exists"
     },
     {
-      "jargon": "An E such that =j )M",
-      "layman": "A term that matches a number"
+      "jargon": "Closed X-term",
+      "layman": "Complete logical expression"
     },
     {
-      "jargon": "Reducing process",
-      "layman": "Step-by-step simplification"
+      "jargon": "An E that satisfies =j )M",
+      "layman": "A formula that matches a number rule"
     }
   ]
 }

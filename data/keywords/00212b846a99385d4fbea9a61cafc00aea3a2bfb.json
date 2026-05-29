@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Physicians",
-      "layman": "Doctors"
+      "jargon": "physicians",
+      "layman": "doctors"
     },
     {
-      "jargon": "Dentists",
-      "layman": "Dental specialists"
+      "jargon": "dentists",
+      "layman": "dentists"
     },
     {
       "jargon": "Hungarian Medical Chamber",
-      "layman": "Hungary's medical registration body"
+      "layman": "Hungarian doctor registry"
     },
     {
-      "jargon": "Foreign citizens",
-      "layman": "Non-Hungarian nationals"
+      "jargon": "foreign physicians",
+      "layman": "doctors from other countries"
     },
     {
-      "jargon": "Medical diploma",
-      "layman": "Doctoral medical qualification"
+      "jargon": "medical diploma",
+      "layman": "doctor's license"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Cross-sectional study",
-      "layman": "Snapshot of data at one time"
+      "jargon": "cross-sectional study",
+      "layman": "snapshot of data at one time"
     },
     {
-      "jargon": "Registration data",
-      "layman": "Official records of members"
+      "jargon": "scientific research",
+      "layman": "systematic investigation"
     },
     {
-      "jargon": "International migration",
-      "layman": "Movement of people across borders"
+      "jargon": "international migration",
+      "layman": "people moving between countries"
     },
     {
-      "jargon": "Medical training",
-      "layman": "Doctoral medical education"
+      "jargon": "data registration",
+      "layman": "official recordkeeping"
     },
     {
-      "jargon": "Citizenship status",
-      "layman": "Nationality status"
+      "jargon": "citizenship status",
+      "layman": "national identity"
     }
   ],
   "outcomes": [
     {
       "jargon": "39,122 registered members",
-      "layman": "Total number of active doctors and dentists"
+      "layman": "total number of active doctors"
     },
     {
       "jargon": "797 foreign citizens",
-      "layman": "Number of non-Hungarian doctors"
+      "layman": "non-Hungarian doctors in system"
+    },
+    {
+      "jargon": "517 foreign doctors trained in Hungary",
+      "layman": "foreigners trained locally"
     },
     {
       "jargon": "2,167 doctors with foreign diplomas",
-      "layman": "Doctors trained abroad"
+      "layman": "doctors with foreign degrees"
     },
     {
-      "jargon": "517 doctors trained in Hungary in English",
-      "layman": "Foreign doctors trained in Hungary"
-    },
-    {
-      "jargon": "Approximately 2,400 doctors due to migration",
-      "layman": "Total doctors added by international movement"
+      "jargon": "approximately 2,400 doctors due to migration",
+      "layman": "doctors added by international movement"
     }
   ]
 }

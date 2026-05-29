@@ -1,64 +1,64 @@
 {
   "core_entities": [
     {
-      "jargon": "Firm",
-      "layman": "Company"
-    },
-    {
-      "jargon": "Product",
-      "layman": "Goods sold"
-    },
-    {
-      "jargon": "Market ideas",
-      "layman": "Company's business vision"
+      "jargon": "Growth management strategies",
+      "layman": "Plans to manage business growth"
     },
     {
       "jargon": "Political pressures",
-      "layman": "External demands on a company"
+      "layman": "External demands for change"
     },
     {
-      "jargon": "Impact environment",
-      "layman": "Effects of a product on society"
+      "jargon": "Firm",
+      "layman": "Business company"
+    },
+    {
+      "jargon": "Product",
+      "layman": "Goods offered by a company"
+    },
+    {
+      "jargon": "Market ideas",
+      "layman": "Company's core business beliefs"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Growth management strategies",
-      "layman": "Plans to grow a business"
-    },
-    {
       "jargon": "Promotive thinking",
-      "layman": "Seeing challenges as chances"
+      "layman": "Seeing challenges as growth chances"
     },
     {
-      "jargon": "Integration",
-      "layman": "Combining different parts together"
+      "jargon": "Integrating political impacts",
+      "layman": "Including external demands in planning"
+    },
+    {
+      "jargon": "Environmental assessment",
+      "layman": "Evaluating the surroundings around the firm"
     },
     {
       "jargon": "Political context",
-      "layman": "Social and political setting"
+      "layman": "The social and power settings affecting decisions"
     },
     {
       "jargon": "Market expansion",
-      "layman": "Growing market reach"
+      "layman": "Growing reach into new markets"
     }
   ],
   "outcomes": [
     {
       "jargon": "Failure of growth strategies",
-      "layman": "Plans to grow fail"
+      "layman": "Growth plans don't work"
     },
     {
       "jargon": "External demands for change",
-      "layman": "Outside requests to change"
+      "layman": "Outside pressure to change"
     },
     {
       "jargon": "Interdependent aspects",
-      "layman": "Connected parts that influence each other"
+      "layman": "Product and impact are linked"
     },
     {
       "jargon": "New growth opportunities",
-      "layman": "New ways to grow"
+      "layman": "New ways to grow the business"
     },
     {
       "jargon": "Expansion of the market",

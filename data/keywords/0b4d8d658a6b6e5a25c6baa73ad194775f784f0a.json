@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Vector decay constant",
-      "layman": "Measure of how a kaon decays in a certain way"
+      "layman": "Measure of how easily a kaon decays"
     },
     {
       "jargon": "Tensor decay constant",
-      "layman": "Measure of how a kaon decays in a complex way"
+      "layman": "Strength of a specific decay type"
     },
     {
       "jargon": "B-parameter",
-      "layman": "Number describing kaon oscillations"
+      "layman": "Measure of oscillation tendency"
     },
     {
       "jargon": "Wilson quark flavours",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Partially quenched setup",
-      "layman": "Simulation with some quarks active, others not"
+      "layman": "Simulates real quarks with some missing effects"
     },
     {
       "jargon": "Maximally twisted mass term",
-      "layman": "Special mass setting in the model"
+      "layman": "Special mass setting in quantum model"
     },
     {
       "jargon": "Valence quarks",
-      "layman": "Quarks used to represent the particles"
+      "layman": "Quarks used to build the kaon"
     },
     {
       "jargon": "Osterwalder-Seiler maximally twisted",
-      "layman": "A twisted version of quark setup"
+      "layman": "A twist version of quark setup"
     },
     {
       "jargon": "O(a) improved",
-      "layman": "Fixes small errors in the model"
+      "layman": "Fixes small errors in simulation"
     }
   ],
   "outcomes": [
@@ -50,11 +50,11 @@
     },
     {
       "jargon": "BK parameter",
-      "layman": "Key number for kaon behavior"
+      "layman": "Combined value for oscillation and decay"
     },
     {
       "jargon": "Decay constants",
-      "layman": "Numbers showing how kaons break apart"
+      "layman": "How likely kaons decay"
     },
     {
       "jargon": "Kaon oscillations",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Simulations",
-      "layman": "Computer models of particle behavior"
+      "layman": "Computational models of particles"
     }
   ]
 }

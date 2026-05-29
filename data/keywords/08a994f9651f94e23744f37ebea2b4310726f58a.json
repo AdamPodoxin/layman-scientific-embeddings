@@ -14,17 +14,21 @@
     },
     {
       "jargon": "Positivist paradigms",
-      "layman": "Scientific views that ignore context"
+      "layman": "Scientific view of reality"
     },
     {
-      "jargon": "New historiography",
-      "layman": "New way of writing history"
+      "jargon": "Museum-based constructions",
+      "layman": "Museum-style representations"
     }
   ],
   "methodologies": [
     {
+      "jargon": "New historiography",
+      "layman": "New way of writing history"
+    },
+    {
       "jargon": "Decolonizing methodologies",
-      "layman": "Approach that removes colonial bias"
+      "layman": "Approach to remove colonial bias"
     },
     {
       "jargon": "Cataloguing",
@@ -32,37 +36,33 @@
     },
     {
       "jargon": "Consignment to the past",
-      "layman": "Putting things in the past"
+      "layman": "Putting traditions in the past"
     },
     {
       "jargon": "Pleasurable display",
-      "layman": "Showcasing for fun and beauty"
-    },
-    {
-      "jargon": "Arts-based methodologies",
-      "layman": "Using art to teach and express"
+      "layman": "Showcasing for entertainment"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Three trajectories",
-      "layman": "Three patterns found"
+      "jargon": "Overturning constructions",
+      "layman": "Challenging old views"
     },
     {
-      "jargon": "Speak back",
-      "layman": "Respond to dominant views"
+      "jargon": "Speaking back",
+      "layman": "Rebutting dominant narratives"
     },
     {
-      "jargon": "Overturn constructions",
-      "layman": "Change false ideas"
+      "jargon": "Culture representation",
+      "layman": "How cultures are shown"
     },
     {
       "jargon": "Touristic constructions",
-      "layman": "Ideas based on tourism"
+      "layman": "Cultural views for tourists"
     },
     {
-      "jargon": "Museum-based representations",
-      "layman": "How cultures are shown in museums"
+      "jargon": "Art-based methodology",
+      "layman": "Using art to teach"
     }
   ]
 }

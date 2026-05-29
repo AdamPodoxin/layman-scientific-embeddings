@@ -18,13 +18,13 @@
     },
     {
       "jargon": "Overall survival",
-      "layman": "Living after treatment"
+      "layman": "Patient lives after diagnosis"
     }
   ],
   "methodologies": [
     {
       "jargon": "Kaplan-Meier method",
-      "layman": "Survival curve analysis"
+      "layman": "Survival curve plotting"
     },
     {
       "jargon": "Log-rank test",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Weibull regression model",
-      "layman": "Statistical survival prediction"
+      "layman": "Statistical survival analysis"
     },
     {
-      "jargon": "Multiple regression analysis",
+      "jargon": "Multiple regression analyses",
       "layman": "Adjust for other factors"
     },
     {
       "jargon": "Event definition",
-      "layman": "What counts as a bad outcome"
+      "layman": "What counts as a problem event"
     }
   ],
   "outcomes": [
@@ -50,11 +50,11 @@
     },
     {
       "jargon": "Hazard ratio",
-      "layman": "Risk of bad outcome"
+      "layman": "Risk of worse outcome"
     },
     {
       "jargon": "95% confidence interval",
-      "layman": "Range of likely values"
+      "layman": "Range of likely risk"
     },
     {
       "jargon": "P-value",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Poor survival",
-      "layman": "Shorter life after treatment"
+      "layman": "Shorter life after diagnosis"
     }
   ]
 }

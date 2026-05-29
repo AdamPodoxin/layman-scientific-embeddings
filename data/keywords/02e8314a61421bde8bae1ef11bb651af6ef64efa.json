@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Deficit",
+      "layman": "Shortfall"
+    },
+    {
+      "jargon": "Legal discourse",
+      "layman": "How laws are talked about"
+    },
+    {
+      "jargon": "Child in need",
+      "layman": "Child needing help"
+    },
+    {
+      "jargon": "Risk assessment",
+      "layman": "Evaluating danger levels"
+    },
+    {
+      "jargon": "Epistemic injustice",
+      "layman": "Injustice in who gets to know what"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Discursive construction",
+      "layman": "Building ideas through talk"
+    },
+    {
+      "jargon": "Narrative problematisation",
+      "layman": "Co-creating problems through stories"
+    },
+    {
+      "jargon": "Categorisation",
+      "layman": "Sorting into types"
+    },
+    {
+      "jargon": "Interviewing",
+      "layman": "Asking questions in depth"
+    },
+    {
+      "jargon": "Identity work",
+      "layman": "How people shape their identities"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Ascription of deficit",
+      "layman": "Assigning a shortfall"
+    },
+    {
+      "jargon": "Contested discourses",
+      "layman": "Arguments over what is true"
+    },
+    {
+      "jargon": "Co-construction of identity",
+      "layman": "Building identity together"
+    },
+    {
+      "jargon": "Power to define",
+      "layman": "Who decides what is normal"
+    },
+    {
+      "jargon": "Discourses of loss",
+      "layman": "Expressions of what is being lost"
+    }
+  ]
+}

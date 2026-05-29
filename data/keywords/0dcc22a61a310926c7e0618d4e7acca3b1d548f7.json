@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Spatially Balanced Latin squares",
-      "layman": "Balanced Latin squares"
+      "layman": "Balanced squares with unique symbols in rows and columns"
     },
     {
       "jargon": "Schur numbers",
-      "layman": "Number related to math problems about sums"
+      "layman": "Numbers related to number patterns and combinations"
     },
     {
       "jargon": "Combinatorial objects",
-      "layman": "Mathematical patterns"
+      "layman": "Mathematical arrangements of elements"
     },
     {
       "jargon": "Finite algebra",
-      "layman": "Math rules for finite systems"
+      "layman": "Mathematics of systems with limited elements"
     },
     {
-      "jargon": "Prime numbers",
-      "layman": "Numbers divisible only by 1 and themselves"
+      "jargon": "Prime order",
+      "layman": "Number that can only be divided by 1 and itself"
     }
   ],
   "methodologies": [
     {
       "jargon": "Streamlined combinatorial search",
-      "layman": "Faster search for math patterns"
+      "layman": "Fast and efficient search through combinations"
     },
     {
-      "jargon": "Human computation",
-      "layman": "People helping with math solving"
+      "jargon": "Human computation component",
+      "layman": "People helping to solve complex problems"
     },
     {
       "jargon": "Constructive procedures",
-      "layman": "Step-by-step methods to build things"
-    },
-    {
-      "jargon": "Automated reasoning",
-      "layman": "Computer-based logical thinking"
+      "layman": "Step-by-step methods to build solutions"
     },
     {
       "jargon": "Constraint satisfaction",
-      "layman": "Solving problems with rules"
+      "layman": "Finding solutions that meet specific rules"
+    },
+    {
+      "jargon": "Automated reasoning",
+      "layman": "Using computers to follow logical rules"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Efficient constructive procedures",
-      "layman": "Fast ways to build large patterns"
+      "jargon": "Efficient constructions for SBLS",
+      "layman": "Fast ways to build balanced squares"
     },
     {
       "jargon": "New lower bound for weak Schur numbers",
       "layman": "Better minimum value for Schur numbers"
     },
     {
-      "jargon": "Previously unknown constructions",
-      "layman": "No known ways before"
+      "jargon": "Open questions resolved",
+      "layman": "Long-standing math problems solved"
     },
     {
-      "jargon": "Open questions and conjectures resolved",
-      "layman": "Old math puzzles solved"
+      "jargon": "Intricate mathematical properties",
+      "layman": "Complex and surprising patterns"
     },
     {
-      "jargon": "Mathematical insights",
-      "layman": "Deeper understanding of math"
+      "jargon": "General observations derived",
+      "layman": "Broader insights from specific cases"
     }
   ]
 }

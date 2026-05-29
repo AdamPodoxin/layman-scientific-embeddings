@@ -14,33 +14,33 @@
     },
     {
       "jargon": "Government agencies",
-      "layman": "Government groups"
+      "layman": "Government organizations"
     },
     {
       "jargon": "Agriculture",
-      "layman": "Growing food on land"
+      "layman": "Growing food crops"
     }
   ],
   "methodologies": [
     {
       "jargon": "General review",
-      "layman": "Summary of existing knowledge"
+      "layman": "Overview of existing research"
     },
     {
-      "jargon": "Effects on plant species",
-      "layman": "How pollutants affect plants"
+      "jargon": "Described effects",
+      "layman": "Explained how things work"
     },
     {
       "jargon": "Policy definition",
-      "layman": "Setting rules for pollution"
+      "layman": "Setting rules for action"
     },
     {
       "jargon": "Research needs",
-      "layman": "Areas needing more study"
+      "layman": "Identifying gaps in knowledge"
     },
     {
       "jargon": "Government responsibilities",
-      "layman": "What governments should do"
+      "layman": "Defining what agencies must do"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Damage to farming"
     },
     {
-      "jargon": "Pollution impacts",
-      "layman": "Harm from pollution"
+      "jargon": "Effects on plant species",
+      "layman": "How plants are harmed"
     },
     {
-      "jargon": "More research needed",
-      "layman": "Need for further study"
+      "jargon": "Natural soil changes",
+      "layman": "Soil getting damaged or altered"
     },
     {
-      "jargon": "Better defined policy",
-      "layman": "Clearer pollution rules"
+      "jargon": "Need for better policy",
+      "layman": "Lack of clear rules to fix pollution"
     }
   ]
 }

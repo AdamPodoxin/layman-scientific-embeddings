@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Automated Maintenance Procedures",
-      "layman": "Self-running repair routines"
+      "layman": "Self-running maintenance steps"
     },
     {
       "jargon": "Boeing Company",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Analog and linkage portions",
-      "layman": "Old-school and connection-based systems"
+      "layman": "Old-style and connecting parts"
     }
   ],
   "methodologies": [
     {
       "jargon": "Joint development effort",
-      "layman": "Shared project between companies"
+      "layman": "Shared design process"
     },
     {
-      "jargon": "Digital System maintenance",
-      "layman": "Keeping digital systems running"
+      "jargon": "Maintain",
+      "layman": "Keep working"
+    },
+    {
+      "jargon": "Digital System",
+      "layman": "Computer-based system"
     },
     {
       "jargon": "Analog systems",
-      "layman": "Traditional, non-digital systems"
+      "layman": "Old-style electronic systems"
     },
     {
       "jargon": "Linkage portions",
       "layman": "Connected system parts"
-    },
-    {
-      "jargon": "Automated procedures",
-      "layman": "Machine-driven processes"
     }
   ],
   "outcomes": [
     {
       "jargon": "Hybrid diagnostic techniques",
-      "layman": "Mixed testing methods"
+      "layman": "Combined testing methods"
+    },
+    {
+      "jargon": "Result of joint development",
+      "layman": "Outcome of teamwork"
     },
     {
       "jargon": "Responsibility division",
       "layman": "Split duties between companies"
     },
     {
-      "jargon": "System integration",
-      "layman": "Combining different systems"
-    },
-    {
       "jargon": "Maintenance by IBM",
-      "layman": "IBM handles repairs"
+      "layman": "IBM handles upkeep"
     },
     {
-      "jargon": "Boeing manages analog parts",
-      "layman": "Boeing runs old systems"
+      "jargon": "Boeing handles analog and linkage",
+      "layman": "Boeing manages old and connected parts"
     }
   ]
 }

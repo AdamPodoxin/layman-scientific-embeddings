@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Sacred place",
-      "layman": "Sacred place"
-    },
-    {
-      "jargon": "Spiritual commune",
-      "layman": "Community of spiritual practitioners"
+      "layman": "Place with spiritual meaning"
     },
     {
       "jargon": "West Virginia landscape",
-      "layman": "West Virginia land"
+      "layman": "West Virginia terrain"
     },
     {
       "jargon": "Prabhupada's Palace of Gold",
-      "layman": "Gold palace built by Hare Krishnas"
+      "layman": "Palace of Gold built by Hare Krushnas"
+    },
+    {
+      "jargon": "Spiritual commune",
+      "layman": "Community rooted in spiritual practice"
     },
     {
       "jargon": "Unordered space",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Integration of physical qualities",
-      "layman": "Mixing nature with belief"
+      "layman": "Merging location features with spirituality"
     },
     {
-      "jargon": "Symbolic acts",
-      "layman": "Meaningful rituals"
+      "jargon": "Performance of symbolic acts",
+      "layman": "Doing meaningful spiritual actions"
     },
     {
       "jargon": "Meditation",
-      "layman": "Mindful silence"
+      "layman": "Practicing focused calm"
     },
     {
       "jargon": "Worship",
-      "layman": "Prayer and devotion"
+      "layman": "Offering prayer and respect"
     },
     {
       "jargon": "Founding and settling a site",
-      "layman": "Establishing a new location"
+      "layman": "Establishing a new place for community"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Place imbued with meaning",
-      "layman": "Place with special significance"
+      "jargon": "Transformation of space into cosmos",
+      "layman": "Space becomes meaningful and sacred"
     },
     {
-      "jargon": "Transformation of space",
-      "layman": "Space becomes meaningful"
+      "jargon": "Place imbued with meaning",
+      "layman": "Location gains spiritual significance"
     },
     {
       "jargon": "Temple-oriented spiritual commune",
       "layman": "Community centered on temples"
     },
     {
-      "jargon": "Sacred space creation",
-      "layman": "Creation of a holy place"
+      "jargon": "Sacred place established",
+      "layman": "A holy site is created"
     },
     {
-      "jargon": "Cultural transformation",
-      "layman": "Change in local culture"
+      "jargon": "Spiritual transformation",
+      "layman": "Change in spiritual awareness"
     }
   ]
 }

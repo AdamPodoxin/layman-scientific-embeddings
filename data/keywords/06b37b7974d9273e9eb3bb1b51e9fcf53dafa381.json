@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Transition state",
-      "layman": "Highest energy point in a reaction"
+      "layman": "High-energy temporary structure"
     },
     {
       "jargon": "Hydrogen abstraction",
-      "layman": "Removing a hydrogen atom"
+      "layman": "Removing hydrogen atom"
     },
     {
       "jargon": "Fluorine",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "CH3OH",
-      "layman": "Methanol"
+      "layman": "Methanol molecule"
     },
     {
       "jargon": "OHF",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Ab initio calculations",
-      "layman": "Computer simulations from first principles"
+      "layman": "Computer simulations from basic physics"
     },
     {
       "jargon": "Dynamical simulation",
-      "layman": "Simulating motion in a reaction"
+      "layman": "Simulating motion of particles"
     },
     {
-      "jargon": "Reaction surface",
-      "layman": "Energy landscape of a reaction"
+      "jargon": "Harmonic frequencies",
+      "layman": "Predicted vibrational frequencies"
     },
     {
-      "jargon": "Vibrational structure",
-      "layman": "Patterns in molecular vibrations"
+      "jargon": "Anharmonic potential",
+      "layman": "Realistic vibration pattern"
     }
   ],
   "outcomes": [
     {
       "jargon": "Resolved vibrational structure",
-      "layman": "Clear vibration patterns in spectrum"
+      "layman": "Clear vibrational peaks"
+    },
+    {
+      "jargon": "Potential surface details",
+      "layman": "Energy landscape shape"
     },
     {
       "jargon": "Hydrogen bond dissociation energy",
       "layman": "Energy to break hydrogen bond"
     },
     {
-      "jargon": "Anharmonic potential",
-      "layman": "Non-ideal vibration energy shape"
-    },
-    {
-      "jargon": "Photoelectron spectra",
-      "layman": "Electron energy patterns from ions"
-    },
-    {
       "jargon": "Bath degrees of freedom",
-      "layman": "Extra molecular motions that affect results"
+      "layman": "Free molecular motions"
+    },
+    {
+      "jargon": "Reaction surface modifications",
+      "layman": "Changes to reaction path"
     }
   ]
 }

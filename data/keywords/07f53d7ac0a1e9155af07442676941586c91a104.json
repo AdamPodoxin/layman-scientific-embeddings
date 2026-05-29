@@ -2,63 +2,63 @@
   "core_entities": [
     {
       "jargon": "EU-1 zeolite",
-      "layman": "Zeolite with specific pore structure"
+      "layman": "Zeolite material"
     },
     {
       "jargon": "Na\u2013EU-1",
-      "layman": "Sodium-based EU-1 zeolite"
+      "layman": "Sodium-based EU-1"
     },
     {
       "jargon": "Si/Al ratio",
-      "layman": "Silicon to aluminum balance"
+      "layman": "Silicon to aluminum ratio"
     },
     {
       "jargon": "Hexamethonium bromide",
-      "layman": "Template molecule"
+      "layman": "Template compound"
     },
     {
-      "jargon": "Ion exchange",
-      "layman": "Swapping ions in material"
+      "jargon": "Metal-modified EU-1",
+      "layman": "EU-1 with added metals"
     }
   ],
   "methodologies": [
     {
       "jargon": "Aging time",
-      "layman": "Time spent in mixture before growth"
+      "layman": "Waiting time during synthesis"
     },
     {
       "jargon": "Synthesis temperature",
-      "layman": "Heat used to build crystals"
+      "layman": "Heat used in making"
     },
     {
       "jargon": "Synthesis time",
-      "layman": "Time to grow crystals"
+      "layman": "Duration of making process"
+    },
+    {
+      "jargon": "Ion exchange",
+      "layman": "Swapping ions in the material"
     },
     {
       "jargon": "X-ray diffraction",
       "layman": "Measuring crystal structure"
-    },
-    {
-      "jargon": "Scanning electron microscope",
-      "layman": "Microscope for crystal shape"
     }
   ],
   "outcomes": [
     {
       "jargon": "Crystallinity",
-      "layman": "How well-ordered the crystal is"
+      "layman": "How well-organized the crystals are"
+    },
+    {
+      "jargon": "Morphology",
+      "layman": "Shape of the crystals"
     },
     {
       "jargon": "Pure phase",
       "layman": "Single, clean crystal form"
     },
     {
-      "jargon": "Morphology",
-      "layman": "Crystal shape and structure"
-    },
-    {
       "jargon": "Reduced crystallinity",
-      "layman": "Weaker crystal order"
+      "layman": "Weaker crystal structure"
     },
     {
       "jargon": "Potential catalyst",

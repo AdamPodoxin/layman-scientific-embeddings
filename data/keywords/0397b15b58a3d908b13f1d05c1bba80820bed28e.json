@@ -2,7 +2,11 @@
   "core_entities": [
     {
       "jargon": "Majority shareholder",
-      "layman": "Big owner of shares"
+      "layman": "Largest single owner"
+    },
+    {
+      "jargon": "Controlled company",
+      "layman": "Company under one owner's control"
     },
     {
       "jargon": "Pyramidal structures",
@@ -13,56 +17,52 @@
       "layman": "Sharing ownership between companies"
     },
     {
-      "jargon": "Voting power shares",
+      "jargon": "Voting power multiple shares",
       "layman": "Shares with extra voting rights"
-    },
-    {
-      "jargon": "Empire industrial",
-      "layman": "Large industrial group"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Control leverage",
-      "layman": "Ability to increase control"
-    },
-    {
-      "jargon": "Quantification of control",
+      "jargon": "Quantifying control level",
       "layman": "Measuring ownership power"
     },
     {
-      "jargon": "International case analysis",
-      "layman": "Studying real-world examples abroad"
+      "jargon": "International case studies",
+      "layman": "Real-world examples across countries"
     },
     {
-      "jargon": "Separation of property and control",
-      "layman": "Splitting ownership from decision power"
+      "jargon": "Separation of ownership and control",
+      "layman": "Split between who owns and who controls"
     },
     {
-      "jargon": "Asymmetry between shareholders",
-      "layman": "Unequal ownership power"
+      "jargon": "Analysis of shareholder asymmetries",
+      "layman": "Studying ownership imbalances"
+    },
+    {
+      "jargon": "Financial market impact assessment",
+      "layman": "Evaluating effect on financial markets"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Control asymmetries",
-      "layman": "Unequal control among owners"
+      "jargon": "Asymmetries among shareholders",
+      "layman": "Unequal ownership power"
     },
     {
       "jargon": "Private benefits",
       "layman": "Unfair personal gains"
     },
     {
-      "jargon": "Market financial impact",
-      "layman": "Effect on financial markets"
+      "jargon": "Market efficiency decline",
+      "layman": "Weaker financial market performance"
     },
     {
-      "jargon": "Increased ownership separation",
-      "layman": "Ownership and control become disconnected"
+      "jargon": "Empire industrial control level",
+      "layman": "How much control in an industrial group"
     },
     {
       "jargon": "Opportunities for private gains",
-      "layman": "Chances for unfair profits"
+      "layman": "Chances for unfair profit"
     }
   ]
 }

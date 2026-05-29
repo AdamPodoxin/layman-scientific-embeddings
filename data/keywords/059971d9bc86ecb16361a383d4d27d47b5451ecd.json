@@ -6,63 +6,63 @@
     },
     {
       "jargon": "String theory",
-      "layman": "Theoretical framework for fundamental particles"
+      "layman": "Theory about fundamental strings"
     },
     {
       "jargon": "Matrix cosmology",
-      "layman": "Model of the universe using matrices"
+      "layman": "Cosmology using matrix models"
+    },
+    {
+      "jargon": "Quantum fields",
+      "layman": "Fields filled with energy"
     },
     {
       "jargon": "Vacuum ambiguity",
       "layman": "Uncertainty in empty space"
-    },
-    {
-      "jargon": "Energy density",
-      "layman": "Amount of energy in a space"
     }
   ],
   "methodologies": [
     {
       "jargon": "Anomalies",
-      "layman": "Unexpected physical behaviors"
+      "layman": "Unusual physical behavior"
     },
     {
       "jargon": "Mode expansions",
-      "layman": "Breaking down wave patterns"
+      "layman": "Breaking down field patterns"
     },
     {
       "jargon": "Time-dependent backgrounds",
-      "layman": "Changing space-time conditions"
+      "layman": "Changing universe conditions"
     },
     {
       "jargon": "Matrix model",
-      "layman": "Mathematical framework using matrices"
+      "layman": "Mathematical framework for space"
     },
     {
-      "jargon": "Explicit mode expansions",
-      "layman": "Direct calculation of wave patterns"
+      "jargon": "Energy density",
+      "layman": "Energy packed into space"
     }
   ],
   "outcomes": [
     {
       "jargon": "Finite energy density",
-      "layman": "Fixed energy in empty space"
+      "layman": "Finite energy in empty space"
     },
     {
-      "jargon": "Cancellation of particle production",
-      "layman": "No net creation of particles"
+      "jargon": "Cancels anomalous production",
+      "layman": "Blocks extra particle creation"
     },
     {
       "jargon": "In state energy",
-      "layman": "Energy of initial state"
+      "layman": "Initial state energy"
     },
     {
-      "jargon": "Anomalous particle production",
-      "layman": "Unusual particle creation"
+      "jargon": "Particle production process",
+      "layman": "Creation of particles in universe"
     },
     {
       "jargon": "Vacuum resolution",
-      "layman": "Fixing empty space uncertainty"
+      "layman": "Fixing empty space behavior"
     }
   ]
 }

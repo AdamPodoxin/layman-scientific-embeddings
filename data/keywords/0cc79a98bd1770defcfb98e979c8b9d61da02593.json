@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Corporate sector",
-      "layman": "Business companies"
+      "layman": "Companies as a group"
     },
     {
-      "jargon": "Financial crises",
-      "layman": "Economic crashes"
+      "jargon": "Firm financing patterns",
+      "layman": "How companies raise money"
     },
     {
-      "jargon": "Balance sheet",
-      "layman": "Company's financial health"
+      "jargon": "Balance sheet problems",
+      "layman": "Company's financial instability"
     },
     {
       "jargon": "Equity rights",
-      "layman": "Shareholder protections"
+      "layman": "Owners' legal protections"
     },
     {
       "jargon": "Creditor rights",
-      "layman": "Debtor protection for lenders"
+      "layman": "Debtors' legal protections"
     }
   ],
   "methodologies": [
     {
       "jargon": "Modigliani-Miller framework",
-      "layman": "Model for how companies finance themselves"
+      "layman": "Theory on how companies finance"
     },
     {
       "jargon": "Asymmetric information",
-      "layman": "One side has more information than the other"
+      "layman": "When one side has more knowledge"
     },
     {
-      "jargon": "Empirical investigation",
-      "layman": "Data-based research"
+      "jargon": "Agency costs",
+      "layman": "Costs from misaligned interests"
     },
     {
       "jargon": "Cross-country comparison",
-      "layman": "Comparing countries"
+      "layman": "Comparing countries' data"
     },
     {
-      "jargon": "Institutional environment",
-      "layman": "Rules and systems in a country"
+      "jargon": "Empirical investigation",
+      "layman": "Statistical analysis based on data"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Less risky financing patterns",
-      "layman": "Safer ways to fund businesses"
+      "layman": "Safer ways to raise money"
     },
     {
-      "jargon": "Common law countries",
-      "layman": "Countries based on English legal system"
+      "jargon": "Legal origin",
+      "layman": "Where laws come from"
     },
     {
-      "jargon": "Market-based financial systems",
-      "layman": "Financial systems driven by markets"
+      "jargon": "Financial system type",
+      "layman": "Type of financial system"
     },
     {
-      "jargon": "Stronger protection of rights",
-      "layman": "Better legal safety for investors and lenders"
+      "jargon": "Financial instability",
+      "layman": "Economic system collapse risk"
     }
   ]
 }

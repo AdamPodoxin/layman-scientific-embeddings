@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Philosophical basis",
-      "layman": "Underlying beliefs"
+      "layman": "Root ideas of belief"
     },
     {
-      "jargon": "Ideology",
-      "layman": "Set of core beliefs"
+      "jargon": "Prominent figures",
+      "layman": "Well-known individuals"
     },
     {
-      "jargon": "Political movement",
-      "layman": "Group with shared goals"
+      "jargon": "Ideological system",
+      "layman": "System of beliefs"
     }
   ],
   "methodologies": [
@@ -32,7 +32,7 @@
     },
     {
       "jargon": "Analyze",
-      "layman": "Break down and understand"
+      "layman": "Break down to understand"
     },
     {
       "jargon": "Assess",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Philosophical basis",
-      "layman": "Root beliefs"
+      "layman": "Root ideas of belief"
     },
     {
-      "jargon": "Existence of basis",
-      "layman": "Whether beliefs exist"
+      "jargon": "If it exists",
+      "layman": "Whether it truly exists"
     },
     {
-      "jargon": "Grant that",
-      "layman": "Accept as true"
-    },
-    {
-      "jargon": "Determine if",
-      "layman": "Find out whether"
+      "jargon": "Granting existence",
+      "layman": "Accepting that it is real"
     },
     {
       "jargon": "Such a basis",
-      "layman": "A foundation exists"
+      "layman": "A foundational reason"
+    },
+    {
+      "jargon": "Ideological foundation",
+      "layman": "Core beliefs that support the system"
     }
   ]
 }

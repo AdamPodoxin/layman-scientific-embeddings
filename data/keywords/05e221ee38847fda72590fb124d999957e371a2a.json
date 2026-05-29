@@ -6,22 +6,26 @@
     },
     {
       "jargon": "Ad hoc networks",
-      "layman": "Temporary networks without fixed structure"
+      "layman": "Spontaneous wireless networks"
+    },
+    {
+      "jargon": "Distributed computing",
+      "layman": "Computing across multiple devices"
     },
     {
       "jargon": "Hosts",
       "layman": "Mobile devices"
     },
     {
-      "jargon": "Termination detection",
-      "layman": "Knowing when a process ends"
-    },
-    {
       "jargon": "Coordination constructs",
-      "layman": "Rules for devices to work together"
+      "layman": "Shared protocols for device communication"
     }
   ],
   "methodologies": [
+    {
+      "jargon": "Termination detection",
+      "layman": "Finding when a process finishes"
+    },
     {
       "jargon": "Specification refinement",
       "layman": "Improving design step by step"
@@ -31,38 +35,34 @@
       "layman": "Clear, precise design rules"
     },
     {
-      "jargon": "Mobile UNITY",
-      "layman": "Formal tool for mobile systems"
-    },
-    {
       "jargon": "Proof logic",
-      "layman": "Logic to verify correctness"
+      "layman": "Mathematical way to verify correctness"
     },
     {
-      "jargon": "Programming notation",
-      "layman": "Special language for writing code"
+      "jargon": "Mobile UNITY",
+      "layman": "Formal system for mobile design"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Termination detection",
-      "layman": "Knowing when a process ends"
+      "jargon": "Simple solution",
+      "layman": "Easy-to-use method"
+    },
+    {
+      "jargon": "Applicability",
+      "layman": "Works well in new settings"
     },
     {
       "jargon": "Novel concerns",
-      "layman": "New challenges in mobile systems"
+      "layman": "New challenges like mobility"
     },
     {
-      "jargon": "Transience of interactions",
-      "layman": "Brief and temporary connections"
-    },
-    {
-      "jargon": "Applicability to mobile computing",
-      "layman": "Works well in mobile settings"
+      "jargon": "Transient interactions",
+      "layman": "Short-lived device contacts"
     },
     {
       "jargon": "Design strategies",
-      "layman": "Practical approaches for building systems"
+      "layman": "Practical planning methods"
     }
   ]
 }

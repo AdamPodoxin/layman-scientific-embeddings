@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Antihypertensive treatment",
-      "layman": "Blood pressure medication"
+      "layman": "Pressure-lowering medication"
     },
     {
       "jargon": "Coronary artery disease",
-      "layman": "Heart artery disease"
+      "layman": "Heart vessel disease"
     },
     {
       "jargon": "Self-rated health",
-      "layman": "How people rate their own health"
+      "layman": "Personal health assessment"
     }
   ],
   "methodologies": [
     {
       "jargon": "Cross-sectional analysis",
-      "layman": "Snapshot study of current conditions"
+      "layman": "Snapshot study"
     },
     {
       "jargon": "Standardized vascular screening",
-      "layman": "Standardized blood vessel check"
+      "layman": "Systematic blood vessel check"
     },
     {
       "jargon": "Adjusted mean differences",
-      "layman": "Average health difference after adjusting for other factors"
+      "layman": "Corrected health score changes"
     },
     {
-      "jargon": "Confounding variables",
-      "layman": "Other factors that could affect results"
+      "jargon": "Confounding factors",
+      "layman": "Other influencing variables"
     },
     {
       "jargon": "95% confidence interval (CI)",
-      "layman": "Range showing how reliable the result is"
+      "layman": "Range of likely values"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Poorer physical and mental health status",
-      "layman": "Worse physical and mental health"
+      "jargon": "Physical health status",
+      "layman": "Body health"
     },
     {
-      "jargon": "Per SD decrease in systolic BP",
-      "layman": "For each drop in blood pressure number"
+      "jargon": "Mental health status",
+      "layman": "Mental well-being"
+    },
+    {
+      "jargon": "Systolic BP",
+      "layman": "Top number of blood pressure"
+    },
+    {
+      "jargon": "Diastolic BP",
+      "layman": "Bottom number of blood pressure"
     },
     {
       "jargon": "Independent association",
-      "layman": "Connection that doesn't depend on other factors"
-    },
-    {
-      "jargon": "Adjusted differences in health",
-      "layman": "Health differences after removing other influences"
-    },
-    {
-      "jargon": "Self-rated health status",
-      "layman": "How patients feel about their own health"
+      "layman": "Link not caused by other factors"
     }
   ]
 }

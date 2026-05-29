@@ -1,30 +1,30 @@
 {
   "core_entities": [
     {
-      "jargon": "Irreversible investments",
-      "layman": "Investments that can't be undone"
+      "jargon": "Irreversible investment",
+      "layman": "Investment that can't be undone"
     },
     {
       "jargon": "Market process",
-      "layman": "Economic conditions over time"
+      "layman": "How prices and demand change over time"
     },
     {
       "jargon": "Expansion capacity",
-      "layman": "Growth potential of a business"
+      "layman": "Growth in production ability"
+    },
+    {
+      "jargon": "Company",
+      "layman": "Business"
     },
     {
       "jargon": "n-dimensional market",
-      "layman": "Market with many changing factors"
-    },
-    {
-      "jargon": "One-dimensional case",
-      "layman": "Simple market with one changing factor"
+      "layman": "Market with many changing variables"
     }
   ],
   "methodologies": [
     {
       "jargon": "Mathematical treatment",
-      "layman": "Using math to solve problems"
+      "layman": "Using math to solve a problem"
     },
     {
       "jargon": "Implicit conditions",
@@ -36,17 +36,17 @@
     },
     {
       "jargon": "Fluctuating market",
-      "layman": "Market that changes over time"
+      "layman": "Market that changes unpredictably"
     },
     {
-      "jargon": "Investment strategy",
-      "layman": "Plan for how to invest"
+      "jargon": "One-dimensional case",
+      "layman": "Simplest version of the problem"
     }
   ],
   "outcomes": [
     {
       "jargon": "Best investment strategy",
-      "layman": "Optimal way to grow"
+      "layman": "Optimal way to spend money"
     },
     {
       "jargon": "Solution exists",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "n-dimensional case",
-      "layman": "Complex market scenario"
+      "layman": "Problem with many variables"
     },
     {
-      "jargon": "One-dimensional case",
-      "layman": "Simple market scenario"
+      "jargon": "Market dynamics",
+      "layman": "How markets change over time"
     },
     {
-      "jargon": "Market fluctuations",
-      "layman": "Changing market conditions"
+      "jargon": "Investment decision",
+      "layman": "Choosing when to expand"
     }
   ]
 }

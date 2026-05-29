@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Creative telescoping",
-      "layman": "Method to find patterns in sums"
+      "layman": "Sum recurrence method"
     },
     {
       "jargon": "Parameterized telescoping",
-      "layman": "Generalized version of creative telescoping"
+      "layman": "Generalized recurrence method"
     },
     {
       "jargon": "Algebraic independence",
-      "layman": "Sums that can't be combined into simpler expressions"
+      "layman": "Sums that can't satisfy polynomial relationships"
     },
     {
-      "jargon": "Sums",
-      "layman": "Mathematical additions"
+      "jargon": "Mathematical sums",
+      "layman": "Math expressions involving adding terms"
     },
     {
       "jargon": "Zeilberger\u2019s algorithm",
-      "layman": "Computer method to find sum patterns"
+      "layman": "Computer method to find sum recurrences"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Creative telescoping",
-      "layman": "Finding patterns in sums"
-    },
-    {
-      "jargon": "Parameterized telescoping",
-      "layman": "Finding patterns with variables"
+      "jargon": "Non-existence of telescoping solution",
+      "layman": "No recurrence found"
     },
     {
       "jargon": "Summation theory",
-      "layman": "Rules for adding mathematical expressions"
+      "layman": "Math rules for sum manipulation"
     },
     {
-      "jargon": "Non-existence of solution",
-      "layman": "No pattern found"
+      "jargon": "Parameterized telescoping solution",
+      "layman": "Generalized recurrence search"
     },
     {
-      "jargon": "Algorithm fails",
-      "layman": "Computer can't find a solution"
+      "jargon": "Recurrence derivation",
+      "layman": "Finding repeating patterns in sums"
+    },
+    {
+      "jargon": "Minimal order recurrence",
+      "layman": "Simplest possible recurrence rule"
     }
   ],
   "outcomes": [
     {
       "jargon": "Algebraic independence of sums",
-      "layman": "Sums can't be simplified together"
+      "layman": "Sums don't follow polynomial rules"
     },
     {
-      "jargon": "Transcendence of sums",
-      "layman": "Sums are not solutions to algebraic equations"
+      "jargon": "Transcendence of sum classes",
+      "layman": "Certain sums are beyond algebraic rules"
     },
     {
-      "jargon": "Minimal order recurrence",
-      "layman": "Simplest possible pattern in a sum"
+      "jargon": "Failure of Zeilberger\u2019s algorithm",
+      "layman": "Algorithm can't find simple recurrence"
     },
     {
-      "jargon": "Failure to find recurrence",
-      "layman": "No simple pattern found"
+      "jargon": "New insight into recurrence limits",
+      "layman": "Better understanding of why recurrences fail"
     },
     {
-      "jargon": "New insight into algorithm failure",
-      "layman": "Better understanding of why it fails"
+      "jargon": "Non-existence proof",
+      "layman": "Proof that nothing exists of a certain type"
     }
   ]
 }

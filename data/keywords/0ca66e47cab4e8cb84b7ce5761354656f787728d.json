@@ -2,41 +2,41 @@
   "core_entities": [
     {
       "jargon": "Accounting choices",
-      "layman": "Financial decisions"
+      "layman": "Financial reporting decisions"
     },
     {
       "jargon": "British Telecom",
-      "layman": "British Telecom"
+      "layman": "UK telecom company"
     },
     {
       "jargon": "British Gas",
-      "layman": "British Gas"
+      "layman": "UK gas company"
     },
     {
       "jargon": "Positive accounting theory",
-      "layman": "Theory about financial reporting"
+      "layman": "Accounting theory that assumes rational decisions"
     },
     {
-      "jargon": "Socio-economic system",
-      "layman": "Economy and society together"
+      "jargon": "Neo-Marxist theory",
+      "layman": "Economic theory combining Marxism with modern ideas"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Financial statement analysis",
+      "jargon": "Financial statements analysis",
       "layman": "Reviewing financial reports"
     },
     {
-      "jargon": "Neo-Marxist theory",
-      "layman": "Marxist-inspired crisis theory"
-    },
-    {
-      "jargon": "Habermasian framework",
-      "layman": "Theory based on Habermas's ideas"
-    },
-    {
       "jargon": "Crisis management",
-      "layman": "Handling potential crises"
+      "layman": "Handling potential business failures"
+    },
+    {
+      "jargon": "Socio-economic system",
+      "layman": "Economy and society as a whole"
+    },
+    {
+      "jargon": "Habermasian analysis",
+      "layman": "Critical theory of communication and society"
     },
     {
       "jargon": "Post-privatization context",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Explanatory power",
-      "layman": "Ability to explain results"
+      "layman": "Ability to explain why things happen"
     },
     {
       "jargon": "Crisis tendencies",
-      "layman": "Tendency to face crises"
+      "layman": "Trends that could lead to problems"
     },
     {
-      "jargon": "Avoid crises",
-      "layman": "Prevent crises"
+      "jargon": "Avoiding crises",
+      "layman": "Preventing major problems"
     },
     {
-      "jargon": "Financial statements",
-      "layman": "Company's financial reports"
+      "jargon": "Financial reporting",
+      "layman": "How a company presents its finances"
     },
     {
-      "jargon": "Accounting choices as responses",
-      "layman": "Financial decisions made to avoid problems"
+      "jargon": "Theoretical framework",
+      "layman": "Model used to understand phenomena"
     }
   ]
 }

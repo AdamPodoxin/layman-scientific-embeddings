@@ -6,47 +6,51 @@
     },
     {
       "jargon": "Shadow banks",
-      "layman": "Non-traditional financial institutions"
+      "layman": "Non-bank financial institutions"
     },
     {
       "jargon": "Deposit insurance",
-      "layman": "Government guarantee for bank deposits"
+      "layman": "Government guarantee for deposits"
     },
     {
       "jargon": "Equity capital",
-      "layman": "Bank's own money invested"
+      "layman": "Bank's own money"
     },
     {
       "jargon": "Fixed-income assets",
-      "layman": "Investments that pay steady interest"
+      "layman": "Investments with steady returns"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Mark-to-market valuation",
-      "layman": "Current market value of assets"
+      "jargon": "Co-existence",
+      "layman": "Existing side by side"
     },
     {
-      "jargon": "Funding model",
-      "layman": "How banks get money to operate"
+      "jargon": "Funding models",
+      "layman": "How money is raised"
+    },
+    {
+      "jargon": "Mark-to-market valuation",
+      "layman": "Current market value"
     },
     {
       "jargon": "Exit option",
-      "layman": "Right to leave an investment early"
+      "layman": "Right to withdraw"
     },
     {
       "jargon": "Collateral liquidation",
-      "layman": "Selling assets to cover losses"
-    },
-    {
-      "jargon": "Asset holding equilibrium",
-      "layman": "Stable investment choices over time"
+      "layman": "Selling assets to recover money"
     }
   ],
   "outcomes": [
     {
       "jargon": "Stable source of funding",
       "layman": "Reliable money supply"
+    },
+    {
+      "jargon": "Runs on banks",
+      "layman": "Many people withdrawing at once"
     },
     {
       "jargon": "Fire-sale losses",
@@ -59,10 +63,6 @@
     {
       "jargon": "Comparative advantage",
       "layman": "Better at doing something specific"
-    },
-    {
-      "jargon": "Runs on banks",
-      "layman": "Many people withdrawing money at once"
     }
   ]
 }

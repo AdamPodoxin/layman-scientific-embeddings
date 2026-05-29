@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Weiszfeld algorithm",
-      "layman": "Location algorithm"
+      "layman": "Mathematical method for finding best location"
     },
     {
       "jargon": "Fermat-Weber location problem",
-      "layman": "Best location problem"
+      "layman": "Finding best point to serve multiple locations"
     },
     {
-      "jargon": "Conjecture",
-      "layman": "Unproven theory"
+      "jargon": "Chandrasekaran and Tamir conjecture",
+      "layman": "Unproven idea about algorithm behavior"
     },
     {
-      "jargon": "Brimberg's paper",
-      "layman": "Brimberg's study"
+      "jargon": "Mathematical Programming",
+      "layman": "Mathematical way to solve optimization problems"
     },
     {
-      "jargon": "Chandrasekaran and Tamir (1989)",
-      "layman": "1989 location theory claim"
+      "jargon": "Convergence",
+      "layman": "Process of settling into a stable result"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Convergence analysis",
-      "layman": "Checking if a process settles down"
+      "jargon": "Weiszfeld algorithm",
+      "layman": "Mathematical method for finding best location"
     },
     {
       "jargon": "Counterexamples",
-      "layman": "Examples that prove a rule wrong"
+      "layman": "Examples that prove a theory wrong"
     },
     {
-      "jargon": "Mathematical programming",
-      "layman": "Optimization using math"
+      "jargon": "Convergence analysis",
+      "layman": "Checking if a process stabilizes"
     },
     {
       "jargon": "Proof verification",
-      "layman": "Checking if a proof is valid"
+      "layman": "Checking if a mathematical argument holds"
     },
     {
-      "jargon": "Algorithmic convergence",
-      "layman": "Process of getting closer to a solution"
+      "jargon": "Numerical simulation",
+      "layman": "Testing math ideas with numbers"
     }
   ],
   "outcomes": [
     {
       "jargon": "Convergence of the Weiszfeld algorithm",
-      "layman": "Algorithm reaches a stable point"
+      "layman": "Algorithm reaches a stable solution"
     },
     {
-      "jargon": "Closed conjecture",
-      "layman": "Question finally answered"
+      "jargon": "Counterexamples to Brimberg's proof",
+      "layman": "Disproof of original claim"
     },
     {
-      "jargon": "Counterexamples shown",
-      "layman": "Problems found in the proof"
+      "jargon": "Closing a conjecture",
+      "layman": "Ending a long-standing mathematical question"
     },
     {
-      "jargon": "Proofs invalidated",
-      "layman": "Original proof found to be wrong"
+      "jargon": "Mathematical programming result",
+      "layman": "Final answer to an optimization problem"
     },
     {
-      "jargon": "Mathematical closure",
-      "layman": "Final answer found in math"
+      "jargon": "Failure to converge",
+      "layman": "Algorithm doesn't settle on a solution"
     }
   ]
 }

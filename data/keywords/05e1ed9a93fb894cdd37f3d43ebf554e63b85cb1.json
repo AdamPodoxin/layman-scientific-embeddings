@@ -1,64 +1,65 @@
 {
-	"core_entities": [
-		{
-			"jargon": "Transport medicine",
-			"layman": "Medical care during patient transport"
-		},
-		{
-			"jargon": "Pediatric Hospital Medicine",
-			"layman": "Child hospital care"
-		},
-		{
-			"jargon": "Fellowship stakeholders",
-			"layman": "People involved in training programs"
-		},
-		{
-			"jargon": "Program directors",
-			"layman": "Training program leaders"
-		},
-		{
-			"jargon": "Triage",
-			"layman": "Deciding which patients need help first"
-		}
-	],
-	"methodologies": [
-		{
-			"jargon": "Cross-sectional study",
-			"layman": "Survey of current attitudes"
-		},
-		{
-			"jargon": "Web-based surveys",
-			"layman": "Online questionnaires"
-		},
-		{
-			"jargon": "Active learning strategies",
-			"layman": "Engaging teaching methods"
-		},
-		{
-			"jargon": "Curriculum design",
-			"layman": "Planning training content"
-		}
-	],
-	"outcomes": [
-		{
-			"jargon": "P =.06",
-			"layman": "Slight difference in opinions"
-		},
-		{
-			"jargon": "P =.001",
-			"layman": "Strong evidence of difference"
-		},
-		{
-			"jargon": "Greater interest in rotation",
-			"layman": "More want to do transport training"
-		},
-		{
-			"jargon": "Perceived barriers",
-			"layman": "Challenges people see"
-		},
-		{
-			"jargon": "Stabilizing patients",
-			"layman": "Making patients better before transport"
-		}
-	]
+  "core_entities": [
+    {
+      "jargon": "Transport medicine",
+      "layman": "Medicine for patients being moved"
+    },
+    {
+      "jargon": "Pediatric Hospital Medicine",
+      "layman": "Care for children in hospitals"
+    },
+    {
+      "jargon": "Fellowship stakeholders",
+      "layman": "People involved in training programs"
+    },
+    {
+      "jargon": "Program directors",
+      "layman": "Hospital training leaders"
+    },
+    {
+      "jargon": "Triage referrals",
+      "layman": "Deciding which patients need urgent transport"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Cross-sectional study",
+      "layman": "Survey of current opinions"
+    },
+    {
+      "jargon": "Web-based surveys",
+      "layman": "Online questionnaires"
+    },
+    "anonymous surveys",
+    {
+      "jargon": "Perceived barriers",
+      "layman": "Barriers people think exist"
+    },
+    {
+      "jargon": "Active learning strategies",
+      "layman": "Engaging methods for learning"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fellows' interest > PDs' interest",
+      "layman": "Trainees more interested than directors"
+    },
+    {
+      "jargon": "P = .06",
+      "layman": "Slight difference in interest"
+    },
+    {
+      "jargon": "P = .001",
+      "layman": "Strong evidence of difference"
+    },
+    {
+      "jargon": "Lack of formal curriculum",
+      "layman": "No clear training plan"
+    },
+    {
+      "jargon": "Stabilizing patients",
+      "layman": "Making patients safe for transport"
+    }
+  ]
 }

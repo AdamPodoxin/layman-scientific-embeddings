@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Experiment",
-      "layman": "Test to check a hypothesis"
+      "layman": "Test to find answers"
     },
     {
       "jargon": "Constancy",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Test in outer space",
-      "layman": "Test in space"
+      "jargon": "Test scheme",
+      "layman": "Plan for the experiment"
     },
     {
-      "jargon": "Present a scheme",
-      "layman": "Show a plan"
+      "jargon": "Carry out experiment",
+      "layman": "Perform the test"
     },
     {
-      "jargon": "Justify carrying out",
-      "layman": "Explain why to do"
+      "jargon": "Justify experiment",
+      "layman": "Explain why the test is needed"
     },
     {
-      "jargon": "Support convenience",
-      "layman": "Show it's practical now"
+      "jargon": "Continue experiments",
+      "layman": "Keep doing the tests"
     },
     {
-      "jargon": "Assent of Relativity",
-      "layman": "Acceptance of Einstein's theory"
+      "jargon": "Assent",
+      "layman": "General agreement or acceptance"
     }
   ],
   "outcomes": [
     {
       "jargon": "Constancy of the velocity of light",
-      "layman": "Light always moves at same speed"
+      "layman": "Light always moves at the same speed"
     },
     {
-      "jargon": "Test the constancy",
-      "layman": "Check if light speed is fixed"
+      "jargon": "Outer space conditions",
+      "layman": "Space-based environment"
     },
     {
-      "jargon": "Century of Relativity's assent",
-      "layman": "Relativity has been accepted for 100 years"
+      "jargon": "Relativity's assent",
+      "layman": "Public belief in relativity"
     },
     {
-      "jargon": "Convenience to continue",
-      "layman": "It's still useful to do"
+      "jargon": "Test results",
+      "layman": "Findings from the test"
     },
     {
-      "jargon": "Outer space environment",
-      "layman": "Space conditions"
+      "jargon": "Convenience now",
+      "layman": "It makes sense to do this today"
     }
   ]
 }

@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Partial evaluator",
-      "layman": "Tool that simplifies code"
+      "layman": "Tool that simplifies code parts"
     },
     {
       "jargon": "University of Michigan",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Automated system",
-      "layman": "Self-running process"
+      "layman": "System that works without human input"
     },
     {
       "jargon": "Algebra",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Automated partial evaluation",
-      "layman": "Auto-simplifying code"
-    },
-    {
-      "jargon": "Implementation",
-      "layman": "Putting a system into action"
-    },
-    {
-      "jargon": "Evolving",
-      "layman": "Changing over time"
-    },
-    {
       "jargon": "Partial evaluation",
-      "layman": "Simplifying a program part by part"
+      "layman": "Running code to simplify parts"
     },
     {
-      "jargon": "System design",
-      "layman": "Building a working system"
+      "jargon": "Automated implementation",
+      "layman": "Setting up system automatically"
+    },
+    {
+      "jargon": "Evolving algebras system",
+      "layman": "System that grows and adapts"
+    },
+    {
+      "jargon": "Implementation process",
+      "layman": "Putting a system into practice"
+    },
+    {
+      "jargon": "Dynamic modification",
+      "layman": "Changing behavior over time"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Automated partial evaluator",
+      "layman": "Auto tool that simplifies code"
+    },
+    {
       "jargon": "Implemented at University of Michigan",
-      "layman": "Built and tested at the university"
+      "layman": "Built and used at university"
     },
     {
-      "jargon": "Automated",
-      "layman": "Runs without human input"
+      "jargon": "Evolving algebra system",
+      "layman": "System that changes and improves"
     },
     {
-      "jargon": "Evolving algebras",
-      "layman": "Changing mathematical systems"
+      "jargon": "Code simplification",
+      "layman": "Making code easier to use"
     },
     {
-      "jargon": "Partial evaluator",
-      "layman": "Code simplifier tool"
-    },
-    {
-      "jargon": "Functional system",
-      "layman": "Working system that performs tasks"
+      "jargon": "Real-time adaptation",
+      "layman": "Adjusts as conditions change"
     }
   ]
 }

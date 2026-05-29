@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Nazi regime",
-      "layman": "Government during World War II in Germany"
+      "layman": "German government during WWII"
     },
     {
       "jargon": "Post-war Germany",
       "layman": "Germany after World War II"
     },
     {
-      "jargon": "Book review",
-      "layman": "Summary of a book"
+      "jargon": "Government",
+      "layman": "Official system of leadership"
     },
     {
-      "jargon": "Author",
-      "layman": "Person who wrote the book"
+      "jargon": "Book review",
+      "layman": "Summary of a book"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Philosophical analysis",
-      "layman": "Thinking through ideas and values"
+      "layman": "Thinking through ideas deeply"
     },
     {
       "jargon": "Historical context",
-      "layman": "Understanding past events to explain now"
+      "layman": "Understanding past events"
     },
     {
-      "jargon": "Political commentary",
-      "layman": "Opinions on government and society"
+      "jargon": "Review of views",
+      "layman": "Looking at a person's ideas"
     },
     {
-      "jargon": "Resident",
-      "layman": "Person living in a place"
+      "jargon": "Resident of Germany",
+      "layman": "Lived in Germany"
     }
   ],
   "outcomes": [
     {
       "jargon": "Views on government",
-      "layman": "Opinions about how government should work"
+      "layman": "Opinions about leadership"
     },
     {
       "jargon": "Post-war Germany",
-      "layman": "Germany after World War II"
+      "layman": "Germany after WWII"
     },
     {
       "jargon": "Philosophical perspective",
-      "layman": "Deep thinking about life and society"
+      "layman": "Way of thinking about big issues"
     },
     {
-      "jargon": "Political future",
-      "layman": "How Germany might be governed"
+      "jargon": "Political ideology",
+      "layman": "Beliefs about government and society"
     },
     {
-      "jargon": "Historical reflection",
-      "layman": "Looking back at past events"
+      "jargon": "Democratic future",
+      "layman": "Country moving toward democracy"
     }
   ]
 }

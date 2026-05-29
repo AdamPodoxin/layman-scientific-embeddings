@@ -5,64 +5,64 @@
       "layman": "Framework for understanding human behavior"
     },
     {
-      "jargon": "Praxis",
-      "layman": "Action with reflection"
-    },
-    {
       "jargon": "Empowerment",
       "layman": "Feeling in control of one's life"
+    },
+    {
+      "jargon": "Praxis",
+      "layman": "Putting ideas into practice"
     },
     {
       "jargon": "Suicide project",
       "layman": "Plan to end one's life"
     },
     {
-      "jargon": "Marital transition",
-      "layman": "Change in family relationships"
+      "jargon": "Marital transitions",
+      "layman": "Changes in relationships"
     }
   ],
   "methodologies": [
     {
       "jargon": "Action theory research",
-      "layman": "Research based on human actions and decisions"
+      "layman": "Research using behavior-focused frameworks"
     },
     {
-      "jargon": "Parent-child conversation",
-      "layman": "Talk between parents and children about life changes"
+      "jargon": "Conversation analysis",
+      "layman": "Studying talks to understand meaning"
     },
     {
-      "jargon": "Case study",
-      "layman": "In-depth look at a specific situation"
+      "jargon": "Case studies",
+      "layman": "In-depth look at specific examples"
     },
     {
-      "jargon": "Research application",
-      "layman": "Using theory in real-world studies"
+      "jargon": "Research reports",
+      "layman": "Written summaries of research findings"
     },
     {
-      "jargon": "Theoretical perspective",
-      "layman": "Viewpoint used to interpret behavior"
+      "jargon": "Health promotion",
+      "layman": "Efforts to improve health"
     }
   ],
   "outcomes": [
-    {
-      "jargon": "Empowerment in health promotion",
-      "layman": "People feel more in control of their health"
-    },
     {
       "jargon": "Suicide career",
       "layman": "Pattern of repeated suicide attempts"
     },
     {
-      "jargon": "Reasoning in conversation",
-      "layman": "How people think through big life changes"
-    },
-    {
-      "jargon": "Rehabilitation outcomes",
-      "layman": "Results of helping people recover"
-    },
-    {
       "jargon": "Family health promotion",
-      "layman": "Improved health through family involvement"
+      "layman": "Family-based health improvement"
+    },
+    {
+      "jargon": "Parental reasoning",
+      "layman": "How parents think about life events"
+    },
+    {
+      "jargon": "Behavioral change",
+      "layman": "Change in actions or habits"
+    },
+    {
+      "jargon": "Rehabilitation process",
+      "layman": "Process of recovery and improvement"
     }
   ]
 }

@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Trompe l'oeil painting",
-      "layman": "Painting that looks like real objects"
-    },
-    {
-      "jargon": "American art",
-      "layman": "Art from the United States"
-    },
-    {
-      "jargon": "Colonial still lifes",
-      "layman": "Old paintings of food from early America"
+      "layman": "Painting that looks like real things"
     },
     {
       "jargon": "Pop art",
       "layman": "Popular culture art style"
+    },
+    {
+      "jargon": "Colonial still lifes",
+      "layman": "Old paintings of food from colonies"
+    },
+    {
+      "jargon": "American cuisine",
+      "layman": "Traditional American food"
     }
   ],
   "methodologies": [
     {
       "jargon": "Artistic representation",
-      "layman": "How artists show food in art"
+      "layman": "How artists show scenes"
     },
     {
-      "jargon": "Cultural critique",
-      "layman": "Using art to comment on society"
+      "jargon": "Cultural analysis",
+      "layman": "Studying culture through art"
     },
     {
-      "jargon": "Historical analysis",
-      "layman": "Looking at past events through art"
+      "jargon": "Historical interpretation",
+      "layman": "Understanding past events through context"
     },
     {
-      "jargon": "Visual interpretation",
-      "layman": "Understanding meaning in images"
+      "jargon": "Visual symbolism",
+      "layman": "Using images to mean deeper things"
     },
     {
       "jargon": "Recipe selection",
-      "layman": "Choosing old American recipes"
+      "layman": "Picking old food recipes"
     }
   ],
   "outcomes": [
     {
       "jargon": "Reflection on society",
-      "layman": "Thoughts on culture and politics"
+      "layman": "Thinking about society through food"
     },
     {
-      "jargon": "Expression of class",
-      "layman": "Show of social status"
+      "jargon": "Critique of politics",
+      "layman": "Challenging political views through art"
     },
     {
-      "jargon": "Gender and race themes",
-      "layman": "Discussion of gender and race"
+      "jargon": "Expression of race",
+      "layman": "Showcasing racial identity"
     },
     {
-      "jargon": "Commercialization of food",
-      "layman": "Food becoming a business"
+      "jargon": "Discussion of class",
+      "layman": "Talking about social classes"
     },
     {
-      "jargon": "Cultural history of Thanksgiving",
-      "layman": "History of Thanksgiving in America"
+      "jargon": "Gender representation",
+      "layman": "How gender is shown in art"
     }
   ]
 }

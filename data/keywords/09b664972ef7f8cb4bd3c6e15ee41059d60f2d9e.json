@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Knowledge management",
-      "layman": "Sharing and organizing knowledge"
+      "layman": "Managing shared information"
     },
     {
       "jargon": "Portal-based systems",
@@ -23,16 +23,16 @@
   ],
   "methodologies": [
     {
-      "jargon": "Knowledge sharing",
-      "layman": "Exchanging ideas and information"
+      "jargon": "Share and catalogue knowledge",
+      "layman": "Store and share information"
     },
     {
-      "jargon": "Knowledge cataloguing",
-      "layman": "Organizing knowledge in a database"
+      "jargon": "Retrieval from anywhere",
+      "layman": "Access info anytime, anywhere"
     },
     {
-      "jargon": "Retrieval systems",
-      "layman": "Finding information quickly"
+      "jargon": "Collective knowledge",
+      "layman": "Group\u2019s shared wisdom"
     },
     {
       "jargon": "Best practices",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Lessons learned",
-      "layman": "Wise experiences from past events"
+      "layman": "What was discovered from experience"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Collective knowledge",
-      "layman": "Shared group knowledge"
+      "jargon": "Effective collaboration",
+      "layman": "Smooth team working"
     },
     {
-      "jargon": "Operational working",
-      "layman": "Day-to-day collaboration process"
+      "jargon": "Unlock potential",
+      "layman": "Realize group strengths"
     },
     {
-      "jargon": "Business strategy",
-      "layman": "Long-term business plan"
+      "jargon": "Store knowledge",
+      "layman": "Keep information saved"
     },
     {
-      "jargon": "Competitive products",
-      "layman": "Products that stand out in the market"
+      "jargon": "Retrieval at any time",
+      "layman": "Access info when needed"
     },
     {
-      "jargon": "High-quality services",
-      "layman": "Excellent customer services"
+      "jargon": "High-quality products",
+      "layman": "Good quality services and goods"
     }
   ]
 }

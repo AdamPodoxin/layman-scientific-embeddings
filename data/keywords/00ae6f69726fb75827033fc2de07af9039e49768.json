@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Polyelectrolytes",
-      "layman": "Charged polymers"
+      "layman": "Charge-carrying polymers"
     },
     {
       "jargon": "Alkaline hydrolysis",
-      "layman": "Base-driven breakdown"
+      "layman": "Chemical breakdown in base"
     },
     {
       "jargon": "Esters",
-      "layman": "Organic compounds with carbonyl groups"
+      "layman": "Chemical compounds made from acids and alcohols"
     },
     {
       "jargon": "p-Nitrophenyl acetate",
-      "layman": "Chemical used to test reactions"
+      "layman": "Specific type of ester"
     },
     {
-      "jargon": "4-Acetoxy-3-nitrobenzoic acid",
-      "layman": "Specific organic acid compound"
+      "jargon": "Cationic polyelectrolytes",
+      "layman": "Positively charged polymers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Saturation kinetics",
-      "layman": "Reaction rate at maximum binding"
-    },
-    {
-      "jargon": "Ion\u2013molecule reactions",
-      "layman": "Charges attract and react"
-    },
-    {
-      "jargon": "Ion\u2013ion reactions",
-      "layman": "Charges interact directly"
-    },
-    {
-      "jargon": "Hydrophobic interactions",
-      "layman": "Non-polar parts stick together"
+      "layman": "How reaction speed stabilizes at high concentration"
     },
     {
       "jargon": "Equilibrium association constant",
-      "layman": "Strength of bond at balance"
+      "layman": "Strength of binding between molecules"
+    },
+    {
+      "jargon": "Rate coefficients",
+      "layman": "Speed of chemical reactions"
+    },
+    {
+      "jargon": "Ion\u2013molecule reactions",
+      "layman": "Charges reacting with molecules"
+    },
+    {
+      "jargon": "Ion\u2013ion reactions",
+      "layman": "Charges reacting with other charges"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Reactions speed up"
     },
     {
-      "jargon": "Rate coefficients",
-      "layman": "How fast reactions happen"
-    },
-    {
-      "jargon": "Catalytic contributions",
-      "layman": "How much each factor speeds up reaction"
-    },
-    {
       "jargon": "Hydrophobic character",
-      "layman": "Lack of water attraction"
+      "layman": "Water-avoiding property"
     },
     {
       "jargon": "Electrostatic interactions",
-      "layman": "Charge-based attractions"
+      "layman": "Attraction between opposite charges"
+    },
+    {
+      "jargon": "Hydrophobic interactions",
+      "layman": "Avoidance of water"
+    },
+    {
+      "jargon": "Catalytic contributions",
+      "layman": "How much each factor speeds up the reaction"
     }
   ]
 }

@@ -13,12 +13,12 @@
       "layman": "Early comedy films"
     },
     {
-      "jargon": "Modern Times",
-      "layman": "Chaplin's major film"
+      "jargon": "Hollywood",
+      "layman": "American film industry"
     },
     {
-      "jargon": "Monsieur Verdoux",
-      "layman": "Chaplin's serial killer role"
+      "jargon": "British Music Hall",
+      "layman": "Early British stage comedy"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Social and political interpretation",
-      "layman": "Reading films through society and politics"
+      "layman": "Looking at films through social lens"
     },
     {
       "jargon": "Audience reception",
-      "layman": "How fans responded to films"
+      "layman": "How audiences responded"
     },
     {
       "jargon": "Iconic representation",
-      "layman": "How a figure became a symbol"
+      "layman": "Creating a lasting cultural figure"
     },
     {
-      "jargon": "Historical context",
-      "layman": "Understanding the time period"
+      "jargon": "Paradox exploration",
+      "layman": "Examining contradictions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Defiant spirit of freedom",
-      "layman": "Strong resistance to control"
+      "layman": "Strong opposition to control"
     },
     {
-      "jargon": "Paradoxes",
-      "layman": "Contradictory traits"
+      "jargon": "Cultural icon",
+      "layman": "Legendary figure in culture"
     },
     {
-      "jargon": "Social and political ideas",
-      "layman": "Views on society and power"
+      "jargon": "Fan connection",
+      "layman": "Deep public attachment"
+    },
+    {
+      "jargon": "Challenge to fascism",
+      "layman": "Opposition to dictatorship"
     },
     {
       "jargon": "Exile",
-      "layman": "Living abroad due to conflict"
-    },
-    {
-      "jargon": "Audience appeal",
-      "layman": "Why people loved the films"
+      "layman": "Living outside country"
     }
   ]
 }

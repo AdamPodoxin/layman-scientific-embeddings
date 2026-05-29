@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Topological Tverberg conjecture",
-      "layman": "Unsolved math problem about shapes and points"
+      "layman": "Unsolved math guess about shapes and points"
     },
     {
       "jargon": "Simplex",
-      "layman": "Shape made of points connected in a triangle or higher form"
+      "layman": "Connected group of points"
     },
     {
       "jargon": "Continuous map",
-      "layman": "Smooth function from one shape to another"
+      "layman": "Smooth function between shapes"
     },
     {
-      "jargon": "Subsimplices",
-      "layman": "Smaller parts of a shape"
+      "jargon": "Subsimplex",
+      "layman": "Smaller part of a simplex"
     },
     {
       "jargon": "Intersection",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Counterexample",
-      "layman": "Example that disproves a claim"
+      "layman": "Example showing a guess is wrong"
     },
     {
       "jargon": "Interplay",
-      "layman": "Working together of different fields"
+      "layman": "Mutual connection between fields"
     },
     {
-      "jargon": "Algebraic methods",
-      "layman": "Math tools using equations and rules"
+      "jargon": "Combinatorics",
+      "layman": "Counting and arranging objects"
     },
     {
-      "jargon": "Topological arguments",
-      "layman": "Shape-based reasoning about space and connections"
+      "jargon": "Algebra and topology",
+      "layman": "Math using numbers and shapes"
     }
   ],
   "outcomes": [
     {
       "jargon": "Pairwise disjoint subsimplices",
-      "layman": "Separate groups of points that don\u2019t overlap"
+      "layman": "Separate groups of points that don't overlap"
     },
     {
       "jargon": "Non-empty intersection",
-      "layman": "Shared point in the result"
+      "layman": "Shared point in multiple groups"
     },
     {
       "jargon": "Prime power r",
-      "layman": "Special type of number like 2, 4, 8"
+      "layman": "Special kind of number (like 2, 4, 8)"
     },
     {
       "jargon": "Counterexample found",
-      "layman": "A case that breaks the rule"
+      "layman": "A case that disproves the theory"
     },
     {
-      "jargon": "Recent papers",
-      "layman": "New studies published recently"
+      "jargon": "Beautiful and fruitful arguments",
+      "layman": "Smart, inspiring proofs that lead to more ideas"
     }
   ]
 }

@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Affluent public school setting",
-      "layman": "Rich public school"
+      "layman": "Rich school"
     },
     {
-      "jargon": "Affluent families",
-      "layman": "Wealthy families"
-    },
-    {
-      "jargon": "School dysfunction",
-      "layman": "School problems"
-    },
-    {
-      "jargon": "Countertransference",
-      "layman": "Emotional reaction to client status"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Assessment process",
-      "layman": "Evaluating symptoms"
-    },
-    {
-      "jargon": "Intervention",
-      "layman": "Treatment"
-    },
-    {
-      "jargon": "Alliance building",
-      "layman": "Building trust"
-    },
-    {
-      "jargon": "Recognition of countertransference",
-      "layman": "Noticing emotional reactions"
-    },
-    {
-      "jargon": "Management of countertransference",
-      "layman": "Handling emotional reactions"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Problematic alliance building",
-      "layman": "Poor therapist-client trust"
-    },
-    {
-      "jargon": "Effective intervention",
-      "layman": "Successful treatment"
+      "jargon": "Family resources",
+      "layman": "Family money and support"
     },
     {
       "jargon": "Coping styles",
       "layman": "Ways of handling stress"
     },
     {
-      "jargon": "Status-based responses",
-      "layman": "Reactions based on wealth"
+      "jargon": "Client population",
+      "layman": "People receiving help"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Assessment process",
+      "layman": "Evaluating a person's condition"
+    },
+    {
+      "jargon": "Alliance building",
+      "layman": "Building trust with a client"
+    },
+    {
+      "jargon": "Countertransference",
+      "layman": "Emotional reaction to client status"
+    },
+    {
+      "jargon": "Intervention",
+      "layman": "Therapy actions to help"
+    },
+    {
+      "jargon": "Recognition and management",
+      "layman": "Noticing and handling emotions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Problematic alliance",
+      "layman": "Poor therapist-client relationship"
+    },
+    {
+      "jargon": "Effective intervention",
+      "layman": "Successful therapy"
+    },
+    {
+      "jargon": "Countertransference responses",
+      "layman": "Emotions triggered by client wealth"
+    },
+    {
+      "jargon": "Status-based challenges",
+      "layman": "Issues from social differences"
     },
     {
       "jargon": "Enhanced effectiveness",
-      "layman": "Better results"
+      "layman": "Better therapy results"
     }
   ]
 }

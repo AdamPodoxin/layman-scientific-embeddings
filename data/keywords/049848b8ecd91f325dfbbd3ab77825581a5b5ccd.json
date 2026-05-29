@@ -1,12 +1,8 @@
 {
   "core_entities": [
     {
-      "jargon": "Evolutionary multi-objective optimization",
-      "layman": "Optimizing multiple goals at once"
-    },
-    {
       "jargon": "Pareto front",
-      "layman": "Best possible trade-off solutions"
+      "layman": "Best set of trade-off solutions"
     },
     {
       "jargon": "Decision makers",
@@ -17,22 +13,26 @@
       "layman": "Preferred solution area"
     },
     {
-      "jargon": "Sub-problems",
-      "layman": "Smaller parts of the overall problem"
+      "jargon": "Multi-objective optimization",
+      "layman": "Balancing multiple goals"
+    },
+    {
+      "jargon": "Evolutionary algorithm",
+      "layman": "Smart search using nature-inspired rules"
     }
   ],
   "methodologies": [
     {
       "jargon": "Interactive reference region-based algorithm",
-      "layman": "Algorithm that adapts to user input"
+      "layman": "Adjusting search based on user input"
     },
     {
       "jargon": "MOEA/D",
-      "layman": "Multi-objective optimization method"
+      "layman": "Group problem-solving method"
     },
     {
       "jargon": "Decomposition",
-      "layman": "Breaking problems into smaller parts"
+      "layman": "Splitting big problems into smaller ones"
     },
     {
       "jargon": "Preference information",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Converge to reference region",
-      "layman": "Reach preferred solution area"
+      "layman": "Reach desired solution area"
     },
     {
       "jargon": "Save computational resources",
-      "layman": "Use less computer power"
+      "layman": "Reduce computer time needed"
     },
     {
       "jargon": "Dynamic preference use",
-      "layman": "Adjust to user preferences in real time"
+      "layman": "Adapt to changing user needs"
     },
     {
-      "jargon": "High efficiency in search",
-      "layman": "Finds good solutions fast"
+      "jargon": "Obtain rough solutions quickly",
+      "layman": "Get fast, approximate answers"
     },
     {
-      "jargon": "Experimental results",
-      "layman": "Test performance shows success"
+      "jargon": "Full use of preference information",
+      "layman": "Make best use of user input"
     }
   ]
 }

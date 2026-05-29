@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Tradition",
-      "layman": "Customs passed down through generations"
+      "jargon": "tradition",
+      "layman": "way of life passed down"
     },
     {
-      "jargon": "Traditional society",
-      "layman": "Society based on old customs"
+      "jargon": "traditional society",
+      "layman": "old-fashioned society"
     },
     {
-      "jargon": "Philosophical category",
-      "layman": "Key idea in philosophy"
+      "jargon": "philosophical category",
+      "layman": "key idea in philosophy"
     },
     {
-      "jargon": "Sociological theory",
-      "layman": "Theory about society"
+      "jargon": "sociological theory",
+      "layman": "theory about society"
     },
     {
-      "jargon": "Cultural development",
-      "layman": "How culture changes over time"
+      "jargon": "nominal society",
+      "layman": "society based on names and titles"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Conceptual development",
-      "layman": "Building ideas over time"
+      "jargon": "concept development",
+      "layman": "forming a new idea"
     },
     {
-      "jargon": "Philosophical analysis",
-      "layman": "Deep thinking about ideas"
+      "jargon": "philosophical analysis",
+      "layman": "deep thinking about ideas"
     },
     {
-      "jargon": "Theoretical emergence",
-      "layman": "How a theory starts to form"
+      "jargon": "historical examination",
+      "layman": "studying history closely"
     },
     {
-      "jargon": "Historical interpretation",
-      "layman": "Understanding history through ideas"
+      "jargon": "theoretical framework",
+      "layman": "base for understanding ideas"
     },
     {
-      "jargon": "Category formation",
-      "layman": "Creating a key type or group"
+      "jargon": "category emergence",
+      "layman": "how a concept appears"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Transition from traditional society",
-      "layman": "Shift from old customs to new ways"
+      "jargon": "cornerstone of theory",
+      "layman": "key part of understanding"
     },
     {
-      "jargon": "Cornerstone of theory",
-      "layman": "Foundational idea in a field"
+      "jargon": "transition from traditional society",
+      "layman": "shift from old to new society"
     },
     {
-      "jargon": "Philosophical explanation",
-      "layman": "A deep reason for a social change"
+      "jargon": "philosophical explanation",
+      "layman": "reasoning about values and beliefs"
     },
     {
-      "jargon": "Public-term development",
-      "layman": "How common terms evolve"
+      "jargon": "public-term development",
+      "layman": "growth of common language"
     },
     {
-      "jargon": "Cultural change",
-      "layman": "Shift in societal values or practices"
+      "jargon": "theory in sociological thought",
+      "layman": "important idea in social studies"
     }
   ]
 }

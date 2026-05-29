@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
+      "jargon": "Research training network",
+      "layman": "Group teaching advanced science to young researchers"
+    },
+    {
       "jargon": "Symbolic computation",
-      "layman": "Mathematical calculations using symbols"
+      "layman": "Computing with symbols and rules"
     },
     {
       "jargon": "Symbolic reasoning",
-      "layman": "Logical thinking with symbols"
+      "layman": "Thinking with logic and symbols"
     },
     {
       "jargon": "QPQ initiative",
-      "layman": "Related research project"
+      "layman": "Science project on reasoning and computing"
     },
     {
-      "jargon": "Research training network",
-      "layman": "Group training young scientists"
-    },
-    {
-      "jargon": "Visiting researchers",
-      "layman": "Young scientists visiting labs"
+      "jargon": "Person-months",
+      "layman": "Time units for researcher work"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Integration of systems",
-      "layman": "Combining different tools or methods"
+      "jargon": "Integration",
+      "layman": "Combining different systems together"
+    },
+    {
+      "jargon": "Visiting researchers",
+      "layman": "Young scientists working at different sites"
     },
     {
       "jargon": "Training measures",
-      "layman": "Educational programs for students"
+      "layman": "Teaching programs for young scientists"
+    },
+    {
+      "jargon": "Midterm report",
+      "layman": "Report after half the project runs"
     },
     {
       "jargon": "Collaborations",
       "layman": "Working together between groups"
-    },
-    {
-      "jargon": "Midterm report",
-      "layman": "Report after halfway point"
-    },
-    {
-      "jargon": "Person-months",
-      "layman": "Months of work by one person"
     }
   ],
   "outcomes": [
     {
       "jargon": "More than 28 young visiting researchers",
-      "layman": "Many young scientists trained"
+      "layman": "Many young scientists visited"
     },
     {
-      "jargon": "Approximately 47 senior researchers involved",
-      "layman": "Many experienced scientists helping"
+      "jargon": "Approx. 47 senior researchers",
+      "layman": "Around 47 expert scientists involved"
     },
     {
-      "jargon": "Sum approx. 150 financed person-months",
-      "layman": "Total work time supported financially"
+      "jargon": "Financed person-months",
+      "layman": "Paid time spent on research"
     },
     {
-      "jargon": "Structure and scientific contributions",
-      "layman": "Organization and key findings"
+      "jargon": "Project structure",
+      "layman": "How the research is organized"
     },
     {
-      "jargon": "Network since September 2000",
-      "layman": "Project started in 2000"
+      "jargon": "Scientific contributions",
+      "layman": "Key discoveries or advances made"
     }
   ]
 }

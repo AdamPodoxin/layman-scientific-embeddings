@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Industrial Engineering Technology",
-      "layman": "Technical training in manufacturing and services"
+      "layman": "Tech training for production efficiency"
     },
     {
       "jargon": "Manufacturing organizations",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Service organizations",
-      "layman": "Businesses that provide services"
+      "layman": "Businesses that deliver services"
     },
     {
       "jargon": "Integrated systems",
-      "layman": "Connected systems that work together"
+      "layman": "Connected workflows"
     },
     {
       "jargon": "Technical leaders",
-      "layman": "Experts who lead technical teams"
+      "layman": "Expert managers in operations"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Study and application of methods",
-      "layman": "Learning and using proven techniques"
-    },
-    {
       "jargon": "Developing systems",
-      "layman": "Creating efficient processes"
+      "layman": "Designing processes"
     },
     {
       "jargon": "Implementing systems",
-      "layman": "Putting systems into action"
+      "layman": "Putting systems into use"
     },
     {
-      "jargon": "Integrated systems",
-      "layman": "Connected systems that work together"
+      "jargon": "Methods and techniques",
+      "layman": "Tools and strategies"
     },
     {
-      "jargon": "Technical leadership",
-      "layman": "Leading with technical expertise"
+      "jargon": "Performance optimization",
+      "layman": "Improving efficiency"
+    },
+    {
+      "jargon": "System integration",
+      "layman": "Combining systems to work together"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Graduate readiness",
-      "layman": "Graduates are ready for jobs"
+      "jargon": "Technical leadership",
+      "layman": "Leading technical teams"
     },
     {
-      "jargon": "Efficient operations",
-      "layman": "Smooth and effective work processes"
+      "jargon": "Efficiency gains",
+      "layman": "Better use of time and resources"
     },
     {
-      "jargon": "Improved productivity",
-      "layman": "More output with less effort"
+      "jargon": "Improved operations",
+      "layman": "Smarter business processes"
     },
     {
-      "jargon": "Optimized workflows",
-      "layman": "Better task flow in operations"
+      "jargon": "Integrated systems",
+      "layman": "Seamless workflows"
     },
     {
-      "jargon": "Technical leadership roles",
-      "layman": "Jobs with technical responsibility"
+      "jargon": "Production performance",
+      "layman": "How well production runs"
     }
   ]
 }

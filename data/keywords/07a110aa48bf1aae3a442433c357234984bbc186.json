@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Design drift",
-      "layman": "Change in design during development"
+      "layman": "Changes in design during development"
     },
     {
       "jargon": "Work Breakdown Structure",
       "layman": "Project task breakdown"
     },
     {
-      "jargon": "Scope",
-      "layman": "Project boundaries and goals"
-    },
-    {
       "jargon": "Stakeholders",
-      "layman": "People involved in the project"
+      "layman": "Project decision-makers"
     },
     {
       "jargon": "Resource allocation",
-      "layman": "How resources are distributed"
+      "layman": "Assigning project resources"
+    },
+    {
+      "jargon": "Scope management",
+      "layman": "Managing project boundaries"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Earned Value Management",
-      "layman": "Tracking project progress and cost"
+      "layman": "Tracking project progress"
     },
     {
       "jargon": "Perturbation index",
-      "layman": "Measure of change in project effort"
+      "layman": "Measure of change effort"
     },
     {
       "jargon": "Translations",
-      "layman": "Negotiations between people and systems"
+      "layman": "Negotiating changes between groups"
     },
     {
       "jargon": "Socio-technical co-evolution",
-      "layman": "People and technology changing together"
+      "layman": "Social and technical systems changing together"
     }
   ],
   "outcomes": [
     {
       "jargon": "Changes in regime",
-      "layman": "Shift in how resources are used"
+      "layman": "Shifts in project patterns"
     },
     {
       "jargon": "Innovative results",
-      "layman": "New and better solutions emerge"
+      "layman": "New, creative project solutions"
     },
     {
       "jargon": "Fuzzy front end",
-      "layman": "Unclear early project stage"
+      "layman": "Uncertain early project phase"
     },
     {
       "jargon": "Positive design risk",
-      "layman": "Benefit from uncertainty in design"
+      "layman": "Good risk that leads to new solutions"
     },
     {
-      "jargon": "Good practices and innovative practices balance",
-      "layman": "Mix of reliable and creative methods"
+      "jargon": "Actor-network building",
+      "layman": "Building connections through cooperation"
     }
   ]
 }

@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Coronitic garnet",
-      "layman": "Special type of garnet"
+      "layman": "Garnet with a specific shape"
     },
     {
       "jargon": "Omphacite",
-      "layman": "Type of amphibole mineral"
+      "layman": "Mineral in eclogite"
     },
     {
-      "jargon": "Subducted crust",
-      "layman": "Crust pushed down into the Earth"
+      "jargon": "Subducted metaigneous crust",
+      "layman": "Crust that sank beneath the surface"
     },
     {
-      "jargon": "Variscan orogeny",
-      "layman": "Mountain-building event"
+      "jargon": "Variscan Iberia",
+      "layman": "Ancient mountain belt in Spain"
     }
   ],
   "methodologies": [
     {
       "jargon": "Petrofabric",
-      "layman": "Crystal alignment pattern"
+      "layman": "Orientation of crystal patterns"
     },
     {
       "jargon": "Geochronology",
-      "layman": "Age determination"
+      "layman": "Age determination of rocks"
     },
     {
-      "jargon": "Crystallographic preferred orientation",
-      "layman": "Crystal alignment in rocks"
+      "jargon": "Crystallographic preferred orientations",
+      "layman": "Mineral alignment in rock"
     },
     {
       "jargon": "Seismic property calculation",
-      "layman": "Measuring how rock responds to sound waves"
+      "layman": "Measuring how rock affects earthquake waves"
     },
     {
       "jargon": "Strain geometry",
-      "layman": "How rocks were stretched or bent"
+      "layman": "Shape of deformation in rock"
     }
   ],
   "outcomes": [
     {
       "jargon": "Maximum P and T of 2.6 GPa and 610\u2013640 \u00b0C",
-      "layman": "High pressure and temperature during formation"
+      "layman": "Extreme heat and pressure"
     },
     {
       "jargon": "Non-coaxial constrictional strain",
-      "layman": "Rock squeezed in one direction"
+      "layman": "Deformation squeezing rock"
     },
     {
       "jargon": "Non-coaxial flattening strain",
-      "layman": "Rock flattened in a specific way"
+      "layman": "Rock flattened unevenly"
     },
     {
       "jargon": "Late Devonian subduction channel",
-      "layman": "Deep trench formed in Devonian time"
+      "layman": "Deep sinking zone in ancient time"
     },
     {
-      "jargon": "Seismically undetectable or planar high-impedance features",
-      "layman": "May not be detected by earthquakes or show sharp boundaries"
+      "jargon": "Seismically undetectable or planar features",
+      "layman": "May not show seismic waves or appear as flat layers"
     }
   ]
 }

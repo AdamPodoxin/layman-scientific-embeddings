@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "postural orthostatic tachycardia syndrome",
+      "jargon": "Postural orthostatic tachycardia syndrome",
       "layman": "POTS"
     },
     {
-      "jargon": "pediatric pain",
-      "layman": "children's pain"
+      "jargon": "Parental pain attribution",
+      "layman": "Parents blaming health issues on physical causes"
     },
     {
-      "jargon": "functional impairment",
-      "layman": "difficulty doing daily activities"
+      "jargon": "Chronic pain",
+      "layman": "Long-term pain"
     },
     {
-      "jargon": "autonomic dysfunction",
-      "layman": "body system problems"
+      "jargon": "Functional impairment",
+      "layman": "Difficulty doing daily tasks"
     },
     {
-      "jargon": "parental attribution",
-      "layman": "parents' beliefs about causes of illness"
+      "jargon": "Autonomic dysfunction",
+      "layman": "Nervous system issues affecting body functions"
     }
   ],
   "methodologies": [
     {
-      "jargon": "tilt table testing",
-      "layman": "test to check blood pressure changes when standing"
+      "jargon": "Tilt table testing",
+      "layman": "Test to see how body reacts when standing"
     },
     {
       "jargon": "Parent Pain Attribution Questionnaire",
-      "layman": "survey about parents' views on pain causes"
+      "layman": "Survey to measure parents' beliefs about pain causes"
     },
     {
-      "jargon": "retrospective grouping",
-      "layman": "looking back to classify patients"
+      "jargon": "Retrospective grouping",
+      "layman": "Looking back to classify patients"
     },
     {
-      "jargon": "multidisciplinary chronic pain clinic",
-      "layman": "clinic with many specialists"
+      "jargon": "Multidisciplinary chronic pain clinic",
+      "layman": "Clinic with many specialists for pain care"
     },
     {
-      "jargon": "depression and anxiety measures",
-      "layman": "tools to check mood and stress"
+      "jargon": "Depression and anxiety scales",
+      "layman": "Standardized tools to measure mood problems"
     }
   ],
   "outcomes": [
     {
-      "jargon": "functional disability",
-      "layman": "inability to function normally"
+      "jargon": "r = 0.45",
+      "layman": "Strong link between beliefs and disability"
     },
     {
-      "jargon": "correlation coefficient r = 0.45",
-      "layman": "strong link between beliefs and disability"
-    },
-    {
-      "jargon": "P =.006",
-      "layman": "highly significant result"
+      "jargon": "P = .006",
+      "layman": "Statistically significant result"
     },
     {
       "jargon": "r = 0.25",
-      "layman": "moderate link between beliefs and disability"
+      "layman": "Moderate link between beliefs and disability"
     },
     {
-      "jargon": "family-oriented rehabilitative approach",
-      "layman": "treatment that includes the whole family"
+      "jargon": "Functional disability",
+      "layman": "Reduced ability to function"
+    },
+    {
+      "jargon": "Comprehensive family-oriented approach",
+      "layman": "Treatment that includes the whole family"
     }
   ]
 }

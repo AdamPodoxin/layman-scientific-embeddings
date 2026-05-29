@@ -13,12 +13,12 @@
       "layman": "Building computer programs"
     },
     {
-      "jargon": "Software production process",
-      "layman": "How software is made"
+      "jargon": "Software suppliers",
+      "layman": "Companies that make software"
     },
     {
-      "jargon": "Software Engineering Institute (SEI)",
-      "layman": "Organization that improves software making"
+      "jargon": "Software production process",
+      "layman": "How software is made"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Phased approach",
-      "layman": "Step-by-step development"
+      "layman": "Step-by-step plan"
     },
     {
       "jargon": "Project planning",
-      "layman": "Organizing work steps"
+      "layman": "Setting up projects step by step"
     },
     {
       "jargon": "Exploration of technology",
-      "layman": "Testing new tech ideas"
+      "layman": "Testing new tech"
     },
     {
       "jargon": "System and management focus",
-      "layman": "Looking at whole software and how it's managed"
+      "layman": "Looking at whole systems and how they are managed"
     }
   ],
   "outcomes": [
@@ -57,12 +57,12 @@
       "layman": "Tech ready for real use"
     },
     {
-      "jargon": "Advanced technology introduction",
-      "layman": "New tech being rolled out"
+      "jargon": "Efficient software development",
+      "layman": "Smarter and faster software creation"
     },
     {
-      "jargon": "Multiple projects related to Ada",
-      "layman": "Several projects using Ada language"
+      "jargon": "Support for software development",
+      "layman": "Help for building software"
     }
   ]
 }

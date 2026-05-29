@@ -2,55 +2,55 @@
   "core_entities": [
     {
       "jargon": "Symbiont",
-      "layman": "Living partner in a mutual relationship"
+      "layman": "Organism living in partnership"
     },
     {
       "jargon": "Plant cell",
-      "layman": "Cell in a plant"
+      "layman": "Plant cell"
     },
     {
       "jargon": "Animal cell",
-      "layman": "Cell in an animal"
+      "layman": "Animal cell"
     },
     {
       "jargon": "Microbial symbiont",
-      "layman": "Tiny microorganism living together"
+      "layman": "Tiny organism living together"
     },
     {
       "jargon": "Cell membrane",
-      "layman": "Cell's outer boundary"
+      "layman": "Cell boundary"
     }
   ],
   "methodologies": [
     {
       "jargon": "Mutual recognition",
-      "layman": "Identifying each other"
+      "layman": "Recognizing each other"
     },
     {
       "jargon": "Substance interchange",
-      "layman": "Sharing materials between cells"
+      "layman": "Sharing materials"
     },
     {
-      "jargon": "Geometrical relationships",
-      "layman": "Spatial arrangement between cells"
+      "jargon": "Geometrical cell relationships",
+      "layman": "How cells fit together"
     },
     {
       "jargon": "Terminology standardization",
-      "layman": "Consistent naming and definitions"
+      "layman": "Consistent naming"
     },
     {
       "jargon": "Cell-to-cell contact",
-      "layman": "Direct touch between cells"
+      "layman": "Direct contact between cells"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Differences in symbiosis",
-      "layman": "Varied ways organisms work together"
+      "jargon": "Differences in cell structures",
+      "layman": "Different cell shapes"
     },
     {
-      "jargon": "Common problems",
-      "layman": "Shared challenges in relationships"
+      "jargon": "Common problems in symbiosis",
+      "layman": "Same challenges in partnerships"
     },
     {
       "jargon": "Disconnected phenomena",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Definition of symbiont",
-      "layman": "How to define a living partner"
+      "layman": "How symbiont is explained"
     },
     {
-      "jargon": "Parasite classification",
-      "layman": "How to label harmful relationships"
+      "jargon": "Parasite vs. symbiont distinction",
+      "layman": "Blurry line between helper and harm"
     }
   ]
 }

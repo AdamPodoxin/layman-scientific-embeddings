@@ -1,56 +1,59 @@
 {
-	"core_entities": [
-		{
-			"jargon": "Afrikaners",
-			"layman": "Afrikaners"
-		},
-		{
-			"jargon": "Cricket",
-			"layman": "Cricket"
-		},
-		{
-			"jargon": "Political power",
-			"layman": "Government control"
-		},
-		{
-			"jargon": "Socio-economic prosperity",
-			"layman": "Better money and living conditions"
-		},
-		{
-			"jargon": "Post-apartheid era",
-			"layman": "After apartheid ended"
-		}
-	],
-	"methodologies": [
-		{
-			"jargon": "Trajectory",
-			"layman": "Path over time"
-		},
-		{
-			"jargon": "Cultural shifts",
-			"layman": "Changes in culture"
-		}
-	],
-	"outcomes": [
-		{
-			"jargon": "Mass appeal",
-			"layman": "Popular with many people"
-		},
-		{
-			"jargon": "Greater involvement",
-			"layman": "More people playing"
-		},
-		{
-			"jargon": "Complex identities",
-			"layman": "Mixed or complicated identities"
-		},
-		{
-			"jargon": "Socio-economic prosperity",
-			"layman": "Better money and living conditions"
-		},
-		{
-			"jargon": "Political ascent",
-			"layman": "Rising in power"
-		}
-	]
+  "core_entities": [
+    {
+      "jargon": "Afrikaners",
+      "layman": "Afrikaners"
+    },
+    {
+      "jargon": "Cricket",
+      "layman": "Cricket"
+    },
+    {
+      "jargon": "Political power",
+      "layman": "Political power"
+    },
+    {
+      "jargon": "Socio-economic prosperity",
+      "layman": "Better financial and social conditions"
+    },
+    {
+      "jargon": "Cultural shifts",
+      "layman": "Changes in culture"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Trajectory",
+      "layman": "Path over time"
+    },
+    {
+      "jargon": "Examination",
+      "layman": "Investigation"
+    },
+    "diffusion",
+    "representation",
+    "assessments"
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mass appeal",
+      "layman": "Widespread popularity"
+    },
+    {
+      "jargon": "Greater involvement",
+      "layman": "More people joining"
+    },
+    {
+      "jargon": "Complex identities",
+      "layman": "Muddled self-identities"
+    },
+    {
+      "jargon": "Post-apartheid arena",
+      "layman": "After apartheid sports field"
+    },
+    {
+      "jargon": "Militated against",
+      "layman": "Hindered development"
+    }
+  ]
 }

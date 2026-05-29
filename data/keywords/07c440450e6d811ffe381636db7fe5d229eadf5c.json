@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "universal values",
-      "layman": "common values everyone agrees on"
+      "layman": "shared global beliefs"
     },
     {
       "jargon": "human nature",
-      "layman": "what makes humans fundamentally alike"
+      "layman": "inherent traits of people"
     },
     {
       "jargon": "class and social properties",
-      "layman": "how society and class shape people"
+      "layman": "people's social backgrounds"
     },
     {
       "jargon": "social relations",
-      "layman": "how people connect through society"
+      "layman": "how people connect in society"
     },
     {
       "jargon": "democracy",
-      "layman": "system where people govern themselves"
+      "layman": "system where people govern together"
     }
   ],
   "methodologies": [
     {
       "jargon": "class analysis",
-      "layman": "studying society by class groups"
+      "layman": "studying society by groups"
     },
     {
       "jargon": "Marxist view",
-      "layman": "approach based on class and history"
+      "layman": "seeing society through class lenses"
+    },
+    {
+      "jargon": "historical formation",
+      "layman": "how society changes over time"
     },
     {
       "jargon": "class struggle",
-      "layman": "conflict between different social classes"
+      "layman": "conflicts between social groups"
     },
     {
       "jargon": "critical analysis",
-      "layman": "careful examination of ideas"
-    },
-    {
-      "jargon": "ideology critique",
-      "layman": "exposing false or misleading beliefs"
+      "layman": "careful scrutiny of ideas"
     }
   ],
   "outcomes": [
     {
       "jargon": "abstract humanism",
-      "layman": "idealized view of humanity without context"
+      "layman": "idealized view of people"
     },
     {
       "jargon": "neo-colonial expansion",
-      "layman": "dominant countries spreading influence unfairly"
+      "layman": "dominant powers spreading influence"
     },
     {
       "jargon": "hypocritical nature",
-      "layman": "false claims that seem to hide real motives"
+      "layman": "fake or misleading claims"
     },
     {
-      "jargon": "false universalism",
-      "layman": "claiming all people share values without proof"
+      "jargon": "real human beings",
+      "layman": "people in actual society"
     },
     {
-      "jargon": "Marxist approach",
-      "layman": "realistic view of human nature in society"
+      "jargon": "specific conditions",
+      "layman": "real-life situations"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "alkali metals",
-      "layman": "alkali metals"
+      "layman": "soft metals like lithium, sodium, potassium"
     },
     {
       "jargon": "calcium oxalate monohydrate",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "ion pairs",
-      "layman": "charged particle pairs"
+      "layman": "charged particles that stick together"
+    },
+    {
+      "jargon": "crystal growth",
+      "layman": "crystals forming and getting bigger"
     },
     {
       "jargon": "hydration energy",
-      "layman": "energy from water wrapping around ions"
-    },
-    {
-      "jargon": "crystallization",
-      "layman": "formation of solid crystals"
+      "layman": "how strongly ions bind to water"
     }
   ],
   "methodologies": [
     {
       "jargon": "selection criterion",
-      "layman": "rule for choosing effective inhibitors"
-    },
-    {
-      "jargon": "theoretical model",
-      "layman": "scientific prediction based on theory"
+      "layman": "rule for picking the best options"
     },
     {
       "jargon": "colloidal theories",
-      "layman": "old models of how particles behave in solution"
+      "layman": "old models of how tiny particles behave"
     },
     {
-      "jargon": "ion size descriptors",
-      "layman": "measurements of ion size"
+      "jargon": "theoretical model",
+      "layman": "math-based prediction model"
     },
     {
-      "jargon": "hydration affinity",
-      "layman": "how strongly ions attract water"
+      "jargon": "ion pair hydration energy",
+      "layman": "how well ion pairs hold onto water"
+    },
+    {
+      "jargon": "crystallization",
+      "layman": "process where crystals form from solution"
     }
   ],
   "outcomes": [
     {
-      "jargon": "60% reduction in crystal growth",
+      "jargon": "60% reduction in growth rate",
       "layman": "crystal growth slowed by half"
     },
     {
-      "jargon": "distinct trend in efficacy",
+      "jargon": "distinct trend",
       "layman": "clear pattern in effectiveness"
     },
     {
-      "jargon": "inhibitors of crystal growth",
-      "layman": "substances that slow crystal formation"
+      "jargon": "cannot be explained by size",
+      "layman": "not just about how big the ion is"
     },
     {
-      "jargon": "ion pair hydration energy",
-      "layman": "energy from water bonding to ion pairs"
+      "jargon": "affinity for water",
+      "layman": "strong bond with water molecules"
     },
     {
-      "jargon": "cannot be explained by simple descriptors",
-      "layman": "not predictable by basic size or charge"
+      "jargon": "effective modifiers",
+      "layman": "good at changing crystal formation"
     }
   ]
 }

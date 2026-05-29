@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Window inference calculi",
-      "layman": "Systems for logical rule-based reasoning"
+      "layman": "Systems for logical rule inference"
     },
     {
       "jargon": "Transformation systems",
-      "layman": "Tools that change or rewrite rules"
-    },
-    {
-      "jargon": "Theorems",
-      "layman": "Proven logical statements"
+      "layman": "Rules that change or adapt systems"
     },
     {
       "jargon": "Deduction support",
-      "layman": "Help for logical reasoning"
+      "layman": "Tools that help with logical reasoning"
     },
     {
       "jargon": "Graphical user interface",
-      "layman": "Visual interface with buttons and gestures"
+      "layman": "Visual interface for users"
+    },
+    {
+      "jargon": "Gestures like drag",
+      "layman": "Drag gestures for interaction"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Compile rules",
-      "layman": "Turn rules into usable tools"
-    },
-    {
-      "jargon": "Drag-and-drop gestures",
-      "layman": "Using gestures to interact"
-    },
-    {
-      "jargon": "Transformation rules",
-      "layman": "Rules that change how things are expressed"
+      "jargon": "Compilation of rules",
+      "layman": "Turning rules into software"
     },
     {
       "jargon": "Concrete deduction support",
-      "layman": "Real-world logic help"
+      "layman": "Real-world reasoning tools"
     },
     {
-      "jargon": "Command-language-free interaction",
-      "layman": "Using gestures instead of typing commands"
+      "jargon": "User interaction by gestures",
+      "layman": "Using motions to control tools"
+    },
+    {
+      "jargon": "Drag",
+      "layman": "Moving objects with fingers"
+    },
+    {
+      "jargon": "Transformation",
+      "layman": "Changing form or structure"
     }
   ],
   "outcomes": [
     {
       "jargon": "Three instantiations",
-      "layman": "Three real-world examples"
+      "layman": "Three real uses or examples"
     },
     {
       "jargon": "Complete system",
       "layman": "Full working tool"
     },
     {
-      "jargon": "User interaction via gestures",
-      "layman": "Users interact with gestures"
+      "jargon": "Command-language-free interaction",
+      "layman": "Using gestures instead of commands"
     },
     {
       "jargon": "Proof and program development",
       "layman": "Building logic and software"
     },
     {
-      "jargon": "Generic window inference system",
-      "layman": "General system for logical reasoning"
+      "jargon": "Concrete deduction support",
+      "layman": "Real-world logic tools"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Open universes",
-      "layman": "Universe that expands forever"
+      "layman": "Universes that expand forever"
     },
     {
       "jargon": "Bubbles",
-      "layman": "Bubble-like regions of space"
+      "layman": "Separate regions of space"
     },
     {
       "jargon": "Power spectrum",
-      "layman": "Pattern of cosmic signals"
+      "layman": "Pattern of cosmic fluctuations"
     },
     {
       "jargon": "Microwave background",
-      "layman": "Faint radiation from early universe"
+      "layman": "Faint radiation from the early universe"
     },
     {
-      "jargon": "Anisotropies",
-      "layman": "Small variations in cosmic signals"
+      "jargon": "Cosmic inflation",
+      "layman": "Rapid expansion of the early universe"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Theoretical models",
-      "layman": "Scientific simulations and ideas"
-    },
-    {
-      "jargon": "Power spectrum analysis",
-      "layman": "Measuring signal patterns"
-    },
-    {
-      "jargon": "Cosmic inflation",
-      "layman": "Rapid expansion of early universe"
-    },
-    {
       "jargon": "Bubble nucleation",
-      "layman": "Formation of bubbles in space"
+      "layman": "Formation of new regions"
     },
     {
-      "jargon": "Background radiation mapping",
-      "layman": "Scanning cosmic radiation"
+      "jargon": "Theoretical modeling",
+      "layman": "Building math-based predictions"
+    },
+    {
+      "jargon": "Anisotropy analysis",
+      "layman": "Studying uneven patterns in space"
+    },
+    {
+      "jargon": "Cosmological simulations",
+      "layman": "Computer models of the universe"
+    },
+    {
+      "jargon": "Parameter fitting",
+      "layman": "Adjusting models to match data"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Recent theoretical results",
-      "layman": "New scientific predictions"
+      "jargon": "Power spectrum results",
+      "layman": "Measured imbalance pattern"
     },
     {
-      "jargon": "Power spectrum features",
-      "layman": "Distinct patterns in signals"
+      "jargon": "Inflationary dynamics",
+      "layman": "How inflation shaped the universe"
     },
     {
-      "jargon": "Cosmic structure formation",
-      "layman": "How large structures formed"
+      "jargon": "Emergent structure",
+      "layman": "Formation of large-scale patterns"
     },
     {
-      "jargon": "Anisotropy measurements",
-      "layman": "Observed variations in signals"
+      "jargon": "Gravitational waves",
+      "layman": "Ripples in space-time"
     },
     {
-      "jargon": "Model consistency",
-      "layman": "How well models match data"
+      "jargon": "Cosmic variance",
+      "layman": "Variation from one region to another"
     }
   ]
 }

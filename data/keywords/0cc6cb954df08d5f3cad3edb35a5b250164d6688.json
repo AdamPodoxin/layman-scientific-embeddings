@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Quantum cosmology",
-      "layman": "Quantum theory of the universe"
+      "layman": "Study of the universe using quantum rules"
     },
     {
       "jargon": "Arrow of time",
-      "layman": "Direction of time"
+      "layman": "Direction in which time flows"
     },
     {
       "jargon": "Cosmology",
-      "layman": "Study of the universe"
+      "layman": "Study of the universe's origin and evolution"
     },
     {
       "jargon": "Boundary condition",
-      "layman": "Initial rule for the universe"
+      "layman": "Initial rule that sets things in motion"
     },
     {
       "jargon": "Black holes",
-      "layman": "Gravity wells that suck in matter"
+      "layman": "Extreme gravity regions in space"
     }
   ],
   "methodologies": [
     {
       "jargon": "Time reversal invariance",
-      "layman": "Laws that work the same forward and backward"
+      "layman": "Laws that work the same forwards and backwards"
     },
     {
       "jargon": "Formalism",
-      "layman": "Mathematical framework"
+      "layman": "Mathematical framework for theory"
     },
     {
       "jargon": "Natural boundary condition",
-      "layman": "Simple rule that naturally applies"
-    },
-    {
-      "jargon": "Irreversible phenomena",
-      "layman": "Things that can't go back"
+      "layman": "Simple rule from nature that starts things"
     },
     {
       "jargon": "Quantum framework",
-      "layman": "Quantum-based model"
+      "layman": "Model using quantum physics"
+    },
+    {
+      "jargon": "Cosmological evolution",
+      "layman": "How the universe grows and changes over time"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Irreversible phenomena",
+      "layman": "Things that can't go backwards"
+    },
+    {
       "jargon": "Observed arrows of time",
-      "layman": "Time moving forward in reality"
+      "layman": "Time flowing in one direction as we see it"
     },
     {
       "jargon": "Consequences for black holes",
-      "layman": "Effects on black holes"
+      "layman": "Effects on black holes from time flow"
     },
     {
       "jargon": "Fundamental laws",
       "layman": "Basic rules of nature"
     },
     {
-      "jargon": "Causal structure",
-      "layman": "Cause-and-effect order"
-    },
-    {
-      "jargon": "Origin of time asymmetry",
-      "layman": "Why time has a direction"
+      "jargon": "Temporal asymmetry",
+      "layman": "Time behaving differently in different directions"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Educated farmers",
-      "layman": "Farmers with schooling"
+      "jargon": "Education externalities",
+      "layman": "Benefits of education for others"
     },
     {
-      "jargon": "Uneducated farmers",
-      "layman": "Farmers without schooling"
+      "jargon": "Farmers",
+      "layman": "Rural agricultural workers"
     },
     {
-      "jargon": "Agricultural productivity",
-      "layman": "Farm output level"
+      "jargon": "Productivity",
+      "layman": "Output per unit of input"
     },
     {
       "jargon": "Production frontier",
       "layman": "Maximum possible output"
     },
     {
-      "jargon": "Technological efficiency",
-      "layman": "How well tech is used"
+      "jargon": "Schooling",
+      "layman": "Years of formal education"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Average production function",
-      "layman": "Standard productivity model"
+      "jargon": "Average frontier production function",
+      "layman": "Average productivity model"
     },
     {
       "jargon": "Stochastic frontier production function",
-      "layman": "Statistical productivity model with noise"
+      "layman": "Productivity model with random noise"
     },
     {
       "jargon": "Internal returns to schooling",
-      "layman": "Benefits farmers get from their own education"
+      "layman": "Personal benefits of education"
     },
     {
       "jargon": "External returns to schooling",
-      "layman": "Benefits others get from a farmer's education"
+      "layman": "Benefits to others from education"
     },
     {
-      "jargon": "Efficiency measurement",
-      "layman": "How well farmers use resources"
+      "jargon": "Technology adoption",
+      "layman": "Using new farming methods"
     }
   ],
   "outcomes": [
     {
       "jargon": "Higher average farm output",
-      "layman": "More crop production"
+      "layman": "More food produced"
     },
     {
-      "jargon": "Shifting outwards of the production frontier",
-      "layman": "Farmers can produce more than before"
+      "jargon": "Shifting outwards of production frontier",
+      "layman": "Larger possible output"
     },
     {
-      "jargon": "External benefits several times higher than internal",
-      "layman": "Spillover benefits much larger than personal gains"
+      "jargon": "External benefits several times internal benefits",
+      "layman": "Spillover benefits outweigh personal gains"
     },
     {
       "jargon": "No improvement in technological efficiency",
       "layman": "No better use of existing tools"
     },
     {
-      "jargon": "Source of externalities is innovation adoption",
-      "layman": "Education spreads new farming methods"
+      "jargon": "Innovations spread through farmers",
+      "layman": "New farming techniques spread naturally"
     }
   ]
 }

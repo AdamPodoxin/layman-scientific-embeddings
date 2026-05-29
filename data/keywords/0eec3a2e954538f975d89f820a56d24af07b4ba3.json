@@ -6,7 +6,7 @@
     },
     {
       "jargon": "talents",
-      "layman": "Excellent students"
+      "layman": "Excellence in education"
     },
     {
       "jargon": "universities",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "educational reform",
-      "layman": "Changing how education is run"
+      "layman": "Changes to school systems"
     },
     {
       "jargon": "expansion of colleges and universities",
-      "layman": "Growing more schools and campuses"
+      "layman": "Growing number of colleges"
     },
     {
-      "jargon": "bureaucrat management",
-      "layman": "Top-down, rule-based control"
+      "jargon": "bureaucratic management",
+      "layman": "Top-down administrative control"
     },
     {
       "jargon": "quality education",
-      "layman": "Better, focused teaching"
+      "layman": "Good education focused on learning"
     },
     {
-      "jargon": "transformation",
-      "layman": "Major change in structure"
+      "jargon": "transform",
+      "layman": "Change structure or purpose"
     }
   ],
   "outcomes": [
     {
-      "jargon": "drawbacks",
-      "layman": "Problems"
-    },
-    {
-      "jargon": "deviation from realities",
-      "layman": "Not matching real needs"
+      "jargon": "produce excellent talents",
+      "layman": "Create top students"
     },
     {
       "jargon": "fail to produce excellent talents",
-      "layman": "Can't create top students"
+      "layman": "Fail to create top students"
     },
     {
-      "jargon": "goal of educating outstanding talents",
-      "layman": "Train great future leaders"
+      "jargon": "deviation from realities",
+      "layman": "Ignoring real-world needs"
     },
     {
-      "jargon": "successful education system",
-      "layman": "Effective and results-driven system"
+      "jargon": "pushing too fast",
+      "layman": "Rushing development"
+    },
+    {
+      "jargon": "failure of universities",
+      "layman": "University system falling short"
     }
   ]
 }

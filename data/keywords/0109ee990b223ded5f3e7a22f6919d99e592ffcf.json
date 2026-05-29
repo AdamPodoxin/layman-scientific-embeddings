@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Basic Process Algebra",
-      "layman": "Model for describing processes"
+      "layman": "Framework for modeling processes"
     },
     {
-      "jargon": "Iteration",
-      "layman": "Repeating a process"
+      "jargon": "Binary iteration",
+      "layman": "Repeating actions twice"
     },
     {
       "jargon": "Strong bisimulation equivalence",
-      "layman": "Two systems behaving the same way"
+      "layman": "Two processes behaving the same way"
     },
     {
       "jargon": "Term rewriting system",
-      "layman": "Rule-based process for transforming expressions"
+      "layman": "Rule-based process transformation"
     },
     {
       "jargon": "Normal forms",
-      "layman": "Simplified versions of expressions"
+      "layman": "Simplest form of a process"
     }
   ],
   "methodologies": [
     {
       "jargon": "Axiomatization",
-      "layman": "Set of rules defining a system"
+      "layman": "Set of formal rules for a system"
     },
     {
       "jargon": "Term rewriting system",
-      "layman": "Rule-based process for transforming expressions"
+      "layman": "Rule-based process transformation"
     },
     {
-      "jargon": "Terminating rewriting system",
-      "layman": "System that stops after a finite number of steps"
+      "jargon": "Terminating system",
+      "layman": "System that stops after a few steps"
     },
     {
-      "jargon": "Proving bisimilarity",
-      "layman": "Showing two systems behave the same"
+      "jargon": "Proof of completeness",
+      "layman": "Showing all rules cover all cases"
     },
     {
-      "jargon": "Modulo commutativity and associativity",
-      "layman": "Ignoring order and grouping in operations"
+      "jargon": "Commutativity and associativity",
+      "layman": "Operations that can be rearranged freely"
     }
   ],
   "outcomes": [
     {
       "jargon": "Completeness of equational axioms",
-      "layman": "All valid rules are captured by the system"
+      "layman": "All rules work for all cases"
     },
     {
       "jargon": "Syntactically equal",
-      "layman": "Same structure after simplification"
-    },
-    {
-      "jargon": "Strong bisimulation",
-      "layman": "Systems behave identically"
+      "layman": "Same form after simplification"
     },
     {
       "jargon": "Bisimilar normal forms",
-      "layman": "Simplified forms that are equivalent"
+      "layman": "Simplified versions that behave alike"
+    },
+    {
+      "jargon": "Strong bisimulation",
+      "layman": "Processes match in every detail"
     },
     {
       "jargon": "Proof of termination",
-      "layman": "System stops without infinite loops"
+      "layman": "System doesn\u2019t loop forever"
     }
   ]
 }

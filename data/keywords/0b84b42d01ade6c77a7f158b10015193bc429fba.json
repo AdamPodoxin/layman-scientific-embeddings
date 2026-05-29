@@ -13,34 +13,34 @@
       "layman": "Guideline for choices"
     },
     {
-      "jargon": "Application",
-      "layman": "Use case"
+      "jargon": "Designers",
+      "layman": "People building systems"
     },
     {
-      "jargon": "Deployed systems",
-      "layman": "Real-world networks"
+      "jargon": "Application",
+      "layman": "Specific use case"
     }
   ],
   "methodologies": [
     {
       "jargon": "Heuristic decision tree",
-      "layman": "Rule-based judgment tool"
+      "layman": "Rule-based decision guide"
     },
     {
-      "jargon": "Characteristics analysis",
-      "layman": "Study of key traits"
+      "jargon": "System characteristics",
+      "layman": "Key traits of a system"
     },
     {
       "jargon": "Literature review",
-      "layman": "Review of existing studies"
+      "layman": "Analyzing existing studies"
     },
     {
-      "jargon": "System evaluation",
-      "layman": "Assessing performance"
+      "jargon": "Suitability assessment",
+      "layman": "Judging if it fits"
     },
     {
-      "jargon": "Design judgment",
-      "layman": "Choosing the right setup"
+      "jargon": "Characteristics analysis",
+      "layman": "Examining features"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Good fit for use"
     },
     {
-      "jargon": "Architecture suitability",
-      "layman": "Whether the design works"
-    },
-    {
       "jargon": "Decision framework",
-      "layman": "Clear choice method"
+      "layman": "Tool for choosing"
     },
     {
-      "jargon": "Application fit",
-      "layman": "Matches the need"
+      "jargon": "Application judgment",
+      "layman": "Final decision on use"
     },
     {
-      "jargon": "Suitability judgment",
-      "layman": "Final decision on fit"
+      "jargon": "Architecture evaluation",
+      "layman": "Checking if design works"
+    },
+    {
+      "jargon": "Deployed systems",
+      "layman": "Real-world examples"
     }
   ]
 }

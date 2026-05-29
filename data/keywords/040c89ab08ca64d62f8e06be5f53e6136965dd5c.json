@@ -13,56 +13,56 @@
       "layman": "Global trade agreement"
     },
     {
-      "jargon": "Saudi Arabian SMEs",
+      "jargon": "SMEs in Saudi Arabia",
       "layman": "Small businesses in Saudi Arabia"
     },
     {
-      "jargon": "E-commerce technologies",
-      "layman": "Online business tools"
+      "jargon": "Technology-Organization-Environment framework",
+      "layman": "Model for understanding tech adoption"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Technology-Organization-Environment (TOE) framework",
-      "layman": "Model to study how tech, business, and environment affect decisions"
-    },
-    {
       "jargon": "Case study",
-      "layman": "In-depth look at real examples"
+      "layman": "In-depth look at individual examples"
     },
     {
-      "jargon": "Adoption level analysis",
-      "layman": "Measuring how much businesses use e-commerce"
+      "jargon": "TOE framework",
+      "layman": "Model for studying adoption factors"
+    },
+    {
+      "jargon": "Analysis of adoption levels",
+      "layman": "Measuring how much tech is used"
     },
     {
       "jargon": "Factor analysis",
-      "layman": "Looking at what influences decisions"
+      "layman": "Checking which elements influence decisions"
     },
     {
-      "jargon": "Implementation projects",
-      "layman": "Putting new systems into action"
+      "jargon": "Policy and management implications",
+      "layman": "What leaders should do next"
     }
   ],
   "outcomes": [
     {
       "jargon": "E-commerce adoption levels",
-      "layman": "How much e-commerce is used"
+      "layman": "How much online selling is used"
     },
     {
       "jargon": "Competitive edge",
-      "layman": "Better market position"
+      "layman": "Ability to outperform rivals"
     },
     {
-      "jargon": "Fierce competition",
-      "layman": "Strong market pressure"
+      "jargon": "Barriers to entry",
+      "layman": "Challenges for new companies"
     },
     {
-      "jargon": "Implementation challenges",
-      "layman": "Problems in putting e-commerce into use"
+      "jargon": "Implementation projects",
+      "layman": "Steps to put new tech into use"
     },
     {
-      "jargon": "Policy implications",
-      "layman": "What governments should do"
+      "jargon": "Research advancement",
+      "layman": "Better understanding of the topic"
     }
   ]
 }

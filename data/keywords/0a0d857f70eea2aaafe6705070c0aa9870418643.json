@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Boolean module",
-      "layman": "Logical structure with relations and sets"
+      "layman": "Logical structure combining algebra and relations"
     },
     {
       "jargon": "Peirce algebra",
-      "layman": "Boolean module with extra operations"
+      "layman": "Boolean module with additional relation operator"
     },
     {
       "jargon": "Relation algebra",
-      "layman": "Mathematical system for relations between sets"
+      "layman": "Algebra of relations between sets"
     },
     {
       "jargon": "Boolean algebra",
-      "layman": "System for logical true/false values"
+      "layman": "Logic system with true/false values"
     },
     {
       "jargon": "Right cylindrification",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Classical representation",
-      "layman": "Set-theoretic interpretation"
+      "layman": "Use set-theory rules directly"
     },
     {
       "jargon": "Non-additive representation",
-      "layman": "Ignoring addition rules"
+      "layman": "Ignore relation sum and negation rules"
     },
     {
       "jargon": "Non-multiplicative representation",
-      "layman": "Ignoring multiplication rules"
+      "layman": "Ignore relation intersection and negation"
     },
     {
       "jargon": "Interpretation in two-sorted algebra",
-      "layman": "Mapping into a dual system"
+      "layman": "Map into a combined structure with two types of elements"
     },
     {
       "jargon": "Equational axioms",
-      "layman": "Rules that must always hold true"
+      "layman": "Set of rules that must always be true"
     }
   ],
   "outcomes": [
     {
       "jargon": "Quasi-variety",
-      "layman": "Broad class of structures with shared rules"
+      "layman": "Class of structures following partial rules"
     },
     {
       "jargon": "Equational variety",
-      "layman": "Complete set of rules defining a class"
+      "layman": "Complete set of logical rules defining a class"
     },
     {
       "jargon": "Straight representation",
-      "layman": "Same base set for key elements"
+      "layman": "Same base set for key units"
     },
     {
-      "jargon": "Strict inclusion",
-      "layman": "One class is fully inside another"
+      "jargon": "Strict inclusions",
+      "layman": "One class is smaller and cannot be built from another"
     },
     {
-      "jargon": "Cannot be defined within",
-      "layman": "One system cannot be built from another"
+      "jargon": "KcL",
+      "layman": "One class cannot define the other using finite rules"
     }
   ]
 }

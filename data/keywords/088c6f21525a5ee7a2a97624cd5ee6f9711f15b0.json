@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Fault-tolerant systems",
-      "layman": "Systems that keep working despite faults"
+      "layman": "Systems that keep working despite failures"
     },
     {
-      "jargon": "Firm periodic tasks",
+      "jargon": "Firm tasks",
       "layman": "Tasks that can miss one instance"
     },
     {
-      "jargon": "Hard periodic tasks",
-      "layman": "Tasks that must always complete on time"
+      "jargon": "Hard tasks",
+      "layman": "Tasks that must always run on time"
     },
     {
       "jargon": "Primary job",
@@ -28,25 +28,25 @@
     },
     {
       "jargon": "Time redundancy",
-      "layman": "Using time to fix errors"
+      "layman": "Using time copies to prevent errors"
     },
     {
       "jargon": "Processor idle time",
-      "layman": "Time when processor is free"
+      "layman": "Time when processor is not busy"
     },
     {
       "jargon": "Automatic reclamation",
-      "layman": "Auto-freeing up unused time"
+      "layman": "Reclaiming saved time automatically"
     },
     {
-      "jargon": "Performance versus complexity tuning",
-      "layman": "Adjusting speed and difficulty"
+      "jargon": "Performance vs complexity tuning",
+      "layman": "Adjusting speed and effort to match needs"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Task instances satisfied within timing constraints",
-      "layman": "Tasks completed on time"
+      "jargon": "Timing constraints satisfied",
+      "layman": "Tasks run within time limits"
     },
     {
       "jargon": "Maximized processor idle time",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Spare time saved by deallocating backup jobs",
-      "layman": "Unused backup time is released"
+      "layman": "Unused backup time is freed up"
     },
     {
       "jargon": "Quality of service parameter",
-      "layman": "Rule for how often a task can miss"
+      "layman": "How much delay is allowed"
     },
     {
-      "jargon": "Conforms to application requirements",
-      "layman": "Meets specific user needs"
+      "jargon": "Balanced performance and complexity",
+      "layman": "Good results without overcomplicating"
     }
   ]
 }

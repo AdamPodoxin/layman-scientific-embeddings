@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Neutrinos",
-      "layman": "Nearly massless particles"
+      "layman": "Nearly massless particles that pass through matter"
     },
     {
       "jargon": "Neutrino oscillations",
-      "layman": "Neutrinos changing types"
+      "layman": "Neutrinos changing types as they travel"
     },
     {
       "jargon": "Flavors",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Atmospheric neutrinos",
-      "layman": "Neutrinos from cosmic rays"
+      "layman": "Neutrinos made in Earth's atmosphere"
     },
     {
       "jargon": "Solar neutrinos",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Neutrino detection",
-      "layman": "Capturing neutrino signals"
+      "jargon": "Neutrino oscillation experiments",
+      "layman": "Detecting how neutrinos change types"
     },
     {
-      "jargon": "Oscillation measurements",
-      "layman": "Tracking how neutrinos change"
+      "jargon": "Detector array",
+      "layman": "Network of sensors to catch neutrinos"
     },
     {
-      "jargon": "Beam experiments",
-      "layman": "Sending neutrino beams"
+      "jargon": "Beam neutrino experiments",
+      "layman": "Sending focused neutrino beams to detect changes"
     },
     {
-      "jargon": "Underground detectors",
-      "layman": "Deep labs to block noise"
+      "jargon": "Sterile neutrino",
+      "layman": "Hypothetical neutrino that doesn't interact"
     },
     {
-      "jargon": "Data analysis",
-      "layman": "Sorting through signals"
+      "jargon": "Data consistency checks",
+      "layman": "Verifying that results match expectations"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Data inconsistency",
+      "layman": "Results don't all match"
+    },
+    {
+      "jargon": "New physics signals",
+      "layman": "Hints of unknown laws of nature"
+    },
+    {
+      "jargon": "Mass differences",
+      "layman": "Different masses between neutrino types"
+    },
+    {
+      "jargon": "Mixing angles",
+      "layman": "Angles that describe how types combine"
+    },
+    {
       "jargon": "Oscillation probabilities",
-      "layman": "Chance of change"
-    },
-    {
-      "jargon": "Mass splitting",
-      "layman": "Different masses between types"
-    },
-    {
-      "jargon": "Discrepancies in data",
-      "layman": "Inconsistent results"
-    },
-    {
-      "jargon": "Non-standard interactions",
-      "layman": "Unexpected neutrino behavior"
-    },
-    {
-      "jargon": "New physics hints",
-      "layman": "Signs of unknown rules"
+      "layman": "Chances neutrinos switch types"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Science",
-      "layman": "System of knowledge through observation and testing"
+      "layman": "Science"
     },
     {
       "jargon": "Religion",
-      "layman": "Set of beliefs and practices about the divine"
+      "layman": "Religion"
+    },
+    {
+      "jargon": "Quantum physics",
+      "layman": "Study of very small particles"
     },
     {
       "jargon": "Copenhagen interpretation",
-      "layman": "Way of understanding quantum physics"
+      "layman": "How quantum physics explains uncertainty"
     },
+    {
+      "jargon": "Modem physics",
+      "layman": "Modern physics"
+    }
+  ],
+  "methodologies": [
     {
       "jargon": "Post-Newtonian physics",
       "layman": "Physics after Newton's laws"
     },
     {
-      "jargon": "Indeterminacy",
-      "layman": "Uncertainty in outcomes at quantum level"
-    }
-  ],
-  "methodologies": [
-    {
       "jargon": "Warfare imagery",
-      "layman": "Comparing science and religion as enemies"
+      "layman": "Comparing science and religion like opponents in battle"
     },
     {
       "jargon": "Compatibility systems",
       "layman": "Frameworks showing science and religion fit together"
     },
     {
-      "jargon": "Philosophical analysis",
-      "layman": "Thinking about ideas and beliefs"
+      "jargon": "Espousal",
+      "layman": "Adoption or acceptance of scientific ideas by religious groups"
     },
     {
-      "jargon": "Scientific discoveries",
-      "layman": "New findings from science"
-    },
-    {
-      "jargon": "Community espousal",
-      "layman": "Group acceptance of scientific ideas"
+      "jargon": "Detente",
+      "layman": "Peaceful easing of tensions"
     }
   ],
   "outcomes": [
-    {
-      "jargon": "Detente",
-      "layman": "Peaceful understanding between science and religion"
-    },
-    {
-      "jargon": "Ambiguity in physics",
-      "layman": "Unclear or open-ended results in science"
-    },
     {
       "jargon": "Victory assured to science",
       "layman": "Science seen as winning the debate"
     },
     {
-      "jargon": "Mutual complement",
-      "layman": "Each fills a gap in the other"
+      "jargon": "Ambiguity of modem physics",
+      "layman": "Uncertainty in modern physics"
+    },
+    {
+      "jargon": "Essential unity",
+      "layman": "Science and religion are parts of one whole"
+    },
+    {
+      "jargon": "Each incomplete in itself",
+      "layman": "Both science and religion have gaps"
     },
     {
       "jargon": "Earlier analyses were wrong",
-      "layman": "Old views about science and religion were incorrect"
+      "layman": "Old ideas about science and religion were incorrect"
     }
   ]
 }

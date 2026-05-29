@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Civil association",
-      "layman": "Social group based on agreements"
+      "layman": "Social groups based on agreements"
+    },
+    {
+      "jargon": "Commercial association",
+      "layman": "Business partnerships"
     },
     {
       "jargon": "Contract",
       "layman": "Agreement between people"
     },
     {
-      "jargon": "Enlightenment",
-      "layman": "Historical period of reason and progress"
-    },
-    {
-      "jargon": "Philosophical achievements",
-      "layman": "Major ideas from thinkers"
+      "jargon": "Enlightenment philosophy",
+      "layman": "Philosophy from the Enlightenment era"
     },
     {
       "jargon": "Moral philosophers",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Theory of civil association",
-      "layman": "Explanation of how societies form"
+      "layman": "Framework for understanding agreements"
     },
     {
       "jargon": "Philosophical analysis",
-      "layman": "Thinking through ideas deeply"
+      "layman": "Deep thinking about ideas"
     },
     {
-      "jargon": "Historical influence",
-      "layman": "How past ideas shape today"
+      "jargon": "Intellectual tradition",
+      "layman": "Long-standing set of beliefs and thinking"
     },
     {
-      "jargon": "Intellectual inspiration",
-      "layman": "One idea sparking others"
+      "jargon": "Influence of past writers",
+      "layman": "How earlier thinkers shaped ideas"
     },
     {
-      "jargon": "Conceptual framework",
-      "layman": "Structure for understanding ideas"
+      "jargon": "Horizon of thought",
+      "layman": "Scope of what people can imagine"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Inspired later writers",
-      "layman": "Motivated future thinkers"
+      "layman": "Influenced future thinkers"
     },
     {
       "jargon": "Restricted horizons",
       "layman": "Limited what others could explore"
     },
     {
-      "jargon": "Success in theory",
-      "layman": "Strong and accepted explanation"
+      "jargon": "Successful theory",
+      "layman": "Well-explained and accepted idea"
     },
     {
-      "jargon": "Influence on later thought",
-      "layman": "Shaped future ideas"
+      "jargon": "Philosophical achievements",
+      "layman": "Key ideas from philosophy"
     }
   ]
 }

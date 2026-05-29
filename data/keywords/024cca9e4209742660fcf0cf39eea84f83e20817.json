@@ -9,60 +9,60 @@
       "layman": "Vortices spinning in the same direction"
     },
     {
-      "jargon": "Regular polygon",
-      "layman": "Equal-sided shape"
-    },
-    {
       "jargon": "Annular vortical structure",
       "layman": "Ring-shaped whirlpool"
     },
     {
       "jargon": "Lamb-Oseen vortex",
-      "layman": "Standard whirlpool model"
+      "layman": "Standard swirling structure"
+    },
+    {
+      "jargon": "Generalized Lamb-Oseen vortex",
+      "layman": "Extended ring-shaped whirlpool"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Merger process",
-      "layman": "Combining whirlpools"
-    },
-    {
-      "jargon": "Numerical evolution",
-      "layman": "Computer simulation of flow"
+      "jargon": "Merger of vortices",
+      "layman": "Vortices combining"
     },
     {
       "jargon": "Linear stability analysis",
-      "layman": "Testing which small changes grow or fade"
+      "layman": "Testing which small changes grow fastest"
     },
     {
-      "jargon": "Reynolds number",
-      "layman": "Measure of fluid flow strength"
+      "jargon": "Numerical evolution",
+      "layman": "Computer simulation of flow change"
     },
     {
-      "jargon": "Inviscid case",
-      "layman": "Flow without viscosity"
+      "jargon": "Radial elongation",
+      "layman": "Stretching out toward center"
+    },
+    {
+      "jargon": "Azimuthal realignment",
+      "layman": "Aligning sideways to form a ring"
     }
   ],
   "outcomes": [
     {
       "jargon": "Annular vortex formation",
-      "layman": "Ring-shaped whirlpool forms"
+      "layman": "Ring-shaped whirlpool appears"
     },
     {
       "jargon": "Slowed vortex merger",
-      "layman": "Whirlpools merge slowly"
+      "layman": "Combining takes longer"
     },
     {
-      "jargon": "Radial elongation",
-      "layman": "Whirlpools stretch outward"
+      "jargon": "Chaotic merger (odd number)",
+      "layman": "Rapid and messy collapse"
     },
     {
-      "jargon": "Azimuthal reorientation",
-      "layman": "Whirlpools align around a circle"
+      "jargon": "Pairing events (even number)",
+      "layman": "Vortices merge in pairs"
     },
     {
       "jargon": "Decaying turbulence",
-      "layman": "Chaotic flow breaks down"
+      "layman": "Turbulence fades out"
     }
   ]
 }

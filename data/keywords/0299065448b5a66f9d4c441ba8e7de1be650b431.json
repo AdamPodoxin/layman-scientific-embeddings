@@ -13,26 +13,26 @@
       "layman": "Common data used by multiple processes"
     },
     {
-      "jargon": "Strong reduction strategies",
+      "jargon": "Strong reduction strategy",
       "layman": "Process of simplifying expressions under rules"
     },
     {
-      "jargon": "Lambda-calculus",
-      "layman": "Mathematical model for computation"
+      "jargon": "Lambda calculus",
+      "layman": "Foundation for functions and computation"
     }
   ],
   "methodologies": [
     {
       "jargon": "Operational semantics",
-      "layman": "Rule-based process definition"
+      "layman": "Rules for how processes evolve"
     },
     {
       "jargon": "Bisimulation equivalence",
-      "layman": "Checking if two systems behave the same"
+      "layman": "Determining if two systems behave the same"
     },
     {
       "jargon": "Axiomatization",
-      "layman": "Set of rules to define behavior"
+      "layman": "Set of rules that define behavior"
     },
     {
       "jargon": "Encoding",
@@ -40,7 +40,7 @@
     },
     {
       "jargon": "Scoping construct",
-      "layman": "Boundary for effect of a change"
+      "layman": "Boundaries for state changes"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Complete axiomatization",
-      "layman": "Full set of rules that fully describe behavior"
-    },
-    {
-      "jargon": "Finite terms",
-      "layman": "Limited and well-defined system parts"
-    },
-    {
-      "jargon": "Reduction under abstraction",
-      "layman": "Simplifying expressions inside functions"
+      "layman": "Full set of rules for all possible cases"
     },
     {
       "jargon": "Subcalculus",
       "layman": "Smaller system contained within a larger one"
+    },
+    {
+      "jargon": "Reduction under abstraction",
+      "layman": "Simplifying expressions even when inside functions"
+    },
+    {
+      "jargon": "Finite terms",
+      "layman": "Limited, manageable expressions"
     }
   ]
 }

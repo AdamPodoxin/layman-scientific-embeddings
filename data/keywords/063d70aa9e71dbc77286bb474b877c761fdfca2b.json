@@ -2,29 +2,29 @@
   "core_entities": [
     {
       "jargon": "ZnO/CuO composite",
-      "layman": "Zinc and copper oxide mixture"
+      "layman": "Zinc and copper oxide mix"
     },
     {
       "jargon": "Metal oxide composite",
-      "layman": "Mix of metal oxides"
+      "layman": "Mixed metal oxide material"
     },
     {
       "jargon": "Microelectronic circuit",
-      "layman": "Tiny electronic circuits"
+      "layman": "Tiny electronic path"
     },
     {
-      "jargon": "Piezoelectric material",
-      "layman": "Material that generates electricity from pressure"
+      "jargon": "Piezoelectric",
+      "layman": "Generates electricity from pressure"
     },
     {
       "jargon": "Fuel cell",
-      "layman": "Device that produces electricity from fuel"
+      "layman": "Device that makes electricity from fuel"
     }
   ],
   "methodologies": [
     {
       "jargon": "Electrochemical method",
-      "layman": "Electric current to create material"
+      "layman": "Electric current-based process"
     },
     {
       "jargon": "Acetate acid solution",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "FTIR analysis",
-      "layman": "Test to find chemical bonds"
+      "layman": "Test to see chemical groups"
     },
     {
-      "jargon": "Crystallite phase",
-      "layman": "Crystal form of the material"
+      "jargon": "Catalyst",
+      "layman": "Speeds up chemical reactions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Crystallite phase",
-      "layman": "Crystal form of the material"
+      "layman": "Crystal form of particles"
     },
     {
       "jargon": "Structure",
-      "layman": "Molecular arrangement"
+      "layman": "Material's internal shape"
     },
     {
       "jargon": "Functional groups",
-      "layman": "Chemical groups in the material"
+      "layman": "Chemical bonds on surface"
     },
     {
       "jargon": "Anti-bacterial agent",
       "layman": "Kills bacteria"
     },
     {
-      "jargon": "Catalyst",
-      "layman": "Speeds up chemical reactions"
+      "jargon": "Composite resulted",
+      "layman": "Material successfully formed"
     }
   ]
 }

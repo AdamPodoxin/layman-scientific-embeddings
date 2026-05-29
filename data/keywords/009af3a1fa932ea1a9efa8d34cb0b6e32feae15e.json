@@ -5,16 +5,16 @@
       "layman": "Virtual machines"
     },
     {
-      "jargon": "Operating systems",
-      "layman": "Computer operating systems"
-    },
-    {
       "jargon": "Xen",
       "layman": "Virtualization platform"
     },
     {
+      "jargon": "Operating systems",
+      "layman": "Computer systems software"
+    },
+    {
       "jargon": "Virtual memory",
-      "layman": "Computer memory in virtual form"
+      "layman": "Simulated computer memory"
     },
     {
       "jargon": "Virtual disk",
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Monitoring architecture",
-      "layman": "System design for monitoring"
+      "layman": "System for tracking performance"
     },
     {
       "jargon": "Virtual memory introspection",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Disk activity monitoring",
-      "layman": "Tracking disk usage and actions"
+      "layman": "Tracking disk usage and operations"
     },
     {
-      "jargon": "Performance tests",
-      "layman": "Testing speed and efficiency"
+      "jargon": "Performance testing",
+      "layman": "Measuring system speed and efficiency"
     }
   ],
   "outcomes": [
     {
       "jargon": "Safe access",
-      "layman": "Secure access"
+      "layman": "Secure access to data"
     },
     {
       "jargon": "Efficient access",
-      "layman": "Fast access"
+      "layman": "Fast access to data"
     },
     {
       "jargon": "Functionality",
-      "layman": "Working capabilities"
+      "layman": "Effective features"
+    },
+    {
+      "jargon": "Monitoring capabilities",
+      "layman": "Ability to track system behavior"
     },
     {
       "jargon": "Practical examples",
-      "layman": "Real-world uses"
-    },
-    {
-      "jargon": "Viability",
-      "layman": "Proven usefulness"
+      "layman": "Real-world use cases"
     }
   ]
 }

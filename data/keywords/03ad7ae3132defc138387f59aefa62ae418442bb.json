@@ -13,12 +13,12 @@
       "layman": "Official approval"
     },
     {
-      "jargon": "Computer Systems",
-      "layman": "Computer Systems"
+      "jargon": "Computer systems design",
+      "layman": "Planning computer systems"
     },
     {
-      "jargon": "Advanced Research Projects Agency",
-      "layman": "Defense research agency"
+      "jargon": "Project LOGOS",
+      "layman": "Project LOGOS"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Certification process",
-      "layman": "Official approval process"
+      "layman": "Approval process"
     },
     {
       "jargon": "System validation",
-      "layman": "Checking if systems work correctly"
+      "layman": "Checking system works as expected"
     },
     {
       "jargon": "Technical review",
       "layman": "Expert evaluation"
     },
     {
-      "jargon": "Project reporting",
-      "layman": "Sending progress updates"
+      "jargon": "Formal specification",
+      "layman": "Clear written rules for how a system works"
     }
   ],
   "outcomes": [
@@ -61,8 +61,8 @@
       "layman": "Fewer mistakes"
     },
     {
-      "jargon": "Defect identification",
-      "layman": "Finding design flaws"
+      "jargon": "Improved safety",
+      "layman": "Safer operation"
     }
   ]
 }

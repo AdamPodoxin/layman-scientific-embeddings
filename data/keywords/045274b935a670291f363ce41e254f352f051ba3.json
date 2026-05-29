@@ -10,7 +10,7 @@
     },
     {
       "jargon": "True need",
-      "layman": "Real need"
+      "layman": "Real necessity"
     },
     {
       "jargon": "Sight",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Action",
-      "layman": "Action"
+      "layman": "Behavior"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Sight, 'vision', and action",
-      "layman": "Seeing and acting"
-    },
-    {
       "jargon": "Answering and questioning",
-      "layman": "Asking and responding"
+      "layman": "Dialogue and inquiry"
     },
     {
       "jargon": "Speaking what we can",
-      "layman": "Expressing what we know"
+      "layman": "Voice and expression"
     },
     {
       "jargon": "Opening terms",
-      "layman": "Initial ideas"
+      "layman": "Initial concepts"
     },
     {
-      "jargon": "The minor characters",
-      "layman": "Supporting characters"
+      "jargon": "Vision",
+      "layman": "Perception"
+    },
+    {
+      "jargon": "Action",
+      "layman": "Behavior"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Lear and 'true need'",
-      "layman": "King's real need"
+      "jargon": "True need",
+      "layman": "Real necessity"
     },
     {
-      "jargon": "Sight, 'vision', and action",
-      "layman": "Seeing clearly and acting"
+      "jargon": "Sight",
+      "layman": "Vision"
+    },
+    {
+      "jargon": "Speaking what we can",
+      "layman": "What we can express"
     },
     {
       "jargon": "Answering and questioning",
       "layman": "Engaging in dialogue"
     },
     {
-      "jargon": "Speaking what we can",
-      "layman": "Sharing what we can"
-    },
-    {
-      "jargon": "The opening terms",
-      "layman": "Starting points"
+      "jargon": "Minor characters",
+      "layman": "Supporting figures"
     }
   ]
 }

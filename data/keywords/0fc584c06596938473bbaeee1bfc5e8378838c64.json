@@ -6,55 +6,55 @@
     },
     {
       "jargon": "B-type procyanidin oligomers",
-      "layman": "tannin chains with specific structure"
+      "layman": "complex tannin chains"
     },
     {
-      "jargon": "tetramers and pentamers",
-      "layman": "four- and five-unit tannin groups"
+      "jargon": "epicatechin",
+      "layman": "epicatechin"
     },
     {
-      "jargon": "(-)-epicatechin",
-      "layman": "main building block of tannins"
+      "jargon": "Fe2+",
+      "layman": "iron ion"
     },
     {
-      "jargon": "metal ions (Fe2+, Cu2+, Zn2+)",
-      "layman": "important metal atoms in body"
+      "jargon": "Cu2+",
+      "layman": "copper ion"
     }
   ],
   "methodologies": [
     {
-      "jargon": "inductively coupled plasma mass spectrometry (ICP-MS)",
-      "layman": "test to measure metal amounts"
+      "jargon": "spectroscopy methods",
+      "layman": "light-based testing"
     },
     {
-      "jargon": "thermogravimetry analysis (TGA)",
+      "jargon": "inductively coupled plasma mass spectrometry",
+      "layman": "metal detection tool"
+    },
+    {
+      "jargon": "thermogravimetry analysis",
       "layman": "heat-based weight measurement"
     },
     {
-      "jargon": "field emission scanning electron microscopy (FE-SEM)",
-      "layman": "microscope to see tiny structures"
-    },
-    {
-      "jargon": "fluorescence quenching",
-      "layman": "light emission stops when metals are present"
+      "jargon": "field emission scanning electron microscopy",
+      "layman": "microscope with high-resolution images"
     },
     {
       "jargon": "catechol group-ion exchange",
-      "layman": "tannin groups swap with metal ions"
+      "layman": "chemical group swapping with ions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "binding constants",
-      "layman": "how strongly tannins bind metals"
+      "jargon": "fluorescence quenching",
+      "layman": "light emission blocks"
     },
     {
-      "jargon": "binding sites",
-      "layman": "where metals attach to tannins"
+      "jargon": "binding constants",
+      "layman": "how strongly things stick"
     },
     {
       "jargon": "Gibbs energy changes",
-      "layman": "energy released when metals bind"
+      "layman": "energy released when bonding"
     },
     {
       "jargon": "effectiveness of precipitation",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "metal content in coprecipitates",
-      "layman": "percent of metal in the final mix"
+      "layman": "how much metal stays in the mix"
     }
   ]
 }

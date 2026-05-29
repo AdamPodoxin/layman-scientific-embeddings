@@ -1,56 +1,68 @@
 {
-	"core_entities": [
-		{
-			"jargon": "QCD invariant coupling",
-			"layman": "Strong force strength"
-		},
-		{
-			"jargon": "Infrared region",
-			"layman": "Low-energy behavior"
-		},
-		{
-			"jargon": "Functional integral",
-			"layman": "Mathematical energy sum"
-		},
-		{
-			"jargon": "Dyson--Schwinger equations",
-			"layman": "Equations for force behavior"
-		},
-		{
-			"jargon": "Propagators",
-			"layman": "Particle movement paths"
-		}
-	],
-	"methodologies": [
-		{
-			"jargon": "Lattice simulations",
-			"layman": "Computer grid modeling"
-		},
-		{
-			"jargon": "Solution of approximate Dyson--Schwinger equations",
-			"layman": "Solving force equations"
-		}
-	],
-	"outcomes": [
-		{
-			"jargon": "Puzzling variety of IR behavior",
-			"layman": "Strange low-energy patterns"
-		},
-		{
-			"jargon": "Question of correspondence between results",
-			"layman": "Conflicting findings"
-		},
-		{
-			"jargon": "IR behavior of effective QCD coupling",
-			"layman": "How force behaves at low energy"
-		},
-		{
-			"jargon": "Not a well-defined question",
-			"layman": "Unclear or ambiguous"
-		},
-		{
-			"jargon": "Needs to be more specified",
-			"layman": "Requires clearer definition"
-		}
-	]
+  "core_entities": [
+    {
+      "jargon": "QCD invariant coupling",
+      "layman": "Strong force coupling"
+    },
+    {
+      "jargon": "Infrared region",
+      "layman": "Low-energy behavior"
+    },
+    {
+      "jargon": "Lattice simulations",
+      "layman": "Computer models of space-time"
+    },
+    {
+      "jargon": "Dyson-Schwinger equations",
+      "layman": "Math equations for particle interactions"
+    },
+    {
+      "jargon": "Propagators",
+      "layman": "How particles move through space"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lattice simulations",
+      "layman": "Computer models of space-time"
+    },
+    {
+      "jargon": "Solution of Dyson-Schwinger equations",
+      "layman": "Solving math equations for particle behavior"
+    },
+    {
+      "jargon": "Functional integral",
+      "layman": "Math method to sum all possible paths"
+    },
+    {
+      "jargon": "Mass-dependent coupling transformations",
+      "layman": "Adjusting force strength based on mass"
+    },
+    {
+      "jargon": "Nonperturbative results",
+      "layman": "Results not based on small approximations"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Puzzling variety of IR behavior",
+      "layman": "Strange range of low-energy results"
+    },
+    {
+      "jargon": "Question of correspondence",
+      "layman": "Confusion over matching results"
+    },
+    {
+      "jargon": "IR behavior not well-defined",
+      "layman": "Low-energy behavior unclear"
+    },
+    {
+      "jargon": "Need for more specification",
+      "layman": "Need for clearer questions"
+    },
+    {
+      "jargon": "Effective QCD coupling",
+      "layman": "How strong the force actually is"
+    }
+  ]
 }

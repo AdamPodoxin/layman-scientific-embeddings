@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Investment banking",
-      "layman": "High-paying finance jobs"
+      "layman": "High-risk financial job"
     },
     {
       "jargon": "Moral hazard",
-      "layman": "Workers taking risks due to trust"
+      "layman": "Workers taking risky actions"
     },
     {
       "jargon": "Up-or-out contracts",
-      "layman": "Either get promoted or get fired"
+      "layman": "Reward based on performance"
     },
     {
       "jargon": "Long work hours",
-      "layman": "Working many hours a day"
+      "layman": "Very long workdays"
     },
     {
       "jargon": "Dynamic segregation",
-      "layman": "Workers split into different career paths"
+      "layman": "Separation of workers by career path"
     }
   ],
   "methodologies": [
     {
       "jargon": "Optimal dynamic contracting",
-      "layman": "Best way to set pay over time"
+      "layman": "Best strategy for long-term job agreements"
     },
     {
-      "jargon": "Labor market segmentation",
-      "layman": "Workers divided into different job groups"
+      "jargon": "Labour market segmentation",
+      "layman": "Workers split into different job groups"
     },
     {
-      "jargon": "Countercyclical productivity",
-      "layman": "Productivity changes with economy"
+      "jargon": "Cyclical productivity",
+      "layman": "Productivity rises and falls with economy"
+    },
+    {
+      "jargon": "Talent misallocation",
+      "layman": "Top talent placed in wrong jobs"
     },
     {
       "jargon": "Career entry timing",
       "layman": "When workers join the job market"
-    },
-    {
-      "jargon": "Talent valuation",
-      "layman": "How valuable a worker's skills are"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Overpaying jobs",
-      "layman": "Jobs that pay more than fair"
+      "jargon": "Overpayment",
+      "layman": "Workers paid more than fair value"
     },
     {
       "jargon": "Life-long negative implications",
-      "layman": "Bad effects that last a lifetime"
-    },
-    {
-      "jargon": "Job placement limits",
-      "layman": "Limited job options later in life"
+      "layman": "Bad career start harms future jobs"
     },
     {
       "jargon": "Countercyclical productivity",
-      "layman": "Productivity goes up when economy does down"
+      "layman": "Workers produce more when economy is strong"
+    },
+    {
+      "jargon": "Talent lured into jobs",
+      "layman": "Good workers are attracted to risky jobs"
     },
     {
       "jargon": "Too hard to manage",
-      "layman": "Too difficult to supervise"
+      "layman": "Highly skilled workers are hard to control"
     }
   ]
 }

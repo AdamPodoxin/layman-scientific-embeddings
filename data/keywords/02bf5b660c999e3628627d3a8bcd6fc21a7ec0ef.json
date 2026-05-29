@@ -1,33 +1,33 @@
 {
   "core_entities": [
     {
-      "jargon": "Anti-B meson",
-      "layman": "Antiparticle of B meson"
+      "jargon": "anti-B ---> Xc l anti-nu l",
+      "layman": "Particle decay process"
     },
     {
-      "jargon": "Charm quark",
-      "layman": "Type of quark in particles"
+      "jargon": "charm-quark mass",
+      "layman": "Mass of a type of quark"
     },
     {
-      "jargon": "Neutrino",
-      "layman": "Nearly massless particle"
+      "jargon": "hadronic tensor",
+      "layman": "Force description in particle decay"
     },
     {
-      "jargon": "CKM element",
-      "layman": "Component of quark mixing"
+      "jargon": "CKM element |Vub|",
+      "layman": "Measuring particle mixing"
     },
     {
-      "jargon": "Hadronic tensor",
-      "layman": "Measure of particle interactions"
+      "jargon": "Xc decays",
+      "layman": "Charm particle decays"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Power counting",
+      "jargon": "power counting",
       "layman": "Estimating size of effects"
     },
     {
-      "jargon": "Effective field theory",
+      "jargon": "effective field-theory methods",
       "layman": "Simplified physics model"
     },
     {
@@ -35,34 +35,34 @@
       "layman": "High-precision calculation"
     },
     {
-      "jargon": "Shape-function region",
-      "layman": "Part of decay behavior"
+      "jargon": "partially integrated spectra",
+      "layman": "Partial decay pattern analysis"
     },
     {
-      "jargon": "Radiative corrections",
-      "layman": "Adjustments for energy loss"
+      "jargon": "strong coupling constant",
+      "layman": "Strength of force in decay"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Shape-function independent relation",
-      "layman": "Decay pattern not affected by shape"
+      "jargon": "shape-function independent relation",
+      "layman": "Decay pattern link without shape bias"
     },
     {
-      "jargon": "Partially integrated spectra",
-      "layman": "Partial decay data"
+      "jargon": "first-order corrections in strong coupling",
+      "layman": "Small force-based adjustments"
     },
     {
-      "jargon": "First-order corrections",
-      "layman": "Small adjustments in results"
+      "jargon": "leading power in 1/mb",
+      "layman": "Main effect at large scale"
     },
     {
-      "jargon": "Cross-check on |Vub|",
-      "layman": "Independent verification of measurement"
+      "jargon": "independent cross-check",
+      "layman": "Alternative verification method"
     },
     {
-      "jargon": "Leading power in 1/mb",
-      "layman": "Main effect from heavy quark mass"
+      "jargon": "determination of |Vub|",
+      "layman": "Measuring a key particle value"
     }
   ]
 }

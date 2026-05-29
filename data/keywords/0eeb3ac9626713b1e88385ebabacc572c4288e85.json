@@ -5,64 +5,64 @@
       "layman": "Modernist style"
     },
     {
-      "jargon": "Postmodernism",
-      "layman": "Postmodern style"
+      "jargon": "Post-classical narration",
+      "layman": "Non-traditional storytelling"
     },
     {
-      "jargon": "Post-classical narration",
-      "layman": "Narrative after classical films"
+      "jargon": "Avant-garde cinema",
+      "layman": "Experimental film"
     },
     {
       "jargon": "Art-house film",
       "layman": "Independent cinema"
     },
     {
-      "jargon": "Avant-garde cinema",
-      "layman": "Experimental film"
+      "jargon": "Greek New Cinema",
+      "layman": "New Greek film movement"
     }
   ],
   "methodologies": [
     {
       "jargon": "Aesthetic trajectory",
-      "layman": "Evolution of style"
+      "layman": "Style evolution over time"
     },
     {
-      "jargon": "Stylistic forms of antithesis",
+      "jargon": "Stylistic antithesis",
       "layman": "Contrasting styles"
     },
     {
-      "jargon": "Authorship",
-      "layman": "Director's creative control"
+      "jargon": "Authorship analysis",
+      "layman": "Examining the director's role"
     },
     {
-      "jargon": "Influences from international directors",
-      "layman": "Inspiration from foreign filmmakers"
+      "jargon": "Influence tracing",
+      "layman": "Following artistic inspiration"
     },
     {
-      "jargon": "Discourse of postmodernism",
-      "layman": "Talk about postmodern ideas"
+      "jargon": "Discourse analysis",
+      "layman": "Studying the language of film theory"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Evolution and continuity",
-      "layman": "Change with consistency"
+      "jargon": "Stylistic continuity",
+      "layman": "Consistent style over time"
     },
     {
-      "jargon": "Stylistic opposition",
-      "layman": "Opposing film styles"
-    },
-    {
-      "jargon": "Greek 'weird' wave",
-      "layman": "Unique Greek film movement"
+      "jargon": "Evolution of style",
+      "layman": "Change in artistic style"
     },
     {
       "jargon": "Aesthetic choices",
-      "layman": "Visual and stylistic decisions"
+      "layman": "Visual and thematic decisions"
     },
     {
-      "jargon": "Return to modernist vocabulary",
-      "layman": "Going back to modern style"
+      "jargon": "Postmodernism discourse",
+      "layman": "Talk about postmodern film ideas"
+    },
+    {
+      "jargon": "Greek weird wave",
+      "layman": "Unusual Greek film trend"
     }
   ]
 }

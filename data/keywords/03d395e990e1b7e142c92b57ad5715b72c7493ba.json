@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Industrial track",
-      "layman": "Industry-focused competition track"
+      "layman": "Business-focused competition track"
     }
   ],
   "methodologies": [
@@ -35,12 +35,12 @@
       "layman": "Experts check each other's work"
     },
     {
-      "jargon": "Data collection",
-      "layman": "Gathering information"
+      "jargon": "Data mining",
+      "layman": "Finding patterns in large data sets"
     },
     {
-      "jargon": "Statistical analysis",
-      "layman": "Mathematical examination of data"
+      "jargon": "Controlled experiment",
+      "layman": "Test with consistent conditions"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Programmed cell death"
     },
     {
-      "jargon": "Increased efficacy",
-      "layman": "Greater effectiveness"
+      "jargon": "Increased tumor growth",
+      "layman": "Cancer spreads faster"
     },
     {
       "jargon": "Reduced inflammation",
-      "layman": "Less swelling and irritation"
+      "layman": "Swelling and pain decrease"
     },
     {
-      "jargon": "Positive correlation",
-      "layman": "Two things change together"
+      "jargon": "Therapeutic efficacy",
+      "layman": "Treatment works well"
     }
   ]
 }

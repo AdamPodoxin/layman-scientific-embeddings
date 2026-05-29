@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Mobile Commerce",
-      "layman": "Mobile shopping"
+      "layman": "Mobile commerce"
     },
     {
       "jargon": "Customer retention",
@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Web 2.0",
-      "layman": "Interactive web tools"
+      "layman": "Interactive web platforms"
     },
     {
       "jargon": "Marketing channels",
       "layman": "Ways to promote products"
     },
     {
-      "jargon": "Service quality",
-      "layman": "How good the service is"
+      "jargon": "Service improvement",
+      "layman": "Better customer service"
     }
   ],
   "methodologies": [
@@ -40,13 +40,13 @@
     },
     {
       "jargon": "Order of introduction",
-      "layman": "When to launch a tool"
+      "layman": "Timing of launch"
     }
   ],
   "outcomes": [
     {
       "jargon": "Retention rates",
-      "layman": "How many stay"
+      "layman": "Customer stay rates"
     },
     {
       "jargon": "Optimal diffusion",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Acceptance of Web 2.0",
-      "layman": "How well people adopt it"
+      "layman": "Users adopting new features"
     },
     {
       "jargon": "Interactive possibilities",
-      "layman": "Engaging features"
+      "layman": "Engaging user features"
     }
   ]
 }

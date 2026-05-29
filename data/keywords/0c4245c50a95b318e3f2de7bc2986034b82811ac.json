@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Granitoids",
-      "layman": "Hard rock formed from cooled magma"
+      "layman": "Hard igneous rocks from deep underground"
     },
     {
       "jargon": "Metamorphic rocks",
@@ -14,33 +14,33 @@
     },
     {
       "jargon": "Flysch deposits",
-      "layman": "Layered sedimentary rocks from underwater slopes"
+      "layman": "Layers of folded sedimentary rocks"
     },
     {
       "jargon": "Accretionary complex",
-      "layman": "Stack of rocks pushed onto a continent"
+      "layman": "Mountain-like pile of scraped rocks"
     }
   ],
   "methodologies": [
     {
       "jargon": "Geological mapping",
-      "layman": "Mapping rock types and features"
+      "layman": "Mapping rock types and structures"
     },
     {
       "jargon": "Geophysical mapping",
-      "layman": "Using instruments to detect underground structures"
+      "layman": "Measuring Earth's physical properties"
     },
     {
       "jargon": "Fault interpretation",
-      "layman": "Identifying cracks in rock that shifted"
+      "layman": "Reading signs of broken rock lines"
     },
     {
       "jargon": "Sedimentary basin formation",
-      "layman": "Creating a basin for sediment to build up"
+      "layman": "Creating a basin for sediments to build up"
     },
     {
-      "jargon": "Underthrusting migration",
-      "layman": "Movement of subduction zone northward"
+      "jargon": "Uplift",
+      "layman": "Rising of land due to tectonic forces"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Three distinct rock regions"
     },
     {
-      "jargon": "Uplift of melange ridge",
-      "layman": "Ridge of mixed rocks rising above ground"
+      "jargon": "Northwest Kalimantan domain",
+      "layman": "Northern rock region"
     },
     {
-      "jargon": "Half graben extensional basin",
-      "layman": "Split basin formed by stretching"
+      "jargon": "Schwaner Mountains domain",
+      "layman": "Mountainous rock region"
     },
     {
-      "jargon": "Lacustrine deposits",
-      "layman": "Lake sediment layers"
+      "jargon": "Half graben basin",
+      "layman": "Splitting basin between mountains and crust"
     },
     {
-      "jargon": "South-dipping subduction zone",
-      "layman": "Subduction zone dipping southward"
+      "jargon": "Melange ridge",
+      "layman": "Messed-up rock ridge"
     }
   ]
 }

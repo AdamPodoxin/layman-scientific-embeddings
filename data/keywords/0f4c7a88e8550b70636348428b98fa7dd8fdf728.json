@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "2,3-Dimethyl-5-hydroxy-6-aminopyrimidine-4(3H)-one",
-      "layman": "Special nitrogen-containing ring compound"
+      "layman": "Special ring-shaped molecule"
     },
     {
       "jargon": "Copper(II) ions",
-      "layman": "Copper atoms in +2 charge state"
+      "layman": "Copper atoms in a specific form"
     },
     {
       "jargon": "Molecular oxygen",
-      "layman": "Regular air oxygen"
+      "layman": "Regular oxygen in molecules"
     },
     {
       "jargon": "Hydroxylation",
       "layman": "Adding a hydroxyl group"
     },
     {
-      "jargon": "Trihydroxy compound",
-      "layman": "Compound with three hydroxyl groups"
+      "jargon": "Aqueous solutions",
+      "layman": "Water-based mixtures"
     }
   ],
   "methodologies": [
     {
       "jargon": "CuCl2-mediated hydroxylation",
-      "layman": "Copper chloride helps add oxygen"
+      "layman": "Using copper chloride to add oxygen"
     },
     {
       "jargon": "Catalytic hydroxylation",
-      "layman": "Chemical reaction sped up by a catalyst"
+      "layman": "Reaction sped up by a catalyst"
     },
     {
-      "jargon": "Aqueous solutions",
-      "layman": "Water-based reactions"
+      "jargon": "Reaction in non-aqueous solutions",
+      "layman": "Reaction without water"
     },
     {
-      "jargon": "Non-aqueous solutions",
-      "layman": "Reactions without water"
+      "jargon": "Oxygen use in aqueous solution",
+      "layman": "Oxygen used in water"
     },
     {
-      "jargon": "Oxygen-mediated reaction",
-      "layman": "Reaction driven by oxygen gas"
+      "jargon": "Presence of copper(II) ions",
+      "layman": "Copper ions being used in the reaction"
     }
   ],
   "outcomes": [
     {
       "jargon": "Formation of 2,3-dimethyl-5,5,6-trihydroxy-6-aminopyrimidine-4(3H)-one",
-      "layman": "New compound with three hydroxyl groups formed"
+      "layman": "New molecule with three added hydroxyl groups"
     },
     {
-      "jargon": "Hydroxylation at C5 and C6 positions",
-      "layman": "Oxygen added to specific ring positions"
+      "jargon": "Hydroxylation reaction proceeds",
+      "layman": "The reaction happens successfully"
     },
     {
-      "jargon": "Reaction in aqueous phase",
-      "layman": "Reaction works in water"
+      "jargon": "Copper(II) and oxygen work together",
+      "layman": "Copper and oxygen work in tandem"
     },
     {
-      "jargon": "Efficient oxygen use",
-      "layman": "Oxygen is used effectively"
+      "jargon": "Aqueous system produces product",
+      "layman": "Product forms in water"
     },
     {
-      "jargon": "Copper(II) catalysis",
-      "layman": "Copper speeds up the reaction"
+      "jargon": "Product has additional oxygen atoms",
+      "layman": "More oxygen added to the compound"
     }
   ]
 }

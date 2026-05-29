@@ -13,8 +13,8 @@
       "layman": "types"
     },
     {
-      "jargon": "single laws",
-      "layman": "general rules"
+      "jargon": "laws",
+      "layman": "rules"
     },
     {
       "jargon": "all sloops",
@@ -23,34 +23,34 @@
   ],
   "methodologies": [
     {
+      "jargon": "give single laws",
+      "layman": "create one rule for all"
+    },
+    {
+      "jargon": "variety of all",
+      "layman": "all types of"
+    },
+    {
       "jargon": "single laws",
-      "layman": "general rules"
+      "layman": "one rule"
     },
     {
-      "jargon": "variety",
-      "layman": "types"
+      "jargon": "much diversity",
+      "layman": "many different types"
     },
     {
-      "jargon": "give",
-      "layman": "provide"
-    },
-    {
-      "jargon": "all",
-      "layman": "every"
-    },
-    {
-      "jargon": "for",
-      "layman": "about"
+      "jargon": "underlying patterns",
+      "layman": "common rules"
     }
   ],
   "outcomes": [
     {
       "jargon": "single laws for sloops",
-      "layman": "rules that apply to all sloops"
+      "layman": "one rule for all sloops"
     },
     {
       "jargon": "single laws for squags",
-      "layman": "rules that apply to all squags"
+      "layman": "one rule for all squags"
     },
     {
       "jargon": "variety of all sloops",
@@ -61,8 +61,8 @@
       "layman": "all types of squags"
     },
     {
-      "jargon": "the variety",
-      "layman": "the types"
+      "jargon": "unified principles",
+      "layman": "one set of rules"
     }
   ]
 }

@@ -1,7 +1,7 @@
 {
   "core_entities": [
     {
-      "jargon": "Business-to-business (B2B) e-commerce",
+      "jargon": "Business-to-business e-commerce",
       "layman": "Online transactions between companies"
     },
     {
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Motivation costs",
-      "layman": "Costs of keeping partners motivated"
+      "layman": "Costs of keeping parties working together"
     },
     {
       "jargon": "Informational asymmetries",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Conceptual framework",
-      "layman": "Model to organize ideas"
+      "layman": "Guiding model for understanding"
     },
     {
       "jargon": "Process improvements",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Marketplace benefits",
-      "layman": "Advantages of online marketplaces"
+      "layman": "Advantages from online marketplaces"
     },
     {
       "jargon": "Indirect improvements",
-      "layman": "Unseen efficiency gains"
+      "layman": "Hidden efficiency gains"
     },
     {
       "jargon": "Performance comparison",
-      "layman": "Comparing results between systems"
+      "layman": "Measuring differences between systems"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Reduces coordination costs",
-      "layman": "Makes deals easier to manage"
+      "jargon": "Reduced coordination costs",
+      "layman": "Lower organizing costs"
     },
     {
-      "jargon": "Increases efficiency",
-      "layman": "Work is done better and faster"
+      "jargon": "Increased efficiency",
+      "layman": "Better performance"
     },
     {
       "jargon": "Large process improvements",
-      "layman": "Big workflow gains"
+      "layman": "Major workflow gains"
     },
     {
       "jargon": "Large marketplace benefits",
-      "layman": "Big advantages from online marketplaces"
+      "layman": "Big advantages in online trading"
     },
     {
       "jargon": "Mixed evidence of motivation costs",
-      "layman": "Unclear impact on motivation"
+      "layman": "Unclear effect on incentives"
     }
   ]
 }

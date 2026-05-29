@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Revision sequences",
-      "layman": "Step-by-step truth updates"
+      "layman": "Sequence of truth updates"
     },
     {
       "jargon": "Cofinally invariant sequences",
-      "layman": "Sequences that stabilize at the end"
+      "layman": "Sequences that remain stable at the end"
     },
     {
-      "jargon": "Truth theories",
-      "layman": "Theories about truth"
+      "jargon": "Truth",
+      "layman": "Fact that is true"
+    },
+    {
+      "jargon": "Transfinite sequences",
+      "layman": "Infinite sequences"
     },
     {
       "jargon": "Herzberger's theory",
-      "layman": "One truth theory by Herzberger"
-    },
-    {
-      "jargon": "Gupta's theory",
-      "layman": "One truth theory by Gupta"
+      "layman": "Theory of truth based on revision"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Generalize",
-      "layman": "Make broader or more abstract"
+      "jargon": "Generalise",
+      "layman": "Expand to broader cases"
     },
     {
-      "jargon": "Develop",
-      "layman": "Create or build"
+      "jargon": "Develop revision theories",
+      "layman": "Build models for how truth changes"
     },
     {
-      "jargon": "Prove",
-      "layman": "Show something is true"
+      "jargon": "Introduce mathematical tools",
+      "layman": "Create new math methods"
     },
     {
-      "jargon": "Introduce",
-      "layman": "Present for the first time"
+      "jargon": "Prove old results",
+      "layman": "Show known facts are valid"
     },
     {
-      "jargon": "Show that facts hold",
-      "layman": "Verify known results"
+      "jargon": "Show facts hold",
+      "layman": "Demonstrate results remain true"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Better explanations of old results"
     },
     {
-      "jargon": "Mathematical tool",
-      "layman": "Tool for solving problems"
+      "jargon": "Sequences remain stable",
+      "layman": "Patterns don't change at the end"
     },
     {
-      "jargon": "Transfinite sequences",
-      "layman": "Infinite sequences of steps"
+      "jargon": "Theories are consistent",
+      "layman": "Models work together without contradiction"
     },
     {
-      "jargon": "Abstract kind of sequences",
-      "layman": "More general sequences"
+      "jargon": "Abstract sequences apply to known cases",
+      "layman": "General model matches real theories"
     }
   ]
 }

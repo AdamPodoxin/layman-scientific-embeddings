@@ -2,15 +2,11 @@
   "core_entities": [
     {
       "jargon": "Spirituality of the desert",
-      "layman": "Seeking the divine in solitude"
+      "layman": "Desert-based spiritual journey"
     },
     {
       "jargon": "Origen of Alexandria",
       "layman": "Ancient theologian from Alexandria"
-    },
-    {
-      "jargon": "Desert",
-      "layman": "Remote, quiet place"
     },
     {
       "jargon": "Divine encounter",
@@ -18,13 +14,17 @@
     },
     {
       "jargon": "Inner voice",
-      "layman": "Personal intuition"
+      "layman": "Personal inner guidance"
+    },
+    {
+      "jargon": "Desert",
+      "layman": "Remote, quiet, isolated place"
     }
   ],
   "methodologies": [
     {
       "jargon": "Mystic phenomenology",
-      "layman": "Studying mystical experiences"
+      "layman": "Study of spiritual experiences"
     },
     {
       "jargon": "Theological reflection",
@@ -35,34 +35,34 @@
       "layman": "Sermons based on the Exodus story"
     },
     {
-      "jargon": "Analytical framework",
-      "layman": "Systematic way of examining ideas"
+      "jargon": "Analytical critique",
+      "layman": "Careful examination and evaluation"
     },
     {
       "jargon": "Historical influence",
-      "layman": "Impact over time"
+      "layman": "Impact through time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Freedom",
-      "layman": "Being unbound and free"
+      "layman": "Being free from constraints"
     },
     {
       "jargon": "Peace",
-      "layman": "Inner calm"
+      "layman": "Deep inner calm"
     },
     {
-      "jargon": "Risk and uncertainty",
-      "layman": "Doubt and danger"
+      "jargon": "Inner guidance",
+      "layman": "Clear spiritual direction"
     },
     {
-      "jargon": "Success in search of God",
-      "layman": "Finding God through struggle"
+      "jargon": "Risk-taking journey",
+      "layman": "Choosing to go into uncertainty"
     },
     {
-      "jargon": "Validity for contemporary world",
-      "layman": "Relevance today"
+      "jargon": "Spiritual validity",
+      "layman": "Spiritual meaning that holds true"
     }
   ]
 }

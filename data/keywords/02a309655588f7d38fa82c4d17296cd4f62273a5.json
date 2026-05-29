@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Equivalence relations",
-      "layman": "Equal-status connections"
+      "layman": "Equalities between things"
     },
     {
       "jargon": "Monomorphisms",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Protomodular categories",
-      "layman": "Generalized mathematical structures"
+      "layman": "General mathematical structures"
     },
     {
       "jargon": "Finitely complete categories",
       "layman": "Categories with basic structure"
     },
     {
-      "jargon": "Connector",
-      "layman": "Internal structure component"
+      "jargon": "Connectors",
+      "layman": "Internal link structures"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Internal structure of connector",
-      "layman": "Detailed internal setup"
+      "jargon": "Internal structure analysis",
+      "layman": "Examining internal parts"
     },
     {
-      "jargon": "Analyse centrality",
-      "layman": "Study central properties"
+      "jargon": "Normal monomorphisms",
+      "layman": "Special one-to-one links"
     },
     {
-      "jargon": "Prove new results",
-      "layman": "Show new findings"
-    },
-    {
-      "jargon": "Work in general context",
-      "layman": "Apply broadly"
+      "jargon": "Maltsev categories",
+      "layman": "A type of mathematical system"
     },
     {
       "jargon": "Barr exactness assumption",
-      "layman": "Standard requirement in math"
+      "layman": "A common assumption in math"
+    },
+    {
+      "jargon": "General context approach",
+      "layman": "Working in broad settings"
     }
   ],
   "outcomes": [
     {
       "jargon": "Classical results",
-      "layman": "Known findings"
+      "layman": "Known mathematical facts"
     },
     {
       "jargon": "New results",
-      "layman": "New discoveries"
+      "layman": "New mathematical discoveries"
     },
     {
-      "jargon": "Clarify classical results",
-      "layman": "Make known results clearer"
-    },
-    {
-      "jargon": "General context",
-      "layman": "Broader applicability"
+      "jargon": "Clarified results",
+      "layman": "Better understood facts"
     },
     {
       "jargon": "Without Barr exactness",
-      "layman": "Without strict conditions"
+      "layman": "Without needing that rule"
+    },
+    {
+      "jargon": "Centrality in equivalence",
+      "layman": "Core role of equalities"
     }
   ]
 }

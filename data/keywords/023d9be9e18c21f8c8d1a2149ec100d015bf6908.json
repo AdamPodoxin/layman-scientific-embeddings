@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Graphic elements",
-      "layman": "Visual objects"
+      "layman": "Visual components"
     },
     {
-      "jargon": "Spatial relationship",
-      "layman": "Positioning between objects"
+      "jargon": "Connectivity function",
+      "layman": "Linking between elements"
     },
     {
       "jargon": "Working area",
       "layman": "Available space"
     },
     {
-      "jargon": "Connectivity function",
-      "layman": "Linking between objects"
+      "jargon": "Relation element",
+      "layman": "Connection line or path"
     },
     {
       "jargon": "Self-adaptive system",
-      "layman": "System that adjusts automatically"
+      "layman": "System that adjusts on its own"
     }
   ],
   "methodologies": [
@@ -28,25 +28,25 @@
     },
     {
       "jargon": "Neighbourhood modeling",
-      "layman": "Modeling nearby areas"
+      "layman": "Modeling nearby elements"
     },
     {
-      "jargon": "Relation space management",
-      "layman": "Managing space for connections"
-    },
-    {
-      "jargon": "Automated connection",
-      "layman": "Auto-linking objects"
+      "jargon": "Automatic connection",
+      "layman": "Auto-creating links"
     },
     {
       "jargon": "Adaptation mechanism",
-      "layman": "Adjustment process"
+      "layman": "Adjusting process"
+    },
+    {
+      "jargon": "Decision-making mechanisms",
+      "layman": "Choosing the right option"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Irregular occupation",
-      "layman": "Unusual placement"
+      "jargon": "Irregular placement",
+      "layman": "Wrong positioning"
     },
     {
       "jargon": "Manual rearrangement",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Flexible adaptation",
-      "layman": "Easy adjustment"
+      "layman": "Easy and smart adjustments"
     },
     {
       "jargon": "User-friendly tool",
-      "layman": "Easy for users to use"
+      "layman": "Easy to use"
     },
     {
-      "jargon": "Improved working environment",
-      "layman": "Better available space"
+      "jargon": "Improved workspace",
+      "layman": "Better space for work"
     }
   ]
 }

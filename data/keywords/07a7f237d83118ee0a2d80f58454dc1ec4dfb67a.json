@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "nanometer crystalline particles",
-      "layman": "tiny crystal particles"
+      "jargon": "cerium zirconium nanoscale particles",
+      "layman": "Tiny metal pieces"
+    },
+    {
+      "jargon": "mesostructured material",
+      "layman": "Structured material with tiny holes"
     },
     {
       "jargon": "solid solution-like metal mesostructured material",
-      "layman": "metal structure with mixed atoms"
-    },
-    {
-      "jargon": "cerium, zirconium",
-      "layman": "cerium and zirconium"
+      "layman": "Metal structure with mixed atoms"
     },
     {
       "jargon": "metal oxide",
-      "layman": "metal combined with oxygen"
+      "layman": "Metal combined with oxygen"
     },
     {
       "jargon": "rare earth metals",
-      "layman": "uncommon metals"
+      "layman": "Uncommon metals"
     }
   ],
   "methodologies": [
     {
       "jargon": "dispersed in the inorganic layer",
-      "layman": "spread evenly in a solid layer"
+      "layman": "Spread thinly in a solid layer"
     },
     {
-      "jargon": "manufacturing a material in the form or carrier",
-      "layman": "making a material to hold catalysts"
+      "jargon": "manufacturing method",
+      "layman": "Making the material process"
     },
     {
       "jargon": "crystalline structure",
-      "layman": "ordered atomic pattern"
+      "layman": "Ordered atomic pattern"
     },
     {
       "jargon": "thermal stability",
-      "layman": "resistance to heat damage"
+      "layman": "Stays stable at high heat"
     },
     {
-      "jargon": "cationic form",
-      "layman": "positively charged atom form"
+      "jargon": "catalyst species",
+      "layman": "Substance that speeds up reactions"
     }
   ],
   "outcomes": [
     {
       "jargon": "thermal stability of the mesostructured material",
-      "layman": "material stays stable under heat"
+      "layman": "Resists melting or breaking at heat"
     },
     {
       "jargon": "heterogeneous catalysts",
-      "layman": "catalysts in a different phase"
+      "layman": "Catalysts in separate phase"
     },
     {
-      "jargon": "solid solution like",
-      "layman": "mixed atoms in one structure"
+      "jargon": "metal elements M in cationic form",
+      "layman": "Metal atoms in positive charge form"
     },
     {
-      "jargon": "metal mesostructured material",
-      "layman": "metal with tiny pore structure"
+      "jargon": "oxidation state",
+      "layman": "How metal is chemically bonded"
     },
     {
-      "jargon": "dispersed",
-      "layman": "spread out evenly"
+      "jargon": "inorganic layer",
+      "layman": "Non-organic solid layer"
     }
   ]
 }

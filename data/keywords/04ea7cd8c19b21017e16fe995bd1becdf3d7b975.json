@@ -6,41 +6,41 @@
     },
     {
       "jargon": "exon shuffling",
-      "layman": "mixing gene pieces"
+      "layman": "rearranging gene pieces"
     },
     {
       "jargon": "retroposition",
-      "layman": "copy-paste gene mechanism"
+      "layman": "copy-paste gene process"
     },
     {
       "jargon": "gene duplication",
-      "layman": "gene copying"
+      "layman": "copying a gene"
     },
     {
       "jargon": "X-chromosome",
-      "layman": "X-chromosome"
+      "layman": "X chromosome"
     }
   ],
   "methodologies": [
     {
       "jargon": "exon shuffling",
-      "layman": "mixing gene pieces"
+      "layman": "rearranging gene pieces"
     },
     {
       "jargon": "retroposition",
-      "layman": "copy-paste gene mechanism"
+      "layman": "copy-paste gene process"
     },
     {
       "jargon": "gene duplication",
-      "layman": "gene copying"
+      "layman": "copying a gene"
     },
     {
       "jargon": "positive Darwinian selection",
       "layman": "natural selection favoring changes"
     },
     {
-      "jargon": "genome analysis",
-      "layman": "studying genome data"
+      "jargon": "sequence analysis",
+      "layman": "studying gene sequences"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "fast gene changes"
     },
     {
-      "jargon": "continuous evolution of function",
-      "layman": "function keeps changing"
+      "jargon": "functional evolution",
+      "layman": "gene evolving new roles"
     },
     {
       "jargon": "adaptive evolution",
-      "layman": "evolution driven by adaptation"
+      "layman": "evolution for survival advantage"
     },
     {
       "jargon": "male-specific functions",
-      "layman": "only in males"
+      "layman": "functions only in males"
     },
     {
-      "jargon": "new functions are not rare",
-      "layman": "new gene functions are common"
+      "jargon": "avoid X-chromosome linkage",
+      "layman": "stay away from X chromosome"
     }
   ]
 }

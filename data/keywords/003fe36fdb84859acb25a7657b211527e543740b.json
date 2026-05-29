@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Energy efficient durable goods",
-      "layman": "Energy-saving appliances"
+      "layman": "Energy-saving long-lasting products"
     },
     {
       "jargon": "Sales agents",
@@ -13,56 +13,56 @@
       "layman": "People buying products"
     },
     {
-      "jargon": "Rebates",
-      "layman": "Money back for buying efficient products"
+      "jargon": "Energy use information",
+      "layman": "Details about how much energy a product uses"
     },
     {
-      "jargon": "Information disclosure",
-      "layman": "Sharing energy-saving facts"
+      "jargon": "Rebates",
+      "layman": "Money refunds for buying energy-saving items"
     }
   ],
   "methodologies": [
     {
       "jargon": "Field experiment",
-      "layman": "Real-world test with people"
+      "layman": "Real-world test with people in daily life"
     },
     {
-      "jargon": "Natural experiment",
-      "layman": "Unplanned real-life situation used for study"
+      "jargon": "Natural field experiment",
+      "layman": "Experiment that happens naturally without interference"
     },
     {
       "jargon": "Sales incentives",
-      "layman": "Rewards for sales staff"
+      "layman": "Rewards for sales staff to make more sales"
     },
     {
       "jargon": "Follow-up surveys",
-      "layman": "Later interviews to check opinions"
+      "layman": "Later interviews to check what people know"
     },
     {
-      "jargon": "Targeting",
-      "layman": "Focusing on specific groups"
+      "jargon": "Information disclosure",
+      "layman": "Sharing details about energy use with customers"
     }
   ],
   "outcomes": [
     {
       "jargon": "Statistically and economically insignificant effects",
-      "layman": "No real impact on sales"
+      "layman": "No real impact on sales or savings"
     },
     {
-      "jargon": "Partial compliance",
-      "layman": "Agents do only some of the work"
+      "jargon": "Partially compliant sales agents",
+      "layman": "Agents only follow instructions partly"
     },
     {
-      "jargon": "Overestimation of benefits",
-      "layman": "People think savings are bigger than they are"
+      "jargon": "Targeting most interested consumers",
+      "layman": "Focusing on people who care about energy savings"
     },
     {
-      "jargon": "Demand for energy efficient goods",
-      "layman": "How much people want efficient products"
+      "jargon": "Overestimate energy benefits",
+      "layman": "Think energy saving is better than it is"
     },
     {
       "jargon": "Imperfect information not a major barrier",
-      "layman": "Lack of info doesn't stop people from buying"
+      "layman": "People don\u2019t need better info to buy"
     }
   ]
 }

@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Data representation",
-      "layman": "Way data is organized"
+      "layman": "Data pattern"
     },
     {
       "jargon": "Transformations",
-      "layman": "Changes in data form"
+      "layman": "Changes in data shape"
     },
     {
       "jargon": "Sensory cortex",
-      "layman": "Brain's sensory area"
+      "layman": "Brain's sense processing area"
     },
     {
       "jargon": "Feedforward processing",
-      "layman": "Signal flow from input to brain"
+      "layman": "One-way brain signal flow"
     },
     {
       "jargon": "Invariance",
-      "layman": "Same response to different forms"
+      "layman": "Stays the same under change"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Mathematical results",
-      "layman": "Proven mathematical findings"
+      "layman": "Mathematical proof or finding"
     },
     {
-      "jargon": "Transformation invariance",
-      "layman": "Staying the same under change"
+      "jargon": "Transformation",
+      "layman": "Changing data form"
     },
     {
-      "jargon": "Selectivity",
-      "layman": "Only matching when truly related"
+      "jargon": "Signal flow",
+      "layman": "How signals travel in brain"
     },
     {
-      "jargon": "i-theory",
-      "layman": "Theory of brain processing"
+      "jargon": "Automatic learning",
+      "layman": "Learning without direct teaching"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Invariance and selectivity",
-      "layman": "Same response to similar inputs"
+      "jargon": "Invariance",
+      "layman": "Same result despite change"
     },
     {
-      "jargon": "Key claims of i-theory",
-      "layman": "Main ideas of brain theory"
+      "jargon": "Selectivity",
+      "layman": "Only same if directly related"
     },
     {
-      "jargon": "Two points have same representation",
-      "layman": "Same output for similar inputs"
+      "jargon": "Same representation",
+      "layman": "Same pattern in data"
     },
     {
-      "jargon": "One transformation of the other",
-      "layman": "One is just a changed version"
+      "jargon": "Transformation of one point",
+      "layman": "One point changed into another"
     },
     {
-      "jargon": "Automatically learned",
-      "layman": "Learned without human input"
+      "jargon": "Sharpens key claims",
+      "layman": "Strengthens theory support"
     }
   ]
 }

@@ -13,56 +13,56 @@
       "layman": "Creating new products"
     },
     {
-      "jargon": "R&D",
-      "layman": "Research and development"
+      "jargon": "Sector level",
+      "layman": "Industry-wide level"
     },
     {
-      "jargon": "Human capital",
-      "layman": "Skilled workers and talent"
+      "jargon": "Exporting",
+      "layman": "Selling abroad"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Panel data set",
-      "layman": "Long-term company records"
-    },
-    {
-      "jargon": "Firm-level analysis",
-      "layman": "Looking at individual companies"
-    },
-    {
-      "jargon": "Sector-level analysis",
-      "layman": "Looking at industry groups"
+      "jargon": "Firm-level panel data",
+      "layman": "Long-term company-by-company records"
     },
     {
       "jargon": "Regression analysis",
-      "layman": "Statistical comparison of variables"
+      "layman": "Statistical trend analysis"
     },
     {
       "jargon": "Causal inference",
-      "layman": "Determining cause and effect"
+      "layman": "Identifying cause-and-effect relationships"
+    },
+    {
+      "jargon": "R&D investment",
+      "layman": "Spending on research and development"
+    },
+    {
+      "jargon": "Human capital development",
+      "layman": "Training and developing workers"
     }
   ],
   "outcomes": [
     {
       "jargon": "Higher innovative activity",
-      "layman": "More new products developed"
+      "layman": "More new products created"
     },
     {
-      "jargon": "Negative effect of sector-level FDI",
-      "layman": "More foreign investment hurts innovation"
+      "jargon": "Negative effect at sector level",
+      "layman": "Less innovation in whole industry"
     },
     {
-      "jargon": "Positive effect on exporters",
-      "layman": "Exporting helps innovation"
+      "jargon": "Positive effect for exporters",
+      "layman": "More innovation when selling abroad"
     },
     {
-      "jargon": "Positive effect on R&D investment",
-      "layman": "Spending on research helps innovation"
+      "jargon": "Positive effect for R&D investment",
+      "layman": "More innovation with research spending"
     },
     {
-      "jargon": "Positive effect on human capital development",
-      "layman": "Training employees helps innovation"
+      "jargon": "Successful innovators",
+      "layman": "Companies that succeed in creating new products"
     }
   ]
 }

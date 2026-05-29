@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Veil",
-      "layman": "Clothing covering the head or face"
+      "jargon": "The veil",
+      "layman": "Veil"
     },
     {
       "jargon": "Contemporary visual arts",
-      "layman": "Modern art forms"
+      "layman": "Modern art"
+    },
+    {
+      "jargon": "Western images",
+      "layman": "Western portrayals"
+    },
+    {
+      "jargon": "Middle Eastern and North African women",
+      "layman": "Women in Middle East and North Africa"
     },
     {
       "jargon": "Photographic depictions",
-      "layman": "Photos of people"
+      "layman": "Photos showing people"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Autobiographical writing",
+      "layman": "Personal stories"
     },
     {
-      "jargon": "Postrevolutionary Iran",
-      "layman": "Iran after a revolution"
+      "jargon": "Political analysis",
+      "layman": "Looking at power and policy"
+    },
+    {
+      "jargon": "Historical examination",
+      "layman": "Looking at past events"
+    },
+    {
+      "jargon": "Art historical precedents",
+      "layman": "Art traditions from the past"
     },
     {
       "jargon": "Gender segregation",
       "layman": "Separation by gender"
     }
   ],
-  "methodologies": [
-    {
-      "jargon": "Autobiographical writing",
-      "layman": "Writing about personal experiences"
-    },
-    {
-      "jargon": "Political analysis",
-      "layman": "Examining power and society"
-    },
-    {
-      "jargon": "Historical examination",
-      "layman": "Looking at the past"
-    },
-    {
-      "jargon": "Art historical precedents",
-      "layman": "Past art examples"
-    },
-    {
-      "jargon": "Representation in media",
-      "layman": "How things are shown in images"
-    }
-  ],
   "outcomes": [
+    {
+      "jargon": "Reception of veil imagery",
+      "layman": "How people see veil images"
+    },
+    {
+      "jargon": "Changes in representation",
+      "layman": "Shifts in how things are shown"
+    },
+    {
+      "jargon": "Cultural fascination",
+      "layman": "Strong interest in culture"
+    },
     {
       "jargon": "Voyeuristic interest",
       "layman": "Curiosity about the unfamiliar"
     },
     {
-      "jargon": "Changing reception of veil imagery",
-      "layman": "How images of veils are now seen"
-    },
-    {
-      "jargon": "Photographic depictions of body in landscape",
-      "layman": "Photos of people in nature"
-    },
-    {
-      "jargon": "Codes of modesty",
-      "layman": "Rules about modest dress"
-    },
-    {
-      "jargon": "Art exhibition",
-      "layman": "Show of artworks"
+      "jargon": "Impact of September 11",
+      "layman": "Effect of 9/11 events"
     }
   ]
 }

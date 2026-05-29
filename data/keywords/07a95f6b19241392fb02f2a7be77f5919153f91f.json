@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Simplicial presheaves",
-      "layman": "Sheaves built from simple shapes"
+      "layman": "Mathematical objects that assign data to spaces"
     },
     {
       "jargon": "Grothendieck site",
-      "layman": "Mathematical space with structure"
+      "layman": "Structure for organizing mathematical spaces"
     },
     {
-      "jargon": "Closed model structure",
-      "layman": "Framework for mathematical operations"
-    },
-    {
-      "jargon": "Category",
-      "layman": "Collection of objects and connections"
+      "jargon": "Model structure",
+      "layman": "Framework for defining valid mathematical operations"
     },
     {
       "jargon": "Boolean localization",
-      "layman": "Simplification using logic rules"
+      "layman": "Mathematical tool to simplify complex systems"
+    },
+    {
+      "jargon": "Closed model structure",
+      "layman": "Complete system for organizing mathematical rules"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Proof",
-      "layman": "Logical argument showing something is true"
+      "jargon": "Boolean localization",
+      "layman": "Mathematical tool to simplify complex systems"
     },
     {
-      "jargon": "Principle of Boolean localization",
-      "layman": "Using logic to simplify math objects"
+      "jargon": "Proof of existence",
+      "layman": "Demonstrating something is possible mathematically"
     },
     {
-      "jargon": "Standard model structure",
-      "layman": "Established framework for operations"
+      "jargon": "Category theory",
+      "layman": "Mathematical framework for studying structures"
     },
     {
-      "jargon": "Mathematical structure",
-      "layman": "Pattern in math objects"
+      "jargon": "Simplicial methods",
+      "layman": "Step-by-step building of mathematical shapes"
     },
     {
-      "jargon": "Localization",
-      "layman": "Focusing on specific parts of a system"
+      "jargon": "Localization technique",
+      "layman": "Filtering or simplifying complex data"
     }
   ],
   "outcomes": [
     {
       "jargon": "Existence of standard closed model structure",
-      "layman": "Proven framework works universally"
+      "layman": "Proven mathematical framework works"
+    },
+    {
+      "jargon": "Standard model structure",
+      "layman": "Consistent and reliable mathematical system"
+    },
+    {
+      "jargon": "Existence proof",
+      "layman": "Confirmed that a solution exists"
     },
     {
       "jargon": "Arbitrary Grothendieck site",
-      "layman": "Works on any mathematical setup"
+      "layman": "Works for any type of mathematical setup"
     },
     {
-      "jargon": "New proof",
-      "layman": "New logical demonstration"
-    },
-    {
-      "jargon": "Mathematical classification",
-      "layman": "Categorization of math objects"
-    },
-    {
-      "jargon": "Existence",
-      "layman": "Something is shown to be real"
+      "jargon": "Mathematical validity",
+      "layman": "System is logically sound"
     }
   ]
 }

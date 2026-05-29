@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Psychoanalysis",
-      "layman": "Study of the mind and emotions"
+      "layman": "Study of unconscious mind"
     },
     {
       "jargon": "Gender analysis",
-      "layman": "Examination of gender roles and identities"
+      "layman": "Examination of gender roles"
     },
     {
       "jargon": "Culture",
-      "layman": "Shared beliefs and practices of a group"
+      "layman": "Shared beliefs and practices"
     },
     {
       "jargon": "Personal meaning",
-      "layman": "Individual interpretation of experiences"
+      "layman": "Subjective experience of life events"
     },
     {
-      "jargon": "Subjective experience",
-      "layman": "How someone feels or sees something internally"
+      "jargon": "Self-perception",
+      "layman": "How we see ourselves"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Combining different fields of study"
     },
     {
-      "jargon": "Anthropological analysis",
-      "layman": "Studying cultures and human behavior"
-    },
-    {
-      "jargon": "Gendered perspectives",
-      "layman": "Looking at things through a gender lens"
-    },
-    {
-      "jargon": "Narrative interpretation",
-      "layman": "Understanding stories as meaning"
+      "jargon": "Anthropological observation",
+      "layman": "Watching people in daily life"
     },
     {
       "jargon": "Theoretical synthesis",
       "layman": "Putting ideas together into a new theory"
+    },
+    {
+      "jargon": "Subjective interpretation",
+      "layman": "Personal understanding of events"
+    },
+    {
+      "jargon": "Narrative analysis",
+      "layman": "Studying stories people tell about their lives"
     }
   ],
   "outcomes": [
     {
       "jargon": "Power of feelings",
-      "layman": "Emotions shape self-perception"
+      "layman": "Emotions shape personal identity"
     },
     {
-      "jargon": "Equal importance of personal and cultural meaning",
+      "jargon": "Equal importance of personal and cultural meanings",
       "layman": "Feelings and culture matter equally"
     },
     {
       "jargon": "Individual subjective meaning",
-      "layman": "Personal sense of self in experience"
+      "layman": "Personal sense of what things mean"
     },
     {
-      "jargon": "Reconceptualization of self",
-      "layman": "New way of seeing oneself"
+      "jargon": "Transformative self-view",
+      "layman": "Changed way of seeing oneself"
     },
     {
-      "jargon": "Integrated theory",
-      "layman": "A unified explanation of human experience"
+      "jargon": "Revaluation of emotional experience",
+      "layman": "Emotions are given more weight"
     }
   ]
 }

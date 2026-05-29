@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Biotech entrepreneurs",
-      "layman": "Biotech entrepreneurs"
+      "jargon": "biotech entrepreneurs",
+      "layman": "biotech entrepreneurs"
     },
     {
-      "jargon": "Venture capital investors",
+      "jargon": "venture capital investors",
       "layman": "VC investors"
     },
     {
-      "jargon": "Personal collaboration tie",
-      "layman": "Personal work connection"
+      "jargon": "personal collaboration tie",
+      "layman": "personal collaboration tie"
     },
     {
-      "jargon": "Personal friendship tie",
-      "layman": "Personal friendship"
+      "jargon": "personal friendship tie",
+      "layman": "personal friendship tie"
     },
     {
-      "jargon": "Tacit knowledge",
-      "layman": "Unwritten knowledge"
+      "jargon": "tacit knowledge",
+      "layman": "unwritten knowledge"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Data set",
-      "layman": "Collection of data"
+      "jargon": "data set",
+      "layman": "data set"
     },
     {
-      "jargon": "Measure",
-      "layman": "Assess"
+      "jargon": "measure",
+      "layman": "measure"
     },
     {
-      "jargon": "Analyse",
-      "layman": "Examine"
+      "jargon": "analyses",
+      "layman": "analyses"
     },
     {
-      "jargon": "Systematic examination",
-      "layman": "Careful study"
+      "jargon": "statistical analysis",
+      "layman": "statistical analysis"
     },
     {
-      "jargon": "Interorganizational networks",
-      "layman": "Connections between organizations"
+      "jargon": "systematic examination",
+      "layman": "systematic examination"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Increased probability",
-      "layman": "Higher chance"
+      "jargon": "increased probability",
+      "layman": "higher chance"
     },
     {
-      "jargon": "Advice tie",
-      "layman": "Advice connection"
+      "jargon": "advice tie",
+      "layman": "advice tie"
     },
     {
-      "jargon": "Exchange of tacit knowledge",
-      "layman": "Sharing unwritten knowledge"
+      "jargon": "interorganizational learning",
+      "layman": "learning between organizations"
     },
     {
-      "jargon": "Social embeddedness",
-      "layman": "Strong social ties"
+      "jargon": "access to resources",
+      "layman": "access to resources"
     },
     {
-      "jargon": "Personalization of exchanges",
-      "layman": "Tailored interactions"
+      "jargon": "knowledge building",
+      "layman": "knowledge building"
     }
   ]
 }

@@ -5,64 +5,64 @@
       "layman": "Deep, ancient rock layers"
     },
     {
-      "jargon": "Caledonian rocks",
-      "layman": "Old mountain-building rocks"
+      "jargon": "Cover rocks",
+      "layman": "Soil and overlying rock layers"
     },
     {
       "jargon": "Devonian rocks",
-      "layman": "Ancient sea rock layers"
+      "layman": "Ancient sea rocks from Devonian period"
     },
     {
       "jargon": "Carboniferous rocks",
-      "layman": "Old coal-forming rock layers"
+      "layman": "Older coal-forming rocks"
     },
     {
       "jargon": "Vendian diamictites",
-      "layman": "Glacial till deposits"
+      "layman": "Glacial deposits from early period"
     }
   ],
   "methodologies": [
     {
       "jargon": "Thrust faults",
-      "layman": "Faults that push rock layers"
+      "layman": "Faults pushing rock layers forward"
     },
     {
-      "jargon": "Fault block",
-      "layman": "Piece of rock moved by fault"
+      "jargon": "Fault blocks",
+      "layman": "Rock pieces moved by faults"
     },
     {
-      "jargon": "Structural continuity",
-      "layman": "Geological features connected across faults"
+      "jargon": "Stratigraphic continuity",
+      "layman": "Layers stacked continuously"
     },
     {
-      "jargon": "Lithological units",
-      "layman": "Different rock types"
+      "jargon": "Structural analysis",
+      "layman": "Studying rock layer positions"
     },
     {
-      "jargon": "Stratigraphic relation",
-      "layman": "Layering sequence of rocks"
+      "jargon": "Tiloid successions",
+      "layman": "Layers of glacial deposits in sequence"
     }
   ],
   "outcomes": [
     {
       "jargon": "Complex fault system",
-      "layman": "Messed-up network of faults"
+      "layman": "Web of intersecting faults"
     },
     {
-      "jargon": "Steeply west-dipping faults",
-      "layman": "Faults dipping sharply west"
-    },
-    {
-      "jargon": "Tilloid successions",
-      "layman": "Glacial layer patterns"
+      "jargon": "Fault-bounded block",
+      "layman": "Rock piece between faults"
     },
     {
       "jargon": "Two-stage glaciation",
-      "layman": "Two phases of ice age"
+      "layman": "Glaciation in two phases"
     },
     {
-      "jargon": "Faults separate formations",
-      "layman": "Faults cut rock layers apart"
+      "jargon": "No continuous stratigraphic relation",
+      "layman": "Layers not connected"
+    },
+    {
+      "jargon": "Early compressional period",
+      "layman": "Early period of mountain-building"
     }
   ]
 }

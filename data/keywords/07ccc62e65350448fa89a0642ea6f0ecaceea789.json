@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Phenomenological research",
-      "layman": "Study of direct experience"
+      "layman": "Study of direct experiences"
     },
     {
       "jargon": "Ontology",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Metaphysics",
-      "layman": "Study of reality and existence"
+      "layman": "Study of fundamental reality"
     },
     {
-      "jargon": "Artistic work of art",
-      "layman": "Creative artwork"
+      "jargon": "Artwork",
+      "layman": "Work of art"
     },
     {
       "jargon": "Aesthetic experience",
-      "layman": "Sensory and emotional response to art"
+      "layman": "Feeling of beauty or artistic expression"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Phenomenological research",
-      "layman": "Deep observation of experience"
+      "jargon": "Phenomenological analysis",
+      "layman": "Deep study of experiences"
     },
     {
-      "jargon": "Analytical study",
-      "layman": "Careful breakdown of concepts"
+      "jargon": "Ontological research",
+      "layman": "Exploring what exists in reality"
     },
     {
-      "jargon": "Ontological analysis",
-      "layman": "Examining what things fundamentally are"
+      "jargon": "Meta-physical inquiry",
+      "layman": "Investigating the nature of reality"
     },
     {
-      "jargon": "Metaphysical inquiry",
-      "layman": "Exploring the nature of reality"
+      "jargon": "Analytical framework",
+      "layman": "Structured way of understanding concepts"
     },
     {
-      "jargon": "Descriptive analysis",
-      "layman": "Detailed description of experience"
+      "jargon": "Categorical structure",
+      "layman": "Organized categories of understanding"
     }
   ],
   "outcomes": [
     {
       "jargon": "Comprehensive program",
-      "layman": "Full research framework"
+      "layman": "Complete research effort"
     },
     {
       "jargon": "Major features",
       "layman": "Key characteristics"
     },
     {
-      "jargon": "Analyses of works of art",
-      "layman": "Examinations of artworks"
+      "jargon": "Art analyses",
+      "layman": "Examinations of artistic works"
     },
     {
-      "jargon": "Aesthetic experience",
-      "layman": "Emotional response to art"
+      "jargon": "Aesthetic experience description",
+      "layman": "How art feels when experienced"
     },
     {
       "jargon": "Phenomenological program",
-      "layman": "Holistic study of experience"
+      "layman": "Full approach to studying experience"
     }
   ]
 }

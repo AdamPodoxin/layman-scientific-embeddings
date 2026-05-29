@@ -2,37 +2,37 @@
   "core_entities": [
     {
       "jargon": "Protozoan parasite",
-      "layman": "Tiny parasitic organism"
+      "layman": "Tiny parasite animal cell"
     },
     {
       "jargon": "Trypanosomatids",
-      "layman": "Parasites like trypanosomes"
+      "layman": "Parasitic bug-like cells"
     },
     {
       "jargon": "Apicomplexans",
-      "layman": "Parasites with apical structures"
+      "layman": "Parasitic box-shaped cells"
     },
     {
       "jargon": "Leishmania spp.",
-      "layman": "Leishmania species"
+      "layman": "Leishmania parasites"
     },
     {
       "jargon": "Trypanosoma spp.",
-      "layman": "Trypanosoma species"
+      "layman": "Trypanosoma parasites"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Morphological phenotype",
-      "layman": "Visible cell changes"
-    },
-    {
       "jargon": "Molecular pathways",
-      "layman": "Cellular processes involving molecules"
+      "layman": "Cell death signals"
     },
     {
       "jargon": "Addiction modules",
-      "layman": "Genetic dependencies in cells"
+      "layman": "Genetic triggers that keep cells alive"
+    },
+    {
+      "jargon": "Mitochondria",
+      "layman": "Cell power center"
     },
     {
       "jargon": "Proteases",
@@ -49,20 +49,20 @@
       "layman": "Programmed cell death"
     },
     {
-      "jargon": "Morphological phenotype akin to apoptosis",
-      "layman": "Cell shape changes like programmed death"
+      "jargon": "Morphological phenotype",
+      "layman": "Visible cell change"
     },
     {
-      "jargon": "Ancient death mechanism",
-      "layman": "Old cell death process"
-    },
-    {
-      "jargon": "Multicellularity",
-      "layman": "Cells working together in groups"
+      "jargon": "Ancient evolutionary origin",
+      "layman": "Older than multicellular life"
     },
     {
       "jargon": "Multifaceted beginnings",
-      "layman": "Multiple origins for death pathways"
+      "layman": "Multiple origin points"
+    },
+    {
+      "jargon": "Original sin hypothesis",
+      "layman": "Death came from early single-celled ancestors"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Dynamic object evaluation framework",
-      "layman": "Framework to test how databases handle changing access"
+      "layman": "System to test how databases handle changing access patterns"
     },
     {
       "jargon": "Access patterns",
-      "layman": "How data is retrieved and used"
+      "layman": "How data is accessed in a system"
     },
     {
       "jargon": "Object-oriented databases",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Multimedia databases",
-      "layman": "Databases for storing media like videos and images"
+      "layman": "Databases storing media like images and video"
     },
     {
       "jargon": "XML databases",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Configurable styles of change",
-      "layman": "Settable ways to change access patterns"
+      "layman": "Adjustable ways to change access patterns"
     },
     {
       "jargon": "Dynamic clustering algorithms",
-      "layman": "Clustering methods that adapt to data changes"
+      "layman": "Methods that group data based on changes over time"
     },
     {
       "jargon": "Clustering",
-      "layman": "Grouping similar data together"
-    },
-    {
-      "jargon": "Performance evaluation",
-      "layman": "Testing how well a system works"
+      "layman": "Grouping similar data items together"
     },
     {
       "jargon": "Prototype design",
-      "layman": "Initial version built for testing"
+      "layman": "Early version built to test ideas"
+    },
+    {
+      "jargon": "Performance comparison",
+      "layman": "Testing how well different methods work"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Adaptability to access pattern changes",
-      "layman": "Ability to adjust to changing data use"
+      "jargon": "Adaptability to changes",
+      "layman": "Ability to adjust to new access patterns"
     },
     {
-      "jargon": "Performance comparison",
-      "layman": "Measuring how well algorithms perform"
+      "jargon": "Effectiveness",
+      "layman": "Works well in practice"
     },
     {
-      "jargon": "State of the art algorithms",
-      "layman": "Best current algorithms"
-    },
-    {
-      "jargon": "Effectiveness of DOEF",
-      "layman": "DOEF works well in testing changes"
+      "jargon": "State of the art",
+      "layman": "Best available technology"
     },
     {
       "jargon": "Access pattern change",
-      "layman": "Change in how data is accessed"
+      "layman": "Shifts in how data is used"
+    },
+    {
+      "jargon": "Performance evaluation",
+      "layman": "Measuring how well a system works"
     }
   ]
 }

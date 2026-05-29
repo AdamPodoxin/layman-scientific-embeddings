@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Inorganic esters",
-      "layman": "Chemical compounds made from acids and alcohols"
+      "layman": "Ester compounds without carbon chains"
     },
     {
-      "jargon": "Weak carboxylic acids",
-      "layman": "Acids that don't fully dissolve in water"
+      "jargon": "Carboxylic acids",
+      "layman": "Acidic organic molecules"
     },
     {
       "jargon": "C\u2014O bond",
-      "layman": "Chemical link between carbon and oxygen"
-    },
-    {
-      "jargon": "Heavy oxygen isotope (18O)",
-      "layman": "Rare form of oxygen with extra weight"
+      "layman": "Carbon-oxygen connection"
     },
     {
       "jargon": "Hydrolysis",
       "layman": "Breaking down with water"
+    },
+    {
+      "jargon": "Heavy oxygen isotope (18O)",
+      "layman": "Rarer form of oxygen"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Hydrolysis of esters",
-      "layman": "Breaking ester bonds with water"
+      "jargon": "Hydrolysis",
+      "layman": "Breaking down with water"
+    },
+    {
+      "jargon": "Isotope labeling",
+      "layman": "Tagging molecules with rare atoms"
     },
     {
       "jargon": "Excess 18O water",
-      "layman": "Water with extra heavy oxygen added"
+      "layman": "Water with extra heavy oxygen"
     },
     {
-      "jargon": "Isotopic labeling",
-      "layman": "Using special atoms to track reactions"
-    },
-    {
-      "jargon": "Break at C\u2014O bond",
-      "layman": "Bond between carbon and oxygen breaks"
+      "jargon": "Bond break analysis",
+      "layman": "Testing where a bond breaks"
     },
     {
       "jargon": "Direct observation",
-      "layman": "Clear, direct proof of what happens"
+      "layman": "Seeing the process clearly"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Definitely shown",
-      "layman": "Proven with certainty"
+      "layman": "Proven beyond doubt"
     },
     {
-      "jargon": "Very direct evidence",
-      "layman": "Clear and unambiguous proof"
+      "jargon": "Hydrolysis at C\u2014O bond",
+      "layman": "Break happens at the carbon-oxygen connection"
     },
     {
-      "jargon": "Hydrolysis mechanism",
-      "layman": "How the reaction actually happens"
+      "jargon": "Ester hydrolysis mechanism",
+      "layman": "How the process actually works"
     },
     {
-      "jargon": "Ester hydrolysis pathway",
-      "layman": "Route water takes to break esters"
+      "jargon": "Confirmation of bond cleavage site",
+      "layman": "Spot where the break happens is confirmed"
     }
   ]
 }

@@ -10,29 +10,29 @@
     },
     {
       "jargon": "Peak experiences",
-      "layman": "Moment of deep personal unity"
+      "layman": "Feelings of deep unity and harmony"
     },
     {
       "jargon": "Self psychology",
-      "layman": "Theory about the self"
+      "layman": "Theory about the self in therapy"
     },
     {
       "jargon": "Humanistic psychology",
-      "layman": "Psychology focused on human potential"
+      "layman": "Psychology focused on people's potential"
     }
   ],
   "methodologies": [
     {
       "jargon": "Theoretical comparison",
-      "layman": "Comparing ideas between theories"
+      "layman": "Comparing ideas and theories"
     },
     {
       "jargon": "Empirical bridge",
-      "layman": "Connecting theories with real evidence"
+      "layman": "Connecting different psychological views with evidence"
     },
     {
       "jargon": "Clinical foundations",
-      "layman": "Practical, patient-based basis"
+      "layman": "Real-world therapy practices"
     },
     {
       "jargon": "Ideological shift",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Vision alignment",
-      "layman": "Shared goals or outlooks"
+      "layman": "Matching goals and perspectives"
     }
   ],
   "outcomes": [
-    {
-      "jargon": "Predictable differences",
-      "layman": "Expected contrasts between theories"
-    },
     {
       "jargon": "Surprising similarities",
       "layman": "Unexpected shared ideas"
     },
     {
-      "jargon": "Empirical bridge",
-      "layman": "Real-world connection between fields"
-    },
-    {
-      "jargon": "Integrated feeling",
-      "layman": "Feeling whole and unified"
+      "jargon": "Predictable differences",
+      "layman": "Expected contrasting views"
     },
     {
       "jargon": "Harmoniously organized",
-      "layman": "Smoothly balanced and well-put-together"
+      "layman": "Smoothly balanced and unified"
+    },
+    {
+      "jargon": "Synergic",
+      "layman": "Working together for better results"
+    },
+    {
+      "jargon": "Empirical foundation",
+      "layman": "Evidence-based understanding"
     }
   ]
 }

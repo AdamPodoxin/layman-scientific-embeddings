@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Women economists",
-      "layman": "Female economists"
+      "layman": "Women who study economics"
     },
     {
-      "jargon": "Economic contributions",
-      "layman": "Impact on economics"
+      "jargon": "Economic analysis",
+      "layman": "Studying how people and economies work"
     },
     {
-      "jargon": "Biographical dictionary",
-      "layman": "Life story reference book"
+      "jargon": "Historical contributions",
+      "layman": "Past achievements in a field"
     },
     {
-      "jargon": "Academic writings",
-      "layman": "Written work by scholars"
+      "jargon": "Biographical entries",
+      "layman": "Lives and careers of people"
     },
     {
-      "jargon": "Economic issues",
-      "layman": "Economic problems"
+      "jargon": "Academic literature",
+      "layman": "Written research in economics"
     }
   ],
   "methodologies": [
     {
       "jargon": "Specially commissioned articles",
-      "layman": "Articles written specifically"
+      "layman": "Articles written just for this book"
     },
     {
-      "jargon": "Historical analysis",
-      "layman": "Looking at past events"
+      "jargon": "Comprehensive coverage",
+      "layman": "Including many different cases"
     },
     {
-      "jargon": "Disciplinary participation",
-      "layman": "Engagement in the field"
+      "jargon": "Cross-national inclusion",
+      "layman": "Including women from many countries"
     },
     {
-      "jargon": "Reference work",
-      "layman": "Comprehensive guide"
+      "jargon": "Historical scholarship",
+      "layman": "Research on the past"
     },
     {
-      "jargon": "Research stimulation",
-      "layman": "Encouraging further study"
+      "jargon": "Narrative reconstruction",
+      "layman": "Building stories from facts"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Transform widely-held views",
-      "layman": "Change common beliefs"
+      "jargon": "Transformed views",
+      "layman": "Changed beliefs about women's roles"
     },
     {
-      "jargon": "Shed new light",
-      "layman": "Reveal new insights"
+      "jargon": "Sheds new light",
+      "layman": "Shows new insights"
     },
     {
-      "jargon": "Neglected heritage",
-      "layman": "Overlooked history"
+      "jargon": "Stimulates further research",
+      "layman": "Encourages more study"
     },
     {
       "jargon": "Underdeveloped field",
-      "layman": "Unexplored area"
+      "layman": "A field that needs more attention"
     },
     {
-      "jargon": "Pioneer in the field",
-      "layman": "Early leader in the field"
+      "jargon": "Neglected heritage",
+      "layman": "Important history that was ignored"
     }
   ]
 }

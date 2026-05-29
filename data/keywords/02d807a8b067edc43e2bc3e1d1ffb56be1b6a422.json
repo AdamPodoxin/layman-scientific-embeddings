@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "General relativity",
-      "layman": "Gravity as curved space and time"
+      "layman": "Gravity as bent space and time"
     },
     {
-      "jargon": "Space-time",
-      "layman": "Space and time together"
+      "jargon": "Spacetime",
+      "layman": "Space and time as a single fabric"
     },
     {
       "jargon": "Black hole",
-      "layman": "Extreme gravity warping space"
+      "layman": "Extreme warping of space and time"
+    },
+    {
+      "jargon": "Quasar",
+      "layman": "Bright, distant cosmic object"
     },
     {
       "jargon": "Gravitational waves",
-      "layman": "Ripples in space-time"
-    },
-    {
-      "jargon": "Quasars",
-      "layman": "Bright, distant cosmic objects"
+      "layman": "Ripples in spacetime"
     }
   ],
   "methodologies": [
@@ -27,21 +27,15 @@
       "layman": "Studying starlight bending during eclipses"
     },
     {
-      "jargon": "Laboratory experiment",
-      "layman": "Testing in a lab"
+      "jargon": "Laboratory experiment with gamma rays",
+      "layman": "Testing gravity in a lab"
     },
-    {
-      "jargon": "Gravitational wave detection",
-      "layman": "Detecting ripples in space-time"
-    },
-    {
-      "jargon": "Supercomputer simulations",
-      "layman": "Using powerful computers to model events"
-    },
-    {
-      "jargon": "Spectral line shift",
-      "layman": "Measuring changes in light colors"
-    }
+    "gravitational wave detection",
+    "using giant observatories",
+    "black hole simulations",
+    "with supercomputers",
+    "testing gravitational redshift",
+    "by measuring light shifts"
   ],
   "outcomes": [
     {
@@ -50,19 +44,19 @@
     },
     {
       "jargon": "Gravitational redshift",
-      "layman": "Light loses energy and shifts to red"
+      "layman": "Light shifts to longer wavelengths in gravity"
     },
     {
-      "jargon": "Confirmation of theory",
-      "layman": "Theory matches observations"
+      "jargon": "Confirmation of general relativity",
+      "layman": "Einstein's theory is supported by data"
     },
     {
-      "jargon": "Black hole mergers",
-      "layman": "Black holes colliding"
+      "jargon": "Mercury's orbit anomaly",
+      "layman": "Mercury's path doesn't match Newton's predictions"
     },
     {
       "jargon": "Quantum gravity",
-      "layman": "Gravity at the smallest scales"
+      "layman": "A version of gravity that works with quantum rules"
     }
   ]
 }

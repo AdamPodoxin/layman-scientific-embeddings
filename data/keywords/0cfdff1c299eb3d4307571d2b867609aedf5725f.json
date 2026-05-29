@@ -10,37 +10,37 @@
     },
     {
       "jargon": "Majorization theory",
-      "layman": "Mathematical way to compare sets of numbers"
-    },
-    {
-      "jargon": "Algebraic theories",
-      "layman": "Math rules based on equations"
+      "layman": "Mathematical comparison of ordered values"
     },
     {
       "jargon": "Analytical theories",
-      "layman": "Math tools for solving problems"
+      "layman": "Mathematical reasoning using formulas"
+    },
+    {
+      "jargon": "Algebraic theories",
+      "layman": "Mathematical rules involving symbols and operations"
     }
   ],
   "methodologies": [
     {
       "jargon": "Algebraic theories",
-      "layman": "Math rules based on equations"
+      "layman": "Mathematical rules involving symbols and operations"
     },
     {
       "jargon": "Analytical theories",
-      "layman": "Math tools for solving problems"
+      "layman": "Mathematical reasoning using formulas"
     },
     {
       "jargon": "Majorization theories",
-      "layman": "Math way to compare number sets"
+      "layman": "Mathematical comparison of ordered values"
     },
     {
       "jargon": "Proper hypotheses",
-      "layman": "Valid assumptions made before testing"
+      "layman": "Clear assumptions used in the study"
     },
     {
-      "jargon": "Establishing inequalities",
-      "layman": "Proving mathematical relationships"
+      "jargon": "Establish several inequalities",
+      "layman": "Create multiple mathematical comparisons"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Applications",
-      "layman": "Real-world uses"
+      "layman": "Real-world uses of the findings"
     },
     {
       "jargon": "Polynomials as follows",
       "layman": "Specific mathematical expressions"
     },
     {
-      "jargon": "Under proper hypotheses",
-      "layman": "When conditions are met"
+      "jargon": "Mathematical rules",
+      "layman": "Clear formulas showing how things compare"
     },
     {
-      "jargon": "Display their applications",
-      "layman": "Show practical uses"
+      "jargon": "Under proper hypotheses",
+      "layman": "When conditions are met, results hold"
     }
   ]
 }

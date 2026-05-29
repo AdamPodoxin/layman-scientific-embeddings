@@ -1,46 +1,46 @@
 {
   "core_entities": [
     {
-      "jargon": "Stock market",
-      "layman": "Stock market"
-    },
-    {
-      "jargon": "Trading experts",
-      "layman": "Trading rules"
-    },
-    {
-      "jargon": "Financial time series",
-      "layman": "Stock price history"
+      "jargon": "Hybrid evolutionary algorithm",
+      "layman": "Mixed evolution-based optimization method"
     },
     {
       "jargon": "Many-core graphics processors",
-      "layman": "High-performance computing chips"
+      "layman": "Powerful graphics chips with many cores"
     },
     {
-      "jargon": "Optimization problem",
-      "layman": "Finding the best solution"
+      "jargon": "Trading experts",
+      "layman": "AI-based trading rules"
+    },
+    {
+      "jargon": "Financial time series",
+      "layman": "History of stock prices over time"
+    },
+    {
+      "jargon": "Stock price quotations",
+      "layman": "Current stock prices"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Hybrid evolutionary algorithm",
-      "layman": "Smart search using nature-inspired methods"
-    },
-    {
       "jargon": "Population-Based Incremental Learning",
-      "layman": "Learning from groups of solutions"
+      "layman": "Evolutionary learning from a group of solutions"
     },
     {
       "jargon": "Local search",
-      "layman": "Fine-tuning solutions"
+      "layman": "Fine-tuning of solutions"
     },
     {
-      "jargon": "Evolutionary algorithm",
-      "layman": "Natural selection-like problem solving"
+      "jargon": "Optimization problem",
+      "layman": "Finding the best solution among many options"
     },
     {
-      "jargon": "Real data from Paris Stock Exchange",
-      "layman": "Actual stock prices from real market"
+      "jargon": "Computational intelligence",
+      "layman": "Using smart computer systems to solve problems"
+    },
+    {
+      "jargon": "Experiments on real data",
+      "layman": "Testing on real stock market data"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Reduced computing time",
-      "layman": "Faster results"
+      "layman": "Faster processing"
     },
     {
       "jargon": "Outperforms classic approach",
-      "layman": "Better than old methods"
+      "layman": "Better than traditional methods"
     },
     {
       "jargon": "Financial relevance of investment strategies",
-      "layman": "Good money-making potential"
+      "layman": "Trading rules that work well in real markets"
     },
     {
-      "jargon": "Experiments confirmed",
-      "layman": "Tested and proven"
+      "jargon": "Real data from Paris Stock Exchange",
+      "layman": "Actual market data from Paris"
     }
   ]
 }

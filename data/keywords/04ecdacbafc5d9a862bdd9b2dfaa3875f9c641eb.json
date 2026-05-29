@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Character",
-      "layman": "Personal values and ethics"
+      "layman": "Personal moral strength"
     },
     {
       "jargon": "Leadership",
-      "layman": "Influencing others to achieve goals"
+      "layman": "Guiding others effectively"
+    },
+    {
+      "jargon": "Personal beliefs",
+      "layman": "One's values and opinions"
     },
     {
       "jargon": "Moral choices",
       "layman": "Decisions based on right and wrong"
     },
     {
-      "jargon": "Ethical behavior",
-      "layman": "Doing what is right, even when no one is watching"
-    },
-    {
       "jargon": "Integrity",
-      "layman": "Staying honest and consistent"
+      "layman": "Honesty and consistency in actions"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Example",
-      "layman": "Leading by doing the right thing"
+      "jargon": "Example setting",
+      "layman": "Leading by doing"
     },
     {
       "jargon": "Education",
-      "layman": "Learning through training and teaching"
+      "layman": "Learning through teaching and training"
     },
     {
       "jargon": "Experience",
-      "layman": "Gaining wisdom through real-life situations"
+      "layman": "Growth through real-life situations"
     },
     {
       "jargon": "Evaluation",
-      "layman": "Checking and assessing performance"
+      "layman": "Checking progress and performance"
     },
     {
       "jargon": "Environment",
-      "layman": "Influences from surroundings and culture"
+      "layman": "Influences from surroundings"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Positive influence",
-      "layman": "Helping others grow and do well"
+      "jargon": "Positive influence on others",
+      "layman": "Helping others become better"
     },
     {
       "jargon": "Strong leadership character",
-      "layman": "Leaders who act with honesty and courage"
+      "layman": "Effective and ethical leadership"
     },
     {
       "jargon": "Deficit leadership",
-      "layman": "Leadership with weaknesses or poor ethics"
+      "layman": "Weak or poor leadership"
     },
     {
       "jargon": "Leadership success",
-      "layman": "Good results from strong leadership"
+      "layman": "Good results from leadership"
     },
     {
       "jargon": "Character development",
-      "layman": "Growing better personal values over time"
+      "layman": "Growing one's moral qualities"
     }
   ]
 }

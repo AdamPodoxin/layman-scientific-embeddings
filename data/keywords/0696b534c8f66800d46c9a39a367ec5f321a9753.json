@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Internal Labor Markets",
-      "layman": "Internal job sharing system"
+      "layman": "Company-wide job-sharing system"
     },
     {
-      "jargon": "Adverse shocks",
-      "layman": "Negative business events"
-    },
-    {
-      "jargon": "Positive shocks",
-      "layman": "Good business events"
+      "jargon": "Labor regulations",
+      "layman": "Rules on hiring and firing workers"
     },
     {
       "jargon": "Affiliated firms",
-      "layman": "Connected companies in a group"
+      "layman": "Companies in the same group"
+    },
+    {
+      "jargon": "Worker mobility",
+      "layman": "Employees moving between jobs"
     },
     {
       "jargon": "High-skilled workers",
-      "layman": "Skilled employees"
+      "layman": "Workers with advanced training"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Workers' mobility data",
-      "layman": "Tracking employee moves"
+      "jargon": "Worker mobility data",
+      "layman": "Tracking employee job changes"
     },
     {
-      "jargon": "Labor regulations",
-      "layman": "Job rules set by law"
+      "jargon": "Shock analysis",
+      "layman": "Studying sudden business changes"
     },
     {
-      "jargon": "Firm efficiency",
-      "layman": "How well a company runs"
+      "jargon": "Panel data",
+      "layman": "Long-term employee records"
     },
     {
-      "jargon": "Growth opportunities",
-      "layman": "Chances for business expansion"
+      "jargon": "Regression analysis",
+      "layman": "Finding patterns in data"
     },
     {
-      "jargon": "Job redeployment",
-      "layman": "Moving workers to different jobs"
+      "jargon": "Causal inference",
+      "layman": "Determining what causes what"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Proportion of workers redeployed",
-      "layman": "Percent of workers moved internally"
+      "jargon": "Worker redeployment",
+      "layman": "Employees moved within company"
     },
     {
-      "jargon": "Costly labor adjustments",
-      "layman": "Expensive changes in staffing"
+      "jargon": "Proportion of redeployed workers",
+      "layman": "Share of workers moved internally"
     },
     {
       "jargon": "Job stability",
-      "layman": "Secure employment"
+      "layman": "Employees keep their jobs longer"
     },
     {
-      "jargon": "New hires",
-      "layman": "New employees added"
+      "jargon": "Positive shocks",
+      "layman": "Good business changes"
     },
     {
-      "jargon": "Co-insurance mechanism",
-      "layman": "Shared protection system"
+      "jargon": "Efficient destination firms",
+      "layman": "Better-performing companies"
     }
   ]
 }

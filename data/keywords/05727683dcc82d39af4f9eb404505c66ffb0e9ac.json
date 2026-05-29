@@ -6,41 +6,41 @@
     },
     {
       "jargon": "Pagan temples",
-      "layman": "Ancient Buddhist temples"
+      "layman": "Ancient temples near Pagan"
     },
     {
       "jargon": "Cosmic vision",
-      "layman": "View of the universe"
+      "layman": "View of the universe in Buddhist belief"
     },
     {
       "jargon": "Buddhist cosmos",
-      "layman": "Buddhist view of the universe"
+      "layman": "Buddhist idea of the universe"
     },
     {
-      "jargon": "Indic Buddhist art",
-      "layman": "Early Buddhist artwork"
+      "jargon": "High vaults",
+      "layman": "High ceiling spaces"
     }
   ],
   "methodologies": [
     {
       "jargon": "Iconographic analysis",
-      "layman": "Studying images to understand meaning"
+      "layman": "Study of images and symbols"
     },
     {
-      "jargon": "Spatial reconstruction",
-      "layman": "Rebuilding temple layouts"
+      "jargon": "Reconstruction",
+      "layman": "Putting together missing pieces"
+    },
+    {
+      "jargon": "Spatial context",
+      "layman": "How space fits with its surroundings"
+    },
+    {
+      "jargon": "Visualizations",
+      "layman": "Pictures showing ideas"
     },
     {
       "jargon": "Photographic record",
-      "layman": "Photo documentation"
-    },
-    {
-      "jargon": "Contextual analysis",
-      "layman": "Understanding within broader settings"
-    },
-    {
-      "jargon": "Visual interpretation",
-      "layman": "Reading images as stories"
+      "layman": "Photos of the murals"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Once-great beauty now gone"
     },
     {
-      "jargon": "Political and religious evidence",
-      "layman": "Proof of past power and beliefs"
+      "jargon": "Political and religious position",
+      "layman": "Power and belief influence"
     },
     {
-      "jargon": "Artistic position",
-      "layman": "High status in art"
+      "jargon": "Major artistic position",
+      "layman": "Important role in art"
     },
     {
-      "jargon": "Cosmological nature",
-      "layman": "View of the universe as absolute"
+      "jargon": "Evidence of history",
+      "layman": "Proof of past events"
     },
     {
-      "jargon": "Treasures hidden in darkness",
-      "layman": "Secrets in dark areas"
+      "jargon": "Cosmological nature of the Buddha",
+      "layman": "Buddha as part of the universe"
     }
   ]
 }

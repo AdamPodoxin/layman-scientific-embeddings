@@ -5,42 +5,42 @@
       "layman": "Medieval German kingdom"
     },
     {
-      "jargon": "Henry IV",
-      "layman": "German king in 1056"
+      "jargon": "Hohenstaufen dynasty",
+      "layman": "Ruling family of medieval Germany"
+    },
+    {
+      "jargon": "Papacy",
+      "layman": "Power of the Pope in Europe"
     },
     {
       "jargon": "Frederick Barbarossa",
-      "layman": "Strong and successful German emperor"
+      "layman": "Strong king of medieval Germany"
     },
     {
       "jargon": "Rudolf Habsburg",
-      "layman": "Emperor who restored order"
-    },
-    {
-      "jargon": "Hohenstaufens",
-      "layman": "Powerful German royal family"
+      "layman": "Ruler who restored order"
     }
   ],
   "methodologies": [
     {
       "jargon": "Political development",
-      "layman": "How power and government evolved"
+      "layman": "How government evolved"
     },
     {
       "jargon": "Social changes",
-      "layman": "Changes in people's lives and roles"
+      "layman": "Shifts in people\u2019s lives"
     },
     {
       "jargon": "Economic growth",
-      "layman": "Increase in wealth and trade"
+      "layman": "Improvement in trade and wealth"
     },
     {
       "jargon": "Population increase",
-      "layman": "More people over time"
+      "layman": "More people living in the region"
     },
     {
-      "jargon": "European context",
-      "layman": "How Germany fit into wider Europe"
+      "jargon": "Educational development",
+      "layman": "Growth in schools and learning"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Spread of Christian influence"
     },
     {
-      "jargon": "Fortunes of the Papacy",
-      "layman": "Papal power and influence"
+      "jargon": "Political developments in Europe",
+      "layman": "Changes in European governments"
     },
     {
-      "jargon": "Education",
-      "layman": "Teaching and learning systems"
+      "jargon": "Church and religious life",
+      "layman": "Growth of religious activities"
     },
     {
       "jargon": "Trade and industry",
-      "layman": "Business and manufacturing growth"
+      "layman": "Increased commerce and manufacturing"
     },
     {
-      "jargon": "Internal life",
-      "layman": "Daily life and societal functions"
+      "jargon": "Internal life of the empire",
+      "layman": "Daily life and conditions within the kingdom"
     }
   ]
 }

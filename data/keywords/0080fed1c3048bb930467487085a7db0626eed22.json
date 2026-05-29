@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Magnetic thermoplastic nanofibers",
-      "layman": "Tiny magnetic fibers made from plastic"
+      "layman": "Tiny magnetic plastic fibers"
     },
     {
       "jargon": "Immiscible polymer blends",
-      "layman": "Two polymers that don't mix well"
+      "layman": "Two polymers that don't mix"
     },
     {
       "jargon": "Fe3O4 nanoparticles",
-      "layman": "Tiny magnetic particles"
-    },
-    {
-      "jargon": "PVA-co-PE",
-      "layman": "A special plastic blend"
+      "layman": "Tiny magnetic iron particles"
     },
     {
       "jargon": "Cellulose acetate butyrate matrix",
-      "layman": "A plastic base layer"
+      "layman": "Plastic base material"
+    },
+    {
+      "jargon": "PVA-co-PE",
+      "layman": "Mixed plastic polymer"
     }
   ],
   "methodologies": [
     {
       "jargon": "Melt extrusion",
-      "layman": "Heating and pushing plastic through a die"
+      "layman": "Heating and extruding plastic"
     },
     {
       "jargon": "Phase separation",
-      "layman": "Mixing materials that separate into layers"
+      "layman": "Mix separating into layers"
     },
     {
       "jargon": "Scanning electron microscopy",
-      "layman": "Microscope that takes images of tiny surfaces"
+      "layman": "Zoom image of fiber surface"
     },
     {
       "jargon": "Transmission electron microscopy",
-      "layman": "Microscope that sees inside tiny materials"
+      "layman": "Tiny detail image of inside"
     },
     {
       "jargon": "Wide angle X-ray diffraction",
-      "layman": "Test that checks crystal structure"
+      "layman": "Check crystal structure"
     }
   ],
   "outcomes": [
     {
       "jargon": "Uniform dispersion of Fe3O4 nanoparticles",
-      "layman": "Even spread of magnetic particles"
+      "layman": "Even distribution of magnetic particles"
     },
     {
       "jargon": "Superparamagnetic behavior",
-      "layman": "Strong magnetic response at room temperature"
+      "layman": "Strong magnetic response at room temp"
     },
     {
       "jargon": "Saturation magnetization",
-      "layman": "Maximum magnetic strength"
+      "layman": "Max magnetic strength"
     },
     {
       "jargon": "Thermogravimetric analysis",
-      "layman": "Measures weight loss to find material amounts"
+      "layman": "Measure nanoparticle amount"
     },
     {
       "jargon": "Potential applications in sensors and bio-molecular separation",
-      "layman": "Could be used in medical sensors or filtering molecules"
+      "layman": "Good for sensors and filtering tiny molecules"
     }
   ]
 }

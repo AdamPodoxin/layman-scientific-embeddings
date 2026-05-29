@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Markets of beliefs",
-      "layman": "Spaces where beliefs are bought and sold"
+      "layman": "Spaces where ideas are bought and sold"
+    },
+    {
+      "jargon": "Religious facts",
+      "layman": "Beliefs considered true by religious groups"
     },
     {
       "jargon": "Public policies",
-      "layman": "Government rules and actions"
-    },
-    {
-      "jargon": "Religion",
-      "layman": "Religious beliefs and practices"
+      "layman": "Government rules about behavior"
     },
     {
       "jargon": "Secularization processes",
-      "layman": "Growing separation of religion from public life"
+      "layman": "Withdrawal of religion from public life"
     },
     {
       "jargon": "Regulation economics",
@@ -23,20 +23,20 @@
   ],
   "methodologies": [
     {
-      "jargon": "Economic analysis",
-      "layman": "Using economic tools to study behavior"
+      "jargon": "Rationality of agents",
+      "layman": "People acting logically in decisions"
     },
     {
-      "jargon": "Market structure",
-      "layman": "How markets are organized"
-    },
-    {
-      "jargon": "Agent rationality",
-      "layman": "How people make logical decisions"
+      "jargon": "Market structures",
+      "layman": "Types of market setups"
     },
     {
       "jargon": "Normative consequences",
       "layman": "What should be done based on analysis"
+    },
+    {
+      "jargon": "Economic analysis",
+      "layman": "Using money ideas to study things"
     },
     {
       "jargon": "Regulation of markets",
@@ -50,7 +50,7 @@
     },
     {
       "jargon": "Economic effects",
-      "layman": "Results of market changes"
+      "layman": "Financial impacts of market setups"
     },
     {
       "jargon": "Public performances on religion",
@@ -58,7 +58,7 @@
     },
     {
       "jargon": "Fundamental components",
-      "layman": "Basic building blocks of analysis"
+      "layman": "Key parts of the analysis"
     },
     {
       "jargon": "Consequences on regulation",

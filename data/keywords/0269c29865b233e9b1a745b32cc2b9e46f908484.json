@@ -6,11 +6,11 @@
     },
     {
       "jargon": "trans-HCNH",
-      "layman": "Straight hydrogen cyanide isomer"
+      "layman": "Straight hydrogen-cyanide molecule"
     },
     {
       "jargon": "cis-HCNH",
-      "layman": "Bent hydrogen cyanide isomer"
+      "layman": "Bent hydrogen-cyanide molecule"
     },
     {
       "jargon": "Hydrogen cyanide",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Radical",
-      "layman": "Unstable, missing electron molecule"
+      "layman": "Unstable atom with missing electron"
     }
   ],
   "methodologies": [
     {
       "jargon": "Iterative Extended H\u00fcckel Theory",
-      "layman": "Quantum chemistry model"
+      "layman": "Computer model for bond energy"
     },
     {
       "jargon": "Energy-conformation studies",
-      "layman": "Studying energy and shape"
+      "layman": "Checking stable molecular shapes"
     },
     {
       "jargon": "Stepwise addition",
-      "layman": "Adding one piece at a time"
-    },
-    {
-      "jargon": "Unpaired electron density distribution",
-      "layman": "Where electrons are missing"
+      "layman": "Adding hydrogen in stages"
     },
     {
       "jargon": "ESR spectra",
-      "layman": "Magnetic signal from unpaired electrons"
+      "layman": "Measuring unpaired electrons"
+    },
+    {
+      "jargon": "Potential energy surface",
+      "layman": "Map of molecular energy states"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Kinetic favorability",
-      "layman": "Forms faster"
+      "layman": "Easier to form"
     },
     {
-      "jargon": "Minimum energy conformers",
-      "layman": "Lowest energy shapes"
+      "jargon": "Unpaired electron density",
+      "layman": "Where electrons are missing"
     },
     {
-      "jargon": "Bonding nature",
-      "layman": "How atoms are connected"
+      "jargon": "Distributing electron density",
+      "layman": "Spreading out electron presence"
     },
     {
-      "jargon": "Relevance to prebiotic chemistry",
-      "layman": "Role in early life processes"
+      "jargon": "Prebiotic chemistry",
+      "layman": "Chemistry before life began"
     }
   ]
 }

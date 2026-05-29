@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Nonlinear optics",
-      "layman": "Light behaving in complex ways"
+      "layman": "Light bending in materials"
     },
     {
       "jargon": "Delayed choice",
-      "layman": "Deciding later what happened before"
+      "layman": "Choice made after the event"
     },
     {
       "jargon": "EPR-type correlations",
-      "layman": "Linked measurements that match instantly"
+      "layman": "Spooky linked particles"
     },
     {
       "jargon": "Faster-than-light communication",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Quantum entanglement",
-      "layman": "Particles acting as one, even apart"
+      "layman": "Linked particles acting together"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Nonlinear optics experiment",
+      "layman": "Experiment with light distortion"
+    },
+    {
       "jargon": "Delayed choice experiment",
-      "layman": "Testing decisions made after events"
+      "layman": "Making a choice after an event happens"
     },
     {
-      "jargon": "EPR-type correlations",
-      "layman": "Measuring linked particles at a distance"
+      "jargon": "EPR-type correlations setup",
+      "layman": "Setting up linked particle tests"
     },
     {
-      "jargon": "Nonlinear optical setup",
-      "layman": "Setup where light changes in complex ways"
-    },
-    {
-      "jargon": "Quantum state measurement",
-      "layman": "Checking a quantum system's state"
+      "jargon": "Quantum measurement",
+      "layman": "Measuring a quantum state"
     },
     {
       "jargon": "Correlation analysis",
-      "layman": "Looking for patterns in results"
+      "layman": "Checking how things are linked"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Faster-than-light communication appears not totally implausible",
-      "layman": "Message faster than light might be possible"
+      "jargon": "Faster-than-light communication appears plausible",
+      "layman": "Possible faster-than-light messaging"
     },
     {
       "jargon": "Attempts to refute the claim",
-      "layman": "People tried to prove it's impossible"
+      "layman": "Efforts to prove it's impossible"
     },
     {
       "jargon": "Nonlocal correlations",
-      "layman": "Results that link distant events"
+      "layman": "Links that span distance"
     },
     {
-      "jargon": "Quantum correlations",
-      "layman": "Strong links between measurements"
+      "jargon": "Quantum signaling",
+      "layman": "Sending signals via quantum states"
     },
     {
-      "jargon": "Spooky action at a distance",
-      "layman": "Instant connection between faraway things"
+      "jargon": "Implication of superluminal signaling",
+      "layman": "Signaling faster than light could happen"
     }
   ]
 }

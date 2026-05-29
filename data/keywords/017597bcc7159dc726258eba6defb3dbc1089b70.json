@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Information technology professionals",
+      "layman": "IT experts"
+    },
+    {
+      "jargon": "Internet-based firms",
+      "layman": "Online businesses"
+    },
+    {
+      "jargon": "Founder competence",
+      "layman": "Founders' skills"
+    },
+    {
+      "jargon": "Value propositions",
+      "layman": "What a business offers"
+    },
+    {
+      "jargon": "E-business strategy",
+      "layman": "Online business plan"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Competence model",
+      "layman": "Skill framework"
+    },
+    {
+      "jargon": "Governance principle",
+      "layman": "Decision rule"
+    },
+    {
+      "jargon": "Factor modeling",
+      "layman": "Analyzing influences"
+    },
+    {
+      "jargon": "Alignment process",
+      "layman": "Matching goals"
+    },
+    {
+      "jargon": "Internal and external factors",
+      "layman": "Inside and outside influences"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Success indicators",
+      "layman": "Signs of success"
+    },
+    {
+      "jargon": "Strategic alignment",
+      "layman": "Business and tech fit"
+    },
+    {
+      "jargon": "Value creation",
+      "layman": "Making money through innovation"
+    },
+    {
+      "jargon": "Partnership selection",
+      "layman": "Choosing the right team"
+    },
+    {
+      "jargon": "New business concepts",
+      "layman": "Innovative business ideas"
+    }
+  ]
+}

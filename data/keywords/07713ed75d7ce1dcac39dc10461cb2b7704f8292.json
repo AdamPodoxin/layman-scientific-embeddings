@@ -5,64 +5,64 @@
       "layman": "Down's syndrome"
     },
     {
-      "jargon": "Parents",
-      "layman": "Parents"
+      "jargon": "parents",
+      "layman": "parents"
     },
     {
-      "jargon": "Children",
-      "layman": "Children"
+      "jargon": "children",
+      "layman": "children"
     },
     {
-      "jargon": "Early intervention",
-      "layman": "Early support"
+      "jargon": "paediatricians",
+      "layman": "child doctors"
     },
     {
-      "jargon": "Conventional therapy services",
-      "layman": "Standard therapies"
+      "jargon": "early intervention",
+      "layman": "early support services"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Questionnaire",
-      "layman": "Survey"
+      "jargon": "questionnaire",
+      "layman": "survey form"
     },
     {
-      "jargon": "Discussion with other parents",
-      "layman": "Talking with other parents"
+      "jargon": "discussion with other parents",
+      "layman": "talking with other families"
     },
     {
-      "jargon": "Developmental potential",
-      "layman": "How much a child can grow and learn"
+      "jargon": "conventional therapy services",
+      "layman": "standard therapies"
     },
     {
-      "jargon": "Cosmetic surgery",
-      "layman": "Aesthetic surgery"
+      "jargon": "cosmetic surgery",
+      "layman": "aesthetic surgery"
     },
     {
-      "jargon": "Megavitamin therapy",
-      "layman": "High-dose vitamin treatment"
+      "jargon": "megavitamin therapy",
+      "layman": "high-dose vitamin treatment"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Strong support for early intervention",
-      "layman": "High support for early help"
+      "jargon": "strong support",
+      "layman": "high level of agreement"
     },
     {
-      "jargon": "Increasing support for cosmetic surgery",
-      "layman": "More support for appearance surgery"
+      "jargon": "increasing support",
+      "layman": "growing approval"
     },
     {
-      "jargon": "Unsupported therapies",
-      "layman": "Unproven treatments"
+      "jargon": "unsupported",
+      "layman": "not supported"
     },
     {
-      "jargon": "Underestimate developmental potential",
-      "layman": "Think children can't grow as much as they can"
+      "jargon": "underestimate",
+      "layman": "think less than they should"
     },
     {
-      "jargon": "Support for conventional therapy services",
-      "layman": "Support for standard therapies"
+      "jargon": "developmental potential",
+      "layman": "how much a child can grow and learn"
     }
   ]
 }

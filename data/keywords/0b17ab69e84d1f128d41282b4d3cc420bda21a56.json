@@ -5,10 +5,6 @@
       "layman": "Government plans to fight climate change"
     },
     {
-      "jargon": "International norms",
-      "layman": "Shared global rules or expectations"
-    },
-    {
       "jargon": "United States",
       "layman": "United States"
     },
@@ -17,8 +13,12 @@
       "layman": "European Union"
     },
     {
-      "jargon": "Kyoto Protocol",
-      "layman": "Global climate agreement from 1997"
+      "jargon": "United Kingdom",
+      "layman": "United Kingdom"
+    },
+    {
+      "jargon": "Germany",
+      "layman": "Germany"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Timeline of past events"
     },
     {
-      "jargon": "Normative salience",
-      "layman": "How strong a rule feels in politics"
+      "jargon": "Norms development",
+      "layman": "How norms evolve over time"
     },
     {
-      "jargon": "Typology",
-      "layman": "Categorization system"
+      "jargon": "Constructivist IR theory",
+      "layman": "Theory that ideas shape politics"
     },
     {
-      "jargon": "Framing",
-      "layman": "How a problem is presented"
+      "jargon": "Political salience",
+      "layman": "How strong a belief is in politics"
     },
     {
-      "jargon": "Policy development",
-      "layman": "How policies are created"
+      "jargon": "Framing of climate change",
+      "layman": "How climate change is presented as a problem"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Political salience",
-      "layman": "How important a norm is in politics"
-    },
-    {
-      "jargon": "Irrelevance",
-      "layman": "No impact on decisions"
+      "jargon": "Irrelevance of norms",
+      "layman": "Norms not taken seriously"
     },
     {
       "jargon": "Taken for granted",
-      "layman": "Assumed to be true without question"
+      "layman": "Norms assumed to be true"
     },
     {
-      "jargon": "Unachievable commitments",
-      "layman": "Promises that can't be met"
+      "jargon": "Marrakech Accords",
+      "layman": "2001 climate agreement"
     },
     {
-      "jargon": "Constructivist theory",
-      "layman": "Theory that ideas shape politics"
+      "jargon": "Kyoto Protocol",
+      "layman": "Climate treaty to cut emissions"
+    },
+    {
+      "jargon": "Failures of climate policy",
+      "layman": "Policy efforts that did not succeed"
     }
   ]
 }

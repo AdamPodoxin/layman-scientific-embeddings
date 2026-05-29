@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "parallel universes",
-      "layman": "parallel universes"
+      "jargon": "Parallel universes",
+      "layman": "Parallel universes"
     },
     {
-      "jargon": "electroweak vacuum",
-      "layman": "energy state of the universe"
+      "jargon": "Electroweak vacuum",
+      "layman": "Energy state of the early universe"
     },
     {
       "jargon": "Higgs-boson",
-      "layman": "Higgs particle"
+      "layman": "Higgs boson"
     },
     {
-      "jargon": "top-quark",
-      "layman": "top quark"
+      "jargon": "Top-quark",
+      "layman": "Top quark"
     },
     {
-      "jargon": "standard model",
-      "layman": "current theory of particles"
+      "jargon": "Standard model",
+      "layman": "Main theory of particle physics"
     }
   ],
   "methodologies": [
     {
-      "jargon": "decay",
-      "layman": "breakdown over time"
+      "jargon": "Mass combination analysis",
+      "layman": "Analyzing mass pairs"
     },
     {
-      "jargon": "observation",
-      "layman": "seeing or detecting"
+      "jargon": "Vacuum decay prediction",
+      "layman": "Predicting energy state collapse"
     },
     {
-      "jargon": "prediction",
-      "layman": "what is expected to happen"
+      "jargon": "Observational interpretation",
+      "layman": "Interpreting observations"
     },
     {
-      "jargon": "interpretation",
-      "layman": "making sense of data"
+      "jargon": "High-energy physics",
+      "layman": "Studying particles at high energies"
     },
     {
-      "jargon": "existence",
-      "layman": "whether something is real"
+      "jargon": "Theoretical modeling",
+      "layman": "Building mathematical models"
     }
   ],
   "outcomes": [
     {
-      "jargon": "high probability decay",
-      "layman": "likely breakdown"
+      "jargon": "Vacuum decay",
+      "layman": "Unstable energy state collapse"
     },
     {
-      "jargon": "our existence unlikely",
-      "layman": "life might be rare"
+      "jargon": "Existence of parallel universes",
+      "layman": "Parallel universes exist"
     },
     {
-      "jargon": "cannot be interpreted as evidence",
-      "layman": "no proof of new physics"
+      "jargon": "No evidence for new physics",
+      "layman": "No sign of new particles"
     },
     {
-      "jargon": "low energy scales",
-      "layman": "small energy levels"
+      "jargon": "High probability decay",
+      "layman": "Likely decay over time"
     },
     {
-      "jargon": "understanding of standard model",
-      "layman": "better grasp of current theory"
+      "jargon": "Existence not unlikely",
+      "layman": "Existence still possible"
     }
   ]
 }

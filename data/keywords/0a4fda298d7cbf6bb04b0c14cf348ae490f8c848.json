@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Franciscan formation",
-      "layman": "Franciscan formation"
+      "layman": "Franciscan rocks"
     },
     {
       "jargon": "Glaucophanitic metamorphism",
-      "layman": "Type of rock transformation"
+      "layman": "Stone transformation process"
     },
     {
       "jargon": "Coast Ranges",
-      "layman": "California coast mountain range"
-    },
-    {
-      "jargon": "Metamorphic rocks",
-      "layman": "Rocks changed by heat and pressure"
+      "layman": "California coastal mountains"
     },
     {
       "jargon": "Regional metamorphism",
-      "layman": "Widespread rock transformation"
+      "layman": "Widespread rock change"
+    },
+    {
+      "jargon": "Petrological characters",
+      "layman": "Rock composition features"
     }
   ],
   "methodologies": [
     {
       "jargon": "Geological characters",
-      "layman": "Rock features studied"
+      "layman": "Rock layer patterns"
     },
     {
-      "jargon": "Petrological characters",
-      "layman": "Rock composition analyzed"
-    },
-    {
-      "jargon": "Exposure",
-      "layman": "Rocks visible on surface"
-    },
-    {
-      "jargon": "Metamorphic processes",
-      "layman": "Changes in rock structure"
+      "jargon": "Petrological analysis",
+      "layman": "Studying rock composition"
     },
     {
       "jargon": "Regional metamorphism",
       "layman": "Large-scale rock transformation"
+    },
+    {
+      "jargon": "Exposure in Coast Ranges",
+      "layman": "Visible rock surfaces"
+    },
+    {
+      "jargon": "Metamorphic process",
+      "layman": "Change under heat and pressure"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Glaucophanitic regional metamorphism",
-      "layman": "Specific rock transformation pattern"
-    },
-    {
-      "jargon": "Widespread exposure",
-      "layman": "Found in many areas"
+      "jargon": "Widely exposed",
+      "layman": "Clearly visible everywhere"
     },
     {
       "jargon": "Geological and petrological characters",
-      "layman": "Observed rock traits"
+      "layman": "Rock features observed"
     },
     {
-      "jargon": "Metamorphic features",
-      "layman": "Visible rock changes"
+      "jargon": "Metamorphic rocks",
+      "layman": "Changed rocks"
     },
     {
-      "jargon": "Rock transformation",
-      "layman": "Rocks changed by heat and pressure"
+      "jargon": "Mica-rich minerals",
+      "layman": "Minerals with shiny layers"
+    },
+    {
+      "jargon": "High-pressure conditions",
+      "layman": "Intense pressure environments"
     }
   ]
 }

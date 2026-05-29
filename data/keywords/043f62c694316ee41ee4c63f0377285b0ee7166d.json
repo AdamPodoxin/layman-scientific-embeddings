@@ -6,33 +6,33 @@
     },
     {
       "jargon": "Right-degree d",
-      "layman": "Each right node connects to d left nodes"
+      "layman": "Each right group node has d connections"
     },
     {
       "jargon": "Input bits",
-      "layman": "Starting binary values"
+      "layman": "Starting data bits"
     },
     {
       "jargon": "Output bits",
-      "layman": "Final binary values"
+      "layman": "Final data bits"
     },
     {
-      "jargon": "Random balanced bipartite graph",
-      "layman": "Randomly connected two groups of equal size"
+      "jargon": "Fixed d-ary binary predicate",
+      "layman": "Rule that combines d input bits to make one output bit"
     }
   ],
   "methodologies": [
     {
       "jargon": "Backtracking algorithms",
-      "layman": "Step-by-step guessing and checking"
+      "layman": "Trial-and-error search for solutions"
     },
     {
       "jargon": "Myopic backtracking",
-      "layman": "Only looks one step ahead"
+      "layman": "Only looks at immediate next step"
     },
     {
       "jargon": "Drunk backtracking",
-      "layman": "Randomly wobbly path search"
+      "layman": "Randomly wanders through possibilities"
     },
     {
       "jargon": "DPLL elimination rules",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Expected size of preimage",
-      "layman": "Average number of possible inputs"
+      "layman": "Average number of inputs that lead to one output"
     },
     {
       "jargon": "Exponential time",
-      "layman": "Time doubles rapidly with input size"
+      "layman": "Time doubles as input grows"
+    },
+    {
+      "jargon": "Random balanced bipartite graph",
+      "layman": "Symmetric random connection pattern"
     },
     {
       "jargon": "One-way function",
-      "layman": "Hard to reverse, easy to compute"
+      "layman": "Hard to reverse once output is known"
     },
     {
       "jargon": "Inverting the function",
       "layman": "Finding original input from output"
-    },
-    {
-      "jargon": "Exponential increase in running time",
-      "layman": "Time grows extremely fast"
     }
   ]
 }

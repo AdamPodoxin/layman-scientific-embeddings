@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Differential lambda-mu-calculus",
-      "layman": "Extended logic system for computation"
+      "layman": "Mathematical system for logic and computation"
     },
     {
       "jargon": "Parigot's lambda-mu-calculus",
-      "layman": "Logic system for computation with control"
+      "layman": "Logic system for reasoning with control"
     },
     {
       "jargon": "Ehrhard-Regnier's differential lambda-calculus",
-      "layman": "Logic system that tracks change in computation"
+      "layman": "Calculus that handles change in logic"
     },
     {
       "jargon": "Reduction",
-      "layman": "Simplifying steps in computation"
+      "layman": "Simplifying expressions step by step"
     },
     {
       "jargon": "Simply typed terms",
-      "layman": "Well-defined expressions in a system"
+      "layman": "Well-defined expressions with clear types"
     }
   ],
   "methodologies": [
     {
       "jargon": "Church-Rosser property",
-      "layman": "Independent paths lead to same result"
+      "layman": "Unique simplification path"
     },
     {
       "jargon": "Strong normalization",
-      "layman": "All computations eventually stop"
+      "layman": "No infinite loops in computation"
+    },
+    {
+      "jargon": "Extension",
+      "layman": "Building on existing systems"
     },
     {
       "jargon": "Proof of properties",
-      "layman": "Verifying system behaviors"
-    },
-    {
-      "jargon": "Extension of systems",
-      "layman": "Building on existing logic rules"
+      "layman": "Verifying system rules"
     },
     {
       "jargon": "Reduction rules",
-      "layman": "Rules for simplifying expressions"
+      "layman": "Rules for simplifying logic expressions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Church-Rosser",
-      "layman": "All paths reach same outcome"
+      "layman": "All paths lead to same result"
     },
     {
       "jargon": "Strongly normalizing",
-      "layman": "All processes end in finite steps"
+      "layman": "Always reaches a final answer"
     },
     {
       "jargon": "Reduction enjoys Church-Rosser",
-      "layman": "Simplification paths converge"
+      "layman": "Simplification is consistent"
     },
     {
       "jargon": "System extension",
-      "layman": "New system built from older ones"
+      "layman": "New logic with richer rules"
     },
     {
-      "jargon": "Basic properties proven",
-      "layman": "Core behaviors confirmed"
+      "jargon": "Well-defined computation",
+      "layman": "Predictable and stable results"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Queer sensibility",
-      "layman": "Queer feeling"
+      "layman": "Queer mindset"
+    },
+    {
+      "jargon": "Cultural touchstone",
+      "layman": "Cultural symbol"
     },
     {
       "jargon": "Iconic film",
       "layman": "Famous movie"
     },
     {
-      "jargon": "Technicolor wonderland",
-      "layman": "Vivid, colorful world"
-    },
-    {
-      "jargon": "Gay bars",
-      "layman": "Bars for gay people"
-    },
-    {
       "jargon": "Polychromatic flag",
       "layman": "Rainbow flag"
+    },
+    {
+      "jargon": "Yellow Brick Road",
+      "layman": "Yellow road"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Cultural touchstones",
-      "layman": "Key cultural symbols"
+      "jargon": "Cinema analysis",
+      "layman": "Film study"
     },
     {
-      "jargon": "References",
-      "layman": "Mentions or allusions"
+      "jargon": "Cultural referencing",
+      "layman": "Citing culture"
     },
     {
-      "jargon": "Catchphrase",
-      "layman": "Famous line or saying"
+      "jargon": "Narrative legacy",
+      "layman": "Story impact"
     },
     {
-      "jargon": "Campy reformulation",
-      "layman": "Playful rewording"
+      "jargon": "Symbolic homage",
+      "layman": "Homage to symbols"
     },
     {
-      "jargon": "Film analysis",
-      "layman": "Studying a movie's meaning"
+      "jargon": "Pop-culture icon",
+      "layman": "Popular culture image"
     }
   ],
   "outcomes": [
     {
       "jargon": "Canonic nature",
-      "layman": "Widely accepted as important"
+      "layman": "Widely accepted status"
     },
     {
-      "jargon": "Cultural icon",
-      "layman": "Famous symbol in culture"
+      "jargon": "Campy reformulation",
+      "layman": "Playful rewrite"
     },
     {
-      "jargon": "Queer cinema",
-      "layman": "Movies with queer themes"
+      "jargon": "Queer cultural identity",
+      "layman": "Sense of queer belonging"
     },
     {
-      "jargon": "Viewer reception",
-      "layman": "How audiences respond"
+      "jargon": "Viewer adoration",
+      "layman": "Viewer love"
     },
     {
-      "jargon": "Utopianism",
-      "layman": "Dream of a perfect society"
+      "jargon": "Cultural elevation",
+      "layman": "Rising cultural value"
     }
   ]
 }

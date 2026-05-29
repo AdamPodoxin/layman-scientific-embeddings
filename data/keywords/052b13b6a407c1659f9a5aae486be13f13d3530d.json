@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Antithrombin III",
-      "layman": "Antithrombin III"
+      "jargon": "antithrombin III",
+      "layman": "antithrombin III"
     },
     {
-      "jargon": "Sepsis survivors",
-      "layman": "People who survived sepsis"
+      "jargon": "sepsis survivors",
+      "layman": "people who survived sepsis"
     },
     {
-      "jargon": "Visual analog scale",
-      "layman": "Simple pain or feeling scale"
+      "jargon": "visual analog scale",
+      "layman": "pain or feeling scale"
     },
     {
       "jargon": "Karnofsky scale",
-      "layman": "Health status scale"
+      "layman": "health status scale"
     },
     {
-      "jargon": "Placebo group",
-      "layman": "Group getting fake treatment"
+      "jargon": "placebo group",
+      "layman": "group getting fake treatment"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Randomized trial",
-      "layman": "Random assignment to groups"
+      "jargon": "randomized trial",
+      "layman": "random assignment to groups"
+    },
+    {
+      "jargon": "follow-up phase",
+      "layman": "ongoing monitoring after treatment"
     },
     {
       "jargon": "Wilcoxon statistical test",
-      "layman": "Comparison of changes over time"
+      "layman": "comparison tool for data"
     },
     {
-      "jargon": "Long-term follow-up",
-      "layman": "Monitoring over 90 days"
+      "jargon": "severity of illness",
+      "layman": "how sick a person was"
     },
     {
-      "jargon": "Severity of illness",
-      "layman": "How sick a patient was"
-    },
-    {
-      "jargon": "Admitting diagnosis",
-      "layman": "Reason for hospital admission"
+      "jargon": "admitting diagnosis",
+      "layman": "reason for hospital stay"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Quality of life improvements",
-      "layman": "Better daily living"
+      "jargon": "quality of life improvements",
+      "layman": "better daily living"
     },
     {
-      "jargon": "Social functioning",
-      "layman": "Ability to interact socially"
+      "jargon": "social functioning",
+      "layman": "ability to interact socially"
     },
     {
-      "jargon": "Psychologic functioning",
-      "layman": "Mental well-being"
+      "jargon": "psychologic functioning",
+      "layman": "mental health and emotions"
     },
     {
-      "jargon": "Significant advantage",
-      "layman": "Clear benefit over placebo"
+      "jargon": "significant advantage",
+      "layman": "clear benefit over control"
     },
     {
-      "jargon": "Extended time period",
-      "layman": "Long-term results"
+      "jargon": "long-term QoL effects",
+      "layman": "positive impact over time"
     }
   ]
 }

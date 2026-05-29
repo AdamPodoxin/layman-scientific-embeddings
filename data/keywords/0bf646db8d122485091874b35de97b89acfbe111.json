@@ -5,64 +5,64 @@
       "layman": "Energy level for particles"
     },
     {
-      "jargon": "Lattice actions",
-      "layman": "Grid-based physics rules"
-    },
-    {
       "jargon": "Fermion determinant",
       "layman": "Mathematical measure of particle behavior"
     },
     {
-      "jargon": "Nonzero chemical potential",
-      "layman": "Energy level not at zero"
+      "jargon": "Lattice actions",
+      "layman": "Discrete space grid models"
     },
     {
-      "jargon": "Physical constraint",
-      "layman": "Rule that makes physics realistic"
+      "jargon": "Nonzero chemical potential",
+      "layman": "Nonzero energy level in system"
+    },
+    {
+      "jargon": "Fermions",
+      "layman": "Particles like electrons"
     }
   ],
   "methodologies": [
     {
       "jargon": "Imposing a constraint",
-      "layman": "Adding a rule to the system"
+      "layman": "Adding a physical rule"
     },
     {
-      "jargon": "Obtain lattice actions",
-      "layman": "Create grid-based physics rules"
+      "jargon": "Obtaining lattice actions",
+      "layman": "Building models on grid"
+    },
+    {
+      "jargon": "Physical constraint",
+      "layman": "Rule that fits real world"
+    },
+    {
+      "jargon": "Mathematical modeling",
+      "layman": "Using math to simulate reality"
     },
     {
       "jargon": "Real fermion determinant",
-      "layman": "Actual mathematical result for particles"
-    },
-    {
-      "jargon": "General case",
-      "layman": "Broad situation"
-    },
-    {
-      "jargon": "Physical desirability",
-      "layman": "Desirable physical rule"
+      "layman": "Actual particle behavior in math"
     }
   ],
   "outcomes": [
     {
       "jargon": "No real fermion determinant",
-      "layman": "No valid particle math result"
+      "layman": "No real particle behavior found"
     },
     {
-      "jargon": "General failure",
-      "layman": "Doesn't work in most cases"
+      "jargon": "General case",
+      "layman": "Most situations"
     },
     {
       "jargon": "Class of lattice actions",
-      "layman": "Group of grid-based rules"
+      "layman": "Group of possible models"
     },
     {
-      "jargon": "Unavoidable issue",
-      "layman": "Problem that always occurs"
+      "jargon": "Unfavorable results",
+      "layman": "Bad outcomes for models"
     },
     {
-      "jargon": "Physical constraint",
-      "layman": "Rule that makes physics realistic"
+      "jargon": "Physically desirable constraint",
+      "layman": "Desirable physical rule"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "E-government",
-      "layman": "Government services online"
+      "layman": "Online government services"
     },
     {
       "jargon": "Citizens",
-      "layman": "People using services"
-    },
-    {
-      "jargon": "Service delivery",
-      "layman": "Providing services to people"
+      "layman": "Regular people"
     },
     {
       "jargon": "Government services",
-      "layman": "Services offered by government"
+      "layman": "Services provided by government"
     },
     {
-      "jargon": "E-government development",
-      "layman": "Growth of online government services"
+      "jargon": "Service delivery",
+      "layman": "Giving services to people"
+    },
+    {
+      "jargon": "E-government construction",
+      "layman": "Building online government systems"
     }
   ],
   "methodologies": [
     {
       "jargon": "Requirement analysis",
-      "layman": "Understanding what people need"
+      "layman": "Finding what people need"
     },
     {
       "jargon": "Customer representation",
-      "layman": "Reflecting user needs"
-    },
-    {
-      "jargon": "Process evaluation",
-      "layman": "Checking how services work"
-    },
-    {
-      "jargon": "Stakeholder involvement",
-      "layman": "Including people in decisions"
+      "layman": "Showing what users want"
     },
     {
       "jargon": "Development process",
-      "layman": "How services are built"
+      "layman": "How systems are built"
+    },
+    {
+      "jargon": "Service delivery process",
+      "layman": "How services are given"
+    },
+    {
+      "jargon": "Problem identification",
+      "layman": "Spotting issues in systems"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Service quality",
-      "layman": "How good the service is"
+      "jargon": "High quality services",
+      "layman": "Good online services"
     },
     {
-      "jargon": "Problems in construction",
-      "layman": "Issues in building services"
+      "jargon": "Problems in e-government",
+      "layman": "Issues in online services"
     },
     {
-      "jargon": "Development progress",
-      "layman": "How far services have come"
+      "jargon": "Development challenges",
+      "layman": "Difficulties in growth"
     },
     {
-      "jargon": "Citizen needs",
-      "layman": "What citizens require"
+      "jargon": "Citizen needs considered",
+      "layman": "People's needs are taken into account"
     },
     {
-      "jargon": "Improved government services",
-      "layman": "Better online government services"
+      "jargon": "Further development",
+      "layman": "More growth and improvement"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Global knowledge economy",
-      "layman": "Global economy based on knowledge and skills"
+      "jargon": "Knowledge economy",
+      "layman": "Economy based on knowledge and skills"
     },
     {
-      "jargon": "High-skills workforce",
-      "layman": "People with advanced education and training"
+      "jargon": "Globalisation",
+      "layman": "Global interconnectedness"
     },
     {
-      "jargon": "Economic efficiency",
-      "layman": "Using resources in the most effective way"
+      "jargon": "Education",
+      "layman": "Schooling and learning"
+    },
+    {
+      "jargon": "Jobs",
+      "layman": "Work opportunities"
     },
     {
       "jargon": "Social justice",
-      "layman": "Fair treatment of all people in society"
-    },
-    {
-      "jargon": "Individual aspirations",
-      "layman": "Personal goals and dreams"
+      "layman": "Fair treatment for all"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Examine",
-      "layman": "Analyze carefully"
+      "jargon": "Policy debates",
+      "layman": "Discussions about public policies"
     },
     {
-      "jargon": "Assess",
-      "layman": "Evaluate and judge"
+      "jargon": "Public discourse",
+      "layman": "Widespread public conversation"
     },
     {
-      "jargon": "Argue",
-      "layman": "Present a reasoned case"
+      "jargon": "Economic efficiency",
+      "layman": "Using resources wisely"
     },
     {
-      "jargon": "Identify assumptions",
-      "layman": "Spot what is taken for granted"
+      "jargon": "Individual aspirations",
+      "layman": "Personal goals"
     },
     {
-      "jargon": "Analyze relationships",
-      "layman": "Study how things are connected"
+      "jargon": "Societal relationships",
+      "layman": "How society connects to economy"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "High-skills, high-wage economy",
+      "layman": "Wage-rich, skill-based work"
+    },
     {
       "jargon": "Fundamental change",
       "layman": "Major shift in how things work"
     },
     {
-      "jargon": "Public debates",
-      "layman": "Widespread discussions in society"
+      "jargon": "Assumptions",
+      "layman": "Beliefs used in decision-making"
     },
     {
-      "jargon": "Policy debates",
-      "layman": "Government decision-making discussions"
+      "jargon": "Public and policy debates",
+      "layman": "Official discussions about issues"
     },
     {
-      "jargon": "Policy assumptions",
-      "layman": "Beliefs behind current policies"
-    },
-    {
-      "jargon": "Current views",
-      "layman": "Widespread beliefs about the economy"
+      "jargon": "Dominant view",
+      "layman": "Main idea widely accepted"
     }
   ]
 }

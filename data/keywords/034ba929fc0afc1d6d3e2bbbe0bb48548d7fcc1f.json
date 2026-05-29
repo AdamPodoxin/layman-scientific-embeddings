@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Charitable sector",
-      "layman": "Charities"
+      "layman": "Charity organizations"
     },
     {
       "jargon": "Social policy",
-      "layman": "Government efforts to help society"
+      "layman": "Government efforts to improve society"
     },
     {
       "jargon": "Corporate governance",
-      "layman": "Rules for how organizations are managed"
+      "layman": "Rules for how companies are run"
     },
     {
       "jargon": "Governmental attention",
-      "layman": "Government focus"
+      "layman": "Government noticing an issue"
     },
     {
       "jargon": "Legislative measures",
-      "layman": "New laws"
+      "layman": "New laws passed by government"
     }
   ],
   "methodologies": [
     {
       "jargon": "Historical context",
-      "layman": "Past background"
+      "layman": "Looking at past events"
     },
     {
-      "jargon": "Debate",
-      "layman": "Discussion"
+      "jargon": "Policy evaluation",
+      "layman": "Assessing how well policies work"
     },
     {
-      "jargon": "Battery of measures",
-      "layman": "Set of actions taken together"
+      "jargon": "Debate on governance",
+      "layman": "Public discussion about rules"
     },
     {
-      "jargon": "Policy analysis",
-      "layman": "Evaluating policies"
+      "jargon": "Comprehensive analysis",
+      "layman": "Detailed examination of all factors"
     },
     {
-      "jargon": "Reinforcing centrality",
-      "layman": "Strengthening importance"
+      "jargon": "Measure impact assessment",
+      "layman": "Testing how a policy affects outcomes"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Improvements in corporate governance climate",
-      "layman": "Better management in charities"
+      "jargon": "Improved governance climate",
+      "layman": "Better management standards"
     },
     {
       "jargon": "Centrality of charity",
-      "layman": "Charities are key in social policy"
+      "layman": "Charities are seen as essential"
     },
     {
-      "jargon": "Dormant issue",
-      "layman": "Problem ignored for years"
+      "jargon": "Reinforcing social policy role",
+      "layman": "Strengthening charities' role in society"
     },
     {
-      "jargon": "Governmental response",
-      "layman": "Government takes action"
+      "jargon": "Policy attention",
+      "layman": "More focus from policymakers"
     },
     {
-      "jargon": "Varying fortunes",
-      "layman": "Mixed results over time"
+      "jargon": "Battery of measures",
+      "layman": "Set of related actions or policies"
     }
   ]
 }

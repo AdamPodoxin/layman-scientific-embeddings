@@ -2,51 +2,51 @@
   "core_entities": [
     {
       "jargon": "Euclidean distances",
-      "layman": "Straight-line distances"
+      "layman": "Straight-line distances between points"
     },
     {
       "jargon": "Image datasets",
-      "layman": "Collections of images"
+      "layman": "Groups of images used for training"
     },
     {
       "jargon": "Face images",
-      "layman": "Photos of faces"
+      "layman": "Photos of human faces"
     },
     {
       "jargon": "Leaf images",
-      "layman": "Photos of leaves"
+      "layman": "Photos of plant leaves"
     },
     {
       "jargon": "Video images",
-      "layman": "Images from videos"
+      "layman": "Frames from videos"
     }
   ],
   "methodologies": [
     {
       "jargon": "Semi-supervised clustering",
-      "layman": "Grouping data with some labels"
+      "layman": "Grouping data with some known labels"
     },
     {
       "jargon": "Constraint propagation",
-      "layman": "Spreading known rules to unknown data"
+      "layman": "Spreading known groupings to unknown data"
     },
     {
       "jargon": "Quadratic Program (QP)",
-      "layman": "Optimization method to find best solution"
+      "layman": "Optimization process that finds best solution"
     },
     {
       "jargon": "Metric nearness problem",
-      "layman": "Finding distances that are close to real ones"
+      "layman": "Finding distances that fit a rule"
     },
     {
       "jargon": "Triangle inequality",
-      "layman": "Distance rule: shortest path between points"
+      "layman": "Distance rule: direct path is shortest"
     }
   ],
   "outcomes": [
     {
       "jargon": "Stronger clustering results",
-      "layman": "Better groupings of images"
+      "layman": "Better grouping of images"
     },
     {
       "jargon": "Outperforms state-of-the-art methods",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Preserves key properties of distances",
-      "layman": "Keeps important distance features"
+      "layman": "Keeps important distance patterns"
     },
     {
-      "jargon": "Efficient QP for real-world datasets",
-      "layman": "Fast method that works on real data"
+      "jargon": "Efficient QP algorithm",
+      "layman": "Faster distance learning method"
     },
     {
-      "jargon": "Enforces subset of inequalities",
-      "layman": "Applies only some distance rules"
+      "jargon": "Real-world clustering datasets",
+      "layman": "Used in actual applications"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "CDIO innovation and practice center",
-      "layman": "Engineering innovation lab"
+      "layman": "Hands-on engineering learning center"
     },
     {
       "jargon": "Mechatronics engineering",
-      "layman": "Mechatronics engineering"
+      "layman": "Engineering combining mechanics and electronics"
     },
     {
       "jargon": "Process of industry production",
-      "layman": "Industrial production process"
+      "layman": "How industries make products"
     },
     {
       "jargon": "Collegiate laboratory",
-      "layman": "University lab"
+      "layman": "University lab for student experiments"
     },
     {
-      "jargon": "Engineer education",
-      "layman": "Engineering education"
+      "jargon": "Higher education",
+      "layman": "University-level learning"
     }
   ],
   "methodologies": [
     {
       "jargon": "Operational mechanism",
-      "layman": "How the system works"
+      "layman": "How something runs and works"
     },
     {
       "jargon": "Experiment design",
-      "layman": "Planning experiments"
+      "layman": "Planning a test to get results"
+    },
+    {
+      "jargon": "Engineering education reform",
+      "layman": "Updating engineering teaching methods"
     },
     {
       "jargon": "Teaching projects",
-      "layman": "Hands-on learning tasks"
+      "layman": "Hands-on class assignments"
     },
     {
-      "jargon": "Curriculum integration",
-      "layman": "Linking courses together"
-    },
-    {
-      "jargon": "Training plan",
-      "layman": "Educational development plan"
+      "jargon": "Innovation practice",
+      "layman": "Doing real-life engineering projects"
     }
   ],
   "outcomes": [
     {
       "jargon": "Enhanced comprehensive qualities",
-      "layman": "Better overall skills"
+      "layman": "Better overall student skills"
     },
     {
-      "jargon": "Completed teaching projects",
-      "layman": "Finished class assignments"
+      "jargon": "Technological competition honors",
+      "layman": "Prizes in engineering contests"
     },
     {
-      "jargon": "Technological competitions",
-      "layman": "Tech contests"
+      "jargon": "Successful teaching projects",
+      "layman": "Completed class projects well"
     },
     {
-      "jargon": "National and international honors",
-      "layman": "Awards at home and abroad"
+      "jargon": "Student achievements",
+      "layman": "Students win awards"
     },
     {
-      "jargon": "Higher requirements for lab teaching",
-      "layman": "Stricter lab education standards"
+      "jargon": "Excellence in engineering education",
+      "layman": "High-quality engineering training"
     }
   ]
 }

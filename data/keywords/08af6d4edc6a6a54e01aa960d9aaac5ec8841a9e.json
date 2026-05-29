@@ -9,26 +9,30 @@
       "layman": "Ways to share things"
     },
     {
-      "jargon": "Order of application",
-      "layman": "Who goes first"
-    },
-    {
       "jargon": "Market",
-      "layman": "Buying and selling system"
+      "layman": "Buying and selling"
     },
     {
       "jargon": "Merit",
       "layman": "Based on ability or effort"
+    },
+    {
+      "jargon": "Random",
+      "layman": "Equal chance for everyone"
     }
   ],
   "methodologies": [
     {
       "jargon": "Scenario presentation",
-      "layman": "Presenting story-based situations"
+      "layman": "Real-life situation descriptions"
     },
     {
-      "jargon": "Single statement about scarcity",
-      "layman": "One sentence about shortage"
+      "jargon": "Statement presentation",
+      "layman": "Simple facts about scarcity"
+    },
+    {
+      "jargon": "Comparative study",
+      "layman": "Comparing different groups"
     },
     {
       "jargon": "Cross-cultural comparison",
@@ -36,33 +40,29 @@
     },
     {
       "jargon": "Economic upbringing",
-      "layman": "Growing up in a certain economy"
-    },
-    {
-      "jargon": "Preference rating",
-      "layman": "People ranking their choices"
+      "layman": "Growing up in a certain type of economy"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Preferences varied with scarcity",
-      "layman": "People's choices changed based on shortage"
+      "jargon": "Preference variation",
+      "layman": "Preferences change with context"
     },
     {
-      "jargon": "Preference for current practice",
-      "layman": "Favoring what society already uses"
+      "jargon": "Tendency to prefer current practice",
+      "layman": "People like what's already used"
     },
     {
-      "jargon": "No simple link to economic upbringing",
-      "layman": "Not just shaped by where you grew up"
+      "jargon": "Preference not simple product",
+      "layman": "Preferences aren't just from one factor"
     },
     {
-      "jargon": "Preferences differ between countries",
-      "layman": "Students from different places had different views"
+      "jargon": "Market versus regulation",
+      "layman": "Choosing between free market and rules"
     },
     {
-      "jargon": "Market vs regulation preference",
-      "layman": "People chose between free market or rules"
+      "jargon": "Differences between student groups",
+      "layman": "Students from different places differ"
     }
   ]
 }

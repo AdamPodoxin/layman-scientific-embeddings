@@ -1,7 +1,7 @@
 {
   "core_entities": [
     {
-      "jargon": "Lambek calculus",
+      "jargon": "Lambek syntactic calculus",
       "layman": "Grammar system for sentence structure"
     },
     {
@@ -13,56 +13,56 @@
       "layman": "Blank or empty string"
     },
     {
-      "jargon": "Syntactic calculus",
-      "layman": "Rules for how words combine"
+      "jargon": "Premises",
+      "layman": "Starting assumptions or facts"
     },
     {
-      "jargon": "Premises",
-      "layman": "Starting assumptions in reasoning"
+      "jargon": "Syntactic calculus",
+      "layman": "Rules for how sentences are built"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Prove completeness",
-      "layman": "Show all possible cases are covered"
+      "jargon": "Proof",
+      "layman": "Logical argument"
+    },
+    {
+      "jargon": "Completeness",
+      "layman": "All valid cases are covered"
     },
     {
       "jargon": "String models",
-      "layman": "Models based on strings of symbols"
+      "layman": "Models based on strings of letters or symbols"
     },
     {
-      "jargon": "Allow empty premises",
-      "layman": "Let reasoning start with nothing"
+      "jargon": "Empty premises",
+      "layman": "Starting with no assumptions"
     },
     {
-      "jargon": "Class of models",
-      "layman": "Set of all possible examples"
-    },
-    {
-      "jargon": "Logical completeness",
-      "layman": "All valid rules are captured"
+      "jargon": "Model theory",
+      "layman": "Testing rules against possible examples"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Complete with respect to",
-      "layman": "Fully matches all possible cases"
+      "jargon": "Complete with respect to free monoid models",
+      "layman": "All rules work in string-based systems"
     },
     {
-      "jargon": "Free monoid models",
-      "layman": "All string-based models are included"
+      "jargon": "Allows empty premises",
+      "layman": "Works even with no starting facts"
     },
     {
-      "jargon": "Empty string allowed",
-      "layman": "Blank strings are accepted"
+      "jargon": "Class of all free monoid models",
+      "layman": "All possible string-based setups"
     },
     {
-      "jargon": "Syntactic rules",
-      "layman": "Rules for word combinations work"
+      "jargon": "Syntactic validity",
+      "layman": "Correct sentence structure"
     },
     {
-      "jargon": "Lambek calculus",
-      "layman": "Grammar system works fully"
+      "jargon": "Logical consistency",
+      "layman": "No contradictions in the system"
     }
   ]
 }

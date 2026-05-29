@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Service feature",
-      "layman": "Smart home function"
+      "layman": "Function in software"
     },
     {
       "jargon": "Dynamic Software Product Line",
       "layman": "Flexible software system"
     },
     {
+      "jargon": "Smart home",
+      "layman": "Home with automated devices"
+    },
+    {
       "jargon": "Decentralized decision-making",
       "layman": "No central control"
     },
     {
-      "jargon": "Quorum sensing",
-      "layman": "Group-based decision making"
-    },
-    {
-      "jargon": "Firefly algorithm",
-      "layman": "Synchronization method"
+      "jargon": "Multiple instances",
+      "layman": "Several copies of a feature"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Quorum sensing based service activation",
-      "layman": "Activate service when enough devices join"
+      "jargon": "Quorum sensing",
+      "layman": "Group-based signal sharing"
     },
     {
-      "jargon": "Firefly algorithm for synchronization",
-      "layman": "Align devices using light signals"
+      "jargon": "Firefly algorithm",
+      "layman": "Synchronization using light signals"
     },
     {
-      "jargon": "Gossiping (epidemic) protocol",
-      "layman": "Spread info between devices"
+      "jargon": "Gossiping protocol",
+      "layman": "Spreading info randomly"
     },
     {
-      "jargon": "Self-organization in biological organisms",
-      "layman": "Organisms organizing without central control"
+      "jargon": "Self-organization",
+      "layman": "Spontaneous order without central control"
     },
     {
-      "jargon": "Smart home scenario",
-      "layman": "Home automation example"
+      "jargon": "Service activation",
+      "layman": "Turning on a feature"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Seamless integration of new instances",
-      "layman": "New devices work without changes"
+      "jargon": "Seamless integration",
+      "layman": "Smooth addition of new features"
     },
     {
-      "jargon": "Decentralized coordination",
-      "layman": "Devices work together without central control"
-    },
-    {
-      "jargon": "No omniscient central controller",
-      "layman": "No single device knows everything"
-    },
-    {
-      "jargon": "Proof of concept",
-      "layman": "Tested and works in simple case"
+      "jargon": "Omniscient central controller",
+      "layman": "All-knowing central manager"
     },
     {
       "jargon": "Motivating scenarios",
-      "layman": "Real-life situations used to test"
+      "layman": "Real-life situations showing need"
+    },
+    {
+      "jargon": "Proof of concept",
+      "layman": "Working example showing feasibility"
+    },
+    {
+      "jargon": "Adoption experience",
+      "layman": "Real-world implementation results"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Curves of genus at least 2",
-      "layman": "Complex geometric shapes with holes"
+      "layman": "Higher-complexity mathematical curves"
     },
     {
-      "jargon": "Jacobians",
-      "layman": "Mathematical objects tied to curves"
+      "jargon": "Jacobian",
+      "layman": "Mathematical object tied to curves"
     },
     {
       "jargon": "Number fields",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Finite fields",
-      "layman": "Limited number systems"
+      "layman": "Limited sets of numbers"
     },
     {
       "jargon": "Algorithms",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Explicit calculations",
-      "layman": "Direct math computations"
+      "layman": "Direct mathematical computations"
     },
     {
       "jargon": "Algorithms",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Computational methods",
-      "layman": "Computer-based math solving"
+      "layman": "Using computers to solve math problems"
     },
     {
       "jargon": "Numerical computation",
-      "layman": "Using numbers to solve problems"
+      "layman": "Solving equations with numbers"
     },
     {
-      "jargon": "Explicit construction",
-      "layman": "Building something directly and clearly"
+      "jargon": "Algorithmic design",
+      "layman": "Creating math procedures"
     }
   ],
   "outcomes": [
     {
       "jargon": "Miscellaneous examples",
-      "layman": "Various sample cases"
+      "layman": "Various case studies"
     },
     {
       "jargon": "Future projects",
       "layman": "Upcoming research ideas"
     },
     {
-      "jargon": "Computational results",
-      "layman": "Computer-derived findings"
-    },
-    {
       "jargon": "Mathematical structures",
       "layman": "Patterned mathematical forms"
     },
     {
-      "jargon": "Geometric properties",
-      "layman": "Shape-based characteristics"
+      "jargon": "Computational efficiency",
+      "layman": "How fast calculations complete"
+    },
+    {
+      "jargon": "Explicit solutions",
+      "layman": "Clear, direct answers found"
     }
   ]
 }

@@ -5,64 +5,64 @@
       "layman": "Economic system without private ownership"
     },
     {
-      "jargon": "Private property",
-      "layman": "Individual ownership of resources"
+      "jargon": "Private ownership",
+      "layman": "Individuals owning resources"
     },
     {
       "jargon": "Central planning",
-      "layman": "Government deciding all economic decisions"
+      "layman": "Government deciding all economic actions"
     },
     {
       "jargon": "Market",
-      "layman": "System where prices are set by supply and demand"
+      "layman": "Economy driven by supply and demand"
     },
     {
-      "jargon": "Austrian critique",
-      "layman": "Austrian economic argument against socialism"
+      "jargon": "Subjective knowledge",
+      "layman": "Personal, unique information people hold"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Rational economic calculation",
+      "layman": "Making economic decisions using reason and prices"
+    },
+    {
+      "jargon": "Competitive response",
+      "layman": "Trying to mimic market competition"
+    },
+    {
       "jargon": "Factual knowledge problem",
-      "layman": "Problem of gathering individual, scattered knowledge"
+      "layman": "Gathering scattered individual knowledge for planning"
     },
     {
       "jargon": "Ethical knowledge problem",
-      "layman": "Problem of moral decision-making in policy"
+      "layman": "Deciding what is right in a socialist society"
     },
     {
-      "jargon": "Economic calculation",
-      "layman": "Using prices to decide what to produce"
+      "jargon": "Critique",
+      "layman": "A careful evaluation or challenge"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Meaningful prices",
+      "layman": "Prices that show true scarcity"
     },
     {
       "jargon": "Profit and loss accounting",
       "layman": "Tracking gains and losses to guide decisions"
     },
     {
-      "jargon": "Competitive response",
-      "layman": "Trying to mimic market competition in a planned system"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Rational economic calculation",
-      "layman": "Making sensible economic decisions"
-    },
-    {
-      "jargon": "Meaningful prices",
-      "layman": "Prices that show true scarcity"
+      "jargon": "Failure of market socialism",
+      "layman": "Market-based socialism does not work"
     },
     {
       "jargon": "Alienation and exploitation",
-      "layman": "Workers feeling disconnected or unfairly treated"
-    },
-    {
-      "jargon": "Failure of market socialism",
-      "layman": "Planned systems can't work like markets"
+      "layman": "People feel detached or cheated in systems"
     },
     {
       "jargon": "Hayekian socialism",
-      "layman": "Socialism that respects market knowledge"
+      "layman": "Socialism that respects market knowledge and ethics"
     }
   ]
 }

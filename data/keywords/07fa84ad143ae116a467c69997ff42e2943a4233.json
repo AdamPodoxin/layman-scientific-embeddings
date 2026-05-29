@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Biosafety Level-4 facility",
-      "layman": "Highest-security lab for dangerous diseases"
+      "layman": "Highest security lab for dangerous diseases"
     },
     {
       "jargon": "Bioterrorism",
-      "layman": "Using disease to cause harm"
-    },
-    {
-      "jargon": "Public health infrastructure",
-      "layman": "Systems for protecting people from disease"
+      "layman": "Using disease to cause fear or harm"
     },
     {
       "jargon": "Biopolitical formations",
       "layman": "Ways society organizes life and risk"
     },
     {
-      "jargon": "Biological citizenship",
-      "layman": "People\u2019s rights and roles in disease control"
+      "jargon": "Biosecurity programs",
+      "layman": "Government plans to prevent disease attacks"
+    },
+    {
+      "jargon": "Public life",
+      "layman": "Daily lives of communities"
     }
   ],
   "methodologies": [
     {
       "jargon": "Interview",
-      "layman": "Talking to people for insight"
+      "layman": "Talking to people"
     },
     {
       "jargon": "Observation",
-      "layman": "Watching people and environments"
+      "layman": "Watching what happens"
     },
     {
       "jargon": "Historical research",
-      "layman": "Studying past events and records"
+      "layman": "Studying past events"
     },
     {
-      "jargon": "Multi-sited study",
-      "layman": "Looking at multiple places together"
+      "jargon": "Community protest",
+      "layman": "People organizing to show opposition"
     },
     {
-      "jargon": "Risk assessment",
-      "layman": "Evaluating how likely a threat is"
+      "jargon": "Material outcomes",
+      "layman": "Real-world results of policies"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Public fear of microbes",
-      "layman": "People\u2019s anxiety about germs"
+      "jargon": "New spaces of biological citizenship",
+      "layman": "New ways people see themselves as part of society"
     },
     {
       "jargon": "Environmental geographies",
-      "layman": "How land and space are shaped by risk"
+      "layman": "Geographic areas shaped by fear of disease"
     },
     {
-      "jargon": "New spaces of biological citizenship",
-      "layman": "New ways people engage with health and safety"
+      "jargon": "Public fear of microbes",
+      "layman": "People's anxiety about germs"
     },
     {
-      "jargon": "Community protest",
-      "layman": "People gathering to express concern"
+      "jargon": "Remade histories of disease and terror",
+      "layman": "Old stories of disease and fear are changed"
     },
     {
-      "jargon": "Biopreparedness programs",
-      "layman": "Plans to prepare for biological threats"
+      "jargon": "New conceptions of life, risk, and disease",
+      "layman": "New understandings of what life and danger mean"
     }
   ]
 }

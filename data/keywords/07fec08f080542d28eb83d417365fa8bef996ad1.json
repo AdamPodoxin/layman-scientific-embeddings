@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Odd exponent groups",
-      "layman": "Groups with odd exponent"
+      "layman": "Groups with odd exponents"
     },
     {
       "jargon": "Single axioms",
-      "layman": "One fundamental rule"
+      "layman": "Single rule that defines a group"
     },
     {
       "jargon": "Automated reasoning",
-      "layman": "Computer-based logic analysis"
+      "layman": "Computer-based logical reasoning"
     },
     {
       "jargon": "General schema",
-      "layman": "General pattern"
+      "layman": "General pattern or rule"
     },
     {
       "jargon": "Proofs",
-      "layman": "Logical arguments"
+      "layman": "Logical arguments showing something is true"
     }
   ],
   "methodologies": [
     {
       "jargon": "Automated reasoning techniques",
-      "layman": "Computer logic tools"
+      "layman": "Computer tools for logical deduction"
     },
     {
       "jargon": "Proof conversion",
-      "layman": "Turn computer proofs into human-readable ones"
+      "layman": "Turning machine proofs into human-readable ones"
     },
     {
       "jargon": "Logical deduction",
-      "layman": "Following logical steps to reach a conclusion"
+      "layman": "Deriving truths from rules"
     },
     {
-      "jargon": "Pattern recognition",
-      "layman": "Spotting recurring structures"
+      "jargon": "Systematic validation",
+      "layman": "Careful checking of results"
     },
     {
-      "jargon": "Mathematical schema",
-      "layman": "General rule in math"
+      "jargon": "Verification process",
+      "layman": "Confirming correctness step by step"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Special cases",
-      "layman": "Specific examples of a general rule"
+      "jargon": "All known axioms are special cases",
+      "layman": "Old rules are versions of one general rule"
     },
     {
-      "jargon": "One general schema",
-      "layman": "One universal pattern"
+      "jargon": "General schema covers all cases",
+      "layman": "One pattern explains all known examples"
     },
     {
-      "jargon": "Human-readable proofs",
-      "layman": "Proofs people can understand"
+      "jargon": "Human-understandable proofs",
+      "layman": "Clear explanations for people"
     },
     {
-      "jargon": "Previously known axioms",
-      "layman": "Oldly known rules"
+      "jargon": "Short single axioms",
+      "layman": "Simple single rules for groups"
     },
     {
-      "jargon": "All axioms are special cases",
-      "layman": "All rules fit into one pattern"
+      "jargon": "New general rule discovered",
+      "layman": "A universal rule found for odd exponent groups"
     }
   ]
 }

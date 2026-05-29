@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Ground Receiving Station",
-      "layman": "Earth-based receiver station"
+      "layman": "Ground station that receives power"
     },
     {
       "jargon": "Rose Valley/Coso",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "California desert",
-      "layman": "Dry, arid region in California"
+      "layman": "Arid region of California"
     },
     {
       "jargon": "Microwave health and safety",
@@ -24,11 +24,11 @@
   "methodologies": [
     {
       "jargon": "Prototype assessment",
-      "layman": "Early version of an evaluation"
+      "layman": "Early model evaluation"
     },
     {
       "jargon": "Baseline data",
-      "layman": "Starting environmental measurements"
+      "layman": "Existing environmental data"
     },
     {
       "jargon": "Siting",
@@ -39,30 +39,30 @@
       "layman": "Building the station"
     },
     {
-      "jargon": "Environmental impact assessment",
-      "layman": "Study of how a project affects nature"
+      "jargon": "Environmental impacts assessment",
+      "layman": "Checking effects on nature"
     }
   ],
   "outcomes": [
     {
       "jargon": "Non-microwave-related impacts",
-      "layman": "Effects not from microwave radiation"
+      "layman": "Effects not from microwaves"
+    },
+    {
+      "jargon": "Critical characteristics",
+      "layman": "Most important features"
     },
     {
       "jargon": "Reference system",
-      "layman": "Standard system used for comparison"
-    },
-    {
-      "jargon": "Critical parameters",
-      "layman": "Most important factors"
+      "layman": "Standard setup used"
     },
     {
       "jargon": "Actual baseline data",
-      "layman": "Real-world starting environmental data"
+      "layman": "Real-world starting conditions"
     },
     {
       "jargon": "Natural environment",
-      "layman": "Ecosystem and surroundings"
+      "layman": "Earth's natural surroundings"
     }
   ]
 }

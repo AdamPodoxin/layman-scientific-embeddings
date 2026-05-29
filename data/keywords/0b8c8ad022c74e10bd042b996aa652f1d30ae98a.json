@@ -2,11 +2,15 @@
   "core_entities": [
     {
       "jargon": "(Bi,Pb)2Sr2Ca2Cu3O10",
-      "layman": "Superconducting ceramic material"
+      "layman": "High-temperature superconductor material"
     },
     {
-      "jargon": "Ag protective sheath",
-      "layman": "Silver protective layer"
+      "jargon": "Superconducting crystallites",
+      "layman": "Superconducting crystals"
+    },
+    {
+      "jargon": "Pure Ag protective sheath",
+      "layman": "Pure silver protective layer"
     },
     {
       "jargon": "Ni external sheath",
@@ -14,55 +18,51 @@
     },
     {
       "jargon": "Ceramic core",
-      "layman": "Central ceramic part"
-    },
-    {
-      "jargon": "Critical temperature",
-      "layman": "Temperature at which superconductivity starts"
+      "layman": "Ceramic center"
     }
   ],
   "methodologies": [
     {
       "jargon": "In-situ synchrotron x-ray diffraction",
-      "layman": "Real-time X-ray analysis of material changes"
+      "layman": "Real-time X-ray imaging during heating"
     },
     {
-      "jargon": "Oxygen supply control",
-      "layman": "Managing oxygen flow during processing"
+      "jargon": "Oxygen supply",
+      "layman": "Oxygen flow to the material"
     },
     {
       "jargon": "Slow cooling rate",
-      "layman": "Cooling the material slowly"
+      "layman": "Gradual cooling after heating"
     },
     {
-      "jargon": "Single heat treatment",
-      "layman": "One heating and cooling cycle"
+      "jargon": "Heat treatment",
+      "layman": "Heating and cooling process"
     },
     {
       "jargon": "Phase formation kinetics",
-      "layman": "How quickly phases form in material"
+      "layman": "How fast and how the material forms its structure"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Critical current densities up to 35 kA/cm2",
-      "layman": "High current flow in superconductor"
+      "jargon": "Critical temperature",
+      "layman": "Temperature where superconductivity starts"
     },
     {
-      "jargon": "Improved ceramic density",
-      "layman": "More solid, less empty space in material"
+      "jargon": "Critical current densities",
+      "layman": "Maximum current the material can carry"
     },
     {
-      "jargon": "Unaffected critical temperature",
-      "layman": "Superconducting temperature stays the same"
+      "jargon": "Ceramic density",
+      "layman": "How tightly packed the ceramic is"
     },
     {
-      "jargon": "Prevention of porosity",
-      "layman": "No air pockets form during growth"
+      "jargon": "Porosity",
+      "layman": "Air pockets in the material"
     },
     {
-      "jargon": "Higher mechanical strength at high temperature",
-      "layman": "Stronger under heat"
+      "jargon": "Mechanical strength",
+      "layman": "Ability to resist deformation"
     }
   ]
 }

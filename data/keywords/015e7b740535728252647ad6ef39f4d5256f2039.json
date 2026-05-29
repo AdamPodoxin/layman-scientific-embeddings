@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "ws-compact mappings",
-      "layman": "Compact operators in function spaces"
+      "layman": "Compact operator in Banach spaces"
     },
     {
       "jargon": "Banach spaces",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Fixed point",
-      "layman": "Point that stays unchanged"
+      "layman": "Point where function returns itself"
+    },
+    {
+      "jargon": "Operators",
+      "layman": "Mathematical functions on spaces"
     },
     {
       "jargon": "Sadovskii conditions",
-      "layman": "Rules for finding stable points"
-    },
-    {
-      "jargon": "Leray-Schauder conditions",
-      "layman": "Rules for existence of stable points"
+      "layman": "Rules for fixed points in mappings"
     }
   ],
   "methodologies": [
     {
       "jargon": "Fixed point theorems",
-      "layman": "Rules for finding unchanging points"
+      "layman": "Rules to find stable points"
+    },
+    {
+      "jargon": "Leray-Schauder conditions",
+      "layman": "Method to find fixed points"
     },
     {
       "jargon": "Rothe conditions",
-      "layman": "Rules for stable point existence"
+      "layman": "Rules to locate fixed points"
     },
     {
       "jargon": "Altman conditions",
-      "layman": "Rules for stable point conditions"
+      "layman": "Conditions for fixed points"
     },
     {
       "jargon": "Petryshyn conditions",
-      "layman": "Rules for stable point existence"
-    },
-    {
-      "jargon": "Furi-Pera conditions",
-      "layman": "Rules for stable point rules"
+      "layman": "Rules for fixed point existence"
     }
   ],
   "outcomes": [
     {
       "jargon": "Fixed point results",
-      "layman": "Stable point solutions"
+      "layman": "Stable point found"
     },
     {
       "jargon": "Applicability",
-      "layman": "Usefulness in real problems"
+      "layman": "Useful in real cases"
     },
     {
-      "jargon": "Example given",
+      "jargon": "Usefulness",
+      "layman": "Practical value shown"
+    },
+    {
+      "jargon": "Example provided",
       "layman": "Real-world case shown"
     },
     {
-      "jargon": "Operator conditions",
-      "layman": "Rules for mapping behavior"
-    },
-    {
-      "jargon": "Existence of solutions",
-      "layman": "Solutions are proven to exist"
+      "jargon": "Existence and uniqueness",
+      "layman": "One stable solution found"
     }
   ]
 }

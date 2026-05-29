@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "e-Government",
-      "layman": "Digital government services"
+      "layman": "Government using digital tools"
     },
     {
       "jargon": "Less developed countries",
-      "layman": "Poorer nations"
+      "layman": "Poorly developed nations"
     },
     {
       "jargon": "Government activities",
-      "layman": "Public services"
+      "layman": "Public services and operations"
     },
     {
       "jargon": "Literature review",
-      "layman": "Summary of existing research"
+      "layman": "Summary of past research"
     },
     {
-      "jargon": "Applications",
-      "layman": "Real-world uses"
+      "jargon": "Digital applications",
+      "layman": "Online government tools"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Systematic review",
-      "layman": "Structured research summary"
+      "jargon": "Literature review",
+      "layman": "Reviewing existing studies"
+    },
+    {
+      "jargon": "Systematic evidence",
+      "layman": "Clear and organized proof"
     },
     {
       "jargon": "Comprehensive review",
-      "layman": "Full analysis of studies"
+      "layman": "Complete study of all related work"
     },
     {
-      "jargon": "Implementation",
-      "layman": "Putting systems into use"
+      "jargon": "Analytical discussion",
+      "layman": "Deep examination of ideas"
     },
     {
-      "jargon": "Government activities",
-      "layman": "Public services"
-    },
-    {
-      "jargon": "Evidence-based analysis",
-      "layman": "Using facts to draw conclusions"
+      "jargon": "Empirical applications",
+      "layman": "Real-world case examples"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Key challenges",
-      "layman": "Main problems"
+      "jargon": "Challenges in implementation",
+      "layman": "Difficulties in setting up"
     },
     {
-      "jargon": "Effect on government activities",
-      "layman": "Impact on public services"
+      "jargon": "Positive effects on government activities",
+      "layman": "Better government performance"
     },
     {
-      "jargon": "Results achieved",
-      "layman": "Outcomes from trials"
+      "jargon": "Achieved results",
+      "layman": "Successes seen in practice"
     },
     {
-      "jargon": "Lack of systematic evidence",
-      "layman": "Missing clear data"
+      "jargon": "Government efficiency",
+      "layman": "Smarter public service delivery"
     },
     {
-      "jargon": "Importance of e-Government",
-      "layman": "Value of digital services"
+      "jargon": "Policy impact",
+      "layman": "Change in government decisions"
     }
   ]
 }

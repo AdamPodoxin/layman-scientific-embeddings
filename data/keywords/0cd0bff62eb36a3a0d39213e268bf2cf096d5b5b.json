@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Parallel runtime system",
-      "layman": "System that runs parallel programs"
+      "layman": "System that manages parallel execution"
+    },
+    {
+      "jargon": "Debugging support",
+      "layman": "Tools to find and fix errors"
     },
     {
       "jargon": "Data-driven programming",
       "layman": "Programming based on data flow"
-    },
-    {
-      "jargon": "Debugging support",
-      "layman": "Tools to find errors in code"
     },
     {
       "jargon": "Applications",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Parallel debugger",
-      "layman": "Tool to find bugs in parallel code"
+      "layman": "Debugger for multi-process programs"
     },
     {
       "jargon": "Extensive debugging support",
-      "layman": "Comprehensive error-checking tools"
+      "layman": "In-depth error-checking tools"
     },
     {
-      "jargon": "Build into runtime system",
-      "layman": "Integrated into the program's core"
+      "jargon": "Runtime system integration",
+      "layman": "Building tools into the system that runs code"
     },
     {
       "jargon": "High-level debugging",
-      "layman": "Debugging without seeing low-level code"
+      "layman": "Debugging without needing low-level details"
     },
     {
-      "jargon": "Data-driven execution",
-      "layman": "Execution based on data input"
+      "jargon": "Error detection",
+      "layman": "Spotting bugs in code"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Error detection at high level",
-      "layman": "Find bugs without deep code"
-    },
-    {
       "jargon": "High-level debugging",
-      "layman": "Debugging without low-level details"
+      "layman": "Fixing bugs at a user-friendly level"
     },
     {
-      "jargon": "Extensive support",
-      "layman": "Robust debugging tools"
+      "jargon": "Extensive debugging support",
+      "layman": "Robust tools for finding errors"
     },
     {
-      "jargon": "Application debugging",
-      "layman": "Fixing software errors"
+      "jargon": "Applications can be debugged at a high level",
+      "layman": "Users can fix bugs without deep technical knowledge"
     },
     {
-      "jargon": "Runtime integration",
-      "layman": "Debugging built into system operation"
+      "jargon": "Parallel programming language",
+      "layman": "Language for writing fast, shared-computing programs"
+    },
+    {
+      "jargon": "Debugging support built into runtime",
+      "layman": "Fixing errors directly in the system that runs the program"
     }
   ]
 }

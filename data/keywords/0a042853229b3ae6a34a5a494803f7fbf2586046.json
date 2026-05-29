@@ -6,33 +6,33 @@
     },
     {
       "jargon": "Handoff processes",
-      "layman": "Device switching connections"
+      "layman": "Device movement between networks"
     },
     {
       "jargon": "Network resources",
-      "layman": "Network components"
+      "layman": "Network devices or parts"
     },
     {
       "jargon": "Parallel tasks",
-      "layman": "Multiple tasks running at once"
+      "layman": "Tasks done at the same time"
     },
     {
-      "jargon": "Communication patterns",
-      "layman": "Ways data moves in network"
+      "jargon": "Failure processes",
+      "layman": "When network parts stop working"
     }
   ],
   "methodologies": [
     {
       "jargon": "Generalized Stochastic Petri Net",
-      "layman": "Advanced network model with timing"
+      "layman": "Model for network behavior with timing"
     },
     {
       "jargon": "End-to-End Expected Instantaneous Reliability",
       "layman": "Real-time network reliability measure"
     },
     {
-      "jargon": "GSPN performance model",
-      "layman": "Model to simulate network behavior"
+      "jargon": "Performance modeling",
+      "layman": "Simulating how network runs"
     },
     {
       "jargon": "Reliability modeling",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "Reliability metrics",
-      "layman": "Network stability numbers"
-    },
-    {
-      "jargon": "Failure processes",
-      "layman": "Network component breakdowns"
+      "jargon": "Reliability results",
+      "layman": "Network stability findings"
     },
     {
       "jargon": "Performance results",
-      "layman": "Network efficiency results"
+      "layman": "Network speed and efficiency data"
     },
     {
-      "jargon": "Communication distance effect",
-      "layman": "Impact of distance on network performance"
+      "jargon": "Communication distance effects",
+      "layman": "Impact of distance on network links"
     },
     {
-      "jargon": "Handoff occurrence",
-      "layman": "Frequency of connection switches"
+      "jargon": "Multiple handoff occurrences",
+      "layman": "Frequent device movement events"
+    },
+    {
+      "jargon": "Failure processes occurrence",
+      "layman": "When network parts fail"
     }
   ]
 }

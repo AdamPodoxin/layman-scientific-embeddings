@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "patent thicket",
-      "layman": "Tangle of patents"
+      "jargon": "Patent thicket",
+      "layman": "Web of overlapping patents"
     },
     {
-      "jargon": "licensing agreements",
-      "layman": "Patent-sharing deals"
-    },
-    {
-      "jargon": "hold-up problems",
-      "layman": "Firms getting stuck in legal delays"
-    },
-    {
-      "jargon": "firms",
+      "jargon": "Firms",
       "layman": "Companies"
     },
     {
-      "jargon": "technology space",
-      "layman": "Area of tech innovation"
+      "jargon": "Technology space",
+      "layman": "Innovation landscape"
+    },
+    {
+      "jargon": "Property rights",
+      "layman": "Legal rights to inventions"
+    },
+    {
+      "jargon": "Research and Development",
+      "layman": "R&D"
     }
   ],
   "methodologies": [
     {
-      "jargon": "descriptive results",
+      "jargon": "Descriptive results",
       "layman": "Summary of data trends"
     },
     {
-      "jargon": "empirical results",
-      "layman": "Findings from real data"
+      "jargon": "Ex ante licensing",
+      "layman": "Licensing before technology starts"
     },
     {
-      "jargon": "ex ante licensing",
-      "layman": "Licensing before technology is built"
+      "jargon": "Ex post licensing",
+      "layman": "Licensing after technology is developed"
     },
     {
-      "jargon": "ex post licensing",
-      "layman": "Licensing after technology is built"
+      "jargon": "Empirical results",
+      "layman": "Findings from data analysis"
     },
     {
-      "jargon": "market share",
-      "layman": "Size of a company's market presence"
+      "jargon": "Transaction costs",
+      "layman": "Costs of making deals"
     }
   ],
   "outcomes": [
     {
-      "jargon": "inverse U-shape",
-      "layman": "Rise then fall pattern"
+      "jargon": "Inverse U-shape",
+      "layman": "Curve that rises then falls"
     },
     {
-      "jargon": "degree of blocking",
-      "layman": "How much firms block each other"
+      "jargon": "Hold-up problem",
+      "layman": "Firms getting stuck with expensive deals"
     },
     {
-      "jargon": "transaction costs",
-      "layman": "Costs of making deals"
+      "jargon": "Blocking degree",
+      "layman": "How much technology overlaps"
     },
     {
-      "jargon": "property rights fragmentation",
-      "layman": "Patents getting more scattered"
+      "jargon": "Market shares",
+      "layman": "Percent of market each company holds"
     },
     {
-      "jargon": "research and development investments",
-      "layman": "Money spent on innovation"
+      "jargon": "Fragmented property rights",
+      "layman": "Scattered legal ownership"
     }
   ]
 }

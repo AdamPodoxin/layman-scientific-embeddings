@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Social network",
-      "layman": "Group of people connected through relationships"
+      "layman": "Group of people connected through interactions"
     },
     {
       "jargon": "Node thresholds",
-      "layman": "How hard it is for someone to be influenced"
+      "layman": "How resistant individuals are to influence"
     },
     {
       "jargon": "Arc weights",
       "layman": "Strength of influence between people"
     },
     {
-      "jargon": "Influence",
-      "layman": "Changing someone's opinion or behavior"
+      "jargon": "Influence propagation",
+      "layman": "How influence spreads through a group"
     },
     {
       "jargon": "Robustness budget",
-      "layman": "Amount of uncertainty allowed in the system"
+      "layman": "Amount of uncertainty allowed in planning"
     }
   ],
   "methodologies": [
     {
       "jargon": "Branch-and-Cut algorithm",
-      "layman": "Smart search method to find best solution"
+      "layman": "Exact solving method for complex problems"
     },
     {
       "jargon": "Influence maximization",
-      "layman": "Finding the best people to spread ideas"
+      "layman": "Finding key influencers in a network"
     },
     {
-      "jargon": "Optimization",
-      "layman": "Finding the best possible outcome"
-    },
-    {
-      "jargon": "Worst-case scenario",
-      "layman": "Most difficult possible situation"
+      "jargon": "Optimization over worst-case scenario",
+      "layman": "Planning for the worst possible outcome"
     },
     {
       "jargon": "Numerical experiments",
-      "layman": "Computer tests with numbers"
+      "layman": "Testing with numbers on real data"
+    },
+    {
+      "jargon": "Exact approaches",
+      "layman": "Methods that find the perfect solution"
     }
   ],
   "outcomes": [
     {
       "jargon": "Optimal solution",
-      "layman": "Best possible result found"
+      "layman": "Best possible outcome found"
     },
     {
-      "jargon": "Solve to optimality",
-      "layman": "Find the perfect answer"
-    },
-    {
-      "jargon": "Robust version",
+      "jargon": "Robust version of problem",
       "layman": "Version that handles uncertainty"
     },
     {
-      "jargon": "Performance comparable",
-      "layman": "Works as well as other methods"
+      "jargon": "Solve to optimality",
+      "layman": "Find the best possible answer"
+    },
+    {
+      "jargon": "Comparable performance",
+      "layman": "Same effectiveness as previous methods"
     },
     {
       "jargon": "Instances of size",
-      "layman": "Problem sizes that are large enough"
+      "layman": "Size of network problems solved"
     }
   ]
 }

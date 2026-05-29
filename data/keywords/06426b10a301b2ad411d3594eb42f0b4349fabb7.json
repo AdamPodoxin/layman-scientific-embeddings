@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Sedimentary fill",
+      "jargon": "sedimentary fill",
       "layman": "Layered lake deposits"
     },
     {
-      "jargon": "Basinal sediments",
-      "layman": "Deep lake bottom deposits"
+      "jargon": "basinal sediments",
+      "layman": "Deep lake bottom layers"
     },
     {
-      "jargon": "Mean grain size",
-      "layman": "Average particle size"
+      "jargon": "magnetic minerals",
+      "layman": "Minerals that respond to Earth's magnet"
     },
     {
-      "jargon": "Magnetic minerals",
-      "layman": "Tiny iron-containing particles"
-    },
-    {
-      "jargon": "Paleodeclination",
+      "jargon": "paleodeclination",
       "layman": "Past magnetic direction"
+    },
+    {
+      "jargon": "paleoinclination",
+      "layman": "Past magnetic angle"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Hydraulic action",
+      "jargon": "hydraulic action",
       "layman": "Water flow moving material"
     },
     {
-      "jargon": "Paleomagnetic record",
-      "layman": "Magnetic history in rocks"
+      "jargon": "remagnetization",
+      "layman": "Sediments getting magnetic from Earth's field"
     },
     {
-      "jargon": "Remanent magnetic direction",
-      "layman": "Magnetic orientation when deposited"
+      "jargon": "paleomagnetic dating",
+      "layman": "Dating using ancient magnetic records"
     },
     {
-      "jargon": "Type paleodeclination logs",
-      "layman": "Magnetic direction over time"
+      "jargon": "sediment grading",
+      "layman": "Sediment changing size over depth"
     },
     {
-      "jargon": "Sedimentary sequence",
-      "layman": "Layered sediment history"
+      "jargon": "type paleodeclination logs",
+      "layman": "Magnetic direction graphs over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Decreasing grain size with depth",
-      "layman": "Smaller particles go deeper"
+      "jargon": "decreasing mean grain size",
+      "layman": "Sand turns to silt and clay"
     },
     {
-      "jargon": "Earth's magnetic field changes",
-      "layman": "Magnetic field shifts over time"
+      "jargon": "increasing water depth",
+      "layman": "Deeper water in lake"
     },
     {
-      "jargon": "Paleomagnetic time scale",
-      "layman": "Magnetic timeline for dating"
+      "jargon": "clay deposition in lake proper",
+      "layman": "Clay settles in lake center"
     },
     {
-      "jargon": "Clay deposition in lake proper",
-      "layman": "Clay ends up in the main lake"
+      "jargon": "secular changes in Earth's magnetic field",
+      "layman": "Earth's magnetic field slowly shifts"
     },
     {
-      "jargon": "Late Holocene sequence",
-      "layman": "Recent lake layer history"
+      "jargon": "paleomagnetic time scale",
+      "layman": "Timeline from ancient magnetic records"
     }
   ]
 }

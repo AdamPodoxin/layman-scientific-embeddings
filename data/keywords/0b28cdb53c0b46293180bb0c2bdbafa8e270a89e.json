@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Semiabelian varieties",
-      "layman": "Generalized types of geometric objects in math"
+      "layman": "Generalized types of algebraic groups"
     },
     {
-      "jargon": "Positive characteristic fields",
-      "layman": "Fields where numbers wrap around in a cycle"
+      "jargon": "Positive characteristic",
+      "layman": "Fields where numbers wrap around"
     },
     {
       "jargon": "Diophantine geometry",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Difference fields",
-      "layman": "Fields with a shift operation"
+      "layman": "Fields with operations that track changes over time"
     },
     {
-      "jargon": "Model theory",
-      "layman": "Mathematical study of structures and their properties"
+      "jargon": "Algebraic proofs",
+      "layman": "Proofs using algebraic rules"
     }
   ],
   "methodologies": [
     {
       "jargon": "Model theory of difference fields",
-      "layman": "Using logic to study shifting mathematical systems"
+      "layman": "Using logic to study changes in mathematical structures"
     },
     {
-      "jargon": "Proof sketched",
-      "layman": "Outline of a proof, not fully worked out"
-    },
-    {
-      "jargon": "Algebraic proofs",
-      "layman": "Proofs using algebraic methods"
+      "jargon": "Proof sketch",
+      "layman": "Outline of a proof, not fully detailed"
     },
     {
       "jargon": "Hrushovski's approach",
-      "layman": "Method developed by Hrushovski"
+      "layman": "Method developed by Hrushovski using logic"
     },
     {
       "jargon": "Diophantine geometry from model theory",
-      "layman": "Using logic to solve number-related geometry problems"
+      "layman": "Using logic to solve number problems"
+    },
+    {
+      "jargon": "Algebraic proofs by Pink & Roessler",
+      "layman": "Algebra-based solutions by two mathematicians"
     }
   ],
   "outcomes": [
     {
       "jargon": "Manin-Mumford conjecture",
-      "layman": "Conjecture about special points on curves"
+      "layman": "Guess about special points on shapes"
     },
     {
       "jargon": "Positive characteristic version",
-      "layman": "Version of the theorem in fields with wrapping numbers"
+      "layman": "Result in fields with number wrapping"
     },
     {
-      "jargon": "Proof presented",
-      "layman": "A complete demonstration of the theory"
+      "jargon": "Proof of conjecture",
+      "layman": "Confirmed mathematical claim"
     },
     {
-      "jargon": "Pink & Roessler's proofs",
-      "layman": "Earlier algebraic solutions to the problem"
+      "jargon": "Sketched proof",
+      "layman": "Detailed proof idea that was later completed"
     },
     {
-      "jargon": "Pillay's work",
-      "layman": "Earlier contributions to the same mathematical problem"
+      "jargon": "Verified using model theory",
+      "layman": "Confirmed using logical methods"
     }
   ]
 }

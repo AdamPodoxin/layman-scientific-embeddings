@@ -10,21 +10,21 @@
     },
     {
       "jargon": "Software components",
-      "layman": "Software parts"
+      "layman": "Software pieces"
     },
     {
       "jargon": "C language glue routines",
-      "layman": "C code bridges"
+      "layman": "C code connectors"
     },
     {
-      "jargon": "Prolog programs",
-      "layman": "Logic-based programs"
+      "jargon": "GL graphics library",
+      "layman": "Graphics library for drawing"
     }
   ],
   "methodologies": [
     {
       "jargon": "Annotated by-example style",
-      "layman": "Example-based programming"
+      "layman": "Example-based writing with tags"
     },
     {
       "jargon": "Prolog-like predicates",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Source transformation",
-      "layman": "Code rewriting"
+      "layman": "Rewriting code automatically"
     },
     {
       "jargon": "TXL source transformation tasks",
-      "layman": "TXL code tasks"
+      "layman": "TXL code transformation jobs"
     },
     {
       "jargon": "Prolog-style deduction",
-      "layman": "Logical reasoning"
+      "layman": "Logical inference using rules"
     }
   ],
   "outcomes": [
     {
       "jargon": "Automatic instantiation",
-      "layman": "Auto-generated software"
+      "layman": "Self-generated software"
     },
     {
       "jargon": "Automatically inferred instance",
-      "layman": "Auto-selected version"
+      "layman": "Automatically created version"
     },
     {
-      "jargon": "Deriving glue routines",
-      "layman": "Creating connection code"
+      "jargon": "Derived C glue routines",
+      "layman": "Generated C code for linking"
+    },
+    {
+      "jargon": "New software components",
+      "layman": "New software parts"
     },
     {
       "jargon": "Generic software components",
       "layman": "Reusable software parts"
-    },
-    {
-      "jargon": "GL graphics library",
-      "layman": "Graphics library"
     }
   ]
 }

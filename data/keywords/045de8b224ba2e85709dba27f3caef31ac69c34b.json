@@ -1,38 +1,38 @@
 {
   "core_entities": [
     {
-      "jargon": "M&S education",
-      "layman": "Training in simulation technology"
+      "jargon": "Simulation",
+      "layman": "Digital model of real-world systems"
     },
     {
       "jargon": "Acquisition Life Cycle",
-      "layman": "Product development timeline"
-    },
-    {
-      "jargon": "Simulation Proponent Division",
-      "layman": "Army group that supports simulation use"
-    },
-    {
-      "jargon": "Army Modeling & Simulation Directorate",
-      "layman": "Army office for simulation leadership"
+      "layman": "Process from idea to delivery of a product"
     },
     {
       "jargon": "Engineering Product Design",
-      "layman": "Creating new products through design"
+      "layman": "Designing a product using engineering principles"
+    },
+    {
+      "jargon": "Army Modeling & Simulation Directorate",
+      "layman": "Army office that manages simulation efforts"
+    },
+    {
+      "jargon": "ARDEC",
+      "layman": "Army research and development center"
     }
   ],
   "methodologies": [
     {
       "jargon": "Non-technical M&S perspective",
-      "layman": "Understanding simulation without technical details"
+      "layman": "Understanding simulation without technical skills"
     },
     {
       "jargon": "Problem formulation",
-      "layman": "Defining the problem clearly"
+      "layman": "Defining the challenge to solve"
     },
     {
       "jargon": "Analysis",
-      "layman": "Evaluating data or options"
+      "layman": "Examining data or situations to find patterns"
     },
     {
       "jargon": "Interpretation",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Thorough understanding of M&S capabilities",
-      "layman": "Full grasp of simulation tools"
+      "layman": "Knowing how simulation helps design"
     },
     {
       "jargon": "Support for product design",
-      "layman": "Helps design better products"
+      "layman": "Helps engineers build better products"
     },
     {
-      "jargon": "Appropriate process",
-      "layman": "Clear workflow for design work"
+      "jargon": "M&S activities throughout the Acquisition Life Cycle",
+      "layman": "Simulation used at every stage of creation"
     },
     {
-      "jargon": "M&S in engineering design",
-      "layman": "Using simulation in product creation"
+      "jargon": "Appropriate process for problem-solving",
+      "layman": "A clear, logical way to approach issues"
     },
     {
-      "jargon": "Active Army and civilian training",
-      "layman": "Training for soldiers and non-military staff"
+      "jargon": "Specialized Army M&S education",
+      "layman": "Training for Army staff in simulation use"
     }
   ]
 }

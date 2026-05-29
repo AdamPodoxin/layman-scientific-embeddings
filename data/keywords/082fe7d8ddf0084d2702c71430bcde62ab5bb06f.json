@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "?(5S)",
-      "layman": "5S state"
+      "layman": "Five-S state"
     },
     {
       "jargon": "?(4D)",
-      "layman": "4D state"
+      "layman": "Four-D state"
     },
     {
       "jargon": "?(6S)",
-      "layman": "6S state"
+      "layman": "Six-S state"
     },
     {
       "jargon": "?(5D)",
-      "layman": "5D state"
+      "layman": "Five-D state"
     },
     {
       "jargon": "?(3D)",
-      "layman": "3D state"
+      "layman": "Three-D state"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Cross-section threshold behaviour",
-      "layman": "How signal changes at energy limits"
+      "jargon": "Cross-section measurement",
+      "layman": "How likely particles are to collide"
     },
     {
-      "jargon": "Mass measurements",
-      "layman": "How heavy the particles are"
-    },
-    {
-      "jargon": "Width measurements",
-      "layman": "How long-lived the particles are"
+      "jargon": "Threshold behaviour",
+      "layman": "What happens at energy limits"
     },
     {
       "jargon": "Signal analysis",
       "layman": "Looking for patterns in data"
     },
     {
-      "jargon": "Particle decay",
-      "layman": "How particles break down"
+      "jargon": "Particle collision",
+      "layman": "When particles smash together"
+    },
+    {
+      "jargon": "Mass and width determination",
+      "layman": "Finding how heavy and stable a particle is"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Clear signs of?(5S) and?(4D)",
-      "layman": "Strong evidence for 5S and 4D states"
+      "jargon": "Clear signs of ?(5S) and ?(4D)",
+      "layman": "Strong evidence for two states"
     },
     {
-      "jargon": "Indication for?(6S) and?(5D) masses and widths",
-      "layman": "Hints about 6S and 5D size and lifetime"
+      "jargon": "Indication for ?(6S) and ?(5D) masses and widths",
+      "layman": "Hints about other states' properties"
     },
     {
-      "jargon": "Threshold behaviour suggests?(3D) state",
-      "layman": "Energy pattern hints at missing 3D state"
+      "jargon": "Presence of undetected ?(3D) state",
+      "layman": "Possible discovery of missing particle"
     },
     {
-      "jargon": "c --> vector states",
-      "layman": "Charm particles forming spinning states"
+      "jargon": "Cross-section suggests threshold effect",
+      "layman": "Data shows change at energy limit"
     },
     {
-      "jargon": "Undetected state",
-      "layman": "Previously unseen particle"
+      "jargon": "Vector states",
+      "layman": "Particles with specific spinning nature"
     }
   ]
 }

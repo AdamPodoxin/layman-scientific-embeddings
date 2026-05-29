@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Electrical telegraphy",
-      "layman": "Electric telegraph system"
+      "jargon": "Telegraphy",
+      "layman": "Electric messaging system"
     },
     {
       "jargon": "Submarine cables",
-      "layman": "Underwater communication cables"
-    },
-    {
-      "jargon": "Wireless telegraphy",
-      "layman": "Radio-based telegraph system"
+      "layman": "Underwater communication wires"
     },
     {
       "jargon": "Semaphore systems",
-      "layman": "Signal flags for communication"
+      "layman": "Visual signal systems using flags"
+    },
+    {
+      "jargon": "Wireless telegraphy",
+      "layman": "Radio-based messaging"
     },
     {
       "jargon": "Vacuum-tube transmitters",
-      "layman": "Old radio signal amplifiers"
+      "layman": "Old radio signal devices"
     }
   ],
   "methodologies": [
+    {
+      "jargon": "Electrical telegraphy",
+      "layman": "Sending messages via electricity"
+    },
+    {
+      "jargon": "Military command and control",
+      "layman": "Coordinating war efforts"
+    },
     {
       "jargon": "Archival research",
       "layman": "Studying old records"
     },
     {
       "jargon": "Operational changes",
-      "layman": "Changes in how systems run"
+      "layman": "Adjusting how services run"
     },
     {
-      "jargon": "Military command and control",
-      "layman": "Coordinating military actions"
-    },
-    {
-      "jargon": "Equipment development",
-      "layman": "Improving communication devices"
-    },
-    {
-      "jargon": "Signal transmission",
-      "layman": "Sending messages through wires or air"
+      "jargon": "Technological development",
+      "layman": "Improving technology over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Global communication coverage",
-      "layman": "Worldwide reach"
+      "jargon": "Global communication",
+      "layman": "Worldwide messaging network"
     },
     {
       "jargon": "Colonial military use",
-      "layman": "Use in colonial wars"
+      "layman": "Using telegraphy in colonies for war"
     },
     {
-      "jargon": "Wartime technological advances",
-      "layman": "Tech progress during wars"
+      "jargon": "Military adoption of wireless",
+      "layman": "Wars used radio messaging"
     },
     {
-      "jargon": "Adoption in naval and aviation use",
-      "layman": "Used in ships and planes"
+      "jargon": "High-power wireless telegraphy",
+      "layman": "Strong radio signals for long range"
     },
     {
-      "jargon": "Factual errors in the text",
-      "layman": "Wrong information in the book"
+      "jargon": "Factual errors in account",
+      "layman": "Incorrect claims in the book"
     }
   ]
 }

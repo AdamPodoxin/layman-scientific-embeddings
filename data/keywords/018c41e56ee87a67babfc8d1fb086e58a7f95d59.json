@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Commercial banking",
-      "layman": "Regular bank services"
+      "layman": "Regular banking"
     },
     {
       "jargon": "Investment banking",
-      "layman": "Buying and selling stocks"
+      "layman": "Investment banking"
     },
     {
       "jargon": "Interest groups",
-      "layman": "Groups pushing for policy change"
+      "layman": "Special interest groups"
     },
     {
       "jargon": "Regulatory policy",
-      "layman": "Rules that govern banks"
+      "layman": "Rules governing business"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Case study",
-      "layman": "In-depth look at one example"
+      "layman": "In-depth study of one example"
     },
     {
       "jargon": "Market developments",
-      "layman": "Changes in the financial market"
+      "layman": "Changes in markets"
     },
     {
       "jargon": "Policy development",
-      "layman": "How rules are created"
+      "layman": "How policies are created"
     },
     {
-      "jargon": "Regulatory change",
-      "layman": "Updates to banking rules"
+      "jargon": "Influencing regulatory change",
+      "layman": "Shaping new rules"
     }
   ],
   "outcomes": [
     {
       "jargon": "Separation of banking",
-      "layman": "Splitting commercial and investment banking"
+      "layman": "Splitting banking types"
     },
     {
       "jargon": "Repeal attempts",
-      "layman": "Efforts to undo banking rules"
+      "layman": "Efforts to undo rules"
     },
     {
       "jargon": "Orthodox literature",
-      "layman": "Commonly accepted theories"
+      "layman": "Mainstream academic views"
     },
     {
-      "jargon": "Influence on policy",
-      "layman": "How groups affect decisions"
+      "jargon": "Balance of influence",
+      "layman": "Who has more power"
     },
     {
-      "jargon": "Underestimation of markets",
-      "layman": "Ignoring market impacts in policy"
+      "jargon": "Policy reform",
+      "layman": "Changing existing rules"
     }
   ]
 }

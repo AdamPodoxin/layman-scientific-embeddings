@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Discrete mathematics",
-      "layman": "Math about countable things"
+      "layman": "Math about separate, countable things"
     },
     {
       "jargon": "Combinatorial enumeration",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Analysis of algorithms",
-      "layman": "Studying how algorithms perform"
+      "layman": "Study of how algorithms work"
     },
     {
       "jargon": "Algorithms",
       "layman": "Step-by-step problem-solving methods"
     },
     {
-      "jargon": "Mathematical models",
-      "layman": "Mathematical representations of systems"
+      "jargon": "Mathematical proofs",
+      "layman": "Logical arguments to show something is true"
     }
   ],
   "methodologies": [
     {
       "jargon": "Combinatorial enumeration",
-      "layman": "Counting combinations"
+      "layman": "Counting possible combinations"
     },
     {
-      "jargon": "Algorithm analysis",
-      "layman": "Measuring algorithm speed and efficiency"
+      "jargon": "Analysis of algorithms",
+      "layman": "Testing how fast algorithms run"
     },
     {
-      "jargon": "Recursive computation",
+      "jargon": "Recursive methods",
       "layman": "Breaking problems into smaller parts"
     },
     {
-      "jargon": "Asymptotic analysis",
-      "layman": "Studying behavior as size grows large"
+      "jargon": "Enumerative techniques",
+      "layman": "Systematic counting methods"
     },
     {
-      "jargon": "Generating functions",
-      "layman": "Math tools to count patterns"
+      "jargon": "Mathematical induction",
+      "layman": "Proving a pattern works step by step"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Counting formulas",
+      "layman": "Equations to find how many options exist"
+    },
+    {
+      "jargon": "Asymptotic behavior",
+      "layman": "How something behaves as it grows large"
+    },
     {
       "jargon": "Efficient algorithms",
       "layman": "Fast problem-solving methods"
     },
     {
-      "jargon": "Exact counting formulas",
-      "layman": "Precise formulas for counting"
+      "jargon": "Exact solutions",
+      "layman": "Precise answers found for problems"
     },
     {
-      "jargon": "Asymptotic growth rates",
-      "layman": "How fast something grows"
-    },
-    {
-      "jargon": "Closed-form expressions",
-      "layman": "Simple formulas for answers"
-    },
-    {
-      "jargon": "Convergence in enumeration",
-      "layman": "Counting stabilizes over time"
+      "jargon": "Combinatorial structures",
+      "layman": "Patterns in how things are arranged"
     }
   ]
 }

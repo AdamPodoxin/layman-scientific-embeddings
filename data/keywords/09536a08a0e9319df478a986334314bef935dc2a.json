@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Natural language queries",
-      "layman": "Written questions in everyday language"
+      "layman": "Voice or text questions"
     },
     {
-      "jargon": "Sentence embeddings",
-      "layman": "Digital representations of sentences"
+      "jargon": "Sentences in natural language",
+      "layman": "Plain language descriptions"
     },
     {
-      "jargon": "Video descriptions",
+      "jargon": "Video captions",
       "layman": "Text summaries of videos"
     },
     {
-      "jargon": "Caption generation",
-      "layman": "Auto-generated text from videos"
+      "jargon": "Latent embedding space",
+      "layman": "Hidden data map"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Two-branch neural network",
-      "layman": "Two-part AI system"
+      "jargon": "Sentence embedding",
+      "layman": "Text to numerical vector"
     },
     {
-      "jargon": "Joint learning",
-      "layman": "Training AI to learn from both videos and text together"
+      "jargon": "Two-branch neural network",
+      "layman": "Dual-path learning system"
     },
     {
       "jargon": "Maximum-margin loss",
-      "layman": "AI training method that keeps similar items close"
-    },
-    {
-      "jargon": "Latent embedding space",
-      "layman": "Hidden space where videos and text are mapped together"
+      "layman": "Training to maximize differences"
     },
     {
       "jargon": "Neighborhood information",
-      "layman": "How nearby items relate in a data map"
+      "layman": "Local similarity rules"
+    },
+    {
+      "jargon": "Joint learning",
+      "layman": "Learning together"
     }
   ],
   "outcomes": [
     {
       "jargon": "Bi-directional retrieval",
-      "layman": "Finding videos from text and text from videos"
+      "layman": "Find videos from text and text from videos"
     },
     {
       "jargon": "Promising results",
-      "layman": "Better performance than existing methods"
+      "layman": "Better performance than other models"
     },
     {
       "jargon": "Shared embedding space",
-      "layman": "Common digital space for videos and text"
+      "layman": "Common data representation"
     },
     {
       "jargon": "Structure-preserving constraints",
-      "layman": "Keeping relationships between items intact"
+      "layman": "Keeping similar items close"
     },
     {
-      "jargon": "Comparison with baseline models",
-      "layman": "Outperforms standard existing methods"
+      "jargon": "Experiments with datasets",
+      "layman": "Testing on real video sets"
     }
   ]
 }

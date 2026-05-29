@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Social marginality",
-      "layman": "Being on the fringes of society"
+      "layman": "Being on the outside of society"
     },
     {
       "jargon": "Intellectual iconoclasm",
       "layman": "Challenging established ideas"
     },
     {
-      "jargon": "Pragmatism",
-      "layman": "Pragmatism"
+      "jargon": "Aesthetics of heterodox economics",
+      "layman": "Unconventional economic beauty"
+    },
+    {
+      "jargon": "American pragmatism",
+      "layman": "Practical problem-solving philosophy"
     },
     {
       "jargon": "Industrial republic",
-      "layman": "Economic system based on industry"
-    },
-    {
-      "jargon": "Heterodox economics",
-      "layman": "Non-mainstream economic ideas"
+      "layman": "Economy built on industry and democracy"
     }
   ],
   "methodologies": [
     {
       "jargon": "Eclectic originality",
-      "layman": "Mixing different ideas into a new view"
+      "layman": "Mixing different ideas to create new ones"
+    },
+    {
+      "jargon": "Darwinian influence",
+      "layman": "Using evolutionary ideas in analysis"
     },
     {
       "jargon": "Doctrinal roots",
-      "layman": "Foundations of beliefs"
+      "layman": "Sources of belief systems"
     },
     {
-      "jargon": "Aesthetics of economics",
-      "layman": "Beauty in economic thinking"
+      "jargon": "Analytical comparison",
+      "layman": "Comparing different thinkers"
     },
     {
-      "jargon": "Historical analysis",
-      "layman": "Looking at past events to understand now"
-    },
-    {
-      "jargon": "Comparative study",
-      "layman": "Comparing different ideas or systems"
+      "jargon": "Historical interpretation",
+      "layman": "Understanding history through perspective"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Veblen's psychology",
-      "layman": "His views on human behavior"
+      "jargon": "Unresolved issues",
+      "layman": "Problems still without answers"
     },
     {
-      "jargon": "American pragmatism",
-      "layman": "Practical, real-world thinking"
+      "jargon": "Path to the future",
+      "layman": "Route toward future vision"
     },
     {
-      "jargon": "Economic heterodoxy",
-      "layman": "Alternative economic views"
+      "jargon": "New Deal implications",
+      "layman": "Effects of New Deal policies"
     },
     {
-      "jargon": "New Deal influence",
-      "layman": "Impact of New Deal policies"
+      "jargon": "Theoretical synthesis",
+      "layman": "Combining different theories"
     },
     {
-      "jargon": "Resolving problematic issues",
-      "layman": "Fixing unclear or hard-to-understand ideas"
+      "jargon": "Heterodox economics",
+      "layman": "Non-traditional economic ideas"
     }
   ]
 }

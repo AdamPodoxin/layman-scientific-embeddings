@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Latin American literature",
-      "layman": "Writing from Latin America"
+      "layman": "Books from Latin America"
     },
     {
       "jargon": "Historical contexts",
-      "layman": "Past events and settings"
+      "layman": "Past situations that shaped events"
     },
     {
-      "jargon": "Political aims",
-      "layman": "Goals related to politics"
+      "jargon": "Subjectivity",
+      "layman": "Personal point of view"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Narrative analysis",
-      "layman": "Studying stories"
+      "jargon": "Narratives of conflict",
+      "layman": "Stories about conflict"
     },
     {
       "jargon": "Creative aims",
       "layman": "Artistic intentions"
     },
     {
-      "jargon": "Multiple versions of subjectivity",
-      "layman": "Different ways of seeing oneself"
+      "jargon": "Political engagement",
+      "layman": "Involvement in politics"
     },
     {
-      "jargon": "Co-existence of experiences",
-      "layman": "Different experiences living together"
+      "jargon": "Experiences in conflict",
+      "layman": "Personal experiences during conflict"
     },
     {
-      "jargon": "Broad definition of conflict",
-      "layman": "Wider view of conflict"
+      "jargon": "Multiple versions",
+      "layman": "Several different perspectives"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Multiple narratives of conflict",
-      "layman": "Many different war stories"
+      "jargon": "Co-exist",
+      "layman": "Exist together"
     },
     {
-      "jargon": "Complex versions of experience",
-      "layman": "Complicated personal experiences"
+      "jargon": "Complex versions",
+      "layman": "Different and detailed views"
     },
     {
-      "jargon": "Co-existing subjectivities",
-      "layman": "Different self-views sharing space"
+      "jargon": "Representation of women",
+      "layman": "Women being shown in stories"
     },
     {
-      "jargon": "Women's experiences in conflict",
-      "layman": "Women's lives during war"
+      "jargon": "Political and creative aims",
+      "layman": "Goals in politics and art"
     },
     {
-      "jargon": "Creative and political expression",
-      "layman": "Art and politics coming together"
+      "jargon": "Space for diverse stories",
+      "layman": "Room for many different stories"
     }
   ]
 }

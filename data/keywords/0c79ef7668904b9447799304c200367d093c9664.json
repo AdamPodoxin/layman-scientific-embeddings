@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Hubble red shift",
-      "layman": "Stretched light from far galaxies"
+      "layman": "Stretched light from faraway galaxies"
     },
     {
       "jargon": "Pioneer 10 and 11",
-      "layman": "Space probes sent to outer solar system"
+      "layman": "Space probes sent to explore space"
     },
     {
       "jargon": "Anomalous acceleration",
-      "layman": "Unexplained speed change in space probes"
+      "layman": "Unexplained speeding up in space probes"
     },
     {
       "jargon": "Universe",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Linear time dependence",
-      "layman": "Change at a steady rate over time"
+      "layman": "Change over time at a steady rate"
     },
     {
       "jargon": "Hypothesis",
-      "layman": "Testable explanation"
+      "layman": "Suggested explanation for an observation"
     },
     {
-      "jargon": "Explain",
-      "layman": "Give a reason for"
+      "jargon": "Explanatory model",
+      "layman": "A theory that explains a natural phenomenon"
     },
     {
-      "jargon": "Observation",
-      "layman": "Noted fact from data"
+      "jargon": "Observational data",
+      "layman": "Measured facts from space probes or telescopes"
     },
     {
-      "jargon": "Time variation",
-      "layman": "Change over time"
+      "jargon": "Cosmic expansion",
+      "layman": "Universe growing larger over time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Hubble red shift",
-      "layman": "Stretched light from far galaxies"
+      "layman": "Stretched light from faraway galaxies"
     },
     {
       "jargon": "Anomalous acceleration",
-      "layman": "Unexplained speed change in space probes"
+      "layman": "Unexplained speeding up in space probes"
     },
     {
-      "jargon": "Gravitational potential change",
-      "layman": "Gravity getting weaker or stronger over time"
+      "jargon": "Linear change in gravity",
+      "layman": "Gravity increases steadily over time"
     },
     {
-      "jargon": "Linear change with time",
-      "layman": "Constant rate of change over time"
+      "jargon": "Time-dependent gravity",
+      "layman": "Gravity changes as time passes"
     },
     {
-      "jargon": "Explanatory model",
-      "layman": "Model that explains observations"
+      "jargon": "Explained anomaly",
+      "layman": "Unexplained result is now understood"
     }
   ]
 }

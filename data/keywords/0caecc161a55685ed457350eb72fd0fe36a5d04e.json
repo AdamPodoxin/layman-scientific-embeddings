@@ -18,51 +18,51 @@
     },
     {
       "jargon": "IAMC client",
-      "layman": "User device for math computing"
+      "layman": "Online math computing app or tool"
     }
   ],
   "methodologies": [
     {
       "jargon": "Distributed system",
-      "layman": "Spreading computing power across devices"
+      "layman": "Shared computing across networks"
     },
     {
       "jargon": "Web interface",
-      "layman": "Online user interface"
+      "layman": "Website-based access"
     },
     {
       "jargon": "Email-based computation",
-      "layman": "Sending math requests via email"
+      "layman": "Using email to run math tasks"
     },
     {
       "jargon": "API design",
-      "layman": "Online interface for software connection"
+      "layman": "Digital interface for connecting systems"
     },
     {
       "jargon": "Server interface to compute engine",
-      "layman": "Link between server and math processor"
+      "layman": "How server talks to math processor"
     }
   ],
   "outcomes": [
     {
       "jargon": "Feasibility study",
-      "layman": "Proof it can work"
+      "layman": "Proof that system works"
     },
     {
-      "jargon": "Convenient usability",
+      "jargon": "Accessible and convenient use",
       "layman": "Easy to use online"
     },
     {
-      "jargon": "Widespread access",
-      "layman": "Available to many users"
-    },
-    {
-      "jargon": "TCP/IP access",
-      "layman": "Available via internet connection"
+      "jargon": "Wide distribution of computing power",
+      "layman": "Math power available everywhere"
     },
     {
       "jargon": "Java implementation",
       "layman": "Built using Java programming"
+    },
+    {
+      "jargon": "Client-server architecture",
+      "layman": "Computing split between user and server"
     }
   ]
 }

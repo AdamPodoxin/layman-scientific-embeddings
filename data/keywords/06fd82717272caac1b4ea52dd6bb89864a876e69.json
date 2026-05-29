@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Laurent power series",
-      "layman": "Power series that can include negative exponents"
+      "layman": "Power series with negative powers"
     },
     {
       "jargon": "Positive characteristic",
-      "layman": "Mathematical system where numbers wrap around after a certain value"
+      "layman": "Mathematical system with specific number rules"
     },
     {
       "jargon": "Field of Laurent power series",
-      "layman": "Mathematical system built from power series with negative powers"
+      "layman": "Mathematical field built from power series with negative exponents"
     }
   ],
   "methodologies": [
     {
       "jargon": "Prove a version of Schanuel\u2019s Conjecture",
-      "layman": "Show a mathematical statement is true in a new setting"
+      "layman": "Show a special case of a deep math idea is true"
     },
     {
       "jargon": "Replace \u2102",
-      "layman": "Use a different number system instead of complex numbers"
+      "layman": "Substitute complex numbers with something else"
     },
     {
       "jargon": "Replace the exponential map",
-      "layman": "Use a different function instead of the exponential function"
+      "layman": "Substitute the exponential function with another function"
     },
     {
       "jargon": "Mathematical proof",
-      "layman": "Logical argument showing something must be true"
+      "layman": "Logic-based demonstration of truth"
     },
     {
       "jargon": "Non-algebraic additive power series",
-      "layman": "A special type of series that can't be expressed as a polynomial"
+      "layman": "Special type of series that isn't built from simple rules"
     }
   ],
   "outcomes": [
     {
       "jargon": "Version of Schanuel\u2019s Conjecture",
-      "layman": "A new form of a famous mathematical idea proven true"
+      "layman": "A math idea now verified in a new setting"
     },
     {
-      "jargon": "Exponential map",
-      "layman": "Function that grows rapidly, like e^x"
-    },
-    {
-      "jargon": "Positive characteristic field",
-      "layman": "A mathematical system with a fixed number cycle"
+      "jargon": "Positive characteristic",
+      "layman": "Success in a math system with specific rules"
     },
     {
       "jargon": "Additive power series",
-      "layman": "Series that adds up values in a pattern"
+      "layman": "Function built by adding powers"
+    },
+    {
+      "jargon": "Field of Laurent power series",
+      "layman": "New math system works as expected"
     },
     {
       "jargon": "Non-algebraic",
-      "layman": "Not built from simple algebraic rules"
+      "layman": "Not made from simple mathematical rules"
     }
   ]
 }

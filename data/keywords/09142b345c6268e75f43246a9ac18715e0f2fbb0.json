@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Osteoporosis",
-      "layman": "Bone weakening disease"
+      "layman": "Bone thinning disease"
     },
     {
       "jargon": "Risk factors",
-      "layman": "Conditions that increase chance of disease"
+      "layman": "Triggers for disease"
     },
     {
       "jargon": "Low-trauma fracture",
-      "layman": "Broken bone from minor injury"
+      "layman": "Broken bone with minor injury"
     },
     {
       "jargon": "Height loss",
-      "layman": "Decrease in height over time"
+      "layman": "Slumping height"
     },
     {
-      "jargon": "Prolonged oral steroid use",
-      "layman": "Long-term use of steroid pills"
+      "jargon": "Lower weight",
+      "layman": "Being lighter than average"
     }
   ],
   "methodologies": [
+    {
+      "jargon": "Multivariable logistic regression",
+      "layman": "Statistical model to find links between factors"
+    },
     {
       "jargon": "Survey",
       "layman": "Questionnaire sent to people"
     },
     {
-      "jargon": "Multivariable logistic regression",
-      "layman": "Statistical method to find links between factors"
-    },
-    {
       "jargon": "Odds ratio",
-      "layman": "Measure of how likely something is"
+      "layman": "How much more likely something is"
     },
     {
       "jargon": "Confidence interval",
-      "layman": "Range showing how reliable a result is"
+      "layman": "Range of likely values"
     },
     {
-      "jargon": "Adjusting for other risk factors",
-      "layman": "Accounting for other known causes"
+      "jargon": "Adjusted for other factors",
+      "layman": "Accounting for other variables"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Diagnosis",
-      "layman": "Getting a confirmed disease label"
+      "jargon": "Osteoporosis diagnosis",
+      "layman": "Getting diagnosed with bone thinning"
     },
     {
-      "jargon": "Treatment",
-      "layman": "Starting medical care"
-    },
-    {
-      "jargon": "Underdiagnosed",
-      "layman": "Not correctly identified"
-    },
-    {
-      "jargon": "Undertreated",
-      "layman": "Not receiving proper care"
+      "jargon": "Osteoporosis treatment",
+      "layman": "Starting treatment for bone thinning"
     },
     {
       "jargon": "Female sex",
       "layman": "Being a woman"
+    },
+    {
+      "jargon": "Prolonged oral steroid use",
+      "layman": "Long-term use of steroid pills"
+    },
+    {
+      "jargon": "Family history of osteoporosis",
+      "layman": "Having relatives with bone thinning"
     }
   ]
 }

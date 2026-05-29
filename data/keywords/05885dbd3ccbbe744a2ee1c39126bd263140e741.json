@@ -6,25 +6,25 @@
     },
     {
       "jargon": "Multiusers",
-      "layman": "Multiple people using the system"
-    },
-    {
-      "jargon": "Concurrency control",
-      "layman": "Managing simultaneous user access"
-    },
-    {
-      "jargon": "Deadlock",
-      "layman": "Two users stuck waiting for each other"
+      "layman": "Multiple users accessing the system"
     },
     {
       "jargon": "Locks in relational database",
-      "layman": "Access restrictions to prevent conflicts"
+      "layman": "Access control mechanisms"
+    },
+    {
+      "jargon": "Deadlock",
+      "layman": "Stalemate in system access"
+    },
+    {
+      "jargon": "Concurrency control",
+      "layman": "Preventing conflicts when users access data"
     }
   ],
   "methodologies": [
     {
       "jargon": "Concurrency control algorithms",
-      "layman": "Rules for managing shared access"
+      "layman": "Rules to manage user access"
     },
     {
       "jargon": "Correctness criteria",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Implementation techniques",
-      "layman": "Ways to build the system"
+      "layman": "Ways to apply the control methods"
     },
     {
       "jargon": "Deadlock detection",
-      "layman": "Finding when users are stuck"
+      "layman": "Checking for stuck access situations"
     },
     {
-      "jargon": "Robustness testing",
-      "layman": "Checking system under stress"
+      "jargon": "Robustness",
+      "layman": "System\u2019s ability to handle errors"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Data remains accurate"
     },
     {
-      "jargon": "System robustness",
-      "layman": "System stays stable under load"
-    },
-    {
       "jargon": "Deadlock prevention",
-      "layman": "Avoiding user conflicts"
+      "layman": "Avoiding system freezes"
     },
     {
-      "jargon": "Data consistency",
-      "layman": "All users see same data"
+      "jargon": "System robustness",
+      "layman": "System stays stable under stress"
     },
     {
-      "jargon": "Performance under load",
-      "layman": "System runs smoothly with many users"
+      "jargon": "Performance in multiuser access",
+      "layman": "Smooth operation with many users"
+    },
+    {
+      "jargon": "Implementation challenges",
+      "layman": "Difficulties in applying the methods"
     }
   ]
 }

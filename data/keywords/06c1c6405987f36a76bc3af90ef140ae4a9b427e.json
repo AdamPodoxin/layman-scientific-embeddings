@@ -13,56 +13,56 @@
       "layman": "Reactive metal mixture"
     },
     {
-      "jargon": "CuO",
-      "layman": "Copper oxide"
+      "jargon": "Interfacial reaction",
+      "layman": "Reaction at contact surface"
     },
     {
-      "jargon": "Ti",
-      "layman": "Titanium"
+      "jargon": "Complex compounds",
+      "layman": "Mixed chemical products"
     }
   ],
   "methodologies": [
     {
       "jargon": "High temperature connection",
-      "layman": "Heating to join materials"
+      "layman": "Heat joining method"
     },
     {
       "jargon": "Scan Electron Microscopy (SEM)",
-      "layman": "Microscope to see tiny surfaces"
+      "layman": "Microscope for surface view"
     },
     {
       "jargon": "X-ray diffractometer (XRD)",
-      "layman": "Tool to detect crystal structures"
-    },
-    {
-      "jargon": "Interfacial reaction",
-      "layman": "Chemical reaction at the joining surface"
+      "layman": "Tool to analyze crystal structure"
     },
     {
       "jargon": "Micro-analysis",
-      "layman": "Tiny-scale material examination"
+      "layman": "Small-scale material testing"
+    },
+    {
+      "jargon": "Air environment",
+      "layman": "Open air conditions"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Central distribution",
+      "layman": "Middle region concentration"
+    },
+    {
       "jargon": "Cu element concentration",
-      "layman": "Copper buildup at the joint"
+      "layman": "Copper buildup at interface"
     },
     {
-      "jargon": "New products formed",
-      "layman": "New materials created"
-    },
-    {
-      "jargon": "Complex compounds",
-      "layman": "Mixed chemical products"
+      "jargon": "New products generated",
+      "layman": "New materials formed"
     },
     {
       "jargon": "Ag didn\u2019t take part in reaction",
-      "layman": "Silver stayed unchanged"
+      "layman": "Silver remained unchanged"
     },
     {
-      "jargon": "Structure: Al2O3/AlTi + CuAl2O2/TiAg + Ti3Cu + AgZr + Ag/Ni",
-      "layman": "Layered joint with multiple materials"
+      "jargon": "Structure of brazing interface",
+      "layman": "Final joint composition"
     }
   ]
 }

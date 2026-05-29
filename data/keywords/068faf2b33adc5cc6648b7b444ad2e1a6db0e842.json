@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Signature strings",
-      "layman": "Known threat patterns"
+      "layman": "Known virus or threat patterns"
     },
     {
       "jargon": "Bloom filter engines",
-      "layman": "Fast lookup tools for patterns"
+      "layman": "Fast lookup tools for threat checks"
     },
     {
       "jargon": "Lookup table",
-      "layman": "Database for exact matches"
+      "layman": "Database for exact pattern matches"
     },
     {
       "jargon": "Prefix register heap",
-      "layman": "Memory for tracking partial patterns"
+      "layman": "Storage for partial pattern matches"
     }
   ],
   "methodologies": [
@@ -35,18 +35,18 @@
       "layman": "Exact pattern search"
     },
     {
-      "jargon": "Scalable architecture",
-      "layman": "System that grows without slowing down"
+      "jargon": "Line-rate inspection",
+      "layman": "Checking data at full speed"
     },
     {
-      "jargon": "Hardware resource saving",
-      "layman": "Using less physical space or power"
+      "jargon": "Scalable architecture",
+      "layman": "System that grows without slowing down"
     }
   ],
   "outcomes": [
     {
       "jargon": "Gigabytes throughput",
-      "layman": "Handles huge amounts of data"
+      "layman": "Handles massive data flow"
     },
     {
       "jargon": "Large pattern set",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "High performance",
-      "layman": "Fast processing speed"
+      "layman": "Fast detection speed"
     },
     {
-      "jargon": "Scalable",
-      "layman": "Works well with growing demands"
+      "jargon": "Hardware resource saving",
+      "layman": "Uses less physical space"
     }
   ]
 }

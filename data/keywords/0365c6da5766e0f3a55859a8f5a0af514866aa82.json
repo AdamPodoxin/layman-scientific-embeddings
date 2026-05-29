@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "RIOT",
-      "layman": "R with I/O Transparency"
+      "layman": "R system with I/O efficiency"
     },
     {
       "jargon": "R",
       "layman": "Popular data analysis tool"
     },
     {
-      "jargon": "Statistical analysis",
-      "layman": "Data patterns and trends"
-    },
-    {
-      "jargon": "Massive data",
-      "layman": "Very large datasets"
+      "jargon": "Array storage manager",
+      "layman": "Storage system for data arrays"
     },
     {
       "jargon": "External database systems",
-      "layman": "Remote data storage"
+      "layman": "Outside data storage systems"
+    },
+    {
+      "jargon": "Statistical computation",
+      "layman": "Analyzing data for patterns"
     }
   ],
   "methodologies": [
     {
-      "jargon": "I/O-efficient storage",
+      "jargon": "I/O efficiency",
       "layman": "Fast data reading and writing"
     },
     {
-      "jargon": "Flexible array storage manager",
-      "layman": "Adaptable data container"
-    },
-    {
       "jargon": "Optimization engine",
-      "layman": "Smart speed-up tool"
+      "layman": "System that improves performance"
     },
     {
-      "jargon": "Blurring boundary",
-      "layman": "Mixing data processing methods"
+      "jargon": "Flexible array storage",
+      "layman": "Adaptable way to store data arrays"
     },
     {
       "jargon": "Seamless integration",
       "layman": "Smooth connection between systems"
+    },
+    {
+      "jargon": "Blurring boundary",
+      "layman": "Merging database and program processing"
     }
   ],
   "outcomes": [
     {
-      "jargon": "I/O-efficient computation",
-      "layman": "Faster data processing"
+      "jargon": "Efficient data processing",
+      "layman": "Fast and smooth analysis"
     },
     {
-      "jargon": "Transparent user experience",
+      "jargon": "Transparent to users",
       "layman": "No user changes needed"
     },
     {
-      "jargon": "Efficient statistical processing",
-      "layman": "Quick and accurate results"
+      "jargon": "Flexible storage support",
+      "layman": "Adaptable data handling"
     },
     {
-      "jargon": "Data processing in databases",
-      "layman": "Using database data directly"
+      "jargon": "Statistical analysis of massive data",
+      "layman": "Large-scale data pattern finding"
     },
     {
-      "jargon": "Effective handling of data",
-      "layman": "Good performance with big data"
+      "jargon": "Processing data in databases",
+      "layman": "Using stored data for analysis"
     }
   ]
 }

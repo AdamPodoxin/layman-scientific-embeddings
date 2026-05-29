@@ -9,15 +9,15 @@
       "layman": "Cadmium sulfide and 8HQ combined layer"
     },
     {
-      "jargon": "ZnO thin film",
+      "jargon": "Zinc oxide film",
       "layman": "Zinc oxide thin layer"
     },
     {
-      "jargon": "CdS thin film",
+      "jargon": "Cadmium sulfide film",
       "layman": "Cadmium sulfide thin layer"
     },
     {
-      "jargon": "8-hydroxyquinoline (8HQ)",
+      "jargon": "8-hydroxyquinoline",
       "layman": "8-hydroxyquinoline"
     }
   ],
@@ -27,25 +27,25 @@
       "layman": "Spinning to spread liquid film"
     },
     {
-      "jargon": "Chemical bath deposition (CBD)",
-      "layman": "Chemical solution to grow thin films"
+      "jargon": "Chemical bath deposition",
+      "layman": "Growing film in chemical solution"
     },
     {
-      "jargon": "X-ray diffraction (XRD)",
-      "layman": "X-ray test for crystal structure"
+      "jargon": "X-ray diffraction",
+      "layman": "Measuring crystal structure"
     },
     {
-      "jargon": "Scanning electron microscope (SEM)",
-      "layman": "Microscope to see film surface"
+      "jargon": "Scanning electron microscope",
+      "layman": "Microscope that scans surface"
     },
     {
-      "jargon": "Ultraviolet\u2013visible spectrophotometer (UV\u2013Vis spectrometer)",
-      "layman": "Light tester for colors and transparency"
+      "jargon": "Ultraviolet\u2013visible spectrophotometer",
+      "layman": "Measures light absorption"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Ohmic conduction mechanism",
+      "jargon": "Ohmic conduction",
       "layman": "Easy current flow"
     },
     {
@@ -61,8 +61,8 @@
       "layman": "Hole-rich material"
     },
     {
-      "jargon": "Conduction mechanism in films",
-      "layman": "How electricity moves through films"
+      "jargon": "Conduction mechanism",
+      "layman": "How electricity moves"
     }
   ]
 }

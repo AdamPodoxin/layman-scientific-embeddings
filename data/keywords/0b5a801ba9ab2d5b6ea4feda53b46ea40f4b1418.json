@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Oncology nurses",
-      "layman": "Cancer care nurses"
+      "layman": "Nurses who care for cancer patients"
     },
     {
       "jargon": "Oncology physicians",
-      "layman": "Cancer care doctors"
+      "layman": "Doctors who treat cancer"
     },
     {
       "jargon": "Patients with cancer",
@@ -17,21 +17,17 @@
       "layman": "Test results from blood or body samples"
     },
     {
-      "jargon": "Health-record transparency",
-      "layman": "Patients seeing their medical records"
+      "jargon": "Online access",
+      "layman": "Accessing health info via the internet"
     }
   ],
   "methodologies": [
     {
       "jargon": "Pre- and postimplementation surveys",
-      "layman": "Surveys before and after a change"
+      "layman": "Surveys before and after change"
     },
     {
       "jargon": "Nursing workload study",
-      "layman": "Study of how many patient calls nurses get"
-    },
-    {
-      "jargon": "Phone call monitoring",
       "layman": "Tracking patient calls to nurses"
     },
     {
@@ -39,30 +35,34 @@
       "layman": "Sending out questionnaires"
     },
     {
+      "jargon": "Data collection",
+      "layman": "Gathering information from patients and staff"
+    },
+    {
       "jargon": "Statistical significance",
-      "layman": "Result that is likely not due to chance"
+      "layman": "Result that is very unlikely to be chance"
     }
   ],
   "outcomes": [
     {
       "jargon": "Greater support for online access",
-      "layman": "More approval of online results"
+      "layman": "More positive attitude toward online result access"
     },
     {
-      "jargon": "Level of comfort with access",
-      "layman": "How at ease providers feel with access"
+      "jargon": "Level of comfort with patient access",
+      "layman": "How comfortable staff feel letting patients see results"
     },
     {
       "jargon": "Patients' ability to interpret results",
-      "layman": "Patients understanding their test results"
+      "layman": "How well patients understand test results"
     },
     {
-      "jargon": "Workload decreased or stayed the same",
-      "layman": "Fewer or no more calls from patients"
+      "jargon": "Workload increased prior to implementation",
+      "layman": "More work expected before the change"
     },
     {
-      "jargon": "p < 0.05",
-      "layman": "Significant result"
+      "jargon": "Workload decreased postimplementation",
+      "layman": "Less work after the change"
     }
   ]
 }

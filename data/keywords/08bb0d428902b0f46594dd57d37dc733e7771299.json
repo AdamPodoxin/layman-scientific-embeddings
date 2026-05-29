@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Tarski-Kleene algebras",
-      "layman": "Mathematical systems for computing"
+      "layman": "Mathematical structures for computing systems"
     },
     {
       "jargon": "Kleene algebras",
-      "layman": "Mathematical systems for computing"
+      "layman": "Mathematical structures for computing systems"
     },
     {
       "jargon": "Relation algebras",
-      "layman": "Mathematical systems for relationships"
+      "layman": "Mathematical structures for comparing relationships"
     },
     {
-      "jargon": "Theorem proving",
-      "layman": "Proving math statements"
+      "jargon": "Theorem proving environment",
+      "layman": "Software for verifying math proofs"
     },
     {
-      "jargon": "Isabelle/HOL",
-      "layman": "Math software for proofs"
+      "jargon": "Automated theorem proving",
+      "layman": "Computer-generated math proofs"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Isabelle/HOL",
+      "layman": "Formal math proof software"
+    },
+    {
       "jargon": "Automated theorem proving",
-      "layman": "Computer that proves math theorems"
+      "layman": "Computer-generated math proofs"
     },
     {
       "jargon": "Theory engineering",
-      "layman": "Designing math theories"
+      "layman": "Designing mathematical theories"
+    },
+    {
+      "jargon": "Program verification",
+      "layman": "Checking if software works correctly"
     },
     {
       "jargon": "Formal program development",
-      "layman": "Building software with math rules"
-    },
-    {
-      "jargon": "Repository implementation",
-      "layman": "Building a digital library of math"
-    },
-    {
-      "jargon": "Modeling",
-      "layman": "Creating examples to test ideas"
+      "layman": "Building software with strict logic"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Multiple real-world examples"
     },
     {
-      "jargon": "Application in program verification",
-      "layman": "Using math to check software"
+      "jargon": "Theorems obtained by automation",
+      "layman": "Proved by computer"
     },
     {
-      "jargon": "Present state of repository",
-      "layman": "Current state of the system"
+      "jargon": "Application in formal program development",
+      "layman": "Used to build reliable software"
     },
     {
-      "jargon": "Future work directions",
-      "layman": "Next steps for improvement"
+      "jargon": "Illustrated by theory engineering and program verification",
+      "layman": "Showcased with real examples"
     }
   ]
 }

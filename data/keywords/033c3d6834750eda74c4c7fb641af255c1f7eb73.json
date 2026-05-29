@@ -9,60 +9,60 @@
       "layman": "Rock layers with tungsten minerals"
     },
     {
-      "jargon": "Late Svecokarelian granite",
-      "layman": "Ancient igneous rock intrusion"
-    },
-    {
-      "jargon": "Tungsten deposit",
-      "layman": "Tungsten-rich mineral site"
+      "jargon": "Granitic magma",
+      "layman": "Hot rock beneath the Earth's surface"
     },
     {
       "jargon": "Supracrustal rocks",
-      "layman": "Old surface rocks beneath the ground"
+      "layman": "Ancient surface rocks"
+    },
+    {
+      "jargon": "Tungsten deposit",
+      "layman": "Place with rich tungsten minerals"
     }
   ],
   "methodologies": [
     {
       "jargon": "Epigenetic model",
-      "layman": "Model for how minerals formed naturally"
+      "layman": "Model for how minerals formed"
     },
     {
-      "jargon": "Ore forming solutions",
-      "layman": "Mineral-rich fluids that seep into rocks"
+      "jargon": "Ore-forming solutions",
+      "layman": "Chemical fluids that carried tungsten"
     },
     {
-      "jargon": "Magma beneath rocks",
-      "layman": "Hot rock deep underground"
+      "jargon": "Intrusion",
+      "layman": "Hot rock pushing into surrounding rock"
     },
     {
-      "jargon": "Geological intrusion",
-      "layman": "Rock pushing into surrounding layers"
+      "jargon": "Magma emanation",
+      "layman": "Hot rock releasing fluids"
     },
     {
-      "jargon": "Natural mineralization",
-      "layman": "Process where minerals form in rocks"
+      "jargon": "Geological formation",
+      "layman": "Natural process of rock creation"
     }
   ],
   "outcomes": [
     {
       "jargon": "Tungsten-rich skarn",
-      "layman": "Skarn rock with high tungsten content"
+      "layman": "Skarn with high tungsten content"
     },
     {
-      "jargon": "Granitic magma",
-      "layman": "Hot granite rock from deep underground"
+      "jargon": "Granitic magma beneath",
+      "layman": "Magma under the surface"
     },
     {
-      "jargon": "Mineralization process",
-      "layman": "Formation of valuable minerals"
+      "jargon": "Mineralization",
+      "layman": "Mineral formation"
     },
     {
       "jargon": "Skarn formation",
       "layman": "Creation of tungsten-bearing rock"
     },
     {
-      "jargon": "Deep-seated fluid flow",
-      "layman": "Fluids moving from deep underground"
+      "jargon": "Ore-forming process",
+      "layman": "How tungsten minerals appeared"
     }
   ]
 }

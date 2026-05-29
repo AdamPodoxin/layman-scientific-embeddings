@@ -10,33 +10,33 @@
     },
     {
       "jargon": "Scattered points",
-      "layman": "Randomly distributed data points"
+      "layman": "Randomly placed data points"
     },
     {
       "jargon": "Reference surface",
-      "layman": "Base surface used for comparison"
+      "layman": "Base shape used for comparison"
     },
     {
       "jargon": "Bounded domain",
-      "layman": "Limited region or space"
+      "layman": "Limited space or region"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Smoothing Dm-splines",
-      "layman": "Smooth curve-fitting technique"
+      "jargon": "Modified Dm-splines",
+      "layman": "Smooth curve fitting tool"
     },
     {
-      "jargon": "Modified Dm-splines",
-      "layman": "Adjusted smoothing method"
+      "jargon": "Smoothing Dm-splines",
+      "layman": "Method to create smooth surfaces from data"
     },
     {
       "jargon": "Surface fitting",
-      "layman": "Matching points to a surface"
+      "layman": "Matching data to a shape"
     },
     {
-      "jargon": "Convergence",
-      "layman": "Method approaches the correct answer"
+      "jargon": "Convergence of the method",
+      "layman": "Method approaches correct solution"
     },
     {
       "jargon": "Numerical examples",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Convergence of the method",
-      "layman": "Method stabilizes and works correctly"
+      "layman": "Method works correctly"
     },
     {
-      "jargon": "Fitting a set of scattered points",
-      "layman": "Matching random points to a shape"
+      "jargon": "Fitting scattered points",
+      "layman": "Data matches a shape well"
     },
     {
-      "jargon": "Extended notion",
-      "layman": "Broader definition of a concept"
+      "jargon": "Parallelism conditions",
+      "layman": "Even alignment rule"
     },
     {
-      "jargon": "Classical smoothing",
-      "layman": "Traditional smooth data method"
+      "jargon": "Extended offset surfaces",
+      "layman": "Improved version of shifted surfaces"
     },
     {
-      "jargon": "Parameterized surfaces",
-      "layman": "Surfaces defined by mathematical formulas"
+      "jargon": "Solutions to fitting problems",
+      "layman": "Valid shapes created from data"
     }
   ]
 }

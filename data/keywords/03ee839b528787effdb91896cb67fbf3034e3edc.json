@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Lower gastrointestinal tract bleeding",
-      "layman": "Bleeding in the lower digestive system"
+      "layman": "Bleeding in the lower part of the digestive system"
     },
     {
       "jargon": "In-hospital mortality",
@@ -13,56 +13,56 @@
       "layman": "Existing health conditions"
     },
     {
-      "jargon": "Congestive heart failure",
-      "layman": "Heart failure due to fluid buildup"
+      "jargon": "Blood transfusion",
+      "layman": "Transfusing blood to patients"
     },
     {
-      "jargon": "Renal disease",
-      "layman": "Kidney disease"
+      "jargon": "Body mass index (BMI)",
+      "layman": "Body weight to height ratio"
     }
   ],
   "methodologies": [
     {
       "jargon": "Retrospective study",
-      "layman": "Looking back at past records"
+      "layman": "Looking back at past patient records"
     },
     {
-      "jargon": "Diagnosis Procedure Combination database",
-      "layman": "National medical data system"
+      "jargon": "National database",
+      "layman": "Large government-collected medical record system"
     },
     {
       "jargon": "Multivariable logistic regression",
-      "layman": "Statistical model to find risk factors"
+      "layman": "Statistical model to find which factors are linked to outcomes"
     },
     {
-      "jargon": "Blood transfusion",
-      "layman": "Giving blood to patients"
+      "jargon": "Diagnosis Procedure Combination database",
+      "layman": "Medical database linking diagnoses and treatments"
     },
     {
-      "jargon": "Interventional radiology",
-      "layman": "Imaging-guided treatment"
+      "jargon": "Hospital type",
+      "layman": "Whether hospital is academic or nonacademic"
     }
   ],
   "outcomes": [
     {
       "jargon": "In-hospital death",
-      "layman": "Death during hospital stay"
+      "layman": "Death while in hospital"
     },
     {
-      "jargon": "Blood transfusion requirement",
+      "jargon": "Blood transfusion need",
       "layman": "Need for blood transfusion"
     },
     {
-      "jargon": "2.5% mortality rate",
-      "layman": "2.5% chance of dying in hospital"
+      "jargon": "Interventional radiology",
+      "layman": "Radiology-based treatment for bleeding"
     },
     {
-      "jargon": "Higher BMI",
-      "layman": "Higher body weight"
+      "jargon": "Surgery requirement",
+      "layman": "Need for surgical treatment"
     },
     {
-      "jargon": "Male sex",
-      "layman": "Being male"
+      "jargon": "Gender difference",
+      "layman": "Difference in risk by sex"
     }
   ]
 }

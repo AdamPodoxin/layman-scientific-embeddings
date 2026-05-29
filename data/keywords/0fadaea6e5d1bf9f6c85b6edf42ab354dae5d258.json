@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Faster-than-light motion",
-      "layman": "Speed faster than light"
+      "layman": "Motion faster than light"
     },
     {
-      "jargon": "Electrodynamics",
-      "layman": "How electric and magnetic fields interact"
+      "jargon": "Electromagnetic field",
+      "layman": "Electric and magnetic field"
     },
     {
-      "jargon": "Fields",
-      "layman": "Invisible forces in space"
-    },
-    {
-      "jargon": "Particles with real masses",
-      "layman": "Tiny things that have weight"
+      "jargon": "Real masses",
+      "layman": "Actual mass"
     },
     {
       "jargon": "3-velocity",
-      "layman": "Speed in three dimensions"
+      "layman": "Three-dimensional speed"
+    },
+    {
+      "jargon": "Transformational properties",
+      "layman": "How things change under transformation"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Electrodynamics",
+      "layman": "Rules for electricity and magnetism"
+    },
+    {
       "jargon": "Transformational properties",
-      "layman": "How things change under different conditions"
+      "layman": "How quantities change under shifts"
     },
     {
-      "jargon": "Construct version of electrodynamics",
-      "layman": "Build a new version of the rules for electricity and magnetism"
+      "jargon": "Field behavior",
+      "layman": "How fields act and change"
     },
     {
-      "jargon": "Transformation of momentum",
-      "layman": "How momentum changes with speed"
+      "jargon": "Particle motion",
+      "layman": "How particles move"
     },
     {
-      "jargon": "Transformation of energy",
-      "layman": "How energy changes with speed"
-    },
-    {
-      "jargon": "Transformation of electromagnetic field",
-      "layman": "How electric and magnetic fields change with speed"
+      "jargon": "Energy-momentum relations",
+      "layman": "How energy and motion connect"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Faster-than-light motions of fields and particles",
-      "layman": "Fields and particles move faster than light"
+      "jargon": "Faster-than-light motions possible",
+      "layman": "Faster-than-light movement allowed"
     },
     {
-      "jargon": "Real masses",
-      "layman": "Things that have actual weight"
+      "jargon": "Transformational properties of 3-velocity",
+      "layman": "Speed changes under transformation"
     },
     {
-      "jargon": "Transformational properties",
-      "layman": "New rules for how things change"
+      "jargon": "Transformational properties of momentum",
+      "layman": "Momentum changes under transformation"
     },
     {
-      "jargon": "Extended physics framework",
-      "layman": "Broader set of physical rules"
+      "jargon": "Transformational properties of energy",
+      "layman": "Energy changes under transformation"
     },
     {
-      "jargon": "Physics/0405085",
-      "layman": "Earlier research paper"
+      "jargon": "Transformational properties of electromagnetic field",
+      "layman": "Field changes under transformation"
     }
   ]
 }

@@ -6,10 +6,10 @@
     },
     {
       "jargon": "Mammalian pathogens",
-      "layman": "Diseases that affect mammals"
+      "layman": "Disease-causing bacteria from mammals"
     },
     {
-      "jargon": "Invertebrates",
+      "jargon": "Invertebrate hosts",
       "layman": "Animals without backbones"
     },
     {
@@ -24,29 +24,29 @@
   "methodologies": [
     {
       "jargon": "Genetic information",
-      "layman": "DNA instructions"
+      "layman": "DNA code passed down"
+    },
+    {
+      "jargon": "Evolutionary levels",
+      "layman": "How species changed over time"
     },
     {
       "jargon": "Symbiotic interactions",
       "layman": "Bacteria and host working together"
     },
     {
-      "jargon": "Evolutionary levels",
-      "layman": "Different stages of evolution"
-    },
-    {
       "jargon": "Detailed characterization",
       "layman": "Close study of how things work"
     },
     {
-      "jargon": "Host interactions",
+      "jargon": "Bacteria-host interactions",
       "layman": "How bacteria and hosts relate"
     }
   ],
   "outcomes": [
     {
       "jargon": "Similar factors",
-      "layman": "Same underlying causes"
+      "layman": "Same causes in different cases"
     },
     {
       "jargon": "Early in evolution",
@@ -54,11 +54,11 @@
     },
     {
       "jargon": "Profound insights",
-      "layman": "Deep understanding"
+      "layman": "Big new understanding"
     },
     {
       "jargon": "Basic mechanisms",
-      "layman": "Core ways things work"
+      "layman": "Basic ways things work"
     },
     {
       "jargon": "Evolution of interactions",

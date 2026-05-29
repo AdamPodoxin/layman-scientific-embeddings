@@ -1,46 +1,46 @@
 {
   "core_entities": [
     {
-      "jargon": "GPU",
-      "layman": "Graphics Processing Unit"
+      "jargon": "Graphics Processor Unit",
+      "layman": "GPU"
     },
     {
       "jargon": "CUDA",
-      "layman": "Parallel programming environment"
+      "layman": "Parallel programming system"
     },
     {
       "jargon": "Thread",
-      "layman": "Individual task in a program"
+      "layman": "Processing unit"
     },
     {
-      "jargon": "Memory model",
-      "layman": "How data is stored and accessed"
+      "jargon": "Global memory",
+      "layman": "Main memory on GPU"
     },
     {
-      "jargon": "Kernel",
-      "layman": "Function run on GPU"
+      "jargon": "Floating-point arithmetic",
+      "layman": "Decimal math on chips"
     }
   ],
   "methodologies": [
     {
       "jargon": "Data parallelism",
-      "layman": "Same operation on many data points"
-    },
-    {
-      "jargon": "Thread scheduling",
-      "layman": "Managing when threads run"
-    },
-    {
-      "jargon": "Latency hiding",
-      "layman": "Masking delays in processing"
+      "layman": "Same task on many data points"
     },
     {
       "jargon": "Memory traffic reduction",
-      "layman": "Reducing data movement"
+      "layman": "Lower memory usage"
     },
     {
-      "jargon": "Floating point arithmetic",
-      "layman": "Math with decimal numbers"
+      "jargon": "Thread scheduling",
+      "layman": "Managing threads"
+    },
+    {
+      "jargon": "Latency hiding",
+      "layman": "Masking delays"
+    },
+    {
+      "jargon": "Kernel execution",
+      "layman": "Running a program on GPU"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Fast parallel program"
     },
     {
-      "jargon": "Efficient program",
+      "jargon": "Improved computational speed",
+      "layman": "Faster processing"
+    },
+    {
+      "jargon": "Reduced memory access latency",
+      "layman": "Faster memory reads"
+    },
+    {
+      "jargon": "Efficient parallel programming",
       "layman": "Well-optimized code"
     },
     {
-      "jargon": "GPU hardware performance features",
-      "layman": "GPU speed and capabilities"
-    },
-    {
-      "jargon": "Parallel execution models",
-      "layman": "Different ways to run parallel code"
-    },
-    {
-      "jargon": "200 million CUDA-capable GPUs",
-      "layman": "Many GPUs support CUDA"
+      "jargon": "200 million CUDA-capable GPUs in use",
+      "layman": "Many GPUs now active"
     }
   ]
 }

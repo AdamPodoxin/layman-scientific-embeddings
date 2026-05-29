@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Microcosm investigations",
+      "layman": "Small-scale ecosystem studies"
+    },
+    {
+      "jargon": "Space-time model",
+      "layman": "How space and time are linked"
+    },
+    {
+      "jargon": "Quantum mechanics principles",
+      "layman": "Rules for tiny particles"
+    },
+    {
+      "jargon": "Alternative research program",
+      "layman": "New way to study the small world"
+    },
+    {
+      "jargon": "Mathematical technique",
+      "layman": "Advanced math method"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Conventional approach",
+      "layman": "Traditional way of studying"
+    },
+    {
+      "jargon": "Free explanations",
+      "layman": "Easy-to-understand reasons"
+    },
+    {
+      "jargon": "Statistical description",
+      "layman": "Numbers to describe patterns"
+    },
+    {
+      "jargon": "New conception of geometry",
+      "layman": "New way to see space"
+    },
+    {
+      "jargon": "Mathematical modeling",
+      "layman": "Building math models of reality"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Incorrect space-time model",
+      "layman": "Wrong view of space and time"
+    },
+    {
+      "jargon": "Additional hypotheses",
+      "layman": "Extra assumptions to fix errors"
+    },
+    {
+      "jargon": "Secular delay",
+      "layman": "Late arrival due to time lag"
+    },
+    {
+      "jargon": "Absence of mathematical technique",
+      "layman": "Lack of needed math tools"
+    },
+    {
+      "jargon": "Prejudices overcame",
+      "layman": "Old biases finally rejected"
+    }
+  ]
+}

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Performance-based Logistics",
-      "layman": "Service contracts based on uptime"
-    },
-    {
-      "jargon": "Consumption-based contract",
-      "layman": "Payment based on parts used"
-    },
-    {
       "jargon": "Product support contracts",
-      "layman": "Agreements for after-sales service"
+      "layman": "Agreements for after-sales care"
     },
     {
-      "jargon": "Spare product assets",
-      "layman": "Extra parts kept on hand"
+      "jargon": "Weapons systems",
+      "layman": "Military equipment"
     },
     {
-      "jargon": "Military service",
-      "layman": "Army, air force, navy"
+      "jargon": "Spare parts",
+      "layman": "Replacement components"
+    },
+    {
+      "jargon": "Uptime",
+      "layman": "Time product is working"
+    },
+    {
+      "jargon": "Base-stock inventory",
+      "layman": "Reserved spare parts on hand"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Inventory level setting",
-      "layman": "Deciding how many spare parts to keep"
+      "jargon": "Performance-based Logistics",
+      "layman": "Contracts tied to system reliability"
+    },
+    {
+      "jargon": "Consumption-based contract",
+      "layman": "Pay based on parts used"
     },
     {
       "jargon": "Reliability improvement",
-      "layman": "Making products more reliable"
+      "layman": "Making products less likely to break"
     },
     {
-      "jargon": "Contract term setting",
-      "layman": "Choosing contract rules"
+      "jargon": "Inventory investment",
+      "layman": "Buying more spares for safety"
     },
     {
-      "jargon": "Supplier investment",
-      "layman": "Supplier spending to improve service"
-    },
-    {
-      "jargon": "Efficiency analysis",
-      "layman": "Measuring how well the system works"
+      "jargon": "Contract negotiation",
+      "layman": "Setting terms between buyer and seller"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Stronger incentives for reliability",
-      "layman": "More motivation to fix problems"
+      "jargon": "Supplier incentives",
+      "layman": "Motivation to improve services"
     },
     {
-      "jargon": "Savings in spare parts",
-      "layman": "Less money spent on parts"
+      "jargon": "Savings in spare assets",
+      "layman": "Less money spent on parts storage"
     },
     {
-      "jargon": "Improved PBC efficiency",
-      "layman": "Better results under performance contracts"
+      "jargon": "Efficiency improvement",
+      "layman": "Better use of resources"
     },
     {
-      "jargon": "Supplier owns spare assets",
-      "layman": "Supplier keeps the spare parts"
+      "jargon": "Ownership of spare assets",
+      "layman": "Supplier owns spare parts"
     },
     {
-      "jargon": "Shift to total service providers",
-      "layman": "Suppliers offer full support services"
+      "jargon": "Transition to total service providers",
+      "layman": "Suppliers offer full support"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Multi-layer enterprises",
-      "layman": "Complex business organizations"
+      "layman": "Complex business networks"
     },
     {
       "jargon": "Systemic competiveness",
-      "layman": "Overall competitive strength of a system"
+      "layman": "System-wide competitiveness"
     },
     {
       "jargon": "Globalization",
-      "layman": "Worldwide economic integration"
+      "layman": "Worldwide market connection"
     },
     {
       "jargon": "Micro-economical level",
-      "layman": "Small business operations"
+      "layman": "Small business level"
     },
     {
-      "jargon": "Macro-economical level",
-      "layman": "National economic conditions"
+      "jargon": "Meso-economical level",
+      "layman": "Medium-sized business level"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Five concepts of international competitiveness",
-      "layman": "Five ways to measure global competitiveness"
+      "jargon": "Macroeconomic models",
+      "layman": "Large economy-wide models"
     },
     {
-      "jargon": "Five layers of the capital of organizations",
-      "layman": "Five types of organizational resources"
+      "jargon": "Conceptual framework",
+      "layman": "Theoretical structure"
+    },
+    {
+      "jargon": "Five layers of capital",
+      "layman": "Five types of business resources"
+    },
+    {
+      "jargon": "Benchmark assessment",
+      "layman": "Comparing performance to standards"
     },
     {
       "jargon": "Theoretical concepts",
-      "layman": "Ideas based on theory"
-    },
-    {
-      "jargon": "Reflection on globalization challenges",
-      "layman": "Looking back at global market problems"
-    },
-    {
-      "jargon": "General assumptions",
-      "layman": "Basic beliefs about how things work"
+      "layman": "Built-in ideas for understanding"
     }
   ],
   "outcomes": [
     {
-      "jargon": "New approach to competitiveness",
-      "layman": "New way to assess global strength"
+      "jargon": "International competitiveness",
+      "layman": "Ability to compete globally"
     },
     {
-      "jargon": "Determinants of the surrounding environment",
-      "layman": "Factors affecting external conditions"
+      "jargon": "New challenges in globalization",
+      "layman": "New problems from global trade"
+    },
+    {
+      "jargon": "Determinants of environment",
+      "layman": "Factors shaping external conditions"
     },
     {
       "jargon": "Competitive system",
-      "layman": "A system that supports business success"
+      "layman": "Coordinated system for success"
     },
     {
-      "jargon": "Actions at different economic levels",
-      "layman": "Strategies across business sizes"
-    },
-    {
-      "jargon": "Benchmark for competitiveness",
-      "layman": "Standard to measure success"
+      "jargon": "Systemic coopetitiveness",
+      "layman": "Winning and cooperating together"
     }
   ]
 }

@@ -5,64 +5,64 @@
       "layman": "Lacan psychoanalysis"
     },
     {
-      "jargon": "Unstable ego",
-      "layman": "Unstable self"
+      "jargon": "Ego",
+      "layman": "Self-identity"
     },
     {
       "jargon": "Community",
       "layman": "Society"
     },
     {
-      "jargon": "Ego",
-      "layman": "Self"
+      "jargon": "Unstable ego",
+      "layman": "Unstable self"
     },
     {
-      "jargon": "Psychoanalysis",
-      "layman": "Mental analysis"
+      "jargon": "Psychoanalytic framework",
+      "layman": "Psychological theory"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Enlightening level",
-      "layman": "Providing clarity"
+      "jargon": "Psychoanalysis",
+      "layman": "Talk therapy"
     },
     {
-      "jargon": "Adjusting to community",
-      "layman": "Getting along with society"
+      "jargon": "Ego adjustment",
+      "layman": "Self-adaptation"
     },
     {
-      "jargon": "Complements",
-      "layman": "Supports"
+      "jargon": "Community integration",
+      "layman": "Fit into society"
     },
     {
-      "jargon": "Repletely",
-      "layman": "Fully"
+      "jargon": "Level of enlightenment",
+      "layman": "Understanding level"
     },
     {
-      "jargon": "Cannot adjust",
-      "layman": "Fails to adapt"
+      "jargon": "Recurrent failure",
+      "layman": "Repeated breakdown"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Purpose of Lacan psychoanalysis",
-      "layman": "Goal of the therapy"
-    },
-    {
-      "jargon": "Unstable ego who cannot adjust",
-      "layman": "Self that can't adapt"
-    },
-    {
-      "jargon": "Who cannot adjust to the community",
+      "jargon": "Cannot adjust to community",
       "layman": "Fails to fit in society"
     },
     {
-      "jargon": "Does not enlighten",
-      "layman": "Does not provide clarity"
+      "jargon": "Unstable ego",
+      "layman": "Unstable self"
+    },
+    {
+      "jargon": "Lack of enlightenment",
+      "layman": "No deeper understanding"
     },
     {
       "jargon": "Incomplete self",
-      "layman": "Incomplete identity"
+      "layman": "Incomplete self"
+    },
+    {
+      "jargon": "Permanent absence",
+      "layman": "Can't return"
     }
   ]
 }

@@ -1,64 +1,64 @@
 {
   "core_entities": [
     {
-      "jargon": "Surrealist tenets",
-      "layman": "Surrealist principles"
-    },
-    {
       "jargon": "Collective unconscious",
       "layman": "Shared human mind"
     },
     {
       "jargon": "Occultism",
-      "layman": "Hidden knowledge"
+      "layman": "Secret or hidden knowledge"
     },
     {
       "jargon": "Myth",
-      "layman": "Traditional story"
+      "layman": "Ancient story with deeper meaning"
     },
     {
       "jargon": "Dream",
-      "layman": "Nighttime thought"
+      "layman": "Deep sleep thoughts"
+    },
+    {
+      "jargon": "Surrealist poetry",
+      "layman": "Poetry from dream-like imagery"
     }
   ],
   "methodologies": [
     {
       "jargon": "Incantatory rhythms",
-      "layman": "Repetitive chanting"
+      "layman": "Repetition with magical tone"
     },
     {
       "jargon": "Text analysis",
-      "layman": "Studying writings"
+      "layman": "Studying written works"
+    },
+    {
+      "jargon": "Interior apprehension",
+      "layman": "Inner feeling of something"
     },
     {
       "jargon": "Cosmogonic visions",
-      "layman": "Big picture visions of the universe"
+      "layman": "Visions of the universe's origin"
     },
     {
       "jargon": "Spiritist seances",
-      "layman": "Spirit communication sessions"
-    },
-    {
-      "jargon": "Internal apprehension",
-      "layman": "Inner understanding"
+      "layman": "Sessions for spirit communication"
     }
   ],
   "outcomes": [
     {
       "jargon": "Algolagnic experience",
-      "layman": "Painful desire"
+      "layman": "Painful, fate-driven feeling"
     },
     {
       "jargon": "Apocalyptical prophecies",
-      "layman": "End-of-world predictions"
+      "layman": "Predictions of end times"
     },
     {
-      "jargon": "Pre-industrial collective past",
-      "layman": "Older shared history"
+      "jargon": "Recovery of pre-industrial past",
+      "layman": "Returning to old, simple times"
     },
     {
       "jargon": "Primitive myth",
-      "layman": "Simple ancient story"
+      "layman": "Older, wild human stories"
     },
     {
       "jargon": "Unconscious desire",

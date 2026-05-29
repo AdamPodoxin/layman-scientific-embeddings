@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Danish state",
-      "layman": "Denmark as a country"
+      "layman": "Denmark as a nation"
     },
     {
       "jargon": "Gender issues",
-      "layman": "Issues about equality between men and women"
+      "layman": "Gender equality concerns"
     },
     {
       "jargon": "Development policy",
-      "layman": "How a country supports growth in other countries"
+      "layman": "How countries support growth in other places"
     },
     {
       "jargon": "Western donor states",
-      "layman": "Rich countries that give money to others"
+      "layman": "Western countries that give aid"
     },
     {
       "jargon": "Gender and development aid",
-      "layman": "Help given to poor countries that also promotes gender equality"
+      "layman": "Aid focused on gender and growth"
     }
   ],
   "methodologies": [
@@ -27,12 +27,12 @@
       "layman": "Deciding what issues get attention"
     },
     {
-      "jargon": "International constitution",
-      "layman": "Creating shared rules between countries"
-    },
-    {
       "jargon": "Policy implementation",
       "layman": "Putting policies into action"
+    },
+    {
+      "jargon": "International constitution",
+      "layman": "Building policies across countries"
     },
     {
       "jargon": "State identity",
@@ -40,13 +40,13 @@
     },
     {
       "jargon": "Development aid",
-      "layman": "Money and support sent to help poorer nations"
+      "layman": "Money or support sent to help abroad"
     }
   ],
   "outcomes": [
     {
       "jargon": "Radically different policy",
-      "layman": "A very different approach from others"
+      "layman": "A completely different approach"
     },
     {
       "jargon": "Less progressive policy",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Gendered policies",
-      "layman": "Policies influenced by gender roles"
+      "layman": "Policies shaped by gender roles"
     },
     {
-      "jargon": "Challenges in implementation",
+      "jargon": "Challenges to implementation",
       "layman": "Problems in putting plans into action"
     },
     {
-      "jargon": "Reconstituted identity",
-      "layman": "A new sense of self after change"
+      "jargon": "Reconstitute state identity",
+      "layman": "Change how the country sees itself"
     }
   ]
 }

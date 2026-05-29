@@ -6,63 +6,63 @@
     },
     {
       "jargon": "E'mei mantle plume",
-      "layman": "Hot underground rising column"
+      "layman": "Underground hot column"
     },
     {
       "jargon": "Carboniferous sedimentary bauxite",
-      "layman": "Old rock with aluminum layers"
+      "layman": "Old soil-rich rock"
     },
     {
-      "jargon": "Basalt cooper",
-      "layman": "Basalt rock with copper"
+      "jargon": "Crust and mantle interaction stage",
+      "layman": "Earth's surface and deep layer meeting"
     },
     {
-      "jargon": "Manganese bearing siderite",
-      "layman": "Rock with manganese and iron carbonate"
+      "jargon": "Geothermal sedimentary manganese",
+      "layman": "Manganese from hot water deposits"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Crust and mantle interaction stage",
-      "layman": "Earth's crust and deep mantle touching"
+      "jargon": "Crustal uplift",
+      "layman": "Land rising higher"
     },
     {
-      "jargon": "Geothermal sedimentary process",
-      "layman": "Hot water forming rocks underground"
+      "jargon": "Anatexis",
+      "layman": "Rock melting due to heat"
     },
     {
-      "jargon": "Anatexis of the crust",
-      "layman": "Crust melting due to heat"
+      "jargon": "Geothermal deposit formation",
+      "layman": "Hot water creating deposits"
+    },
+    {
+      "jargon": "Volcanosedimentary pyrites",
+      "layman": "Sulfur-rich minerals from lava and water"
     },
     {
       "jargon": "Mantle heat flow",
-      "layman": "Heat rising from deep Earth"
-    },
-    {
-      "jargon": "Geologic responses",
-      "layman": "Earth's reactions to changes"
+      "layman": "Heat moving from deep inside Earth"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Crustal uplift",
-      "layman": "Earth's surface rising"
+      "jargon": "Basalt cooper",
+      "layman": "Copper in lava rock"
+    },
+    {
+      "jargon": "Ferro-manganese",
+      "layman": "Iron and manganese mix"
     },
     {
       "jargon": "Middle-low temperature geothermal deposit",
-      "layman": "Hot water deposits at moderate temps"
+      "layman": "Cool hot water deposits"
     },
     {
-      "jargon": "Volcanosedimentary pyrites",
-      "layman": "Pyrite formed from volcanic and sediment layers"
+      "jargon": "Activation by remaining solidified mantle",
+      "layman": "Mantle pieces wake up later"
     },
     {
-      "jargon": "Mantle plume evolution",
-      "layman": "Change over time of the hot underground column"
-    },
-    {
-      "jargon": "Activation of geothermal deposits",
-      "layman": "Hot deposits becoming active later"
+      "jargon": "Different geologic responses",
+      "layman": "Earth's unique reactions"
     }
   ]
 }

@@ -1,12 +1,12 @@
 {
   "core_entities": [
     {
-      "jargon": "Spacetime",
-      "layman": "Space and time together"
+      "jargon": "Spacetime foam",
+      "layman": "Tiny, random bumps in space and time"
     },
     {
       "jargon": "High-energy photons",
-      "layman": "High-energy light particles"
+      "layman": "Very energetic light particles"
     },
     {
       "jargon": "Astrophysics",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Small-scale structure",
-      "layman": "Tiny patterns in space"
+      "layman": "Tiny details of space"
     },
     {
-      "jargon": "Photons",
-      "layman": "Light particles"
+      "jargon": "Spacetime",
+      "layman": "The fabric of space and time"
     }
   ],
   "methodologies": [
     {
       "jargon": "High-energy astrophysics",
-      "layman": "Studying space with high-energy light"
+      "layman": "Observing energetic cosmic events"
     },
     {
-      "jargon": "Astrophysical observations",
-      "layman": "Observing space events from Earth"
+      "jargon": "Information from astrophysics",
+      "layman": "Learning from distant cosmic signals"
     },
     {
-      "jargon": "Photon detection",
-      "layman": "Measuring light particles"
+      "jargon": "Photon propagation",
+      "layman": "How light travels through space"
     },
     {
-      "jargon": "Energy measurement",
-      "layman": "Measuring how much energy light has"
+      "jargon": "Observational data",
+      "layman": "Data collected from space"
     },
     {
-      "jargon": "Cosmic ray analysis",
-      "layman": "Studying high-energy particles from space"
+      "jargon": "Cosmic photon detection",
+      "layman": "Measuring light from distant space"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Information on small-scale structure",
-      "layman": "Clues about tiny space patterns"
+      "jargon": "Small-scale structure of spacetime",
+      "layman": "Hidden tiny patterns in space and time"
     },
     {
-      "jargon": "Spacetime foam",
-      "layman": "Tiny bubbling of space"
+      "jargon": "Information on spacetime",
+      "layman": "Insights into space's building blocks"
     },
     {
-      "jargon": "Structure of spacetime",
+      "jargon": "High-energy photons provide information",
+      "layman": "Bright light from space reveals hidden details"
+    },
+    {
+      "jargon": "Spacetime structure",
       "layman": "How space and time are built"
     },
     {
-      "jargon": "High-energy photons",
-      "layman": "Light with very high energy"
-    },
-    {
-      "jargon": "Quantum fluctuations",
-      "layman": "Tiny random changes in space"
+      "jargon": "Non-trivial structure",
+      "layman": "Complex, not just flat space"
     }
   ]
 }

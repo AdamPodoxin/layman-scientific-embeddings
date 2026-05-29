@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Quinones",
-      "layman": "Electron-carrying molecules"
+      "layman": "Electroactive molecules"
     },
     {
-      "jargon": "2,3-dimethyl-1,4-naphthoquinone",
-      "layman": "Special quinone molecule"
+      "jargon": "2,3-Dimethyl-1,4-naphthoquinone",
+      "layman": "Modified quinone compound"
     },
     {
       "jargon": "Pyrano[3,2-f]chromene",
-      "layman": "Special organic compound"
+      "layman": "Special organic redox compound"
     },
     {
       "jargon": "Diethyl malonate",
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Protonation",
-      "layman": "Adding a proton to a molecule"
+      "layman": "Molecule gaining a proton"
     },
     {
       "jargon": "Proton-coupled electron transfer",
-      "layman": "Electron and proton move together"
+      "layman": "Proton and electron move together"
     },
     {
       "jargon": "Electroactive elements",
-      "layman": "Molecules that respond to electricity"
+      "layman": "Materials that respond to electricity"
     },
     {
-      "jargon": "Cell voltage",
-      "layman": "Electric potential in a battery-like system"
+      "jargon": "Reduction potential",
+      "layman": "Energy level for gaining electrons"
     }
   ],
   "outcomes": [
@@ -50,15 +50,15 @@
     },
     {
       "jargon": "Stability of reduced quinone",
-      "layman": "Long-lasting reduced state"
+      "layman": "Long-term molecular stability"
     },
     {
       "jargon": "High cell potential but low stability",
-      "layman": "High voltage, short life"
+      "layman": "High voltage, quick failure"
     },
     {
       "jargon": "Lower cell potential but high stability",
-      "layman": "Low voltage, long life"
+      "layman": "Lower voltage, durable"
     },
     {
       "jargon": "Good combination of voltage and stability",

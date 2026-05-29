@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Income tax",
-      "layman": "Tax on income"
+      "layman": "Tax on earnings"
     },
     {
       "jargon": "Fixed incomes",
-      "layman": "Stable payments"
+      "layman": "Regular payments like pensions"
     },
     {
       "jargon": "Government revenue",
-      "layman": "Money collected by government"
+      "layman": "Money collected by the government"
     },
     {
       "jargon": "University applicants",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Open-response questionnaire",
-      "layman": "Free-text survey"
+      "layman": "Survey with free-text answers"
     },
     {
       "jargon": "Anonymous survey",
@@ -35,34 +35,34 @@
       "layman": "Open-ended questions"
     },
     {
-      "jargon": "Statistical analysis",
-      "layman": "Data analysis"
+      "jargon": "Data analysis",
+      "layman": "Looking at responses to find patterns"
     },
     {
-      "jargon": "Direct quotes",
-      "layman": "People's own words"
+      "jargon": "Statistical findings",
+      "layman": "Numbers showing what was found"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Considerable ignorance",
-      "layman": "Little knowledge"
+      "jargon": "Ignorance of facts",
+      "layman": "Not knowing basic truths"
     },
     {
       "jargon": "General acceptance",
-      "layman": "Widespread agreement"
+      "layman": "Willing to accept the system"
     },
     {
-      "jargon": "Fundamental ignorance",
-      "layman": "Basic lack of understanding"
+      "jargon": "Knowledge of government spending",
+      "layman": "Knows how tax money is used"
     },
     {
-      "jargon": "Precise percentage knowledge",
-      "layman": "Exact numbers known"
+      "jargon": "Preference for income tax",
+      "layman": "Favor tax on income"
     },
     {
-      "jargon": "Implications for education and politics",
-      "layman": "Effects on learning and government"
+      "jargon": "Lack of precise tax percentages",
+      "layman": "Don't know exact tax rates"
     }
   ]
 }

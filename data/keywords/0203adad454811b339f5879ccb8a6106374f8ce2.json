@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Einsteinian gravity",
-      "layman": "Einstein's gravity"
+      "layman": "Einstein's theory of gravity"
     },
     {
       "jargon": "Gravitational repulsion",
@@ -14,39 +14,39 @@
     },
     {
       "jargon": "General relativity",
-      "layman": "Theory of gravity and spacetime"
+      "layman": "Theory of gravity and space-time"
     },
     {
       "jargon": "Physical regions",
-      "layman": "Areas of space"
+      "layman": "Parts of space where things happen"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Memorization",
-      "layman": "Recording ideas"
+      "jargon": "Memoir analysis",
+      "layman": "Reviewing a historical text"
     },
     {
       "jargon": "Illustration",
-      "layman": "Showing with examples"
+      "layman": "Showing with an example"
     },
     {
       "jargon": "Historical note",
-      "layman": "A note on past discoveries"
+      "layman": "A note about the past"
     },
     {
-      "jargon": "Concise presentation",
-      "layman": "Short explanation"
+      "jargon": "Contained in",
+      "layman": "Found inside"
     },
     {
-      "jargon": "Literature review",
-      "layman": "Checking past scientific writings"
+      "jargon": "Particular instances",
+      "layman": "Specific situations"
     }
   ],
   "outcomes": [
     {
       "jargon": "Repulsive action",
-      "layman": "Pushing objects apart"
+      "layman": "Pushing instead of pulling"
     },
     {
       "jargon": "Remarkable result",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "No mention in literature",
-      "layman": "Not discussed before"
+      "layman": "Not discussed in science papers"
     },
     {
-      "jargon": "Particular instances",
-      "layman": "Specific cases"
+      "jargon": "Peculiar phenomenon",
+      "layman": "Strange occurrence"
     },
     {
-      "jargon": "Particular regions",
-      "layman": "Specific areas"
+      "jargon": "Exerts a repulsive action",
+      "layman": "Gravity pushes instead of pulls"
     }
   ]
 }

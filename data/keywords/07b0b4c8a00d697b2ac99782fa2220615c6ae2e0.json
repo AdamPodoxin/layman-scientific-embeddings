@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Computer algebra system",
-      "layman": "Math software that does symbolic math"
+      "layman": "Math computation tool"
     },
     {
       "jargon": "Symbolic computation",
-      "layman": "Math operations with symbols"
+      "layman": "Mathematical symbol manipulation"
     },
     {
       "jargon": "Calculus level proof",
-      "layman": "Final math proof step-by-step"
+      "layman": "Detailed mathematical proof"
     },
     {
       "jargon": "\u03a9MEGA system",
@@ -27,7 +27,7 @@
       "layman": "Do math first, then check it"
     },
     {
-      "jargon": "Refinement of a proof plan",
+      "jargon": "Refinement of proof plan",
       "layman": "Turn plan into detailed proof"
     },
     {
@@ -35,34 +35,34 @@
       "layman": "Step-by-step calculation record"
     },
     {
-      "jargon": "Low-level calculus proof",
-      "layman": "Simple, checkable math proof"
+      "jargon": "Checkable low-level calculus proof",
+      "layman": "Verified step-by-step proof"
     },
     {
       "jargon": "Integration of computer algebra",
-      "layman": "Mixing math software into proof work"
+      "layman": "Use math tool inside proof system"
     }
   ],
   "outcomes": [
     {
       "jargon": "Non-trivial symbolic computations",
-      "layman": "Hard symbolic math tasks"
+      "layman": "Hard math operations"
     },
     {
-      "jargon": "Trivially checked computations",
-      "layman": "Easy to verify math results"
+      "jargon": "Trivially checked",
+      "layman": "Easy to verify"
     },
     {
       "jargon": "Correctness of computation",
-      "layman": "Math is proven right"
+      "layman": "Computation is accurate"
     },
     {
-      "jargon": "Self-implemented system",
-      "layman": "Built-in verification tool"
+      "jargon": "Exploits computation verification",
+      "layman": "Uses verification to ensure accuracy"
     },
     {
-      "jargon": "Demonstration in \u03a9MEGA",
-      "layman": "Proven in real system"
+      "jargon": "Demonstrated in \u03a9MEGA",
+      "layman": "Proven in \u03a9MEGA system"
     }
   ]
 }

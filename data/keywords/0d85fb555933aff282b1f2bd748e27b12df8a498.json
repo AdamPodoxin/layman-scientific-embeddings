@@ -6,63 +6,63 @@
     },
     {
       "jargon": "State collapse",
-      "layman": "Government falls apart"
+      "layman": "Breakdown of government"
     },
     {
       "jargon": "Ethnopolitical conflict",
-      "layman": "Conflict between ethnic groups"
+      "layman": "Conflict based on ethnicity and politics"
+    },
+    {
+      "jargon": "Unitary state",
+      "layman": "One central government with all power"
     },
     {
       "jargon": "Monocentric governance",
       "layman": "Power in one central place"
-    },
-    {
-      "jargon": "Unitary sovereignty",
-      "layman": "One central government controls all"
     }
   ],
   "methodologies": [
     {
       "jargon": "Sociopolitical and institutional approach",
-      "layman": "Study of society and power structures"
+      "layman": "Studying society and government systems"
     },
     {
       "jargon": "Institutional analysis framework",
-      "layman": "Framework to study how rules affect decisions"
+      "layman": "System for studying how rules shape behavior"
     },
     {
       "jargon": "Continuum of circular causation",
-      "layman": "Loop of causes and effects in politics"
+      "layman": "Interconnected cycles of causes and effects"
     },
     {
-      "jargon": "Historical case study",
-      "layman": "Detailed study of past events"
+      "jargon": "Historical analysis",
+      "layman": "Examining past events to understand now"
     },
     {
-      "jargon": "Prescriptive intent",
-      "layman": "Offering solutions based on analysis"
+      "jargon": "Conflict studies literature",
+      "layman": "Existing research on conflict"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Deadly conflict",
-      "layman": "Violent fighting"
+      "jargon": "Democratic inclusiveness",
+      "layman": "Involving all people in government"
     },
     {
-      "jargon": "Democratic inclusiveness",
-      "layman": "Including all people in politics"
+      "jargon": "Settler nationalism",
+      "layman": "National pride based on immigrant groups"
+    },
+    {
+      "jargon": "Authoritarianism",
+      "layman": "Rule by a small group without limits"
     },
     {
       "jargon": "Political transition",
-      "layman": "Change in government"
+      "layman": "Change in government power"
     },
     {
-      "jargon": "Structural flaw",
-      "layman": "Deep-rooted problem in system"
-    },
-    {
-      "jargon": "Limited or shared sovereignty",
-      "layman": "Power shared among groups"
+      "jargon": "Polycentric governance",
+      "layman": "Power shared among many places or groups"
     }
   ]
 }

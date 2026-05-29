@@ -2,37 +2,37 @@
   "core_entities": [
     {
       "jargon": "Supersymmetric black holes",
-      "layman": "Black holes with symmetry properties"
+      "layman": "Black holes with symmetry preserving laws"
     },
     {
-      "jargon": "AdS5 black holes",
-      "layman": "Black holes in five-dimensional space"
+      "jargon": "AdS5 spacetime",
+      "layman": "Five-dimensional universe with specific curvature"
     },
     {
       "jargon": "Gauged supergravity",
-      "layman": "Gravity theory with symmetry forces"
+      "layman": "Gravity theory with extra symmetries and forces"
     },
     {
       "jargon": "Abelian vector multiplets",
-      "layman": "Groups of force particles"
+      "layman": "Types of force-carrying particles in theory"
     },
     {
       "jargon": "Maximally supersymmetric solutions",
-      "layman": "Most symmetric black hole configurations"
+      "layman": "Symmetric solutions with full symmetry coverage"
     }
   ],
   "methodologies": [
     {
       "jargon": "Presented",
-      "layman": "Described"
+      "layman": "Described and shown"
     },
     {
       "jargon": "Discussed",
-      "layman": "Explained"
+      "layman": "Explained in depth"
     },
     {
       "jargon": "Obtained",
-      "layman": "Found"
+      "layman": "Calculated or derived"
     },
     {
       "jargon": "Coupled to",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "All maximally supersymmetric solutions",
-      "layman": "All most symmetric black hole forms"
+      "layman": "All possible symmetric solutions found"
     },
     {
       "jargon": "With or without gauging",
-      "layman": "Including or excluding force interactions"
+      "layman": "Including or excluding force coupling"
     },
     {
-      "jargon": "Five dimensional gauged supergravity",
-      "layman": "Five-dimensional gravity with forces"
+      "jargon": "Five dimensional",
+      "layman": "In five dimensions"
     },
     {
-      "jargon": "Arbitrarily many abelian vector multiplets",
-      "layman": "Many types of force particles"
+      "jargon": "Asymptotically AdS5",
+      "layman": "Approaching a specific curved space at infinity"
     },
     {
-      "jargon": "General supersymmetric AdS5 black holes",
-      "layman": "Common symmetric black holes in five dimensions"
+      "jargon": "Black hole solutions",
+      "layman": "Specific solutions describing black holes"
     }
   ]
 }

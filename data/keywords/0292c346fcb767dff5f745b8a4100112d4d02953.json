@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "I-trees",
-      "layman": "Trees with a special starting part"
+      "layman": "Trees with a starting part"
     },
     {
       "jargon": "Computable trees",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Computable categoricity",
-      "layman": "All versions are essentially the same"
+      "layman": "All similar in structure"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Show is true"
     },
     {
-      "jargon": "Effectively infinite computable dimension",
-      "layman": "Can be built in infinitely many ways"
+      "jargon": "Effective computation",
+      "layman": "Computation by algorithm"
     },
     {
-      "jargon": "Studied",
-      "layman": "Analyzed carefully"
+      "jargon": "Computable dimension",
+      "layman": "How complex to build"
     },
     {
-      "jargon": "Distinguished",
-      "layman": "Clearly marked or identified"
+      "jargon": "Distinguished initial subtree",
+      "layman": "Marked starting section"
     },
     {
-      "jargon": "Computable",
-      "layman": "Built by a clear rule or algorithm"
+      "jargon": "Infinite height analysis",
+      "layman": "Study of never-ending structure"
     }
   ],
   "outcomes": [
     {
-      "jargon": "All I-trees of infinite height are computably categorical",
-      "layman": "All such trees are fundamentally the same"
+      "jargon": "Computably categorical",
+      "layman": "All the same structure"
     },
     {
-      "jargon": "Have effectively infinite computable dimension",
-      "layman": "Can be described in infinitely many algorithmic ways"
+      "jargon": "Effectively infinite computable dimension",
+      "layman": "Can be built forever by algorithm"
     },
     {
-      "jargon": "Proved",
-      "layman": "Confirmed as true"
+      "jargon": "All I-trees are computably categorical",
+      "layman": "All such trees are structurally similar"
     },
     {
       "jargon": "Infinite height",
-      "layman": "Never ends"
+      "layman": "Going on forever"
     },
     {
-      "jargon": "Computably categorical",
-      "layman": "Same structure no matter how you build it"
+      "jargon": "Computable dimension is infinite",
+      "layman": "Structure can be built endlessly"
     }
   ]
 }

@@ -5,20 +5,20 @@
       "layman": "Sudden brain blockage"
     },
     {
-      "jargon": "Dexamethasone",
-      "layman": "Strong anti-inflammatory drug"
+      "jargon": "Decadron\u00ae",
+      "layman": "Dexamethasone medication"
     },
     {
-      "jargon": "Placebo therapy",
-      "layman": "Fake treatment"
+      "jargon": "Gastrointestinal tract bleeding",
+      "layman": "Stomach or intestine bleeding"
     },
     {
       "jargon": "Cerebrovascular disease",
-      "layman": "Brain blood vessel disease"
+      "layman": "Blood vessel disease in the brain"
     },
     {
-      "jargon": "CSF pressure",
-      "layman": "Spinal fluid pressure"
+      "jargon": "Cerebrospinal fluid pressure",
+      "layman": "CSF pressure in brain fluid"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Test where neither doctor nor patient knows treatment"
     },
     {
-      "jargon": "Clinical state",
-      "layman": "Patient's overall condition"
+      "jargon": "Comparison of patients with similar levels of consciousness",
+      "layman": "Comparing patients in similar mental states"
     },
     {
-      "jargon": "Comparison of patients",
-      "layman": "Matching patients for fair testing"
+      "jargon": "Placebo therapy",
+      "layman": "Fake treatment with no active ingredients"
     },
     {
-      "jargon": "Control group",
-      "layman": "Group getting no active treatment"
+      "jargon": "Clinical state of the patient",
+      "layman": "Patient's overall health condition"
     },
     {
-      "jargon": "14-day course",
+      "jargon": "14-day course of the study",
       "layman": "14-day treatment period"
     }
   ],
   "outcomes": [
     {
       "jargon": "No significant difference",
-      "layman": "No clear benefit"
+      "layman": "No real difference found"
     },
     {
-      "jargon": "Gastrointestinal tract bleeding",
-      "layman": "Stomach or intestine bleeding"
+      "jargon": "Three patients developed gastrointestinal bleeding",
+      "layman": "Three patients had stomach or intestine bleedings"
     },
     {
-      "jargon": "No correlation",
-      "layman": "No link found"
+      "jargon": "No bleeding in Decadron\u00ae group",
+      "layman": "No bleeding in treated patients"
     },
     {
-      "jargon": "Levels of consciousness",
-      "layman": "Patient's alertness level"
+      "jargon": "No good correlation between clinical state and CSF pressure",
+      "layman": "Brain fluid pressure didn't match patient condition"
     },
     {
-      "jargon": "CSF pressure changes",
-      "layman": "Spinal fluid pressure shifts"
+      "jargon": "Controlled study",
+      "layman": "Carefully monitored test"
     }
   ]
 }

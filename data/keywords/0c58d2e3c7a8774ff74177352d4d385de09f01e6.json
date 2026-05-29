@@ -1,56 +1,68 @@
 {
-	"core_entities": [
-		{
-			"jargon": "Secession movement",
-			"layman": "Art movement rejecting tradition"
-		},
-		{
-			"jargon": "Viennese middle class",
-			"layman": "Middle-class people in Vienna"
-		},
-		{
-			"jargon": "Klimt, Hoffmann, Moser",
-			"layman": "Famous Viennese artists"
-		},
-		{
-			"jargon": "Wiener Werkstatte",
-			"layman": "Artistic workshop in Vienna"
-		},
-		{
-			"jargon": "Adolf Loos",
-			"layman": "Viennese architect"
-		}
-	],
-	"methodologies": [
-		{
-			"jargon": "Reform call",
-			"layman": "Call for change"
-		},
-		{
-			"jargon": "Infiltration",
-			"layman": "Spreading influence"
-		}
-	],
-	"outcomes": [
-		{
-			"jargon": "New understanding of acceptable art",
-			"layman": "New idea of what art should be"
-		},
-		{
-			"jargon": "Influence on early 20th century fashion",
-			"layman": "Impact on fashion"
-		},
-		{
-			"jargon": "Distinction between clothing and art",
-			"layman": "Clothing vs. art difference"
-		},
-		{
-			"jargon": "Visual arts redefinition",
-			"layman": "New rules for art and design"
-		},
-		{
-			"jargon": "Fashion as art",
-			"layman": "Fashion as creative expression"
-		}
-	]
+  "core_entities": [
+    {
+      "jargon": "Secession movement",
+      "layman": "Artists' movement to break from tradition"
+    },
+    {
+      "jargon": "Klimt",
+      "layman": "Viennese artist known for decorative style"
+    },
+    {
+      "jargon": "Hoffmann",
+      "layman": "Viennese artist involved in modern design"
+    },
+    {
+      "jargon": "Moser",
+      "layman": "Viennese artist and designer"
+    },
+    {
+      "jargon": "Wiener Werkstatte",
+      "layman": "Design studio that created modern art objects"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Visual arts reform",
+      "layman": "Changing standards for art"
+    },
+    {
+      "jargon": "Fashion redefinition",
+      "layman": "Changing what clothing means"
+    },
+    {
+      "jargon": "Artistic influence",
+      "layman": "How art shaped design"
+    },
+    {
+      "jargon": "Cultural transformation",
+      "layman": "Change in society's values"
+    },
+    {
+      "jargon": "Aesthetic principles",
+      "layman": "Rules for beauty in design"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fashion as art",
+      "layman": "Clothing seen as artistic expression"
+    },
+    {
+      "jargon": "Social acceptability",
+      "layman": "What society considers proper"
+    },
+    {
+      "jargon": "Revolutionary design",
+      "layman": "Bold and new style"
+    },
+    {
+      "jargon": "Architecture reform",
+      "layman": "New building designs"
+    },
+    {
+      "jargon": "Artistic manipulation",
+      "layman": "Creative use of fashion"
+    }
+  ]
 }

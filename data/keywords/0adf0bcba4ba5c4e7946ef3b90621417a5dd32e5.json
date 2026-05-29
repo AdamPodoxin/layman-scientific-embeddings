@@ -2,55 +2,55 @@
   "core_entities": [
     {
       "jargon": "Logic programs",
-      "layman": "Sets of rules for solving problems"
+      "layman": "Sets of rules for problem solving"
     },
     {
       "jargon": "Higher-order logical descriptions",
-      "layman": "Advanced logical rules describing operations"
+      "layman": "Advanced logical models"
     },
     {
       "jargon": "Refinement operations",
-      "layman": "Steps that improve or simplify designs"
+      "layman": "Steps to improve or simplify designs"
     },
     {
       "jargon": "Proof planning system",
-      "layman": "System that plans mathematical proofs"
+      "layman": "System that plans math proofs"
     },
     {
-      "jargon": "\u03bbClam",
-      "layman": "\u03bbClam"
+      "jargon": "Higher-order logic programs",
+      "layman": "Complex logic programs with functions as inputs"
     }
   ],
   "methodologies": [
     {
       "jargon": "Logic program synthesis",
-      "layman": "Creating rules from specifications"
+      "layman": "Automatically creating logic programs"
     },
     {
-      "jargon": "Higher-order logic",
-      "layman": "Advanced logic that includes functions as values"
+      "jargon": "Specification-based design",
+      "layman": "Building from detailed requirements"
     },
     {
       "jargon": "Implementation within \u03bbClam",
-      "layman": "Building the system inside \u03bbClam"
+      "layman": "Running in a proof planning tool"
     },
     {
-      "jargon": "Extension to higher-order logic programs",
-      "layman": "Adding support for complex rule systems"
+      "jargon": "Extending synthesis",
+      "layman": "Adding new types of programs to system"
     },
     {
-      "jargon": "Synthesis of programs",
-      "layman": "Automatically generating programs from goals"
+      "jargon": "Refinement operations",
+      "layman": "Improving designs step by step"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Generality of the approach",
-      "layman": "Works broadly across different cases"
+      "jargon": "Generality of approach",
+      "layman": "Works in many cases"
     },
     {
       "jargon": "Straightforward extension",
-      "layman": "Easy to adapt to new types"
+      "layman": "Easy to expand to new types"
     },
     {
       "jargon": "Illustrative examples",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Extensible to further classes",
-      "layman": "Can be expanded to more types of problems"
+      "layman": "Can be used for more kinds of problems"
     },
     {
       "jargon": "Synthesis of higher-order logic programs",
-      "layman": "Creating complex rule-based programs"
+      "layman": "Creating complex logic programs automatically"
     }
   ]
 }

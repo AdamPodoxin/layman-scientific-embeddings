@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Acute kidney injury (AKI)",
-      "layman": "Sudden kidney damage"
+      "layman": "Sudden kidney injury"
     },
     {
       "jargon": "Serum creatinine",
-      "layman": "Kidney function marker"
+      "layman": "Blood waste marker"
     },
     {
       "jargon": "Urine output",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Dialysis",
-      "layman": "Kidney replacement therapy"
+      "layman": "Kidney replacement treatment"
     }
   ],
   "methodologies": [
     {
       "jargon": "RIFLE criteria",
-      "layman": "Kidney injury staging rules"
+      "layman": "Standard for kidney injury stages"
+    },
+    {
+      "jargon": "AKIN criteria",
+      "layman": "Rules to diagnose kidney injury"
     },
     {
       "jargon": "Fluid challenge",
-      "layman": "Giving fluids to test kidney response"
+      "layman": "Giving fluid to test kidney response"
     },
     {
-      "jargon": "Diagnostic criteria",
-      "layman": "Rules to identify kidney injury"
+      "jargon": "Serum creatinine change",
+      "layman": "Measuring blood waste rise"
     },
     {
-      "jargon": "Staging system",
-      "layman": "Severity scale for kidney damage"
-    },
-    {
-      "jargon": "Cohort study",
-      "layman": "Group study of patients over time"
+      "jargon": "Urine output monitoring",
+      "layman": "Tracking urine volume over time"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Hospital length of stay",
-      "layman": "Time spent in hospital"
+      "layman": "Time in hospital"
     },
     {
-      "jargon": "Odds ratio",
-      "layman": "Risk of bad outcome"
+      "jargon": "Increased mortality",
+      "layman": "Higher death rate"
     },
     {
-      "jargon": "Adverse events",
-      "layman": "Worsening health problems"
+      "jargon": "Two-fold increase",
+      "layman": "Doubles in severity"
     },
     {
-      "jargon": "Prognostic value",
-      "layman": "Predicts future health outcome"
+      "jargon": "Three-fold increase",
+      "layman": "Triples in danger"
     }
   ]
 }

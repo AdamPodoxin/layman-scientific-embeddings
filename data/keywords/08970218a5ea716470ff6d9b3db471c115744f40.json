@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Post-transplant lympho-proliferative disorders",
-      "layman": "Abnormal lymph cell growth after transplant"
-    },
-    {
-      "jargon": "Cardiac transplant",
-      "layman": "Heart transplant"
+      "layman": "Abnormal immune cell growth after transplant"
     },
     {
       "jargon": "T-lymphocytes",
       "layman": "Immune cells that fight infections"
     },
     {
-      "jargon": "OKT3",
-      "layman": "A type of immune therapy drug"
+      "jargon": "Cardiac transplant",
+      "layman": "Heart transplant"
+    },
+    {
+      "jargon": "Immunosuppression",
+      "layman": "Reduced immune system activity"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Kaplan-Meier survival analysis",
-      "layman": "Tracking how long patients live after transplant"
+      "layman": "Tracking patient survival over time"
     },
     {
       "jargon": "Fisher's exact test",
-      "layman": "Statistical test for comparing risks"
+      "layman": "Statistical test for comparing groups"
     },
     {
       "jargon": "Person years follow-up",
-      "layman": "Total time patients were monitored"
+      "layman": "Time patients were monitored"
     },
     {
-      "jargon": "Immunosuppression",
-      "layman": "Reducing immune system activity"
+      "jargon": "Induction therapy",
+      "layman": "Initial treatment to suppress immune system"
     }
   ],
   "outcomes": [
     {
       "jargon": "1-year survival of 82%",
-      "layman": "82% of patients lived one year after transplant"
+      "layman": "82% survive one year after transplant"
     },
     {
       "jargon": "Median survival of 10.9 years",
-      "layman": "Half the patients lived about 11 years"
+      "layman": "Half of patients live about 10.9 years"
     },
     {
       "jargon": "60 NMSCs diagnosed",
-      "layman": "60 skin cancer cases found"
+      "layman": "60 cases of skin cancer found"
     },
     {
       "jargon": "8 PTLDs diagnosed",
-      "layman": "8 lymph disorders found"
+      "layman": "8 cases of abnormal immune growth found"
     },
     {
       "jargon": "6.7 times greater risk with OKT3",
-      "layman": "Much higher chance of lymph disorder with OKT3"
+      "layman": "High risk of disorder with OKT3 treatment"
     }
   ]
 }

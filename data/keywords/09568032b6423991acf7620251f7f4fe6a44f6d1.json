@@ -5,16 +5,16 @@
       "layman": "Tau lepton"
     },
     {
-      "jargon": "\u03c0'",
-      "layman": "Pion prime"
+      "jargon": "\u03c0 meson",
+      "layman": "Pion"
     },
     {
       "jargon": "\u03b1\u2081 resonance",
       "layman": "Alpha one resonance"
     },
     {
-      "jargon": "\u03bd_\u03c4",
-      "layman": "Tau neutrino"
+      "jargon": "\u03c0' resonance",
+      "layman": "Pi prime resonance"
     },
     {
       "jargon": "pseudoscalar field",
@@ -24,19 +24,19 @@
   "methodologies": [
     {
       "jargon": "chiral Lagrangian",
-      "layman": "Chiral Lagrangian"
+      "layman": "Particle interaction model"
     },
     {
       "jargon": "nonrelativistic quark model",
-      "layman": "Quark model for slow particles"
+      "layman": "Quark-based model"
     },
     {
       "jargon": "QCD sum rule",
-      "layman": "QCD sum rule"
+      "layman": "QCD sum rule method"
     },
     {
       "jargon": "mock meson model",
-      "layman": "Mock meson model"
+      "layman": "Hypothetical meson model"
     },
     {
       "jargon": "multi-Higgs-doublet model",
@@ -46,11 +46,15 @@
   "outcomes": [
     {
       "jargon": "CP-violating asymmetries",
-      "layman": "Asymmetry in particle decay"
+      "layman": "Asymmetry in particle behavior"
     },
     {
-      "jargon": "f_\u03c0'",
-      "layman": "Pion prime decay strength"
+      "jargon": "decay constant f_\u03c0'",
+      "layman": "Pion decay strength"
+    },
+    {
+      "jargon": "CP-violating effects",
+      "layman": "Misalignment in particle decay"
     },
     {
       "jargon": "2\u03c3 level",
@@ -58,11 +62,7 @@
     },
     {
       "jargon": "10\u00b9\u2070 \u03c4 leptons",
-      "layman": "Ten billion tau leptons"
-    },
-    {
-      "jargon": "10\u2077 \u03c4 leptons",
-      "layman": "Ten million tau leptons"
+      "layman": "Ten billion tau particles"
     }
   ]
 }

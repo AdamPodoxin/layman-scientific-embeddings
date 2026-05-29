@@ -6,37 +6,37 @@
     },
     {
       "jargon": "Chronic obstructive pulmonary disease",
-      "layman": "COPD"
+      "layman": "Chronic breathing condition"
     },
     {
       "jargon": "Acute exacerbation",
-      "layman": "Worsening of COPD symptoms"
+      "layman": "Worsening breathing episode"
     },
     {
       "jargon": "Forced expiratory volume in 1 second",
-      "layman": "Breathing test measure"
+      "layman": "Amount of air breathed out in one second"
     },
     {
-      "jargon": "Hospital stay",
-      "layman": "Time in hospital"
+      "jargon": "Hospitalized patients",
+      "layman": "Patients in the hospital"
     }
   ],
   "methodologies": [
     {
       "jargon": "Systemic corticosteroid therapy",
-      "layman": "Oral or IV steroids given to the whole body"
+      "layman": "Steroid treatment given through the bloodstream"
     },
     {
       "jargon": "Clinical trials",
-      "layman": "Medical studies on patients"
+      "layman": "Medical experiments on humans"
     },
     {
       "jargon": "Small clinical trials",
-      "layman": "Limited patient studies"
+      "layman": "Limited human studies"
     },
     {
-      "jargon": "Hospitalized patients",
-      "layman": "People admitted to hospital"
+      "jargon": "Recent trials",
+      "layman": "Latest medical studies"
     },
     {
       "jargon": "Treatment duration",
@@ -46,15 +46,15 @@
   "outcomes": [
     {
       "jargon": "Reduces absolute treatment rate by about 10%",
-      "layman": "Fewer people need treatment"
+      "layman": "Lowers the number of treatment cases by 10%"
     },
     {
       "jargon": "Increases FEV(1) by about 100 mL",
-      "layman": "Better breathing test result"
+      "layman": "Improves breath capacity by 100 mL"
     },
     {
       "jargon": "Shortens hospital stay by 1 to 2 days",
-      "layman": "Stays in hospital shorter"
+      "layman": "Reduces hospital stay by 1\u20132 days"
     },
     {
       "jargon": "Hyperglycemia",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Increased rate of secondary infections",
-      "layman": "More infections after treatment"
+      "layman": "More chances of other infections"
     }
   ]
 }

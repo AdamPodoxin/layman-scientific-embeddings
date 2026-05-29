@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Classical proofs",
-      "layman": "Standard mathematical arguments"
+      "layman": "Standard mathematical proofs"
     },
     {
       "jargon": "Interactive learning strategies",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Proof interpretation",
-      "layman": "Understanding proofs as processes"
+      "layman": "Understanding proofs through actions"
     },
     {
-      "jargon": "Compositional method",
+      "jargon": "Compositional process",
       "layman": "Pieces fit together smoothly"
     },
     {
       "jargon": "Interactive interaction",
-      "layman": "Learning by exchanging information"
+      "layman": "Learning by talking with nature"
     }
   ],
   "outcomes": [
     {
       "jargon": "Faithful with respect to proofs",
-      "layman": "Accurate program generation"
+      "layman": "Accurate and reliable results"
     },
     {
       "jargon": "No translation needed",
-      "layman": "Direct conversion from proof to code"
+      "layman": "Direct conversion without steps"
     },
     {
-      "jargon": "Nested quantifiers",
-      "layman": "Repeated or layered rules"
+      "jargon": "Interactive stages",
+      "layman": "Multiple learning phases"
     },
     {
-      "jargon": "Quantifier-free arithmetic",
-      "layman": "Arithmetic without variables"
+      "jargon": "Knowledge progression",
+      "layman": "Gradual learning gains"
     },
     {
       "jargon": "Learning by interaction",
-      "layman": "Gaining knowledge through dialogue"
+      "layman": "Gaining insight through engagement"
     }
   ]
 }

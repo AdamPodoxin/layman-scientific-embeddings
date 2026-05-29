@@ -1,8 +1,12 @@
 {
   "core_entities": [
     {
+      "jargon": "Coastal zone",
+      "layman": "Where land meets sea"
+    },
+    {
       "jargon": "Fluvial processes",
-      "layman": "River processes"
+      "layman": "River-related changes"
     },
     {
       "jargon": "Relative sea-level changes",
@@ -10,21 +14,17 @@
     },
     {
       "jargon": "Coastal erosion",
-      "layman": "Beach and shore wearing away"
+      "layman": "Land being worn away by waves"
     },
     {
       "jargon": "Sea-floor instability",
-      "layman": "Unstable ocean floor"
-    },
-    {
-      "jargon": "Pollution",
-      "layman": "Contamination of environment"
+      "layman": "Ocean floor becoming unstable"
     }
   ],
   "methodologies": [
     {
       "jargon": "High-resolution monitoring",
-      "layman": "Detailed, frequent observations"
+      "layman": "Fine-detail tracking"
     },
     {
       "jargon": "Quantify and model future developments",
@@ -35,34 +35,34 @@
       "layman": "Teamwork across fields"
     },
     {
-      "jargon": "Environmental impact studies",
-      "layman": "Assessing damage to environment"
+      "jargon": "Sedimentological research",
+      "layman": "Studying sediments"
     },
     {
-      "jargon": "Remediation projects",
-      "layman": "Fixing damaged environments"
+      "jargon": "Environmental impact studies",
+      "layman": "Assessing effects on environment"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Environmental problems and conflicts",
+      "layman": "Pollution and disputes"
+    },
+    {
       "jargon": "Improved environmental quality",
-      "layman": "Better natural environment"
+      "layman": "Cleaner environment"
     },
     {
       "jargon": "Cost savings in the long term",
       "layman": "Saves money over time"
     },
     {
-      "jargon": "Better-informed policy makers",
-      "layman": "Decision makers understand the science"
+      "jargon": "Multidisciplinary project",
+      "layman": "Team effort from many fields"
     },
     {
-      "jargon": "Public awareness of environmental sedimentology",
-      "layman": "General public learns about the science"
-    },
-    {
-      "jargon": "Multidisciplinary project success",
-      "layman": "Success through teamwork"
+      "jargon": "Better public awareness",
+      "layman": "More people understand the science"
     }
   ]
 }

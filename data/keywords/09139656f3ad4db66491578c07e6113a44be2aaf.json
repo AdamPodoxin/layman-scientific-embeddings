@@ -2,30 +2,26 @@
   "core_entities": [
     {
       "jargon": "Roman humanist",
-      "layman": "Scholar from Renaissance Rome"
+      "layman": "Scholar of the Roman era"
     },
     {
       "jargon": "Sixteenth-century dialogue",
-      "layman": "Talk between scholars from 1500s"
-    },
-    {
-      "jargon": "Humanists (1470\u20131540)",
-      "layman": "Scholars from 1470 to 1540"
+      "layman": "Talk from the 1500s"
     },
     {
       "jargon": "Sack of Rome",
-      "layman": "Attack on Rome"
+      "layman": "Rome attacked and ruined"
     },
     {
       "jargon": "Counter Reformation",
-      "layman": "Response to religious reform"
+      "layman": "Church\u2019s response to religious changes"
+    },
+    {
+      "jargon": "Humanist figures",
+      "layman": "Historical scholars"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Dialogue format",
-      "layman": "Group discussion"
-    },
     {
       "jargon": "Historical notes",
       "layman": "Background explanations"
@@ -35,34 +31,38 @@
       "layman": "List of people's lives"
     },
     {
-      "jargon": "Translation",
-      "layman": "Converting old language to modern"
+      "jargon": "Dialogue format",
+      "layman": "Talk between characters"
     },
     {
-      "jargon": "Contextualization",
-      "layman": "Adding background to understand"
+      "jargon": "Translation",
+      "layman": "Changing text into another language"
+    },
+    {
+      "jargon": "Contextual analysis",
+      "layman": "Understanding the background"
     }
   ],
   "outcomes": [
     {
       "jargon": "Lost era of humanism",
-      "layman": "Golden age of scholars ended"
+      "layman": "Golden age of scholars is over"
     },
     {
-      "jargon": "Memorializing past",
-      "layman": "Remembering the past"
+      "jargon": "Memorializing a past time",
+      "layman": "Honoring what's gone"
     },
     {
       "jargon": "Social and intellectual fabric",
-      "layman": "Web of society and ideas"
+      "layman": "Web of ideas and relationships"
     },
     {
-      "jargon": "Historical information",
-      "layman": "Past facts revealed"
+      "jargon": "Direct historical information",
+      "layman": "Real facts from history"
     },
     {
-      "jargon": "Individual stories",
-      "layman": "Personal scholar tales"
+      "jargon": "Engaging scholarly narrative",
+      "layman": "Interesting story about learning"
     }
   ]
 }

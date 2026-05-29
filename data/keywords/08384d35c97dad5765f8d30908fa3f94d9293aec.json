@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Cosmological model",
-      "layman": "Big picture of the universe"
-    },
-    {
-      "jargon": "Scalar field",
-      "layman": "Energy field spread throughout space"
+      "layman": "Model of the universe"
     },
     {
       "jargon": "Inflaton field",
-      "layman": "Field that drives rapid universe expansion"
+      "layman": "Field that drives cosmic inflation"
     },
     {
       "jargon": "Friedmann-Robertson-Walker model",
-      "layman": "Standard model of universe expansion"
+      "layman": "Standard universe model"
     },
     {
       "jargon": "Spatial curvature",
-      "layman": "Shape of space in the universe"
+      "layman": "Shape of space"
+    },
+    {
+      "jargon": "Minisuperspace",
+      "layman": "Simplified universe space"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Minisuperspace",
-      "layman": "Simplified universe model for study"
-    },
-    {
       "jargon": "Trajectory classification",
-      "layman": "Categorizing paths of universe evolution"
+      "layman": "Sorting paths of universe evolution"
     },
     {
       "jargon": "Closed minisuperspace",
-      "layman": "Finite universe model with no edge"
+      "layman": "Finite universe model"
     },
     {
       "jargon": "Fractal nature",
-      "layman": "Self-similar repeating patterns"
+      "layman": "Self-similar pattern"
     },
     {
-      "jargon": "Modification in presence of cosmological constant",
-      "layman": "Changing model with dark energy"
+      "jargon": "Stability analysis",
+      "layman": "Checking which paths are stable"
+    },
+    {
+      "jargon": "Cosmological constant modification",
+      "layman": "Changing dark energy value"
     }
   ],
   "outcomes": [
     {
       "jargon": "Bounced trajectories",
-      "layman": "Universe that rebounds after collapse"
+      "layman": "Universe that rebounds"
     },
     {
       "jargon": "Vanishing cosmological constant",
-      "layman": "No dark energy in the universe"
+      "layman": "No dark energy"
     },
     {
-      "jargon": "Nonzero cosmological constant",
-      "layman": "Dark energy present"
+      "jargon": "Modified picture",
+      "layman": "Different result with dark energy"
     },
     {
-      "jargon": "Fractal set of trajectories",
-      "layman": "Complex, repeating patterns in universe paths"
+      "jargon": "Positive spatial curvature",
+      "layman": "Space curves inward"
     },
     {
-      "jargon": "Trajectory classification",
-      "layman": "Categorizing paths of universe evolution"
+      "jargon": "Non-interacting field",
+      "layman": "Field doesn't interact with others"
     }
   ]
 }

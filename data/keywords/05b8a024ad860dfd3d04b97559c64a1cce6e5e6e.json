@@ -1,34 +1,30 @@
 {
   "core_entities": [
     {
-      "jargon": "Phyla",
-      "layman": "Major animal groups"
-    },
-    {
       "jargon": "Animal phyla",
-      "layman": "Big groups of animals"
+      "layman": "Major groups of animals"
     },
     {
       "jargon": "Fossils",
-      "layman": "Ancient animal remains"
+      "layman": "Ancient remains of organisms"
     },
     {
       "jargon": "Molecular genetics",
-      "layman": "Genetic material from DNA"
+      "layman": "Genetic information from DNA"
     },
     {
       "jargon": "Evolutionary developmental biology",
-      "layman": "How animals evolve and develop"
+      "layman": "How development shapes evolution"
+    },
+    {
+      "jargon": "Embryology",
+      "layman": "Study of early development"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Paleontology",
-      "layman": "Studying ancient life from fossils"
-    },
-    {
-      "jargon": "Embryology",
-      "layman": "Studying early animal development"
+      "jargon": "Paleontological analysis",
+      "layman": "Studying fossils to understand history"
     },
     {
       "jargon": "Comparative morphology",
@@ -36,11 +32,15 @@
     },
     {
       "jargon": "Molecular phylogenetics",
-      "layman": "Using DNA to trace evolutionary relationships"
+      "layman": "Tracing evolutionary relationships from DNA"
     },
     {
-      "jargon": "Model development",
-      "layman": "Creating theories to explain origins"
+      "jargon": "Embryonic development analysis",
+      "layman": "Observing how embryos grow"
+    },
+    {
+      "jargon": "Modeling evolutionary processes",
+      "layman": "Creating theories to explain evolution"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "How animal groups first appeared"
     },
     {
-      "jargon": "Body plans",
-      "layman": "Basic animal shapes"
+      "jargon": "Body plan design elements",
+      "layman": "Key structural features in animal forms"
     },
     {
-      "jargon": "Early diversification",
-      "layman": "First spread of animal groups"
+      "jargon": "Early diversification of phyla",
+      "layman": "How phyla split and spread early"
     },
     {
       "jargon": "Evolutionary patterns",
-      "layman": "How groups changed over time"
+      "layman": "How phyla changed over time"
     },
     {
-      "jargon": "Design elements",
-      "layman": "Key features in animal structures"
+      "jargon": "Conserved morphological features",
+      "layman": "Shared body traits across species"
     }
   ]
 }

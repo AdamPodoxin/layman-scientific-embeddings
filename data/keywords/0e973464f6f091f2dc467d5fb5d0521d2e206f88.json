@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Information systems",
-      "layman": "IT systems"
+      "layman": "Healthcare technology systems"
     },
     {
       "jargon": "Firm performance",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Shareholder letters",
-      "layman": "Company letters to investors"
+      "layman": "Company updates to investors"
     },
     {
-      "jargon": "Multiple objectives",
-      "layman": "Several goals"
+      "jargon": "Efficiency objectives",
+      "layman": "Goals to save time and money"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Objective analysis",
-      "layman": "Looking at stated goals"
+      "layman": "Looking at clear goals"
     },
     {
       "jargon": "Strategic alignment",
-      "layman": "Matching goals with plans"
+      "layman": "Matching goals with actions"
     },
     {
-      "jargon": "Performance evaluation",
-      "layman": "Measuring success"
+      "jargon": "Letter analysis",
+      "layman": "Reading investor communications"
     },
     {
-      "jargon": "Data extraction",
-      "layman": "Pulling data from documents"
+      "jargon": "Performance measurement",
+      "layman": "Tracking success results"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Better results"
     },
     {
+      "jargon": "Multiple objectives",
+      "layman": "More than one goal"
+    },
+    {
       "jargon": "Single objective",
-      "layman": "One goal only"
+      "layman": "Only one goal"
     },
     {
-      "jargon": "Efficiency",
-      "layman": "Doing things better"
+      "jargon": "Efficiency and satisfaction",
+      "layman": "Saving costs and pleasing patients"
     },
     {
-      "jargon": "Satisfaction",
-      "layman": "Patient happiness"
-    },
-    {
-      "jargon": "Internal growth",
-      "layman": "Growing within the company"
+      "jargon": "Internal growth objectives",
+      "layman": "Growth within the company"
     }
   ]
 }

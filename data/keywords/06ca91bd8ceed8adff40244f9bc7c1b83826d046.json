@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Richard Posner",
-      "layman": "Judge Richard Posner"
+      "layman": "Economist Richard Posner"
     },
     {
       "jargon": "Legal institutions",
-      "layman": "Legal systems"
+      "layman": "Legal rules and systems"
     },
     {
       "jargon": "Superstitions",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Economic analysis",
-      "layman": "Using economics to study decisions"
+      "layman": "Using economics to study things"
     },
     {
       "jargon": "Belief analysis",
-      "layman": "Studying how people hold beliefs"
-    },
-    {
-      "jargon": "Legal analysis",
-      "layman": "Examining laws and their effects"
+      "layman": "Examining people's beliefs"
     },
     {
       "jargon": "Social productivity",
-      "layman": "How beliefs help society function"
+      "layman": "Ability to help society function"
     },
     {
       "jargon": "Objective falsity",
-      "layman": "Beliefs that are factually wrong"
+      "layman": "Being clearly false and proven wrong"
+    },
+    {
+      "jargon": "Legal beliefs",
+      "layman": "Beliefs that affect law"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Main focus of research"
     },
     {
+      "jargon": "Productive foundation",
+      "layman": "Good starting point"
+    },
+    {
       "jargon": "Socially productive",
       "layman": "Helps society function"
     },
     {
-      "jargon": "False beliefs",
-      "layman": "Wrong beliefs that persist"
-    },
-    {
-      "jargon": "Beliefs that support legal institutions",
-      "layman": "Beliefs that help keep laws stable"
+      "jargon": "False beliefs supported by law",
+      "layman": "False beliefs used in law"
     }
   ]
 }

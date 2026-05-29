@@ -1,16 +1,16 @@
 {
   "core_entities": [
     {
-      "jargon": "Lower integrals",
-      "layman": "Smallest possible area under a curve"
+      "jargon": "Lower reals",
+      "layman": "Smaller real numbers"
     },
     {
-      "jargon": "Upper integrals",
-      "layman": "Largest possible area under a curve"
+      "jargon": "Upper reals",
+      "layman": "Larger real numbers"
     },
     {
       "jargon": "Valuation",
-      "layman": "Measure of size in a mathematical space"
+      "layman": "Measure of size or value"
     },
     {
       "jargon": "Covaluation",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Compact subspace",
-      "layman": "Small, closed region in space"
+      "layman": "Small, closed region"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Constructive in geometric logic",
-      "layman": "Built using geometric reasoning"
+      "jargon": "Lower integral",
+      "layman": "Smallest possible area under curve"
     },
     {
-      "jargon": "Riemann integrals",
-      "layman": "Area calculation using rectangles"
+      "jargon": "Upper integral",
+      "layman": "Largest possible area under curve"
     },
     {
-      "jargon": "Choquet integrals",
+      "jargon": "Geometric logic",
+      "layman": "Logic based on shapes and space"
+    },
+    {
+      "jargon": "Riemann integral",
+      "layman": "Area calculation using small pieces"
+    },
+    {
+      "jargon": "Choquet integral",
       "layman": "Advanced area calculation method"
-    },
-    {
-      "jargon": "Integration with respect to a valuation",
-      "layman": "Adding up values using a specific measure"
-    },
-    {
-      "jargon": "Calculation in terms of lower and upper integrals",
-      "layman": "Finding area using smallest and largest bounds"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Lower real",
-      "layman": "Smallest possible number in a range"
+      "jargon": "Lower integral is a lower real",
+      "layman": "Result is a small real number"
     },
     {
-      "jargon": "Upper real",
-      "layman": "Largest possible number in a range"
+      "jargon": "Upper integral is an upper real",
+      "layman": "Result is a large real number"
     },
     {
-      "jargon": "Non-negative lower reals",
-      "layman": "Positive or zero numbers"
+      "jargon": "Bounded domain",
+      "layman": "Limited region of integration"
     },
     {
-      "jargon": "Non-negative upper reals",
-      "layman": "Positive or zero numbers"
+      "jargon": "Constructive in geometric logic",
+      "layman": "Built using shape-based reasoning"
     },
     {
-      "jargon": "Bounded domain of integration",
-      "layman": "Limited region where calculation occurs"
+      "jargon": "Calculated in terms of integrals",
+      "layman": "Computed using area rules"
     }
   ]
 }

@@ -1,20 +1,20 @@
 {
   "core_entities": [
     {
-      "jargon": "Egalitarian theory",
-      "layman": "Theory of equal rights"
-    },
-    {
       "jargon": "Sociological theory",
       "layman": "Study of society"
+    },
+    {
+      "jargon": "Egalitarian theory",
+      "layman": "Theory of equality"
     },
     {
       "jargon": "Educational inequality",
       "layman": "Unequal access to education"
     },
     {
-      "jargon": "Distributive justice",
-      "layman": "Fair distribution of resources"
+      "jargon": "Distribution of justice",
+      "layman": "Fair sharing of resources"
     },
     {
       "jargon": "Critical feminist theory",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Interdisciplinary dialogue",
-      "layman": "Talking across fields"
+      "layman": "Collaboration between fields"
     },
     {
       "jargon": "Ethical-empirical interface",
-      "layman": "Link between values and facts"
+      "layman": "Mix of values and facts"
     },
     {
       "jargon": "Theoretical exploration",
-      "layman": "Examining ideas deeply"
+      "layman": "Examining ideas in depth"
     },
     {
-      "jargon": "Disciplinary dialogue",
-      "layman": "Sharing ideas between fields"
+      "jargon": "Discourse analysis",
+      "layman": "Analyzing spoken or written words"
     },
     {
-      "jargon": "Conceptual mapping",
-      "layman": "Connecting ideas visually"
+      "jargon": "Boundary-making",
+      "layman": "Defining where one field ends and another begins"
     }
   ],
   "outcomes": [
     {
       "jargon": "Deepened understanding",
-      "layman": "Better grasp of reality"
-    },
-    {
-      "jargon": "Broadened view of inequality",
-      "layman": "Wider perspective on unfairness"
-    },
-    {
-      "jargon": "Ethical-empirical interrelationship",
-      "layman": "Values and facts are linked"
+      "layman": "Greater insight"
     },
     {
       "jargon": "Beyond distributive view",
-      "layman": "Moving past simple fairness"
+      "layman": "More than just fair sharing"
+    },
+    {
+      "jargon": "Interrelationship between fact and value",
+      "layman": "How facts connect to beliefs"
     },
     {
       "jargon": "Four interpretations of equality",
-      "layman": "Four ways equality can be seen"
+      "layman": "Four ways equality can be understood"
+    },
+    {
+      "jargon": "Expanded understanding of inequality",
+      "layman": "Broader view of unfairness"
     }
   ]
 }

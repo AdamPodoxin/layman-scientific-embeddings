@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "psoriatic arthritis",
-      "layman": "arthritis linked to psoriasis"
+      "jargon": "Psoriatic arthritis",
+      "layman": "Arthritis linked to psoriasis"
     },
     {
-      "jargon": "disease activity",
-      "layman": "symptoms of illness"
+      "jargon": "Disease activity",
+      "layman": "Symptoms of disease"
     },
     {
-      "jargon": "conventional synthetic DMARD",
-      "layman": "common arthritis medication"
+      "jargon": "cDAPSA",
+      "layman": "Psoriatic arthritis activity score"
+    },
+    {
+      "jargon": "Conventional synthetic DMARD",
+      "layman": "Common arthritis drug"
     },
     {
       "jargon": "TNF-inhibiting biological agent",
-      "layman": "biologic drug that blocks TNF"
-    },
-    {
-      "jargon": "joint disease",
-      "layman": "joint inflammation"
+      "layman": "Biological drug that blocks TNF"
     }
   ],
   "methodologies": [
     {
-      "jargon": "cross-sectional study",
-      "layman": "snapshot of patients at one time"
+      "jargon": "Cross-sectional study",
+      "layman": "Snapshot of current patient situation"
     },
     {
-      "jargon": "disease activity scoring",
-      "layman": "rating how sick a patient feels"
+      "jargon": "Disease activity scoring",
+      "layman": "Measuring symptoms and joint damage"
     },
     {
-      "jargon": "prospective registration",
-      "layman": "recorded as events happen"
+      "jargon": "Prospective registration",
+      "layman": "Recording data as events happen"
     },
     {
-      "jargon": "clinical Disease Activity Index for Psoriatic Arthritis",
-      "layman": "score to measure arthritis severity"
+      "jargon": "Treatment decision tracking",
+      "layman": "Noting what treatment changes are made"
     },
     {
-      "jargon": "treatment decision tracking",
-      "layman": "noting what treatment is chosen"
+      "jargon": "Demographic and clinical features",
+      "layman": "Patient background and symptoms"
     }
   ],
   "outcomes": [
     {
-      "jargon": "remaining disease activity",
-      "layman": "arthritis still present despite treatment"
+      "jargon": "Remaining disease activity",
+      "layman": "Disease still present despite treatment"
     },
     {
-      "jargon": "moderate to high disease activity",
-      "layman": "severe arthritis symptoms"
+      "jargon": "Moderate to high disease activity",
+      "layman": "Severe joint pain and swelling"
     },
     {
-      "jargon": "treatment adjustment",
-      "layman": "changing medication plan"
+      "jargon": "Joint counts",
+      "layman": "Number of swollen joints"
     },
     {
-      "jargon": "joint counts",
-      "layman": "number of swollen joints"
+      "jargon": "Patient scores",
+      "layman": "Symptom severity ratings"
     },
     {
-      "jargon": "patient scores",
-      "layman": "how patients rate their pain and symptoms"
+      "jargon": "Treatment adjustment",
+      "layman": "Changing medication plan"
     }
   ]
 }

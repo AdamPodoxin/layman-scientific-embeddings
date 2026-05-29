@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Design patterns",
+      "layman": "Graceful solutions to software problems"
+    },
+    {
+      "jargon": "Software design problems",
+      "layman": "Software issues needing fixes"
+    },
+    {
+      "jargon": "Novice developers",
+      "layman": "Beginner programmers"
+    },
+    {
+      "jargon": "Indexing problem",
+      "layman": "Problem of organizing search data"
+    },
+    {
+      "jargon": "Formal Concept Analysis",
+      "layman": "Structured way to organize software cases"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Case Based Reasoning",
+      "layman": "Learning from past examples"
+    },
+    {
+      "jargon": "Refinement technique",
+      "layman": "Adjusting search criteria"
+    },
+    {
+      "jargon": "FCA-based similarity calculation",
+      "layman": "Measuring how similar cases are"
+    },
+    {
+      "jargon": "Learning model",
+      "layman": "System that stores and remembers knowledge"
+    },
+    {
+      "jargon": "Mean Average Precision",
+      "layman": "Average accuracy of search results"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Mean Average Precision (MAP)",
+      "layman": "Search accuracy measure"
+    },
+    {
+      "jargon": "Improved retrieval ability",
+      "layman": "Better result finding"
+    },
+    {
+      "jargon": "More complete problem description",
+      "layman": "Better understanding of the problem"
+    },
+    {
+      "jargon": "Retrieval of appropriate design patterns",
+      "layman": "Finding the right solutions"
+    },
+    {
+      "jargon": "Higher MAP than traditional CBR",
+      "layman": "Outperforms old methods"
+    }
+  ]
+}
