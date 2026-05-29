@@ -49,6 +49,9 @@ def main():
 
         per_device_train_batch_size=BATCH_SIZE,
         per_device_eval_batch_size=BATCH_SIZE,
+
+        fp16=False,
+        bf16=True,
     )
 
     trainer = SentenceTransformerTrainer(
