@@ -111,6 +111,12 @@ def main():
 
     num_abstracts = ds_to_generate.shape[0]
 
+    print("Starting keyword generation for", num_abstracts, "abstracts")
+
+    if num_abstracts == 0:
+        print("No abstracts need keyword generation; all selected abstracts are already processed.")
+        return
+
     llm = LLM(
         model=MODEL,
         gpu_memory_utilization=GPU_MEMORY_UTILIZATION,
@@ -119,12 +125,10 @@ def main():
 
     start_time = time.time()
 
-    print("Starting keyword generation for", num_abstracts, "abstracts")
-
     doc_ids = ds_to_generate["doc_id"]
-    prompts = ds_to_generate["prompt"]
-    responses = llm.generate(
-        prompts=prompts,
+    messages = ds_to_generate["prompt"]
+    responses = llm.chat(
+        messages=messages,
         sampling_params=SamplingParams(
             max_tokens=MAX_RESPONSE_TOKENS,
         ),
