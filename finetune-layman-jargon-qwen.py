@@ -8,12 +8,9 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from datasets import DatasetDict, load_from_disk
 
+from utils import load_pairs_dataset, clean_pairs_for_training
 
-DATA_PATH = Path("data")
-
-LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
@@ -39,9 +36,8 @@ def get_document_prompt(model: SentenceTransformer) -> str:
 
 
 def main():
-    layman_jargon_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_JARGON_PAIRS_PATH))
-    
-    train_dataset = layman_jargon_pairs_dataset["train"]
+    pairs_dataset = load_pairs_dataset()
+    train_dataset = clean_pairs_for_training(pairs_dataset["train"], {"layman-jargon"})
 
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,

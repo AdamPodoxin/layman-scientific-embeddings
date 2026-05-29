@@ -1,32 +1,62 @@
+import argparse
 import random
-import json
-import itertools
 from pathlib import Path
-import pandas as pd
-from datasets import Dataset, DatasetDict, load_dataset
 
+from datasets import Dataset, DatasetDict, load_dataset, load_from_disk
 
-DATA_PATH = Path("data")
-KEYWORDS_PATH = DATA_PATH / "keywords"
-
-JARGON_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-abstract"
-LAYMAN_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "layman-abstract"
-
-JARGON_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-title"
-LAYMAN_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "layman-title"
-
-JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon"
-LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman"
-LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
 DATASET_PATH = "allenai/scirepeval"
 DATASET_NAME = "scidocs_mag_mesh"
 
-# Lower this to only take a subset of pairs
-SAMPLE_PROPORTION = 1.0
+SPLITS = ("train", "val", "test")
+
+PAIR_TYPES = (
+    "jargon-abstract",
+    "layman-abstract",
+    "jargon-title",
+    "layman-title",
+    "jargon-jargon",
+    "layman-layman",
+    "layman-jargon",
+)
 
 
-def create_pairs(list1: list[str], list2: list[str]):
+def parse_args():
+    p = argparse.ArgumentParser("Create training pairs from split keywords")
+
+    p.add_argument(
+        "--keywords-split-path",
+        type=Path,
+        default=Path("data") / "keywords_split",
+        help="Path to keywords_split DatasetDict",
+    )
+    p.add_argument(
+        "--output-path",
+        type=Path,
+        default=Path("data") / "pairs",
+        help="Path to output pairs DatasetDict",
+    )
+    p.add_argument(
+        "--sample-proportion",
+        type=float,
+        default=1.0,
+        help="Proportion of pairs to sample per document",
+    )
+    p.add_argument(
+        "--seed",
+        type=int,
+        default=42,
+        help="Random seed",
+    )
+
+    return p.parse_args()
+
+
+def create_pairs(
+    list1: list[str],
+    list2: list[str],
+    sample_proportion: float,
+) -> list[tuple[str, str]]:
     pairs = list(set(
         (item1, item2)
         for item1 in list1
@@ -34,123 +64,130 @@ def create_pairs(list1: list[str], list2: list[str]):
         if item1 != item2
     ))
 
-    return random.sample(pairs, int(SAMPLE_PROPORTION * len(pairs)))
+    if not pairs:
+        return []
+
+    return random.sample(pairs, int(sample_proportion * len(pairs)))
 
 
-def get_terms_from_file(path: str):
-    with open(path) as file:
-        data: dict = json.loads(file.read())
-    
-    core_entity_terms = data["core_entities"]
-    methodology_terms = data["methodologies"]
-    outcome_terms = data["outcomes"]
-
-    all_terms = core_entity_terms + methodology_terms + outcome_terms
-    jargon_terms: list[str] = list(set(d["jargon"] for d in all_terms))
-    layman_terms: list[str] = list(set(d["layman"] for d in all_terms))
-
+def get_terms_from_keywords(keywords: dict) -> dict[str, list[str]]:
+    all_keywords = (
+        keywords["core_entities"]
+        + keywords["methodologies"]
+        + keywords["outcomes"]
+    )
     return {
-        "jargon": jargon_terms, 
-        "layman": layman_terms,
+        "jargon": list({d["jargon"] for d in all_keywords}),
+        "layman": list({d["layman"] for d in all_keywords}),
     }
 
 
-def save_pairs(pairs: list[tuple[str, str]], path: Path | str):
-    pairs_dict = {
-        "anchor": [pair[0] for pair in pairs],
-        "positive": [pair[1] for pair in pairs],
-    }
+def get_pairs_to_records(
+    pairs: list[tuple[str, str]],
+    doc_id: str,
+    pair_type: str,
+) -> list[dict[str, str]]:
+    return [
+        {
+            "anchor": anchor,
+            "positive": positive,
+            "doc_id": doc_id,
+            "pair_type": pair_type,
+        }
+        for anchor, positive in pairs
+    ]
 
-    ds = Dataset.from_dict(pairs_dict)
-    ds_train_test = ds.train_test_split(test_size=0.10)
-    ds_test_val = ds_train_test["test"].train_test_split(test_size=0.5)
-    ds_train_test_val = DatasetDict({
-        "train": ds_train_test["train"],
-        "test": ds_test_val["test"],
-        "val": ds_test_val["train"],
+
+def get_pairs_to_record(records: list[dict[str, str]]) -> Dataset:
+    return Dataset.from_dict({
+        "anchor": [record["anchor"] for record in records],
+        "positive": [record["positive"] for record in records],
+        "doc_id": [record["doc_id"] for record in records],
+        "pair_type": [record["pair_type"] for record in records],
     })
 
-    ds_train_test_val.save_to_disk(path)
+
+def build_pairs_for_split(
+    split_ds: Dataset,
+    id_abstract_dict: dict[str, str | None],
+    id_title_dict: dict[str, str | None],
+    sample_proportion: float,
+) -> list[dict[str, str]]:
+    records: list[dict[str, str]] = []
+
+    for doc_id, keywords in zip(split_ds["doc_id"], split_ds["keywords"]):
+        terms = get_terms_from_keywords(keywords)
+        jargon_terms = terms["jargon"]
+        layman_terms = terms["layman"]
+
+        abstract = id_abstract_dict[doc_id]
+        title = id_title_dict[doc_id]
+
+        if abstract is not None:
+            records.extend(get_pairs_to_records(
+                create_pairs(jargon_terms, [abstract], sample_proportion),
+                doc_id,
+                "jargon-abstract",
+            ))
+            records.extend(get_pairs_to_records(
+                create_pairs(layman_terms, [abstract], sample_proportion),
+                doc_id,
+                "layman-abstract",
+            ))
+
+        if title is not None:
+            records.extend(get_pairs_to_records(
+                create_pairs(jargon_terms, [title], sample_proportion),
+                doc_id,
+                "jargon-title",
+            ))
+            records.extend(get_pairs_to_records(
+                create_pairs(layman_terms, [title], sample_proportion),
+                doc_id,
+                "layman-title",
+            ))
+
+        records.extend(get_pairs_to_records(
+            create_pairs(jargon_terms, jargon_terms, sample_proportion),
+            doc_id,
+            "jargon-jargon",
+        ))
+        records.extend(get_pairs_to_records(
+            create_pairs(layman_terms, layman_terms, sample_proportion),
+            doc_id,
+            "layman-layman",
+        ))
+        records.extend(get_pairs_to_records(
+            create_pairs(layman_terms, jargon_terms, sample_proportion),
+            doc_id,
+            "layman-jargon",
+        ))
+
+    return records
 
 
 def main():
-    file_paths = [path for path in KEYWORDS_PATH.iterdir()]
-    doc_ids = [path.stem for path in file_paths]
+    args = parse_args()
+    random.seed(args.seed)
 
-    terms_per_file = [get_terms_from_file(path) for path in file_paths]
-    jargon_terms_per_file = [terms_dict["jargon"] for terms_dict in terms_per_file]
-    layman_terms_per_file = [terms_dict["layman"] for terms_dict in terms_per_file]
+    keywords_split: DatasetDict = load_from_disk(str(args.keywords_split_path))
 
     ds = load_dataset(DATASET_PATH, DATASET_NAME, split="evaluation")
     id_abstract_dict: dict[str, str | None] = dict(zip(ds["doc_id"], ds["abstract"]))
     id_title_dict: dict[str, str | None] = dict(zip(ds["doc_id"], ds["title"]))
 
-    # Abstracts should not be None because 
-    # keyword generation only runs for valid abstracts. 
-    abstracts = [id_abstract_dict[id] for id in doc_ids]
-    assert all(abstract is not None for abstract in abstracts)
+    pairs_dict = DatasetDict({
+        split: get_pairs_to_record(build_pairs_for_split(
+            keywords_split[split],
+            id_abstract_dict,
+            id_title_dict,
+            args.sample_proportion,
+        ))
+        for split in SPLITS
+    })
 
-    titles = [id_title_dict[id] for id in doc_ids]
-
-    # Make sure all lists are same length
-    assert len(abstracts) == len(titles)
-    assert len(abstracts) == len(jargon_terms_per_file)
-    assert len(abstracts) == len(layman_terms_per_file)
-
-    jargon_abstract_pairs_per_file = [
-        create_pairs(jargon_terms, [abstract])
-        for jargon_terms, abstract in zip(jargon_terms_per_file, abstracts)
-        if abstract is not None
-    ]
-    layman_abstract_pairs_per_file = [
-        create_pairs(layman_terms, [abstract])
-        for layman_terms, abstract in zip(layman_terms_per_file, abstracts)
-        if abstract is not None
-    ]
-
-    jargon_title_pairs_per_file = [
-        create_pairs(jargon_terms, [title])
-        for jargon_terms, title in zip(jargon_terms_per_file, titles)
-        if title is not None
-    ]
-    layman_title_pairs_per_file = [
-        create_pairs(layman_terms, [title])
-        for layman_terms, title in zip(layman_terms_per_file, titles)
-        if title is not None
-    ]
-
-    jargon_jargon_pairs_per_file = [
-        create_pairs(jargon_terms, jargon_terms)
-        for jargon_terms in jargon_terms_per_file
-    ]
-    layman_layman_pairs_per_file = [
-        create_pairs(layman_terms, layman_terms)
-        for layman_terms in layman_terms_per_file
-    ]
-    layman_jargon_pairs_per_file = [
-        create_pairs(layman_terms, jargon_terms)
-        for layman_terms, jargon_terms in zip(layman_terms_per_file, jargon_terms_per_file)
-    ]
-
-    jargon_abstract_pairs = list(itertools.chain.from_iterable(jargon_abstract_pairs_per_file))
-    layman_abstract_pairs = list(itertools.chain.from_iterable(layman_abstract_pairs_per_file))
-
-    jargon_title_pairs = list(itertools.chain.from_iterable(jargon_title_pairs_per_file))
-    layman_title_pairs = list(itertools.chain.from_iterable(layman_title_pairs_per_file))
-    
-    jargon_jargon_pairs = list(itertools.chain.from_iterable(jargon_jargon_pairs_per_file))
-    layman_layman_pairs = list(itertools.chain.from_iterable(layman_layman_pairs_per_file))
-    layman_jargon_pairs = list(itertools.chain.from_iterable(layman_jargon_pairs_per_file))
-    
-    save_pairs(jargon_abstract_pairs, JARGON_ABSTRACT_PAIRS_PATH)
-    save_pairs(layman_abstract_pairs, LAYMAN_ABSTRACT_PAIRS_PATH)
-    
-    save_pairs(jargon_title_pairs, JARGON_TITLE_PAIRS_PATH)
-    save_pairs(layman_title_pairs, LAYMAN_TITLE_PAIRS_PATH)
-
-    save_pairs(jargon_jargon_pairs, JARGON_JARGON_PAIRS_PATH)
-    save_pairs(layman_layman_pairs, LAYMAN_LAYMAN_PAIRS_PATH)
-    save_pairs(layman_jargon_pairs, LAYMAN_JARGON_PAIRS_PATH)
+    Path(args.output_path).parent.mkdir(parents=True, exist_ok=True)
+    pairs_dict.save_to_disk(args.output_path)
 
 
 if __name__ == "__main__":

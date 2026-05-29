@@ -9,20 +9,9 @@ from sentence_transformers import (
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
 from peft import LoraConfig, TaskType
-from datasets import DatasetDict, load_from_disk, concatenate_datasets
 
+from utils import load_pairs_dataset, clean_pairs_for_training
 
-DATA_PATH = Path("data")
-
-JARGON_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-abstract"
-LAYMAN_ABSTRACT_PAIRS_PATH = DATA_PATH / "pairs" / "layman-abstract"
-
-JARGON_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-title"
-LAYMAN_TITLE_PAIRS_PATH = DATA_PATH / "pairs" / "layman-title"
-
-JARGON_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "jargon-jargon"
-LAYMAN_LAYMAN_PAIRS_PATH = DATA_PATH / "pairs" / "layman-layman"
-LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
 # All combinations of jargon-jargon, layman-layman, and layman-jargon,
 # as well as jargon-abstract, layman-abstract, jargon-title, and layman-title. 
@@ -49,42 +38,11 @@ def get_document_prompt(model: SentenceTransformer) -> str:
 
 
 def main():
-    jargon_abstract_pairs_dataset: DatasetDict = load_from_disk(str(JARGON_ABSTRACT_PAIRS_PATH))
-    layman_abstract_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_ABSTRACT_PAIRS_PATH))
-    
-    jargon_title_pairs_dataset: DatasetDict = load_from_disk(str(JARGON_TITLE_PAIRS_PATH))
-    layman_title_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_TITLE_PAIRS_PATH))
-
-    jargon_jargon_pairs_dataset: DatasetDict = load_from_disk(str(JARGON_JARGON_PAIRS_PATH))
-    layman_layman_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_LAYMAN_PAIRS_PATH))
-    layman_jargon_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_JARGON_PAIRS_PATH))
-
-    keyword_keyword_pairs_dataset_train = concatenate_datasets([
-        jargon_jargon_pairs_dataset["train"],
-        layman_layman_pairs_dataset["train"],
-        layman_jargon_pairs_dataset["train"],
-    ])
-
-    abstract_keyword_pairs_dataset_train = concatenate_datasets([
-        jargon_abstract_pairs_dataset["train"],
-        layman_abstract_pairs_dataset["train"],
-    ])
-
-    title_keyword_pairs_dataset_train = concatenate_datasets([
-        jargon_title_pairs_dataset["train"],
-        layman_title_pairs_dataset["train"],
-    ])
-
-    full_dataset_train = concatenate_datasets([
-        keyword_keyword_pairs_dataset_train,
-        abstract_keyword_pairs_dataset_train,
-        title_keyword_pairs_dataset_train,
-    ])
+    pairs_dataset = load_pairs_dataset()
+    full_dataset_train = clean_pairs_for_training(pairs_dataset["train"])
 
     # For efficiency, taking a subset of the entire pairs dataset
-    train_dataset = full_dataset_train \
-                                .shuffle() \
-                                .take(int(PROP_PAIRS_TO_TAKE * full_dataset_train.shape[0]))
+    train_dataset = full_dataset_train.take(int(PROP_PAIRS_TO_TAKE * full_dataset_train.shape[0]))
 
     bnb_config = BitsAndBytesConfig(
         load_in_4bit=True,
