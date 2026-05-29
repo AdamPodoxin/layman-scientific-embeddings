@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "nanocrystalline Fe73Si15B7.2Cu1Nb3 alloy",
-      "layman": "Tiny crystal metal mixture"
+      "layman": "Tiny crystal iron-silicon-boron alloy"
     },
     {
       "jargon": "soft magnetic compact materials",
-      "layman": "Magnetic materials that easily align with fields"
+      "layman": "Magnetic materials that easily magnetize and demagnetize"
     },
     {
       "jargon": "toroid-shaped samples",
-      "layman": "Doughnut-shaped magnetic pieces"
+      "layman": "Doughnut-shaped magnetic samples"
     },
     {
       "jargon": "resin binder",
-      "layman": "Plastic glue for holding powder together"
+      "layman": "Plastic-like glue that holds powder together"
     },
     {
       "jargon": "porosity",
-      "layman": "Air spaces in material"
+      "layman": "Holes or empty spaces in the material"
     }
   ],
   "methodologies": [
     {
       "jargon": "powder metallurgy methods",
-      "layman": "Making solid parts from metal powder"
+      "layman": "Making solid parts from powders"
     },
     {
       "jargon": "warm-pressing",
-      "layman": "Pressing powder with heat"
-    },
-    {
-      "jargon": "compaction parameters",
-      "layman": "Pressure settings during pressing"
-    },
-    {
-      "jargon": "resin content",
-      "layman": "Amount of glue added"
+      "layman": "Pressing material with heat to form shape"
     },
     {
       "jargon": "ferromagnetic filling factor",
       "layman": "How much magnetic material is packed in"
+    },
+    {
+      "jargon": "compaction parameters",
+      "layman": "Pressure and speed settings during pressing"
+    },
+    {
+      "jargon": "density establishment",
+      "layman": "Measuring how tightly material is packed"
     }
   ],
   "outcomes": [
     {
       "jargon": "minimum porosity",
-      "layman": "Fewest air holes"
+      "layman": "Fewest holes possible"
     },
     {
       "jargon": "maximum FFF",
       "layman": "Best magnetic material filling"
     },
     {
-      "jargon": "density of samples",
-      "layman": "How tightly packed the material is"
-    },
-    {
       "jargon": "optimal experimental conditions",
-      "layman": "Best settings for results"
+      "layman": "Perfect setup for best results"
     },
     {
-      "jargon": "ready to use",
-      "layman": "No extra steps needed"
+      "jargon": "density depending on resin content",
+      "layman": "Strength changes with glue amount"
+    },
+    {
+      "jargon": "no additional thermal treatment",
+      "layman": "No need for heating after pressing"
     }
   ]
 }

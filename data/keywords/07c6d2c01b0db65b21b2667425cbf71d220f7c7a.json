@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Jonathan Edwards",
-      "layman": "18th-century preacher"
+      "layman": "Jonathan Edwards"
+    },
+    {
+      "jargon": "Perry Miller",
+      "layman": "Perry Miller"
     },
     {
       "jargon": "John Locke",
-      "layman": "17th-century philosopher"
-    },
-    {
-      "jargon": "Empiricist",
-      "layman": "Believer in experience over reason"
+      "layman": "John Locke"
     },
     {
       "jargon": "Religious experience",
-      "layman": "Spiritual encounter"
+      "layman": "Spiritual experience"
     },
     {
-      "jargon": "Divine grace",
-      "layman": "God's unearned favor"
+      "jargon": "Sensational psychology",
+      "layman": "Theory of senses and perception"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Sensational psychology",
-      "layman": "Mind based on senses"
+      "jargon": "Empirical model",
+      "layman": "Based on observation and evidence"
     },
     {
       "jargon": "Historical analysis",
-      "layman": "Studying the past through records"
+      "layman": "Examining past events and texts"
     },
     {
-      "jargon": "Textual interpretation",
-      "layman": "Reading texts for meaning"
+      "jargon": "Biographical interpretation",
+      "layman": "Studying a person's life to understand beliefs"
     },
     {
-      "jargon": "Biographical study",
-      "layman": "Studying a person's life"
+      "jargon": "Textual analysis",
+      "layman": "Studying written texts closely"
     },
     {
       "jargon": "Moral play",
-      "layman": "Story showing right vs. wrong"
+      "layman": "Story showing good vs. bad behavior"
     }
   ],
   "outcomes": [
     {
       "jargon": "Modern sensibility",
-      "layman": "Sense of modernity"
+      "layman": "Sense of modernity and progress"
     },
     {
       "jargon": "Existential angst",
-      "layman": "Fear of meaning in life"
+      "layman": "Fear of meaning and isolation"
     },
     {
-      "jargon": "Out of step",
-      "layman": "Not matching society"
-    },
-    {
-      "jargon": "Cold universe",
-      "layman": "Unfeeling world"
+      "jargon": "Out of step with society",
+      "layman": "Not matching societal norms"
     },
     {
       "jargon": "Tragic life",
-      "layman": "Hard and sad life path"
+      "layman": "A difficult and sad life"
+    },
+    {
+      "jargon": "Rescue from liberal image",
+      "layman": "Reclaimed from a negative view"
     }
   ]
 }

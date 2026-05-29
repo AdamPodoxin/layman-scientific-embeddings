@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Curriculum",
-      "layman": "Course structure"
+      "layman": "Course content plan"
     },
     {
       "jargon": "Social processes",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Values",
-      "layman": "Beliefs that matter"
+      "layman": "Beliefs and principles"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Integration",
-      "layman": "Putting together"
+      "layman": "Combining ideas or topics"
     },
     {
       "jargon": "Analysis",
-      "layman": "Breaking down to study"
-    },
-    {
-      "jargon": "Evaluation",
-      "layman": "Checking how well it works"
+      "layman": "Breaking down to understand"
     },
     {
       "jargon": "Determination",
-      "layman": "Finding out what is true"
+      "layman": "Finding out or deciding"
+    },
+    {
+      "jargon": "Evaluation",
+      "layman": "Checking effectiveness or quality"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Integration with disciplines",
-      "layman": "Mixing with other subjects"
+      "layman": "Mixing social content with subjects"
     },
     {
-      "jargon": "Core of processes",
-      "layman": "Central part of training and health"
+      "jargon": "Core placement",
+      "layman": "Central role in the process"
     },
     {
-      "jargon": "Contribution to education",
-      "layman": "Help in teaching health workers"
+      "jargon": "Contribution to training",
+      "layman": "Impact on health worker education"
     }
   ]
 }

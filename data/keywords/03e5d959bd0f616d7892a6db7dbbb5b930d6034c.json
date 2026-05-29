@@ -5,12 +5,12 @@
       "layman": "Black theatre troupe"
     },
     {
-      "jargon": "Ex-slaves",
-      "layman": "Formerly enslaved people"
+      "jargon": "Black New Yorkers",
+      "layman": "Free Black people in New York"
     },
     {
-      "jargon": "Black New Yorkers",
-      "layman": "African American residents of New York"
+      "jargon": "Ex-slaves",
+      "layman": "Former enslaved people"
     },
     {
       "jargon": "Shakespearean productions",
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Imaginatively recovers",
-      "layman": "Creates vivid reconstructions"
+      "layman": "Creates vivid stories from memory"
     },
     {
       "jargon": "Observe public behaviour",
@@ -36,11 +36,11 @@
     },
     {
       "jargon": "Recreates the experience",
-      "layman": "Builds a realistic version of past events"
+      "layman": "Builds a scene of past life"
     },
     {
-      "jargon": "Interweaves theatre and urban life",
-      "layman": "Connects performances with city life"
+      "jargon": "Intertwines theatre and urban life",
+      "layman": "Connects performance and city life"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Feelings of excitement and hope",
-      "layman": "Positive emotions"
+      "layman": "Hope and joy"
     },
     {
       "jargon": "Feelings of disgust",
-      "layman": "Strong negative reaction"
+      "layman": "Strong dislike"
     },
     {
-      "jargon": "Freedom in everyday life",
-      "layman": "Freedom in daily routines"
+      "jargon": "Unique understanding of emancipation",
+      "layman": "Different view of freedom's impact"
     }
   ]
 }

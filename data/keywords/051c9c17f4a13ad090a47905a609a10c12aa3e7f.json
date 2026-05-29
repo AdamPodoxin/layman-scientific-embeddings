@@ -1,46 +1,46 @@
 {
   "core_entities": [
     {
+      "jargon": "Blueschist facies",
+      "layman": "High-pressure metamorphic rock"
+    },
+    {
       "jargon": "Meta-gabbro",
-      "layman": "Metamorphosed gabbro"
+      "layman": "Metamorphosed gabbro rock"
     },
     {
       "jargon": "Meta-plagiogranite",
-      "layman": "Metamorphosed plagiogranite"
-    },
-    {
-      "jargon": "Serpentinite",
-      "layman": "Stony rock with green minerals"
+      "layman": "Metamorphosed granite-like rock"
     },
     {
       "jargon": "Radiolarite",
-      "layman": "Rock from ancient sea creatures"
+      "layman": "Rock from ancient marine organisms"
     },
     {
-      "jargon": "Blueschist facies",
-      "layman": "High-pressure metamorphic rock"
+      "jargon": "Accretionary complex",
+      "layman": "Stack of scraped ocean floor rocks"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Laser ablation ICP-MS",
-      "layman": "Precise rock element testing"
+      "jargon": "Laser ablation ICP-MS U\u2013Pb dating",
+      "layman": "Dating minerals with laser and chemistry"
     },
     {
-      "jargon": "U\u2013Pb zircon dating",
-      "layman": "Dating rock using zircon crystals"
-    },
-    {
-      "jargon": "40Ar/39Ar dating",
-      "layman": "Dating rock using argon decay"
+      "jargon": "40Ar/39Ar age analysis",
+      "layman": "Measuring rock age using argon isotopes"
     },
     {
       "jargon": "Electron microprobe",
-      "layman": "Microscopic mineral analysis"
+      "layman": "Microscope that analyzes rock composition"
     },
     {
       "jargon": "Pseudo-section modelling",
-      "layman": "Simulating rock transformation conditions"
+      "layman": "Simulating rock conditions under pressure"
+    },
+    {
+      "jargon": "THERMOCALC",
+      "layman": "Software to model rock heat and chemistry"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Na\u2013Ca amphiboles",
-      "layman": "Specific minerals showing high pressure"
+      "layman": "Specific mineral signature of high pressure"
     },
     {
       "jargon": "Late Triassic oceanic crust",
-      "layman": "Ancient sea floor rock"
+      "layman": "Ancient seafloor from the Triassic period"
     },
     {
       "jargon": "Subduction-related geochemical characteristics",
-      "layman": "Chemical signs of rock being pushed under"
+      "layman": "Chemical signs of deep ocean floor being pulled down"
     }
   ]
 }

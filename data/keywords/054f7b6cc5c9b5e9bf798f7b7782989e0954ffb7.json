@@ -5,12 +5,12 @@
       "layman": "Forced mental health treatment"
     },
     {
-      "jargon": "1990 law",
-      "layman": "1990 mental health law"
+      "jargon": "1990 French law",
+      "layman": "France's current mental health law"
     },
     {
       "jargon": "1838 law",
-      "layman": "1838 mental health law"
+      "layman": "Old mental health law"
     },
     {
       "jargon": "Public extra-hospital psychiatry",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Social reintegration",
-      "layman": "Reintegration into society"
+      "layman": "Reentry into society"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Assessment studies",
-      "layman": "Patient evaluations"
+      "jargon": " Assessment studies",
+      "layman": "Patient evaluation studies"
     },
     {
       "jargon": "Professional contexts",
-      "layman": "Workplace settings"
+      "layman": "Workplace and care settings"
     },
     {
-      "jargon": "Enforcement",
-      "layman": "Implementation"
+      "jargon": "Enforcement difficulties",
+      "layman": "Hard to implement consistently"
     },
     {
-      "jargon": "Stigmatization",
-      "layman": "Negative public image"
+      "jargon": "Stigmatization study",
+      "layman": "Looking at societal stigma"
     },
     {
-      "jargon": "User perspectives",
-      "layman": "Patient viewpoints"
+      "jargon": "User and family viewpoints",
+      "layman": "Patient and family perspectives"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Personal liberty"
     },
     {
-      "jargon": "Segregation",
-      "layman": "Isolation from society"
+      "jargon": "Patient segregation",
+      "layman": "Isolation of patients"
     },
     {
-      "jargon": "Caregiver viewpoints",
-      "layman": "Care provider opinions"
+      "jargon": "Organizational impact",
+      "layman": "Effect on care systems"
     },
     {
-      "jargon": "Family perspectives",
-      "layman": "Family opinions"
+      "jargon": "Legal reassessment",
+      "layman": "Reviewing the law"
     },
     {
-      "jargon": "Law enforcement difficulties",
-      "layman": "Hard to apply the law"
+      "jargon": "Caregiver perspectives",
+      "layman": "Care provider views"
     }
   ]
 }

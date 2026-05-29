@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Open System for Road Information Support",
-      "layman": "Open system for road work support"
+      "layman": "Open road work support system"
     },
     {
       "jargon": "Flexible pavement",
@@ -10,21 +10,21 @@
     },
     {
       "jargon": "Work documentation",
-      "layman": "Record of road work activities"
+      "layman": "Road work records"
     },
     {
-      "jargon": "Worksite",
+      "jargon": "Road worksite",
       "layman": "Road construction site"
     },
     {
       "jargon": "European standard",
-      "layman": "Common standard across Europe"
+      "layman": "Standard used across Europe"
     }
   ],
   "methodologies": [
     {
       "jargon": "Construction",
-      "layman": "Building the road"
+      "layman": "Building roads"
     },
     {
       "jargon": "Maintenance",
@@ -32,7 +32,7 @@
     },
     {
       "jargon": "Rehabilitation",
-      "layman": "Fixing damaged roads"
+      "layman": "Fixing worn roads"
     },
     {
       "jargon": "Work support system",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Documentation",
-      "layman": "Keeping records of work done"
+      "layman": "Recording work steps"
     }
   ],
   "outcomes": [
     {
       "jargon": "European standard",
-      "layman": "Common rule for road work"
-    },
-    {
-      "jargon": "Support system",
-      "layman": "Better coordination at site"
-    },
-    {
-      "jargon": "Flexible pavement",
-      "layman": "Asphalt that adapts to stress"
-    },
-    {
-      "jargon": "Work documentation",
-      "layman": "Clear record of every step"
+      "layman": "Unified road work rules"
     },
     {
       "jargon": "Open system",
-      "layman": "Accessible and shared information"
+      "layman": "Publicly accessible system"
+    },
+    {
+      "jargon": "Support for road works",
+      "layman": "Help for road crews"
+    },
+    {
+      "jargon": "Focused on flexible pavement",
+      "layman": "Mainly for asphalt roads"
+    },
+    {
+      "jargon": "Work documentation",
+      "layman": "Clear records of road work"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "threat emotions",
-      "layman": "fear and anxiety"
+      "layman": "fear or anxiety"
     },
     {
       "jargon": "challenge emotions",
-      "layman": "confidence and excitement"
+      "layman": "confidence or excitement"
     },
     {
       "jargon": "recovery experiences",
-      "layman": "after-work relaxation"
+      "layman": "after-work well-being"
     },
     {
       "jargon": "psychological detachment",
-      "layman": "mental unconnection from work"
+      "layman": "mental untying from work"
     },
     {
       "jargon": "job control",
-      "layman": "ability to control work tasks"
+      "layman": "ability to choose how work is done"
     }
   ],
   "methodologies": [
     {
       "jargon": "work diary",
-      "layman": "daily work log"
+      "layman": "daily work journal"
     },
     {
       "jargon": "multilevel analyses",
-      "layman": "statistical analysis of repeated data"
+      "layman": "statistical method for repeated data"
     },
     {
-      "jargon": "diary study",
-      "layman": "daily recording over time"
+      "jargon": "longitudinal study",
+      "layman": "study over time"
+    },
+    {
+      "jargon": "daily diary method",
+      "layman": "daily journaling over weeks"
     },
     {
       "jargon": "moderating role",
-      "layman": "how a factor changes the effect"
-    },
-    {
-      "jargon": "N = 1104",
-      "layman": "data from 1104 individuals"
+      "layman": "how one factor changes effect size"
     }
   ],
   "outcomes": [
     {
       "jargon": "decrease in psychological detachment",
-      "layman": "less mental unconnection from work"
+      "layman": "less mental separation from work"
     },
     {
-      "jargon": "boost in mastery after work",
-      "layman": "feeling more skilled after work"
+      "jargon": "increase in mastery",
+      "layman": "feeling of skill and control"
     },
     {
-      "jargon": "increase in control after work",
-      "layman": "feeling more in charge after work"
+      "jargon": "improvement in control",
+      "layman": "feeling of personal control"
     },
     {
-      "jargon": "negative effect of threat emotions",
-      "layman": "fear reduces recovery"
+      "jargon": "relaxation after work",
+      "layman": "feeling calm and relaxed"
     },
     {
-      "jargon": "positive effect of challenge emotions",
-      "layman": "confidence improves recovery"
+      "jargon": "negative effect",
+      "layman": "harmful impact"
     }
   ]
 }

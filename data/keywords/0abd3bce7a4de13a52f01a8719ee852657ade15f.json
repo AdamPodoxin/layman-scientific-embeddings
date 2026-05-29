@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Donor materials",
-      "layman": "Materials that give up electrons"
+      "layman": "Light-absorbing layers in solar cells"
     },
     {
       "jargon": "Small molecular-based",
-      "layman": "Tiny molecules used in the device"
+      "layman": "Small molecule-based materials"
     },
     {
       "jargon": "Bulk heterojunction",
-      "layman": "Mixed layer of two materials"
+      "layman": "Mixed layers in solar cells"
     },
     {
       "jargon": "Organic photovoltaic devices",
@@ -18,35 +18,35 @@
     },
     {
       "jargon": "Metal complexes",
-      "layman": "Molecules with metal atoms in them"
+      "layman": "Metal-containing compounds for light control"
     }
   ],
   "methodologies": [
     {
       "jargon": "Material selection",
-      "layman": "Choosing the best materials"
+      "layman": "Choosing best materials for performance"
     },
     {
       "jargon": "Bulk heterojunction structure",
-      "layman": "Mixing two materials together"
+      "layman": "Mixing materials to boost light capture"
     },
     {
       "jargon": "Optical absorption",
-      "layman": "Capturing light energy"
+      "layman": "How materials absorb light"
     },
     {
       "jargon": "Charge separation",
-      "layman": "Splitting electrons from holes"
+      "layman": "Splitting electrical charges from light"
     },
     {
-      "jargon": "Device fabrication",
-      "layman": "Building the solar cell"
+      "jargon": "Device performance testing",
+      "layman": "Measuring how well devices convert light to power"
     }
   ],
   "outcomes": [
     {
       "jargon": "Power conversion efficiency",
-      "layman": "How well the device converts light to power"
+      "layman": "How much sunlight turned to electricity"
     },
     {
       "jargon": "Open-circuit voltage",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Short-circuit current",
-      "layman": "Current when no resistance"
+      "layman": "Current when device is connected"
     },
     {
       "jargon": "Fill factor",
-      "layman": "How efficiently the device uses power"
+      "layman": "How efficiently the device uses generated power"
     },
     {
       "jargon": "J-V characteristics",
-      "layman": "Graph of voltage vs. current performance"
+      "layman": "Graph showing power output under light"
     }
   ]
 }

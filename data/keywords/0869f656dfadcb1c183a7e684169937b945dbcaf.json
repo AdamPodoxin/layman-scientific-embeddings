@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Bulk amorphous alloys",
-      "layman": "Solid materials without crystal structure"
+      "layman": "Solid materials without a regular crystal structure"
     },
     {
       "jargon": "Glass-forming ability",
-      "layman": "Ability to form glass-like solids"
+      "layman": "Ability to form a glass-like solid"
     },
     {
       "jargon": "Supercooled liquid region",
-      "layman": "Liquid cooled below freezing point without freezing"
+      "layman": "Liquid state cooled beyond its normal freezing point"
     },
     {
       "jargon": "Nonferrous metal-based alloys",
@@ -32,21 +32,21 @@
     },
     {
       "jargon": "Arc melting",
-      "layman": "Melting metal using electric arc"
+      "layman": "Melting metal using an electric arc"
     },
     {
       "jargon": "Unidirectional zone melting",
-      "layman": "Melting and solidifying in one direction"
+      "layman": "Slowly melting and solidifying metal in one direction"
     },
     {
       "jargon": "Viscous flow",
-      "layman": "Liquid-like flow under stress"
+      "layman": "Liquid-like flow under pressure"
     }
   ],
   "outcomes": [
     {
       "jargon": "High tensile strength",
-      "layman": "Strong under pulling force"
+      "layman": "Can withstand a lot of pulling force"
     },
     {
       "jargon": "Low Young\u2019s modulus",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "High impact fracture energy",
-      "layman": "Absorbs a lot of energy before breaking"
+      "layman": "Absorbs a lot of energy when broken"
     },
     {
       "jargon": "Soft magnetic properties",
-      "layman": "Easily magnetized and demagnetized"
+      "layman": "Easy to magnetize and demagnetize"
     },
     {
       "jargon": "Hard magnetic properties",
-      "layman": "Retains strong magnetism"
+      "layman": "Retains magnetism strongly"
     }
   ]
 }

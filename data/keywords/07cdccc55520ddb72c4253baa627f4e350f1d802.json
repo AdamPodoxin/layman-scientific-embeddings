@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Russian anthropologists",
-      "layman": "Russian scholars studying human bodies"
+      "layman": "Russian scientists studying humans"
     },
     {
       "jargon": "Colonial periphery",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Indigenous population",
-      "layman": "Local native people"
+      "layman": "Native people"
+    },
+    {
+      "jargon": "Tsarist colonialism",
+      "layman": "Russian empire's rule abroad"
     },
     {
       "jargon": "Colonial medicine",
       "layman": "Medical care in colonies"
-    },
-    {
-      "jargon": "Tsarist colonialism",
-      "layman": "Russian rule in distant lands"
     }
   ],
   "methodologies": [
     {
       "jargon": "Western racial theories",
-      "layman": "Belief in racial superiority"
+      "layman": "Racial beliefs from the West"
     },
     {
-      "jargon": "Acculturation process",
-      "layman": "Cultural blending"
+      "jargon": "Acculturation",
+      "layman": "Adapting to new cultures"
     },
     {
-      "jargon": "Public Health practices",
-      "layman": "Health care for communities"
+      "jargon": "Siberian archival sources",
+      "layman": "Old records from Siberia"
     },
     {
-      "jargon": "Medical literature analysis",
-      "layman": "Studying old medical texts"
+      "jargon": "Medical literature",
+      "layman": "Medical books and writings"
     },
     {
-      "jargon": "Archival research",
-      "layman": "Examining historical records"
+      "jargon": "Critical reflections",
+      "layman": "Careful thinking about problems"
     }
   ],
   "outcomes": [
     {
       "jargon": "Biological superiority",
-      "layman": "Claim that one race is naturally better"
+      "layman": "Belief that some races are better"
     },
     {
       "jargon": "Vital rights",
-      "layman": "Basic human rights to live"
+      "layman": "Basic human rights"
     },
     {
-      "jargon": "Resistance to racial ideology",
-      "layman": "Opposition to racial beliefs"
+      "jargon": "Racial discrimination",
+      "layman": "Treating people unfairly by race"
     },
     {
-      "jargon": "Critical reflections",
-      "layman": "Careful thinking about colonial actions"
+      "jargon": "Public Health",
+      "layman": "Health care for the public"
     },
     {
-      "jargon": "Indigenous medicine respect",
-      "layman": "Honoring local healing practices"
+      "jargon": "Colonial expansion",
+      "layman": "Growing empire overseas"
     }
   ]
 }

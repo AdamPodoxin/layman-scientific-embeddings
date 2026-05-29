@@ -1,0 +1,88 @@
+{
+  "core_entities": [
+    {
+      "jargon": "GINA asthma guidelines",
+      "layman": "Standard asthma care rules"
+    },
+    {
+      "jargon": "Childhood asthma",
+      "layman": "Asthma in kids"
+    },
+    {
+      "jargon": "Clinical pathway",
+      "layman": "Step-by-step care plan"
+    },
+    {
+      "jargon": "Primary care physicians",
+      "layman": "General doctors"
+    },
+    {
+      "jargon": "Respiratory outpatients clinic",
+      "layman": "Kids' breathing clinic"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Longitudinal follow-up study",
+      "layman": "Long-term patient monitoring"
+    },
+    {
+      "jargon": "Clinical pathway development",
+      "layman": "Creating a care checklist"
+    },
+    {
+      "jargon": "Data monitoring",
+      "layman": "Tracking patient progress"
+    },
+    {
+      "jargon": "Management plan sharing",
+      "layman": "Sharing care plans among doctors"
+    },
+    {
+      "jargon": "Referral system",
+      "layman": "Sending kids to specialists"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "94.6% guideline adherence",
+      "layman": "Most doctors followed the rules"
+    },
+    {
+      "jargon": "98.6% learned to manage exacerbations",
+      "layman": "Most kids learned to handle flare-ups"
+    },
+    {
+      "jargon": "Half became intermittently symptomatic",
+      "layman": "Half had fewer symptoms over time"
+    },
+    {
+      "jargon": "Maintenance treatment suspended",
+      "layman": "Medications stopped in half the cases"
+    },
+    {
+      "jargon": "Asthma severity diminished",
+      "layman": "Asthma got less severe"
+    },
+    {
+      "jargon": "Reduced medication for exacerbations",
+      "layman": "Less medicine needed for flare-ups"
+    },
+    {
+      "jargon": "p<0.0001",
+      "layman": "Highly significant improvement"
+    },
+    {
+      "jargon": "Regular specialist visits",
+      "layman": "Regular doctor check-ups"
+    },
+    {
+      "jargon": "Efficient use of medication",
+      "layman": "Medication used smarter"
+    },
+    {
+      "jargon": "Reduced medication requirement",
+      "layman": "Less medicine needed overall"
+    }
+  ]
+}

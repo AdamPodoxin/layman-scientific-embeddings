@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Hybrid systems",
-      "layman": "Systems combining different types of behaviors"
+      "layman": "Systems with both digital and physical parts"
     },
     {
       "jargon": "HyTech",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Formal technologies",
-      "layman": "Mathematical tools for modeling systems"
+      "layman": "Mathematical modeling tools"
     },
     {
       "jargon": "Case studies",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Automatic tool",
-      "layman": "Self-running analysis tool"
+      "layman": "Computer tool that works by itself"
     },
     {
       "jargon": "Formal technologies incorporated",
-      "layman": "Built-in mathematical methods"
+      "layman": "Built-in math-based analysis methods"
     },
     {
       "jargon": "Analyzing hybrid systems",
-      "layman": "Studying mixed system behaviors"
+      "layman": "Studying systems with digital and physical parts"
     },
     {
-      "jargon": "Reviewing formal technologies",
-      "layman": "Examining mathematical modeling tools"
+      "jargon": "Review",
+      "layman": "Examining and summarizing"
     },
     {
-      "jargon": "Illustrating use",
-      "layman": "Showing how the tool works in practice"
+      "jargon": "Illustrate use",
+      "layman": "Show how it works in practice"
     }
   ],
   "outcomes": [
     {
       "jargon": "Three nontrivial case studies",
-      "layman": "Three complex real examples"
+      "layman": "Three complex practical examples"
     },
     {
-      "jargon": "Tool for analyzing hybrid systems",
-      "layman": "Tool to study mixed systems"
+      "jargon": "Review of formal technologies",
+      "layman": "Summary of math-based tools used"
     },
     {
-      "jargon": "Formal technologies",
-      "layman": "Mathematical modeling tools"
+      "jargon": "Use of HyTech",
+      "layman": "How HyTech is applied"
     },
     {
       "jargon": "Hybrid system analysis",
-      "layman": "Understanding mixed system behavior"
+      "layman": "Understanding complex system behavior"
     },
     {
-      "jargon": "Nontrivial",
-      "layman": "Complex and challenging"
+      "jargon": "Tool for analyzing",
+      "layman": "Tool to check system behavior"
     }
   ]
 }

@@ -17,8 +17,8 @@
       "layman": "Promotion efforts"
     },
     {
-      "jargon": "Competition",
-      "layman": "Other movies vying for attention"
+      "jargon": "Competitive environment",
+      "layman": "Rival films"
     }
   ],
   "methodologies": [
@@ -27,20 +27,20 @@
       "layman": "Mapping connections between people"
     },
     {
-      "jargon": "Connectivity",
-      "layman": "How well linked things are"
-    },
-    {
-      "jargon": "Density",
-      "layman": "How tightly connected a group is"
+      "jargon": "Box-office admissions",
+      "layman": "Theater ticket sales"
     },
     {
       "jargon": "Hypothesis testing",
-      "layman": "Checking if ideas are supported by data"
+      "layman": "Testing ideas with data"
     },
     {
-      "jargon": "Box-office admissions",
-      "layman": "Number of tickets sold"
+      "jargon": "Cross-sectional data",
+      "layman": "Snapshot of films from one time period"
+    },
+    {
+      "jargon": "Regression analysis",
+      "layman": "Finding patterns in data"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "High ticket sales"
     },
     {
-      "jargon": "Team-based success",
-      "layman": "Success from group effort"
+      "jargon": "Team effect",
+      "layman": "Team performance matters most"
     },
     {
       "jargon": "Star power",
-      "layman": "Fame of individual actors"
+      "layman": "Celebrity popularity"
     },
     {
-      "jargon": "Economic framework",
-      "layman": "Financial structure of a film"
+      "jargon": "Network connectivity",
+      "layman": "Strong links between people"
     },
     {
-      "jargon": "Industry knowledge",
-      "layman": "Deep understanding of film business"
+      "jargon": "Network density",
+      "layman": "How tightly connected the group is"
     }
   ]
 }

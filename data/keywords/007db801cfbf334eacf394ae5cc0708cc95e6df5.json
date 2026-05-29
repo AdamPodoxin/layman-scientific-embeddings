@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Miogeoclines",
-      "layman": "Early coastal regions"
+      "layman": "Early coastal margins"
     },
     {
       "jargon": "Suspect terranes",
-      "layman": "Pieces of ancient land that don't fit"
+      "layman": "Pieces of land with unclear origins"
     },
     {
       "jargon": "Iapetus Ocean",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Ophiolitic vestiges",
-      "layman": "Remnants of oceanic crust"
+      "layman": "Remnants of ocean crust"
     },
     {
       "jargon": "Oceanic plateaus",
-      "layman": "Large underwater plateaus"
+      "layman": "Large flat oceanic areas"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Deformed early Paleozoic miogeoclines",
-      "layman": "Bent ancient coastal areas"
+      "jargon": "Tectonic patterns",
+      "layman": "Earth movement patterns"
     },
     {
       "jargon": "Structural emplacement",
       "layman": "Placing land masses in new positions"
     },
     {
-      "jargon": "Tectonic patterns",
-      "layman": "Earth movement patterns"
+      "jargon": "Deformation",
+      "layman": "Crushing or bending of rock"
     },
     {
-      "jargon": "Paleozoic orogen assembly",
-      "layman": "Building mountain belts over time"
+      "jargon": "Orogenic assembly",
+      "layman": "Building mountain belts"
     },
     {
-      "jargon": "Modern North Atlantic Ocean opening",
-      "layman": "Ocean spreading in the North Atlantic"
+      "jargon": "Paleozoic tectonics",
+      "layman": "Mountain building from ancient time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Disjunct Paleozoic miogeoclines",
-      "layman": "Separated ancient coastal areas"
+      "jargon": "Disjunct miogeoclines",
+      "layman": "Separated coastal areas"
     },
     {
-      "jargon": "Assembly in interior parts of orogen",
-      "layman": "Pieces joined in mountain centers"
+      "jargon": "Opening of North Atlantic Ocean",
+      "layman": "Ocean formed between continents"
     },
     {
-      "jargon": "Emplacement upon adjacent miogeoclines",
-      "layman": "Placed on nearby coastal regions"
+      "jargon": "Continent margins",
+      "layman": "Coastlines of continents"
     },
     {
-      "jargon": "Present arrangement of terranes",
-      "layman": "Current scattered land layout"
+      "jargon": "Microcontinents",
+      "layman": "Small land fragments"
     },
     {
-      "jargon": "Closing of Iapetus Ocean",
-      "layman": "Ocean shut down and land joined"
+      "jargon": "Volcanic arcs",
+      "layman": "Chain of volcanic mountains"
     }
   ]
 }

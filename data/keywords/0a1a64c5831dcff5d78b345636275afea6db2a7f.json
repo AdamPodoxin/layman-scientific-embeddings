@@ -5,16 +5,16 @@
       "layman": "Ozone"
     },
     {
-      "jargon": "Oxygen",
-      "layman": "Oxygen"
-    },
-    {
       "jargon": "Atomic radius",
       "layman": "Size of an atom"
     },
     {
       "jargon": "Ionic radius",
       "layman": "Size of an ion"
+    },
+    {
+      "jargon": "Oxygen",
+      "layman": "Oxygen"
     },
     {
       "jargon": "Hydrogen molecule",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Golden ratio based ionic radii",
-      "layman": "Ion sizes based on the Golden ratio"
+      "layman": "Ion sizes based on the golden ratio"
     },
     {
       "jargon": "Bond length",
@@ -32,29 +32,29 @@
     },
     {
       "jargon": "Sum of radii",
-      "layman": "Adding sizes together"
+      "layman": "Adding atom and ion sizes"
     },
     {
       "jargon": "Structural interpretation",
       "layman": "Explaining molecular shape"
     },
     {
-      "jargon": "Formation of ozone",
-      "layman": "How ozone is created"
+      "jargon": "Atomic and ionic radii analysis",
+      "layman": "Studying atom and ion sizes"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Ozone structure",
+      "layman": "Ozone molecule shape"
+    },
     {
       "jargon": "Bond lengths in molecules",
       "layman": "Molecular bond distances"
     },
     {
-      "jargon": "Structure of ozone",
-      "layman": "Shape of ozone molecule"
-    },
-    {
-      "jargon": "Atomic and ionic radii of oxygen",
-      "layman": "Oxygen atom and ion sizes"
+      "jargon": "Formation of ozone",
+      "layman": "How ozone is created"
     },
     {
       "jargon": "Applicability to other elements",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Hydrogen bond length explanation",
-      "layman": "How hydrogen bond size is explained"
+      "layman": "How hydrogen bond size works"
     }
   ]
 }

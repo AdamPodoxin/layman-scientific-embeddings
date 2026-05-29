@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Quantum field theory",
-      "layman": "Theory of particles and fields"
+      "layman": "Theory of fields and particles"
     },
     {
-      "jargon": "Electromagnetic force",
-      "layman": "Electric and magnetic forces"
+      "jargon": "Quantum electrodynamics",
+      "layman": "QED: particle interactions with light"
     },
     {
       "jargon": "Electron",
       "layman": "Basic particle of electricity"
     },
     {
-      "jargon": "Photon",
-      "layman": "Particle of light"
+      "jargon": "Electromagnetic field",
+      "layman": "Field that carries light and electricity"
     },
     {
       "jargon": "Spin",
-      "layman": "Intrinsic angular momentum"
+      "layman": "Intrinsic angular motion of particles"
     }
   ],
   "methodologies": [
     {
       "jargon": "Self-energy calculation",
-      "layman": "Measuring energy from a particle's own field"
+      "layman": "Measuring a particle's energy from itself"
     },
     {
       "jargon": "Divergent integrals",
-      "layman": "Infinite math results in calculations"
+      "layman": "Math that blows up to infinity"
+    },
+    {
+      "jargon": "Particle zoo",
+      "layman": "Many types of particles discovered"
     },
     {
       "jargon": "Beta decay",
-      "layman": "Radioactive particle emission"
+      "layman": "Radioactive process where particles change"
     },
     {
-      "jargon": "Bose-Einstein statistics",
-      "layman": "Rules for identical particles"
-    },
-    {
-      "jargon": "Fermi-Dirac statistics",
-      "layman": "Rules for electron behavior"
+      "jargon": "Statistical derivation",
+      "layman": "Deriving rules from patterns"
     }
   ],
   "outcomes": [
     {
       "jargon": "Infinite values",
-      "layman": "Math that blows up to infinity"
+      "layman": "Unlimited math results"
     },
     {
-      "jargon": "Particle zoo",
-      "layman": "Growing number of particles"
-    },
-    {
-      "jargon": "New divergence sorrows",
-      "layman": "New infinite problems appear"
+      "jargon": "Field interaction",
+      "layman": "Particles affecting each other through fields"
     },
     {
       "jargon": "Spin-statistics connection",
-      "layman": "Link between particle type and behavior"
+      "layman": "Spin determines how particles behave"
     },
     {
-      "jargon": "Quantum electrodynamics",
-      "layman": "Theory of light and electrons"
+      "jargon": "New divergence sorrows",
+      "layman": "More infinite problems appear"
+    },
+    {
+      "jargon": "Logical sequel",
+      "layman": "Natural next step in theory"
     }
   ]
 }

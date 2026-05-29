@@ -10,37 +10,37 @@
     },
     {
       "jargon": "Imperial revolution",
-      "layman": "Political shift in Roman rule"
+      "layman": "Political changes in the Roman empire"
     },
     {
       "jargon": "Martial",
       "layman": "Roman poet"
     },
     {
-      "jargon": "Trajan",
-      "layman": "Roman emperor"
+      "jargon": "Trajanic Rome",
+      "layman": "Rome under Emperor Trajan"
     }
   ],
   "methodologies": [
     {
       "jargon": "Textual perceptive reading",
-      "layman": "Careful analysis of text"
+      "layman": "Reading text carefully and deeply"
     },
     {
       "jargon": "Political climate analysis",
-      "layman": "Studying the political environment"
+      "layman": "Studying the political atmosphere"
     },
     {
       "jargon": "Topographical dislocation",
-      "layman": "Displaced or mismatched locations"
+      "layman": "Displaced geography in writing"
+    },
+    {
+      "jargon": "Estrangement from political discourse",
+      "layman": "Moving away from political talk"
     },
     {
       "jargon": "Poetic security",
       "layman": "Stability in poetry"
-    },
-    {
-      "jargon": "Reader interpretation",
-      "layman": "How readers understand texts"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "No mention of Trajan"
     },
     {
-      "jargon": "Estrangement from political discourse",
-      "layman": "Distance from politics"
+      "jargon": "Contrast and coincidence",
+      "layman": "Opposites that also match"
     },
     {
-      "jargon": "Removal of incisive commentator",
-      "layman": "Loss of sharp critic"
+      "jargon": "Removal of commentator",
+      "layman": "Loss of a key critic"
     },
     {
-      "jargon": "Greatest wit",
-      "layman": "Most clever poet"
+      "jargon": "Loss of greatest wit",
+      "layman": "Loss of the funniest or sharpest writer"
     },
     {
-      "jargon": "Poetic security",
-      "layman": "Stable poetic expression"
+      "jargon": "Understanding of political upheaval",
+      "layman": "Seeing how politics changed"
     }
   ]
 }

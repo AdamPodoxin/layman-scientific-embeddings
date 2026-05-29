@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Global fields",
-      "layman": "Broad mathematical number systems"
+      "layman": "Extended number systems"
     },
     {
       "jargon": "Polynomials",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Number fields",
-      "layman": "Number systems extending rationals"
+      "layman": "Number systems like integers extended"
     },
     {
       "jargon": "Function fields",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Algorithms",
-      "layman": "Step-by-step math procedures"
+      "layman": "Step-by-step problem-solving rules"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Factoring polynomials",
-      "layman": "Breaking down math expressions"
-    },
-    {
-      "jargon": "Generic algorithm",
-      "layman": "General math solution method"
+      "jargon": "Factoring algorithms",
+      "layman": "Rules to break down polynomials"
     },
     {
       "jargon": "Efficient implementations",
-      "layman": "Fast computer versions"
+      "layman": "Fast and practical versions"
     },
     {
       "jargon": "Separate treatment",
-      "layman": "Different approaches for different cases"
+      "layman": "Different approaches for different types"
     },
     {
       "jargon": "Complexity issues",
-      "layman": "How hard the math is to compute"
+      "layman": "Performance and speed challenges"
+    },
+    {
+      "jargon": "Illustrative examples",
+      "layman": "Simple cases to show how it works"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Efficient implementations",
-      "layman": "Fast computer solutions"
+      "jargon": "Generic algorithm",
+      "layman": "One method that works broadly"
     },
     {
       "jargon": "Differ substantially",
-      "layman": "Very different in practice"
+      "layman": "Big differences between cases"
     },
     {
-      "jargon": "Illustrative examples",
-      "layman": "Clear real-world cases"
+      "jargon": "Efficient implementations",
+      "layman": "Fast and usable versions"
     },
     {
-      "jargon": "Complexity issues",
-      "layman": "Computational difficulty"
+      "jargon": "Complexity discussion",
+      "layman": "How hard the process is"
     },
     {
-      "jargon": "Global fields F",
-      "layman": "Mathematical systems with global rules"
+      "jargon": "Part II analysis",
+      "layman": "Further study and breakdown"
     }
   ]
 }

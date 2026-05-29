@@ -5,64 +5,64 @@
       "layman": "Gothic novel"
     },
     {
+      "jargon": "Gender conflicts",
+      "layman": "Fights between genders"
+    },
+    {
       "jargon": "Feminine power",
       "layman": "Women's strength"
     },
     {
+      "jargon": "Postmodern perspective",
+      "layman": "Modern view that challenges fixed truths"
+    },
+    {
       "jargon": "Second-wave feminism",
-      "layman": "Women's rights movement"
-    },
-    {
-      "jargon": "Third-wave feminism",
-      "layman": "New women's movement"
-    },
-    {
-      "jargon": "Villain-hero",
-      "layman": "Bad guy and hero"
+      "layman": "Feminism that focused on women's rights in the 1960s-1980s"
     }
   ],
   "methodologies": [
     {
       "jargon": "Feminist perspective",
-      "layman": "Women's point of view"
+      "layman": "View from a woman's point of view"
     },
     {
       "jargon": "Postmodern point of view",
-      "layman": "Modern, flexible thinking"
-    },
-    {
-      "jargon": "Gender conflicts",
-      "layman": "Tension between genders"
+      "layman": "View that sees reality as complex and changing"
     },
     {
       "jargon": "Narrative structure",
-      "layman": "Story pattern"
+      "layman": "Story framework"
     },
     {
-      "jargon": "Cultural history",
-      "layman": "History of culture"
+      "jargon": "Subversion",
+      "layman": "Breaking rules to show new ideas"
+    },
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful examination of meaning"
     }
   ],
   "outcomes": [
     {
       "jargon": "Critique of second-wave feminism",
-      "layman": "Challenge to old women's rights ideas"
+      "layman": "Questioning of old feminist beliefs"
     },
     {
-      "jargon": "Subversion of classic gothic structure",
-      "layman": "Breaking traditional story rules"
+      "jargon": "Anticipation of third-wave feminism",
+      "layman": "Signaling the next phase of feminism"
     },
     {
-      "jargon": "Social role",
-      "layman": "Role in society"
-    },
-    {
-      "jargon": "Biological sex",
-      "layman": "Physical gender"
+      "jargon": "Classic gothic structure",
+      "layman": "Old-fashioned story pattern"
     },
     {
       "jargon": "Gender politics",
-      "layman": "How gender affects society"
+      "layman": "How society handles gender roles"
+    },
+    {
+      "jargon": "Feminist reinterpretation",
+      "layman": "New way of seeing gender in stories"
     }
   ]
 }

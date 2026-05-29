@@ -13,22 +13,22 @@
       "layman": "Ordered liquid state"
     },
     {
-      "jargon": "Sulphuric acid",
-      "layman": "Strong acid used in solution"
+      "jargon": "Sulfuric acid",
+      "layman": "Strong acid used in processing"
     },
     {
       "jargon": "Composite",
-      "layman": "Mixed material"
+      "layman": "Mixed materials"
     }
   ],
   "methodologies": [
     {
       "jargon": "Solution viscosity measurement",
-      "layman": "Measuring how thick a liquid is"
+      "layman": "Measuring fluid thickness"
     },
     {
       "jargon": "Opalescence observation",
-      "layman": "Noticing light shimmering"
+      "layman": "Watching light glow effects"
     },
     {
       "jargon": "Systematic study",
@@ -36,11 +36,11 @@
     },
     {
       "jargon": "Optimization",
-      "layman": "Finding best conditions"
+      "layman": "Tuning conditions for best results"
     },
     {
       "jargon": "Suspension",
-      "layman": "Mix of solids in liquid"
+      "layman": "Mix of solid and liquid"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "First study to report",
-      "layman": "New discovery"
+      "layman": "Unique finding"
     },
     {
       "jargon": "Strong, light, high-performance fibers",
-      "layman": "Sturdy, lightweight, durable fibers"
+      "layman": "Durable and lightweight fibers"
     },
     {
       "jargon": "Fundamental insights",
-      "layman": "Basic understanding"
+      "layman": "Basic scientific understanding"
     },
     {
-      "jargon": "High-performance polymeric composite fibers",
-      "layman": "Strong fiber made from plastics"
+      "jargon": "Polymeric composite fibers",
+      "layman": "Fibers made from mixed plastics and reinforcements"
     }
   ]
 }

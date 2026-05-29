@@ -18,29 +18,29 @@
     },
     {
       "jargon": "BD parameter \u03c9",
-      "layman": "Key number in gravity theory"
+      "layman": "Gravity theory control number"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Probing",
-      "layman": "Testing or investigating"
+      "jargon": "Kinematic analysis",
+      "layman": "Study of motion rules"
     },
     {
-      "jargon": "Kinematical analysis",
-      "layman": "Checking if physics rules allow a process"
+      "jargon": "Propagating particle",
+      "layman": "Particle moving through space"
+    },
+    {
+      "jargon": "Emission process",
+      "layman": "Energy release from particle"
     },
     {
       "jargon": "Limiting case",
-      "layman": "Extreme condition to test a theory"
+      "layman": "Extreme condition tested"
     },
     {
-      "jargon": "Einstein theory recovery",
-      "layman": "Returning to standard gravity model"
-    },
-    {
-      "jargon": "Radiation emission",
-      "layman": "Light or energy released"
+      "jargon": "Theoretical exploration",
+      "layman": "Checking ideas mathematically"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Radiation stops appearing"
     },
     {
-      "jargon": "Strong signature",
-      "layman": "Clear sign of difference"
+      "jargon": "\u03c9 \u2192 \u221e limit",
+      "layman": "Gravity becomes Einstein-like"
     },
     {
-      "jargon": "Validity of theory",
-      "layman": "Whether the theory is true"
+      "jargon": "Strong signature",
+      "layman": "Clear test result"
+    },
+    {
+      "jargon": "Einstein theory recovered",
+      "layman": "Standard gravity is restored"
     },
     {
       "jargon": "Kinematically allowed",
-      "layman": "Possible under physics rules"
-    },
-    {
-      "jargon": "\u03c9 \u2192 \u221e limit",
-      "layman": "Extreme value of the gravity parameter"
+      "layman": "Process is possible under rules"
     }
   ]
 }

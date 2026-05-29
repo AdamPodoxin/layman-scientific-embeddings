@@ -24,33 +24,29 @@
   "methodologies": [
     {
       "jargon": "Adsorption kinetics",
-      "layman": "How fast things stick"
+      "layman": "How fast adsorption happens"
     },
     {
       "jargon": "Surface complexation",
-      "layman": "Molecules bonding to surfaces"
+      "layman": "Surface binding via chemical links"
     },
     {
       "jargon": "Ligand exchange",
-      "layman": "Molecules swapping places"
+      "layman": "Exchange of molecules on surface"
     },
     {
       "jargon": "Diffusion",
-      "layman": "Movement through small spaces"
+      "layman": "Movement through spaces"
     },
     {
-      "jargon": "pH adjustment",
-      "layman": "Changing acidity or alkalinity"
+      "jargon": "pH variation",
+      "layman": "Change in acidity or alkalinity"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Increased adsorption at low pH",
-      "layman": "More sticking at acidic levels"
-    },
-    {
-      "jargon": "Enhanced adsorption with calcium",
-      "layman": "More sticking with calcium"
+      "jargon": "Increased adsorption at lower pH",
+      "layman": "More adsorption when pH drops"
     },
     {
       "jargon": "Preferential adsorption of high molecular weight molecules",
@@ -58,11 +54,15 @@
     },
     {
       "jargon": "Enrichment of aromatic moieties",
-      "layman": "Aromatic parts stick better"
+      "layman": "More aromatic parts stick"
     },
     {
-      "jargon": "Formation of UV-absorbing molecules",
-      "layman": "New light-absorbing compounds form"
+      "jargon": "Hydrophobic interactions",
+      "layman": "Stick due to oil-like properties"
+    },
+    {
+      "jargon": "Formation of low molecular weight UV-absorbing molecules",
+      "layman": "Smaller molecules form that absorb UV light"
     }
   ]
 }

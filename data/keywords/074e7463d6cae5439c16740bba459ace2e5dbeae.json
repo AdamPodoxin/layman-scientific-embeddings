@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Dichotomy property",
-      "layman": "Clear split into two cases"
+      "layman": "Clear division into two cases"
     },
     {
       "jargon": "Explicit bases",
@@ -40,25 +40,25 @@
     },
     {
       "jargon": "Establish",
-      "layman": "Prove exists"
+      "layman": "Show or confirm"
     }
   ],
   "outcomes": [
     {
       "jargon": "Existence of explicit bases",
-      "layman": "Clear starting rules exist"
+      "layman": "Clear set of core rules found"
     },
     {
       "jargon": "Alternative proof",
-      "layman": "New way to prove"
-    },
-    {
-      "jargon": "Dichotomy property",
-      "layman": "Clear split in results"
+      "layman": "New way of showing something is true"
     },
     {
       "jargon": "Stable canonical rules",
       "layman": "Stable logical rules"
+    },
+    {
+      "jargon": "Dichotomy property",
+      "layman": "Clear two-part split"
     },
     {
       "jargon": "Admissible rules",

@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Athletic-cultural archaeological cities",
-      "layman": "Ancient cities linked to sports and culture"
+      "layman": "Ancient cities with sports and cultural features"
     },
     {
       "jargon": "Greco-Roman world",
-      "layman": "Ancient Greece and Rome"
+      "layman": "Ancient Greek and Roman civilization"
     },
     {
-      "jargon": "Photo-atlas",
-      "layman": "Photo atlas"
+      "jargon": "Photo-Atlas",
+      "layman": "Photo-based map or guide"
     },
     {
       "jargon": "Archaeological cities",
-      "layman": "Ancient cities studied by archaeologists"
+      "layman": "Ancient urban sites"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Photo-atlas compilation",
-      "layman": "Creating a photo-based map collection"
+      "jargon": "Photo-Atlas",
+      "layman": "Photo-based map or guide"
     },
     {
-      "jargon": "Archaeological documentation",
-      "layman": "Recording ancient sites with photos"
+      "jargon": "Visual documentation",
+      "layman": "Taking photos to record"
+    },
+    {
+      "jargon": "Mapping",
+      "layman": "Creating a layout or map"
     },
     {
       "jargon": "Cultural analysis",
-      "layman": "Studying cultural practices in ancient times"
+      "layman": "Studying cultural practices"
     },
     {
-      "jargon": "Athletic site mapping",
-      "layman": "Mapping ancient sports venues"
-    },
-    {
-      "jargon": "Historical interpretation",
-      "layman": "Understanding history through evidence"
+      "jargon": "Athletic assessment",
+      "layman": "Evaluating sports activities"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Comprehensive visual record",
-      "layman": "Full photo record"
+      "jargon": "528 pages",
+      "layman": "Large reference book"
     },
     {
-      "jargon": "Urban spatial patterns",
-      "layman": "How ancient cities were laid out"
+      "jargon": "Published by author",
+      "layman": "Self-published work"
     },
     {
-      "jargon": "Cultural continuity",
-      "layman": "Long-lasting cultural traditions"
+      "jargon": "$97 price",
+      "layman": "Expensive book"
     },
     {
-      "jargon": "Athletic heritage",
-      "layman": "Legacy of ancient sports"
+      "jargon": "Historical record",
+      "layman": "Past evidence preserved"
     },
     {
-      "jargon": "Archaeological insight",
-      "layman": "Deeper understanding of ancient life"
+      "jargon": "Detailed city depiction",
+      "layman": "Clear images of ancient cities"
     }
   ]
 }

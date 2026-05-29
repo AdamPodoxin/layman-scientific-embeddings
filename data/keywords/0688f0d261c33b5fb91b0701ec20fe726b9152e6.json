@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Mn(II)-substituted human carbonic anhydrase C",
-      "layman": "Manganese-modified enzyme"
-    },
-    {
-      "jargon": "Co(II)-substituted human carbonic anhydrase C",
-      "layman": "Cobalt-modified enzyme"
-    },
-    {
       "jargon": "p-nitrophenol",
-      "layman": "Nitrophenol molecule"
+      "layman": "p-nitrophenol"
     },
     {
       "jargon": "acetate",
-      "layman": "Acetate molecule"
+      "layman": "acetate"
+    },
+    {
+      "jargon": "Mn(II)-substituted human carbonic anhydrase C",
+      "layman": "Mn-powered enzyme in human cells"
+    },
+    {
+      "jargon": "Co(II)-substituted human carbonic anhydrase C",
+      "layman": "Co-powered enzyme in human cells"
     },
     {
       "jargon": "active site",
-      "layman": "Enzyme's working center"
+      "layman": "enzyme's reaction center"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Nuclear relaxation studies",
-      "layman": "Measuring how nuclei lose energy"
+      "jargon": "NMR studies",
+      "layman": "Magnetic scanning of molecules"
     },
     {
-      "jargon": "Paramagnetic effect",
-      "layman": "Magnetic influence on atoms"
+      "jargon": "nuclear relaxation",
+      "layman": "how atoms slow down in magnetic fields"
     },
     {
-      "jargon": "Metal-ligand distances",
-      "layman": "Distance between metal and bound molecule"
+      "jargon": "paramagnetic effect",
+      "layman": "magnetic influence on atoms"
     },
     {
-      "jargon": "Longitudinal nuclear relaxation rates",
-      "layman": "How fast nuclei recover energy"
+      "jargon": "metal-ligand distances",
+      "layman": "distance between metal and molecule parts"
     },
     {
-      "jargon": "Hydrolysis reaction",
-      "layman": "Breaking down a molecule with water"
+      "jargon": "innersphere complexation",
+      "layman": "direct bonding between metal and a group in a molecule"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Direct coordination of phenolic oxygen",
-      "layman": "Molecule binds directly to metal"
+      "jargon": "direct coordination",
+      "layman": "direct bonding"
     },
     {
-      "jargon": "Innersphere distances",
-      "layman": "Close bond within the enzyme center"
+      "jargon": "phenolic oxygen coordination",
+      "layman": "oxygen group binds directly to metal"
     },
     {
-      "jargon": "Different orientations of aromatic ring",
-      "layman": "Ring points in different directions"
+      "jargon": "aromatic ring orientation",
+      "layman": "ring alignment in molecule"
     },
     {
-      "jargon": "Weak innersphere complexation",
-      "layman": "Loose but close bond"
+      "jargon": "carboxyl carbon in inner sphere",
+      "layman": "carboxyl group touches metal"
     },
     {
-      "jargon": "Differences in reactivities",
-      "layman": "Different reaction speeds"
+      "jargon": "small but significant differences",
+      "layman": "tiny but real differences"
     }
   ]
 }

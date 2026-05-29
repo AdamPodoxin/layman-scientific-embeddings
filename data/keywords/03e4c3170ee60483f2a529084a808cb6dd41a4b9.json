@@ -6,33 +6,29 @@
     },
     {
       "jargon": "Vanadates",
-      "layman": "Vanadium-based compounds"
+      "layman": "Vanadium-containing minerals"
     },
     {
       "jargon": "Structural phase transitions",
       "layman": "Changes in crystal shape with temperature"
     },
     {
-      "jargon": "La doped YVO3",
-      "layman": "Yttrium vanadate with lanthanum added"
+      "jargon": "Y\u2081\u2212xLa\u2093VO\u2083",
+      "layman": "Yttrium-lanthanum vanadate compound"
     },
     {
       "jargon": "Bulk modulus",
-      "layman": "Stiffness of material under pressure"
+      "layman": "Material's resistance to compression"
     }
   ],
   "methodologies": [
     {
       "jargon": "Thermodynamic study",
-      "layman": "Study of energy changes with temperature"
+      "layman": "Study of heat and energy changes"
     },
     {
-      "jargon": "Temperature dependent transitions",
-      "layman": "Changes that happen at different temperatures"
-    },
-    {
-      "jargon": "Modified rigid ion model",
-      "layman": "Simplified model for atomic behavior"
+      "jargon": "Temperature dependent phase transitions",
+      "layman": "Phase changes that happen with temperature"
     },
     {
       "jargon": "Specific heat measurement",
@@ -40,29 +36,33 @@
     },
     {
       "jargon": "Low temperature thermal expansion",
-      "layman": "How much a material expands when cooled"
+      "layman": "How much a material expands when heated slowly"
+    },
+    {
+      "jargon": "Modified rigid ion model",
+      "layman": "Model that assumes ions don't move much"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Elastic properties",
+      "layman": "How stiff or flexible the material is"
+    },
+    {
+      "jargon": "Thermal properties",
+      "layman": "How a material responds to heat"
+    },
     {
       "jargon": "Cohesive energy",
       "layman": "Energy holding atoms together"
     },
     {
       "jargon": "Debye temperature",
-      "layman": "Temperature linked to atomic vibrations"
+      "layman": "Temperature related to atomic vibrations"
     },
     {
-      "jargon": "Elastic properties",
-      "layman": "How a material bends and returns"
-    },
-    {
-      "jargon": "Thermal behavior",
-      "layman": "How heat affects the material"
-    },
-    {
-      "jargon": "Validation with experimental data",
-      "layman": "Checking results against real-world tests"
+      "jargon": "Comparison with experimental data",
+      "layman": "Validation against real-world measurements"
     }
   ]
 }

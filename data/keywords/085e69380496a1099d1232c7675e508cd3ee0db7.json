@@ -17,8 +17,8 @@
       "layman": "Growing crops on more land"
     },
     {
-      "jargon": "Carbon sink",
-      "layman": "Place that absorbs carbon dioxide"
+      "jargon": "Soil carbon storage",
+      "layman": "Carbon held in soil"
     }
   ],
   "methodologies": [
@@ -35,34 +35,34 @@
       "layman": "Lists of greenhouse gases released"
     },
     {
-      "jargon": "Land-use change analysis",
-      "layman": "Studying how land use changes over time"
+      "jargon": "Earth system models",
+      "layman": "Big climate prediction tools"
     },
     {
-      "jargon": "Global climate models",
-      "layman": "Large computer models of Earth's climate"
+      "jargon": "Spatial analysis",
+      "layman": "Mapping land changes over space"
     }
   ],
   "outcomes": [
     {
       "jargon": "CO2 concentration increase",
-      "layman": "More carbon dioxide in the air"
+      "layman": "More carbon dioxide in air"
     },
     {
-      "jargon": "Positive feedback loop",
-      "layman": "A cycle that makes things worse"
+      "jargon": "Feedback loops",
+      "layman": "Self-reinforcing climate effects"
     },
     {
       "jargon": "Carbon sequestration",
-      "layman": "Storing carbon in plants or soil"
+      "layman": "Carbon stored in nature"
     },
     {
-      "jargon": "Regional climate response",
-      "layman": "Climate changes in specific areas"
+      "jargon": "Net carbon gain/loss",
+      "layman": "More or less carbon overall"
     },
     {
-      "jargon": "Equilibrium concentration",
-      "layman": "Stable level of CO2 over time"
+      "jargon": "Regional climate sensitivity",
+      "layman": "How climate responds in different places"
     }
   ]
 }

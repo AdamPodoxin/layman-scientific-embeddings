@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Time-triggered languages",
-      "layman": "Languages for real-time system timing"
+      "layman": "Languages that define timing of system actions"
     },
     {
       "jargon": "System activities",
-      "layman": "System actions"
+      "layman": "Actions the system performs"
     },
     {
       "jargon": "Controlled object",
-      "layman": "Object being monitored"
+      "layman": "Thing being monitored and managed"
     },
     {
       "jargon": "Temporal behavior",
-      "layman": "How system behaves over time"
+      "layman": "How a system behaves over time"
     },
     {
       "jargon": "Multi-modal systems",
-      "layman": "Systems with multiple modes of operation"
+      "layman": "Systems with multiple types of operations"
     }
   ],
   "methodologies": [
     {
       "jargon": "Scheduling analysis",
-      "layman": "Planning when tasks run"
+      "layman": "Planning when tasks occur"
     },
     {
       "jargon": "Processor demand",
-      "layman": "Amount of processing needed"
+      "layman": "Amount of computing power needed"
     },
     {
       "jargon": "Processor utilization factor",
-      "layman": "How much processor is used"
+      "layman": "How much processor time is used"
     },
     {
       "jargon": "Timing verification",
-      "layman": "Checking if timing is correct"
+      "layman": "Checking that timing rules are followed"
     },
     {
       "jargon": "Adapting scheduling analysis",
-      "layman": "Changing how scheduling is done"
+      "layman": "Changing how task timing is planned"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "More adaptable system design"
     },
     {
-      "jargon": "Overcome limitations",
-      "layman": "Fix existing problems"
+      "jargon": "Value and time deterministic programming",
+      "layman": "Predictable system timing and results"
     },
     {
-      "jargon": "Value and time deterministic programming",
-      "layman": "Predictable timing and behavior"
+      "jargon": "Overcome limitations",
+      "layman": "Remove current restrictions"
     },
     {
       "jargon": "System reactivity",
-      "layman": "System's responsiveness"
+      "layman": "System\u2019s responsiveness to changes"
     },
     {
       "jargon": "Multi-modular real-time systems",
-      "layman": "Complex systems with many parts and timing needs"
+      "layman": "Complex systems with many parts and strict timing"
     }
   ]
 }

@@ -6,29 +6,29 @@
     },
     {
       "jargon": "Composting area",
-      "layman": "Place where waste breaks down"
+      "layman": "Compost space"
     },
     {
       "jargon": "Pollination",
-      "layman": "Flowers being fertilized by insects"
+      "layman": "Plant fertilization"
     },
     {
       "jargon": "Subject of sense experience",
-      "layman": "Person having a sensory experience"
+      "layman": "Person experiencing meaning"
     },
     {
       "jargon": "Material processes",
-      "layman": "Natural processes in the environment"
+      "layman": "Natural physical changes"
     }
   ],
   "methodologies": [
     {
       "jargon": "Viewer-object relations",
-      "layman": "Artwork and viewer interacting"
+      "layman": "Art viewer and artwork interaction"
     },
     {
       "jargon": "Public participation",
-      "layman": "People joining in on art"
+      "layman": "Public involvement in art"
     },
     {
       "jargon": "Co-completion of meaning",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Openness to participation",
-      "layman": "Being open to people joining in"
+      "layman": "Allowing public input"
     },
     {
       "jargon": "Indifference to participation",
-      "layman": "Not caring if people join"
+      "layman": "Not caring about viewer input"
     }
   ],
   "outcomes": [
     {
       "jargon": "Non-subject-dependent reality",
-      "layman": "Reality that doesn't need people to exist"
+      "layman": "Reality without human involvement"
     },
     {
-      "jargon": "Participatory regime of art",
-      "layman": "Art that depends on people joining"
+      "jargon": "Challenges participatory regime",
+      "layman": "Breaks rule of needing viewers"
+    },
+    {
+      "jargon": "Politics of indifference",
+      "layman": "A system that doesn't depend on people"
     },
     {
       "jargon": "Relational aesthetics",
-      "layman": "Art built on viewer connections"
+      "layman": "Art based on viewer connection"
     },
     {
-      "jargon": "Political claims",
-      "layman": "Ideas about power or society"
-    },
-    {
-      "jargon": "Reconfigurations of the subject",
-      "layman": "Changing who is seen as the viewer"
+      "jargon": "Reconfiguration of subject",
+      "layman": "Changing who experiences art"
     }
   ]
 }

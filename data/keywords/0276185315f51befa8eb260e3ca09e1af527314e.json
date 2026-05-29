@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Universalist heritage",
-      "layman": "Global legal ideals"
+      "layman": "Ideas that all legal systems are similar"
     },
     {
       "jargon": "Colonialist heritage",
-      "layman": "Legal systems from colonial times"
+      "layman": "Legal ideas from colonial rule"
     },
     {
       "jargon": "Nationalist heritage",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Functionalist heritage",
-      "layman": "Legal systems based on function"
+      "layman": "Focus on how laws function in practice"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Comparatists and sociology",
-      "layman": "Studying law through social patterns"
+      "jargon": "Comparative analysis",
+      "layman": "Comparing different systems side by side"
     },
     {
-      "jargon": "Comparatists and languages",
-      "layman": "Analyzing laws through language"
+      "jargon": "Linguistic analysis",
+      "layman": "Studying legal language and texts"
     },
     {
-      "jargon": "The question of understanding",
-      "layman": "How to truly grasp legal systems"
+      "jargon": "Sociological methods",
+      "layman": "Using social patterns to understand law"
     },
     {
-      "jargon": "The same and the different",
-      "layman": "Finding similarities and differences"
+      "jargon": "Theoretical frameworks",
+      "layman": "Built models to explain legal ideas"
     },
     {
-      "jargon": "Neo-romantic turn",
-      "layman": "Returning to emotional, cultural roots"
+      "jargon": "Transferability analysis",
+      "layman": "Testing if one legal system works elsewhere"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Transferability",
-      "layman": "How applicable one system is to another"
+      "jargon": "Understanding legal differences",
+      "layman": "Seeing how laws vary across cultures"
+    },
+    {
+      "jargon": "Same and different",
+      "layman": "Recognizing what's shared and what's unique"
+    },
+    {
+      "jargon": "Neo-romantic turn",
+      "layman": "Shift toward emotional and cultural legal values"
+    },
+    {
+      "jargon": "Political implications",
+      "layman": "How legal studies affect policy"
     },
     {
       "jargon": "Extraordinary places",
-      "layman": "Unique legal settings"
-    },
-    {
-      "jargon": "Boundaries",
-      "layman": "Limits of comparative study"
-    },
-    {
-      "jargon": "Futures of legal studies",
-      "layman": "Possible directions for the field"
-    },
-    {
-      "jargon": "Beyond compare",
-      "layman": "Moving past simple comparisons"
+      "layman": "Studying rare or unusual legal settings"
     }
   ]
 }

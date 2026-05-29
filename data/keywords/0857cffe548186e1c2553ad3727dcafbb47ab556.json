@@ -10,47 +10,47 @@
     },
     {
       "jargon": "Sports publications",
-      "layman": "Sports magazines"
+      "layman": "Sport magazines"
     },
     {
       "jargon": "ESPN special",
-      "layman": "ESPN special report"
+      "layman": "ESPN special program"
     },
     {
       "jargon": "Athlete of the Century polls",
-      "layman": "Polls for best athlete of the century"
+      "layman": "Polls for greatest athlete of all time"
     }
   ],
   "methodologies": [
     {
       "jargon": "Narrative analysis",
-      "layman": "Studying story patterns"
+      "layman": "Examining stories"
     },
     {
-      "jargon": "Media content examination",
-      "layman": "Reviewing media content"
+      "jargon": "Media content review",
+      "layman": "Checking media stories"
     },
     {
-      "jargon": "Representation analysis",
-      "layman": "Checking how people are shown"
-    },
-    {
-      "jargon": "Historical context review",
-      "layman": "Looking at past events for background"
+      "jargon": "Representation study",
+      "layman": "Looking at how people are shown"
     },
     {
       "jargon": "Stereotype identification",
-      "layman": "Spotting common stereotypes"
+      "layman": "Spotting common beliefs"
+    },
+    {
+      "jargon": "Historical context analysis",
+      "layman": "Looking at past background"
     }
   ],
   "outcomes": [
     {
       "jargon": "Racial dynamics",
-      "layman": "Racial biases in society"
+      "layman": "Racial attitudes in society"
     },
     {
       "jargon": "Stereotypes perpetuated",
-      "layman": "Repeating harmful beliefs"
+      "layman": "False beliefs repeated"
     },
     {
       "jargon": "Media narratives",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Cultural misrepresentation",
-      "layman": "Wrong portrayal of culture"
+      "layman": "Wrong cultural portrayals"
     },
     {
-      "jargon": "Continuation of bias",
-      "layman": "Ongoing unfair views"
+      "jargon": "Continuity of bias",
+      "layman": "Past biases still present"
     }
   ]
 }

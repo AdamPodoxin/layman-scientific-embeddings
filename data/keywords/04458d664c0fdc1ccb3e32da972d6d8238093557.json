@@ -17,52 +17,52 @@
       "layman": "Quark and its partner"
     },
     {
-      "jargon": "Confining pellicle",
-      "layman": "Energy barrier holding quarks together"
+      "jargon": "Landau-Ginzburg parameter",
+      "layman": "Key parameter in model"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Schwinger formula",
-      "layman": "Basic formula for string-breaking"
+      "jargon": "Dispersion effects",
+      "layman": "Spread in field strength"
     },
     {
-      "jargon": "Landau-Ginzburg parameter",
-      "layman": "Key value in model tuning"
-    },
-    {
-      "jargon": "Dispersion of chromoelectric field",
-      "layman": "Field spreading out"
+      "jargon": "Leading-order correction",
+      "layman": "First-level adjustment"
     },
     {
       "jargon": "All-order corrections",
-      "layman": "Full calculation including small effects"
+      "layman": "Full series of adjustments"
     },
     {
-      "jargon": "Treatment as holes in pellicle",
-      "layman": "Pair treated as missing spots"
+      "jargon": "Stochastic vacuum model",
+      "layman": "Random vacuum theory"
+    },
+    {
+      "jargon": "Dual superconductor model",
+      "layman": "Two-phase superconductor idea"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Slight diminishment of string-breaking distance",
-      "layman": "Small reduction in breaking distance"
+      "jargon": "Schwinger formula",
+      "layman": "Standard distance prediction"
     },
     {
-      "jargon": "Increase of string-breaking distance",
-      "layman": "Breaking distance grows"
+      "jargon": "Increased string-breaking distance",
+      "layman": "Longer quark string"
     },
     {
-      "jargon": "One order of magnitude increase",
-      "layman": "Breaking distance becomes 10 times larger"
+      "jargon": "One order of magnitude",
+      "layman": "Ten times longer"
     },
     {
-      "jargon": "Alternative formula for distance",
-      "layman": "New way to calculate distance"
+      "jargon": "Confining pellicle",
+      "layman": "Energy barrier between quarks"
     },
     {
       "jargon": "Generalizations to small and near-critical temperatures",
-      "layman": "Results apply to cold and near-transition temperatures"
+      "layman": "Works at low and near-critical heat"
     }
   ]
 }

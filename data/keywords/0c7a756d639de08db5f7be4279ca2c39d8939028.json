@@ -5,64 +5,64 @@
       "layman": "Logic system with strict resource rules"
     },
     {
-      "jargon": "Hyland-Tan double glueing",
-      "layman": "Special construction method for logic models"
+      "jargon": "Hyland-Tan double glueing construction",
+      "layman": "Special mathematical building process"
     },
     {
       "jargon": "Unit-free fragment",
       "layman": "Logic without identity elements"
     },
     {
-      "jargon": "Degenerative ones",
-      "layman": "Weaker or simplified logic systems"
+      "jargon": "Degenerative categories",
+      "layman": "Weakened mathematical structures"
     },
     {
       "jargon": "Compact closed categories",
-      "layman": "Mathematical structures with symmetry and duality"
+      "layman": "Mathematical spaces with symmetric operations"
     }
   ],
   "methodologies": [
     {
       "jargon": "Tensor calculus",
-      "layman": "Math tool for combining structures"
+      "layman": "Mathematical system for combining operations"
     },
     {
       "jargon": "Double glueing construction",
-      "layman": "Process of joining models together"
+      "layman": "Merging structures with shared parts"
     },
     {
       "jargon": "Combinatorial properties",
-      "layman": "Patterns in how parts combine"
+      "layman": "Patterns in how pieces fit together"
     },
     {
       "jargon": "Finite biproducts",
-      "layman": "Structured combinations of inputs and outputs"
+      "layman": "Limited combination of inputs and outputs"
     },
     {
-      "jargon": "Applying to a family of degenerates",
-      "layman": "Using method on various weak models"
+      "jargon": "Model construction",
+      "layman": "Building a mathematical representation"
     }
   ],
   "outcomes": [
     {
       "jargon": "Fully complete model",
-      "layman": "Model that captures all possible cases"
-    },
-    {
-      "jargon": "Special cases",
-      "layman": "Known examples covered by the method"
+      "layman": "Perfectly accurate mathematical model"
     },
     {
       "jargon": "Combinatorial properties obtained",
-      "layman": "New rules emerge from structure"
+      "layman": "Structural patterns are fully formed"
     },
     {
-      "jargon": "Original category's properties",
-      "layman": "Existing features preserved"
+      "jargon": "Special cases explained",
+      "layman": "Known models are shown as examples"
     },
     {
-      "jargon": "Explains known models",
-      "layman": "Reveals how known models fit in"
+      "jargon": "Original category properties",
+      "layman": "Existing structure is preserved"
+    },
+    {
+      "jargon": "Large family of degenerates",
+      "layman": "Many weak versions are covered"
     }
   ]
 }

@@ -6,19 +6,19 @@
     },
     {
       "jargon": "clinical pathway",
-      "layman": "standardized treatment plan"
-    },
-    {
-      "jargon": "hospitalized patients",
-      "layman": "patients in the hospital"
-    },
-    {
-      "jargon": "oxygen therapy",
-      "layman": "oxygen treatment"
+      "layman": "standard treatment plan"
     },
     {
       "jargon": "noninvasive positive pressure ventilation",
-      "layman": "breathing support without intubation"
+      "layman": "breathing support without tubes"
+    },
+    {
+      "jargon": "oxygen therapy",
+      "layman": "oxygen given to patients"
+    },
+    {
+      "jargon": "intubation",
+      "layman": "tube inserted into windpipe"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "tracking data as events happen"
     },
     {
-      "jargon": "clinical pathway design",
-      "layman": "creating a step-by-step treatment guide"
-    },
-    {
       "jargon": "total quality management",
       "layman": "system to improve care quality"
     },
     {
-      "jargon": "healthcare provider check",
-      "layman": "doctors follow a treatment checklist"
+      "jargon": "clinical guidelines",
+      "layman": "standard recommendations for treatment"
     },
     {
-      "jargon": "randomized controlled trials",
-      "layman": "experiments with random patient assignment"
+      "jargon": "treatment protocol",
+      "layman": "step-by-step care plan"
+    },
+    {
+      "jargon": "health care provider check",
+      "layman": "doctors follow a treatment chart"
     }
   ],
   "outcomes": [
     {
       "jargon": "dropout rate",
-      "layman": "treatment stopped"
+      "layman": "treatment stopped midway"
     },
     {
       "jargon": "mortality rate",
       "layman": "death rate in hospital"
     },
     {
-      "jargon": "oxygen administration rate",
-      "layman": "how often oxygen was given"
-    },
-    {
-      "jargon": "intubation rate",
-      "layman": "how often patients needed breathing tube"
+      "jargon": "length of stay",
+      "layman": "how long patients stay in hospital"
     },
     {
       "jargon": "average length of stay",
-      "layman": "average hospital stay duration"
+      "layman": "typical hospital stay"
+    },
+    {
+      "jargon": "complications",
+      "layman": "unexpected health problems"
     }
   ]
 }

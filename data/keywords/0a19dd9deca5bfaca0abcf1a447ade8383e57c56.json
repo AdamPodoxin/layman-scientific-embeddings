@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "rheumatoid arthritis",
-      "layman": "autoimmune joint disease"
+      "layman": "rheumatoid arthritis"
     },
     {
       "jargon": "comorbidities",
-      "layman": "other health conditions"
+      "layman": "other diseases alongside RA"
     },
     {
       "jargon": "cardiovascular disease",
-      "layman": "heart disease"
+      "layman": "heart-related disease"
     },
     {
       "jargon": "hypertension",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "clinical research associates",
-      "layman": "trained staff collecting data"
+      "layman": "trained researchers collecting data"
     },
     {
-      "jargon": "interview and chart verification",
-      "layman": "talk to patients and check medical records"
+      "jargon": "patient records verification",
+      "layman": "checking medical files"
     },
     {
       "jargon": "demographic factors",
-      "layman": "age, gender, and background details"
+      "layman": "age, gender, etc. of patients"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "male-to-female ratio",
-      "layman": "ratio of men to women"
+      "layman": "how many males vs females"
     },
     {
-      "jargon": "hypercholesterolemia",
-      "layman": "high cholesterol"
+      "jargon": "statistically significant",
+      "layman": "clear and important difference"
     },
     {
-      "jargon": "depression",
-      "layman": "feeling sad or hopeless"
+      "jargon": "age-related increase in comorbidity",
+      "layman": "more comorbidities in older patients"
     }
   ]
 }

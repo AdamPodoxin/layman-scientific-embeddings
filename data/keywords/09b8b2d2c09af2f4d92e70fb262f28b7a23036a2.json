@@ -1,7 +1,7 @@
 {
   "core_entities": [
     {
-      "jargon": "Supercapitalism",
+      "jargon": "Super capitalism",
       "layman": "Globalized, deregulated capitalism"
     },
     {
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Globalization",
-      "layman": "Worldwide economic integration"
+      "layman": "Worldwide economic connections"
     },
     {
       "jargon": "Deregulation",
-      "layman": "Reduced government rules on markets"
+      "layman": "Reduced government rules on business"
     },
     {
-      "jargon": "Labor unions",
-      "layman": "Worker groups that negotiate wages"
+      "jargon": "Labor income",
+      "layman": "Wages earned by workers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Lobbying",
-      "layman": "Influencing laws through pressure"
-    },
-    {
-      "jargon": "Market efficiency",
-      "layman": "Markets quickly responding to demand"
-    },
-    {
-      "jargon": "Wage determination",
-      "layman": "How wages are set in the market"
-    },
-    {
-      "jargon": "Regulatory agencies",
-      "layman": "Government bodies that set rules"
+      "layman": "Influencing policy through pressure"
     },
     {
       "jargon": "Aggregate demand",
       "layman": "Total demand from many people"
+    },
+    {
+      "jargon": "Market pricing",
+      "layman": "Prices formed by supply and demand"
+    },
+    {
+      "jargon": "Wage determination",
+      "layman": "How wages are set"
+    },
+    {
+      "jargon": "Regulatory agencies",
+      "layman": "Government bodies that set rules"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Income inequality",
+      "jargon": "Economic pie enlargement",
+      "layman": "Greater total wealth"
+    },
+    {
+      "jargon": "Income disparity",
       "layman": "Growing gap between rich and poor"
     },
     {
       "jargon": "Decline of public interest institutions",
-      "layman": "Loss of government bodies defining public needs"
-    },
-    {
-      "jargon": "Loss of worker income",
-      "layman": "Wages falling behind consumer deals"
+      "layman": "Loss of government bodies defining public good"
     },
     {
       "jargon": "Corporate takeover of democracy",
-      "layman": "Big businesses controlling politics"
+      "layman": "Big companies control policymaking"
     },
     {
-      "jargon": "Economic pie enlargement",
-      "layman": "More total wealth created"
+      "jargon": "Loss of union power",
+      "layman": "Labor unions have less influence"
     }
   ]
 }

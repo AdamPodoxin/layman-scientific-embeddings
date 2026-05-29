@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Capital goods",
-      "layman": "Tools and machinery used in production"
+      "layman": "Materials used in production"
     },
     {
       "jargon": "Producers",
-      "layman": "Firms or companies making goods"
-    },
-    {
-      "jargon": "Technological change",
-      "layman": "Improvements in production methods"
+      "layman": "Firms that make goods"
     },
     {
       "jargon": "Economic change",
-      "layman": "Shifts in the economy over time"
+      "layman": "Shifts in the economy"
     },
     {
-      "jargon": "Production function",
-      "layman": "How inputs create outputs"
+      "jargon": "Technological change",
+      "layman": "Improvements in technology"
+    },
+    {
+      "jargon": "Capital circulation",
+      "layman": "Movement of capital between producers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Macroeconometric models",
-      "layman": "Large-scale economic models using math and data"
+      "layman": "Economic models using data and math"
     },
     {
-      "jargon": "Disaggregation",
-      "layman": "Breaking down a whole into smaller parts"
+      "jargon": "Disaggregation of production function",
+      "layman": "Breaking down production into parts"
     },
     {
-      "jargon": "Network analysis",
-      "layman": "Mapping how things connect and exchange"
-    },
-    {
-      "jargon": "Capital circulation",
-      "layman": "Flow of tools and machinery among producers"
+      "jargon": "Exchanges network",
+      "layman": "Network of business trades"
     },
     {
       "jargon": "Coordination problems",
-      "layman": "Difficulties in aligning producer actions"
+      "layman": "Problems in aligning producer plans"
+    },
+    {
+      "jargon": "Cycles and fluctuations",
+      "layman": "Economic ups and downs"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Economic expansion"
     },
     {
-      "jargon": "Cycles and fluctuations",
-      "layman": "Rising and falling economic periods"
-    },
-    {
-      "jargon": "Spread of technological change",
-      "layman": "New technologies spreading through firms"
+      "jargon": "Technological spread",
+      "layman": "Tech spreading through business links"
     },
     {
       "jargon": "Coordination failures",
-      "layman": "Producers failing to work together"
+      "layman": "Poor alignment between producers"
     },
     {
-      "jargon": "Explanations of economic change",
-      "layman": "Reasons why the economy changes"
+      "jargon": "Fluctuations",
+      "layman": "Market swings"
+    },
+    {
+      "jargon": "Economic change explanation",
+      "layman": "Understanding how the economy shifts"
     }
   ]
 }

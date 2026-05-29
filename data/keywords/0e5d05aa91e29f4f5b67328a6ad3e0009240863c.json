@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Web applications",
-      "layman": "Online apps"
+      "layman": "Online websites or tools"
     },
     {
       "jargon": "Client-server architecture",
-      "layman": "Computer-to-server setup"
+      "layman": "Computer communication between user and server"
     },
     {
       "jargon": "XForms",
-      "layman": "Simple form system"
+      "layman": "Simple form system for websites"
     },
     {
       "jargon": "J2EE",
-      "layman": "Java server platform"
+      "layman": "Java platform for web backends"
     },
     {
       "jargon": "MVC model",
-      "layman": "Separate parts for data, logic, and interface"
+      "layman": "Separate parts for structure, input, and output"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Separate client and server concerns",
-      "layman": "Split app tasks between devices"
+      "jargon": "Separating client and server concerns",
+      "layman": "Splitting website tasks between user and server"
     },
     {
       "jargon": "Parameter passing",
-      "layman": "Sending data between parts"
+      "layman": "Sending simple data between user and server"
     },
     {
-      "jargon": "Automatic code generation",
-      "layman": "Build code automatically"
-    },
-    {
-      "jargon": "Data marshalling",
-      "layman": "Transfer data between systems"
+      "jargon": "Marshalling",
+      "layman": "Converting data between systems"
     },
     {
       "jargon": "Type checking",
-      "layman": "Check data types for errors"
+      "layman": "Checking data types for errors"
+    },
+    {
+      "jargon": "Automated code generation",
+      "layman": "Builder creates code automatically"
     }
   ],
   "outcomes": [
     {
       "jargon": "Reduced complexity",
-      "layman": "Simpler app design"
+      "layman": "Simpler web development"
     },
     {
-      "jargon": "Validation on client and server",
-      "layman": "Double data checks"
+      "jargon": "Validation on both client and server",
+      "layman": "Safety checks on both user and server sides"
     },
     {
       "jargon": "Customization for devices",
-      "layman": "Adapt to different screens"
+      "layman": "Works on different devices like phones or tablets"
     },
     {
       "jargon": "Simplified programming model",
-      "layman": "Easier app building"
+      "layman": "Easy-to-use way to build forms"
     },
     {
-      "jargon": "Improved deployment",
-      "layman": "Faster app release"
+      "jargon": "Automatic code generation",
+      "layman": "Code built without manual typing"
     }
   ]
 }

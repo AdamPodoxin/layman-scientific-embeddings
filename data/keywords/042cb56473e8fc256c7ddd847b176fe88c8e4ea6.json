@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Galois groups",
-      "layman": "Mathematical group describing symmetry of solutions"
+      "layman": "Mathematical symmetry groups"
     },
     {
       "jargon": "Schubert problems",
-      "layman": "Problems about intersecting geometric shapes"
+      "layman": "Geometry puzzles about intersecting shapes"
     },
     {
       "jargon": "3-planes",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Numerical homotopy continuation",
-      "layman": "Tracking solutions through continuous changes"
+      "layman": "Path tracing to find solutions"
     },
     {
       "jargon": "Polynomial equations",
-      "layman": "Equations with multiple variables and powers"
-    },
-    {
-      "jargon": "Homotopy computation",
-      "layman": "Computing paths between equations"
+      "layman": "Equations with multiple variables"
     },
     {
       "jargon": "Direct computation",
-      "layman": "Direct calculation without approximation"
+      "layman": "Straightforward computer calculation"
+    },
+    {
+      "jargon": "Homotopy computation",
+      "layman": "Smoothly deforming problems to solve"
     },
     {
       "jargon": "Algebraic geometry",
-      "layman": "Study of shapes defined by equations"
+      "layman": "Geometry using equations"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Non-trivial intersection",
-      "layman": "Intersection that isn't just a point"
-    },
-    {
-      "jargon": "Solutions to polynomial equations",
-      "layman": "Points where equations are satisfied"
-    },
-    {
-      "jargon": "Symmetric group",
-      "layman": "Group where all orderings are allowed"
+      "layman": "Intersections that don't just touch"
     },
     {
       "jargon": "Galois group determination",
-      "layman": "Finding the symmetry of a mathematical solution set"
+      "layman": "Figuring out symmetry of solutions"
+    },
+    {
+      "jargon": "Fixed 5-planes",
+      "layman": "Set 5-dimensional spaces in place"
+    },
+    {
+      "jargon": "Intersection of geometric objects",
+      "layman": "Where shapes meet in space"
     }
   ]
 }

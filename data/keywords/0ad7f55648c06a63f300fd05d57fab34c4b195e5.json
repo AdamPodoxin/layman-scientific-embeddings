@@ -9,38 +9,38 @@
       "layman": "Collections of open sets covering a space"
     },
     {
-      "jargon": "Sequences of open covers",
-      "layman": "Lists of open sets covering a space over time"
+      "jargon": "Finite or countable unions",
+      "layman": "Finitely or countably many combined sets"
+    },
+    {
+      "jargon": "Diagonalization properties",
+      "layman": "Specific behaviors in set constructions"
     },
     {
       "jargon": "Rudin-Keisler ordering",
-      "layman": "Way of comparing filter structures"
-    },
-    {
-      "jargon": "Filters",
-      "layman": "Collections of sets with shared properties"
+      "layman": "Hierarchy of filter types"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Diagonalization properties",
-      "layman": "Testing how properties behave under changes"
-    },
     {
       "jargon": "Taking unions",
       "layman": "Combining sets together"
     },
     {
-      "jargon": "Finite or countable unions",
-      "layman": "Adding a finite or countable number of sets"
-    },
-    {
-      "jargon": "Near Coherence of Filters (NCF)",
-      "layman": "A rule about how filters relate to each other"
+      "jargon": "Proof by contradiction",
+      "layman": "Showing a statement is false by assuming it's true"
     },
     {
       "jargon": "Surveying known results",
-      "layman": "Reviewing previous findings"
+      "layman": "Reviewing existing findings"
+    },
+    {
+      "jargon": "Relating to NCF axiom",
+      "layman": "Connecting to filter consistency rule"
+    },
+    {
+      "jargon": "Near Coherence of Filters",
+      "layman": "Rule about filters being close in structure"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Not provably closed under finite unions",
-      "layman": "Doesn't always hold when combining a few sets"
+      "layman": "Doesn't always work with small set combinations"
     },
     {
       "jargon": "Consistently closed under unions below continuum",
-      "layman": "Works under certain large set conditions"
+      "layman": "Works under certain infinite sizes"
     },
     {
-      "jargon": "Settle the problem",
-      "layman": "Resolve the open question"
+      "jargon": "Proved one property closed",
+      "layman": "One rule confirmed to hold after testing"
     },
     {
-      "jargon": "Combinatorial version of the problem",
-      "layman": "A simplified mathematical version of the issue"
+      "jargon": "Problem settled",
+      "layman": "Question finally answered"
     }
   ]
 }

@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Employee motivation",
-      "layman": "Workers' drive to do well"
+      "layman": "Employees' drive to do well"
     },
     {
       "jargon": "Corporate culture",
-      "layman": "Company's shared values"
+      "layman": "Company's values and norms"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Empirical examination",
-      "layman": "Testing with real data"
+      "layman": "Studying real-world data"
     },
     {
       "jargon": "Rich dataset",
-      "layman": "Large, detailed data set"
+      "layman": "Large, detailed data collection"
+    },
+    {
+      "jargon": "Firm-level equivalent",
+      "layman": "Company-level version"
     },
     {
       "jargon": "Staking personal reputation",
       "layman": "Putting one's name on the line"
-    },
-    {
-      "jargon": "Asset control",
-      "layman": "Holding key resources"
     }
   ],
   "outcomes": [
-    {
-      "jargon": "Private benefits",
-      "layman": "Personal gains from decisions"
-    },
-    {
-      "jargon": "Employee motivation decline",
-      "layman": "Workers lose energy"
-    },
     {
       "jargon": "Credible commitments",
       "layman": "Strong promises that can't be broken"
     },
     {
-      "jargon": "Managerial proclivities",
-      "layman": "Manager's tendencies to act"
+      "jargon": "Private benefits",
+      "layman": "Personal gains from bad decisions"
     },
     {
-      "jargon": "Firm-level equivalent",
-      "layman": "Company-level version of a known problem"
+      "jargon": "Harmed employee motivation",
+      "layman": "Employees lose drive"
+    },
+    {
+      "jargon": "Avoiding bad intervention",
+      "layman": "Stopping harmful decisions"
+    },
+    {
+      "jargon": "Maximizing good cause intervention",
+      "layman": "Only allowing helpful decisions"
     }
   ]
 }

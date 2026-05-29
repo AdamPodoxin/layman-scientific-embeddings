@@ -5,30 +5,30 @@
       "layman": "Changing structure of networks"
     },
     {
-      "jargon": "Embedded item",
-      "layman": "Object within a network"
-    },
-    {
       "jargon": "Context graph",
       "layman": "Surrounding network structure"
     },
     {
-      "jargon": "Monic match",
-      "layman": "Unique matching in a network"
+      "jargon": "Monic matches",
+      "layman": "One-to-one matching in graphs"
+    },
+    {
+      "jargon": "Embedded item",
+      "layman": "Object within a network"
     },
     {
       "jargon": "Clone",
-      "layman": "Copy of an object"
+      "layman": "Copy of an item"
     }
   ],
   "methodologies": [
     {
       "jargon": "Algebraic approaches",
-      "layman": "Math-based network rules"
+      "layman": "Mathematical methods for graph change"
     },
     {
-      "jargon": "Rule specification",
-      "layman": "Defining how changes happen"
+      "jargon": "Rule-based rewriting",
+      "layman": "Rules for transforming structures"
     },
     {
       "jargon": "Conservative extension",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Controlled embedding",
-      "layman": "Managing how parts are placed"
+      "layman": "Managing how objects connect after change"
     },
     {
       "jargon": "Preserved connections",
-      "layman": "Keeping links intact"
+      "layman": "Keeping links between parts intact"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Preserved items",
-      "layman": "Items kept unchanged"
+      "jargon": "Original and copy handled differently",
+      "layman": "Different treatment for original and copy"
     },
     {
-      "jargon": "Different embeddings",
-      "layman": "Different placements in network"
+      "jargon": "Item preserved with context",
+      "layman": "Object keeps its links after change"
     },
     {
-      "jargon": "Original and copy",
-      "layman": "Original and its copy"
+      "jargon": "Embedding specification",
+      "layman": "Defining how connections are managed"
     },
     {
-      "jargon": "Context-aware rules",
-      "layman": "Rules that see surroundings"
+      "jargon": "Monic match preservation",
+      "layman": "One-to-one connection kept safe"
     },
     {
-      "jargon": "Controlled changes",
-      "layman": "Changes with specific settings"
+      "jargon": "Controlled rewriting",
+      "layman": "Rewriting with specific connection rules"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Inductive-deductive systems",
-      "layman": "Systems that combine reasoning and learning"
+      "layman": "Systems that combine learning and logical reasoning"
     },
     {
       "jargon": "Mathematical logic",
-      "layman": "Rules of logical reasoning"
+      "layman": "Rules for reasoning about truth and proofs"
     },
     {
       "jargon": "Statistical learning",
@@ -14,17 +14,17 @@
     },
     {
       "jargon": "Arithmetic",
-      "layman": "Basic number operations"
+      "layman": "Basic math operations"
     },
     {
       "jargon": "Axioms",
-      "layman": "Starting truths in a system"
+      "layman": "Starting assumptions in a system"
     }
   ],
   "methodologies": [
     {
       "jargon": "Probabilistic analysis",
-      "layman": "Analysis using probabilities"
+      "layman": "Analysis based on likely outcomes"
     },
     {
       "jargon": "Worst-case analysis",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Convergence of axioms",
-      "layman": "Axioms getting closer to the target"
+      "layman": "Axioms getting closer to the target rule"
     },
     {
       "jargon": "Turing oracles",
-      "layman": "AI that guesses truth of statements"
+      "layman": "Hypothetical tools that answer truth questions"
     },
     {
       "jargon": "Computable approximations",
-      "layman": "Close estimates that can be calculated"
+      "layman": "Estimated answers that can be calculated"
     }
   ],
   "outcomes": [
     {
       "jargon": "Non-decidable clauses",
-      "layman": "Statements that can't be proven true or false"
+      "layman": "Statements that cannot be proven or disproven"
     },
     {
       "jargon": "Convergence rate",
-      "layman": "How fast things settle down"
+      "layman": "Speed at which answers get closer to correct ones"
     },
     {
       "jargon": "Completeness",
-      "layman": "All correct answers are found"
+      "layman": "System reaching full correctness"
     },
     {
-      "jargon": "Incompleteness of arithmetic",
-      "layman": "Some truths can't be proven in math"
+      "jargon": "Logical complexity",
+      "layman": "How hard it is to reason using logical rules"
     },
     {
       "jargon": "Real-world domain applications",
-      "layman": "Practical uses in everyday situations"
+      "layman": "Practical use in real-life situations"
     }
   ]
 }

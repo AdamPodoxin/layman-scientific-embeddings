@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Host",
-      "layman": "Main organism"
+      "layman": "Main animal host"
     },
     {
       "jargon": "Genetic variants",
-      "layman": "Different gene versions"
+      "layman": "Different versions of genes"
     },
     {
       "jargon": "Colonization mechanisms",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Genetic manipulation",
-      "layman": "Changing genes in organisms"
+      "layman": "Changing genes in labs"
     },
     {
       "jargon": "Experimental introduction",
-      "layman": "Adding bacteria to hosts in tests"
-    },
-    {
-      "jargon": "Biochemical communication",
-      "layman": "Chemical messaging between organisms"
+      "layman": "Adding bacteria to new hosts"
     },
     {
       "jargon": "Molecular basis",
-      "layman": "Exact biological explanation"
+      "layman": "How something works at the molecular level"
+    },
+    {
+      "jargon": "Model systems",
+      "layman": "Simple systems used for study"
     }
   ],
   "outcomes": [
     {
       "jargon": "Novel colonization mechanisms",
-      "layman": "New ways bacteria take root"
+      "layman": "New ways bacteria settle"
     },
     {
       "jargon": "Normal host development",
-      "layman": "Healthy growth of host"
+      "layman": "Healthy growth of the animal"
+    },
+    {
+      "jargon": "Biochemical communication",
+      "layman": "Chemical messaging between partners"
     },
     {
       "jargon": "Inducing development",
-      "layman": "Triggering growth"
+      "layman": "Causing healthy growth"
     },
     {
       "jargon": "Genetic interrogation",
       "layman": "Deep gene analysis"
-    },
-    {
-      "jargon": "Model systems",
-      "layman": "Well-studied examples"
     }
   ]
 }

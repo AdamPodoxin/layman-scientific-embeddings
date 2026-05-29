@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Skill",
-      "layman": "Ability to do a job well"
+      "layman": "Ability to do a task"
     },
     {
       "jargon": "Gender bias",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Comparable worth",
-      "layman": "Equal pay for similar work"
+      "layman": "Fair pay for similar work"
     },
     {
       "jargon": "Labor market",
-      "layman": "Where jobs and workers meet"
+      "layman": "Where jobs and wages are set"
     }
   ],
   "methodologies": [
     {
       "jargon": "Identification of sources",
-      "layman": "Finding where bias comes from"
+      "layman": "Finding the roots"
     },
     {
-      "jargon": "Political action",
-      "layman": "Decisions made through power and influence"
+      "jargon": "Examination of pay equity initiatives",
+      "layman": "Looking at fair pay efforts"
     },
     {
       "jargon": "Social construction",
-      "layman": "Creating ideas through culture and power"
+      "layman": "Building things through society"
     },
     {
-      "jargon": "Pay equity initiatives",
-      "layman": "Efforts to ensure fair pay"
+      "jargon": "Political action",
+      "layman": "Actions by groups to change rules"
     },
     {
-      "jargon": "Conflictual process",
-      "layman": "Process with opposing forces"
+      "jargon": "Power relations",
+      "layman": "How power is shared or held"
     }
   ],
   "outcomes": [
     {
       "jargon": "Simple definitions of skill",
-      "layman": "Easy, basic views of ability"
+      "layman": "Basic views of what skill is"
     },
     {
-      "jargon": "Power relations",
-      "layman": "How power affects outcomes"
-    },
-    {
-      "jargon": "Gendered character",
-      "layman": "Gender-based patterns in jobs"
+      "jargon": "Conflictual process",
+      "layman": "Tension or struggle in process"
     },
     {
       "jargon": "New definitions of skill",
-      "layman": "Updated views of what counts as skill"
+      "layman": "Updated views of what skill is"
     },
     {
       "jargon": "Blocked definitions",
-      "layman": "New ideas that are rejected"
+      "layman": "Rejected or stopped ideas"
+    },
+    {
+      "jargon": "Gendered character of labor market",
+      "layman": "Gender-based patterns in jobs"
     }
   ]
 }

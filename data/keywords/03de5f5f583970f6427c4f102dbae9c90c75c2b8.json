@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Black hole thermodynamics",
-      "layman": "Heat and energy behavior of black holes"
+      "layman": "Heat behavior of black holes"
     },
     {
       "jargon": "Microscopical degrees of freedom",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Spatial region",
-      "layman": "Area of space"
+      "layman": "Piece of space"
     },
     {
       "jargon": "Geometry",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Nonstandard statistics",
-      "layman": "Unusual statistical rules"
+      "layman": "Unusual way of counting states"
     },
     {
       "jargon": "Statistical correlation",
-      "layman": "Connection between data points"
+      "layman": "Tied probability patterns"
+    },
+    {
+      "jargon": "Entropy scaling",
+      "layman": "How disorder grows with space"
     },
     {
       "jargon": "Holographic hypothesis",
       "layman": "Theory that space is encoded on its surface"
     },
     {
-      "jargon": "Entropy scaling",
-      "layman": "How disorder grows with space size"
-    },
-    {
-      "jargon": "Microscopic correlations",
-      "layman": "Tiny connections between parts"
+      "jargon": "Physical modeling",
+      "layman": "Creating a simplified version of reality"
     }
   ],
   "outcomes": [
     {
       "jargon": "Entropy scales with area",
-      "layman": "Disorder grows with surface, not volume"
+      "layman": "Disorder grows with surface size"
+    },
+    {
+      "jargon": "Area law",
+      "layman": "Entropy depends on surface, not volume"
     },
     {
       "jargon": "No need for holography",
-      "layman": "No need for surface-based theory"
+      "layman": "No need for surface theory"
     },
     {
-      "jargon": "Gravitation affects statistics",
-      "layman": "Gravity changes how things behave"
+      "jargon": "Statistical explanation of gravity",
+      "layman": "Gravity from counting rules"
     },
     {
-      "jargon": "Degrees of freedom are correlated",
-      "layman": "Small parts influence each other"
-    },
-    {
-      "jargon": "Statistical behavior of space",
-      "layman": "How space behaves like a system"
+      "jargon": "Degrees of freedom connected",
+      "layman": "Building blocks linked together"
     }
   ]
 }

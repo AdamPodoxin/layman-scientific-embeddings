@@ -2,37 +2,37 @@
   "core_entities": [
     {
       "jargon": "Object-oriented systems",
-      "layman": "Software built around objects"
+      "layman": "Systems built with objects"
     },
     {
       "jargon": "Code inspection",
-      "layman": "Reviewing code for errors"
+      "layman": "Reviewing source code"
     },
     {
       "jargon": "Procedural systems",
-      "layman": "Traditional software with step-by-step functions"
+      "layman": "Systems based on procedures"
     },
     {
       "jargon": "Use-case",
-      "layman": "User action in a system"
+      "layman": "User action scenario"
     },
     {
       "jargon": "Non-local references",
-      "layman": "References to code far away"
+      "layman": "References to distant code parts"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Checklist",
-      "layman": "Step-by-step list"
+      "jargon": "Checklist-based inspection",
+      "layman": "Using a checklist to review code"
     },
     {
       "jargon": "Abstract specifications",
-      "layman": "Simple descriptions of what code should do"
+      "layman": "Creating simplified system models"
     },
     {
-      "jargon": "Use-case route",
-      "layman": "Path a user action takes through software"
+      "jargon": "Use-case trajectory",
+      "layman": "Tracking how a user action moves through code"
     },
     {
       "jargon": "Empirical studies",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Defect detection",
-      "layman": "Finding software bugs"
+      "layman": "Finding bugs in code"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Effective inspections",
-      "layman": "Good bug finding"
-    },
-    {
-      "jargon": "Rigorous approach",
-      "layman": "Strict and reliable method"
-    },
-    {
-      "jargon": "Best results",
-      "layman": "Optimal outcomes"
+      "jargon": "Most effective approach",
+      "layman": "Best method for code review"
     },
     {
       "jargon": "Combination of techniques",
-      "layman": "Mixing methods for better results"
+      "layman": "Mix of methods for best results"
+    },
+    {
+      "jargon": "Structural and execution models",
+      "layman": "How systems are built and run"
+    },
+    {
+      "jargon": "Inspection techniques",
+      "layman": "Code review methods"
     },
     {
       "jargon": "Frequent non-local references",
-      "layman": "Common hard-to-follow code links"
+      "layman": "Often misunderstood code links"
     }
   ]
 }

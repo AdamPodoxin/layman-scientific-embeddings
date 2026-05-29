@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Diazirinyl anion",
-      "layman": "Cyclic chemical structure"
+      "layman": "Cyclic anion with nitrogen and carbon"
     },
     {
       "jargon": "tert-Butyldiazirine",
@@ -14,33 +14,33 @@
     },
     {
       "jargon": "Parent compound",
-      "layman": "Base chemical form"
+      "layman": "Original molecule in a reaction"
     },
     {
       "jargon": "4.pi.-electron system",
-      "layman": "Electron arrangement in a ring"
+      "layman": "Electron ring in a molecule"
     }
   ],
   "methodologies": [
     {
       "jargon": "Elimination reaction",
-      "layman": "Chemical bond removal"
+      "layman": "Chemical reaction removing atoms"
     },
     {
-      "jargon": "Reactivity analysis",
-      "layman": "Testing how chemicals react"
+      "jargon": "Reactivity",
+      "layman": "How a chemical responds to reactions"
     },
     {
-      "jargon": "Structure determination",
-      "layman": "Figuring out molecular shape"
+      "jargon": "Proton affinity",
+      "layman": "How well a molecule grabs a proton"
     },
     {
-      "jargon": "Proton affinity measurement",
-      "layman": "Measuring how well a molecule grabs a proton"
+      "jargon": "Structure description",
+      "layman": "Shape analysis of a molecule"
     },
     {
-      "jargon": "Stability assessment",
-      "layman": "Evaluating how long a molecule lasts"
+      "jargon": "Reaction pathway",
+      "layman": "Sequence of chemical changes"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Similar reactivity",
-      "layman": "Same chemical behavior"
-    },
-    {
-      "jargon": "Structure described",
-      "layman": "Molecular shape explained"
-    },
-    {
-      "jargon": "Proton affinity described",
-      "layman": "How strongly it grabs protons explained"
+      "layman": "Same response in chemical reactions"
     },
     {
       "jargon": "No \u03b2-hydrogen",
-      "layman": "No hydrogen on adjacent carbon"
+      "layman": "No hydrogen atom in key position"
+    },
+    {
+      "jargon": "Structural stability",
+      "layman": "Molecule stays unchanged"
+    },
+    {
+      "jargon": "Charge distribution",
+      "layman": "Where charges are held in the molecule"
     }
   ]
 }

@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Caste",
-      "layman": "Social group"
+      "layman": "Social class"
     },
     {
       "jargon": "Kin-based collectives",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Political organisation",
-      "layman": "Way people govern"
+      "layman": "Government structure"
     },
     {
       "jargon": "Religion",
@@ -28,15 +28,15 @@
     },
     {
       "jargon": "Social and economic background",
-      "layman": "People's income and class"
+      "layman": "People's lifestyle and wealth"
     },
     {
       "jargon": "Political development",
-      "layman": "Growth of political systems"
+      "layman": "Growth of government systems"
     },
     {
-      "jargon": "Institutional analysis",
-      "layman": "Studying how systems work"
+      "jargon": "Analysis of ancient texts",
+      "layman": "Study of old writings"
     },
     {
       "jargon": "Historical examination",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Origin of the state",
-      "layman": "Where government began"
+      "layman": "Where governments began"
     },
     {
       "jargon": "Nature of the state",
-      "layman": "What kind of government it is"
+      "layman": "What governments are like"
     },
     {
-      "jargon": "Changing social background",
-      "layman": "Shifting social conditions"
+      "jargon": "Role of religion in rule",
+      "layman": "How religion helped rulers"
     },
     {
-      "jargon": "Ruling class influence",
-      "layman": "Power of elite groups"
+      "jargon": "Institutional development",
+      "layman": "Growth of government systems"
     },
     {
-      "jargon": "Religion serving rulers",
-      "layman": "Religion used by leaders"
+      "jargon": "Changing social structures",
+      "layman": "Shifting social groups"
     }
   ]
 }

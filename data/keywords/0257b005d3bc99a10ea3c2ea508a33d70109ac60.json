@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Family physician",
-      "layman": "Family doctor"
+      "layman": "General doctor who cares for families"
     },
     {
       "jargon": "Pediatrician",
-      "layman": "Child specialist"
+      "layman": "Doctor who treats children"
     },
     {
-      "jargon": "Newborn",
-      "layman": "Newborn baby"
+      "jargon": "Neonatology",
+      "layman": "Care for newborns"
     },
     {
       "jargon": "Acute myocardial infarction",
-      "layman": "Heart attack"
+      "layman": "Sudden heart attack"
     },
     {
-      "jargon": "Resuscitation",
-      "layman": "Restarting breathing and heartbeat"
+      "jargon": "Newborns",
+      "layman": "Newly born babies"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Interspecialty relations",
-      "layman": "Collaboration between medical specialties"
+      "jargon": "Resuscitation",
+      "layman": "Restarting breathing and heartbeat"
     },
     {
       "jargon": "Diagnosis",
       "layman": "Identifying a medical condition"
     },
     {
+      "jargon": "Interdisciplinary relations",
+      "layman": "Collaboration between specialties"
+    },
+    {
       "jargon": "Patient care",
-      "layman": "Treating patients"
+      "layman": "Treating patients in a medical setting"
     },
     {
-      "jargon": "Clinical observation",
-      "layman": "Noticing symptoms in patients"
-    },
-    {
-      "jargon": "Medical evaluation",
-      "layman": "Checking a patient's health"
+      "jargon": "Clinical involvement",
+      "layman": "Direct medical engagement"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Chest pains",
+      "layman": "Pain in the chest"
+    },
     {
       "jargon": "Unique contributions",
       "layman": "Specialized strengths"
     },
     {
-      "jargon": "Better handling of medical issues",
-      "layman": "Better at managing certain problems"
+      "jargon": "Acute care settings",
+      "layman": "Emergency medical environments"
     },
     {
-      "jargon": "Recognized acute myocardial infarction",
-      "layman": "Detected a heart attack early"
+      "jargon": "Misdiagnosis",
+      "layman": "Wrong diagnosis"
     },
     {
-      "jargon": "Participated in resuscitation",
-      "layman": "Helped revive newborns"
-    },
-    {
-      "jargon": "Disparaging another specialty",
-      "layman": "Making negative comments about another doctor group"
+      "jargon": "Specialty expertise",
+      "layman": "Specialized knowledge"
     }
   ]
 }

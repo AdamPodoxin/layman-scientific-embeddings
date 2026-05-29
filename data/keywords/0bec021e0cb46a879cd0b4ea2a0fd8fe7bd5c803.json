@@ -13,34 +13,34 @@
       "layman": "Time-sensitive data flow"
     },
     {
-      "jargon": "End-to-end delays",
+      "jargon": "End-to-end delay",
       "layman": "Total time data takes to travel"
     },
     {
-      "jargon": "Response time",
-      "layman": "Time to respond to a request"
+      "jargon": "Flow",
+      "layman": "Data stream"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Stochastic Response Time Analysis",
-      "layman": "Probability-based delay analysis"
+      "jargon": "Deterministic schedulability analysis",
+      "layman": "Fixed time prediction"
     },
     {
-      "jargon": "Deterministic schedulability analysis",
-      "layman": "Fixed-time delay prediction"
+      "jargon": "Stochastic Response Time Analysis (RTA)",
+      "layman": "Probabilistic delay prediction"
     },
     {
       "jargon": "Simulation-based experiments",
-      "layman": "Computer simulations"
+      "layman": "Computer modeling tests"
     },
     {
-      "jargon": "Distribution of response times",
-      "layman": "Range of possible delay times"
+      "jargon": "Response time distribution",
+      "layman": "Range of possible delays"
     },
     {
       "jargon": "Deadline miss ratio",
-      "layman": "Percentage of missed deadlines"
+      "layman": "Fraction of missed deadlines"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Pessimism in analysis",
-      "layman": "Overestimation of delays"
+      "layman": "Too conservative estimates"
     },
     {
-      "jargon": "Scalability of the approach",
+      "jargon": "Scalability of analysis",
       "layman": "Performance at large scale"
+    },
+    {
+      "jargon": "Performance under soft real-time",
+      "layman": "Good enough timing, not perfect"
     },
     {
       "jargon": "Upper-bounds regarding different probabilities",
       "layman": "Delay limits at various chances"
-    },
-    {
-      "jargon": "Performance for soft real-time applications",
-      "layman": "Good enough timing for flexible tasks"
     }
   ]
 }

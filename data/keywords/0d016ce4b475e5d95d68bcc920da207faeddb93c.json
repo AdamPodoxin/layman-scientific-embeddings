@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "carbon nanotubes",
-      "layman": "tiny carbon tubes"
+      "layman": "tiny cylindrical carbon tubes"
     },
     {
       "jargon": "Inconel 600",
-      "layman": "heat-resistant metal sheet"
+      "layman": "strong metal plate"
     },
     {
       "jargon": "oxidized Inconel plates",
-      "layman": "metal plates treated with oxygen"
+      "layman": "Inconel plates treated with heat and oxygen"
     },
     {
       "jargon": "field electron emission",
-      "layman": "electrons emitted under electric field"
+      "layman": "electrons released under electric field"
     },
     {
-      "jargon": "scanning electron microscopy",
-      "layman": "microscope that scans surfaces"
+      "jargon": "substrate",
+      "layman": "base surface for growth"
     }
   ],
   "methodologies": [
     {
       "jargon": "plasma enhanced hot filament chemical vapor deposition",
-      "layman": "chemical process using plasma and heat to grow nanotubes"
+      "layman": "method to grow nanotubes using hot filament and gas"
     },
     {
-      "jargon": "oxidation treatment",
+      "jargon": "oxidation",
       "layman": "heating metal to react with oxygen"
     },
     {
+      "jargon": "scanning electron microscopy",
+      "layman": "microscope that scans surface with electrons"
+    },
+    {
       "jargon": "X-ray diffraction",
-      "layman": "test to identify crystal structure"
+      "layman": "test to detect crystal structure"
     },
     {
-      "jargon": "direct growth",
-      "layman": "growing nanotubes without catalysts"
-    },
-    {
-      "jargon": "field electron emission testing",
-      "layman": "measuring electron release under voltage"
+      "jargon": "gas mixture of methane and hydrogen",
+      "layman": "blend of methane and hydrogen gas used in growth"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "better uniformity",
-      "layman": "even and consistent growth"
+      "layman": "even height and structure"
     },
     {
-      "jargon": "higher treatment temperature",
-      "layman": "hotter heat treatment improves growth"
-    },
-    {
-      "jargon": "no catalyst addition",
-      "layman": "no extra chemicals used"
+      "jargon": "enhanced CNT growth",
+      "layman": "improved nanotube formation"
     },
     {
       "jargon": "better FEE characteristics",
       "layman": "better electron emission performance"
+    },
+    {
+      "jargon": "higher treatment temperature",
+      "layman": "higher heat for oxidation"
     }
   ]
 }

@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Heat of reaction",
-      "layman": "Energy change in a reaction"
+      "layman": "Energy released or absorbed in a reaction"
     }
   ],
   "methodologies": [
     {
       "jargon": "Critical survey",
-      "layman": "Careful review of existing data"
+      "layman": "Detailed review of existing data"
     },
     {
-      "jargon": "Tabulated data",
-      "layman": "Organized list of measurements"
+      "jargon": "Data tabulation",
+      "layman": "Organizing data into tables"
     },
     {
       "jargon": "Free energies",
-      "layman": "Energy available for work"
+      "layman": "Energy available in a reaction"
     },
     {
-      "jargon": "Reactions involving ions",
-      "layman": "Chemical changes with ions"
+      "jargon": "Reaction involving ions",
+      "layman": "Chemical reactions with ions"
     },
     {
-      "jargon": "Data collection",
-      "layman": "Gathering experimental results"
+      "jargon": "Consistent values",
+      "layman": "Same results across studies"
     }
   ],
   "outcomes": [
     {
       "jargon": "Remarkably consistent values",
-      "layman": "Very similar results across studies"
+      "layman": "Very similar results in different studies"
     },
     {
       "jargon": "Tabulated entropies",
-      "layman": "List of entropy values for ions"
+      "layman": "Listed disorder values for ions"
     },
     {
       "jargon": "Heats of reactions",
-      "layman": "Measured heat changes"
+      "layman": "Measured heat changes in reactions"
     },
     {
-      "jargon": "Free energies",
-      "layman": "Energy changes in reactions"
+      "jargon": "Free energies of reactions",
+      "layman": "Measured energy changes in reactions"
     },
     {
-      "jargon": "Consistent ionic entropies",
-      "layman": "Same level of disorder for ions"
+      "jargon": "Entropy of ions",
+      "layman": "How disordered ions are in water"
     }
   ]
 }

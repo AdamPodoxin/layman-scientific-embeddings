@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Archean magmatic rocks",
-      "layman": "Ancient volcanic rocks"
+      "layman": "Ancient volcanic and intrusive rocks"
     },
     {
       "jargon": "Brittle granide",
@@ -10,37 +10,37 @@
     },
     {
       "jargon": "Dioritoid",
-      "layman": "Dense, dark igneous rock"
+      "layman": "Dense, coarse-grained rock from ancient magma"
     },
     {
       "jargon": "Dike rock",
-      "layman": "Vertical rock sheets"
+      "layman": "Rock formed in vertical cracks"
     },
     {
       "jargon": "Reservoir space",
-      "layman": "Holes or gaps where oil or water can flow"
+      "layman": "Holes or spaces where oil or water can flow"
     }
   ],
   "methodologies": [
     {
       "jargon": "Core sampling",
-      "layman": "Drilling for rock samples"
+      "layman": "Drilling and collecting rock samples"
     },
     {
       "jargon": "Rock slice analysis",
-      "layman": "Cutting and studying rock slices"
+      "layman": "Examining thin rock slices"
     },
     {
       "jargon": "Cast preparation",
-      "layman": "Making rock molds from sediment"
+      "layman": "Creating molds of rock pores"
     },
     {
       "jargon": "Mercury penetration testing",
-      "layman": "Measuring how fluid enters rock"
+      "layman": "Measuring pore size with mercury"
     },
     {
-      "jargon": "Lithology analysis",
-      "layman": "Studying rock types"
+      "jargon": "Lithological analysis",
+      "layman": "Studying rock types and composition"
     }
   ],
   "outcomes": [
@@ -57,12 +57,12 @@
       "layman": "Rock with small holes and cracks"
     },
     {
-      "jargon": "Fractures as main reservoir spaces",
-      "layman": "Cracks are main flow paths"
+      "jargon": "Fractures as main reservoir space",
+      "layman": "Cracks are primary flow paths"
     },
     {
-      "jargon": "Dissolved pores and caverns",
-      "layman": "Small holes formed by water dissolving rock"
+      "jargon": "Controlled by tectonic disruption",
+      "layman": "Cracks formed by earth movements"
     }
   ]
 }

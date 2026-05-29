@@ -6,7 +6,7 @@
     },
     {
       "jargon": "K-12 programs",
-      "layman": "Education for students from kindergarten to 12th grade"
+      "layman": "Education for grades K-12"
     },
     {
       "jargon": "High school",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Undergraduate experience",
-      "layman": "College student experience"
+      "layman": "College-level learning experience"
     }
   ],
   "methodologies": [
     {
       "jargon": "Service-learning context",
-      "layman": "Learning through helping community"
+      "layman": "Learning through real-world community service"
     },
     {
       "jargon": "Long-term partnerships",
-      "layman": "Ongoing school-community agreements"
+      "layman": "Ongoing school-community relationships"
     },
     {
       "jargon": "Prototype development",
       "layman": "Building a working model"
     },
     {
-      "jargon": "Patent filing",
+      "jargon": "Patent process",
       "layman": "Protecting an invention legally"
     },
     {
       "jargon": "Idea to Product Competition",
-      "layman": "Showcasing ideas to win prizes"
+      "layman": "Competition to turn ideas into products"
     }
   ],
   "outcomes": [
     {
       "jargon": "Working prototype",
-      "layman": "Functional early version"
+      "layman": "Functional model built"
     },
     {
       "jargon": "Provisional patent",
-      "layman": "Temporary patent protection"
+      "layman": "Temporary invention protection"
     },
     {
       "jargon": "3rd place finish",
-      "layman": "Third best result in competition"
+      "layman": "Third-best result in competition"
     },
     {
       "jargon": "Curriculum integration",
-      "layman": "Adding to school classes"
+      "layman": "Adding program into school classes"
     },
     {
       "jargon": "Model modification",
-      "layman": "Adapting the program to fit high school"
+      "layman": "Adapting the program for high school"
     }
   ]
 }

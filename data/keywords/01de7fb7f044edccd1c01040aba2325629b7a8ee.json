@@ -1,8 +1,8 @@
 {
   "core_entities": [
     {
-      "jargon": "Labor market",
-      "layman": "Job market"
+      "jargon": "Labor markets",
+      "layman": "Job markets"
     },
     {
       "jargon": "Agents",
@@ -10,25 +10,25 @@
     },
     {
       "jargon": "Wages",
-      "layman": "Pay money"
+      "layman": "Paychecks"
     },
     {
       "jargon": "Employment status",
-      "layman": "Whether someone has a job"
+      "layman": "Working or not working"
     },
     {
       "jargon": "Network contacts",
-      "layman": "People connected through relationships"
+      "layman": "People connected through jobs"
     }
   ],
   "methodologies": [
     {
       "jargon": "Social network model",
-      "layman": "Model of how people share job info"
+      "layman": "Model using relationships between people"
     },
     {
       "jargon": "First order stochastic dominance",
-      "layman": "One outcome is consistently better"
+      "layman": "One outcome is better than another in all cases"
     },
     {
       "jargon": "Dynamics and patterns",
@@ -46,11 +46,7 @@
   "outcomes": [
     {
       "jargon": "Positive association",
-      "layman": "Jobs and wages go up together"
-    },
-    {
-      "jargon": "Persistent difference",
-      "layman": "Difference stays over time"
+      "layman": "Wages and jobs go up together"
     },
     {
       "jargon": "Increase in employment probability",
@@ -58,11 +54,15 @@
     },
     {
       "jargon": "Increase in expected wages",
-      "layman": "Higher pay expectations"
+      "layman": "Higher expected pay"
     },
     {
-      "jargon": "Wage status improvement",
-      "layman": "Better pay level"
+      "jargon": "Persistent wage difference",
+      "layman": "Wage gap stays over time"
+    },
+    {
+      "jargon": "Higher drop-out rate",
+      "layman": "More people leave the market"
     }
   ]
 }

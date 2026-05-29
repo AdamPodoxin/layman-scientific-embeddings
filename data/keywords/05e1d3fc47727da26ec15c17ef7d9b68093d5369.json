@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "anatase TiO2",
-      "layman": "a type of titanium dioxide"
+      "layman": "titanium dioxide crystal form"
     },
     {
       "jargon": "Ni, C co-doped",
-      "layman": "nickel and carbon together in material"
+      "layman": "nickel and carbon combined in material"
     },
     {
       "jargon": "band gap",
-      "layman": "energy barrier in material"
+      "layman": "energy barrier for electrons"
     },
     {
-      "jargon": "optical absorption",
-      "layman": "how material absorbs light"
+      "jargon": "doping",
+      "layman": "adding foreign atoms to material"
     },
     {
       "jargon": "photocatalytic activity",
-      "layman": "ability to drive chemical reactions with light"
+      "layman": "ability to drive chemical reactions using light"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "pseudopotential plane wave approach",
-      "layman": "simplified model for atomic structure"
+      "layman": "simplified model for atom interactions"
     },
     {
       "jargon": "HSE06 hybrid functional calculation",
-      "layman": "advanced computer method for energy levels"
+      "layman": "advanced computer method for accurate energy analysis"
     },
     {
       "jargon": "Gaussian type of orbital",
-      "layman": "mathematical shape for electron waves"
+      "layman": "basis function used in calculations"
     },
     {
       "jargon": "impurity formation energy",
-      "layman": "how hard it is for atoms to join the material"
+      "layman": "energy needed to add a foreign atom"
     }
   ],
   "outcomes": [
     {
       "jargon": "lowest impurity formation energy",
-      "layman": "easiest for atoms to join"
+      "layman": "easiest to add impurity"
     },
     {
       "jargon": "smallest direct band gap",
-      "layman": "narrower energy barrier"
+      "layman": "narrower energy gap between bands"
     },
     {
       "jargon": "red-shift in absorption band edge",
-      "layman": "absorbs longer light wavelengths"
+      "layman": "absorbs longer wavelength light"
     },
     {
       "jargon": "absorb more visible light",
-      "layman": "takes in more visible light"
+      "layman": "takes in more sunlight"
     },
     {
       "jargon": "higher photocatalytic activity",
-      "layman": "better at using light to trigger reactions"
+      "layman": "better at using light to do chemical work"
     }
   ]
 }

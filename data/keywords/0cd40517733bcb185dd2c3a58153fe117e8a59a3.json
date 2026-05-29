@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Linoleic acid",
-      "layman": "Healthy fat in food"
+      "layman": "Essential fatty acid"
     },
     {
       "jargon": "Hydrophobic residues",
       "layman": "Water-repelling parts of proteins"
     },
     {
-      "jargon": "Conformation",
-      "layman": "Shape of a molecule"
+      "jargon": "Polypeptide chain",
+      "layman": " Protein backbone"
     },
     {
-      "jargon": "Phase diagram",
-      "layman": "Temperature and shape change chart"
+      "jargon": "Conformation",
+      "layman": "Protein shape"
     }
   ],
   "methodologies": [
     {
       "jargon": "Fluorescence spectroscopy",
-      "layman": "Light-based shape detection"
+      "layman": "Light-based protein shape detection"
     },
     {
       "jargon": "Molecular modeling",
       "layman": "Computer simulation of molecules"
     },
     {
+      "jargon": "Phase diagram",
+      "layman": "Temperature and shape change chart"
+    },
+    {
       "jargon": "Thermal treatment",
       "layman": "Heating process"
     },
     {
-      "jargon": "Polypeptide chain rearrangements",
-      "layman": "Protein chain reorganizes"
-    },
-    {
-      "jargon": "Surface area interaction",
-      "layman": "Molecule contact area"
+      "jargon": "Binding interaction",
+      "layman": "Molecules sticking together"
     }
   ],
   "outcomes": [
     {
       "jargon": "Increased fluorescence intensity",
-      "layman": "More light detected"
+      "layman": "Brighter light signal"
+    },
+    {
+      "jargon": "Hydrophobic exposure",
+      "layman": "Water-repelling parts become visible"
     },
     {
       "jargon": "All or none transition",
-      "layman": "Sharp shape change"
+      "layman": "Sudden shape change"
     },
     {
-      "jargon": "High temperature stability",
-      "layman": "Stays stable when heated"
-    },
-    {
-      "jargon": "Good affinity",
-      "layman": "Strong bond between molecules"
+      "jargon": "Affinity between components",
+      "layman": "Strong molecular connection"
     },
     {
       "jargon": "No loss of LA binding",
-      "layman": "Fat stays attached after heating"
+      "layman": "Fatty acid stays attached after heating"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Born global companies",
-      "layman": "New companies that start internationally"
+      "layman": "New international companies"
     },
     {
       "jargon": "Information technology (IT) capabilities",
@@ -13,56 +13,56 @@
       "layman": "Steps to go global"
     },
     {
-      "jargon": "Market entry",
-      "layman": "Entering new markets"
+      "jargon": "Small and medium enterprises (SMEs)",
+      "layman": "Small to medium businesses"
     },
     {
-      "jargon": "Competitive advantage",
-      "layman": "Edge over other companies"
+      "jargon": "Market entry",
+      "layman": "Going into new markets"
     }
   ],
   "methodologies": [
     {
       "jargon": "Internationalization stages",
-      "layman": "Step-by-step global growth"
+      "layman": "Step-by-step global expansion"
+    },
+    {
+      "jargon": "Competitive advantage",
+      "layman": "Being better than rivals"
     },
     {
       "jargon": "Technology adoption",
-      "layman": "Using new tech in business"
+      "layman": "Using new tech tools"
     },
     {
-      "jargon": "Market analysis",
-      "layman": "Studying target markets"
+      "jargon": "Market penetration",
+      "layman": "Gaining market share"
     },
     {
       "jargon": "Process optimization",
       "layman": "Improving business processes"
-    },
-    {
-      "jargon": "Performance evaluation",
-      "layman": "Measuring business results"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Global market entry",
-      "layman": "Entering international markets"
+      "jargon": "Global presence",
+      "layman": "Operating worldwide"
     },
     {
-      "jargon": "Competitive edge",
-      "layman": "Being better than rivals"
+      "jargon": "Technological capabilities",
+      "layman": "Strong tech abilities"
     },
     {
-      "jargon": "Technology-driven growth",
-      "layman": "Growth from using tech"
+      "jargon": "Early market access",
+      "layman": "Entering markets early"
     },
     {
-      "jargon": "Reduced entry costs",
-      "layman": "Lower cost to go global"
+      "jargon": "Vesting advantage",
+      "layman": "Edge in competition"
     },
     {
-      "jargon": "Early international presence",
-      "layman": "Starting in foreign markets early"
+      "jargon": "Digital connectivity",
+      "layman": "Strong online links"
     }
   ]
 }

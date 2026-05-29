@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Modular forms",
-      "layman": "Special mathematical functions"
+      "layman": "Special mathematical patterns"
     },
     {
       "jargon": "Theorem",
-      "layman": "A proven mathematical statement"
+      "layman": "Mathematical truth"
     },
     {
       "jargon": "Plane",
-      "layman": "Flat 2D space"
+      "layman": "Flat surface"
     }
   ],
   "methodologies": [
     {
       "jargon": "Proof",
-      "layman": "A logical argument showing something is true"
+      "layman": "Mathematical argument"
+    },
+    {
+      "jargon": "Proof 4",
+      "layman": "Fourth mathematical argument"
     },
     {
       "jargon": "Modular forms",
-      "layman": "Special mathematical functions"
+      "layman": "Special mathematical patterns"
     },
     {
-      "jargon": "Elementary proof",
-      "layman": "Simple, basic proof"
+      "jargon": "Elementary statement",
+      "layman": "Simple mathematical claim"
     },
     {
-      "jargon": "Geometric reasoning",
-      "layman": "Using shapes and angles to solve problems"
-    },
-    {
-      "jargon": "Connections between branches",
-      "layman": "Linking different areas of math"
+      "jargon": "Connection between branches",
+      "layman": "Link between different math areas"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Intriguing manner",
-      "layman": "Surprising way"
-    },
-    {
-      "jargon": "Rich variety of methods",
+      "jargon": "Surprisingly rich variety of methods",
       "layman": "Many different approaches"
     },
     {
-      "jargon": "Surface appear unrelated",
-      "layman": "Seem unrelated at first"
+      "jargon": "Connections between branches",
+      "layman": "Links between different math areas"
     },
     {
-      "jargon": "Complete elementary statement",
-      "layman": "Simple to understand statement"
+      "jargon": "Intriguing manner",
+      "layman": "Unexpected way"
     },
     {
-      "jargon": "Full details",
-      "layman": "Detailed explanation"
+      "jargon": "Complete proof",
+      "layman": "Full mathematical explanation"
+    },
+    {
+      "jargon": "Theorem appears in [4]",
+      "layman": "Result found in another paper"
     }
   ]
 }

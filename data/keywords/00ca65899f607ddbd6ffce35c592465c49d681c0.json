@@ -9,26 +9,30 @@
       "layman": "Soviet Union"
     },
     {
-      "jargon": "Scientific and technological cooperation",
-      "layman": "Collaboration between countries on science and tech"
+      "jargon": "Council for Mutual Economic Aid",
+      "layman": "Soviet economic cooperation group"
     },
     {
-      "jargon": "Council for Mutual Economic Aid",
-      "layman": "Group of countries working together economically"
+      "jargon": "Scientific cooperation",
+      "layman": "Sharing research between countries"
     },
     {
       "jargon": "Applied ergonomics",
-      "layman": "Using ergonomics in real-world work settings"
+      "layman": "Practical workspace design"
     }
   ],
   "methodologies": [
+    {
+      "jargon": "Scientific and technological cooperation",
+      "layman": "Joint research and tech sharing"
+    },
     {
       "jargon": "Historical premises",
       "layman": "Past foundations of a field"
     },
     {
-      "jargon": "Organization of cooperation",
-      "layman": "Setting up joint work between nations"
+      "jargon": "Development stages",
+      "layman": "Phases of growth in a field"
     },
     {
       "jargon": "Research studies",
@@ -36,33 +40,29 @@
     },
     {
       "jargon": "Data collection",
-      "layman": "Gathering information for analysis"
-    },
-    {
-      "jargon": "Scientific problems",
-      "layman": "Unanswered questions in research"
+      "layman": "Gathering facts from experiments"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Effective data",
+      "layman": "Useful results"
+    },
+    {
+      "jargon": "Main directions",
+      "layman": "Key focus areas"
+    },
+    {
+      "jargon": "New stage of development",
+      "layman": "Progressive phase"
+    },
     {
       "jargon": "Present state",
       "layman": "Current condition"
     },
     {
-      "jargon": "Main direction",
-      "layman": "Primary focus area"
-    },
-    {
-      "jargon": "Effective data",
-      "layman": "Useful research findings"
-    },
-    {
-      "jargon": "New stage of development",
-      "layman": "A new phase in growth"
-    },
-    {
-      "jargon": "Scientific problems untouched",
-      "layman": "Key issues not studied"
+      "jargon": "Unaddressed scientific problems",
+      "layman": "Missing research issues"
     }
   ]
 }

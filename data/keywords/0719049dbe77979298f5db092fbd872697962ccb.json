@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Metaethics",
-      "layman": "Nature of moral values"
-    },
-    {
-      "jargon": "Descriptive ethics",
-      "layman": "What is considered right in texts"
-    },
-    {
-      "jargon": "Normative ethics",
-      "layman": "What should be done"
+      "layman": "Ethics of ethics"
     },
     {
       "jargon": "Divinity-morality relation",
-      "layman": "How God's nature connects to morality"
+      "layman": "God's connection to morality"
+    },
+    {
+      "jargon": "Euthyphro Dilemma",
+      "layman": "God's moral authority question"
+    },
+    {
+      "jargon": "Principle of Sufficient Reason",
+      "layman": "All truths must have reasons"
     }
   ],
   "methodologies": [
     {
       "jargon": "Hermeneutically valid",
-      "layman": "Meaningful interpretation"
+      "layman": "Meaningfully interpretive"
     },
     {
       "jargon": "Philosophical inquiry",
-      "layman": "Thinking deeply about ideas"
+      "layman": "Logical questioning"
     },
     {
-      "jargon": "Research problems",
-      "layman": "Questions guiding study"
+      "jargon": "Descriptive ethics",
+      "layman": "What is considered right"
     },
     {
-      "jargon": "Objectives",
-      "layman": "Goals of the study"
+      "jargon": "Normative ethics",
+      "layman": "What should be right"
     },
     {
-      "jargon": "Methodology",
-      "layman": "Approach used to study"
+      "jargon": "Epistemological assumptions",
+      "layman": "How knowledge is built"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Euthyphro Dilemma",
-      "layman": "God's commands vs. moral truth"
-    },
-    {
-      "jargon": "Principle of Sufficient Reason",
-      "layman": "Everything must have a reason"
-    },
-    {
-      "jargon": "Moral meaning in divine condition",
-      "layman": "Why morality exists in God's world"
+      "jargon": "Metaethical problems",
+      "layman": "Ethics questions about ethics"
     },
     {
       "jargon": "Semantic assumptions",
-      "layman": "How words carry meaning"
+      "layman": "Meaning behind words"
     },
     {
-      "jargon": "Epistemological assumptions",
-      "layman": "How knowledge is gained"
+      "jargon": "Metaphysical assumptions",
+      "layman": "What exists fundamentally"
+    },
+    {
+      "jargon": "Divine condition",
+      "layman": "God's moral state"
+    },
+    {
+      "jargon": "Biblical moral discourse",
+      "layman": "Moral teachings in scripture"
     }
   ]
 }

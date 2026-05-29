@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Market taxation",
-      "layman": "Taxes on market sales"
+      "layman": "Taxes on market trade"
     },
     {
       "jargon": "Local government areas",
@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Social relationships",
-      "layman": "Personal connections"
+      "layman": "People's connections"
     },
     {
       "jargon": "Collective norms",
-      "layman": "Shared rules"
+      "layman": "Shared community rules"
     },
     {
       "jargon": "Informal practices",
-      "layman": "Unofficial methods"
+      "layman": "Unofficial customs"
     }
   ],
   "methodologies": [
@@ -28,25 +28,25 @@
     },
     {
       "jargon": "Socially embedded realities",
-      "layman": "Local customs and practices"
+      "layman": "Rooted in social ties"
     },
     {
       "jargon": "Data collection",
-      "layman": "Gathering information"
+      "layman": "Gathering local information"
     },
     {
       "jargon": "Field research",
-      "layman": "Direct observation in real settings"
+      "layman": "Studying in real settings"
     },
     {
-      "jargon": "Comparative analysis",
-      "layman": "Comparing two areas"
+      "jargon": "System description",
+      "layman": "Mapping how things work"
     }
   ],
   "outcomes": [
     {
       "jargon": "Greater equity",
-      "layman": "More fairness"
+      "layman": "Fairer distribution"
     },
     {
       "jargon": "Reinforced inequalities",
@@ -54,7 +54,7 @@
     },
     {
       "jargon": "Nuanced understanding",
-      "layman": "Deeper insight"
+      "layman": "Deeper, clearer insight"
     },
     {
       "jargon": "Improved outcomes",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Minimized costs of informality",
-      "layman": "Fewer downsides of informal systems"
+      "layman": "Lower risks of informal practices"
     }
   ]
 }

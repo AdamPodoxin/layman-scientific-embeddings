@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Transparent maps",
-      "layman": "Maps showing real-world views"
+      "layman": "Maps showing real world as seen"
     },
     {
       "jargon": "Opaque maps",
-      "layman": "Maps hiding real-world views"
+      "layman": "Maps hiding or distorting reality"
     },
     {
       "jargon": "Graphical representation",
-      "layman": "Visual symbols on maps"
+      "layman": "Visual depiction"
     },
     {
-      "jargon": "Drawing standards",
-      "layman": "Rules for map drawings"
+      "jargon": "Drawing",
+      "layman": "Map artwork"
     },
     {
-      "jargon": "Map makers",
-      "layman": "People who create maps"
+      "jargon": "Geometry",
+      "layman": "Shape and space rules"
     }
   ],
   "methodologies": [
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Sociology of maps",
-      "layman": "Studying map makers and users"
+      "layman": "Study of map makers and users"
     },
     {
       "jargon": "Cultural context",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Definitional boundaries",
-      "layman": "Where cartography starts and ends"
+      "layman": "Where map history begins or ends"
     },
     {
-      "jargon": "Perception and logic",
-      "layman": "How people see and remember maps"
+      "jargon": "Perception, logic, mnemonics",
+      "layman": "How people see, think, and remember maps"
     }
   ],
   "outcomes": [
     {
       "jargon": "Links between maps and culture",
-      "layman": "Maps reflect culture"
+      "layman": "Maps reflect cultural values"
     },
     {
       "jargon": "Maps as language",
-      "layman": "Maps communicate ideas"
+      "layman": "Maps communicate like a language"
     },
     {
       "jargon": "Maps as instruments of power",
       "layman": "Maps control influence"
     },
     {
-      "jargon": "Mnemonics",
-      "layman": "Memory tricks for maps"
+      "jargon": "New research questions",
+      "layman": "New scientific curiosities"
     },
     {
-      "jargon": "New research questions",
-      "layman": "New ideas for studying maps"
+      "jargon": "Stimulating perspectives",
+      "layman": "Inspiring new ways of thinking"
     }
   ]
 }

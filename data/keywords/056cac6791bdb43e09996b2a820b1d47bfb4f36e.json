@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Coq system",
-      "layman": "Automated proof tool"
+      "layman": "Automation tool for math proofs"
     },
     {
       "jargon": "ProPre system",
-      "layman": "Automated proof tool"
+      "layman": "Automation tool for proof checking"
     }
   ],
   "methodologies": [
     {
       "jargon": "Constructing a tree",
-      "layman": "Building a structure from data"
+      "layman": "Building a structure from specifications"
     },
     {
       "jargon": "Verifying formal correctness",
-      "layman": "Checking proof steps are valid"
+      "layman": "Checking proof steps are mathematically sound"
     },
     {
       "jargon": "Extending terminal property",
-      "layman": "Expanding the ending rule"
+      "layman": "Broadening the rules for ending processes"
     },
     {
       "jargon": "Searching for decreasing measure",
-      "layman": "Looking for a shrinking value"
+      "layman": "Looking for something that drops over time"
     },
     {
-      "jargon": "Automated termination proof",
-      "layman": "Auto-checking if function ends"
+      "jargon": "Inductive principles",
+      "layman": "Logic rules based on repetition and base cases"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Inductive termination proofs",
-      "layman": "Proofs using induction"
+      "jargon": "Automated termination proofs",
+      "layman": "Auto-generated proof that function ends"
     },
     {
       "jargon": "Non-inductive termination",
-      "layman": "Function ends without induction"
+      "layman": "Function ends without using inductive logic"
     },
     {
-      "jargon": "Automated proof extension",
-      "layman": "Broader automatic proof capability"
+      "jargon": "Extended class of functions",
+      "layman": "Broader range of functions now supported"
     },
     {
       "jargon": "Formal correctness",
       "layman": "Mathematically proven accuracy"
     },
     {
-      "jargon": "Larger class of functions",
-      "layman": "More types of functions can be checked"
+      "jargon": "Termination of recursive function",
+      "layman": "Function stops calling itself"
     }
   ]
 }

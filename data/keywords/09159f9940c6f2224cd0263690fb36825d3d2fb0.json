@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Ferromagnetic metal",
-      "layman": "Metal that keeps magnetic alignment"
+      "layman": "Metal that maintains magnetic alignment"
     },
     {
       "jargon": "Semiconductor",
-      "layman": "Material that controls electricity"
+      "layman": "Material that controls electron flow"
     },
     {
       "jargon": "GaAs",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Magnetic tunneling junction",
-      "layman": "Layered magnetic structure"
+      "layman": "Magnetic layer pair with tunneling electrons"
     }
   ],
   "methodologies": [
     {
       "jargon": "Spin-polarized tunneling",
-      "layman": "Electrons tunneling with spin preference"
+      "layman": "Electrons tunneling with aligned spins"
     },
     {
       "jargon": "Interface resistivity measurement",
-      "layman": "Measuring resistance at material boundary"
+      "layman": "Testing electrical resistance at material boundaries"
     },
     {
       "jargon": "Surface passivation",
-      "layman": "Protecting surface from oxidation"
+      "layman": "Protecting surface with a coating"
     },
     {
       "jargon": "Spin injection",
-      "layman": "Injecting spin-aligned electrons into material"
+      "layman": "Injecting spin-polarized electrons into a material"
     },
     {
-      "jargon": "Fabrication of hybrid structures",
-      "layman": "Building metal-semiconductor layers"
+      "jargon": "Low-temperature measurements",
+      "layman": "Testing in cold conditions"
     }
   ],
   "outcomes": [
     {
       "jargon": "TMR effect",
-      "layman": "Magnetic resistance change in tunneling"
+      "layman": "Magnetic resistance change"
+    },
+    {
+      "jargon": "I-V characteristics",
+      "layman": "Current-voltage behavior"
     },
     {
       "jargon": "Negative GMR-like effect",
-      "layman": "Reverse magnetic resistance shift"
+      "layman": "Opposite resistance change under magnetization flip"
     },
     {
       "jargon": "Interdiffusion",
-      "layman": "Metal and semiconductor mixing at interface"
-    },
-    {
-      "jargon": "Oxidation of semiconductor surface",
-      "layman": "Surface layer forming from oxygen"
+      "layman": "Materials mixing at interface"
     },
     {
       "jargon": "Surface spin polarization of 2.6%",
-      "layman": "2.6% of surface electrons have aligned spins"
+      "layman": "2.6% spin alignment on surface"
     }
   ]
 }

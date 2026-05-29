@@ -1,12 +1,12 @@
 {
   "core_entities": [
     {
-      "jargon": "Mobile Intelligent Tutoring Systems",
-      "layman": "Smart learning apps on phones"
+      "jargon": "Cloud computing",
+      "layman": "Remote data processing"
     },
     {
-      "jargon": "Cloud Computing",
-      "layman": "Remote data and computing power"
+      "jargon": "Mobile intelligent tutoring systems",
+      "layman": "Smart learning apps on phones"
     },
     {
       "jargon": "Multi-layer architecture",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Educational system",
-      "layman": "School or learning environment"
+      "layman": "Learning environment"
     }
   ],
   "methodologies": [
@@ -27,21 +27,12 @@
       "layman": "Layered system design"
     },
     {
-      "jargon": "Mobile Cloud Computing",
-      "layman": "Using cloud power on mobile devices"
-    },
-    {
       "jargon": "Battery life extension",
       "layman": "Longer phone battery use"
     },
-    {
-      "jargon": "Working memory capacity",
-      "layman": "How much info brain holds at once"
-    },
-    {
-      "jargon": "Processing capacity",
-      "layman": "How fast system can handle tasks"
-    }
+    "cloud computing integration",
+    "mobile platform optimization",
+    "data reliability enhancement"
   ],
   "outcomes": [
     {
@@ -49,20 +40,20 @@
       "layman": "Longer phone battery"
     },
     {
-      "jargon": "Greater processing capacity",
-      "layman": "Faster learning system"
+      "jargon": "Higher working memory capacity",
+      "layman": "Better learning memory"
+    },
+    {
+      "jargon": "Enhanced processing capacity",
+      "layman": "Faster learning performance"
     },
     {
       "jargon": "Reduced training costs",
-      "layman": "Lower education expenses"
+      "layman": "Lower learning expenses"
     },
     {
-      "jargon": "Less hardware dependency",
-      "layman": "Fewer devices needed"
-    },
-    {
-      "jargon": "Improved data reliability",
-      "layman": "More accurate learning records"
+      "jargon": "Increased data reliability",
+      "layman": "More accurate learning data"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Reductive thinking",
-      "layman": "Breaking things down into smaller parts"
+      "layman": "Breaking things down into simpler parts"
     },
     {
-      "jargon": "Teaching",
-      "layman": "Instructing students"
-    },
-    {
-      "jargon": "Theory",
-      "layman": "A well-thought explanation"
+      "jargon": "Teaching methods",
+      "layman": "Ways to teach something"
     },
     {
       "jargon": "Cognitive processes",
-      "layman": "How the mind works"
+      "layman": "Mental processes"
     },
     {
-      "jargon": "Learning",
-      "layman": "Acquiring new knowledge"
+      "jargon": "Education theory",
+      "layman": "How learning works"
+    },
+    {
+      "jargon": "Conceptual models",
+      "layman": "Simplified mental models"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Reductionism",
-      "layman": "Simplifying complex ideas"
-    },
-    {
-      "jargon": "Instructional design",
-      "layman": "Planning how to teach"
-    },
-    {
-      "jargon": "Curriculum development",
-      "layman": "Creating lesson plans"
-    },
     {
       "jargon": "Pedagogical strategies",
       "layman": "Teaching techniques"
     },
     {
-      "jargon": "Conceptual scaffolding",
-      "layman": "Building knowledge step by step"
+      "jargon": "Hierarchical decomposition",
+      "layman": "Breaking down into layers"
+    },
+    {
+      "jargon": "Step-by-step instruction",
+      "layman": "Teaching in steps"
+    },
+    {
+      "jargon": "Scaffolding",
+      "layman": "Gradual support in learning"
+    },
+    {
+      "jargon": "Problem-solving frameworks",
+      "layman": "Structured ways to solve problems"
     }
   ],
   "outcomes": [
     {
       "jargon": "Improved understanding",
-      "layman": "Better grasp of ideas"
+      "layman": "Better grasp of concepts"
     },
     {
-      "jargon": "Enhanced problem-solving",
-      "layman": "Better at solving problems"
+      "jargon": "Enhanced learning retention",
+      "layman": "Remembering better"
     },
     {
-      "jargon": "Cognitive clarity",
-      "layman": "Clearer thinking"
+      "jargon": "Conceptual clarity",
+      "layman": "Clearer mental picture"
     },
     {
-      "jargon": "Knowledge transfer",
-      "layman": "Learning to apply knowledge"
+      "jargon": "Cognitive flexibility",
+      "layman": "Ability to switch thinking"
     },
     {
-      "jargon": "Student engagement",
-      "layman": "Students stay involved"
+      "jargon": "Transfer of knowledge",
+      "layman": "Applying what you learned elsewhere"
     }
   ]
 }

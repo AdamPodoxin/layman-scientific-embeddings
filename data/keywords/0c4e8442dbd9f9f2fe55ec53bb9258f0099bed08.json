@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Transbaikalia",
-      "layman": "Region beyond Baikal"
+      "layman": "Region of Transbaikalia"
     },
     {
       "jargon": "Baikal Lake",
@@ -27,42 +27,42 @@
       "layman": "Clues from other sources"
     },
     {
-      "jargon": "Hypothesis proposal",
-      "layman": "Suggested explanation"
+      "jargon": "Historical hypothesis",
+      "layman": "Guess based on history"
     },
     {
-      "jargon": "Historical trip analysis",
-      "layman": "Reviewing the journey"
+      "jargon": "Trip analysis",
+      "layman": "Study of the journey"
     },
     {
       "jargon": "Origin study",
-      "layman": "Investigating beginnings"
+      "layman": "Investigation into beginnings"
     },
     {
-      "jargon": "Geographical exploration",
-      "layman": "Mapping locations"
+      "jargon": "Proposed hypothesis",
+      "layman": "Suggested explanation"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Origin hypothesis",
-      "layman": "Possible origin story"
-    },
-    {
-      "jargon": "Settlement fate",
+      "jargon": "Fate of settlement",
       "layman": "What happened to the village"
     },
     {
+      "jargon": "Settlement origin",
+      "layman": "Where it started"
+    },
+    {
+      "jargon": "Geographic relocation",
+      "layman": "Moving to a new place"
+    },
+    {
       "jargon": "Historical inference",
-      "layman": "Inferred history"
+      "layman": "Conclusion from past records"
     },
     {
-      "jargon": "Archaeological evidence",
-      "layman": "Physical clues from past"
-    },
-    {
-      "jargon": "Cultural migration",
-      "layman": "People moving to new areas"
+      "jargon": "Factual basis",
+      "layman": "Solid evidence found"
     }
   ]
 }

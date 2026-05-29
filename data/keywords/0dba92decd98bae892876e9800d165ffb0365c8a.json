@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Marketing expenses",
-      "layman": "Costs to promote funds"
+      "layman": "Cost of advertising funds"
     },
     {
       "jargon": "Active management",
-      "layman": "Hands-on fund management"
+      "layman": "Hand-picked fund decisions"
     },
     {
       "jargon": "Investor search",
@@ -27,42 +27,42 @@
       "layman": "Mathematical model of real-world behavior"
     },
     {
-      "jargon": "Estimate",
-      "layman": "Calculate based on data"
+      "jargon": "Learning about unobserved skill",
+      "layman": "Figuring out talent from hidden data"
     },
     {
-      "jargon": "Learning about unobserved skill",
-      "layman": "Figuring out hidden manager ability"
+      "jargon": "Estimate",
+      "layman": "Make a calculated prediction"
     },
     {
       "jargon": "Costly investor search",
-      "layman": "Hard work for investors to find funds"
+      "layman": "Hard work for investors to compare funds"
     },
     {
       "jargon": "Empirical observation",
-      "layman": "What is actually seen in data"
+      "layman": "Real-world data seen over time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Fund size",
-      "layman": "How large the fund is"
+      "layman": "How big the fund is"
     },
     {
       "jargon": "Welfare improvement",
-      "layman": "Better overall financial well-being"
+      "layman": "Better financial well-being"
     },
     {
       "jargon": "Capital shifts",
-      "layman": "Money moves to better funds"
+      "layman": "Money moves between funds"
     },
     {
       "jargon": "Average alpha increases",
-      "layman": "Funds outperform more on average"
+      "layman": "Average returns improve after cuts"
     },
     {
-      "jargon": "Shift towards passive investing",
-      "layman": "More people invest without active management"
+      "jargon": "Fees decrease",
+      "layman": "Fees go down over time"
     }
   ]
 }

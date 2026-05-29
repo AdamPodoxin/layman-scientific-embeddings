@@ -9,16 +9,16 @@
       "layman": "Volcanic rock layers"
     },
     {
-      "jargon": "Shale",
-      "layman": "Fine sediment rock"
-    },
-    {
       "jargon": "Subduction",
-      "layman": "One plate sinking under another"
+      "layman": "One plate sliding under another"
     },
     {
-      "jargon": "Continental arc",
-      "layman": "Mountain chain formed above a subduction zone"
+      "jargon": "Rare earth elements (REE)",
+      "layman": "Rare earth elements"
+    },
+    {
+      "jargon": "Primary magmatic quartz",
+      "layman": "Original volcanic quartz"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Mineralogical sorting",
-      "layman": "Sorting of minerals by type and size"
+      "layman": "Sorting of minerals"
     },
     {
       "jargon": "Diagenetic effects",
-      "layman": "Changes rocks undergo after formation"
+      "layman": "Changes from underground pressure and fluids"
     },
     {
-      "jargon": "Trace element ratios",
-      "layman": "Comparing amounts of different elements"
+      "jargon": "Trace element systematics",
+      "layman": "Patterns in trace elements"
     },
     {
-      "jargon": "Geochemical comparison",
-      "layman": "Comparing rock chemistry across locations"
+      "jargon": "Stratigraphic comparison",
+      "layman": "Comparing layer positions"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "More silica in rock"
     },
     {
-      "jargon": "Depletion of Nb and Ta",
-      "layman": "Low levels of certain elements"
+      "jargon": "Lower Sr, Ba",
+      "layman": "Less strontium and barium"
     },
     {
-      "jargon": "Fractionated rare earth elements",
-      "layman": "Uneven distribution of rare earth elements"
+      "jargon": "Nb and Ta depletion",
+      "layman": "Missing niobium and tantalum"
+    },
+    {
+      "jargon": "Continental arc origin",
+      "layman": "Formed near a continent"
     },
     {
       "jargon": "Southward subduction",
-      "layman": "Plate sinking southward"
-    },
-    {
-      "jargon": "Carboniferous ocean basin closure",
-      "layman": "Ocean basin closed during Carboniferous period"
+      "layman": "Plate moving southward"
     }
   ]
 }

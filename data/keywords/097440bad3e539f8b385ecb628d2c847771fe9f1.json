@@ -2,51 +2,51 @@
   "core_entities": [
     {
       "jargon": "Araygnement of Paris",
-      "layman": "Play about Paris"
+      "layman": "Peele's play about royal gifts and power"
     },
     {
       "jargon": "Elizabethan court culture",
-      "layman": "Court life in Elizabethan England"
+      "layman": "Court life in 16th century England"
     },
     {
       "jargon": "Pastoral setting",
-      "layman": "Rural, countryside setting"
+      "layman": "Rural, idyllic countryside"
     },
     {
       "jargon": "Royal sentiments",
-      "layman": "Feelings about royalty"
+      "layman": "Feelings about kingship and power"
     },
     {
       "jargon": "Power relationships",
-      "layman": "Who has authority over whom"
+      "layman": "Who controls whom in a group"
     }
   ],
   "methodologies": [
     {
       "jargon": "Dramaturgy",
-      "layman": "Stage design and structure"
+      "layman": "How a play is structured"
     },
     {
       "jargon": "Interpretation",
-      "layman": "Understanding a text"
+      "layman": "Understanding a text's meaning"
     },
     {
       "jargon": "Symbolic forms",
-      "layman": "Repeating patterns in meaning"
+      "layman": "Images or actions with deeper meaning"
+    },
+    {
+      "jargon": "Critical responses",
+      "layman": "Experts' reactions to a work"
     },
     {
       "jargon": "Contextual analysis",
-      "layman": "Studying how setting affects meaning"
-    },
-    {
-      "jargon": "Ideological complexity",
-      "layman": "Multiple conflicting beliefs"
+      "layman": "Studying how a work relates to its time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Hyperbolic royal entertainment",
-      "layman": "Exaggerated royal shows"
+      "layman": "Exaggerated court shows"
     },
     {
       "jargon": "Humble pastoral retirement",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Glorification of power",
-      "layman": "Celebrating royal power"
+      "layman": "Celebrating authority"
     },
     {
       "jargon": "Repudiation of ambition",
-      "layman": "Rejecting the desire for power"
+      "layman": "Rejecting the desire to rise"
     },
     {
       "jargon": "Recreation of culture",
-      "layman": "Imitating real society"
+      "layman": "Recreating real-world society in the play"
     }
   ]
 }

@@ -13,56 +13,56 @@
       "layman": "Doctor"
     },
     {
-      "jargon": "Pain management",
-      "layman": "Treating pain"
+      "jargon": "Demographic characteristics",
+      "layman": "Age, gender, background"
     },
     {
-      "jargon": "Prostatectomy",
-      "layman": "Surgery to remove the prostate"
+      "jargon": "Pain management goals",
+      "layman": "What doctors want to achieve in treating pain"
     }
   ],
   "methodologies": [
     {
       "jargon": "Cross-sectional survey",
-      "layman": "One-time doctor questionnaire"
+      "layman": "One-time doctor survey"
     },
     {
-      "jargon": "Vignettes",
-      "layman": "Short patient scenarios"
+      "jargon": "Pain vignettes",
+      "layman": "Short story about a patient's pain"
     },
     {
       "jargon": "Randomly-selected sample",
-      "layman": "Picked doctors at random"
+      "layman": "Group of doctors chosen by chance"
     },
     {
-      "jargon": "Demographic characteristics",
-      "layman": "Doctor's background info"
+      "jargon": "Quantitative analysis",
+      "layman": "Numbers-based analysis"
     },
     {
-      "jargon": "Attitudes and knowledge assessment",
-      "layman": "Measuring beliefs and facts"
+      "jargon": "Decision making",
+      "layman": "How doctors decide on treatments"
     }
   ],
   "outcomes": [
     {
       "jargon": "Physician variability",
-      "layman": "Doctors make different choices"
+      "layman": "Doctors differ in their choices"
     },
     {
-      "jargon": "Confidence in pain care",
-      "layman": "Doctors feel sure about pain treatment"
+      "jargon": "Confidence in treatment",
+      "layman": "Doctors' trust in their choices"
     },
     {
-      "jargon": "Pain relief without distress",
-      "layman": "Pain gone, no side effects"
+      "jargon": "Preference for pain relief",
+      "layman": "Doctors' favorite way to reduce pain"
+    },
+    {
+      "jargon": "Satisfaction with care",
+      "layman": "How happy doctors are with treatment"
     },
     {
       "jargon": "Optimal pain management response",
-      "layman": "Best pain treatment choice"
-    },
-    {
-      "jargon": "Minority provide cancer pain care",
-      "layman": "Few doctors treat cancer pain"
+      "layman": "Best treatment choice for pain"
     }
   ]
 }

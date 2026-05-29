@@ -5,20 +5,20 @@
       "layman": "Traveling preacher"
     },
     {
-      "jargon": "Colonial American religious world",
-      "layman": "Religious life in 18th century America"
+      "jargon": "Colonial American society",
+      "layman": "Colonial American communities"
     },
     {
       "jargon": "Great Awakening",
-      "layman": "Major religious revival"
+      "layman": "First major religious revival"
     },
     {
       "jargon": "Transatlantic consumer society",
       "layman": "Cross-Atlantic consumer culture"
     },
     {
-      "jargon": "Educated leaders",
-      "layman": "Learned community leaders"
+      "jargon": "George Whitefield",
+      "layman": "George Whitefield"
     }
   ],
   "methodologies": [
@@ -27,8 +27,8 @@
       "layman": "Traveling to preach"
     },
     {
-      "jargon": "Debate over itinerancy",
-      "layman": "Argument about traveling preachers"
+      "jargon": "Debate over religious practice",
+      "layman": "Arguments about how to worship"
     },
     {
       "jargon": "Cultural and social anthropology",
@@ -36,21 +36,25 @@
     },
     {
       "jargon": "Historical analysis",
-      "layman": "Examining past events"
+      "layman": "Examining the past"
     },
     {
-      "jargon": "Scholarly interpretation",
-      "layman": "Experts analyzing history"
+      "jargon": "Religious revival movements",
+      "layman": "Spreading religious excitement"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Dramatic change in religious practice",
-      "layman": "Big shift in how people worship"
+      "jargon": "Religious practice change",
+      "layman": "New ways of worshiping"
+    },
+    {
+      "jargon": "Social order transformation",
+      "layman": "Change in social structure"
     },
     {
       "jargon": "Openness beyond local boundaries",
-      "layman": "Willingness to explore new beliefs"
+      "layman": "Willingness to engage beyond one's community"
     },
     {
       "jargon": "Pluralistic society",
@@ -59,10 +63,6 @@
     {
       "jargon": "New model of the church",
       "layman": "Different way of organizing church life"
-    },
-    {
-      "jargon": "Worldly and otherworldly transformations",
-      "layman": "Changes in both daily life and spiritual life"
     }
   ]
 }

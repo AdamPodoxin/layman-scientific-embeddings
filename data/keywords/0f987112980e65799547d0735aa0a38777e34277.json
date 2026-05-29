@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Spin-2 modes",
-      "layman": "Gravity-carrying particles"
+      "layman": "Gravity-related particles"
     },
     {
       "jargon": "Higher-derivative extension",
-      "layman": "Gravity with more complex math"
+      "layman": "More complex version of gravity theory"
     }
   ],
   "methodologies": [
     {
       "jargon": "Linearized approximation",
-      "layman": "Simple version of a complex model"
+      "layman": "Simple version of the full model"
     },
     {
       "jargon": "Tree-level analysis",
-      "layman": "Basic level of calculation"
+      "layman": "Basic calculation without loops"
     },
     {
       "jargon": "Model generalization",
-      "layman": "Extending a model to more dimensions"
+      "layman": "Extending the theory to higher dimensions"
     },
     {
-      "jargon": "Equivalence",
-      "layman": "Being mathematically the same"
+      "jargon": "Dimensional analysis",
+      "layman": "Studying how properties change with space-time dimensions"
     },
     {
-      "jargon": "Dimensional extension",
-      "layman": "Moving from 3D to more dimensions"
+      "jargon": "Equivalence check",
+      "layman": "Confirming two theories are similar"
     }
   ],
   "outcomes": [
     {
       "jargon": "Unitary in three dimensions",
-      "layman": "Works properly in 3D space"
+      "layman": "Stable in 3D space"
     },
     {
       "jargon": "Non-unitary in higher dimensions",
-      "layman": "Fails in more than 3D space"
+      "layman": "Unstable in more than 3D"
     },
     {
       "jargon": "Massless spin-2 modes",
       "layman": "Unwanted gravity particles"
     },
     {
-      "jargon": "Higher-dimensional model",
-      "layman": "Gravity model in more than 3D"
+      "jargon": "Higher-dimensional model fails",
+      "layman": "Theory breaks in more dimensions"
     },
     {
-      "jargon": "Appearance of non-unitary modes",
-      "layman": "Emergence of broken rules"
+      "jargon": "Tree-level unitarity",
+      "layman": "Works at basic level"
     }
   ]
 }

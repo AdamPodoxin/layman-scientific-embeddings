@@ -5,42 +5,42 @@
       "layman": "Socialism"
     },
     {
+      "jargon": "Capitalism",
+      "layman": "Capitalism"
+    },
+    {
       "jargon": "Central planners",
       "layman": "Government planners"
     },
     {
-      "jargon": "Competitively generated prices",
-      "layman": "Market prices from competition"
+      "jargon": "Competitive prices",
+      "layman": "Market prices"
     },
+    {
+      "jargon": "Economic calculation",
+      "layman": "Deciding what to produce efficiently"
+    }
+  ],
+  "methodologies": [
     {
       "jargon": "Economic calculation problem",
       "layman": "Problem of calculating costs without market prices"
     },
     {
-      "jargon": "Soviet bloc",
-      "layman": "Former Eastern European socialist countries"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Austrian school methodology",
-      "layman": "Economic theory based on free markets"
+      "jargon": "Historical evidence",
+      "layman": "Past examples and facts"
     },
     {
-      "jargon": "Historical evidence",
-      "layman": "Past events as proof"
+      "jargon": "Austrian school methodology",
+      "layman": "Austrian economic reasoning"
     },
     {
       "jargon": "Incentive structures",
-      "layman": "Rewards and punishments that motivate behavior"
+      "layman": "Rewards and punishments in systems"
     },
     {
-      "jargon": "Economic modeling",
-      "layman": "Simulating economies with rules"
-    },
-    {
-      "jargon": "Market prices",
-      "layman": "Prices formed by supply and demand"
+      "jargon": "Central planning",
+      "layman": "Government deciding what to produce"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Economy failing"
     },
     {
-      "jargon": "Economic defects",
-      "layman": "Economic problems"
-    },
-    {
-      "jargon": "Lack of economic calculation",
-      "layman": "No way to calculate costs"
-    },
-    {
       "jargon": "Poor incentives",
-      "layman": "Weak motivation for workers"
+      "layman": "Weak rewards and motivation"
     },
     {
-      "jargon": "Vindicated",
-      "layman": "Proven correct"
+      "jargon": "Economic defects",
+      "layman": "Problems in the economy"
+    },
+    {
+      "jargon": "Market prices",
+      "layman": "Prices formed by supply and demand"
+    },
+    {
+      "jargon": "Soviet bloc collapse",
+      "layman": "Soviet countries fell apart"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Session Description Protocol",
-      "layman": "Protocol for setting up media sessions"
+      "layman": "Protocol for describing media sessions"
     },
     {
       "jargon": "Media streams",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Security precondition",
-      "layman": "Condition that must be met for security"
+      "layman": "Condition for secure communication"
     },
     {
       "jargon": "RFCs 3312 and 4032",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Secure media stream",
-      "layman": "Protected audio or video stream"
+      "layman": "Encrypted audio or video connection"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Negotiate security",
-      "layman": "Set up security between parties"
+      "jargon": "Negotiate",
+      "layman": "Reach agreement"
     },
     {
       "jargon": "Delay session establishment",
-      "layman": "Wait before starting a session"
-    },
-    {
-      "jargon": "Modify session",
-      "layman": "Change an existing session"
+      "layman": "Postpone starting a connection"
     },
     {
       "jargon": "Framework",
-      "layman": "Structured system for rules"
+      "layman": "Structure for organizing rules"
     },
     {
       "jargon": "Establish session",
-      "layman": "Start a communication session"
+      "layman": "Set up a communication link"
+    },
+    {
+      "jargon": "Modify session",
+      "layman": "Change an existing connection"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Successful security negotiation",
-      "layman": "Security is agreed upon"
-    },
-    {
-      "jargon": "Delayed session",
-      "layman": "Session starts later"
-    },
-    {
-      "jargon": "Session modification",
-      "layman": "Session is changed"
+      "jargon": "Successful negotiation",
+      "layman": "Security agreed upon"
     },
     {
       "jargon": "Secure media stream",
-      "layman": "Media is protected"
+      "layman": "Encrypted audio or video"
+    },
+    {
+      "jargon": "Delayed session",
+      "layman": "Connection started later"
     },
     {
       "jargon": "Security precondition applied",
-      "layman": "Security rule is enforced"
+      "layman": "Safety rule enforced"
+    },
+    {
+      "jargon": "Session establishment",
+      "layman": "Connection begins"
     }
   ]
 }

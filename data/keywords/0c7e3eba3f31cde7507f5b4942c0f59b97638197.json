@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Acute severe blood loss",
-      "layman": "Sudden massive bleeding"
+      "layman": "Sudden heavy bleeding"
     },
     {
       "jargon": "Haemostatic agents",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Recombinant activated factor VII",
-      "layman": "Lab-made blood clotting factor"
+      "layman": "Man-made blood clotting factor"
     },
     {
       "jargon": "Postpartum blood loss",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Duodenal ulcer",
-      "layman": "Stomach lining sore"
+      "layman": "Stomach ulcer in the duodenum"
     }
   ],
   "methodologies": [
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Controlled clinical trials",
-      "layman": "Tests with strict rules and groups"
+      "layman": "Tests with strict patient monitoring"
     },
     {
       "jargon": "Surgery",
@@ -36,11 +36,11 @@
     },
     {
       "jargon": "Administration of blood products",
-      "layman": "Giving blood components"
+      "layman": "Giving blood components to patient"
     },
     {
-      "jargon": "Prophylactic use",
-      "layman": "Using early to prevent problems"
+      "jargon": "Early prophylaxis",
+      "layman": "Preventive treatment given early"
     }
   ],
   "outcomes": [
@@ -57,12 +57,12 @@
       "layman": "Too much blood given"
     },
     {
-      "jargon": "Treatment failure",
-      "layman": "Treatment doesn\u2019t work"
+      "jargon": "Treatment with rFVIIa in non-need patients",
+      "layman": "Giving clotting drug to patients who don\u2019t need it"
     },
     {
-      "jargon": "Official registration pending",
-      "layman": "Not yet approved for use"
+      "jargon": "Unclear medical guidance",
+      "layman": "No clear treatment rules"
     }
   ]
 }

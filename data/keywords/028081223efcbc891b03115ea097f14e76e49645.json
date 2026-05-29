@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "atherosclerotic cardiovascular disease",
-      "layman": "plaque buildup in blood vessels"
+      "jargon": "Atherosclerotic cardiovascular disease",
+      "layman": "Plaque buildup in blood vessels"
     },
     {
-      "jargon": "working-age patients",
-      "layman": "adults aged 18 to 65"
+      "jargon": "Working-age patients",
+      "layman": "Adults aged 18 to 65"
     },
     {
-      "jargon": "arterial beds",
-      "layman": "blood vessel networks in the body"
+      "jargon": "Acute coronary syndrome",
+      "layman": "Sudden heart attack or chest pain"
     },
     {
-      "jargon": "polyvascular disease",
-      "layman": "disease in multiple blood vessel groups"
+      "jargon": "Cerebrovascular atherosclerotic disease",
+      "layman": "Plaque in brain blood vessels"
     },
     {
-      "jargon": "acute coronary syndromes",
-      "layman": "severe heart-related emergencies"
+      "jargon": "Peripheral arterial disease",
+      "layman": "Poor blood flow to limbs"
     }
   ],
   "methodologies": [
     {
-      "jargon": "retrospective cohort study",
-      "layman": "looking back at past medical records"
+      "jargon": "Retrospective cohort study",
+      "layman": "Looking back at past medical records"
     },
     {
-      "jargon": "claims database",
-      "layman": "health insurance records system"
+      "jargon": "Claims database",
+      "layman": "Health insurance claims records"
     },
     {
-      "jargon": "adjusted healthcare costs",
-      "layman": "costs corrected for differences in patient health"
+      "jargon": "Adjustment for confounders",
+      "layman": "Removing bias from data"
     },
     {
-      "jargon": "follow-up period",
-      "layman": "time period after diagnosis to track outcomes"
+      "jargon": "Follow-up period",
+      "layman": "Time tracked after diagnosis"
     },
     {
-      "jargon": "eligibility requirements",
-      "layman": "criteria for including patients in the study"
+      "jargon": "Polyvascular disease",
+      "layman": "Multiple blood vessels affected"
     }
   ],
   "outcomes": [
     {
-      "jargon": "healthcare resource utilization",
-      "layman": "use of medical services"
+      "jargon": "Healthcare resource utilization",
+      "layman": "Number of doctor visits and hospital stays"
     },
     {
-      "jargon": "total healthcare costs",
-      "layman": "overall medical spending"
+      "jargon": "Total healthcare costs",
+      "layman": "Overall medical expenses"
     },
     {
-      "jargon": "all-cause healthcare costs",
-      "layman": "costs from any illness"
+      "jargon": "All-cause healthcare costs",
+      "layman": "Costs from all illnesses, not just heart issues"
     },
     {
       "jargon": "ASCVD-related healthcare costs",
-      "layman": "costs from heart and blood vessel disease"
+      "layman": "Costs from heart-related conditions"
     },
     {
-      "jargon": "p < 0.001",
-      "layman": "very significant difference"
+      "jargon": "P < 0.001",
+      "layman": "Very strong statistical difference"
     }
   ]
 }

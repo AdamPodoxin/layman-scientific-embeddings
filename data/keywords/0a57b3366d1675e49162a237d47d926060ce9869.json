@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Adaptive middleware",
-      "layman": "Software that changes behavior automatically"
+      "jargon": "Dynamic adaptation",
+      "layman": "Automatic system changes"
+    },
+    {
+      "jargon": "Middleware",
+      "layman": "Software connecting systems"
     },
     {
       "jargon": "Aspect-oriented programming",
-      "layman": "Way to separate cross-cutting software features"
-    },
-    {
-      "jargon": "Java Management Extensions",
-      "layman": "Java tool for monitoring and managing apps"
-    },
-    {
-      "jargon": "Trace-data collection",
-      "layman": "Recording of system activity details"
+      "layman": "Code for shared behaviors"
     },
     {
       "jargon": "Profiling techniques",
-      "layman": "Methods to measure system performance"
+      "layman": "Monitoring system behavior"
+    },
+    {
+      "jargon": "JMX",
+      "layman": "Java management tool"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Aspect-oriented programming",
-      "layman": "Separates shared system behaviors"
+      "jargon": "Aspect-oriented programming (AOP)",
+      "layman": "Organizing shared code features"
     },
     {
-      "jargon": "Fine-grained profiling",
-      "layman": "Detailed monitoring of system actions"
-    },
-    {
-      "jargon": "JMX integration",
-      "layman": "Connecting Java apps to management tools"
-    },
-    {
-      "jargon": "Dynamic adaptation",
-      "layman": "System adjusting in real time"
+      "jargon": "Fine-grained trace-data collection",
+      "layman": "Detailed system activity tracking"
     },
     {
       "jargon": "Customizable profiling",
-      "layman": "Tailoring monitoring to specific needs"
+      "layman": "Adjustable monitoring settings"
+    },
+    {
+      "jargon": "Feasibility study",
+      "layman": "Test of whether something works"
+    },
+    {
+      "jargon": "Synergy",
+      "layman": "Combined effect of two tools working together"
     }
   ],
   "outcomes": [
     {
       "jargon": "Increased system complexity",
-      "layman": "More complicated to manage"
+      "layman": "Harder to manage systems"
     },
     {
       "jargon": "Flexible adaptive systems",
-      "layman": "Systems that can change easily"
+      "layman": "Systems that can adjust easily"
     },
     {
-      "jargon": "Structured support for crosscutting concerns",
-      "layman": "Clear way to handle shared system tasks"
+      "jargon": "Crosscutting concerns",
+      "layman": "Common system issues across modules"
     },
     {
-      "jargon": "Feasibility study",
-      "layman": "Test to check if idea works"
+      "jargon": "Management support",
+      "layman": "Built-in control features"
     },
     {
-      "jargon": "Synergy between JMX and AOP",
-      "layman": "JMX and AOP work well together"
+      "jargon": "Effectiveness of synergy",
+      "layman": "Tools work well together"
     }
   ]
 }

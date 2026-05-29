@@ -5,16 +5,16 @@
       "layman": "City traffic light management"
     },
     {
-      "jargon": "Traffic signal",
-      "layman": "Traffic light"
+      "jargon": "Traffic network",
+      "layman": "City roads and intersections"
     },
     {
       "jargon": "Fixed time window",
       "layman": "Set time period"
     },
     {
-      "jargon": "Singapore traffic network",
-      "layman": "Singapore roads data"
+      "jargon": "Singapore traffic signal data",
+      "layman": "Real traffic data from Singapore"
     },
     {
       "jargon": "Centralized model",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Population initialization",
-      "layman": "Start with sample solutions"
+      "layman": "Start with sample traffic plans"
     },
     {
       "jargon": "Solution generation strategy",
-      "layman": "Create new traffic light plans"
+      "layman": "Create better traffic plans"
     },
     {
       "jargon": "Neighborhood search operator",
-      "layman": "Check nearby traffic plans"
+      "layman": "Check nearby traffic options"
     },
     {
       "jargon": "Scheduling framework",
-      "layman": "Plan-based timing system"
+      "layman": "Time-based planning system"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Total network-wise delay",
-      "layman": "Overall traffic waiting time"
-    },
-    {
-      "jargon": "Optimization results",
-      "layman": "Improved traffic flow results"
-    },
-    {
-      "jargon": "Performance comparison",
-      "layman": "Results vs. current system"
+      "jargon": "Minimize total network-wise delay",
+      "layman": "Reduce overall traffic wait time"
     },
     {
       "jargon": "Feasible solution",
-      "layman": "Working traffic plan"
+      "layman": "Workable traffic plan"
     },
     {
-      "jargon": "Superior performance",
-      "layman": "Better than current system"
+      "jargon": "Optimization results",
+      "layman": "Improved traffic performance"
+    },
+    {
+      "jargon": "Superior over existing control",
+      "layman": "Better than current traffic lights"
+    },
+    {
+      "jargon": "Performance comparison",
+      "layman": "Side-by-side test against old systems"
     }
   ]
 }

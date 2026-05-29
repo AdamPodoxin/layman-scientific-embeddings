@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Post-treatment recovery programs",
-      "layman": "Recovery programs after treatment"
+      "layman": "Recovery after treatment"
     },
     {
       "jargon": "Employment status",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Drinking-related problems",
-      "layman": "Problems caused by drinking"
+      "layman": "Alcohol-related issues"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Expanded measure of affiliation",
-      "layman": "Broader way to measure involvement"
-    },
-    {
       "jargon": "Questionnaire data",
-      "layman": "Survey responses"
+      "layman": "Surveys"
     },
     {
       "jargon": "Interview data",
       "layman": "Personal interviews"
     },
     {
-      "jargon": "Recruitment from treatment centers",
-      "layman": "Hiring from rehab programs"
+      "jargon": "Expanded measure of affiliation",
+      "layman": "Broader way to measure involvement"
     },
     {
-      "jargon": "Assessed approximately three months after discharge",
-      "layman": "Checked three months after leaving treatment"
+      "jargon": "Demographic data",
+      "layman": "Background information"
+    },
+    {
+      "jargon": "Exploratory study",
+      "layman": "Initial investigation"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Affiliation with A.A.",
+      "jargon": "A.A. affiliation",
       "layman": "Participation in A.A."
     },
     {
-      "jargon": "Acceptance of major A.A. tenets",
-      "layman": "Believing key A.A. beliefs"
-    },
-    {
-      "jargon": "Perceived serious drinking problem",
-      "layman": "Feeling they had a severe drinking issue"
+      "jargon": "Perceived 'hit bottom'",
+      "layman": "Feeling they had a serious drinking problem"
     },
     {
       "jargon": "Alcohol-related job problems",
-      "layman": "Job issues due to drinking"
+      "layman": "Workplace issues from drinking"
     },
     {
       "jargon": "Job stability",
-      "layman": "Job consistency"
+      "layman": "Consistent employment"
+    },
+    {
+      "jargon": "Workplace support",
+      "layman": "Support from coworkers"
     }
   ]
 }

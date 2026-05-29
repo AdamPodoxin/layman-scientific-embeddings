@@ -5,64 +5,64 @@
       "layman": "Breakdown"
     },
     {
-      "jargon": "Particle",
-      "layman": "Tiny building block"
+      "jargon": "Particles",
+      "layman": "Smaller matter building blocks"
     },
     {
-      "jargon": "Resonance",
-      "layman": "Short-lived energy peak"
-    },
-    {
-      "jargon": "Meson",
+      "jargon": "B-meson",
       "layman": "Type of subatomic particle"
     },
     {
-      "jargon": "Baryon",
-      "layman": "Heavy subatomic particle"
+      "jargon": "Xing",
+      "layman": "Xing"
+    },
+    {
+      "jargon": "Matter-antimatter asymmetry",
+      "layman": "Why there's more matter than antimatter"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Search",
-      "layman": "Look for something"
-    },
-    {
-      "jargon": "Detection",
-      "layman": "Spotting signals"
+      "jargon": "Collider experiments",
+      "layman": "Smash particles together"
     },
     {
       "jargon": "Data analysis",
-      "layman": "Examining data"
+      "layman": "Looking through data for patterns"
     },
     {
       "jargon": "Statistical significance",
-      "layman": "Checking if result is real"
+      "layman": "Checking if results are real or random"
     },
     {
-      "jargon": "Background subtraction",
-      "layman": "Removing noise"
+      "jargon": "Particle detection",
+      "layman": "Finding particles after collision"
+    },
+    {
+      "jargon": "Precision measurements",
+      "layman": "Very accurate data collection"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Observed decay",
-      "layman": "Decay was seen"
+      "jargon": "Mass difference",
+      "layman": "Slight weight difference"
     },
     {
-      "jargon": "New resonance state",
-      "layman": "New energy peak found"
+      "jargon": "Decay rate",
+      "layman": "How fast something breaks down"
     },
     {
       "jargon": "Branching ratio",
-      "layman": "Chance of a decay path"
+      "layman": "How often a decay happens in a certain way"
     },
     {
-      "jargon": "Mass measurement",
-      "layman": "Exact weight found"
+      "jargon": "New physics signal",
+      "layman": "Sign of unknown laws of nature"
     },
     {
-      "jargon": "Lifetime",
-      "layman": "How long it lasts"
+      "jargon": "Resonance peak",
+      "layman": "A spike indicating a new particle"
     }
   ]
 }

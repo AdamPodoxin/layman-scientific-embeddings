@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Government and regulatory initiatives",
-      "layman": "Government rules and policies"
+      "layman": "Official policies and rules"
     }
   ],
   "methodologies": [
@@ -31,22 +31,22 @@
       "layman": "Looking over information"
     },
     {
-      "jargon": "Investigation",
-      "layman": "Exploring a problem"
+      "jargon": "Investigations",
+      "layman": "Looking into problems"
     },
     {
       "jargon": "Evaluation",
       "layman": "Checking how well something works"
     },
     {
-      "jargon": "Theoretical approach",
-      "layman": "Using ideas instead of data"
+      "jargon": "Study",
+      "layman": "Research on a topic"
     }
   ],
   "outcomes": [
     {
       "jargon": "Uptrend direction",
-      "layman": "Growing faster over time"
+      "layman": "Growing steadily"
     },
     {
       "jargon": "Challenges",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "High rate of education",
-      "layman": "Many people are well-educated"
+      "layman": "Most people are well-educated"
     }
   ]
 }

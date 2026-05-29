@@ -2,29 +2,29 @@
   "core_entities": [
     {
       "jargon": "Pictorialist aesthetic",
-      "layman": "Old-style artistic photography"
+      "layman": "Old-style photo art"
     },
     {
       "jargon": "Urban industrial world",
-      "layman": "City and factory landscapes"
+      "layman": "City and factory environments"
     },
     {
       "jargon": "Die Neue Sachlichkeit",
-      "layman": "New Objectivity style"
+      "layman": "New Objectivity movement"
     },
     {
-      "jargon": "American Zivilisation",
-      "layman": "American civilization"
+      "jargon": "Amerikanismus",
+      "layman": "American cultural influence"
     },
     {
-      "jargon": "Reactionary modernism",
-      "layman": "Traditionalist modern art"
+      "jargon": "Kultur",
+      "layman": "Traditional culture"
     }
   ],
   "methodologies": [
     {
       "jargon": "Visual mutability",
-      "layman": "Changing photographic style"
+      "layman": "Changing photo styles"
     },
     {
       "jargon": "Commercial opportunism",
@@ -35,34 +35,34 @@
       "layman": "What publishers want to see"
     },
     {
-      "jargon": "Contextual publication",
-      "layman": "Publishing in different settings"
+      "jargon": "Reconciliation of modernism",
+      "layman": "Merging different art styles"
     },
     {
-      "jargon": "Aesthetic shift",
-      "layman": "Changing artistic style"
+      "jargon": "Photo interpretation",
+      "layman": "How photos are read or understood"
     }
   ],
   "outcomes": [
     {
       "jargon": "Shift in photographic style",
-      "layman": "Photography style changed"
+      "layman": "Change in how photos look"
+    },
+    {
+      "jargon": "Reactionary modernism",
+      "layman": "Conservative, traditional art style"
+    },
+    {
+      "jargon": "Urban industrial interpretation",
+      "layman": "City life seen as industrial"
+    },
+    {
+      "jargon": "Technological utopianism",
+      "layman": "Belief in tech bringing progress"
     },
     {
       "jargon": "Commercial success",
-      "layman": "Popular with buyers"
-    },
-    {
-      "jargon": "Rejection of technological utopianism",
-      "layman": "Disliked tech-driven optimism"
-    },
-    {
-      "jargon": "Reconciliation of traditions",
-      "layman": "Merging old and new values"
-    },
-    {
-      "jargon": "Publication in reactionary contexts",
-      "layman": "Published in traditionalist spaces"
+      "layman": "Photos sell well"
     }
   ]
 }

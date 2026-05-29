@@ -10,33 +10,33 @@
     },
     {
       "jargon": "Surplus approach",
-      "layman": "Way of measuring economic surplus"
+      "layman": "Method of measuring economic surplus"
     },
     {
       "jargon": "Formalism",
-      "layman": "Strict mathematical style of theory"
+      "layman": "Rigorous mathematical structure"
     },
     {
       "jargon": "Theoretical approach",
-      "layman": "How economists build models"
+      "layman": "How economists model economies"
     }
   ],
   "methodologies": [
     {
       "jargon": "Analytical argument",
-      "layman": "Logical reasoning"
+      "layman": "Logical reasoning process"
     },
     {
-      "jargon": "Critical review",
-      "layman": "Careful evaluation"
-    },
-    {
-      "jargon": "Theoretical development",
-      "layman": "Building economic models"
+      "jargon": "Criticism",
+      "layman": "Pointing out flaws"
     },
     {
       "jargon": "Interpretation",
       "layman": "Understanding meaning"
+    },
+    {
+      "jargon": "Theoretical development",
+      "layman": "Building economic models"
     },
     {
       "jargon": "Formal presentation",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "Defective interpretation",
+      "jargon": "Defective revival",
+      "layman": "Wrong economic revival"
+    },
+    {
+      "jargon": "Misinterpretation",
       "layman": "Wrong understanding"
     },
     {
       "jargon": "Lively debate",
-      "layman": "Strong discussion"
+      "layman": "Active discussion"
     },
     {
-      "jargon": "Compact analytical argument",
-      "layman": "Clear and short logical proof"
+      "jargon": "Disappearance of argument",
+      "layman": "Key point no longer present"
     },
     {
-      "jargon": "Contestation",
-      "layman": "Disagreement or challenge"
-    },
-    {
-      "jargon": "Main themes remain",
-      "layman": "Core points stay the same"
+      "jargon": "Contention",
+      "layman": "Central claim made"
     }
   ]
 }

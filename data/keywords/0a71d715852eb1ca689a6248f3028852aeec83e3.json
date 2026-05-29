@@ -5,34 +5,26 @@
       "layman": "Everything in space and time"
     },
     {
+      "jargon": "Gravity",
+      "layman": "Attraction between masses"
+    },
+    {
       "jargon": "Earth-Moon distance",
       "layman": "Space between Earth and Moon"
     },
     {
-      "jargon": "Gravitational sources",
-      "layman": "Objects that create gravity"
+      "jargon": "Lunar Ranging",
+      "layman": "Precise measurements to the Moon"
     },
     {
       "jargon": "Einsteinian metric",
-      "layman": "Standard way of describing gravity"
-    },
-    {
-      "jargon": "Vainshtein mechanism",
-      "layman": "Gravity fix at small scales"
+      "layman": "Standard model of gravity"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Lunar Ranging",
-      "layman": "Measuring distance to Moon with lasers"
-    },
-    {
-      "jargon": "Linearized versions of theories",
-      "layman": "Simple math models of gravity theories"
-    },
-    {
-      "jargon": "Non-linear level",
-      "layman": "Real-world, full physics version"
+      "jargon": "Linearized versions of gravity theories",
+      "layman": "Simplified gravity models"
     },
     {
       "jargon": "Precision gravitational measurements",
@@ -40,29 +32,37 @@
     },
     {
       "jargon": "Van Dam-Veltman-Zakharov discontinuity",
-      "layman": "Gravity gap in simple models"
+      "layman": "Gravity gap at large distances"
+    },
+    {
+      "jargon": "Non-linear level",
+      "layman": "Real-world, full gravity behavior"
+    },
+    {
+      "jargon": "Vainshtein mechanism",
+      "layman": "Fixes gravity flaws at small scales"
     }
   ],
   "outcomes": [
     {
       "jargon": "Small acceleration rate of the Universe",
-      "layman": "Slow speeding up of the universe"
+      "layman": "Slow speeding up of space"
     },
     {
-      "jargon": "Predicted corrections to metric",
-      "layman": "Gravity changes predicted by theories"
+      "jargon": "Corrections to Einsteinian metric",
+      "layman": "Gravity changes from standard model"
     },
     {
-      "jargon": "Sensitivity of experiments",
-      "layman": "Experiments can detect tiny changes"
+      "jargon": "Sensitivity of Lunar Ranging experiments",
+      "layman": "Moon measurements can detect tiny gravity shifts"
     },
     {
-      "jargon": "Absence of discontinuity at non-linear level",
+      "jargon": "Discontinuity present in linearized theories",
+      "layman": "Break in gravity models at large scales"
+    },
+    {
+      "jargon": "Absence at non-linear level",
       "layman": "No gap in real gravity behavior"
-    },
-    {
-      "jargon": "Contrary to naive expectation",
-      "layman": "Opposite of what people first thought"
     }
   ]
 }

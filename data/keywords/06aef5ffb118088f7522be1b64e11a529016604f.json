@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Simple polygon",
-      "layman": "Polygon without self-intersections"
+      "layman": "Polygon without self-intersection"
     },
     {
       "jargon": "Convex polygon",
-      "layman": "Polygon with all interior angles less than 180 degrees"
+      "layman": "Polygon with all angles less than 180 degrees"
     },
     {
       "jargon": "Pocket",
-      "layman": "Indentation in a polygon"
+      "layman": "Indentation in a shape"
     },
     {
       "jargon": "Convex hull",
-      "layman": "Smallest convex shape containing all points"
+      "layman": "Smallest enclosing shape"
     },
     {
       "jargon": "Equilateral polygon",
-      "layman": "Polygon with all sides equal"
+      "layman": "All sides equal length"
     }
   ],
   "methodologies": [
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Pivot",
-      "layman": "3D version of a flip for polygons"
+      "layman": "3D rotation of a polygon edge"
     },
     {
       "jargon": "Simultaneous flipping",
@@ -39,30 +39,30 @@
       "layman": "Flipping one pocket at a time"
     },
     {
-      "jargon": "Convexification",
-      "layman": "Process of turning a shape into a convex one"
+      "jargon": "Convexification algorithm",
+      "layman": "Method to turn shape into convex form"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Polygon becomes convex",
+      "layman": "Shape becomes smooth and rounded"
+    },
+    {
       "jargon": "Finite number of flips",
-      "layman": "Polygon becomes convex in a limited number of steps"
+      "layman": "Only a limited number of steps needed"
     },
     {
-      "jargon": "Self-crossing polygons",
-      "layman": "Polygons that intersect themselves"
-    },
-    {
-      "jargon": "\u0398(n\u00b2) time",
-      "layman": "Time grows with square of number of sides"
+      "jargon": "Theta(n\u00b2) time",
+      "layman": "Slow computation, grows with square of size"
     },
     {
       "jargon": "O(n) time",
-      "layman": "Time grows linearly with number of sides"
+      "layman": "Fast computation, grows with size"
     },
     {
-      "jargon": "Generalized to higher dimensions",
-      "layman": "Works in 3D and beyond"
+      "jargon": "Non-simple polygons can be convexified",
+      "layman": "Self-crossing shapes can be smoothed"
     }
   ]
 }

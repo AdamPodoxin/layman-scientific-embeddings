@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "android automata",
-      "layman": "Robot figures"
+      "layman": "Robot machines"
     },
     {
       "jargon": "lunar landscapes",
@@ -10,29 +10,29 @@
     },
     {
       "jargon": "perspective theaters",
-      "layman": "Theaters with depth illusions"
+      "layman": "Theaters with 3D views"
     },
     {
       "jargon": "vues d'optique",
-      "layman": "Optical view devices"
+      "layman": "Optical view boxes"
     },
     {
       "jargon": "microscopes",
-      "layman": "Magnifying tools for small things"
+      "layman": "Machines that see tiny things"
     }
   ],
   "methodologies": [
     {
       "jargon": "cabinet of curiosities",
-      "layman": "Collection of strange objects"
+      "layman": "Room with strange objects"
     },
     {
       "jargon": "analogical instrument",
-      "layman": "Tool that compares old and new tech"
+      "layman": "Tool that compares things"
     },
     {
       "jargon": "reframing",
-      "layman": "Reinterpreting how we see things"
+      "layman": "Rethinking how we see"
     },
     {
       "jargon": "visual perception",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "emergent media",
-      "layman": "New forms of media that grow over time"
+      "jargon": "complex links between old and new media",
+      "layman": "Old and new ways of seeing are connected"
     },
     {
-      "jargon": "complex links between old and new media",
-      "layman": "Deep connections between old and modern tools"
+      "jargon": "augment visual perception",
+      "layman": "Improve how we see"
     },
     {
       "jargon": "beautiful eye machines",
-      "layman": "Stunning tools that help us see"
+      "layman": "Stunning tools for seeing"
     },
     {
-      "jargon": "artful machines",
-      "layman": "Creative devices that impress"
+      "jargon": "fascinating artifacts",
+      "layman": "Interesting old items"
     },
     {
-      "jargon": "mediation of encounters with the world",
-      "layman": "How we experience the world through tools"
+      "jargon": "narrative analyzing",
+      "layman": "Telling a story about connections"
     }
   ]
 }

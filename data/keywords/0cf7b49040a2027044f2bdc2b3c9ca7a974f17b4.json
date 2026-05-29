@@ -10,37 +10,37 @@
     },
     {
       "jargon": "one-time signatures",
-      "layman": "Signatures usable only once"
+      "layman": "Signatures valid only once"
     },
     {
       "jargon": "few-time signatures",
-      "layman": "Signatures usable a few times"
+      "layman": "Signatures valid a few times"
     },
     {
       "jargon": "hypertrees",
-      "layman": "Complex tree structures used in security"
+      "layman": "Complex tree structures for security"
     }
   ],
   "methodologies": [
     {
-      "jargon": "stateless signature scheme",
-      "layman": "No need to keep track of past signatures"
+      "jargon": "stateless",
+      "layman": "No need to keep track of past actions"
     },
     {
       "jargon": "vectorized implementation",
       "layman": "Efficient processing using vectors"
     },
     {
-      "jargon": "signature scheme design",
-      "layman": "Creating a secure signing method"
+      "jargon": "signature scheme",
+      "layman": "Way to create digital signatures"
     },
     {
       "jargon": "public key",
-      "layman": "Key used to verify a signature"
+      "layman": "Public key for verifying signatures"
     },
     {
       "jargon": "private key",
-      "layman": "Secret key used to create a signature"
+      "layman": "Secret key for creating signatures"
     }
   ],
   "outcomes": [
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "long-term $2^{128}$ security",
-      "layman": "Strong security for decades"
+      "layman": "Very strong long-term protection"
     }
   ]
 }

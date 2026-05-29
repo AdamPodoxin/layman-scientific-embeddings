@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "School redistricting",
-      "layman": "Rearranging school boundaries"
+      "layman": "Rerouting students to different schools"
     },
     {
       "jargon": "School assignment plans",
-      "layman": "How students are assigned to schools"
+      "layman": "Maps showing which students go to which schools"
     },
     {
       "jargon": "School capacity",
-      "layman": "Number of students a school can hold"
-    },
-    {
-      "jargon": "Socioeconomic distribution",
-      "layman": "How income and education levels are spread"
+      "layman": "How many students a school can hold"
     },
     {
       "jargon": "Busing costs",
-      "layman": "Cost of transporting students by bus"
+      "layman": "Expenses for transporting students by bus"
+    },
+    {
+      "jargon": "Socioeconomic distribution",
+      "layman": "How income and social status are spread in areas"
     }
   ],
   "methodologies": [
     {
       "jargon": "Heuristic search",
-      "layman": "Smart guessing to find solutions"
-    },
-    {
-      "jargon": "Information visualization",
-      "layman": "Graphs and images to show data"
+      "layman": "Smart guessing to find good options"
     },
     {
       "jargon": "Multicriteria optimization",
       "layman": "Balancing several goals at once"
     },
     {
-      "jargon": "Alternative plans",
-      "layman": "Different school assignment options"
+      "jargon": "Information visualization",
+      "layman": "Showing data through pictures"
     },
     {
-      "jargon": "Population data",
-      "layman": "Data about people in the area"
+      "jargon": "Alternative plan generation",
+      "layman": "Creating different school plans"
+    },
+    {
+      "jargon": "Tradeoff representation",
+      "layman": "Showing differences in priorities"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Plans that look very different"
     },
     {
-      "jargon": "Tradeoffs in decision space",
-      "layman": "Balancing competing goals"
+      "jargon": "Decision space",
+      "layman": "All possible choices for redistricting"
     },
     {
       "jargon": "Empirical results",
-      "layman": "Results from real data"
+      "layman": "Tested results from real data"
     },
     {
-      "jargon": "Summarizing alternative plans",
-      "layman": "Showing key features of different plans"
+      "jargon": "Compared alternative plans",
+      "layman": "Reviewed different school plans"
     },
     {
-      "jargon": "Comparing alternative plans",
-      "layman": "Looking at how plans differ"
+      "jargon": "Visualization methods",
+      "layman": "Tools to show plans clearly"
     }
   ]
 }

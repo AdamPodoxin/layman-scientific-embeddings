@@ -17,30 +17,30 @@
       "layman": "Scientific publications"
     },
     {
-      "jargon": "Korea Advanced Institute of Science and Technology",
-      "layman": "Top Korean research institute"
+      "jargon": "Top scholars",
+      "layman": "Leading experts"
     }
   ],
   "methodologies": [
     {
       "jargon": "Five-year study",
-      "layman": "Long-term research over five years"
+      "layman": "Study over five years"
     },
     {
-      "jargon": "Paper publication count",
-      "layman": "Number of research papers published"
+      "jargon": "Paper publications",
+      "layman": "Research articles published"
+    },
+    {
+      "jargon": "Quantified publications",
+      "layman": "Measuring research output"
     },
     {
       "jargon": "Annual assessment",
-      "layman": "Annual review process"
+      "layman": "Annual review"
     },
     {
       "jargon": "Top 15 ranking",
-      "layman": "Top 15 list by performance"
-    },
-    {
-      "jargon": "Quantitative measurement",
-      "layman": "Measuring by numbers"
+      "layman": "Top 15 list"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Top institution",
-      "layman": "Best research organization"
+      "layman": "Most productive organization"
     },
     {
-      "jargon": "Published papers",
-      "layman": "Research articles released"
+      "jargon": "Chinese Academy of Sciences",
+      "layman": "Chinese Academy of Sciences"
     },
     {
-      "jargon": "Field measurement",
-      "layman": "How the field is evaluated"
+      "jargon": "Korea Advanced Institute of Science and Technology",
+      "layman": "Korea Advanced Institute of Science and Technology"
     },
     {
-      "jargon": "Ongoing study",
-      "layman": "Study that continues yearly"
+      "jargon": "Measured by paper quantity",
+      "layman": "Based on how many papers published"
     }
   ]
 }

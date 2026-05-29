@@ -1,10 +1,11 @@
+import argparse
 import time
 import json
 import traceback
+from typing import cast
 from pathlib import Path
 from datasets import Dataset, load_dataset
-from transformers import pipeline
-from transformers.pipelines.pt_utils import KeyDataset
+from vllm import LLM, SamplingParams
 
 
 NUM_ABSTRACTS_TO_PROCESS = 1_000
@@ -12,6 +13,8 @@ KEYWORDS_PATH = Path("data") / "keywords"
 
 MODEL = "unsloth/Qwen3-4B-Instruct-2507"
 MAX_RESPONSE_TOKENS = 512
+GPU_MEMORY_UTILIZATION = 0.85
+MAX_MODEL_LEN = 8192
 
 DATASET_PATH = "allenai/scirepeval"
 DATASET_NAME = "scidocs_mag_mesh"
@@ -73,7 +76,7 @@ def create_user_prompt(title: str, abstract: str):
     """
 
 
-def create_messages_for_pipe(row: Dataset):
+def create_messages_for_pipe(row: dict):
     title = row["title"]
     abstract = row["abstract"]
 
@@ -88,49 +91,73 @@ def create_messages_for_pipe(row: Dataset):
     return {"prompt": prompt}
 
 
-def get_keywords_from_response(response: list[dict[str, list[dict[str, str]]]]):
-    response_dict = response[0]
-    response_parts = response_dict["generated_text"]
+def get_keywords_from_response(assistant_response: str) -> dict:
+    return json.loads(assistant_response)
 
-    assistant_response = [
-        d["content"]
-        for d in response_parts
-        if d["role"] == "assistant"
-    ][0]
 
-    keywords_dict: dict = json.loads(assistant_response)
-    return keywords_dict
+def parse_args():
+    parser = argparse.ArgumentParser(description="Generate jargon-to-layman keywords for scientific abstracts.")
+    parser.add_argument(
+        "--force-regenerate",
+        action="store_true",
+        help="Regenerate keywords for all abstracts, even if they have already been processed.",
+    )
+    return parser.parse_args()
 
 
 def main():
+    args = parse_args()
+
     KEYWORDS_PATH.mkdir(parents=True, exist_ok=True)
     
-    ds = load_dataset(DATASET_PATH, DATASET_NAME, split="evaluation")
+    ds: Dataset = cast(
+        Dataset,
+        load_dataset(DATASET_PATH, DATASET_NAME, split="evaluation"),
+    )
+
     ds = ds.filter(lambda row: row["title"] is not None and row["abstract"] is not None)
     ds = ds.take(NUM_ABSTRACTS_TO_PROCESS)
 
-    # Don't re-generate keywords for already done abstracts 
-    ds_to_generate = ds.filter(lambda row: not (KEYWORDS_PATH / f"{row["doc_id"]}.json").exists())
+    if args.force_regenerate:
+        ds_to_generate = ds
+    else:
+        # Don't re-generate keywords for already done abstracts
+        ds_to_generate = ds.filter(lambda row: not (KEYWORDS_PATH / f"{row["doc_id"]}.json").exists())
+
     ds_to_generate = ds_to_generate.map(create_messages_for_pipe)
 
     num_abstracts = ds_to_generate.shape[0]
 
-    pipe = pipeline(
-        task="text-generation", 
+    print("Starting keyword generation for", num_abstracts, "abstracts")
+
+    if num_abstracts == 0:
+        print("No abstracts need keyword generation; all selected abstracts are already processed.")
+        return
+
+    llm = LLM(
         model=MODEL,
-        max_new_tokens=MAX_RESPONSE_TOKENS,
+        gpu_memory_utilization=GPU_MEMORY_UTILIZATION,
+        max_model_len=MAX_MODEL_LEN,
     )
 
     start_time = time.time()
 
-    print("Starting keyword generation for", num_abstracts, "abstracts")
+    doc_ids = ds_to_generate["doc_id"]
+    messages = ds_to_generate["prompt"]
+    responses = llm.chat(
+        messages=messages,
+        sampling_params=SamplingParams(
+            max_tokens=MAX_RESPONSE_TOKENS,
+        ),
+        use_tqdm=True,
+    )
 
-    for doc_id, response in zip(ds_to_generate["doc_id"], pipe(KeyDataset(ds_to_generate, "prompt"))):
+    for doc_id, response in zip(doc_ids, responses):
         filename = f"{doc_id}.json"
         keywords_file_path = KEYWORDS_PATH / filename
 
         try:
-            keywords = get_keywords_from_response(response)
+            keywords = get_keywords_from_response(response.outputs[0].text)
             
             with open(keywords_file_path, "w+") as file:
                 file.write(json.dumps(keywords, indent=2))

@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Economic agents",
-      "layman": "People or businesses making financial decisions"
+      "layman": "People and businesses making financial decisions"
     },
     {
       "jargon": "Firms",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Two-population evolutionary game",
-      "layman": "Model showing how groups make decisions over time"
+      "layman": "Model showing how groups adapt over time"
     },
     {
       "jargon": "Dynamical context",
       "layman": "Changing over time system"
     },
     {
-      "jargon": "Adoption process",
-      "layman": "How people start using new behaviors"
+      "jargon": "Exchange of financial activities",
+      "layman": "Sharing financial decisions"
     },
     {
       "jargon": "Regulated market",
-      "layman": "Market controlled by rules"
+      "layman": "Market with government rules"
     },
     {
-      "jargon": "Exchange of financial activities",
-      "layman": "Trading money-based actions"
+      "jargon": "Adoption process",
+      "layman": "How people start using new financial choices"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Interest of agents",
-      "layman": "Motivation behind decisions"
+      "layman": "Motivations of people and businesses"
     },
     {
       "jargon": "Environmental protection mechanism",
-      "layman": "System to protect nature"
+      "layman": "System to protect nature through finance"
     },
     {
       "jargon": "Evolutionary dynamics",
-      "layman": "How choices change over time"
+      "layman": "How actions change over time"
     }
   ]
 }

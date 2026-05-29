@@ -6,11 +6,11 @@
     },
     {
       "jargon": "bourgeoisie",
-      "layman": "Middle-class merchants and professionals"
+      "layman": "Middle-class urban professionals and merchants"
     },
     {
       "jargon": "nobility",
-      "layman": "Ruling aristocratic class"
+      "layman": "Traditional wealthy landowning class"
     },
     {
       "jargon": "Enlightenment",
@@ -18,17 +18,17 @@
     },
     {
       "jargon": "revolution",
-      "layman": "Mass social and political change"
+      "layman": "Sudden political change"
     }
   ],
   "methodologies": [
     {
       "jargon": "redefinition of key terms",
-      "layman": "Rewriting definitions based on new evidence"
+      "layman": "Changing how words are understood in a debate"
     },
     {
-      "jargon": "critical research",
-      "layman": "In-depth scholarly analysis"
+      "jargon": "criticism and research",
+      "layman": "Testing ideas through analysis and debate"
     },
     {
       "jargon": "discourse analysis",
@@ -39,8 +39,8 @@
       "layman": "Shared beliefs and values in society"
     },
     {
-      "jargon": "historical reevaluation",
-      "layman": "Reassessing past events with new perspectives"
+      "jargon": "historical revisionism",
+      "layman": "Rewriting history based on new evidence"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "redefinition of the early modern French state",
-      "layman": "New understanding of the French government's structure"
+      "layman": "New understanding of France's government structure"
     },
     {
-      "jargon": "debate evolution",
-      "layman": "Changing arguments over time"
+      "jargon": "inception of the revolutionary process",
+      "layman": "Beginning of the revolution"
     },
     {
-      "jargon": "shift in scholarly ground",
-      "layman": "Change in the foundation of academic discussion"
+      "jargon": "evolution of the debate",
+      "layman": "How the discussion changed over time"
     },
     {
-      "jargon": "inception of revolutionary process",
-      "layman": "Beginning of the revolutionary movement"
+      "jargon": "shift in ground for debate",
+      "layman": "Change in the foundation of the discussion"
     }
   ]
 }

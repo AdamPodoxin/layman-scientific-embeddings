@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Sustainable development",
-      "layman": "Long-term balanced growth"
+      "layman": "Long-term balance of growth and environment"
     },
     {
       "jargon": "Flood control system",
-      "layman": "System to prevent flooding"
+      "layman": "System to manage flooding"
     },
     {
       "jargon": "Water conservation",
@@ -18,17 +18,17 @@
     },
     {
       "jargon": "Water pollution control",
-      "layman": "Stopping water from being polluted"
+      "layman": "Preventing water from becoming dirty"
     }
   ],
   "methodologies": [
     {
       "jargon": "Improving flood control system",
-      "layman": "Upgrading flood defenses"
+      "layman": "Upgrading flood management"
     },
     {
       "jargon": "Strengthening water conservation",
-      "layman": "Boosting water-saving practices"
+      "layman": "Boosting water-saving efforts"
     },
     {
       "jargon": "Strengthening water pollution control",
@@ -36,17 +36,17 @@
     },
     {
       "jargon": "Strengthening ecological and environmental protection",
-      "layman": "Protecting nature and ecosystems"
+      "layman": "Improving nature and environment care"
     },
     {
-      "jargon": "Proposed countermeasures",
-      "layman": "Suggested solutions"
+      "jargon": "Proposing countermeasures",
+      "layman": "Suggesting solutions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Sustainable development of urban water conservation",
-      "layman": "Healthy water use in cities over time"
+      "layman": "Healthy city water for future"
     },
     {
       "jargon": "Improved flood control",
@@ -54,7 +54,7 @@
     },
     {
       "jargon": "Better water conservation",
-      "layman": "More water saved"
+      "layman": "Less water wasted"
     },
     {
       "jargon": "Reduced water pollution",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Stronger environmental protection",
-      "layman": "Healthier natural surroundings"
+      "layman": "Healthier ecosystems"
     }
   ]
 }

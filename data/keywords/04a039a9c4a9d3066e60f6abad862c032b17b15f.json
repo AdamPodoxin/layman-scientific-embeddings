@@ -2,37 +2,37 @@
   "core_entities": [
     {
       "jargon": "Orthopedic patients",
-      "layman": "Patients with bone or joint issues"
+      "layman": "Patients with bone or joint conditions"
+    },
+    {
+      "jargon": "Integrative medicine",
+      "layman": "Combines conventional and alternative treatments"
     },
     {
       "jargon": "Hip replacement",
-      "layman": "Surgery to replace a hip joint"
+      "layman": "Surgery to replace a damaged hip joint"
     },
     {
       "jargon": "Knee replacement",
-      "layman": "Surgery to replace a knee joint"
+      "layman": "Surgery to replace a damaged knee joint"
     },
     {
       "jargon": "Back surgery",
-      "layman": "Surgery for back problems"
-    },
-    {
-      "jargon": "Medical back pain",
-      "layman": "Back pain without surgery"
+      "layman": "Surgery for spine or back problems"
     }
   ],
   "methodologies": [
     {
       "jargon": "Electronic health record",
-      "layman": "Digital patient medical file"
+      "layman": "Digital patient medical files"
     },
     {
       "jargon": "APR-DRG categories",
-      "layman": "Patient groupings by surgery type"
+      "layman": "Groups patients by type of surgery"
     },
     {
       "jargon": "Self-report intensity scale",
-      "layman": "Patient rating pain or anxiety 0 to 10"
+      "layman": "Patient rates pain or anxiety from 0 to 10"
     },
     {
       "jargon": "Chi-square test",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Paired t-test",
-      "layman": "Compare before-and-after patient scores"
+      "layman": "Test to compare before-and-after scores"
     }
   ],
   "outcomes": [
     {
       "jargon": "Change in pain score",
-      "layman": "Patient's pain level after treatment"
+      "layman": "Difference in pain level before and after"
     },
     {
       "jargon": "Change in anxiety score",
-      "layman": "Patient's anxiety level after treatment"
+      "layman": "Difference in anxiety level before and after"
     },
     {
       "jargon": "Mean pain score change",
-      "layman": "Average drop in pain rating"
-    },
-    {
-      "jargon": "Mean anxiety score change",
-      "layman": "Average drop in anxiety rating"
+      "layman": "Average decrease or increase in pain"
     },
     {
       "jargon": "Significant differences",
-      "layman": "Clear improvement in pain or anxiety"
+      "layman": "Real, not random, changes in scores"
+    },
+    {
+      "jargon": "Percentage of patients",
+      "layman": "Proportion of patients who received a treatment"
     }
   ]
 }

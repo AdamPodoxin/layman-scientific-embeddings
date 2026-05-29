@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Developmental problems",
-      "layman": "Growth and progress issues"
+      "layman": "Growth and progress challenges"
     },
     {
       "jargon": "Social science",
-      "layman": "Study of society"
+      "layman": "Study of human society"
     },
     {
       "jargon": "Economics",
@@ -14,43 +14,39 @@
     },
     {
       "jargon": "Conceptual models",
-      "layman": "Simplified ways of thinking about reality"
+      "layman": "Basic frameworks for thinking"
     },
     {
       "jargon": "Metaphors",
-      "layman": "Comparisons used to explain ideas"
+      "layman": "Simplified comparisons used to explain ideas"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Conceptual shift",
-      "layman": "Change in how we think about things"
+      "jargon": "Shift in concepts",
+      "layman": "Change in fundamental thinking"
     },
     {
-      "jargon": "Framework",
-      "layman": "Structure for analysis"
+      "jargon": "Framework for analysis",
+      "layman": "Structure for analyzing problems"
     },
     {
-      "jargon": "Analytical framework",
-      "layman": "Tool for understanding problems"
-    },
-    {
-      "jargon": "Scientific paradigm",
-      "layman": "Main way of seeing science"
+      "jargon": "Perceptible shift",
+      "layman": "Clear and noticeable change"
     },
     {
       "jargon": "Guidance and control",
       "layman": "Direction and oversight"
+    },
+    {
+      "jargon": "Practice of social science",
+      "layman": "How social scientists work"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Perceptible shift",
-      "layman": "Clear change happening"
-    },
-    {
-      "jargon": "Adequate framework",
-      "layman": "Good enough system for solving problems"
+      "jargon": "Adequate analysis",
+      "layman": "Good understanding of problems"
     },
     {
       "jargon": "Contribution to development",
@@ -58,11 +54,15 @@
     },
     {
       "jargon": "Changes in practice",
-      "layman": "New ways of doing things"
+      "layman": "New ways of working"
     },
     {
-      "jargon": "New metaphor",
-      "layman": "New way of comparing social issues"
+      "jargon": "New framework",
+      "layman": "Updated system for solving issues"
+    },
+    {
+      "jargon": "Social process",
+      "layman": "How society evolves over time"
     }
   ]
 }

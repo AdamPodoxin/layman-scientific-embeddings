@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Polynomial",
-      "layman": "Mathematical expression with variables and exponents"
+      "layman": "Mathematical expression with variables and coefficients"
     },
     {
       "jargon": "Zero-dimensional ideal",
-      "layman": "Set of equations with no non-trivial solutions"
+      "layman": "Set of equations with no free variables"
     },
     {
       "jargon": "Quotient algebra",
-      "layman": "Algebra formed by dividing out a set of rules"
+      "layman": "Algebra formed by dividing by a set of rules"
     },
     {
       "jargon": "Monomial ordering",
-      "layman": "Rule for comparing terms in math expressions"
+      "layman": "Way to order terms in math expressions"
     },
     {
       "jargon": "Gr\u00f6bner basis",
-      "layman": "Special set of polynomials that simplifies system solving"
+      "layman": "Special set of polynomials for solving systems"
     }
   ],
   "methodologies": [
     {
       "jargon": "Normal form computation",
-      "layman": "Simplifying equations to a standard form"
+      "layman": "Simplifying equations to standard form"
     },
     {
       "jargon": "Symbolic computation",
-      "layman": "Math operations without numbers"
+      "layman": "Math calculations using symbols"
     },
     {
       "jargon": "Linear algebra steps",
-      "layman": "Using matrix and vector math"
+      "layman": "Using matrices and vectors to solve problems"
     },
     {
       "jargon": "Numerical criteria",
       "layman": "Using numbers to guide decisions"
     },
     {
-      "jargon": "Algorithm proof",
-      "layman": "Showing the method works correctly"
+      "jargon": "Polynomial system solving",
+      "layman": "Solving systems of polynomial equations"
     }
   ],
   "outcomes": [
     {
-      "jargon": "New type of representations",
-      "layman": "New ways to describe solutions"
-    },
-    {
       "jargon": "Weakened monomial ordering",
-      "layman": "Fewer strict rules for math operations"
+      "layman": "More flexible rules for ordering terms"
     },
     {
-      "jargon": "Improved practical efficiency",
-      "layman": "Faster and more usable results"
+      "jargon": "New representations",
+      "layman": "Fresh ways to describe algebraic structures"
     },
     {
-      "jargon": "Classical benchmark systems",
-      "layman": "Standard test problems in math"
+      "jargon": "Practical efficiency",
+      "layman": "Better performance in real use"
     },
     {
-      "jargon": "Symbolic-numeric hybrid approach",
-      "layman": "Mixing exact math with number-based checks"
+      "jargon": "Correctness proof",
+      "layman": "Proof the method works right"
+    },
+    {
+      "jargon": "Benchmark polynomial systems",
+      "layman": "Standard test problems for algorithms"
     }
   ]
 }

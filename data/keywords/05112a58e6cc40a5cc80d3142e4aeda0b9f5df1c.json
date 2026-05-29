@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Two-dimensional gravity",
-      "layman": "Gravity in a flat plane"
+      "jargon": "Cosmological structure formation",
+      "layman": "Formation of large-scale structures in the universe"
     },
     {
-      "jargon": "Expanding background",
-      "layman": "Space growing over time"
+      "jargon": "Gravity in (2+1) dimensions",
+      "layman": "Gravity in a flat, two-dimensional space with time"
     },
     {
       "jargon": "Density perturbation",
-      "layman": "Tiny variations in matter density"
+      "layman": "Small variations in matter density"
     },
     {
-      "jargon": "(2+1)-dimensional gravity",
-      "layman": "Gravity in two space dimensions and one time dimension"
+      "jargon": "Expanding background",
+      "layman": "Growing universe space"
     },
     {
-      "jargon": "Spherical top-hat model",
-      "layman": "Simple ball-shaped cluster of matter"
+      "jargon": "Newtonian limit",
+      "layman": "Simple gravity rules resembling Newton's laws"
     }
   ],
   "methodologies": [
     {
       "jargon": "Action principle of Einstein",
-      "layman": "Mathematical rule for gravity"
-    },
-    {
-      "jargon": "Newtonian limit",
-      "layman": "Simple gravity rules at slow speeds"
+      "layman": "Mathematical rule for gravity based on energy and paths"
     },
     {
       "jargon": "Linearized form",
-      "layman": "Simple version of the equations"
+      "layman": "Simple, small-change version of equations"
+    },
+    {
+      "jargon": "Spherical top-hat model",
+      "layman": "Idealized way to simulate clustering"
     },
     {
       "jargon": "Numerical simulations",
-      "layman": "Computer models of physical systems"
+      "layman": "Computational modeling of physical systems"
     },
     {
-      "jargon": "Deriving equations",
-      "layman": "Finding math rules from principles"
+      "jargon": "Derive equations",
+      "layman": "Work out mathematical rules from first principles"
     }
   ],
   "outcomes": [
     {
       "jargon": "No structures can grow",
-      "layman": "No clumps form"
-    },
-    {
-      "jargon": "Structure formation",
-      "layman": "Clumps of matter form"
+      "layman": "No clumps form in two dimensions"
     },
     {
       "jargon": "Fluid equations",
-      "layman": "Math rules for matter flow"
+      "layman": "Equations that describe how matter moves"
     },
     {
-      "jargon": "Linearized solution",
-      "layman": "Simple solution to the equations"
+      "jargon": "Linearized equations",
+      "layman": "Simplified equations for small changes"
     },
     {
       "jargon": "Nonlinear growth",
-      "layman": "Complex, real-world growth"
+      "layman": "Complex structure growth over time"
+    },
+    {
+      "jargon": "Special case of D=2",
+      "layman": "Two-dimensional gravity scenario"
     }
   ]
 }

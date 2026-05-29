@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
+      "jargon": "Patients' rights",
+      "layman": "Patient rights"
+    },
+    {
       "jargon": "Physicians",
       "layman": "Doctors"
     },
     {
-      "jargon": "Patients' rights",
-      "layman": "Patients' rights"
+      "jargon": "Medical institutions",
+      "layman": "Hospitals and clinics"
     },
     {
       "jargon": "Informed consent",
       "layman": "Patient agreement before treatment"
     },
     {
-      "jargon": "Medical services",
-      "layman": "Healthcare services"
-    },
-    {
-      "jargon": "Diagnosis",
-      "layman": "Medical assessment of illness"
+      "jargon": "Payment for medical services",
+      "layman": "Cost of medical care"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Interview survey",
-      "layman": "Questionnaire interviews"
+      "jargon": "Survey by interview",
+      "layman": "Face-to-face questionnaire"
     },
     {
       "jargon": "Data collection",
       "layman": "Gathering information"
     },
     {
-      "jargon": "Legislative framework",
-      "layman": "Health laws and rules"
+      "jargon": "National legislation",
+      "layman": "Government medical laws"
     },
     {
-      "jargon": "Patient education",
-      "layman": "Teaching patients about care"
+      "jargon": "Clinical practice",
+      "layman": "Doctors' daily work"
     },
     {
-      "jargon": "Healthcare practice",
-      "layman": "Daily medical work"
+      "jargon": "Stakeholder viewpoints",
+      "layman": "Perspectives from those involved"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Low awareness",
-      "layman": "Poor understanding"
+      "jargon": "Low level of physician knowledge",
+      "layman": "Doctors don't know enough"
     },
     {
-      "jargon": "Delayed visits",
-      "layman": "Late doctor visits"
+      "jargon": "Delayed patient visits",
+      "layman": "Patients come late to see doctors"
     },
     {
       "jargon": "Lack of informed consent",
       "layman": "No patient agreement given"
     },
     {
-      "jargon": "Payment information gap",
-      "layman": "Missing payment details"
+      "jargon": "Need for new protection instruments",
+      "layman": "Need for better patient safety tools"
     },
     {
-      "jargon": "Need for new instruments",
-      "layman": "Need for better patient protection tools"
+      "jargon": "Violence of rights",
+      "layman": "Abuse of patient rights"
     }
   ]
 }

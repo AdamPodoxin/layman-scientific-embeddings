@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Mobile cloud computing",
-      "layman": "Mobile cloud computing"
+      "layman": "Smartphones using cloud services"
     },
     {
       "jargon": "Cyberattacks",
-      "layman": "Malicious online attacks"
+      "layman": "Digital hacks"
     },
     {
       "jargon": "Data integrity",
@@ -18,13 +18,13 @@
     },
     {
       "jargon": "Service availability",
-      "layman": "System accessibility"
+      "layman": "Apps staying online"
     }
   ],
   "methodologies": [
     {
       "jargon": "Deep learning approach",
-      "layman": "Advanced AI learning method"
+      "layman": "AI learning from patterns"
     },
     {
       "jargon": "Framework",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Experimental results",
-      "layman": "Test outcomes"
+      "layman": "Tested outcomes"
     },
     {
       "jargon": "Machine learning-based approaches",
-      "layman": "AI methods using data patterns"
+      "layman": "AI methods using data"
     },
     {
       "jargon": "Detection and isolation",
-      "layman": "Finding and removing threats"
+      "layman": "Spot and stop threats"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Very correct results"
     },
     {
-      "jargon": "Up to 97.11% accuracy",
-      "layman": "97% correct detection"
+      "jargon": "97.11% detection rate",
+      "layman": "97% accurate in spotting attacks"
     },
     {
-      "jargon": "Recognizes diverse cyberattacks",
-      "layman": "Detects many types of attacks"
+      "jargon": "Diverse cyberattacks",
+      "layman": "Many types of digital threats"
     },
     {
       "jargon": "Effectiveness comparison",
-      "layman": "Better than existing methods"
+      "layman": "Better than current methods"
     },
     {
       "jargon": "Preventive approach",
-      "layman": "Action before damage occurs"
+      "layman": "Stop threats before damage"
     }
   ]
 }

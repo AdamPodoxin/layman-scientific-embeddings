@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Female flight attendants",
-      "layman": "Women working in airlines"
+      "layman": "Women in airline service"
     },
     {
       "jargon": "Male personnel",
@@ -10,37 +10,37 @@
     },
     {
       "jargon": "Higher-status personnel",
-      "layman": "Men with more power or authority"
-    },
-    {
-      "jargon": "Equal-status personnel",
-      "layman": "Men at the same level as women"
+      "layman": "More powerful or senior workers"
     },
     {
       "jargon": "Lower-status personnel",
-      "layman": "Men with less power or authority"
+      "layman": "Less powerful or junior workers"
+    },
+    {
+      "jargon": "Socio-sexual behaviors",
+      "layman": "Social behaviors with sexual overtones"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Perception-based survey",
-      "layman": "Women report what they observe"
+      "jargon": "Incidence recording",
+      "layman": "Tracking how often events happen"
     },
     {
       "jargon": "Affective response rating",
-      "layman": "How strongly people feel emotions"
+      "layman": "Measuring emotional reactions"
     },
     {
-      "jargon": "Hypothetical scenario testing",
-      "layman": "Imagined situations about harassment"
+      "jargon": "Hypothetical scenarios",
+      "layman": "Fake situations used in testing"
     },
     {
-      "jargon": "Socio-sexual behavior tracking",
-      "layman": "Recording sexual workplace actions"
+      "jargon": "Perception study",
+      "layman": "Surveying people's views"
     },
     {
-      "jargon": "Social exchange theory",
-      "layman": "People weigh benefits and costs of interactions"
+      "jargon": "Social exchange explanation",
+      "layman": "Looking at how people trade benefits"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Moderate verbal and physical harassment",
-      "layman": "Mild to strong words and touching"
+      "layman": "Mild to strong verbal and physical pressure"
     },
     {
       "jargon": "No differential effect by status",
-      "layman": "Status doesn't change feelings"
+      "layman": "Status doesn't matter in mild cases"
     },
     {
-      "jargon": "Status has no effect on mild harassment",
-      "layman": "Low status doesn't matter for mild acts"
+      "jargon": "Habituation explanation",
+      "layman": "People get used to harassment"
     },
     {
-      "jargon": "Most negative response to lower-status harassment",
-      "layman": "Worst feelings when low-status men act"
+      "jargon": "Status effect on emotional response",
+      "layman": "Emotions change based on who is harassing"
     }
   ]
 }

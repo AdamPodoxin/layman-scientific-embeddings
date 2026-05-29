@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Diagnosis",
-      "layman": "Medical label"
+      "layman": "Medical identification of illness"
     },
     {
       "jargon": "Professional diagnosis",
-      "layman": "Doctor's diagnosis"
+      "layman": "Doctor-made diagnosis"
     },
     {
       "jargon": "Lay diagnosis",
-      "layman": "Patient's self-diagnosis"
+      "layman": "Non-expert diagnosis"
     },
     {
       "jargon": "Classification",
-      "layman": "Categorization"
+      "layman": "Categorizing illnesses"
     },
     {
       "jargon": "Health and illness",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
+      "jargon": "Social framing",
+      "layman": "How society shapes illness"
+    },
+    {
       "jargon": "Micro-level diagnosis",
-      "layman": "Small-scale diagnosis"
+      "layman": "Diagnosis in daily interactions"
     },
     {
       "jargon": "Macro-level diagnosis",
-      "layman": "Large-scale diagnosis"
+      "layman": "Diagnosis in large social systems"
     },
     {
-      "jargon": "Social framing",
-      "layman": "How society shapes diagnosis"
+      "jargon": "Negotiation",
+      "layman": "Agreement between parties"
     },
     {
-      "jargon": "Negotiation of diagnosis",
-      "layman": "Discussing diagnosis together"
-    },
-    {
-      "jargon": "Mediation in diagnosis",
-      "layman": "Third party helping with diagnosis"
+      "jargon": "Mediation",
+      "layman": "Helping people reach agreement"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Sociological questions",
-      "layman": "Big social questions"
-    },
-    {
-      "jargon": "Innovative strand of work",
-      "layman": "New type of research"
-    },
-    {
-      "jargon": "Consequences of diagnosis",
-      "layman": "Effects of being diagnosed"
-    },
-    {
-      "jargon": "Crystallise discussions",
-      "layman": "Clarify debates"
-    },
-    {
       "jargon": "Social consequences",
-      "layman": "Impact on society"
+      "layman": "Impact on life and society"
+    },
+    {
+      "jargon": "Contingency",
+      "layman": "Dependence on changing factors"
+    },
+    {
+      "jargon": "Innovation in sociology",
+      "layman": "New sociological ideas"
+    },
+    {
+      "jargon": "Sociological questions",
+      "layman": "Big social inquiries"
+    },
+    {
+      "jargon": "Special issue",
+      "layman": "Focused collection of papers"
     }
   ]
 }

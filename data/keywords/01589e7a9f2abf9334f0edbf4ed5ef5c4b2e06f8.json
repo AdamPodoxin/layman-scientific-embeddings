@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Gender",
-      "layman": "Gender roles"
+      "layman": "Female or male identity"
     },
     {
       "jargon": "Satire",
-      "layman": "Mocking writing"
+      "layman": "Humorous criticism"
     },
     {
       "jargon": "Periodical",
-      "layman": "Periodical publication"
+      "layman": "Regular magazine"
     },
     {
-      "jargon": "Female specularity",
-      "layman": "Women's reflection in society"
+      "jargon": "Whig publicness",
+      "layman": "Political participation in England"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Spectatorial public sphere",
-      "layman": "Public watching and reacting"
+      "jargon": "Satirical critique",
+      "layman": "Using humor to attack ideas"
     },
     {
-      "jargon": "Aesthetic failure",
-      "layman": "Poor artistic effect"
+      "jargon": "Spectatorial public sphere",
+      "layman": "Audience watching public events"
     },
     {
       "jargon": "Discursivity",
-      "layman": "Freedom to speak and write"
+      "layman": "Ability to speak or write freely"
     },
     {
       "jargon": "Ridicule",
-      "layman": "Mocking or making fun of"
+      "layman": "Making someone laugh through mockery"
     },
     {
-      "jargon": "Whig publicness",
-      "layman": "Political public engagement"
+      "jargon": "Cultural authority",
+      "layman": "Power to influence culture"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Neutering Addison and Steele",
-      "layman": "Diminishing their influence"
+      "jargon": "Aesthetic failure",
+      "layman": "Poor artistic quality"
+    },
+    {
+      "jargon": "Female specularity",
+      "layman": "Women's mirror-like reflection"
     },
     {
       "jargon": "Anti-Pamelism",
-      "layman": "Opposition to idealized female portrayals"
-    },
-    {
-      "jargon": "Female discursivity",
-      "layman": "Women's ability to express ideas"
+      "layman": "Opposition to idealized female stories"
     },
     {
       "jargon": "Voyeurism",
       "layman": "Watching secretly"
     },
     {
-      "jargon": "Cultural authority",
-      "layman": "Power to shape culture"
+      "jargon": "Liberal reform",
+      "layman": "Social changes for better society"
     }
   ]
 }

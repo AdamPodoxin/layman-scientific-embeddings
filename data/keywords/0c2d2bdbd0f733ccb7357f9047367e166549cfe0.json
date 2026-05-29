@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Popular culture",
-      "layman": "Common media and trends"
+      "layman": "Popular media and trends"
     },
     {
       "jargon": "Economy",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Conjunctural analysis",
-      "layman": "Looking at conditions in context"
+      "layman": "Looking at conditions in a specific moment"
     }
   ],
   "methodologies": [
     {
       "jargon": "Cultural reading of finance",
-      "layman": "Interpreting money through culture"
+      "layman": "Seeing finance through cultural lens"
+    },
+    {
+      "jargon": "Fused perspectives",
+      "layman": "Blending culture and economy together"
     },
     {
       "jargon": "Performance of bad economics",
-      "layman": "Presenting flawed economic ideas"
-    },
-    {
-      "jargon": "Fused culture-economy",
-      "layman": "Culture and economy mixed together"
+      "layman": "Acting out flawed economic ideas"
     },
     {
       "jargon": "Life and death issues",
       "layman": "Critical situations involving survival"
     },
     {
-      "jargon": "Contextual analysis",
-      "layman": "Understanding based on surrounding factors"
+      "jargon": "Changing ways of talking about economies",
+      "layman": "New language for talking about money"
     }
   ],
   "outcomes": [
     {
       "jargon": "Reductive 'us versus them' position",
-      "layman": "Simplified group conflict"
+      "layman": "Simplistic divide between groups"
     },
     {
-      "jargon": "Inseparable culture-economy",
-      "layman": "Culture and economy are always linked"
+      "jargon": "Economy as inseparable from culture",
+      "layman": "Culture and economy are locked together"
     },
     {
-      "jargon": "Collapse into default positions",
-      "layman": "Falling into simple answers"
+      "jargon": "Collapsing into default position",
+      "layman": "Falling back on a simple answer"
     },
     {
-      "jargon": "Changing ways of talking about economies",
-      "layman": "New language for discussing money"
+      "jargon": "Cultural studies applied to economics",
+      "layman": "Using culture to understand economy"
     },
     {
-      "jargon": "Fused sides of a sheet of paper",
-      "layman": "Two parts that can't be separated"
+      "jargon": "Present moment analysis",
+      "layman": "Understanding today's situation"
     }
   ]
 }

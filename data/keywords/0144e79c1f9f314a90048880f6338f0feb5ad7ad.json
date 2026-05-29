@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Australian poetry",
-      "layman": "Poetry from Australia"
+      "jargon": "Avant-garde",
+      "layman": "Experimental art"
+    },
+    {
+      "jargon": "Contemporary Australian poetry",
+      "layman": "Modern Australian poems"
     },
     {
       "jargon": "Calyx anthology",
-      "layman": "Poetry collection of new Australian writers"
+      "layman": "Poetry collection of new Australian poets"
+    },
+    {
+      "jargon": "Poetic landscape",
+      "layman": "Pattern of modern poetry in Australia"
     },
     {
       "jargon": "Louis Armand",
-      "layman": "Controversial poet and artist"
-    },
-    {
-      "jargon": "Avant-garde",
-      "layman": "Experimental or unconventional art"
-    },
-    {
-      "jargon": "New Australian poets",
-      "layman": "Young or emerging poets in Australia"
+      "layman": "Louis Armand"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Curating a collection of poems"
     },
     {
-      "jargon": "Poetic reception",
-      "layman": "How poems are received by critics"
+      "jargon": "Poetic representation",
+      "layman": "How poems reflect or show something"
     },
     {
-      "jargon": "Editorial selection",
-      "layman": "Choosing which poems to include"
+      "jargon": "Judgment by peers",
+      "layman": "Experts deciding which poems are good"
+    },
+    {
+      "jargon": "Literary exposure",
+      "layman": "Getting poems seen by the public"
     },
     {
       "jargon": "Critical review",
-      "layman": "Critics evaluating poems"
-    },
-    {
-      "jargon": "Literary visibility",
-      "layman": "How much attention a poet gets"
+      "layman": "Experts analyzing poetry in publications"
     }
   ],
   "outcomes": [
     {
-      "jargon": "75% success rate",
-      "layman": "Most poets go on to publish and win awards"
+      "jargon": "75% of Calyx poets published books",
+      "layman": "Most poets wrote more poems"
     },
     {
-      "jargon": "Poetic recognition",
-      "layman": "Widespread acclaim for a poet's work"
+      "jargon": "Poetic success",
+      "layman": "Poets won awards or gained recognition"
     },
     {
-      "jargon": "Aesthetic predilection",
-      "layman": "Preference for certain poetic styles"
+      "jargon": "Nostalgia for the avant-garde",
+      "layman": "Wanting old experimental style"
     },
     {
-      "jargon": "Discursive signifier",
-      "layman": "Symbol of a particular poetic attitude"
+      "jargon": "Astringent pleasures",
+      "layman": "Sharp, strong sensory taste in poems"
     },
     {
-      "jargon": "Literary hierarchy",
-      "layman": "Who is considered important in poetry"
+      "jargon": "Discursive preference",
+      "layman": "Aesthetic choice in what poetry is valued"
     }
   ]
 }

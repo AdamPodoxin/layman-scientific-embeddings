@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Shakespeare",
-      "layman": "Shakespeare"
+      "jargon": "Shakespeare's drama",
+      "layman": "Shakespeare's plays"
     },
     {
       "jargon": "Modernity",
       "layman": "Modern era"
     },
     {
-      "jargon": "Herder",
-      "layman": "Herder"
+      "jargon": "German literati",
+      "layman": "German writers and thinkers"
     },
     {
-      "jargon": "Hegel",
-      "layman": "Hegel"
+      "jargon": "Theatre community",
+      "layman": "Dramatic arts group"
     },
     {
-      "jargon": "Theatre",
-      "layman": "Stage performances"
+      "jargon": "Art",
+      "layman": "Creative expression"
     }
   ],
   "methodologies": [
@@ -31,38 +31,38 @@
       "layman": "Deep thinking about ideas"
     },
     {
-      "jargon": "Artistic analysis",
-      "layman": "Studying art closely"
-    },
-    {
-      "jargon": "Theatrical debate",
-      "layman": "Discussion about plays"
+      "jargon": "Debate",
+      "layman": "Disagreement and discussion"
     },
     {
       "jargon": "Aesthetic understanding",
-      "layman": "Appreciating beauty in art"
+      "layman": "Sense of beauty and style"
+    },
+    {
+      "jargon": "Self-understanding",
+      "layman": "Knowing oneself"
     }
   ],
   "outcomes": [
     {
       "jargon": "New understanding of modernity",
-      "layman": "Fresh view of modern times"
-    },
-    {
-      "jargon": "Conditions of self-understanding",
-      "layman": "How people understand themselves"
-    },
-    {
-      "jargon": "Conditions of understanding others",
-      "layman": "How people understand others"
+      "layman": "New view of modern times"
     },
     {
       "jargon": "Art in modernity",
-      "layman": "Art in the modern world"
+      "layman": "Art in the modern age"
     },
     {
-      "jargon": "Hermeneutics",
-      "layman": "How we interpret meaning"
+      "jargon": "Conditions of self-understanding",
+      "layman": "How we understand ourselves"
+    },
+    {
+      "jargon": "Understanding others",
+      "layman": "Knowing other people"
+    },
+    {
+      "jargon": "Philosophical level",
+      "layman": "Deep, foundational thinking"
     }
   ]
 }

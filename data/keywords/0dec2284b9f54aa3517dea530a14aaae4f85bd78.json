@@ -5,64 +5,64 @@
       "layman": "Past events and facts"
     },
     {
-      "jargon": "Digital records",
-      "layman": "Online documents and files"
+      "jargon": "Digital archives",
+      "layman": "Online record collections"
     },
     {
-      "jargon": "Online interest lists",
-      "layman": "Websites people follow for topics"
+      "jargon": "Interest lists",
+      "layman": "Groups of people with shared topics"
     },
     {
-      "jargon": "Exogenous data",
-      "layman": "Outside sources of information"
+      "jargon": "User-generated content",
+      "layman": "Content made by users"
     },
     {
-      "jargon": "User interest profiles",
-      "layman": "People's interests tracked online"
+      "jargon": "Online interest communities",
+      "layman": "Online groups on shared topics"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Data scraping",
-      "layman": "Automatically collecting web content"
+      "jargon": "Data mining",
+      "layman": "Finding patterns in large data sets"
     },
     {
       "jargon": "Content filtering",
-      "layman": "Removing unwanted information"
+      "layman": "Removing unwanted content"
     },
     {
-      "jargon": "User engagement analysis",
-      "layman": "Measuring how users interact with content"
+      "jargon": "User targeting",
+      "layman": "Showing content to interested users"
     },
     {
-      "jargon": "Information curation",
-      "layman": "Selecting and organizing useful data"
+      "jargon": "Platform moderation",
+      "layman": "Managing what content appears online"
     },
     {
-      "jargon": "Digital archiving",
-      "layman": "Saving online content for future use"
+      "jargon": "Curation",
+      "layman": "Selecting and organizing useful content"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Unstructured data",
-      "layman": "Disorganized information"
+      "jargon": "Unverified information",
+      "layman": "False or unconfirmed facts"
     },
     {
-      "jargon": "Noise in data",
-      "layman": "Irrelevant or false details"
+      "jargon": "Accurate narratives",
+      "layman": "True and reliable stories"
     },
     {
-      "jargon": "Hidden patterns",
-      "layman": "Secret connections in data"
+      "jargon": "Public engagement",
+      "layman": "People getting involved"
     },
     {
-      "jargon": "User-driven discovery",
-      "layman": "People finding info through interest"
+      "jargon": "Proliferation of misinformation",
+      "layman": "Spread of false information"
     },
     {
-      "jargon": "Information overload",
-      "layman": "Too much information to process"
+      "jargon": "Community trust",
+      "layman": "People trusting the group or content"
     }
   ]
 }

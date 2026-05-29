@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Dissenting pulpit",
-      "layman": "Nonconformist religious preaching"
+      "layman": "Independent religious preaching"
     },
     {
       "jargon": "Political ideology",
-      "layman": "Beliefs about government"
-    },
-    {
-      "jargon": "Petitioners",
-      "layman": "People who wrote formal requests"
+      "layman": "Guiding beliefs in politics"
     },
     {
       "jargon": "Poll books",
-      "layman": "Records of voter information"
+      "layman": "Lists of voters"
+    },
+    {
+      "jargon": "Petitions",
+      "layman": "Formal requests to government"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Petitioning",
-      "layman": "Sending formal requests"
-    },
-    {
       "jargon": "Electoral independence",
-      "layman": "Voting freely without pressure"
+      "layman": "Freedom to vote without pressure"
     },
     {
-      "jargon": "Social status analysis",
-      "layman": "Studying people's class positions"
-    },
-    {
-      "jargon": "Legal status",
-      "layman": "Official rules about rights"
+      "jargon": "Social structure",
+      "layman": "How people are organized in society"
     },
     {
       "jargon": "Political influence",
-      "layman": "Power to affect decisions"
+      "layman": "How religion affects politics"
+    },
+    {
+      "jargon": "Petitioning",
+      "layman": "Sending requests to authorities"
+    },
+    {
+      "jargon": "Legal status",
+      "layman": "Official recognition or rules for a group"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Electoral independence",
-      "layman": "Freedom to vote without control"
+      "jargon": "American independence",
+      "layman": "Freedom from British rule"
+    },
+    {
+      "jargon": "Religious nonconformity in politics",
+      "layman": "Religious minorities shaping politics"
+    },
+    {
+      "jargon": "Dissenting vote",
+      "layman": "Votes from independent religious groups"
+    },
+    {
+      "jargon": "Deference",
+      "layman": "Respect shown to authority"
     },
     {
       "jargon": "Popular politics",
-      "layman": "Public involvement in politics"
-    },
-    {
-      "jargon": "Religious influence on politics",
-      "layman": "Religion affecting government"
-    },
-    {
-      "jargon": "Political radicalism",
-      "layman": "Strong opposition to government norms"
-    },
-    {
-      "jargon": "American independence",
-      "layman": "Freedom from British rule"
+      "layman": "Public involvement in government"
     }
   ]
 }

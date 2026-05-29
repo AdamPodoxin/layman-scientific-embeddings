@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Collective Intelligence (COIN)",
-      "layman": "Group of smart algorithms working together"
+      "layman": "Group of intelligent algorithms working together"
     },
     {
       "jargon": "Reinforcement learning (RL)",
@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Internet traffic routing",
-      "layman": "Pathfinding for data across the internet"
+      "layman": "How data travels across the internet"
     },
     {
       "jargon": "Global utility function",
-      "layman": "Overall goal that the system tries to maximize"
+      "layman": "Overall goal that all parts work toward"
     },
     {
       "jargon": "Shortest path routing",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Automated design",
-      "layman": "Self-designed system setup"
+      "layman": "Smart system that designs itself"
     },
     {
       "jargon": "Reinforcement learning algorithms",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Collective behavior",
-      "layman": "Group actions that emerge together"
+      "layman": "Group actions that improve together"
     },
     {
       "jargon": "Optimization",
-      "layman": "Improving performance over time"
+      "layman": "Making something better by adjusting choices"
     },
     {
-      "jargon": "Experimental design",
-      "layman": "Testing setup for real-world results"
+      "jargon": "Experimentation",
+      "layman": "Testing ideas in real conditions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Outperforms previous RL algorithms",
-      "layman": "Better than older methods"
+      "jargon": "Outperforms previous algorithms",
+      "layman": "Works better than older systems"
     },
     {
       "jargon": "Global utility function optimization",
-      "layman": "System achieves best overall performance"
+      "layman": "Best overall performance for all users"
     },
     {
       "jargon": "Improved routing efficiency",
-      "layman": "Faster and smarter data paths"
+      "layman": "Faster and smoother data flow"
     },
     {
-      "jargon": "Superior to shortest path routing",
-      "layman": "Better than basic route choices"
+      "jargon": "Superior to shortest path methods",
+      "layman": "Better than simple fastest route methods"
     },
     {
-      "jargon": "Optimal traffic flow",
-      "layman": "Smooth and efficient data movement"
+      "jargon": "Optimized internet traffic",
+      "layman": "Smarter data movement across the web"
     }
   ]
 }

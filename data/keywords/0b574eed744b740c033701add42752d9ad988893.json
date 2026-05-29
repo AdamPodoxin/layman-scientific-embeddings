@@ -6,63 +6,63 @@
     },
     {
       "jargon": "General Relativity",
-      "layman": "Theory of gravity and space-time"
+      "layman": "Gravity theory of space and time"
     },
     {
       "jargon": "Special Relativity",
-      "layman": "Physics of fast-moving objects"
-    },
-    {
-      "jargon": "Lorentz Transformation",
-      "layman": "Space-time change under motion"
+      "layman": "Speed and time rules at high speeds"
     },
     {
       "jargon": "Milgrom acceleration",
-      "layman": "Minimum acceleration in space"
-    }
-  ],
-  "methodologies": [
-    {
-      "jargon": "Einstein boost",
-      "layman": "Speed-up in space-time"
-    },
-    {
-      "jargon": "Hyperbolic rotation",
-      "layman": "Spinning motion in space"
-    },
-    {
-      "jargon": "Renormalization of metric",
-      "layman": "Adjusting space-time rules"
+      "layman": "Minimum possible acceleration in space"
     },
     {
       "jargon": "Minkowski space-time",
       "layman": "Flat space-time framework"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Lorentz Transformation",
+      "layman": "Speed-based time and space shift"
     },
     {
-      "jargon": "Poincare's negative pressure",
-      "layman": "Missing force in empty space"
+      "jargon": "Hyperbolic rotation",
+      "layman": "Rotating space under speed rules"
+    },
+    {
+      "jargon": "Renormalization",
+      "layman": "Adjusting values to fix errors"
+    },
+    {
+      "jargon": "Einstein boost",
+      "layman": "Speed-induced space change"
+    },
+    {
+      "jargon": "Negative pressure",
+      "layman": "Pulling force without matter"
     }
   ],
   "outcomes": [
     {
       "jargon": "Accelerated expansion",
-      "layman": "Faster expansion of universe"
+      "layman": "Rapid speeding up of universe growth"
     },
     {
-      "jargon": "Hubble's law",
-      "layman": "Space stretches with time"
+      "jargon": "Hubble law",
+      "layman": "Space expands at a steady rate"
     },
     {
       "jargon": "Cosmological parameter = -1",
-      "layman": "Extreme expansion rate"
+      "layman": "Universe expands faster than normal"
     },
     {
-      "jargon": "Classical vacuum",
-      "layman": "Empty space with hidden force"
+      "jargon": "Vacuum in Minkowski space",
+      "layman": "Empty space with hidden energy"
     },
     {
-      "jargon": "No matter present",
-      "layman": "Empty universe condition"
+      "jargon": "Poincare's negative pressure",
+      "layman": "Early-era space pull force"
     }
   ]
 }

@@ -2,41 +2,41 @@
   "core_entities": [
     {
       "jargon": "Mobility",
-      "layman": "Movement of people or goods"
+      "layman": "Transportation"
     },
     {
       "jargon": "Digitalization",
-      "layman": "Use of digital technology"
+      "layman": "Going online"
     },
     {
       "jargon": "New mobility services",
-      "layman": "New ways to move around"
+      "layman": "New transportation apps"
+    },
+    {
+      "jargon": "Environmental impact",
+      "layman": "Harm to the planet"
     },
     {
       "jargon": "Transportation markets",
-      "layman": "Places where transport services are bought and sold"
-    },
-    {
-      "jargon": "Virtual mobility providers",
-      "layman": "Companies offering digital transport services"
+      "layman": "Where transport services are bought and sold"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Competitive-based approach",
+      "jargon": "Competitive based approach",
       "layman": "Using competition to improve services"
     },
     {
       "jargon": "B2B sharing",
-      "layman": "Sharing between businesses"
+      "layman": "Companies sharing resources"
     },
     {
       "jargon": "Workforce sharing",
-      "layman": "Sharing workers among companies"
+      "layman": "Sharing workers between companies"
     },
     {
       "jargon": "Operating supplies sharing",
-      "layman": "Sharing equipment and resources"
+      "layman": "Sharing tools and equipment"
     },
     {
       "jargon": "Mobility broker",
@@ -50,7 +50,7 @@
     },
     {
       "jargon": "Strengthened competition",
-      "layman": "More competition among services"
+      "layman": "More competition among providers"
     },
     {
       "jargon": "New business models",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Occasional workers",
-      "layman": "Part-time workers"
+      "layman": "Flexible workers"
     },
     {
-      "jargon": "Shared services",
-      "layman": "Services provided by multiple companies together"
+      "jargon": "Participation in transportation markets",
+      "layman": "Access to transport service markets"
     }
   ]
 }

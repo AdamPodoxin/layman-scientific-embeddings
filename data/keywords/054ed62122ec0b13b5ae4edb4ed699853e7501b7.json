@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Gender relationships",
-      "layman": "How gender roles affect interactions"
+      "layman": "How gender affects interactions"
     },
     {
       "jargon": "Masculinities",
-      "layman": "Ways men are seen and acted upon"
+      "layman": "Ways men are seen as masculine"
     },
     {
       "jargon": "Men's health",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Caring work",
-      "layman": "Work of providing care"
+      "layman": "Care-giving efforts"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Daily interactions",
-      "layman": "Everyday conversations between staff and patients"
+      "layman": "Routine conversations between staff and patients"
     },
     {
-      "jargon": "Construction of identities",
-      "layman": "How people see themselves"
-    },
-    {
-      "jargon": "Perception of health",
-      "layman": "How people view their own health"
+      "jargon": "Health perceptions",
+      "layman": "How people see their own health"
     },
     {
       "jargon": "Power relationships",
-      "layman": "Who holds control in a situation"
+      "layman": "Who holds authority in a setting"
+    },
+    {
+      "jargon": "Institutional environment",
+      "layman": "The rules and structure of an organization"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Problematic health views",
-      "layman": "Unhealthy beliefs about well-being"
+      "jargon": "Construction of masculinities",
+      "layman": "How masculinity is shaped"
     },
     {
-      "jargon": "Gendered care practices",
-      "layman": "Care based on gender roles"
+      "jargon": "Safety and protection",
+      "layman": "Focus on security and care"
     },
     {
       "jargon": "Equality in caring work",
-      "layman": "Fair treatment of men and women in care"
+      "layman": "Fair treatment of all caregivers"
     },
     {
-      "jargon": "Safety emphasis",
-      "layman": "Focus on protecting people"
+      "jargon": "Perception of health",
+      "layman": "How health is viewed and reported"
     },
     {
-      "jargon": "Health constructions",
-      "layman": "How health is defined in a group"
+      "jargon": "Caregivers and patients",
+      "layman": "Staff and patients in care setting"
     }
   ]
 }

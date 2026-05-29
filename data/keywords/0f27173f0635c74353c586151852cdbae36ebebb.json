@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Adolescent-limited offenders",
-      "layman": "People with antisocial behavior only in teens"
-    },
-    {
-      "jargon": "Black, developing, semi-rural population",
-      "layman": "Young Black people in rural South Africa"
+      "layman": "People with antisocial behavior only in adolescence"
     },
     {
       "jargon": "Infant and childhood phases",
-      "layman": "Early life stages"
+      "layman": "Early childhood stages"
     },
     {
-      "jargon": "Moffitt's taxonomy",
-      "layman": "Classification of offenders by life stage"
+      "jargon": "Peers",
+      "layman": "Friends"
+    },
+    {
+      "jargon": "School performance",
+      "layman": "Academic results"
     }
   ],
   "methodologies": [
     {
       "jargon": "Qualitative life-story research design",
-      "layman": "In-depth personal story interviews"
+      "layman": "Story-based interviews over a person's life"
     },
     {
-      "jargon": "Cognitive difference",
-      "layman": "Thinking pattern differences"
+      "jargon": "Psychoneurological deficits",
+      "layman": "Brain and behavior development issues"
     },
     {
-      "jargon": "Peer relationships",
-      "layman": "Friendship patterns"
-    },
-    {
-      "jargon": "School performance",
-      "layman": "Academic results"
+      "jargon": "Moral development",
+      "layman": "Understanding right and wrong"
     },
     {
       "jargon": "Social esteem",
-      "layman": "Sense of self-worth in society"
+      "layman": "Feeling valued by others"
+    },
+    {
+      "jargon": "Effective goal setting",
+      "layman": "Setting and achieving personal goals"
     }
   ],
   "outcomes": [
     {
       "jargon": "Earlier onset and more violent antisocial behavior",
-      "layman": "Antisocial actions start early and are more violent"
+      "layman": "Becomes antisocial earlier and more violently"
     },
     {
       "jargon": "Poorer school performance",
-      "layman": "Lower grades and academic struggles"
+      "layman": "Worse grades and academic results"
     },
     {
       "jargon": "Greater impulsivity",
-      "layman": "Harder to control actions"
-    },
-    {
-      "jargon": "Ineffective goal setting",
-      "layman": "Difficulty setting realistic goals"
+      "layman": "Acts without thinking"
     },
     {
       "jargon": "Retarded moral development",
-      "layman": "Slower growth in understanding right and wrong"
+      "layman": "Slower development of right/wrong understanding"
+    },
+    {
+      "jargon": "Lower social esteem",
+      "layman": "Feels less valued by others"
     }
   ]
 }

@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Cultural scientism",
-      "layman": "Belief that science is the only valid source of truth"
+      "layman": "Belief that science is the only valid way of knowing"
     },
     {
       "jargon": "Divine action",
       "layman": "God acting in the world"
     },
     {
-      "jargon": "Theological notions",
-      "layman": "Religious beliefs about God"
-    },
-    {
       "jargon": "Ian Barbour",
       "layman": "Ian Barbour"
+    },
+    {
+      "jargon": "Western theology",
+      "layman": "Religion in Western cultures"
     }
   ],
   "methodologies": [
     {
       "jargon": "Historical analysis",
-      "layman": "Looking at the past to understand trends"
+      "layman": "Looking at past events"
     },
     {
       "jargon": "Social-cultural factors",
-      "layman": "Influences from society and culture"
+      "layman": "How society and culture shape things"
     },
     {
-      "jargon": "Debates on divine action",
-      "layman": "Discussions about how God acts"
+      "jargon": "Theological notions",
+      "layman": "Religious ideas"
+    },
+    {
+      "jargon": "Debate on divine action",
+      "layman": "Discussion about God acting in the world"
     },
     {
       "jargon": "Logical positivism",
-      "layman": "Belief that only observable facts count"
-    },
-    {
-      "jargon": "Theological critique",
-      "layman": "Judging religious ideas from a theological view"
+      "layman": "Belief that only observable facts are real"
     }
   ],
   "outcomes": [
     {
       "jargon": "Emergence of the field",
-      "layman": "Field appears due to social causes"
+      "layman": "The field began to grow"
     },
     {
-      "jargon": "Bias toward science as sole source of rationality",
-      "layman": "Science seen as only rational way"
-    },
-    {
-      "jargon": "Theologically problematic",
-      "layman": "Religious ideas are not well supported"
+      "jargon": "Theological problems",
+      "layman": "Religious issues arise"
     },
     {
       "jargon": "Quest for unity",
-      "layman": "Desire to merge science and religion"
+      "layman": "Desire to unite science and religion"
     },
     {
-      "jargon": "Contingent on social-cultural factors",
-      "layman": "Depends on culture and society"
+      "jargon": "Bias toward science",
+      "layman": "Favoring science over religion"
+    },
+    {
+      "jargon": "Unification vision",
+      "layman": "Goal of bringing science and religion together"
     }
   ]
 }

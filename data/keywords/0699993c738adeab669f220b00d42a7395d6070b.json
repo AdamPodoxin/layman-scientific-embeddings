@@ -5,20 +5,20 @@
       "layman": "Culture researchers"
     },
     {
-      "jargon": "Colonialism",
-      "layman": "Powerful country ruling another"
+      "jargon": "Colonial administration",
+      "layman": "Government control over a territory"
     },
     {
-      "jargon": "Micronesia",
-      "layman": "Group of islands in the Pacific"
-    },
-    {
-      "jargon": "Postwar period",
-      "layman": "Time after World War II"
+      "jargon": "Postwar Micronesia",
+      "layman": "Indigenous islands after WWII"
     },
     {
       "jargon": "Trust Territory",
-      "layman": "Government-controlled region after war"
+      "layman": "U.S.-managed region for Micronesia"
+    },
+    {
+      "jargon": "Colonized peoples",
+      "layman": "People under foreign control"
     }
   ],
   "methodologies": [
@@ -28,14 +28,14 @@
     },
     {
       "jargon": "Fieldwork",
-      "layman": "Direct observation in the field"
+      "layman": "On-site research in local settings"
     },
     {
       "jargon": "Ethical reflection",
-      "layman": "Thinking about moral issues in research"
+      "layman": "Thinking about right and wrong in research"
     },
     {
-      "jargon": "Government sponsorship",
+      "jargon": "Government-sponsored research",
       "layman": "Research funded by the state"
     },
     {
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Colonial agendas",
-      "layman": "Government goals in ruling"
+      "layman": "Government goals in rule"
     },
     {
       "jargon": "Competing agendas",
-      "layman": "Different goals in conflict"
+      "layman": "Different goals within the same system"
     },
     {
       "jargon": "Contested process",
-      "layman": "Process with disagreement"
+      "layman": "Process with disagreements"
     },
     {
-      "jargon": "Dialectic",
-      "layman": "Ongoing debate and change"
+      "jargon": "Othering",
+      "layman": "Viewing others as different or foreign"
     },
     {
-      "jargon": "Power relationships",
-      "layman": "Unequal influence between groups"
+      "jargon": "Dialectic process",
+      "layman": "Ongoing give-and-take between groups"
     }
   ]
 }

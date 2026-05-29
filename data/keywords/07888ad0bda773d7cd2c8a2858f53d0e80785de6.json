@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Gender issues",
-      "layman": "Women's rights in society"
+      "layman": "Gender issues"
     },
     {
       "jargon": "Judicial institutions",
-      "layman": "Courts and legal systems"
+      "layman": "Courts and legal bodies"
     },
     {
-      "jargon": "Societal conservatism",
-      "layman": "Strict traditional values in society"
+      "jargon": "Societal conservativism",
+      "layman": "How traditional a society is"
     },
     {
-      "jargon": "Liberal interpretation",
-      "layman": "More progressive reading of the law"
+      "jargon": "Interpretations of Islamic law",
+      "layman": "Different ways of understanding Islamic law"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Interpretations of Islamic law",
-      "layman": "Different ways of reading the law"
+      "jargon": "Examine",
+      "layman": "Look at carefully"
     },
     {
-      "jargon": "Historical analysis",
-      "layman": "Looking at past practices"
+      "jargon": "Explore",
+      "layman": "Investigate"
     },
     {
-      "jargon": "Comparative practices",
-      "layman": "Comparing how laws are applied in different places"
+      "jargon": "Analyze histories",
+      "layman": "Study past developments"
     },
     {
-      "jargon": "Political analysis",
-      "layman": "Examining how power affects laws"
+      "jargon": "Compare practices",
+      "layman": "Look at how things are done in different places"
     },
     {
-      "jargon": "Case studies",
-      "layman": "In-depth look at specific examples"
+      "jargon": "Assess political independence",
+      "layman": "Check how free courts are from government control"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Political independence of judicial institutions",
-      "layman": "Courts are free from government control"
+      "jargon": "Liberal interpretation",
+      "layman": "More equal treatment for women"
     },
     {
-      "jargon": "Liberal gender interpretations",
-      "layman": "More equal treatment of women"
+      "jargon": "Political independence of courts",
+      "layman": "Courts are free from pressure"
     },
     {
-      "jargon": "Diverse legal practices",
-      "layman": "Different rules in different countries"
+      "jargon": "Diverse interpretations",
+      "layman": "Many different views on gender"
     },
     {
-      "jargon": "Misrepresentation of Islamic law",
-      "layman": "False claims about how the law treats women"
+      "jargon": "Society's conservativism",
+      "layman": "How traditional or progressive a society is"
     },
     {
-      "jargon": "Influence of political power",
-      "layman": "How government control affects justice"
+      "jargon": "New insights",
+      "layman": "New understanding of how Islamic law works"
     }
   ]
 }

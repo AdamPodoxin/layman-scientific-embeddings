@@ -9,60 +9,60 @@
       "layman": "legal system for handling crime"
     },
     {
+      "jargon": "crime data",
+      "layman": "records of crimes"
+    },
+    {
       "jargon": "sociological discourse",
-      "layman": "social discussion about crime"
+      "layman": "social theories about crime"
     },
     {
-      "jargon": "lawmaking agencies",
-      "layman": "groups that create laws"
-    },
-    {
-      "jargon": "policing agency",
-      "layman": "city police department"
+      "jargon": "spatial order of crime",
+      "layman": "where crimes happen in space"
     }
   ],
   "methodologies": [
     {
-      "jargon": "collecting data",
-      "layman": "gathering information"
+      "jargon": "legal reordering of crime",
+      "layman": "changing how crimes are defined"
     },
     {
-      "jargon": "revisiting legal ordering",
-      "layman": "reviewing how crimes are classified"
+      "jargon": "data collection",
+      "layman": "gathering facts about crime"
     },
     {
-      "jargon": "spatial order of crime",
-      "layman": "crime patterns by location"
+      "jargon": "lawmaking",
+      "layman": "creating new laws"
     },
     {
-      "jargon": "data collection over time",
-      "layman": "tracking data through years"
+      "jargon": "enforcement agencies",
+      "layman": "groups that enforce laws"
     },
     {
-      "jargon": "developing sociological discourse",
-      "layman": "creating social understanding of crime"
+      "jargon": "policing agency",
+      "layman": "local police force"
     }
   ],
   "outcomes": [
     {
-      "jargon": "transformation of legal system",
-      "layman": "legal system changed"
-    },
-    {
-      "jargon": "knowledge systems about crime",
-      "layman": "understanding of crime changed"
-    },
-    {
       "jargon": "rise and fall of crime numbers",
-      "layman": "crime went up and down"
+      "layman": "crime going up and down over time"
     },
     {
-      "jargon": "spatial order of crimes over time",
-      "layman": "crime patterns changed by place and time"
+      "jargon": "traced the spatial order of crimes",
+      "layman": "mapped where crimes occurred"
     },
     {
-      "jargon": "local sociologists began to catch up",
-      "layman": "local experts started to understand crime better"
+      "jargon": "transformed the legal system",
+      "layman": "changed the laws and rules"
+    },
+    {
+      "jargon": "reconstructed knowledge systems",
+      "layman": "rebuilds how crime is understood"
+    },
+    {
+      "jargon": "developed sociological discourse",
+      "layman": "created social explanations for crime"
     }
   ]
 }

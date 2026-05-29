@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Thickness centers",
-      "layman": "Thick sediment areas"
+      "layman": "Thick sediment zones"
     },
     {
-      "jargon": "Cenozoic basin",
-      "layman": "Recent sediment basin"
+      "jargon": "Hydrocarbon source rocks",
+      "layman": "Stone layers that make oil"
     }
   ],
   "methodologies": [
     {
       "jargon": "Structural control",
-      "layman": "Fault patterns shaping the basin"
+      "layman": "Shape of faults guides deposits"
     },
     {
       "jargon": "Strata deposition",
-      "layman": "Layered rock layering"
+      "layman": "Layer-by-layer layer building"
     },
     {
-      "jargon": "Extensional faulting",
-      "layman": "Faults from stretching"
+      "jargon": "Faulted basin",
+      "layman": "Basin shaped by cracks"
     },
     {
-      "jargon": "Compressional basin",
-      "layman": "Basin from squeezing forces"
+      "jargon": "Compression",
+      "layman": "Earth pushing in"
     },
     {
-      "jargon": "Structural deformation",
-      "layman": "Changes in rock shape and position"
+      "jargon": "Deposition migration",
+      "layman": "Layers move over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Hydrocarbon source rocks",
-      "layman": "Rock that makes oil and gas"
+      "jargon": "Extensional faulted basin",
+      "layman": "Basin formed by stretching"
     },
     {
-      "jargon": "Deposition migration",
-      "layman": "Rock layers moving over time"
+      "jargon": "Compressional basin",
+      "layman": "Basin formed by squeezing"
+    },
+    {
+      "jargon": "Oil and gas generation",
+      "layman": "Oil and gas formed"
+    },
+    {
+      "jargon": "Preservation of Jurassic layers",
+      "layman": "Old layers stayed safe"
     },
     {
       "jargon": "Oil and gas pool formation",
-      "layman": "Oil and gas gathering in one place"
-    },
-    {
-      "jargon": "Preservation of Jurassic strata",
-      "layman": "Jurassic rocks staying intact"
-    },
-    {
-      "jargon": "Favorable conditions for oil and gas",
-      "layman": "Good environment for oil and gas"
+      "layman": "Oil and gas collected in spots"
     }
   ]
 }

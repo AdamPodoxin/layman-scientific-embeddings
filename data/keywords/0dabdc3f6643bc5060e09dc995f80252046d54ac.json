@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "SiC_p/ZA27 composite",
-      "layman": "Silicon carbide in zinc alloy"
+      "layman": "Silicon carbide in zirconium alloy"
     },
     {
       "jargon": "Zr element",
       "layman": "Zirconium addition"
     },
     {
-      "jargon": "Semi-solid temperature",
-      "layman": "Partially melted state"
-    },
-    {
       "jargon": "ZA27 alloy",
-      "layman": "Zinc alloy with aluminum"
+      "layman": "Zirconium alloy"
     },
     {
-      "jargon": "Microstructure",
+      "jargon": "semi-solid temperature",
+      "layman": "Partially molten state"
+    },
+    {
+      "jargon": "microstructure",
       "layman": "Tiny internal structure"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Isothermal heat treatment",
+      "jargon": "isothermal heat treatment",
       "layman": "Heating at constant temperature"
     },
     {
-      "jargon": "Microstructural evolution",
+      "jargon": "microstructural evolution",
       "layman": "Change in tiny structure over time"
     },
     {
-      "jargon": "Thixo forming",
-      "layman": "Shaping metal when partially melted"
+      "jargon": "structural coarsening",
+      "layman": "Grain growth and enlargement"
     },
     {
-      "jargon": "Structural coarsening",
-      "layman": "Grain growth or thickening"
+      "jargon": "thixo forming",
+      "layman": "Shaping metal while semi-fluid"
     },
     {
-      "jargon": "Heat treatment duration",
-      "layman": "How long material is heated"
+      "jargon": "heat treatment",
+      "layman": "Controlled heating and cooling"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Ideal microstructure",
+      "jargon": "ideal microstructure",
       "layman": "Best internal shape for forming"
     },
     {
-      "jargon": "Faster structural evolution",
-      "layman": "Changes happen quicker"
+      "jargon": "faster structural evolution",
+      "layman": "Quick change in internal shape"
     },
     {
-      "jargon": "No obvious structure coarsening",
-      "layman": "No large grain growth"
+      "jargon": "no obvious structure coarsening",
+      "layman": "No large grain growth after 40 min"
     },
     {
-      "jargon": "30\u201340 min treatment time",
-      "layman": "Optimal heating duration"
+      "jargon": "30\uff5e40 min treatment",
+      "layman": "30 to 40 minutes of heating"
     },
     {
       "jargon": "460\u2103 temperature",
-      "layman": "Specific heating level"
+      "layman": "460 degrees Celsius heat"
     }
   ]
 }

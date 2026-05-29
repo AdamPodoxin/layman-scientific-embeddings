@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Centralized order-driven market",
-      "layman": "Single market where buyers and sellers place orders"
+      "jargon": "Equilibrium price",
+      "layman": "Market price when supply and demand balance"
     },
     {
       "jargon": "Asymmetrically informed traders",
-      "layman": "Traders with different access to information"
-    },
-    {
-      "jargon": "Equilibrium price",
-      "layman": "Price where supply and demand balance"
+      "layman": "Traders with private, non-shared info"
     },
     {
       "jargon": "Private signal",
-      "layman": "Personal piece of information about the market"
+      "layman": "Personal market insight"
     },
     {
       "jargon": "Exogenous trade",
-      "layman": "Outside market activity not caused by traders' signals"
+      "layman": "Outside market activity"
+    },
+    {
+      "jargon": "Centralized order-driven market",
+      "layman": "Market where orders are collected in one place"
     }
   ],
   "methodologies": [
     {
       "jargon": "Information revelation",
-      "layman": "Sharing private information with others"
-    },
-    {
-      "jargon": "Strategic behavior",
-      "layman": "Making decisions to gain an advantage"
-    },
-    {
-      "jargon": "Pre-opening phase",
-      "layman": "Time before trading starts"
+      "layman": "Sharing private knowledge"
     },
     {
       "jargon": "Active phase",
-      "layman": "Time when trading is happening"
+      "layman": "Market trading period"
     },
     {
-      "jargon": "Market efficiency analysis",
-      "layman": "Measuring how well prices reflect all available info"
+      "jargon": "Pre-opening phase",
+      "layman": "Time before trading begins"
+    },
+    {
+      "jargon": "Strategic behavior",
+      "layman": "Deliberate decision-making to gain advantage"
+    },
+    {
+      "jargon": "Modeling market dynamics",
+      "layman": "Simulating how markets change over time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Suboptimal information revelation",
-      "layman": "Less information shared than ideal"
+      "layman": "Incomplete sharing of useful info"
     },
     {
-      "jargon": "Higher incentive to reveal precise information",
+      "jargon": "Higher incentive to reveal precise info",
       "layman": "More accurate info leads to more sharing"
     },
     {
       "jargon": "Value of private information",
-      "layman": "How useful personal info is to the market"
+      "layman": "How valuable personal knowledge is"
     },
     {
       "jargon": "Long pre-opening phases ineffective",
-      "layman": "Early quiet time doesn't help discover info"
+      "layman": "Waiting before trading doesn\u2019t help learn"
     },
     {
-      "jargon": "Equilibrium price inefficiency",
-      "layman": "Price doesn't fully reflect true market value"
+      "jargon": "Market efficiency",
+      "layman": "How well prices reflect true value"
     }
   ]
 }

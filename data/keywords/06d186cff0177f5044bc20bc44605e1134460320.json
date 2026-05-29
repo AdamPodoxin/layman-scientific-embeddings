@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Description Logic EL",
-      "layman": "Logic for describing concepts"
+      "layman": "Logic for defining concepts"
     },
     {
       "jargon": "Finite model",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Formal Concept Analysis (FCA)",
-      "layman": "Data pattern analysis"
+      "layman": "Data pattern finding"
+    },
+    {
+      "jargon": "Generalization of FCA",
+      "layman": "Expanding FCA rules"
     },
     {
       "jargon": "Computing minimal basis",
       "layman": "Finding simplest rules"
     },
     {
-      "jargon": "Generalizing FCA",
-      "layman": "Extending the method"
-    },
-    {
       "jargon": "Replacing atomic attributes",
       "layman": "Using complex rules instead of simple ones"
     },
     {
-      "jargon": "Instantiating framework",
-      "layman": "Applying the model to specific data"
+      "jargon": "Instantiating the framework",
+      "layman": "Applying the theory to specific data"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Implications holding in a model",
-      "layman": "Rules true in data"
+      "layman": "Rules that work in the data"
     },
     {
       "jargon": "Minimal basis",
-      "layman": "Smallest set of rules that explains everything"
+      "layman": "Smallest set of rules that covers all"
     },
     {
-      "jargon": "Finite basis",
-      "layman": "Finite set of rules that covers all cases"
+      "jargon": "Finite basis for EL-implications",
+      "layman": "Finite set of rules explains all EL rules"
     }
   ]
 }

@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Antidepressive medications",
-      "layman": "Depressant medicines"
+      "layman": "Mood medications"
     },
     {
       "jargon": "Pregnant women",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Cognitive behavioral methods",
-      "layman": "Mind and behavior therapy"
+      "layman": "Cognitive behavioral therapy"
     },
     {
       "jargon": "Diagnosis",
@@ -32,11 +32,11 @@
     },
     {
       "jargon": "Long-term use",
-      "layman": "Using for many weeks or months"
+      "layman": "Using something over many months"
     },
     {
-      "jargon": "Acute insomnia treatment",
-      "layman": "Short-term sleep treatment"
+      "jargon": "Treatment of acute insomnia",
+      "layman": "Treating short-term sleep issues"
     },
     {
       "jargon": "Driving issues",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Adverse effects",
-      "layman": "Harmful side effects"
+      "layman": "Side effects"
     },
     {
       "jargon": "Beneficial effects",
-      "layman": "Positive results"
+      "layman": "Positive effects"
     },
     {
       "jargon": "First-line treatment",
-      "layman": "Best initial treatment"
+      "layman": "First recommended option"
     },
     {
-      "jargon": "Exceeds beneficial effects",
-      "layman": "Harm outweighs benefit"
+      "jargon": "Histamine-1 system",
+      "layman": "Body system that controls sleep"
     },
     {
-      "jargon": "Included in guideline",
-      "layman": "Now covered in care advice"
+      "jargon": "Guideline includes",
+      "layman": "Recommended for specific groups"
     }
   ]
 }

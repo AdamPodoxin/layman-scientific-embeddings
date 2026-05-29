@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "post-Reformation Lutheranism",
-      "layman": "Lutheran beliefs after the Reformation"
+      "jargon": "Post-Reformation Lutheranism",
+      "layman": "Lutheran religion after the Reformation"
     },
     {
-      "jargon": "early-modern German societies",
-      "layman": "German societies in the early modern era"
+      "jargon": "Academic life",
+      "layman": "University life and education"
     },
     {
-      "jargon": "university life",
-      "layman": "University environment and culture"
+      "jargon": "Early-modern German societies",
+      "layman": "Germany in the 1500s and 1600s"
     },
     {
-      "jargon": "academic life",
-      "layman": "Life in universities"
+      "jargon": "Confessionalization",
+      "layman": "Growing religious identity in society"
     },
     {
-      "jargon": "confessionalization",
-      "layman": "Growing religious identity in public life"
+      "jargon": "University culture",
+      "layman": "Traditions in university education"
     }
   ],
   "methodologies": [
     {
-      "jargon": "historical analysis",
+      "jargon": "Historical analysis",
       "layman": "Looking at past events and patterns"
     },
     {
-      "jargon": "integrative view",
-      "layman": "Combining different perspectives"
+      "jargon": "Integrative view",
+      "layman": "Connecting different aspects of history"
     },
     {
-      "jargon": "material history",
-      "layman": "Physical history of institutions"
+      "jargon": "Material history",
+      "layman": "Focus on buildings and objects"
     },
     {
-      "jargon": "intellectual history",
-      "layman": "History of ideas and thinking"
+      "jargon": "Intellectual history",
+      "layman": "Focus on ideas and thinking"
     },
     {
-      "jargon": "cultural context",
-      "layman": "Background of societal values"
+      "jargon": "Macro-historical trends",
+      "layman": "Big historical patterns over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "inextricably related",
-      "layman": "Tightly connected parts"
+      "jargon": "Fresh perspective",
+      "layman": "New way of understanding"
     },
     {
-      "jargon": "fresh perspective",
-      "layman": "New way of seeing"
+      "jargon": "Inextricably related",
+      "layman": "Tied together in one picture"
     },
     {
-      "jargon": "macro-historical trends",
-      "layman": "Big historical patterns"
-    },
-    {
-      "jargon": "absolutist states",
+      "jargon": "Absolutist states",
       "layman": "Strong, centralized governments"
     },
     {
-      "jargon": "private and public life",
-      "layman": "Personal and societal activities"
+      "jargon": "Cultural context",
+      "layman": "Background shaping daily life"
+    },
+    {
+      "jargon": "University teaching",
+      "layman": "How classes and lessons were given"
     }
   ]
 }

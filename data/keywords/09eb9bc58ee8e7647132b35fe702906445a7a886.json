@@ -13,12 +13,12 @@
       "layman": "Cells without nuclei"
     },
     {
-      "jargon": "Flagella",
-      "layman": "Cell movement tails"
+      "jargon": "Tissue",
+      "layman": "Group of connected cells"
     },
     {
-      "jargon": "Pseudopodia",
-      "layman": "Cell extensions for movement"
+      "jargon": "Flagella",
+      "layman": "Cell movement appendages"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Systematic classification",
-      "layman": "Organizing life by evolution"
+      "layman": "Organizing by relatedness"
     },
     {
       "jargon": "Taxonomic attention",
       "layman": "Categorizing organisms"
     },
     {
-      "jargon": "Evolutionary approaches",
-      "layman": "Studying how species evolved"
+      "jargon": "Experimental research",
+      "layman": "Laboratory testing"
     },
     {
-      "jargon": "Experimental research",
-      "layman": "Lab testing of biological processes"
+      "jargon": "Evolutionary relationships",
+      "layman": "How species are related over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Eukaryogenesis",
-      "layman": "Origin of eukaryotic cells"
-    },
-    {
       "jargon": "Unicellular organization",
-      "layman": "Single-cell structure"
+      "layman": "Single-cell life"
     },
     {
       "jargon": "Microscopic size",
-      "layman": "Tiny in size"
+      "layman": "Tiny to see with microscopes"
     },
     {
       "jargon": "No vascular forms",
-      "layman": "No internal transport systems"
+      "layman": "No plant-like pipes for transport"
     },
     {
-      "jargon": "Clearly differentiated tissue stages",
-      "layman": "No clear tissue layers"
+      "jargon": "Motile species",
+      "layman": "Can move around"
+    },
+    {
+      "jargon": "Eukaryogenesis",
+      "layman": "Origin of complex eukaryotic cells"
     }
   ]
 }

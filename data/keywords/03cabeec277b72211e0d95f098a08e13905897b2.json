@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Spencer cohomology",
-      "layman": "Math tool for studying field systems"
+      "layman": "Mathematical tool for analyzing field equations"
     },
     {
       "jargon": "Cartan method",
-      "layman": "Math method for analyzing differential equations"
+      "layman": "Geometric technique for studying equations"
     },
     {
       "jargon": "Cartan\u2013Kahler theory",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Spencer cohomology",
-      "layman": "Math tool for studying field systems"
+      "layman": "Mathematical tool for analyzing field equations"
     },
     {
       "jargon": "Cartan method",
-      "layman": "Math method for analyzing differential equations"
+      "layman": "Geometric technique for studying equations"
     },
     {
-      "jargon": "Calculating cohomology",
-      "layman": "Finding mathematical patterns in equations"
+      "jargon": "Calculate cohomology",
+      "layman": "Compute mathematical properties of equations"
     },
     {
-      "jargon": "Proving involutivity",
-      "layman": "Showing a system follows consistent rules"
+      "jargon": "Prove involutivity",
+      "layman": "Show equations maintain consistency"
     },
     {
-      "jargon": "Deriving implications",
-      "layman": "Drawing logical conclusions from math"
+      "jargon": "Trace relations",
+      "layman": "Map connections between methods"
     }
   ],
   "outcomes": [
     {
       "jargon": "Involutivity",
-      "layman": "Consistent and predictable behavior"
+      "layman": "Equations remain consistent under change"
     },
     {
-      "jargon": "Field equations are involutive",
-      "layman": "Gravity equations follow logical rules"
+      "jargon": "Geometric consistency",
+      "layman": "Equations behave predictably in space"
     },
     {
-      "jargon": "Relation with Cartan method",
-      "layman": "Mathematical connection found"
+      "jargon": "Mathematical solvability",
+      "layman": "Equations can be properly solved"
     },
     {
-      "jargon": "Basic implications derived",
-      "layman": "Key results logically obtained"
+      "jargon": "Cartan\u2013Kahler implications",
+      "layman": "Predictable results from geometric theory"
     },
     {
-      "jargon": "System consistency",
-      "layman": "Equations behave reliably"
+      "jargon": "Field equation compatibility",
+      "layman": "Different forces work together smoothly"
     }
   ]
 }

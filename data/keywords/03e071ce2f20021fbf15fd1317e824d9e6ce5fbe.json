@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Update policy",
-      "layman": "Rule for how updates happen"
+      "layman": "Rule for how to update information"
     },
     {
       "jargon": "Knowledge states",
-      "layman": "States of knowledge over time"
+      "layman": "States of stored knowledge"
     },
     {
       "jargon": "Formula",
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Logical language",
-      "layman": "Language for describing properties"
+      "layman": "Language for describing knowledge properties"
     },
     {
       "jargon": "Semantical properties",
@@ -36,17 +36,17 @@
     },
     {
       "jargon": "Computational properties",
-      "layman": "Performance-based features"
+      "layman": "How calculations behave"
     },
     {
       "jargon": "Finitary characterizations",
-      "layman": "Finite descriptions of evolution"
+      "layman": "Finite descriptions of change"
     }
   ],
   "outcomes": [
     {
       "jargon": "Decidability results",
-      "layman": "Clear yes-or-no answers"
+      "layman": "Clear yes-or-no answer possible"
     },
     {
       "jargon": "Polynomial complexity",
@@ -58,10 +58,10 @@
     },
     {
       "jargon": "Reasoning task",
-      "layman": "Checking if a statement is true"
+      "layman": "Checking if a statement holds"
     },
     {
-      "jargon": "Evolution of knowledge",
+      "jargon": "Evolution of knowledge base",
       "layman": "How knowledge changes over time"
     }
   ]

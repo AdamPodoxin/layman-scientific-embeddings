@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Partial recursive functions",
-      "layman": "Functions that may not always compute"
+      "layman": "Functions that may not always produce outputs"
     },
     {
       "jargon": "Meta-recursive functions",
-      "layman": "Functions that can compute other functions"
+      "layman": "Functions that can be described by recursive rules"
     },
     {
       "jargon": "Infinite domain",
-      "layman": "Unlimited set of inputs"
+      "layman": "Unlimited set of input values"
     }
   ],
   "methodologies": [
@@ -28,15 +28,15 @@
     },
     {
       "jargon": "Kleene recursion theorems",
-      "layman": "Rules for self-referencing functions"
+      "layman": "Theorems about self-referencing functions"
     },
     {
       "jargon": "Relative computability",
       "layman": "How one function can compute another"
     },
     {
-      "jargon": "Standard Godelization",
-      "layman": "Standard way of numbering functions"
+      "jargon": "Standard godelization",
+      "layman": "Standard way to number functions"
     },
     {
       "jargon": "Upper-semi-lattice ordering",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "U.R.S. axioms",
-      "layman": "Basic rules defining the system"
+      "jargon": "U.R.S. satisfies axioms",
+      "layman": "System fits the defined rules"
     },
     {
       "jargon": "Turing reducibility",
-      "layman": "One function can solve another's problem"
-    },
-    {
-      "jargon": "Function indexing",
-      "layman": "Assigning numbers to functions"
+      "layman": "One function can compute another"
     },
     {
       "jargon": "Meta-recursive functions satisfy U.R.S.",
-      "layman": "Complex functions fit the system"
+      "layman": "Advanced functions fit the system"
     },
     {
-      "jargon": "Partial recursive functions satisfy U.R.S.",
+      "jargon": "Partial recursive functions form U.R.S.",
       "layman": "Simple functions fit the system"
+    },
+    {
+      "jargon": "Upper-semi-lattice on functions",
+      "layman": "Functions organized in a ranked order"
     }
   ]
 }

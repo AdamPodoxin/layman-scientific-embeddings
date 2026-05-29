@@ -5,8 +5,8 @@
       "layman": "Quartz"
     },
     {
-      "jargon": "Tetrahedrally coordinated silica polymorphs",
-      "layman": "Crystal form of silica with tetrahedral structure"
+      "jargon": "Tetrahedrally coordinated crystalline silica polymorphs",
+      "layman": "Crystalline silica with tetrahedral structure"
     },
     {
       "jargon": "Amorphous silica",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Stishovite",
-      "layman": "A form of silica with octahedral structure"
+      "layman": "A type of amorphous silica"
     },
     {
       "jargon": "Phospholipid head group",
-      "layman": "Lipid part with charged head"
+      "layman": "Lipid head part of cell membrane"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Thermodynamic model",
-      "layman": "Model based on energy changes"
+      "layman": "Energy-based prediction model"
     },
     {
       "jargon": "Solvation energy changes",
-      "layman": "Energy from water surrounding a molecule"
+      "layman": "Energy change when solute interacts with water"
     },
     {
       "jargon": "Electrostatic forces",
-      "layman": "Attractive forces from charges"
+      "layman": "Force from electric charges"
     },
     {
-      "jargon": "Adsorption",
-      "layman": "Molecule sticking to a surface"
+      "jargon": "Gibbs free energy of exchange",
+      "layman": "Energy change when ions swap places"
     }
   ],
   "outcomes": [
     {
       "jargon": "Membranolytic activity",
-      "layman": "Membrane-breaking ability"
+      "layman": "Membrane-disrupting effect"
     },
     {
       "jargon": "Unfavorable adsorption entropy",
-      "layman": "Entropy loss when molecules stick"
+      "layman": "Low entropy when molecules stick"
     },
     {
       "jargon": "Favorable Gibbs free energy of exchange",
-      "layman": "Energy gain when swapping ions"
+      "layman": "Energy gain when ions swap"
     },
     {
       "jargon": "Membrane rupture",
-      "layman": "Membrane breaking open"
+      "layman": "Membrane breaks open"
     },
     {
-      "jargon": "Cytotoxicity",
-      "layman": "Cell-damaging effect"
+      "jargon": "Poor bacterial adhesion to quartz",
+      "layman": "Bacteria don\u2019t stick to quartz"
     }
   ]
 }

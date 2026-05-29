@@ -6,63 +6,63 @@
     },
     {
       "jargon": "illite",
-      "layman": "Mineral formed by heat and pressure"
+      "layman": "Clay mineral"
     },
     {
       "jargon": "crystalline basement",
-      "layman": "Deep, solid rock foundation"
+      "layman": "Deep rock foundation"
     },
     {
       "jargon": "Rhine Graben",
-      "layman": "Tectonic depression in Europe"
+      "layman": "Faulted depressed region"
     },
     {
-      "jargon": "Vosges Mountains",
-      "layman": "Mountain range in France"
+      "jargon": "diagenetic illite formation",
+      "layman": "Clay formation in buried rocks"
     }
   ],
   "methodologies": [
     {
       "jargon": "K-Ar dating",
-      "layman": "Dating rocks by potassium and argon"
+      "layman": "Measuring rock age using potassium and argon"
     },
     {
       "jargon": "mineralogical study",
       "layman": "Examining rock minerals"
     },
     {
-      "jargon": "morphological analysis",
-      "layman": "Studying rock shapes"
-    },
-    {
       "jargon": "oxygen isotope analysis",
-      "layman": "Measuring oxygen changes in rocks"
+      "layman": "Measuring oxygen ratios in rocks"
     },
     {
       "jargon": "fluid migration",
       "layman": "Movement of fluids through rock"
+    },
+    {
+      "jargon": "illite precipitation",
+      "layman": "Clay forming in rock layers"
     }
   ],
   "outcomes": [
     {
-      "jargon": "diagenetic illite formation",
-      "layman": "Illite formed during rock changes"
+      "jargon": "no record of diagenetic illite formation",
+      "layman": "No clay formed in rocks"
     },
     {
-      "jargon": "tectonic activity",
-      "layman": "Earth movement causing stress"
+      "jargon": "two separate events of illitization",
+      "layman": "Clay formed in two bursts"
     },
     {
-      "jargon": "illite precipitation",
-      "layman": "Illite mineral forming in rock"
+      "jargon": "illite formation at ~185 Ma",
+      "layman": "Clay formed 185 million years ago"
     },
     {
-      "jargon": "crystallization episodes",
-      "layman": "Periods when minerals formed"
+      "jargon": "illite formation at ~95 and 70 Ma",
+      "layman": "Clay formed twice, 95 and 70 million years ago"
     },
     {
-      "jargon": "fluid circulation",
-      "layman": "Flow of fluids through rock layers"
+      "jargon": "youngest illitization older than Miocene rifting",
+      "layman": "Latest clay formed before later rifting"
     }
   ]
 }

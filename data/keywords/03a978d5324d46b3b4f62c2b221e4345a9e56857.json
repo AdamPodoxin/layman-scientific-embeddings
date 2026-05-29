@@ -2,29 +2,29 @@
   "core_entities": [
     {
       "jargon": "Hen ovotransferrin",
-      "layman": "Egg protein that binds metals"
+      "layman": "Egg white protein"
     },
     {
       "jargon": "Iron",
-      "layman": "Metal in blood"
+      "layman": "Iron"
     },
     {
       "jargon": "Copper",
-      "layman": "Metal in body fluids"
+      "layman": "Copper"
     },
     {
       "jargon": "Apo-ovotransferrin",
-      "layman": "Empty egg protein"
+      "layman": "Iron-free egg protein"
     },
     {
-      "jargon": "Chelate",
-      "layman": "Metal-binding compound"
+      "jargon": "Ternary complex",
+      "layman": "Three-part protein-metal-bicarbonate mix"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Kinetics",
-      "layman": "Speed of reaction"
+      "jargon": "Kinetics study",
+      "layman": "Speed of reaction test"
     },
     {
       "jargon": "Absorbance change",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Pseudo-first-order reaction",
-      "layman": "Reaction speed when one part is in excess"
+      "layman": "Fast reaction with excess chemicals"
     },
     {
-      "jargon": "Progress curves",
-      "layman": "Graph of reaction over time"
+      "jargon": "Bicarbonate concentration dependence",
+      "layman": "Reaction speed depends on bicarbonate level"
     },
     {
-      "jargon": "pH-dependence",
-      "layman": "Reaction affected by acidity or alkalinity"
+      "jargon": "Reaction scheme",
+      "layman": "Step-by-step reaction plan"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Biphasic kinetics",
-      "layman": "Two-step reaction process"
+      "jargon": "Biphasic progress curves",
+      "layman": "Two-speed reaction pattern"
     },
     {
-      "jargon": "Rate dependence on bicarbonate",
-      "layman": "Reaction speed changes with bicarbonate"
-    },
-    {
-      "jargon": "Ternary complex",
-      "layman": "Three-part protein-metal-chelate mix"
+      "jargon": "Marked dependence on bicarbonate",
+      "layman": "Strong reaction to bicarbonate"
     },
     {
       "jargon": "Color development",
-      "layman": "Formation of colored product"
+      "layman": "Color appears after binding"
     },
     {
       "jargon": "Similar kinetics for iron and copper",
-      "layman": "Both metals react at same speed"
+      "layman": "Same reaction speed for both metals"
+    },
+    {
+      "jargon": "Tyrosine residues involved",
+      "layman": "Tyrosine amino acids help in binding"
     }
   ]
 }

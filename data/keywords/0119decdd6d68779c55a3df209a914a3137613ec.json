@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "IT Governance",
+      "layman": "How IT is managed in organizations"
+    },
+    {
+      "jargon": "Public sector organizations",
+      "layman": "Government agencies"
+    },
+    {
+      "jargon": "Developing country",
+      "layman": "Country with growing economy"
+    },
+    {
+      "jargon": "Critical success factors",
+      "layman": "Key things that ensure success"
+    },
+    {
+      "jargon": "Tanzania",
+      "layman": "Tanzania"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Case study",
+      "layman": "In-depth look at a specific example"
+    },
+    {
+      "jargon": "Framework analysis",
+      "layman": "Using a structured model to evaluate"
+    },
+    {
+      "jargon": "Stakeholder mapping",
+      "layman": "Identifying who has a role in decisions"
+    },
+    {
+      "jargon": "Qualitative research",
+      "layman": "Non-numerical data collection"
+    },
+    {
+      "jargon": "Gap analysis",
+      "layman": "Comparing current and needed practices"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Effective IT governance",
+      "layman": "Good IT management"
+    },
+    {
+      "jargon": "Policy alignment",
+      "layman": "IT policies match organizational goals"
+    },
+    {
+      "jargon": "Decision transparency",
+      "layman": "Clear and open decision-making"
+    },
+    {
+      "jargon": "Resource efficiency",
+      "layman": "Using resources wisely"
+    },
+    {
+      "jargon": "Improved service delivery",
+      "layman": "Better public services"
+    }
+  ]
+}

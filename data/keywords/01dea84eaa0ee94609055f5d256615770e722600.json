@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Critical Rationalism",
-      "layman": "Science based on testing and criticism"
+      "layman": "Scientific reasoning based on criticism"
+    },
+    {
+      "jargon": "Scientific methodology",
+      "layman": "How science is done"
     },
     {
       "jargon": "Metaphysics",
-      "layman": "Big questions about reality"
-    },
-    {
-      "jargon": "Scientific method",
-      "layman": "How science discovers truths"
+      "layman": "Fundamental nature of reality"
     },
     {
       "jargon": "Rationality",
-      "layman": "Reason-based thinking"
+      "layman": "Logical, reasonable thinking"
     },
     {
       "jargon": "Philosophy of science",
-      "layman": "Study of how science works"
+      "layman": "Study of science's foundations"
     }
   ],
   "methodologies": [
     {
       "jargon": "Falsification",
-      "layman": "Testing ideas to prove they're wrong"
+      "layman": "Testing if theories can be proven wrong"
     },
     {
-      "jargon": "Critical discussion",
-      "layman": "Debating ideas to improve them"
+      "jargon": "Logical criticism",
+      "layman": "Challenging ideas with reason"
     },
     {
-      "jargon": "Scientific critique",
-      "layman": "Challenging scientific claims"
+      "jargon": "Theoretical conjecture",
+      "layman": "Hypothesizing without proof"
     },
     {
-      "jargon": "Conceptual analysis",
-      "layman": "Breaking down ideas to understand them"
+      "jargon": "Scientific revolution",
+      "layman": "Major shift in scientific thinking"
     },
     {
-      "jargon": "Intellectual revolution",
-      "layman": "Major shift in thinking"
+      "jargon": "Ethical understanding",
+      "layman": "Moral basis of scientific thought"
     }
   ],
   "outcomes": [
     {
-      "jargon": "No scientific foundations",
-      "layman": "No absolute truths in science"
-    },
-    {
-      "jargon": "Rationality without foundations",
-      "layman": "Reasoning without sure starting points"
+      "jargon": "Foundations without certainty",
+      "layman": "No absolute proof in science"
     },
     {
       "jargon": "Clashing metaphysics",
-      "layman": "Opposing views on what reality is"
+      "layman": "Opposing views on reality"
     },
     {
-      "jargon": "Ethical understanding of rationality",
-      "layman": "Moral basis for scientific reasoning"
+      "jargon": "Rationality without foundations",
+      "layman": "Reasoning without absolute truth"
     },
     {
-      "jargon": "Rejection of justificationism",
-      "layman": "Rejecting the need for proof of truth"
+      "jargon": "Scientific critique",
+      "layman": "Scientific ideas challenged"
+    },
+    {
+      "jargon": "Intellectual revolution",
+      "layman": "Big change in scientific ideas"
     }
   ]
 }

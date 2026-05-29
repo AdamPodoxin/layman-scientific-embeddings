@@ -9,16 +9,16 @@
       "layman": "Coin bias"
     },
     {
-      "jargon": "Label noise",
-      "layman": "Label noise"
-    },
-    {
       "jargon": "Classifier",
       "layman": "Classifier"
     },
     {
-      "jargon": "Corrupted data",
-      "layman": "Corrupted data"
+      "jargon": "Label noise",
+      "layman": "Label noise"
+    },
+    {
+      "jargon": "Limited data",
+      "layman": "Limited data"
     }
   ],
   "methodologies": [
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Learning a classifier",
-      "layman": "Teaching a decision model"
+      "layman": "Training a prediction tool"
     },
     {
-      "jargon": "Data corruption rates",
-      "layman": "How often data is wrong"
+      "jargon": "Corruption rate",
+      "layman": "Error rate"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Optimal data subset",
+      "jargon": "Optimal subset of data",
       "layman": "Best data mix"
     },
     {
-      "jargon": "Limited data",
-      "layman": "Small data sets"
-    },
-    {
-      "jargon": "Multiple sources",
-      "layman": "Several data streams"
-    },
-    {
-      "jargon": "Different corruption rates",
-      "layman": "Varying error levels"
-    },
-    {
       "jargon": "Efficient algorithms",
-      "layman": "Fast solutions"
+      "layman": "Fast computing methods"
+    },
+    {
+      "jargon": "Accurate estimation",
+      "layman": "Good guess"
+    },
+    {
+      "jargon": "Robust learning",
+      "layman": "Stable predictions"
+    },
+    {
+      "jargon": "Reduced noise impact",
+      "layman": "Less error effect"
     }
   ]
 }

@@ -6,41 +6,41 @@
     },
     {
       "jargon": "Welfare programs",
-      "layman": "Financial aid for people in need"
+      "layman": "Government aid for poor people"
     },
     {
-      "jargon": "Local municipal officials",
-      "layman": "City government leaders"
+      "jargon": "Local municipalities",
+      "layman": "City governments"
     },
     {
-      "jargon": "City and state expenditures",
-      "layman": "Money spent by cities and states"
+      "jargon": "State expenditures",
+      "layman": "Money spent by state governments"
     },
     {
       "jargon": "Budgetary increases",
-      "layman": "Rising government spending"
+      "layman": "Rising spending in a budget"
     }
   ],
   "methodologies": [
     {
       "jargon": "Data comparison",
-      "layman": "Comparing numbers from different groups"
+      "layman": "Comparing numbers from different places"
     },
     {
       "jargon": "Control group",
-      "layman": "Cities without riots used for comparison"
+      "layman": "Group without the event being studied"
     },
     {
       "jargon": "Similar size cities",
-      "layman": "Cities of comparable size"
-    },
-    {
-      "jargon": "Year following riot",
-      "layman": "The next year after the riot"
+      "layman": "Cities of equal size"
     },
     {
       "jargon": "Statistical analysis",
-      "layman": "Using math to find patterns"
+      "layman": "Using data to find patterns"
+    },
+    {
+      "jargon": "Longitudinal study",
+      "layman": "Looking at data over time"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "More money spent on welfare"
     },
     {
-      "jargon": "No such pattern",
-      "layman": "No change in spending in nonriot cities"
+      "jargon": "No expansion pattern",
+      "layman": "No increase in spending"
     },
     {
-      "jargon": "Expanded welfare services",
-      "layman": "More welfare support given"
+      "jargon": "Year following riot",
+      "layman": "The next year after the riot"
     },
     {
-      "jargon": "Local expansion ease",
-      "layman": "Easy to increase spending locally"
+      "jargon": "Local municipal expansion",
+      "layman": "City governments increasing services"
     },
     {
-      "jargon": "No threat to other groups",
-      "layman": "No risk to other interests"
+      "jargon": "Expansion without threat",
+      "layman": "Growing services safely"
     }
   ]
 }

@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Zygote development",
-      "layman": "Early cell formation"
+      "layman": "Early cell development"
     },
     {
       "jargon": "Unicellular green alga",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "Regulate development",
-      "layman": "Control growth patterns"
+      "layman": "Control growth"
     },
     {
       "jargon": "Gene loss and diversification",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Land plant evolution",
-      "layman": "Change from algae to land plants"
+      "layman": "How plants moved to land"
     },
     {
-      "jargon": "Control zygote development",
-      "layman": "Manage early cell formation"
+      "jargon": "Molecular regulation",
+      "layman": "Molecular control"
     }
   ],
   "outcomes": [
     {
-      "jargon": "TALE gene loss",
-      "layman": "Loss of TALE genes"
+      "jargon": "Control zygote development",
+      "layman": "Control early cell growth"
     },
     {
-      "jargon": "Diversification of TALE genes",
-      "layman": "TALE genes becoming different"
+      "jargon": "Implicates TALE gene loss",
+      "layman": "Shows gene loss matters"
     },
     {
       "jargon": "New diploid body plans",
-      "layman": "New two-chromosome life forms"
+      "layman": "New two-celled life forms"
     },
     {
       "jargon": "Evolution over 450 million years",
       "layman": "Change over hundreds of millions of years"
     },
     {
-      "jargon": "Implicates gene changes in body plan evolution",
-      "layman": "Shows gene changes led to new body forms"
+      "jargon": "Body plan diversification",
+      "layman": "Variation in body structure"
     }
   ]
 }

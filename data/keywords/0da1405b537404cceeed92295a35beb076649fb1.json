@@ -1,38 +1,38 @@
 {
   "core_entities": [
     {
-      "jargon": "acute pain",
-      "layman": "sudden pain"
-    },
-    {
       "jargon": "postoperative pain",
       "layman": "pain after surgery"
     },
     {
-      "jargon": "children",
-      "layman": "kids"
+      "jargon": "acute pain",
+      "layman": "sudden pain"
     },
     {
-      "jargon": "pain management",
-      "layman": "handling pain"
+      "jargon": "pain of other origin",
+      "layman": "pain from other causes"
     },
     {
       "jargon": "healthcare professionals",
       "layman": "doctors and nurses"
+    },
+    {
+      "jargon": "pain management structure",
+      "layman": "system for managing pain"
     }
   ],
   "methodologies": [
     {
       "jargon": "nationwide survey",
-      "layman": "large country-wide survey"
+      "layman": "large country-wide questionnaire"
     },
     {
       "jargon": "questionnaires",
-      "layman": "paper forms"
+      "layman": "forms sent to hospitals"
     },
     {
       "jargon": "response rate",
-      "layman": "percentage of people who answered"
+      "layman": "percentage of replies received"
     },
     {
       "jargon": "pain assessments",
@@ -40,24 +40,24 @@
     },
     {
       "jargon": "formal organization for pain management",
-      "layman": "official pain care system"
+      "layman": "official pain management system"
     }
   ],
   "outcomes": [
     {
       "jargon": "23% of patients with postoperative pain",
-      "layman": "one in four kids have moderate to severe pain after surgery"
+      "layman": "one in four children in surgery feel moderate to severe pain"
     },
     {
       "jargon": "31% of patients with pain of other origin",
-      "layman": "one in three kids have moderate to severe pain from other causes"
+      "layman": "one in three children with non-surgery pain feel moderate to severe pain"
     },
     {
       "jargon": "45% of physicians and nurses",
-      "layman": "most doctors and nurses say pain could be managed better"
+      "layman": "half of doctors and nurses say treatment could be better"
     },
     {
-      "jargon": "43% of departments perform regular pain checks",
+      "jargon": "43% of departments do regular pain checks",
       "layman": "most hospitals check pain regularly"
     },
     {

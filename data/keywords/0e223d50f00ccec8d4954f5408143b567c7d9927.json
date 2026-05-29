@@ -1,31 +1,27 @@
 {
   "core_entities": [
     {
-      "jargon": "Franchisor",
-      "layman": "Brand owner"
+      "jargon": "Franchise partner",
+      "layman": "Potential business partner"
     },
     {
-      "jargon": "Prospective partners",
-      "layman": "Potential franchisees"
+      "jargon": "Franchisor",
+      "layman": "Company granting the franchise"
     },
     {
       "jargon": "Cultural distance",
-      "layman": "Cultural differences"
+      "layman": "Cultural differences between countries"
     },
     {
       "jargon": "International hotel firm",
       "layman": "Global hotel company"
     },
     {
-      "jargon": "Country markets",
-      "layman": "Different countries"
+      "jargon": "Prospective partners",
+      "layman": "Potential future partners"
     }
   ],
   "methodologies": [
-    {
-      "jargon": "Embedded case study",
-      "layman": "In-depth single-company study"
-    },
     {
       "jargon": "Interviews",
       "layman": "Talking to people"
@@ -39,30 +35,34 @@
       "layman": "Reviewing records"
     },
     {
-      "jargon": "Recruitment process",
-      "layman": "Hiring process"
+      "jargon": "Case study",
+      "layman": "In-depth look at one example"
+    },
+    {
+      "jargon": "Data collection",
+      "layman": "Gathering information"
     }
   ],
   "outcomes": [
     {
       "jargon": "Efficient coordination",
-      "layman": "Smooth teamwork"
+      "layman": "Smooth cooperation"
     },
     {
-      "jargon": "Challenges in upgrading knowledge",
-      "layman": "Hard to adapt knowledge"
+      "jargon": "Challenges in adapting",
+      "layman": "Problems adjusting to local needs"
     },
     {
-      "jargon": "Adapting to local needs",
-      "layman": "Meeting local demands"
+      "jargon": "Upgrading knowledge",
+      "layman": "Improving existing knowledge"
     },
     {
-      "jargon": "Greater cultural distance",
-      "layman": "More cultural differences"
+      "jargon": "Cultural distance increases challenges",
+      "layman": "More cultural differences mean more problems"
     },
     {
       "jargon": "Limited generalisability",
-      "layman": "Not applicable to all industries"
+      "layman": "Findings may not apply everywhere"
     }
   ]
 }

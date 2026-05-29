@@ -6,41 +6,41 @@
     },
     {
       "jargon": "Passive marginal basins",
-      "layman": "Quiet coastal sediment basins"
+      "layman": "Ancient coastal basins"
     },
     {
       "jargon": "Source rocks",
-      "layman": "Rock layers that create gas"
+      "layman": "Rock that makes gas"
     },
     {
       "jargon": "Reservoirs",
-      "layman": "Gas storage layers"
+      "layman": "Gas storage rock"
     },
     {
-      "jargon": "Uplifts and anticlines",
-      "layman": "Raised land formations that trap gas"
+      "jargon": "Deltaic sedimentation",
+      "layman": "Sediment buildup from rivers"
     }
   ],
   "methodologies": [
     {
       "jargon": "IHS energy information database",
-      "layman": "Energy data collection system"
+      "layman": "Energy data collection tool"
     },
     {
       "jargon": "Paleogeography",
-      "layman": "Ancient land shape mapping"
+      "layman": "Ancient land shapes"
     },
     {
-      "jargon": "Rift sequence",
-      "layman": "Fault lines from ancient tectonic splitting"
+      "jargon": "Rifts",
+      "layman": "Cracks in the Earth's crust"
     },
     {
-      "jargon": "Deltaic sedimentation",
-      "layman": "Sediment buildup from river deltas"
+      "jargon": "Uplifts and anticlines",
+      "layman": "Raised areas that trap gas"
     },
     {
-      "jargon": "Direct seals",
-      "layman": "Impermeable layers that block gas escape"
+      "jargon": "Direct seals of marine Cretaceous shale",
+      "layman": "Sealing layers of ancient sea rock"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Key controlling factors",
-      "layman": "Main reasons for gas location"
+      "layman": "Main causes of gas locations"
     },
     {
       "jargon": "Large scale deltaic sedimentation",
-      "layman": "Big sediment deposits from deltas"
+      "layman": "Big river deposits that hold gas"
     },
     {
-      "jargon": "Gas potential",
-      "layman": "Chance of finding large gas fields"
+      "jargon": "Formation of large gas fields",
+      "layman": "Creation of big gas deposits"
     },
     {
-      "jargon": "Promising exploration target",
-      "layman": "Good place to search for gas"
+      "jargon": "Great gas potential",
+      "layman": "Strong possibility of finding gas"
     }
   ]
 }

@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Idiopathic pulmonary arterial hypertension",
-      "layman": "Unknown cause lung pressure disease"
+      "layman": "Unknown cause lung artery pressure disease"
     },
     {
       "jargon": "Familial pulmonary arterial hypertension",
-      "layman": "Inherited lung pressure disease"
-    },
-    {
-      "jargon": "Pulmonary arterial hypertension",
-      "layman": "High lung artery pressure"
+      "layman": "Hereditary lung artery pressure disease"
     },
     {
       "jargon": "Pericardial effusion",
       "layman": "Fluid around the heart"
     },
     {
-      "jargon": "Body mass index",
-      "layman": "Weight-to-height ratio"
+      "jargon": "Hemodynamic abnormalities",
+      "layman": "Abnormal blood pressure patterns"
+    },
+    {
+      "jargon": "Vasoreactivity test",
+      "layman": "Test for blood vessel responsiveness"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Kaplan-Meier method",
-      "layman": "Tracking survival over time"
+      "layman": "Survival rate tracking over time"
     },
     {
       "jargon": "Cox proportional hazards analysis",
-      "layman": "Measuring risk of death over time"
+      "layman": "Risk prediction for death"
     },
     {
       "jargon": "Independent sample t test",
-      "layman": "Comparing two groups"
+      "layman": "Compare average values between groups"
     },
     {
       "jargon": "Nonparametric test",
-      "layman": "Statistical test for data that doesn't follow normal patterns"
+      "layman": "Statistical test for data without normal distribution"
     }
   ],
   "outcomes": [
     {
       "jargon": "1-year survival rate",
-      "layman": "Percent alive after one year"
+      "layman": "Percentage alive after one year"
     },
     {
       "jargon": "3-year survival rate",
-      "layman": "Percent alive after three years"
+      "layman": "Percentage alive after three years"
     },
     {
-      "jargon": "Death as primary outcome",
-      "layman": "Death is the main result measured"
+      "jargon": "Death",
+      "layman": "Patient passing away"
     },
     {
-      "jargon": "Survival improved",
-      "layman": "More patients lived longer"
+      "jargon": "Predicted survival based on NIH equation",
+      "layman": "Expected survival using standard formula"
     },
     {
-      "jargon": "Mortality independently associated with factors",
-      "layman": "Certain factors predict who dies"
+      "jargon": "Mortality",
+      "layman": "Rate of patient death"
     }
   ]
 }

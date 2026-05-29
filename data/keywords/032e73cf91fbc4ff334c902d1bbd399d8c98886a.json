@@ -5,12 +5,12 @@
       "layman": "Energy level where strange quark pairs appear"
     },
     {
-      "jargon": "f0 (980) meson",
-      "layman": "A short-lived particle in particle collisions"
+      "jargon": "f0(980) meson",
+      "layman": "A short-lived particle made of quarks"
     },
     {
-      "jargon": "a0 (980) meson",
-      "layman": "A short-lived particle in particle collisions"
+      "jargon": "a0(980) meson",
+      "layman": "A short-lived particle made of quarks"
     },
     {
       "jargon": "K+K- atom",
@@ -18,13 +18,13 @@
     },
     {
       "jargon": "p+d reaction",
-      "layman": "Collision between proton and deuterium"
+      "layman": "Collision between proton and deuteron"
     }
   ],
   "methodologies": [
     {
       "jargon": "General framework",
-      "layman": "Unified model for studying phenomena"
+      "layman": "Unified model to study physics"
     },
     {
       "jargon": "Interplay with resonances",
@@ -35,34 +35,34 @@
       "layman": "Careful lab measurements"
     },
     {
-      "jargon": "Parameter set",
-      "layman": "A few key numbers that describe behavior"
+      "jargon": "Parameter description",
+      "layman": "A few key numbers to explain behavior"
     },
     {
-      "jargon": "Production prediction",
-      "layman": "Forecasting how particles form"
+      "jargon": "Threshold effects",
+      "layman": "Changes at specific energy levels"
     }
   ],
   "outcomes": [
     {
       "jargon": "Drastic energy dependence",
-      "layman": "Strong change with energy level"
+      "layman": "Strong change with energy"
+    },
+    {
+      "jargon": "Predicted production",
+      "layman": "Expected creation of particles"
     },
     {
       "jargon": "Resonance effects",
-      "layman": "Strong peaks in particle production"
+      "layman": "Strong peaks in particle signals"
     },
     {
-      "jargon": "Threshold effects",
-      "layman": "Changes at specific energy levels"
+      "jargon": "Shed light on nature",
+      "layman": "Improve understanding of particles"
     },
     {
-      "jargon": "Energy dependence",
-      "layman": "How results change with energy"
-    },
-    {
-      "jargon": "Nature of f0 and a0 resonances",
-      "layman": "What these particles actually are"
+      "jargon": "Few parameters describe system",
+      "layman": "Simple rules explain complex behavior"
     }
   ]
 }

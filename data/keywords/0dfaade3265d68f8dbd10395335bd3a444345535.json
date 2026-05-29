@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Software development process",
-      "layman": "Building software step by step"
+      "layman": "Building a software system"
     },
     {
       "jargon": "Development project",
-      "layman": "A project to build something new"
+      "layman": "A major software build"
     },
     {
       "jargon": "Unknown elements",
-      "layman": "Things we don't know at first"
+      "layman": "Unseen parts at start"
     },
     {
-      "jargon": "Difficult part",
-      "layman": "Hard part of a project"
+      "jargon": "Start phase",
+      "layman": "Initial stage of building"
     },
     {
-      "jargon": "Progress",
-      "layman": "Moving forward in a project"
+      "jargon": "Complex components",
+      "layman": "Hard-to-understand parts"
     }
   ],
   "methodologies": [
     {
       "jargon": "Starting with the most difficult part",
-      "layman": "Begin with the hardest step"
+      "layman": "Begin with the hardest piece"
     },
     {
-      "jargon": "Discovering elements",
-      "layman": "Finding out what's missing"
-    },
-    {
-      "jargon": "Progressive development",
-      "layman": "Building step by step"
+      "jargon": "Progressive discovery",
+      "layman": "Uncovering parts as you go"
     },
     {
       "jargon": "Project progression",
-      "layman": "Moving through project stages"
+      "layman": "Moving step by step"
     },
     {
-      "jargon": "Iterative approach",
-      "layman": "Repeating and improving over time"
+      "jargon": "Iterative building",
+      "layman": "Building in stages"
+    },
+    {
+      "jargon": "Problem-solving sequence",
+      "layman": "Solving hard problems first"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Benefits of starting hard"
     },
     {
-      "jargon": "Improved planning",
-      "layman": "Better project planning"
-    },
-    {
-      "jargon": "Greater clarity",
+      "jargon": "Improved clarity",
       "layman": "Clearer understanding later"
     },
     {
       "jargon": "Reduced complexity",
-      "layman": "Less confusion over time"
+      "layman": "Easier to manage later"
     },
     {
-      "jargon": "Successful completion",
-      "layman": "Project finishes well"
+      "jargon": "Early problem resolution",
+      "layman": "Hard issues fixed early"
+    },
+    {
+      "jargon": "Greater confidence",
+      "layman": "More trust in final product"
     }
   ]
 }

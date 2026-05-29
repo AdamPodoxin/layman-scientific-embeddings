@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Temperley\u2013Lieb algebra",
-      "layman": "Mathematical structure for lattice models"
-    },
-    {
-      "jargon": "Two-colour diagram algebras",
-      "layman": "Coloured diagrams for physical systems"
+      "jargon": "Two-colour Temperley\u2013Lieb Algebra",
+      "layman": "Lattice model with two colors"
     },
     {
       "jargon": "Dilute lattice systems",
-      "layman": "Sparse grid models in 2D"
+      "layman": "Sparse network of particles on a grid"
     },
     {
-      "jargon": "Statistical mechanics",
-      "layman": "Study of large systems of particles"
+      "jargon": "Multi-colour algebras",
+      "layman": "Algebras with multiple colors"
     },
     {
       "jargon": "Yang\u2013Baxter equations",
-      "layman": "Rules for particle interactions in physics"
+      "layman": "Rules that ensure consistency in particle interactions"
+    },
+    {
+      "jargon": "Roots of unity",
+      "layman": "Special mathematical values on a circle"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Diagram algebras",
+      "layman": "Visual math rules for systems"
+    },
+    {
       "jargon": "Martin's general procedure",
-      "layman": "Standard method for diagram algebras"
+      "layman": "Systematic method for solving algebras"
     },
     {
       "jargon": "Representation theory",
-      "layman": "How algebra structures act on objects"
+      "layman": "How algebra shapes real-world patterns"
     },
     {
-      "jargon": "Diagram algebras",
-      "layman": "Algebra using diagrams"
+      "jargon": "Modeling",
+      "layman": "Creating simplified versions of reality"
     },
     {
-      "jargon": "Multiparameter generalizations",
-      "layman": "Extended versions with multiple parameters"
-    },
-    {
-      "jargon": "Roots of unity",
-      "layman": "Special values where math behaves differently"
+      "jargon": "Generalizations",
+      "layman": "Expanding rules to more cases"
     }
   ],
   "outcomes": [
     {
       "jargon": "Nongeneric cases",
-      "layman": "Special conditions where behavior changes"
+      "layman": "Special, unexpected conditions"
     },
     {
-      "jargon": "Generic representation theory",
-      "layman": "Standard way the algebra works"
-    },
-    {
-      "jargon": "Solve the Yang\u2013Baxter equations",
-      "layman": "Find solutions to interaction rules"
+      "jargon": "Solve Yang\u2013Baxter equations",
+      "layman": "Find consistent interaction rules"
     },
     {
       "jargon": "Rigorous foundation",
-      "layman": "Solid mathematical base"
+      "layman": "Mathematically solid base"
     },
     {
-      "jargon": "Sequence of algebras",
-      "layman": "Series of related mathematical models"
+      "jargon": "Generic representation theory",
+      "layman": "Standard behavior in most cases"
+    },
+    {
+      "jargon": "Multi-colour generalizations",
+      "layman": "Work with multiple types of particles"
     }
   ]
 }

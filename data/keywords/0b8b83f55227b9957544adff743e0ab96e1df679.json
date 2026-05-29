@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Inflation targeting",
-      "layman": "Setting inflation goals"
+      "layman": "Stabilizing prices through set goals"
     },
     {
       "jargon": "Public information",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Fundamental information",
-      "layman": "True economic facts"
+      "layman": "True underlying reality"
     },
     {
       "jargon": "Coordination",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Communication policy",
-      "layman": "How central banks share info"
+      "layman": "How central banks share messages"
     },
     {
-      "jargon": "Coordination mechanisms",
-      "layman": "Ways people align actions"
+      "jargon": "Coordination mechanism",
+      "layman": "Tool to align group actions"
+    },
+    {
+      "jargon": "Public information dissemination",
+      "layman": "Spreading public info"
     },
     {
       "jargon": "Policy signaling",
-      "layman": "Sending signals about future policy"
+      "layman": "Sending signals about future actions"
     },
     {
-      "jargon": "Information dissemination",
-      "layman": "Spreading information widely"
-    },
-    {
-      "jargon": "Public feedback loops",
-      "layman": "Public reacting to policy messages"
+      "jargon": "Information feedback loop",
+      "layman": "Information that circles back and changes behavior"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Economic effects",
-      "layman": "Financial impacts"
+      "jargon": "Improved coordination",
+      "layman": "Better group alignment"
     },
     {
-      "jargon": "Action coordination",
-      "layman": "People acting together"
+      "jargon": "Action deviation from fundamentals",
+      "layman": "Actions go away from truth"
     },
     {
-      "jargon": "Deviation from fundamentals",
-      "layman": "Actions moving away from reality"
-    },
-    {
-      "jargon": "Over-influence of information",
-      "layman": "Too much info causes bad results"
+      "jargon": "Inflation control",
+      "layman": "Stable prices over time"
     },
     {
       "jargon": "Double-edged tool",
-      "layman": "Can help or hurt depending on use"
+      "layman": "Can help or harm"
+    },
+    {
+      "jargon": "Efficient policy response",
+      "layman": "Timely and effective policy action"
     }
   ]
 }

@@ -5,64 +5,64 @@
       "layman": "COPD"
     },
     {
-      "jargon": "primary care physicians",
-      "layman": "General doctors"
+      "jargon": "general practitioners",
+      "layman": "primary care doctors"
     },
     {
       "jargon": "pulmonologists",
-      "layman": "Lung specialists"
+      "layman": "lung specialists"
     },
     {
       "jargon": "spirometry",
-      "layman": "Lung function test"
+      "layman": "lung function test"
     },
     {
       "jargon": "symptoms",
-      "layman": "Signs like coughing or shortness of breath"
+      "layman": "signs and body signals"
     }
   ],
   "methodologies": [
     {
+      "jargon": "face-to-face survey",
+      "layman": "in-person interviews"
+    },
+    {
       "jargon": "cross-sectional survey",
-      "layman": "One-time doctor opinion survey"
-    },
-    {
-      "jargon": "face-to-face interviews",
-      "layman": "In-person doctor discussions"
-    },
-    {
-      "jargon": "random selection",
-      "layman": "Doctors picked at random"
+      "layman": "snapshot of knowledge at one time"
     },
     {
       "jargon": "questionnaire",
-      "layman": "Written doctor survey"
+      "layman": "written health form"
+    },
+    {
+      "jargon": "randomly selected",
+      "layman": "chosen by chance"
     },
     {
       "jargon": "response rate",
-      "layman": "Percent of doctors who answered"
+      "layman": "percentage who answered"
     }
   ],
   "outcomes": [
     {
       "jargon": "moderate to severe stages",
-      "layman": "Late disease stage"
+      "layman": "bad disease phase"
     },
     {
       "jargon": "under-diagnosis",
-      "layman": "Too few cases detected"
+      "layman": "not correctly identified"
     },
     {
       "jargon": "under-treatment",
-      "layman": "Too few patients get proper care"
+      "layman": "not given proper care"
     },
     {
       "jargon": "poor patient compliance",
-      "layman": "Patients don\u2019t follow treatment"
+      "layman": "patients don't follow treatment"
     },
     {
-      "jargon": "smoking cessation difficulty",
-      "layman": "Hard to stop smoking"
+      "jargon": "limited therapeutic options",
+      "layman": "few treatment choices"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Climate change",
-      "layman": "Long-term warming of Earth"
+      "layman": "Long-term weather patterns shifting"
     },
     {
       "jargon": "Democratic governance",
-      "layman": "Decision-making by the public"
+      "layman": "Decision-making by elected representatives"
     },
     {
       "jargon": "Natural resources",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Climate justice",
-      "layman": "Fair treatment of climate impacts"
+      "layman": "Fair treatment of people affected by climate change"
     },
     {
       "jargon": "Green Economy",
-      "layman": "Economy focused on sustainability"
+      "layman": "Economy that prioritizes environmental protection"
     }
   ],
   "methodologies": [
     {
       "jargon": "Libertarian paternalism",
-      "layman": "Guiding choices without forcing them"
-    },
-    {
-      "jargon": "Trial by jury",
-      "layman": "Group decision through voting"
-    },
-    {
-      "jargon": "Four-Power-Model",
-      "layman": "Group of four powers making decisions"
+      "layman": "Designing choices to guide people gently"
     },
     {
       "jargon": "Moral pragmatics",
-      "layman": "Practical ethics in tough decisions"
+      "layman": "Practical ethics for tough decisions"
     },
     {
-      "jargon": "Commons governance",
-      "layman": "Managing shared resources"
+      "jargon": "Trial by jury",
+      "layman": "Group decision-making by experts"
+    },
+    {
+      "jargon": "Four-Power-Model",
+      "layman": "Framework for future generations' rights"
+    },
+    {
+      "jargon": "Self-binding",
+      "layman": "People making personal promises to change behavior"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Deficiency of democracy",
-      "layman": "Democracy fails to act"
+      "jargon": "Tragedy of the commons",
+      "layman": "Everyone using shared resources until they're gone"
     },
     {
       "jargon": "Polarization",
-      "layman": "Strong division between groups"
-    },
-    {
-      "jargon": "Feasibility straitjacket",
-      "layman": "Limits on what's possible"
-    },
-    {
-      "jargon": "Ecological change",
-      "layman": "Environmental improvement"
+      "layman": "Strong division between opposing groups"
     },
     {
       "jargon": "Moral corruption",
-      "layman": "Loss of ethical integrity"
+      "layman": "Loss of ethical integrity in actions"
+    },
+    {
+      "jargon": "Feasibility straitjacket",
+      "layman": "Limits that trap practical solutions"
+    },
+    {
+      "jargon": "Ecological change",
+      "layman": "Environmental improvement over time"
     }
   ]
 }

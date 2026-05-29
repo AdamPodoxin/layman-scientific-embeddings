@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Haemodialysis patients",
-      "layman": "People on dialysis for kidney failure"
+      "layman": "Patients on dialysis for kidney failure"
     },
     {
       "jargon": "Cardiac disease",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Hyperhomocysteinemia",
-      "layman": "High homocysteine in blood"
+      "layman": "High homocysteine levels in blood"
     }
   ],
   "methodologies": [
@@ -28,25 +28,29 @@
     },
     {
       "jargon": "Randomized trial",
-      "layman": "Random assignment to treatment groups"
-    },
-    {
-      "jargon": "Predictive value",
-      "layman": "Ability to forecast outcomes"
+      "layman": "Random assignment to treatment or control group"
     },
     {
       "jargon": "Observational study",
-      "layman": "Watching without changing conditions"
+      "layman": "Watching patients without changing their treatment"
     },
     {
-      "jargon": "National study",
-      "layman": "Large-scale nationwide research"
+      "jargon": "Predictive value",
+      "layman": "Ability to forecast risk"
+    },
+    {
+      "jargon": "Statistical analysis",
+      "layman": "Mathematical examination of data"
     }
   ],
   "outcomes": [
     {
       "jargon": "Mortality",
-      "layman": "Death risk"
+      "layman": "Death rate"
+    },
+    {
+      "jargon": "Quality-of-life assessments",
+      "layman": "How patients feel about their health"
     },
     {
       "jargon": "Target haemoglobin",
@@ -54,15 +58,11 @@
     },
     {
       "jargon": "Cardiovascular risk",
-      "layman": "Heart disease risk"
+      "layman": "Risk of heart or blood vessel problems"
     },
     {
-      "jargon": "Death rate differences",
-      "layman": "Variation in death rates between places"
-    },
-    {
-      "jargon": "Serum phosphorus and calcium\u00d7phosphate product",
-      "layman": "Blood levels linked to bone and heart health"
+      "jargon": "Death risk",
+      "layman": "Chance of dying"
     }
   ]
 }

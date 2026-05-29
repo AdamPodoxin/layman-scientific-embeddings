@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Advanced economies",
-      "layman": "Rich, developed countries"
+      "layman": "Developed countries"
     },
     {
       "jargon": "Marketization thesis",
-      "layman": "Belief that markets replaced non-markets"
+      "layman": "Belief that markets replaced all other forms"
     },
     {
-      "jargon": "Resistance cultures",
-      "layman": "Cultures that oppose market values"
+      "jargon": "Resistive cultures",
+      "layman": "Cultures that resist market values"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Data analysis",
-      "layman": "Looking at numbers to find patterns"
+      "jargon": "Data analysis on activity volume",
+      "layman": "Measuring how much activity happens"
     },
     {
-      "jargon": "Volume measurement",
-      "layman": "Measuring how much is produced"
+      "jargon": "Longitudinal analysis",
+      "layman": "Looking over many years"
     },
     {
-      "jargon": "Trend evaluation",
-      "layman": "Checking how things change over time"
+      "jargon": "Comparative study",
+      "layman": "Comparing different areas or times"
     },
     {
-      "jargon": "Contradiction analysis",
-      "layman": "Looking for internal conflicts in systems"
+      "jargon": "Quantitative evaluation",
+      "layman": "Measuring numbers to assess change"
     },
     {
-      "jargon": "Representation evaluation",
-      "layman": "Checking how things are portrayed"
+      "jargon": "Critical evaluation",
+      "layman": "Careful review of arguments"
     }
   ],
   "outcomes": [
     {
       "jargon": "Growth of non-market activity",
-      "layman": "More non-market work is happening"
+      "layman": "More non-market activity over time"
     },
     {
       "jargon": "Shallow penetration of market sphere",
-      "layman": "Markets only reached a small part"
+      "layman": "Markets only slowly spread"
     },
     {
       "jargon": "Persistent non-market sphere",
       "layman": "Non-market activities remain strong"
     },
     {
-      "jargon": "Inherent contradictions in marketization",
-      "layman": "Market growth has built-in problems"
+      "jargon": "Contradictions in marketization",
+      "layman": "Problems within the push for markets"
     },
     {
-      "jargon": "Decentring market hegemony",
-      "layman": "Removing the idea that markets are dominant"
+      "jargon": "Alternative futures beyond marketization",
+      "layman": "Other possible societies without markets"
     }
   ]
 }

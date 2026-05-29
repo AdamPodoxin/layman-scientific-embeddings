@@ -6,50 +6,50 @@
     },
     {
       "jargon": "Factor accumulation",
-      "layman": "Building up resources"
+      "layman": "Building up resources and capital"
     },
     {
       "jargon": "Demographic transition",
-      "layman": "Change in population patterns"
+      "layman": "Change in population age structure"
     },
     {
       "jargon": "Total factor productivity",
-      "layman": "Overall efficiency of production"
+      "layman": "Efficiency of production"
     },
     {
       "jargon": "Developmental state",
-      "layman": "Government-led development model"
+      "layman": "Government-led growth model"
     }
   ],
   "methodologies": [
     {
       "jargon": "Literature survey",
-      "layman": "Reviewing past studies"
+      "layman": "Review of past studies"
     },
     {
       "jargon": "Performance evaluation",
-      "layman": "Assessing results"
+      "layman": "Assessment of growth results"
     },
     {
       "jargon": "Preliminary assessment",
-      "layman": "Initial judgment"
+      "layman": "Initial forecast"
     },
     {
       "jargon": "Crisis aftermath analysis",
-      "layman": "Studying what happens after a crisis"
+      "layman": "Study after economic crisis"
     },
     {
       "jargon": "Sustainability evaluation",
-      "layman": "Checking long-term viability"
+      "layman": "Test for long-term viability"
     }
   ],
   "outcomes": [
     {
       "jargon": "Unusually high factor accumulation",
-      "layman": "High resource buildup"
+      "layman": "Strong capital buildup"
     },
     {
-      "jargon": "Disappointing total factor productivity growth",
+      "jargon": "Disappointing total factor productivity",
       "layman": "Slow efficiency gains"
     },
     {
@@ -57,12 +57,12 @@
       "layman": "Potential problems"
     },
     {
-      "jargon": "Less attractive model",
-      "layman": "Model losing appeal"
-    },
-    {
       "jargon": "Long-term growth prospects",
       "layman": "Future growth potential"
+    },
+    {
+      "jargon": "Model less attractive",
+      "layman": "Model loses appeal"
     }
   ]
 }

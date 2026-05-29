@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Abstract Elementary Class",
-      "layman": "Abstract Elementary Class"
-    },
-    {
-      "jargon": "Morley theorem",
-      "layman": "Rule about how models behave in different sizes"
-    },
-    {
       "jargon": "Uncountable models",
       "layman": "Very large mathematical structures"
     },
     {
-      "jargon": "Categorical structures",
-      "layman": "Mathematical systems with unique properties"
+      "jargon": "Abstract Elementary Class",
+      "layman": "Type of mathematical structure"
+    },
+    {
+      "jargon": "Categoricity",
+      "layman": "Same structure in all sizes"
+    },
+    {
+      "jargon": "First order logic",
+      "layman": "Basic way of expressing math rules"
     },
     {
       "jargon": "Complex exponentiation",
-      "layman": "Advanced algebra involving exponents"
+      "layman": "Advanced math operation"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Shelah's generalization",
-      "layman": "Extending rules to larger logic systems"
+      "jargon": "Morley theorem",
+      "layman": "Rule about model sizes"
     },
     {
-      "jargon": "Model theory",
-      "layman": "Study of mathematical structures"
+      "jargon": "Shelah's generalization",
+      "layman": "Extending logical rules to large models"
     },
     {
       "jargon": "Infinitary logic",
       "layman": "Logic that allows infinite operations"
     },
     {
-      "jargon": "Categoricity theorem",
-      "layman": "Rule that says only one model exists in certain sizes"
+      "jargon": "Zilber's trichotomy",
+      "layman": "Three types of mathematical structures"
     },
     {
-      "jargon": "Trichotomy conjecture",
-      "layman": "Prediction about three possible types of structures"
+      "jargon": "Model theory",
+      "layman": "Study of mathematical structures"
     }
   ],
   "outcomes": [
     {
       "jargon": "Excellence",
-      "layman": "Key property for structure stability"
+      "layman": "Key property of large models"
     },
     {
       "jargon": "Refutation of conjecture",
-      "layman": "Proving a prediction wrong"
+      "layman": "Conjecture proved wrong"
+    },
+    {
+      "jargon": "Categoricity in all powers",
+      "layman": "Same structure at all sizes"
     },
     {
       "jargon": "New results in algebraic geometry",
-      "layman": "New discoveries in geometric math"
+      "layman": "New discoveries in geometry"
     },
     {
-      "jargon": "Structure theory",
-      "layman": "Understanding how systems are built"
-    },
-    {
-      "jargon": "Canonical mathematical structures",
-      "layman": "Standard, well-defined mathematical forms"
+      "jargon": "Canonical structures",
+      "layman": "Standard mathematical forms"
     }
   ]
 }

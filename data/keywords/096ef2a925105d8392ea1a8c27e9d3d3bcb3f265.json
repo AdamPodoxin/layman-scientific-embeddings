@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Non-commutative field theory",
-      "layman": "Fields where space coordinates don't commute"
+      "layman": "Fields where coordinates don't commute"
     },
     {
       "jargon": "Galilean symmetry",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Point particles",
-      "layman": "Tiny fundamental particles"
+      "layman": "Tiny fundamental objects"
     },
     {
       "jargon": "Non-relativistic version",
-      "layman": "Slow-moving version of physics"
+      "layman": "Slow-moving version"
     },
     {
-      "jargon": "Exotic Galilean symmetry",
-      "layman": "Unusual symmetry in slow motion"
+      "jargon": "Lozano, Moreno, and Schaposnik",
+      "layman": "Theoretical physicists who proposed it"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Introduced by Lozano, Moreno and Schaposnik",
-      "layman": "Proposed by three physicists"
+      "jargon": "Show to admit",
+      "layman": "Demonstrate that it includes"
     },
     {
-      "jargon": "Shown to admit",
-      "layman": "Proven to include"
-    },
-    {
-      "jargon": "Found before for point particles",
-      "layman": "Discovered earlier in small particles"
-    },
-    {
-      "jargon": "Non-relativistic version",
-      "layman": "Slow-moving physics model"
-    },
-    {
-      "jargon": "Admit",
-      "layman": "Allow or include"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Exotic Galilean symmetry",
-      "layman": "Unusual symmetry in slow motion"
-    },
-    {
-      "jargon": "Admits symmetry",
-      "layman": "Includes a special symmetry"
+      "jargon": "Introduced",
+      "layman": "First proposed"
     },
     {
       "jargon": "Found before",
       "layman": "Previously discovered"
     },
     {
-      "jargon": "Non-commutative",
-      "layman": "Space coordinates don't commute"
+      "jargon": "Recent development",
+      "layman": "Newly established idea"
     },
     {
-      "jargon": "Field theory",
-      "layman": "Physics of fields"
+      "jargon": "Theoretical framework",
+      "layman": "Mathematical foundation"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Exotic Galilean symmetry",
+      "layman": "Unusual symmetry in motion"
+    },
+    {
+      "jargon": "Admit symmetry",
+      "layman": "Allows a specific symmetry rule"
+    },
+    {
+      "jargon": "Non-relativistic field theory",
+      "layman": "Theory for slow-moving fields"
+    },
+    {
+      "jargon": "Found for point particles",
+      "layman": "Discovered in small particles"
+    },
+    {
+      "jargon": "Symmetry in physics",
+      "layman": "Invariant under motion change"
     }
   ]
 }

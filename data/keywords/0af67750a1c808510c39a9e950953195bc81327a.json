@@ -5,8 +5,8 @@
       "layman": "Tools and systems"
     },
     {
-      "jargon": "Electrical and computer engineering",
-      "layman": "Engineering of electronics and computers"
+      "jargon": "Previous age",
+      "layman": "Older era"
     },
     {
       "jargon": "Bell Canada",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Canadian Society for Electrical and Computer Engineering",
-      "layman": "Canadian engineering group"
+      "layman": "Engineering group in Canada"
     },
     {
-      "jargon": "Previous age",
-      "layman": "Older time period"
+      "jargon": "Keynote address",
+      "layman": "Main speech"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Discard or abandon"
     },
     {
-      "jargon": "Keynote address",
-      "layman": "Main speech at a conference"
-    },
-    {
-      "jargon": "Conference",
-      "layman": "Meeting of experts"
-    },
-    {
-      "jargon": "Start",
-      "layman": "Begin"
-    },
-    {
-      "jargon": "Address",
-      "layman": "Speech"
-    }
-  ],
-  "outcomes": [
-    {
       "jargon": "Bury the past",
-      "layman": "Stop using old methods"
+      "layman": "Reject old things"
     },
     {
       "jargon": "Served well",
       "layman": "Worked effectively"
     },
     {
-      "jargon": "Decades on end",
-      "layman": "For many years"
+      "jargon": "Adopt new technologies",
+      "layman": "Use new tools"
     },
     {
-      "jargon": "A few years",
-      "layman": "Short time"
+      "jargon": "Conference",
+      "layman": "Meeting of experts"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Cast aside most technologies",
+      "layman": "Got rid of most old tools"
+    },
+    {
+      "jargon": "Served well for decades",
+      "layman": "Worked for many years"
+    },
+    {
+      "jargon": "Called upon to bury the past",
+      "layman": "Challenged to abandon old methods"
     },
     {
       "jargon": "Next century",
-      "layman": "Future 100 years"
+      "layman": "Future time"
+    },
+    {
+      "jargon": "Generation",
+      "layman": "A group of people born around the same time"
     }
   ]
 }

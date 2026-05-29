@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Philosophy",
-      "layman": "Study of life's big questions"
+      "layman": "Study of fundamental questions"
     },
     {
       "jargon": "Human nature",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Destiny",
-      "layman": "Life's intended path"
+      "layman": "Predestined future path"
     }
   ],
   "methodologies": [
     {
       "jargon": "Critical analysis",
-      "layman": "Careful examination of ideas"
+      "layman": "Careful examination"
     },
     {
       "jargon": "Ethical reasoning",
       "layman": "Thinking about right and wrong"
     },
     {
-      "jargon": "Philosophical inquiry",
-      "layman": "Exploring ideas through discussion"
+      "jargon": "Moral reflection",
+      "layman": "Thinking about what is right"
     },
     {
-      "jargon": "Moral life",
-      "layman": "Living with values and principles"
+      "jargon": "Comparative study",
+      "layman": "Comparing different ideas"
     },
     {
-      "jargon": "Knowledge and truth",
-      "layman": "Understanding what is real"
+      "jargon": "Historical review",
+      "layman": "Looking at past events"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Scientific understanding",
-      "layman": "Clear explanation of nature"
+      "jargon": "Moral life",
+      "layman": "Living with purpose and values"
     },
     {
-      "jargon": "Moral development",
-      "layman": "Growing sense of right and wrong"
+      "jargon": "Truth",
+      "layman": "Factual understanding"
     },
     {
-      "jargon": "Freedom of thought",
-      "layman": "Ability to think independently"
+      "jargon": "Faith",
+      "layman": "Belief without proof"
     },
     {
-      "jargon": "Human dignity",
-      "layman": "Respect for human worth"
+      "jargon": "Science and religion",
+      "layman": "How science and faith relate"
     },
     {
-      "jargon": "Societal progress",
-      "layman": "Better society through reason"
+      "jargon": "Society and politics",
+      "layman": "How people and governments interact"
     }
   ]
 }

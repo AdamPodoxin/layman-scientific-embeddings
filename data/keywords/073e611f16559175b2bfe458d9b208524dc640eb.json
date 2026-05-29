@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Rational omega-tree languages",
-      "layman": "Languages defined by tree structures and rules"
+      "layman": "Languages defined by tree structures with repeating patterns"
     },
     {
       "jargon": "Rabin's special automata",
-      "layman": "Special machines that recognize tree patterns"
+      "layman": "Automata that recognize complex tree-based patterns"
     },
     {
       "jargon": "Regular expressions",
-      "layman": "Rules for describing patterns in text or data"
+      "layman": "Rules for describing patterns in strings"
     },
     {
       "jargon": "Omega-tree languages",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Fixed-points",
-      "layman": "Stable solutions in mathematical systems"
+      "layman": "Stable states in mathematical systems"
     }
   ],
   "methodologies": [
     {
       "jargon": "Greatest fixed-points",
-      "layman": "Finding the largest stable solution"
+      "layman": "Finding the largest stable solution in a process"
     },
     {
-      "jargon": "Characterization",
-      "layman": "Describing what something is like"
+      "jargon": "Function characterization",
+      "layman": "Describing how a function behaves over time"
     },
     {
       "jargon": "Normal form",
-      "layman": "Standardized version of a rule or structure"
+      "layman": "Standardized simplified version of a pattern"
+    },
+    {
+      "jargon": "Automata recognition",
+      "layman": "Using machines to identify patterns in data"
     },
     {
       "jargon": "Extending expressions",
-      "layman": "Adding new rules to existing patterns"
-    },
-    {
-      "jargon": "Recognition by automata",
-      "layman": "Identifying patterns using machines"
+      "layman": "Building more complex rules from basic ones"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Precisely the omega-tree languages recognized by Rabin's automata",
-      "layman": "Exactly the tree patterns these machines can detect"
+      "jargon": "Precisely recognized by Rabin's automata",
+      "layman": "Exactly matched by special machines"
+    },
+    {
+      "jargon": "Characterized by fixed-points",
+      "layman": "Defined by stable, repeated patterns"
     },
     {
       "jargon": "Simple normal form",
-      "layman": "Easy-to-use standard form"
+      "layman": "Easy-to-use standard format"
     },
     {
       "jargon": "Properties investigated",
       "layman": "Features studied in detail"
     },
     {
-      "jargon": "Characterized by functions",
-      "layman": "Defined using mathematical rules"
-    },
-    {
-      "jargon": "Defined by extensions of regular expressions",
-      "layman": "Built from expanded pattern rules"
+      "jargon": "Infinite tree structures",
+      "layman": "Repeating, branching patterns that go on forever"
     }
   ]
 }

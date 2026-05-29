@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Electric Power",
-      "layman": "Electric power"
+      "layman": "Electrical energy supply"
     },
     {
       "jargon": "Energy research",
-      "layman": "Study of energy"
+      "layman": "Studies on energy sources and use"
     },
     {
       "jargon": "National Science Foundation",
-      "layman": "NSF"
+      "layman": "U.S. science funding agency"
     },
     {
       "jargon": "Educational activities",
       "layman": "Teaching and learning programs"
     },
     {
-      "jargon": "Research and education program",
-      "layman": "Research and teaching initiative"
+      "jargon": "Research and education investigators",
+      "layman": "Scientists who do research and teach"
     }
   ],
   "methodologies": [
     {
       "jargon": "Transfer of research",
-      "layman": "Moving research into classrooms"
+      "layman": "Turning research into classroom use"
     },
     {
       "jargon": "Best practices",
-      "layman": "Proven methods"
-    },
-    {
-      "jargon": "Overview",
-      "layman": "Summary"
-    },
-    {
-      "jargon": "Review",
-      "layman": "Looking at examples"
+      "layman": "Proven effective methods"
     },
     {
       "jargon": "Panel paper",
-      "layman": "Group discussion paper"
+      "layman": "Group discussion summary"
+    },
+    {
+      "jargon": "Overview",
+      "layman": "General summary"
+    },
+    {
+      "jargon": "Exhaustive survey",
+      "layman": "Complete list or study"
     }
   ],
   "outcomes": [
     {
       "jargon": "Successful transfer",
-      "layman": "Research used in teaching"
+      "layman": "Research applied in education"
     },
     {
-      "jargon": "Exhaustive survey",
-      "layman": "Complete list"
+      "jargon": "Review",
+      "layman": "Summary of key points"
     },
     {
-      "jargon": "Attempt to review",
-      "layman": "Try to look at examples"
+      "jargon": "Examples",
+      "layman": "Real-life cases shown"
     },
     {
       "jargon": "Program area",
-      "layman": "Focus area"
+      "layman": "Research topic focus"
     },
     {
-      "jargon": "Examples of success",
-      "layman": "Success stories"
+      "jargon": "Educational activities",
+      "layman": "Teaching programs developed"
     }
   ]
 }

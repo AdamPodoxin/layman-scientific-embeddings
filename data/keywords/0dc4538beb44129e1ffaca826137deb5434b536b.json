@@ -9,16 +9,16 @@
       "layman": "Online business tools"
     },
     {
+      "jargon": "Aggregation",
+      "layman": "Grouping multiple businesses together"
+    },
+    {
       "jargon": "Trusted third parties",
       "layman": "Neutral companies that build trust"
     },
     {
-      "jargon": "Aggregation",
-      "layman": "Grouping many small businesses together"
-    },
-    {
-      "jargon": "Service provider business models",
-      "layman": "Businesses that offer services to others"
+      "jargon": "Shared business concerns",
+      "layman": "Common problems businesses face"
     }
   ],
   "methodologies": [
@@ -31,26 +31,26 @@
       "layman": "Real-world research study"
     },
     {
-      "jargon": "User perspective",
-      "layman": "View from the customer side"
+      "jargon": "User and provider perspectives",
+      "layman": "Looking at both customers and service providers"
     },
     {
-      "jargon": "Provider perspective",
-      "layman": "View from the business side"
+      "jargon": "Business model development",
+      "layman": "Designing how services are offered"
     },
     {
-      "jargon": "Critical e-aggregation applications",
-      "layman": "Key online tools that connect small businesses"
+      "jargon": "Strategic networking",
+      "layman": "Connecting businesses for mutual benefit"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Emergence of aggregation specific e-business applications",
-      "layman": "New online tools for small businesses grouped together"
+      "jargon": "Emergence of aggregation-specific applications",
+      "layman": "New tools designed for grouped businesses"
     },
     {
-      "jargon": "Collaboratively based one to many service provider models",
-      "layman": "One company serves many small businesses together"
+      "jargon": "Collaboratively based one-to-many service models",
+      "layman": "One provider serves many small businesses"
     },
     {
       "jargon": "Higher complexity e-business applications",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Increased SME engagement in e-business",
-      "layman": "More small businesses use online tools"
+      "layman": "More small businesses join online platforms"
     },
     {
-      "jargon": "Importance of trusted third parties",
-      "layman": "Trust is key for small businesses to adopt new tools"
+      "jargon": "Facilitation of adoption by trusted third parties",
+      "layman": "Trust helps small businesses use complex tools"
     }
   ]
 }

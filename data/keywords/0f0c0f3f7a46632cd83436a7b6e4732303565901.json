@@ -9,16 +9,16 @@
       "layman": "Work without physical products"
     },
     {
-      "jargon": "Fractalised sectors",
-      "layman": "Interconnected, branching industries"
-    },
-    {
       "jargon": "Shanghainese creative fields",
       "layman": "Creative industries in Shanghai"
     },
     {
       "jargon": "Subjectivation",
-      "layman": "Process of becoming a subject"
+      "layman": "Process of becoming oneself"
+    },
+    {
+      "jargon": "Desire",
+      "layman": "Strong want or longing"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Conversations with workers",
-      "layman": "Talking to creative professionals"
+      "layman": "Talking to creative people"
+    },
+    {
+      "jargon": "Fractalised sectors",
+      "layman": "Split-up industry areas"
     },
     {
       "jargon": "Political organisation",
-      "layman": "Forming groups for political action"
+      "layman": "Building group action"
     },
     {
-      "jargon": "Resistance",
-      "layman": "Opposing unfair systems"
-    },
-    {
-      "jargon": "Desire analysis",
-      "layman": "Studying what people want"
+      "jargon": "Mobilisation",
+      "layman": "Getting people to act together"
     }
   ],
   "outcomes": [
     {
       "jargon": "Ambivalences",
-      "layman": "Mixed feelings or contradictions"
+      "layman": "Mixed feelings"
     },
     {
-      "jargon": "Political registers",
-      "layman": "Spaces for political expression"
+      "jargon": "Political resistance",
+      "layman": "Opposing power"
     },
     {
-      "jargon": "Innovation",
-      "layman": "New and improved ideas"
+      "jargon": "High levels of innovation",
+      "layman": "Quick new ideas"
     },
     {
       "jargon": "Entrepreneurialism",
       "layman": "Starting new businesses"
     },
     {
-      "jargon": "Aspiration",
-      "layman": "Desire to achieve something"
+      "jargon": "Competition and aspiration",
+      "layman": "Racing to succeed"
     }
   ]
 }

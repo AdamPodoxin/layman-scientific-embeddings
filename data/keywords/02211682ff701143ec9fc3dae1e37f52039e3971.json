@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Appropriability mechanisms",
-      "layman": "Ways to protect inventions"
+      "layman": "Ways to protect innovation"
     },
     {
-      "jargon": "Innovation",
-      "layman": "New ideas or products"
-    },
-    {
-      "jargon": "Productivity",
-      "layman": "Output per worker"
+      "jargon": "Innovation spending",
+      "layman": "Money spent on innovation"
     },
     {
       "jargon": "Intellectual Property (IP)",
-      "layman": "Firm's protected ideas or inventions"
+      "layman": "Firm's unique ideas or creations"
     },
     {
       "jargon": "Formal methods",
-      "layman": "Official IP protection"
+      "layman": "Official protection systems"
+    },
+    {
+      "jargon": "Informal methods",
+      "layman": "Unofficial protection ways"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Crepon, Duguet and Mairesse model",
+      "jargon": "CDM model",
       "layman": "Standard innovation model"
     },
     {
-      "jargon": "Innovation spending",
-      "layman": "Money spent on new ideas"
+      "jargon": "Extended version of CDM model",
+      "layman": "Improved innovation model"
     },
     {
-      "jargon": "R&D spending",
-      "layman": "Money spent on research and development"
+      "jargon": "Predict innovation using spending",
+      "layman": "Uses spending to forecast ideas"
     },
     {
       "jargon": "Simultaneous innovation and choice",
-      "layman": "Firms choose protection while innovating"
+      "layman": "Firms innovate and pick protection at the same time"
     },
     {
-      "jargon": "Estimation conditional on choice",
-      "layman": "Measuring results based on protection type"
+      "jargon": "Estimate impact on productivity",
+      "layman": "Measure how innovation affects output"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Protected ideas lead to better performance"
     },
     {
-      "jargon": "No productivity gain with informal IP protection",
+      "jargon": "No productivity boost from informal IP protection",
       "layman": "Unofficial protection doesn't help performance"
     },
     {
-      "jargon": "Strongest effect in services, trade, utility sectors",
-      "layman": "Big impact in service-based businesses"
+      "jargon": "Result stronger in services, trade, and utility sectors",
+      "layman": "Big effect in service-based industries"
     },
     {
-      "jargon": "Negative effect in manufacturing sector",
-      "layman": "Worse performance in factories"
+      "jargon": "Negative result in manufacturing sector",
+      "layman": "Poor results in factories"
     },
     {
-      "jargon": "Difference by firm size (large vs SME)",
-      "layman": "Big firms benefit more than small ones"
+      "jargon": "Different effects for large firms vs. SMEs",
+      "layman": "Big firms respond differently than small ones"
     }
   ]
 }

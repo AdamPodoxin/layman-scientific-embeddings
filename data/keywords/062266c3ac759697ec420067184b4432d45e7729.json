@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Keynesian economics",
-      "layman": "Economics based on John Keynes"
+      "layman": "Economic ideas from Keynes"
     },
     {
-      "jargon": "Imperfectly competitive model economies",
+      "jargon": "Imperfect competition",
       "layman": "Markets with unequal players"
+    },
+    {
+      "jargon": "Cambridge school",
+      "layman": "Group of economists from Cambridge"
     },
     {
       "jargon": "Joan Robinson",
       "layman": "Economist who criticized Keynes"
     },
     {
-      "jargon": "Marxist economics",
-      "layman": "Economics based on Marx's ideas"
-    },
-    {
-      "jargon": "Kalecki",
-      "layman": "Economist who influenced Robinson"
+      "jargon": "Sraffa's work",
+      "layman": "Economic analysis by Sraffa"
     }
   ],
   "methodologies": [
@@ -28,37 +28,37 @@
     },
     {
       "jargon": "Banana diagram",
-      "layman": "Graph showing production and growth"
+      "layman": "Graph showing capital and output"
+    },
+    {
+      "jargon": "Marxist influence",
+      "layman": "Using Marx's economic ideas"
+    },
+    {
+      "jargon": "Kalecki influence",
+      "layman": "Using Kalecki's economic ideas"
+    },
+    {
+      "jargon": "Internal politics",
+      "layman": "Power dynamics within a group"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Did not include imperfectly competitive models",
+      "layman": "Keynes left out unequal markets"
+    },
+    {
+      "jargon": "Shameless fudge",
+      "layman": "Unfair simplification"
     },
     {
       "jargon": "Capital and growth theory",
       "layman": "How capital builds over time"
     },
     {
-      "jargon": "Internal politics",
-      "layman": "Power struggles within a group"
-    },
-    {
-      "jargon": "Critical analysis",
-      "layman": "Careful evaluation of ideas"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Static method was a'shameless fudge'",
-      "layman": "Fixed model ignored real changes"
-    },
-    {
-      "jargon": "Did not include imperfect competition",
-      "layman": "Keynes missed key market types"
-    },
-    {
-      "jargon": "Final assessment of Sraffa's work",
-      "layman": "Robinson's last opinion on Sraffa"
-    },
-    {
-      "jargon": "Did not get Nobel Prize",
-      "layman": "No major award for her work"
+      "jargon": "No Nobel Prize",
+      "layman": "Did not win major award"
     },
     {
       "jargon": "Lasting contributions",

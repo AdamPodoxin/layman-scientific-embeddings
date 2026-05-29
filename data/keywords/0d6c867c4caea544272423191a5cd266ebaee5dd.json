@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Illustrated Boston",
-      "layman": "Boston town slides"
-    },
-    {
-      "jargon": "New England town",
-      "layman": "A town in New England"
+      "layman": "Visual slides of New England town"
     },
     {
       "jargon": "National Photographic Record Association",
-      "layman": "National photo record group"
+      "layman": "National photography record group"
     },
     {
       "jargon": "Photographic surveys",
-      "layman": "Photo-based place mapping"
+      "layman": "Photography-based mapping projects"
+    },
+    {
+      "jargon": "Oculomotor mechanisms",
+      "layman": "Eye movement systems"
     }
   ],
   "methodologies": [
     {
       "jargon": "Photographic surveys",
-      "layman": "Taking photos to map places"
+      "layman": "Using photos to map places"
+    },
+    {
+      "jargon": "Slide presentations",
+      "layman": "Showing images in public events"
     },
     {
       "jargon": "Visual description",
-      "layman": "Describing places with images"
-    },
-    {
-      "jargon": "Slide showing",
-      "layman": "Showing slides in meetings"
+      "layman": "Describing places with pictures"
     },
     {
       "jargon": "Survey methodology",
-      "layman": "How to plan a photo survey"
+      "layman": "How to plan and carry out a survey"
     },
     {
-      "jargon": "Oculocentric perspective",
-      "layman": "Viewing places through eyes"
+      "jargon": "Dislocation",
+      "layman": "Mismatch between plans and reality"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Dislocation between ideal and reality",
-      "layman": "Gap between plan and practice"
+      "jargon": "Dislocation between ideal methodology and realities",
+      "layman": "Plan vs. real-world gap"
     },
     {
       "jargon": "Representation of place",
-      "layman": "How places are shown"
+      "layman": "How a location is shown"
     },
     {
       "jargon": "Social context",
-      "layman": "Societal background"
+      "layman": "How society shapes memories"
     },
     {
       "jargon": "Aesthetic context",
-      "layman": "Visual style and taste"
+      "layman": "Visual and style-based settings"
     },
     {
       "jargon": "Political context",
-      "layman": "Government or power influence"
+      "layman": "Influence of government or power"
     }
   ]
 }

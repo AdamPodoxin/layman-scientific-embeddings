@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Ornithine-containing polar lipid",
-      "layman": "Lipid with ornithine"
+      "layman": "Lipid with ornithine molecule"
     },
     {
       "jargon": "Thiobacillus thiooxidans",
@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Piperidone",
-      "layman": "Ring-shaped compound"
+      "layman": "Rings structure from lipid breakdown"
     },
     {
       "jargon": "Long chain fatty acid",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Fatty amide",
-      "layman": "Fat-linked amide"
+      "layman": "Fat linked to amide group"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Chemical ionization",
-      "layman": "Ionizing molecules with chemicals"
+      "layman": "Ionizing molecules in a source"
     },
     {
       "jargon": "Dehydration",
-      "layman": "Removing water"
+      "layman": "Removing water from molecule"
     },
     {
       "jargon": "Elimination",
-      "layman": "Removing a part to form new pieces"
+      "layman": "Removing part of a molecule"
     },
     {
       "jargon": "Vaporization",
-      "layman": "Turning into vapor"
+      "layman": "Turning liquid to vapor"
     }
   ],
   "outcomes": [
     {
       "jargon": "Extensive thermolysis",
-      "layman": "Strong breakdown"
+      "layman": "More breakdown than expected"
     },
     {
       "jargon": "Two-step process",
-      "layman": "Two stages"
+      "layman": "Breakdown in two stages"
     },
     {
       "jargon": "Substituted piperidone",
-      "layman": "Modified piperidone"
+      "layman": "Modified piperidone ring"
     },
     {
       "jargon": "Neutral lipid components",
-      "layman": "Stable fat pieces"
+      "layman": "Non-charged lipid parts"
     },
     {
       "jargon": "Utility of chemical ionization",
-      "layman": "Useful for studying breakdown"
+      "layman": "Helps understand breakdown"
     }
   ]
 }

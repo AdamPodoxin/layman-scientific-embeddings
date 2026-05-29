@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Astronomy",
-      "layman": "Study of stars and the universe"
+      "layman": "Study of stars and universe"
     },
     {
       "jargon": "Entropy",
-      "layman": "Tendency of things to become more disordered"
+      "layman": "Tendency of disorder to increase"
     },
     {
       "jargon": "Cosmic evolution",
-      "layman": "Universe changing over time"
+      "layman": "Universe's growth and change over time"
     },
     {
       "jargon": "Bildungsroman",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Apocalyptic vision",
-      "layman": "Vision of the end of the world"
+      "layman": "End-of-world prediction"
     }
   ],
   "methodologies": [
     {
       "jargon": "Close reading",
-      "layman": "Careful analysis of text"
+      "layman": "Detailed text analysis"
     },
     {
-      "jargon": "Scientific metaphor",
-      "layman": "Using science ideas to explain art"
+      "jargon": "Scientific popularization",
+      "layman": "Making science accessible to general public"
     },
     {
-      "jargon": "Literary transformation",
-      "layman": "Turning science ideas into stories"
+      "jargon": "Parallel reading",
+      "layman": "Reading texts side by side for comparison"
     },
     {
-      "jargon": "Comparative analysis",
-      "layman": "Comparing different works"
+      "jargon": "Narrative transformation",
+      "layman": "Changing a story's form or meaning"
     },
     {
-      "jargon": "Narrative form",
-      "layman": "Structure of a story"
+      "jargon": "Metaphorical interpretation",
+      "layman": "Understanding meaning through comparison"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Transformation of creativity",
+      "layman": "Creative evolution over time"
+    },
+    {
       "jargon": "Subject formation",
-      "layman": "How a person becomes themselves"
+      "layman": "Development of personal identity"
     },
     {
-      "jargon": "Creative process",
-      "layman": "How art is made"
+      "jargon": "Literary impact of science",
+      "layman": "How science influences writing"
     },
     {
-      "jargon": "Scientific popularization",
-      "layman": "Making science understandable to the public"
+      "jargon": "Imagined alien life",
+      "layman": "Made-up creatures from fantasy"
     },
     {
-      "jargon": "Metaphorical integration",
-      "layman": "Blending science and art ideas"
-    },
-    {
-      "jargon": "Political imagination",
-      "layman": "Imagining alternative societies or lives"
+      "jargon": "Political implications of alien life",
+      "layman": "How imagined life raises social questions"
     }
   ]
 }

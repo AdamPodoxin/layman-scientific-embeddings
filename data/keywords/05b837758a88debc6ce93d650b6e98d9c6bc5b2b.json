@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Markets",
-      "layman": "Marketplaces"
+      "layman": "Customer markets"
     },
     {
       "jargon": "Firms",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Assimilation of literatures",
-      "layman": "Combining different research areas"
+      "layman": "Combining research fields"
     },
     {
       "jargon": "Examination of case",
       "layman": "Studying a real example"
     },
     {
-      "jargon": "Media coverage",
-      "layman": "Public attention"
-    },
-    {
-      "jargon": "Framework analysis",
-      "layman": "Using a structure to understand ideas"
+      "jargon": "Media illustration",
+      "layman": "Using media stories"
     },
     {
       "jargon": "Literature review",
-      "layman": "Summarizing existing research"
+      "layman": "Reviewing existing research"
+    },
+    {
+      "jargon": "Case study",
+      "layman": "In-depth study of a company"
     }
   ],
   "outcomes": [
     {
       "jargon": "Market-making",
-      "layman": "New market creation"
+      "layman": "New markets created"
+    },
+    {
+      "jargon": "Implications for firm growth",
+      "layman": "How firms grow"
+    },
+    {
+      "jargon": "Business model as tool",
+      "layman": "Model used to shape markets"
     },
     {
       "jargon": "Growth of the firm",
       "layman": "Company expansion"
     },
     {
-      "jargon": "Implications for growth",
-      "layman": "Effects on company development"
-    },
-    {
-      "jargon": "Tool for market-making",
-      "layman": "Method to build markets"
-    },
-    {
-      "jargon": "Way forward",
-      "layman": "Future direction"
+      "jargon": "Understanding of market-making",
+      "layman": "Better grasp of how markets form"
     }
   ]
 }

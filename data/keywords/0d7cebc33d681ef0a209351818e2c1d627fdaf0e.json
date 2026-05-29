@@ -2,15 +2,11 @@
   "core_entities": [
     {
       "jargon": "Deliberative democracy",
-      "layman": "People discussing decisions together"
-    },
-    {
-      "jargon": "Deliberative systems",
-      "layman": "Systems where people discuss decisions"
+      "layman": "Inclusive decision-making process"
     },
     {
       "jargon": "Political action",
-      "layman": "People taking part in politics"
+      "layman": "People's involvement in decisions"
     },
     {
       "jargon": "Nation states",
@@ -18,51 +14,55 @@
     },
     {
       "jargon": "Transnational systems",
-      "layman": "Systems that cross national borders"
+      "layman": "Systems across countries"
+    },
+    {
+      "jargon": "Deliberative labour",
+      "layman": "Tasks of giving people a voice"
     }
   ],
   "methodologies": [
     {
       "jargon": "Division of deliberative labour",
-      "layman": "Splitting discussion tasks among groups"
+      "layman": "Splitting decision tasks among groups"
     },
     {
       "jargon": "Competing norms",
-      "layman": "Different rules or standards in conflict"
+      "layman": "Different sets of rules in conflict"
     },
     {
-      "jargon": "Competing institutions",
-      "layman": "Different organizations with conflicting goals"
+      "jargon": "Implementation",
+      "layman": "Putting theory into practice"
+    },
+    {
+      "jargon": "Empirical research",
+      "layman": "Real-world observation and testing"
+    },
+    {
+      "jargon": "Theoretical exploration",
+      "layman": "Thinking through ideas first"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Democratic engagement",
+      "layman": "People participating in decisions"
+    },
+    {
+      "jargon": "Deliberative ideal",
+      "layman": "Goal of fair and inclusive discussions"
+    },
+    {
+      "jargon": "Real-world challenges",
+      "layman": "Problems in applying ideas in practice"
     },
     {
       "jargon": "Powerful interests",
       "layman": "Strong groups with influence"
     },
     {
-      "jargon": "Democratic engagement",
-      "layman": "People actively participating in decisions"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Deliberative ideal",
-      "layman": "Goal of fair and thoughtful discussion"
-    },
-    {
-      "jargon": "Theoretical framework",
-      "layman": "Model for how democracy should work"
-    },
-    {
-      "jargon": "Empirical research",
-      "layman": "Real-world observations and studies"
-    },
-    {
-      "jargon": "Implementation challenges",
-      "layman": "Problems in putting ideas into practice"
-    },
-    {
-      "jargon": "Pioneering book",
-      "layman": "First major work on a new idea"
+      "jargon": "New phase of research",
+      "layman": "A fresh stage of study and growth"
     }
   ]
 }

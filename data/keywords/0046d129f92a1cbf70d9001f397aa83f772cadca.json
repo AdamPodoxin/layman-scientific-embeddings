@@ -9,60 +9,60 @@
       "layman": "Mountain belt formed long ago"
     },
     {
-      "jargon": "Crustal domains",
-      "layman": "Large land blocks"
-    },
-    {
-      "jargon": "Unconformity",
-      "layman": "Gap in rock layers"
+      "jargon": "Older crustal domains",
+      "layman": "Ancient rock areas"
     },
     {
       "jargon": "Uranium mineralization",
       "layman": "Uranium deposits in rocks"
+    },
+    {
+      "jargon": "Geochronological information",
+      "layman": "Age measurements of rocks"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Geochronological information",
-      "layman": "Age dating of rocks"
+      "jargon": "Database system",
+      "layman": "Digital record system"
     },
     {
       "jargon": "Time-space correlation charts",
-      "layman": "Maps showing time and location"
+      "layman": "Maps of time and location"
     },
     {
       "jargon": "Time-slice tectonic reconstructions",
-      "layman": "Snapshots of ancient land shapes"
-    },
-    {
-      "jargon": "Database system",
-      "layman": "Organized data collection"
+      "layman": "Snapshot views of ancient earth plates"
     },
     {
       "jargon": "Lithostratigraphy",
-      "layman": "Layered rock types over time"
+      "layman": "Layer-by-layer rock description"
+    },
+    {
+      "jargon": "IGCP 509 project",
+      "layman": "Global geological research program"
     }
   ],
   "outcomes": [
     {
       "jargon": "Isotopic evolution",
-      "layman": "Change in atomic signatures over time"
+      "layman": "Change in element ratios over time"
     },
     {
-      "jargon": "Origin and setting of uranium mineralization",
-      "layman": "Where and why uranium formed"
+      "jargon": "Unconformity-related uranium mineralization",
+      "layman": "Uranium deposits formed at geological breaks"
     },
     {
       "jargon": "Regional geological geology",
-      "layman": "Local rock history"
+      "layman": "Local rock history across areas"
     },
     {
       "jargon": "Knowledge potential",
-      "layman": "Useful scientific insights"
+      "layman": "Value of stored geological data"
     },
     {
-      "jargon": "Geological evolution",
-      "layman": "How Earth's rocks changed over time"
+      "jargon": "Domain-based summary",
+      "layman": "Summarized geological view by region"
     }
   ]
 }

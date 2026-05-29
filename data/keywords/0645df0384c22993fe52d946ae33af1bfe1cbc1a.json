@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "intra-EU trade",
-      "layman": "Trade between European countries"
+      "layman": "Trading between European countries"
     },
     {
       "jargon": "national economies",
-      "layman": "Economies of individual countries"
+      "layman": "Each country's economy"
+    },
+    {
+      "jargon": "interpenetration",
+      "layman": "Deep connection between economies"
     },
     {
       "jargon": "market integration",
-      "layman": "Connected markets"
+      "layman": "Unified markets across Europe"
     },
     {
-      "jargon": "technological interconnection",
-      "layman": "Shared technologies"
-    },
-    {
-      "jargon": "company competition",
-      "layman": "Companies competing"
+      "jargon": "technological integration",
+      "layman": "Shared tech across countries"
     }
   ],
   "methodologies": [
     {
       "jargon": "statistics",
-      "layman": "Numbers used to analyze data"
+      "layman": "Data analysis"
     },
     {
       "jargon": "process of integration",
-      "layman": "Growing unity between countries"
+      "layman": "Merging systems together"
     },
     {
-      "jargon": "interpenetration",
-      "layman": "Deep connection between systems"
+      "jargon": "competitive analysis",
+      "layman": "Comparing how well companies compete"
     },
     {
       "jargon": "cost and price competition",
-      "layman": "Fighting over prices and costs"
+      "layman": "Racing to offer cheaper prices"
     },
     {
       "jargon": "time-to-market",
-      "layman": "Speed to bring products to customers"
+      "layman": "How fast a product reaches customers"
     }
   ],
   "outcomes": [
@@ -50,7 +50,7 @@
     },
     {
       "jargon": "product quality",
-      "layman": "How good a product is"
+      "layman": "How good the product is"
     },
     {
       "jargon": "cost efficiency",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "ongoing process",
-      "layman": "Continuing change"
+      "layman": "Continuous progress"
     },
     {
-      "jargon": "market integration",
-      "layman": "Markets working together"
+      "jargon": "interconnected countries",
+      "layman": "Countries linked tightly"
     }
   ]
 }

@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Construction staff",
-      "layman": "Construction workers"
+      "layman": "Construction workers and employees"
     },
     {
-      "jargon": "Construction engineers",
-      "layman": "Engineers in construction"
-    },
-    {
-      "jargon": "Management specialists",
-      "layman": "Construction managers"
+      "jargon": "Qualifications",
+      "layman": "Skills and certifications"
     },
     {
       "jargon": "Lisbon strategy",
-      "layman": "EU plan for better work and growth"
+      "layman": "EU plan to improve workforce and economy"
+    },
+    {
+      "jargon": "Construction companies",
+      "layman": "Building firms"
     }
   ],
   "methodologies": [
     {
       "jargon": "Improvement of education",
-      "layman": "Better training"
+      "layman": "Better training for workers"
     },
     {
       "jargon": "Formal and informal training methods",
       "layman": "Official and hands-on learning"
     },
     {
+      "jargon": "Implementation of strategy",
+      "layman": "Carrying out national plans"
+    },
+    {
+      "jargon": "Development of training systems",
+      "layman": "Building stronger training programs"
+    },
+    {
       "jargon": "Recognition of qualifications",
       "layman": "Validating worker skills"
-    },
-    {
-      "jargon": "Implementation of strategy",
-      "layman": "Putting policies into action"
-    },
-    {
-      "jargon": "Development of training programs",
-      "layman": "Creating new training tools"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Improvement of employees' qualifications",
-      "layman": "Workers get better skills"
+      "jargon": "Improved employee qualifications",
+      "layman": "Workers gain better skills"
     },
     {
-      "jargon": "Improvement of construction companies' performance",
-      "layman": "Companies become more efficient"
+      "jargon": "Improved company performance",
+      "layman": "Firms work better"
     },
     {
-      "jargon": "Enhanced staff education",
-      "layman": "Better worker learning"
+      "jargon": "Enhanced staff skills",
+      "layman": "Team becomes more skilled"
     },
     {
-      "jargon": "Better employee skills",
-      "layman": "Workers become more capable"
+      "jargon": "Better implementation of EU strategy",
+      "layman": "EU goals are met more fully"
     },
     {
-      "jargon": "Support for EU construction goals",
-      "layman": "Helps achieve EU targets"
+      "jargon": "Performance improvement in construction",
+      "layman": "Building projects succeed better"
     }
   ]
 }

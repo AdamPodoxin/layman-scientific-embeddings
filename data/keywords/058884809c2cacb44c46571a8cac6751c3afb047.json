@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Quantum critical points",
-      "layman": "Points where quantum behavior changes suddenly"
+      "layman": "Points where quantum behavior changes abruptly"
     },
     {
       "jargon": "Quasiparticle excitations",
-      "layman": "Tiny particle-like behaviors in materials"
+      "layman": "Fragile, temporary particles in materials"
     },
     {
       "jargon": "Anti-de Sitter space",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Black holes",
-      "layman": "Gravitational objects that trap everything"
+      "layman": "Gravitational traps that suck in everything"
     },
     {
-      "jargon": "Hawking radiation",
-      "layman": "Radiation from black holes due to quantum effects"
+      "jargon": "Superfluid-insulator transition",
+      "layman": "Shift from liquid-like to solid-like state in materials"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Equations for quantum motion without particles"
     },
     {
+      "jargon": "Holographic description",
+      "layman": "Mapping of a complex system to a simpler one"
+    },
+    {
       "jargon": "String theory",
-      "layman": "Theory linking particles to strings"
-    },
-    {
-      "jargon": "Anti-de Sitter/conformal field theory duality",
-      "layman": "Link between gravity and quantum fields"
-    },
-    {
-      "jargon": "Transport coefficients",
-      "layman": "Measures of how materials carry current or heat"
+      "layman": "Theory linking tiny strings to gravity"
     },
     {
       "jargon": "Magnetohydrodynamics",
       "layman": "Study of magnetic fluids in motion"
+    },
+    {
+      "jargon": "Nernst effect measurements",
+      "layman": "Detecting heat from magnetic fields"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Transport coefficients proportional to temperature",
-      "layman": "Flow properties depend only on temperature"
-    },
-    {
-      "jargon": "Nernst effect",
-      "layman": "Voltage from temperature changes in magnetic fields"
-    },
-    {
-      "jargon": "Hydrodynamic cyclotron resonance",
-      "layman": "Predicted resonance in electron motion"
-    },
-    {
-      "jargon": "Superfluid-insulator transition",
-      "layman": "Change from flowing to non-flowing state"
+      "jargon": "Transport coefficients",
+      "layman": "How easily electricity or heat flows"
     },
     {
       "jargon": "Mean free scattering time",
-      "layman": "Average time particles move before colliding"
+      "layman": "Average time between particle collisions"
+    },
+    {
+      "jargon": "Hawking radiation",
+      "layman": "Heat emitted by black holes"
+    },
+    {
+      "jargon": "Hydrodynamic cyclotron resonance",
+      "layman": "Signal from electrons moving in magnetic fields"
+    },
+    {
+      "jargon": "Finite temperature dynamics",
+      "layman": "Behavior at non-zero temperatures"
     }
   ]
 }

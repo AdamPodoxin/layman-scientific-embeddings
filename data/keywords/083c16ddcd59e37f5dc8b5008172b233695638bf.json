@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Popular media",
-      "layman": "Mass media"
+      "layman": "Public media"
     },
     {
       "jargon": "Legitimacy",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Communication style",
-      "layman": "How people share information"
+      "layman": "Way of speaking or writing"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Forming scholars in communication",
-      "layman": "Training scholars to speak clearly"
+      "layman": "Teaching scholars to speak to the public"
     },
     {
       "jargon": "Developing a new style",
-      "layman": "Creating a new way of communicating"
+      "layman": "Creating a fresh way of communicating"
     },
     {
-      "jargon": "Media representation",
-      "layman": "How the Bible is shown in media"
+      "jargon": "Public media outreach",
+      "layman": "Reaching the public through media"
     },
     {
-      "jargon": "Public engagement",
-      "layman": "Interacting with the public"
+      "jargon": "Communication training",
+      "layman": "Teaching how to talk to general audience"
     }
   ],
   "outcomes": [
     {
       "jargon": "Relative optimism",
-      "layman": "Hope for better media coverage"
+      "layman": "Hope for improvement"
     },
     {
-      "jargon": "Underrepresentation",
-      "layman": "Not being shown enough"
+      "jargon": "Better representation",
+      "layman": "More visible in media"
     },
     {
-      "jargon": "Advantages",
-      "layman": "Unique strengths"
+      "jargon": "Improved public engagement",
+      "layman": "Greater public interest"
     },
     {
-      "jargon": "Improved communication",
-      "layman": "Better sharing with the public"
+      "jargon": "Increased visibility",
+      "layman": "More exposure"
     },
     {
-      "jargon": "Greater visibility",
-      "layman": "More exposure in media"
+      "jargon": "Effective communication",
+      "layman": "Clear and understandable messaging"
     }
   ]
 }

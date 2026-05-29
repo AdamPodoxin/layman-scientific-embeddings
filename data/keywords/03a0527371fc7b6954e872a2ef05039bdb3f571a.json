@@ -14,7 +14,7 @@
     },
     {
       "jargon": "System architecture",
-      "layman": "Car system layout"
+      "layman": "System blueprint"
     },
     {
       "jargon": "Legislation and standards",
@@ -24,11 +24,11 @@
   "methodologies": [
     {
       "jargon": "State of the art report",
-      "layman": "Latest industry practice summary"
+      "layman": "Updated summary of current best practices"
     },
     {
       "jargon": "Field trips to manufacturers",
-      "layman": "Visiting car factories"
+      "layman": "Visiting car factories for research"
     },
     {
       "jargon": "Literature review",
@@ -36,17 +36,17 @@
     },
     {
       "jargon": "Thesis analysis",
-      "layman": "Examining academic research papers"
+      "layman": "Analyzing academic research papers"
     },
     {
-      "jargon": "White papers",
-      "layman": "Official industry reports"
+      "jargon": "White papers review",
+      "layman": "Reviewing expert technical reports"
     }
   ],
   "outcomes": [
     {
       "jargon": "Current research conclusions",
-      "layman": "What researchers currently believe"
+      "layman": "Summary of what is known now"
     },
     {
       "jargon": "Safety-critical systems",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Design methodologies",
-      "layman": "How systems are built"
-    },
-    {
-      "jargon": "Product examples",
-      "layman": "Real car system cases"
+      "layman": "Steps used to design car systems"
     },
     {
       "jargon": "General system architecture",
-      "layman": "Overall car system design"
+      "layman": "Overall structure of a car system"
+    },
+    {
+      "jargon": "Product examples",
+      "layman": "Specific car features used for study"
     }
   ]
 }

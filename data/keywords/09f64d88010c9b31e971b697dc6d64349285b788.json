@@ -9,60 +9,60 @@
       "layman": "Wind patterns"
     },
     {
-      "jargon": "Quantity of interest",
-      "layman": "Thing being measured"
-    },
-    {
-      "jargon": "Gaussian process regression",
-      "layman": "Prediction model"
-    },
-    {
       "jargon": "RF intensity field",
-      "layman": "Radio wave strength area"
+      "layman": "Radio signal strength area"
+    },
+    {
+      "jargon": "Gaussian process",
+      "layman": "Statistical model for predictions"
+    },
+    {
+      "jargon": "Quantity of interest",
+      "layman": "Goal to measure"
     }
   ],
   "methodologies": [
     {
       "jargon": "Informative path planning",
-      "layman": "Best path planning"
+      "layman": "Best route for gathering data"
     },
     {
       "jargon": "Dynamic feasibility",
-      "layman": "Vehicle movement limits"
+      "layman": "Vehicle movement constraints"
     },
     {
-      "jargon": "Location selection",
-      "layman": "Picking best spots to visit"
+      "jargon": "Path allocation",
+      "layman": "Assigning drones to routes"
     },
     {
-      "jargon": "Path cost calculation",
-      "layman": "Finding cheapest routes"
+      "jargon": "Sensor platform allocation",
+      "layman": "Distributing drones to spots"
     },
     {
-      "jargon": "Sensor allocation",
-      "layman": "Assigning drones to spots"
+      "jargon": "Gaussian process regression",
+      "layman": "Using stats to predict measurements"
     }
   ],
   "outcomes": [
     {
       "jargon": "Best locations to observe",
-      "layman": "Top spots to monitor"
+      "layman": "Top spots for data collection"
     },
     {
-      "jargon": "Estimated measurement value",
-      "layman": "Predicted sensor reading"
+      "jargon": "Cost of paths",
+      "layman": "Route expense or difficulty"
     },
     {
-      "jargon": "Mapping of regions",
-      "layman": "Creating a map of areas"
+      "jargon": "Measurement value estimation",
+      "layman": "Predicted signal strength"
     },
     {
-      "jargon": "Validated approach",
-      "layman": "Proven method works"
+      "jargon": "Environmental mapping",
+      "layman": "Creating a map of conditions"
     },
     {
-      "jargon": "Applicability",
-      "layman": "Can be used in real cases"
+      "jargon": "Validity and applicability",
+      "layman": "Works in real situations"
     }
   ]
 }

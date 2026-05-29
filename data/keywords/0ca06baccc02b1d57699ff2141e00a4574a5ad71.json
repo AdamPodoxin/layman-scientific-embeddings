@@ -10,37 +10,37 @@
     },
     {
       "jargon": "Self-assembled monolayers",
-      "layman": "Ordered surface layers"
+      "layman": "Molecular coatings"
     },
     {
-      "jargon": "Substrates",
-      "layman": "Surfaces"
+      "jargon": "Methyl groups",
+      "layman": "Methyl groups"
     },
     {
-      "jargon": "Protein crystals",
-      "layman": "Ordered protein structures"
+      "jargon": "Carboxylic acid groups",
+      "layman": "Acidic surface groups"
     }
   ],
   "methodologies": [
     {
       "jargon": "Atomic force microscopy",
-      "layman": "Molecular surface imaging"
+      "layman": "Molecular imaging"
     },
     {
       "jargon": "Quartz crystal microbalance with dissipation monitoring",
-      "layman": "Measure protein layer growth and stiffness"
+      "layman": "Protein layer measurement tool"
     },
     {
       "jargon": "Protein adsorption kinetics",
-      "layman": "How fast protein sticks to surface"
+      "layman": "How fast protein sticks"
     },
     {
       "jargon": "Mass uptake",
-      "layman": "Amount of protein absorbed"
+      "layman": "Amount of mass added"
     },
     {
-      "jargon": "Electrostatic interactions",
-      "layman": "Charge-based attractions"
+      "jargon": "Shear modulus",
+      "layman": "Layer stiffness"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Size of crystal regions"
     },
     {
-      "jargon": "Shear modulus",
-      "layman": "Layer stiffness"
-    },
-    {
-      "jargon": "Viscosity",
-      "layman": "Layer flow resistance"
+      "jargon": "Electrostatic interactions",
+      "layman": "Charge-based attraction"
     },
     {
       "jargon": "Recrystallization pathways",
-      "layman": "How crystals reorganize"
+      "layman": "How crystals reform"
+    },
+    {
+      "jargon": "Viscoelastic properties",
+      "layman": "Stiffness and flow of layer"
     }
   ]
 }

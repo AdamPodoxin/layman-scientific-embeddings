@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Actresses",
+      "layman": "Female performers"
+    },
+    {
+      "jargon": "Costumes",
+      "layman": "Theaters clothes"
+    },
+    {
+      "jargon": "Stratford Shakespeare Festival",
+      "layman": "Shakespeare theater festival"
+    },
+    {
+      "jargon": "Rehearsal environments",
+      "layman": "Practice spaces"
+    },
+    {
+      "jargon": "Opening night",
+      "layman": "First public performance"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Sociological studies",
+      "layman": "Social observations"
+    },
+    {
+      "jargon": "Conversations with actresses",
+      "layman": "In-depth interviews"
+    },
+    {
+      "jargon": "Lived experiences",
+      "layman": "Personal experiences"
+    },
+    {
+      "jargon": "First sketch",
+      "layman": "Initial design"
+    },
+    {
+      "jargon": "Fittings",
+      "layman": "Costume try-ons"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Complex relationship",
+      "layman": "Deep connection"
+    },
+    {
+      "jargon": "Similarities and differences",
+      "layman": "Shared and unique experiences"
+    },
+    {
+      "jargon": "Unexpected effects",
+      "layman": "Surprising impacts"
+    },
+    {
+      "jargon": "Shifting relationship",
+      "layman": "Changing bond"
+    },
+    {
+      "jargon": "Artistic process",
+      "layman": "Creative journey"
+    }
+  ]
+}

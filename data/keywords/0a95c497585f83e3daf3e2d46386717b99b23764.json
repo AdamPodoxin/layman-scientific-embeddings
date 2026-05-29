@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Monads",
-      "layman": "Mathematical structures that combine operations"
+      "layman": "Mathematical structures that transform types"
     },
     {
       "jargon": "Limits",
-      "layman": "Final results in a system"
+      "layman": "Universal constructions in math"
     },
     {
       "jargon": "Free categories",
-      "layman": "Categories built from basic parts"
+      "layman": "Categories built from simple rules"
     }
   ],
   "methodologies": [
     {
       "jargon": "Completing categories",
-      "layman": "Adding missing structures to categories"
+      "layman": "Adding missing structure to categories"
     },
     {
       "jargon": "Adjoint functors",
-      "layman": "Pair of processes that work together"
+      "layman": "Two processes that work perfectly together"
     },
     {
       "jargon": "Limit formation",
-      "layman": "Creating final outcomes from parts"
+      "layman": "Creating a structure that fits all data"
     },
     {
       "jargon": "Categorical algebra",
-      "layman": "Math rules for categories"
+      "layman": "Math rules for combining categories"
     },
     {
-      "jargon": "Unit and structure adjunction",
-      "layman": "Matching building blocks with their rules"
+      "jargon": "Unit and structure adjointness",
+      "layman": "Matching two building blocks in math"
     }
   ],
   "outcomes": [
     {
       "jargon": "Completeness of a category",
-      "layman": "A category has all necessary limits"
+      "layman": "Category has all necessary limits"
     },
     {
-      "jargon": "Adjoint to units",
-      "layman": "A process that fits perfectly with basic rules"
+      "jargon": "Adjoint existence",
+      "layman": "A pair of matching processes found"
     },
     {
       "jargon": "Freely completed categories",
-      "layman": "Categories built fully from simple rules"
-    },
-    {
-      "jargon": "Limit formation admits adjoint",
-      "layman": "Final results come with a matching process"
+      "layman": "Categories built from basic rules"
     },
     {
       "jargon": "Monad theoretic description",
-      "layman": "Explained using monad math"
+      "layman": "Described using monad rules"
+    },
+    {
+      "jargon": "Further adjoint found",
+      "layman": "Extra matching process discovered"
     }
   ]
 }

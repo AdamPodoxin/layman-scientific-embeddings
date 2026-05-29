@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Glueballs",
-      "layman": "Strange particles made of gluons"
+      "layman": "Strange particles made of force"
     },
     {
       "jargon": "Hadron",
-      "layman": "Particles made of quarks"
+      "layman": "Particle made of quarks"
     },
     {
-      "jargon": "Heisenberg's model",
-      "layman": "Old physics model for particle collisions"
+      "jargon": "Heisenberg model",
+      "layman": "Old particle collision model"
     },
     {
       "jargon": "Cross-section",
-      "layman": "Chance of particles colliding"
+      "layman": "Chance of interaction"
     }
   ],
   "methodologies": [
     {
       "jargon": "Modification of the Heisenberg's model",
-      "layman": "Updated version of the original model"
+      "layman": "Updated version of the model"
     },
     {
       "jargon": "Phenomenological analysis",
-      "layman": "Matching data to theory"
+      "layman": "Data-driven pattern fitting"
     },
     {
-      "jargon": "Theoretical modeling",
-      "layman": "Building theories to explain data"
+      "jargon": "Theoretical framework",
+      "layman": "Mathematical model for predictions"
     },
     {
       "jargon": "Data fitting",
-      "layman": "Adjusting models to match observations"
+      "layman": "Matching model to real results"
     },
     {
-      "jargon": "Particle collision studies",
-      "layman": "Testing how particles interact"
+      "jargon": "Model adjustment",
+      "layman": "Tuning the model to fit data"
     }
   ],
   "outcomes": [
     {
-      "jargon": "(lns)\u00b2 behaviour",
-      "layman": "Logarithmic squared pattern in data"
+      "jargon": "(ln s)**2 behaviour",
+      "layman": "Logarithmic square pattern"
     },
     {
       "jargon": "Realistic description",
-      "layman": "Accurate fit to real measurements"
+      "layman": "Good match to real data"
     },
     {
       "jargon": "Existing hadron data",
-      "layman": "Known particle collision results"
+      "layman": "Real collision measurements"
     },
     {
       "jargon": "Increased interest",
-      "layman": "Growing attention in science"
+      "layman": "Growing attention"
     },
     {
-      "jargon": "Total cross-section data",
-      "layman": "Measured collision frequencies"
+      "jargon": "Descriptive fit",
+      "layman": "Model matches observations"
     }
   ]
 }

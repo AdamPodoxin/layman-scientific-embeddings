@@ -2,33 +2,33 @@
   "core_entities": [
     {
       "jargon": "Humanities",
-      "layman": "Study of human culture"
+      "layman": "Studies of culture, history, and thought"
     },
     {
       "jargon": "European Latinitas",
-      "layman": "Use of Latin in European education"
+      "layman": "Latin-based education in Europe"
     },
     {
       "jargon": "Humanist teaching",
-      "layman": "Teaching based on classical texts"
+      "layman": "Teaching focused on classical texts"
     },
     {
       "jargon": "Polymath",
-      "layman": "Person who studies many subjects"
+      "layman": "Person with diverse knowledge across fields"
     },
     {
-      "jargon": "Visual arts",
-      "layman": "Art involving images and design"
+      "jargon": "Artes liberales",
+      "layman": "Free disciplines like history and rhetoric"
     }
   ],
   "methodologies": [
     {
       "jargon": "Correcting knowledge",
-      "layman": "Fixing and improving information"
+      "layman": "Fixing or improving information"
     },
     {
       "jargon": "Streaming knowledge",
-      "layman": "Sorting knowledge by level or type"
+      "layman": "Dividing knowledge into categories"
     },
     {
       "jargon": "Gathering knowledge",
@@ -36,7 +36,7 @@
     },
     {
       "jargon": "Transferring knowledge",
-      "layman": "Sharing knowledge between people"
+      "layman": "Sharing information between people"
     },
     {
       "jargon": "Comparative view",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "Disciplines defined",
-      "layman": "Fields given clear identities"
+      "jargon": "Significance in academy",
+      "layman": "Growing importance in university"
     },
     {
-      "jargon": "Academy significance grew",
-      "layman": "Academies became more important"
+      "jargon": "Connected to politics",
+      "layman": "Linked to government and power"
     },
     {
-      "jargon": "Lesser-known figures highlighted",
-      "layman": "Unfamous people got more attention"
+      "jargon": "Defined as traditions",
+      "layman": "Set as long-standing practices"
     },
     {
-      "jargon": "Fields connected to politics",
-      "layman": "Studies linked to power and society"
+      "jargon": "Grew immensely",
+      "layman": "Increased greatly over time"
     },
     {
-      "jargon": "Knowledge expanded in 17th\u201318th centuries",
-      "layman": "Knowledge grew over time"
+      "jargon": "Lesser-known figures",
+      "layman": "Less famous but important people"
     }
   ]
 }

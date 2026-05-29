@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Adequate subgroups",
-      "layman": "Special types of group substructures"
+      "jargon": "adequate subgroups",
+      "layman": "Strong subgroups in math group theory"
     },
     {
-      "jargon": "Big subgroups",
-      "layman": "Large group subparts"
+      "jargon": "big subgroups",
+      "layman": "Large subgroups in math groups"
     },
     {
-      "jargon": "Absolutely irreducible representations",
-      "layman": "Simplest group action forms"
+      "jargon": "absolutely irreducible representations",
+      "layman": "Simple group actions"
     },
     {
       "jargon": "SL_2(p^a)",
-      "layman": "Special group of numbers modulo prime powers"
+      "layman": "Special group in math with prime powers"
     },
     {
-      "jargon": "Classical groups",
-      "layman": "Standard types of mathematical groups"
+      "jargon": "finite groups of Lie type",
+      "layman": "Special types of finite symmetry groups"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Automorphy lifting theorems",
-      "layman": "Rules linking group actions to symmetry"
+      "jargon": "automorphy lifting theorems",
+      "layman": "Rules connecting number theory to symmetry"
     },
     {
-      "jargon": "Modified definition of adequacy",
-      "layman": "Updated rule for adequacy"
+      "jargon": "modified definition of adequacy",
+      "layman": "Updated rule for strong subgroups"
     },
     {
-      "jargon": "Dimension analysis",
-      "layman": "Study of size in mathematical spaces"
+      "jargon": "dimension smaller than characteristic",
+      "layman": "Size less than field's base number"
     },
     {
-      "jargon": "Field of definition",
-      "layman": "Base number system used in math"
+      "jargon": "classification of indecomposable modules",
+      "layman": "Categorizing building blocks of math objects"
     },
     {
-      "jargon": "Classification of modules",
-      "layman": "Categorizing mathematical structures"
+      "jargon": "complete reducibility",
+      "layman": "Can a group be split into simple pieces"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Almost all irreducible representations are adequate",
-      "layman": "Most simple group forms are adequate"
+      "jargon": "almost all absolutely irreducible representations are adequate",
+      "layman": "Most simple group actions are strong"
     },
     {
-      "jargon": "Complete reducibility",
-      "layman": "Can be broken into simple parts"
+      "jargon": "adequacy for irreducible representations of SL_2(p^a)",
+      "layman": "Strong for key group in prime settings"
     },
     {
-      "jargon": "Dimension less than 2p-2",
-      "layman": "Size smaller than a certain limit"
+      "jargon": "essentially classify indecomposable modules in dimension less than 2p-2",
+      "layman": "List key building blocks in small sizes"
     },
     {
-      "jargon": "Prove adequacy for SL_2(p^a)",
-      "layman": "Show adequacy for special group"
+      "jargon": "answer a question of Serre concerning complete reducibility",
+      "layman": "Solve a long-standing math question"
     },
     {
-      "jargon": "Answer Serre's question",
-      "layman": "Solve a long-standing math problem"
+      "jargon": "results hold for sufficiently large fields of definition",
+      "layman": "Works when the math field is large enough"
     }
   ]
 }

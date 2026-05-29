@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "Ternary Co\u2013Cu\u2013Pb alloy",
-      "layman": "Three-metal mixture"
+      "layman": "Three-metal alloy"
     },
     {
       "jargon": "Macrosegregation",
-      "layman": "Large-scale mixing imbalance"
+      "layman": "Large-scale uneven distribution"
     },
     {
       "jargon": "Core\u2013shell structure",
-      "layman": "Inside-out layering"
+      "layman": "Center-surface layered shape"
     },
     {
       "jargon": "Co-rich core",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Containerless processing",
-      "layman": "No container contact"
+      "layman": "No container contact during melting"
     },
     {
       "jargon": "Drop tube",
-      "layman": "Free-fall experiment setup"
+      "layman": "Free-fall experimental setup"
     },
     {
       "jargon": "Rapidly solidified droplets",
-      "layman": "Quickly cooled drops"
+      "layman": "Quickly cooled alloy drops"
     },
     {
       "jargon": "EDS analyses",
-      "layman": "Element detection test"
+      "layman": "Element detection in samples"
     },
     {
       "jargon": "Peritectic transformation",
-      "layman": "Phase change at boundary"
+      "layman": "Phase change with solid and liquid mixing"
     }
   ],
   "outcomes": [
     {
       "jargon": "Phase separation",
-      "layman": "Materials split into layers"
+      "layman": "Components separate into regions"
     },
     {
-      "jargon": "Monotectic transformation",
-      "layman": "Final two-phase split"
+      "jargon": "Three-layer core/shell structure",
+      "layman": "Three-layered alloy shape"
     },
     {
       "jargon": "Pb solute affinity with Cu-rich liquid",
-      "layman": "Lead prefers copper liquid"
+      "layman": "Lead sticks to copper-rich liquid"
     },
     {
-      "jargon": "Repulsive interaction with Co-rich liquid",
-      "layman": "Lead avoids cobalt liquid"
+      "jargon": "Pb repulsive interaction with Co-rich liquid",
+      "layman": "Lead pushes away from cobalt-rich liquid"
     },
     {
-      "jargon": "Two successive phase separation events",
-      "layman": "Two step-by-step layer splits"
+      "jargon": "Monotectic transformation",
+      "layman": "Final liquid splits into two phases"
     }
   ]
 }

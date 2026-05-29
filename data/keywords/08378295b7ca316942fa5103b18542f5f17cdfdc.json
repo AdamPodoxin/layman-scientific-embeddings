@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "German historical scholarship",
-      "layman": "German history studies"
+      "layman": "German history as a science"
     },
     {
       "jargon": "Russian historiography",
       "layman": "Russian history writing"
     },
     {
-      "jargon": "L. von Ranke",
-      "layman": "L. von Ranke"
+      "jargon": "Ludwig von Ranke",
+      "layman": "Ludwig von Ranke"
     },
     {
-      "jargon": "G. Sybel",
-      "layman": "G. Sybel"
+      "jargon": "Gottfried Sybel",
+      "layman": "Gottfried Sybel"
     },
     {
-      "jargon": "F. Dalman",
-      "layman": "F. Dalman"
+      "jargon": "Georg Treitschke",
+      "layman": "Georg Treitschke"
     }
   ],
   "methodologies": [
     {
-      "jargon": "General logical methods",
-      "layman": "Basic reasoning techniques"
+      "jargon": "Analytical method",
+      "layman": "Breaking down ideas to understand them"
     },
     {
-      "jargon": "Analysis",
-      "layman": "Breaking down information"
-    },
-    {
-      "jargon": "Synthesis",
-      "layman": "Putting parts together"
+      "jargon": "Synthetic method",
+      "layman": "Putting ideas together to see the big picture"
     },
     {
       "jargon": "Ideographical method",
-      "layman": "Studying ideas and concepts"
+      "layman": "Studying ideas and beliefs in history"
     },
     {
       "jargon": "Chronological method",
-      "layman": "Studying events in time order"
+      "layman": "Looking at events in order of time"
+    },
+    {
+      "jargon": "General logical methods",
+      "layman": "Using logic to reason about history"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Popularity of German historiography",
-      "layman": "German history studies were popular"
-    },
-    {
-      "jargon": "Interest in German historical school",
-      "layman": "Russian historians were interested"
+      "jargon": "Interest in German historiography",
+      "layman": "Russian historians read German history"
     },
     {
       "jargon": "Grouping of periodicals",
-      "layman": "Periodicals sorted into groups"
+      "layman": "Sorting journals into categories"
     },
     {
-      "jargon": "Scientific exchange between students",
-      "layman": "Students shared knowledge"
+      "jargon": "Scientific leadership in Europe",
+      "layman": "Germany led history as science in Europe"
     },
     {
-      "jargon": "Leading position of German scholarship in Europe",
-      "layman": "Germany led European history studies"
+      "jargon": "Knowledge of German scientific community",
+      "layman": "Russian historians knew about German scholars"
+    },
+    {
+      "jargon": "Exchange of experience",
+      "layman": "Students shared knowledge between countries"
     }
   ]
 }

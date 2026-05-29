@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "T2-symmetric spacetimes",
-      "layman": "Spacetimes with repeating two-dimensional symmetry"
+      "layman": "Spacetimes with repeating 2D patterns"
     },
     {
       "jargon": "Cosmological constant",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Matter",
-      "layman": "Physical substances"
+      "layman": "Physical stuff in space"
     },
     {
       "jargon": "Maximal Cauchy development",
-      "layman": "Largest possible spacetime solution from initial conditions"
+      "layman": "Largest possible spacetime from initial conditions"
     },
     {
       "jargon": "Area element of group orbits",
-      "layman": "Surface size of repeating patterns in spacetime"
+      "layman": "Size of repeating patterns on a surface"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Strong cosmic censorship",
-      "layman": "Rule about singularities in spacetime"
-    },
-    {
-      "jargon": "Collisionless matter",
-      "layman": "Matter that doesn't collide"
+      "jargon": "Complete the proof",
+      "layman": "Show it's true using math"
     },
     {
       "jargon": "Vacuum case",
-      "layman": "Empty spacetime scenario"
-    },
-    {
-      "jargon": "Proof of the C2 formulation",
-      "layman": "Mathematical confirmation of a version of the conjecture"
+      "layman": "Empty space scenario"
     },
     {
       "jargon": "Past boundary",
-      "layman": "Beginning of time in a spacetime model"
+      "layman": "Edge of time in the beginning"
+    },
+    {
+      "jargon": "Collisionless matter",
+      "layman": "Matter that doesn't interact"
+    },
+    {
+      "jargon": "Group orbits",
+      "layman": "Repeating paths in space"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Strong cosmic censorship",
+      "layman": "Singularities hide behind event horizons"
+    },
+    {
       "jargon": "Conjecture holds",
-      "layman": "The rule is true"
+      "layman": "The rule is proven true"
     },
     {
       "jargon": "Area element does not vanish",
-      "layman": "Surface size remains non-zero"
+      "layman": "Pattern size stays positive"
     },
     {
       "jargon": "Positive cosmological constant",
-      "layman": "Space has inherent energy"
+      "layman": "Space has natural energy"
     },
     {
-      "jargon": "Spacetime singularities",
-      "layman": "Points where physics breaks down"
-    },
-    {
-      "jargon": "Maximal Cauchy development",
-      "layman": "Full possible evolution of spacetime"
+      "jargon": "C2 formulation",
+      "layman": "A specific version of the rule"
     }
   ]
 }

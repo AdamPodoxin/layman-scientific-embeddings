@@ -6,15 +6,15 @@
     },
     {
       "jargon": "Antineoplastic drugs",
-      "layman": "Cancer-fighting drugs"
+      "layman": "Cancer-fighting medications"
+    },
+    {
+      "jargon": "Occupational exposure",
+      "layman": "Workplace exposure"
     },
     {
       "jargon": "Operating-theatre staff",
-      "layman": "Hospital staff in surgery rooms"
-    },
-    {
-      "jargon": "Nurses",
-      "layman": "Hospital nurses"
+      "layman": "Hospital surgical staff"
     },
     {
       "jargon": "Ionising radiation",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Logistic regression",
-      "layman": "Statistical model for risk prediction"
+      "layman": "Statistical model for odds"
     },
     {
       "jargon": "Survey",
       "layman": "Questionnaire study"
     },
     {
-      "jargon": "Odds ratio",
-      "layman": "Risk comparison between groups"
+      "jargon": "Adjustment for gravidity",
+      "layman": "Accounting for past pregnancies"
     },
     {
       "jargon": "Confidence interval",
-      "layman": "Range of likely values"
+      "layman": "Range of probable values"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Ectopic pregnancy incidence",
-      "layman": "Rate of ectopic pregnancies"
-    },
-    {
-      "jargon": "Odds ratio of 10.0",
+      "jargon": "Odds ratio 10.0",
       "layman": "10 times higher risk"
     },
     {
-      "jargon": "p < 0.02",
-      "layman": "Statistically significant link"
+      "jargon": "P < 0.02",
+      "layman": "Statistically significant"
     },
     {
-      "jargon": "Small number of ectopic pregnancies",
-      "layman": "Few cases studied"
+      "jargon": "2% ectopic pregnancies",
+      "layman": "1 in 50 pregnancies"
     },
     {
-      "jargon": "Widened confidence intervals",
-      "layman": "Uncertain result range"
+      "jargon": "Widely spaced confidence intervals",
+      "layman": "Large uncertainty in estimate"
+    },
+    {
+      "jargon": "Small numbers of ectopic pregnancies",
+      "layman": "Limited cases studied"
     }
   ]
 }

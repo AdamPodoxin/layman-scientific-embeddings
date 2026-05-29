@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Aluminum hydride",
-      "layman": "Hydride compound with aluminum"
+      "layman": "Compound of aluminum and hydrogen"
     },
     {
       "jargon": "KAlD4",
       "layman": "Potassium aluminum deuteride"
     },
     {
-      "jargon": "RbAlD4",
-      "layman": "Rubidium aluminum deuteride"
+      "jargon": "Neutron diffraction",
+      "layman": "X-ray like technique using neutrons"
     },
     {
-      "jargon": "Alkali metal aluminum hydrides",
-      "layman": "Hydrides made with aluminum and alkali metals"
+      "jargon": "Decomposition",
+      "layman": "Breaking down into simpler parts"
     }
   ],
   "methodologies": [
     {
       "jargon": "Mechanochemical reaction",
-      "layman": "Mixing metals to make compound"
-    },
-    {
-      "jargon": "Neutron diffraction",
-      "layman": "X-ray-like technique using neutrons"
+      "layman": "Mixing metals to form compound"
     },
     {
       "jargon": "Structure refinement",
-      "layman": "Improving crystal structure model"
+      "layman": "Improving crystal structure details"
     },
     {
-      "jargon": "Decomposition",
-      "layman": "Breaking down into simpler parts"
+      "jargon": "Synthesis routes",
+      "layman": "Different ways to make the compound"
     },
     {
       "jargon": "Hydrogenation",
-      "layman": "Adding hydrogen to a compound"
+      "layman": "Adding hydrogen to a material"
+    },
+    {
+      "jargon": "Crystal structure analysis",
+      "layman": "Examining how atoms are arranged in a crystal"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Phase pure",
-      "layman": "Pure form with no impurities"
-    },
-    {
       "jargon": "Isostructural",
-      "layman": "Same crystal shape"
-    },
-    {
-      "jargon": "Two distinct processes",
-      "layman": "Two different breakdown paths"
-    },
-    {
-      "jargon": "Different structures formed",
-      "layman": "Different crystal forms created"
+      "layman": "Same shape and structure"
     },
     {
       "jargon": "Reversibility of hydrogenation",
       "layman": "Hydrogen can be added or removed"
+    },
+    {
+      "jargon": "Two distinct processes",
+      "layman": "Two different breakdown stages"
+    },
+    {
+      "jargon": "Temperature above 275 \u00b0C",
+      "layman": "Breaks down at high heat"
+    },
+    {
+      "jargon": "Structures formed during decomposition differ",
+      "layman": "Different products form when breaking down"
     }
   ]
 }

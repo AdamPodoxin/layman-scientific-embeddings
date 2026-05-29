@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Coherent states on spheres",
-      "layman": "Special states on spherical surfaces"
+      "jargon": "Coherent states",
+      "layman": "Ordered quantum states"
     },
     {
-      "jargon": "Odd-dimensional case",
-      "layman": "Odd-numbered dimensions"
+      "jargon": "Spheres",
+      "layman": "Round surfaces"
     },
     {
-      "jargon": "Classical Gaussian coherent states",
-      "layman": "Smooth, bell-shaped states in space"
+      "jargon": "Odd-dimensional space",
+      "layman": "Spaces with odd number of dimensions"
     },
     {
       "jargon": "Euclidean space",
-      "layman": "Flat space"
+      "layman": "Regular flat space"
     },
     {
-      "jargon": "Radius of the sphere",
+      "jargon": "Radius",
       "layman": "Size of the sphere"
     }
   ],
   "methodologies": [
     {
       "jargon": "Large radius limit",
-      "layman": "What happens when sphere gets very large"
+      "layman": "Studying very large sizes"
     },
     {
-      "jargon": "Approach as radius tends to infinity",
-      "layman": "Getting closer to a flat space state"
+      "jargon": "Approach",
+      "layman": "Getting closer to"
     },
     {
-      "jargon": "Study of coherent states",
-      "layman": "Analyzing special quantum states"
+      "jargon": "Tends to infinity",
+      "layman": "Gets infinitely large"
     },
     {
-      "jargon": "Mathematical analysis",
-      "layman": "Using math to understand behavior"
+      "jargon": "Classical limit",
+      "layman": "Behavior in normal, everyday physics"
     },
     {
-      "jargon": "Asymptotic behavior",
-      "layman": "How things behave at extreme sizes"
+      "jargon": "Analytical study",
+      "layman": "Mathematical analysis"
     }
   ],
   "outcomes": [
     {
       "jargon": "Approach classical Gaussian coherent states",
-      "layman": "Become like smooth, flat-space states"
+      "layman": "Become like normal Gaussian states"
     },
     {
-      "jargon": "Tends to infinity",
-      "layman": "Grows without bound"
-    },
-    {
-      "jargon": "Coherent states on sphere",
-      "layman": "Special quantum patterns on spheres"
+      "jargon": "Infinite radius limit",
+      "layman": "Large size behavior"
     },
     {
       "jargon": "Odd-dimensional case",
-      "layman": "Behavior in odd dimensions"
+      "layman": "Odd-numbered dimensions"
     },
     {
-      "jargon": "Large radius limit",
-      "layman": "State becomes stable and smooth"
+      "jargon": "Coherent state behavior",
+      "layman": "How the states organize"
+    },
+    {
+      "jargon": "Gaussian coherent states",
+      "layman": "Normal-shaped quantum states"
     }
   ]
 }

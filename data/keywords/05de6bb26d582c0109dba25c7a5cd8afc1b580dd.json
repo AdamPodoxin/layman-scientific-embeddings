@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Supergravity",
-      "layman": "Strong gravity theory"
+      "layman": "Strong force in space"
     },
     {
-      "jargon": "Computational physics",
-      "layman": "Simulating physics on computers"
+      "jargon": "Computations",
+      "layman": "Mathematical calculations"
     },
     {
       "jargon": "High-energy physics",
-      "layman": "Physics at very small scales"
+      "layman": "Physics of very small particles"
     },
     {
-      "jargon": "Quantum fields",
-      "layman": "Tiny energy fields everywhere"
+      "jargon": "Gravitational complications",
+      "layman": "Gravity-related problems"
     },
     {
-      "jargon": "Gravitational interactions",
-      "layman": "How gravity works between things"
+      "jargon": "Theoretical models",
+      "layman": "Hypothesized scientific frameworks"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Computational computations",
-      "layman": "Using computers to solve problems"
+      "jargon": "Supergravity computations",
+      "layman": "Complex math to study gravity"
     },
     {
       "jargon": "Gravity complications",
-      "layman": "Hard parts of gravity calculations"
+      "layman": "Troubles in gravity predictions"
     },
     {
-      "jargon": "Theoretical modeling",
-      "layman": "Building math models of nature"
+      "jargon": "High-energy physics simulations",
+      "layman": "Computer models of particle behavior"
     },
     {
       "jargon": "Field theory",
       "layman": "Mathematical description of forces"
     },
     {
-      "jargon": "Renormalization",
-      "layman": "Fixing infinite values in math models"
+      "jargon": "Quantum gravity",
+      "layman": "Trying to merge gravity with quantum physics"
     }
   ],
   "outcomes": [
     {
       "jargon": "No gravity complications",
-      "layman": "Cleaner results without messy gravity effects"
+      "layman": "No unexpected gravity issues"
     },
     {
-      "jargon": "Exact results",
-      "layman": "Precise mathematical answers"
+      "jargon": "Consistent results",
+      "layman": "Predictions match expectations"
     },
     {
-      "jargon": "Consistent predictions",
-      "layman": "Predictions that match known data"
+      "jargon": "Simplified calculations",
+      "layman": "Easier math to do"
     },
     {
-      "jargon": "High-precision calculations",
-      "layman": "Very accurate computer results"
+      "jargon": "Valid theoretical framework",
+      "layman": "Strong scientific model"
     },
     {
-      "jargon": "Simplified framework",
-      "layman": "Easier way to understand complex physics"
+      "jargon": "Unified approach",
+      "layman": "Single method that works well"
     }
   ]
 }

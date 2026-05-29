@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Edinburgh",
-      "layman": "Edinburgh"
+      "layman": "University in Scotland"
     },
     {
       "jargon": "Marseilles",
-      "layman": "Marseilles"
+      "layman": "City in France"
     },
     {
       "jargon": "Early years",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Shared influences",
-      "layman": "Common ideas between groups"
-    },
-    {
-      "jargon": "Recollection",
-      "layman": "Personal memory"
+      "layman": "Common ideas between places"
     },
     {
       "jargon": "Tracing",
       "layman": "Following a path or history"
     },
     {
-      "jargon": "Connection",
-      "layman": "Link between places or ideas"
+      "jargon": "Recollection",
+      "layman": "Personal memory"
     },
     {
-      "jargon": "Influences and inspirations",
-      "layman": "Motivating factors"
+      "jargon": "Connection",
+      "layman": "Link between events or places"
+    },
+    {
+      "jargon": "Influences",
+      "layman": "Impacts that shape ideas"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Early days",
-      "layman": "First phase of development"
+      "jargon": "Interconnected inspirations",
+      "layman": "Linked ideas across locations"
     },
     {
-      "jargon": "Connected Edinburgh and Marseilles",
-      "layman": "Linked two places"
+      "jargon": "Historical recollection",
+      "layman": "Past events remembered"
     },
     {
-      "jargon": "Shared inspirations",
-      "layman": "Common sources of ideas"
+      "jargon": "Shared experiences",
+      "layman": "Common events in both places"
     },
     {
-      "jargon": "Firsthand recollection",
-      "layman": "Personal account"
+      "jargon": "Early development",
+      "layman": "Beginning growth of a field"
     },
     {
-      "jargon": "Historical tracing",
-      "layman": "Mapping the past"
+      "jargon": "Cultural exchange",
+      "layman": "Sharing ideas between cultures"
     }
   ]
 }

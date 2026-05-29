@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Text plans",
-      "layman": "Written outlines"
+      "layman": "Written outlines for messages"
     },
     {
       "jargon": "RST-style trees",
-      "layman": "Outline structures"
+      "layman": "Hierarchical message structures"
     },
     {
       "jargon": "Communicative goals",
-      "layman": "What the message wants to achieve"
-    },
-    {
-      "jargon": "Integrated message",
-      "layman": "Combined message"
+      "layman": "Message purposes"
     },
     {
       "jargon": "Critiques",
-      "layman": "Feedback on writing"
+      "layman": "Feedback on performance"
+    },
+    {
+      "jargon": "Trauma care",
+      "layman": "Medical care for severe injuries"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "System using clear rules"
     },
     {
+      "jargon": "Integration of text plans",
+      "layman": "Combining message outlines"
+    },
+    {
       "jargon": "Domain-independent rules",
-      "layman": "Rules that work across fields"
+      "layman": "General rules across fields"
     },
     {
       "jargon": "Domain-dependent rules",
-      "layman": "Rules specific to a field"
+      "layman": "Rules specific to a subject"
     },
     {
-      "jargon": "Text planning",
-      "layman": "Creating writing outlines"
-    },
-    {
-      "jargon": "Tree integration",
-      "layman": "Combining outline structures"
+      "jargon": "Corpus analysis",
+      "layman": "Studying a collection of texts"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Conciseness",
-      "layman": "Short and clear message"
+      "jargon": "Concise message",
+      "layman": "Brief and clear message"
     },
     {
-      "jargon": "Coherence",
-      "layman": "Logical and consistent message"
+      "jargon": "Coherent message",
+      "layman": "Logical and clear message"
     },
     {
       "jargon": "Assimilation",
-      "layman": "Easy to understand and accept"
-    },
-    {
-      "jargon": "Corpus of critiques",
-      "layman": "Collection of feedback examples"
+      "layman": "Easy understanding of the message"
     },
     {
       "jargon": "Multiple critiques",
       "layman": "Several pieces of feedback"
+    },
+    {
+      "jargon": "Smaller set of complex trees",
+      "layman": "Fewer, more detailed message structures"
     }
   ]
 }

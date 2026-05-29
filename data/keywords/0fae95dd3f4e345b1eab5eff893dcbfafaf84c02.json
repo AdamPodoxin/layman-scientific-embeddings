@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Morris-Thorne wormholes",
-      "layman": "Wormholes connecting distant points"
+      "layman": "Space tunnels"
     },
     {
       "jargon": "Exotic region",
-      "layman": "Unusual space with strange matter"
+      "layman": "Unusual space area"
     },
     {
       "jargon": "Metric coefficients",
-      "layman": "Mathematical values describing space shape"
+      "layman": "Mathematical values in space model"
     },
     {
       "jargon": "Quantum field theory",
-      "layman": "How particles and forces work at tiny scales"
+      "layman": "Rules for how particles behave in space"
     },
     {
       "jargon": "Tidal constraints",
-      "layman": "Limits on gravitational stretching"
+      "layman": "Limits on gravity pull through the tunnel"
     }
   ],
   "methodologies": [
     {
       "jargon": "Fine-tuning",
-      "layman": "Adjusting values to fit conditions"
+      "layman": "Adjusting values carefully"
     },
     {
       "jargon": "Traversability criteria",
-      "layman": "Rules for safe passage through a wormhole"
+      "layman": "Rules for safe passage"
     },
     {
-      "jargon": "Balancing act",
-      "layman": "Finding a middle ground between two needs"
+      "jargon": "Balancing strategies",
+      "layman": "Finding middle ground"
     },
     {
-      "jargon": "Reducing size",
-      "layman": "Making something smaller"
+      "jargon": "Model extension",
+      "layman": "Improving the model"
     },
     {
-      "jargon": "Satisfying constraints",
+      "jargon": "Constraint satisfaction",
       "layman": "Meeting required conditions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Reduced exotic region",
-      "layman": "Smaller area of strange matter"
+      "layman": "Smaller unusual area"
     },
     {
       "jargon": "Generic feature",
-      "layman": "Common trait in this type"
+      "layman": "Common trait"
+    },
+    {
+      "jargon": "Satisfied traversability",
+      "layman": "Safe passage possible"
     },
     {
       "jargon": "Proper distances",
-      "layman": "Measured distances through the wormhole"
-    },
-    {
-      "jargon": "Tidal forces",
-      "layman": "Gravitational stretching"
+      "layman": "Correct path lengths"
     },
     {
       "jargon": "Compatibility with quantum field theory",
-      "layman": "Works with quantum rules"
+      "layman": "Works within known physics rules"
     }
   ]
 }

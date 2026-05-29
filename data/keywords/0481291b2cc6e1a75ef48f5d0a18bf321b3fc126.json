@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Boolean subset logic",
-      "layman": "Either-in-or-out logic"
+      "layman": "Either/or logic"
     },
     {
-      "jargon": "Partition logic",
-      "layman": "Alternative logic of divisions"
-    },
-    {
-      "jargon": "Micro-reality",
-      "layman": "Reality at the smallest scales"
+      "jargon": "Partitions",
+      "layman": "Groupings of things"
     },
     {
       "jargon": "Quantum mechanics",
-      "layman": "How particles behave at tiny scales"
+      "layman": "How tiny things behave"
     },
     {
-      "jargon": "Vector spaces",
-      "layman": "Mathematical spaces for physical quantities"
+      "jargon": "Micro-reality",
+      "layman": "Reality at tiny scales"
+    },
+    {
+      "jargon": "Objective indefiniteness",
+      "layman": "Things not having definite properties"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Partition logic",
+      "layman": "Logic based on groupings"
+    },
+    {
       "jargon": "Lifting program",
-      "layman": "Translating logic to quantum math"
+      "layman": "Mathematical upgrade"
     },
     {
       "jargon": "Logical information theory",
-      "layman": "Information based on logic"
+      "layman": "Information in logic form"
     },
     {
       "jargon": "Subset-partition duality",
-      "layman": "Pairing groups with divisions"
+      "layman": "Link between grouping and inclusion"
     },
     {
-      "jargon": "Mathematical lifting",
-      "layman": "Applying logic to physical systems"
-    },
-    {
-      "jargon": "Dual logic",
-      "layman": "Two opposing but linked systems"
+      "jargon": "Vector spaces",
+      "layman": "Mathematical spaces for numbers and directions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Objective indefiniteness",
-      "layman": "Properties not fixed until measured"
-    },
-    {
       "jargon": "Alternative view of reality",
-      "layman": "Different way to see reality"
+      "layman": "Different reality picture"
     },
     {
       "jargon": "Matches quantum mechanics",
-      "layman": "Agrees with quantum predictions"
+      "layman": "Aligns with quantum rules"
+    },
+    {
+      "jargon": "Logical version of information theory",
+      "layman": "Information through logic"
+    },
+    {
+      "jargon": "Mathematics of quantum mechanics",
+      "layman": "Math that describes quantum facts"
     },
     {
       "jargon": "Coherent alternative views",
-      "layman": "Plausible alternatives to classical view"
-    },
-    {
-      "jargon": "Mathematical description of micro-reality",
-      "layman": "Equations for tiny-scale reality"
+      "layman": "Plausible alternate realities"
     }
   ]
 }

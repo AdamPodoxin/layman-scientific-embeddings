@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Proterozoic metamorphic rocks",
-      "layman": "Ancient, changed rocks"
+      "layman": "Ancient rocks transformed by heat and pressure"
     },
     {
       "jargon": "Xindong Group",
@@ -14,33 +14,33 @@
     },
     {
       "jargon": "Deep fault (F9)",
-      "layman": "Deep crack in the earth"
+      "layman": "Major underground crack"
     },
     {
       "jargon": "Cretaceous intermediate-acid volcanic rocks",
-      "layman": "Old volcano rocks"
+      "layman": "Volcanic rocks from ancient eruptions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Metallogenic geological environment analysis",
-      "layman": "Studying rock conditions for gold"
+      "layman": "Study of geological conditions that form gold deposits"
     },
     {
       "jargon": "Ore-controlling factors identification",
       "layman": "Finding what controls gold formation"
     },
     {
-      "jargon": "Rock gold deposit prediction",
-      "layman": "Predicting where gold might be"
+      "jargon": "Geological prediction",
+      "layman": "Forecasting where gold might be found"
     },
     {
       "jargon": "Ore-prospecting direction determination",
       "layman": "Deciding where to search for gold"
     },
     {
-      "jargon": "Geological environment analysis",
-      "layman": "Studying earth conditions"
+      "jargon": "Geological mapping",
+      "layman": "Creating a map of rock types and features"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Metallogenic rule",
-      "layman": "Pattern of gold formation"
+      "layman": "Pattern of how gold forms"
     },
     {
-      "jargon": "Ore-controlling factors",
-      "layman": "What controls gold formation"
+      "jargon": "Cognition",
+      "layman": "Understanding gained"
     },
     {
-      "jargon": "Primary rock gold metallogenic region",
-      "layman": "Main area for rock gold"
+      "jargon": "Prediction on rock gold deposits",
+      "layman": "Estimate of where gold exists"
     }
   ]
 }

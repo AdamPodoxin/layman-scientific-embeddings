@@ -5,64 +5,64 @@
       "layman": "Fly model"
     },
     {
+      "jargon": "Caenorhabditis elegans",
+      "layman": "Nematode worm"
+    },
+    {
       "jargon": "Aging process",
-      "layman": "Biological decline over time"
+      "layman": "Biological aging"
     },
     {
       "jargon": "Genes",
       "layman": "DNA instructions"
     },
     {
-      "jargon": "Invertebrate model systems",
-      "layman": "Simple animals used in research"
-    },
-    {
-      "jargon": "Caenorhabditis elegans",
-      "layman": "Nematode worm model"
+      "jargon": "Demography",
+      "layman": "Population patterns"
     }
   ],
   "methodologies": [
     {
       "jargon": "Demography",
-      "layman": "Study of population changes"
+      "layman": "Studying population changes"
     },
     {
       "jargon": "Molecular genetics",
-      "layman": "Studying genes at the molecular level"
+      "layman": "Genetic analysis at the molecule level"
     },
     {
       "jargon": "Epidemiology",
-      "layman": "Tracking disease spread"
+      "layman": "Disease spread studies"
     },
     {
       "jargon": "Genetic analysis",
-      "layman": "Examining gene function"
+      "layman": "Testing DNA changes"
     },
     {
       "jargon": "Extensive genetic analysis",
-      "layman": "Deep gene testing"
+      "layman": "In-depth genetic testing"
     }
   ],
   "outcomes": [
     {
       "jargon": "Reinvigorate the field",
-      "layman": "Revive scientific interest"
+      "layman": "Revive research interest"
     },
     {
-      "jargon": "Commonly held assumptions",
-      "layman": "Widespread beliefs"
+      "jargon": "Challenge assumptions",
+      "layman": "Question old beliefs"
     },
     {
       "jargon": "Aging research renaissance",
-      "layman": "New era in aging studies"
-    },
-    {
-      "jargon": "Challenged assumptions",
-      "layman": "Disproved common ideas"
+      "layman": "New era in aging study"
     },
     {
       "jargon": "Intimate nature of aging",
-      "layman": "Deeply connected to life processes"
+      "layman": "Complex and close connection to life"
+    },
+    {
+      "jargon": "Limited knowledge",
+      "layman": "Not much is known"
     }
   ]
 }

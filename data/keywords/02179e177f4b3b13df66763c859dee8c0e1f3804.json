@@ -9,12 +9,12 @@
       "layman": "Old, stable landmass in Siberia"
     },
     {
-      "jargon": "Sedimentary sequences",
-      "layman": "Layers of ancient sediment"
+      "jargon": "Basement highs",
+      "layman": "Elevated ancient rock layers"
     },
     {
-      "jargon": "Basement highs",
-      "layman": "Elevated ancient rock under the surface"
+      "jargon": "Sedimentary sequences",
+      "layman": "Layers of ancient deposits"
     },
     {
       "jargon": "Vendian\u2013Paleozoic sequence",
@@ -24,7 +24,7 @@
   "methodologies": [
     {
       "jargon": "CMP reflection profiling",
-      "layman": "Seismic imaging of underground layers"
+      "layman": "Seismic mapping with sound waves"
     },
     {
       "jargon": "Data processing",
@@ -36,7 +36,7 @@
     },
     {
       "jargon": "Thickness analysis",
-      "layman": "Measuring layer depth and spread"
+      "layman": "Measuring rock layer depths"
     },
     {
       "jargon": "Deformation pattern analysis",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Ten distinct zones",
-      "layman": "Ten different rock areas"
+      "layman": "Ten different structural areas"
     },
     {
       "jargon": "Exploration priority ranking",
-      "layman": "Priority list for oil searches"
+      "layman": "Areas rated for oil search"
     },
     {
       "jargon": "Sediment structure evidence",
-      "layman": "Signs of how sediment was laid down"
+      "layman": "Signs of how sediments were laid down"
     },
     {
       "jargon": "Structural and compositional differences",
-      "layman": "Different rock types and shapes"
+      "layman": "Variations in rock type and form"
     },
     {
-      "jargon": "Position relative to overlying units",
-      "layman": "Where zones sit in relation to top layers"
+      "jargon": "Position relative to overlying sequence",
+      "layman": "Location in relation to older rock layers"
     }
   ]
 }

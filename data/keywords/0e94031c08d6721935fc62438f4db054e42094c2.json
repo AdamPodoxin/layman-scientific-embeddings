@@ -2,33 +2,33 @@
   "core_entities": [
     {
       "jargon": "Online gray markets",
-      "layman": "Unauthorized online sellers of branded goods"
+      "layman": "Unauthorized online sellers of real branded goods"
     },
     {
       "jargon": "Branded products",
-      "layman": "Officially made products with brand names"
+      "layman": "Officially produced goods with a brand name"
     },
     {
       "jargon": "Authorized distribution channels",
-      "layman": "Official stores selling branded goods"
+      "layman": "Official stores that sell branded items"
     },
     {
       "jargon": "Product availability",
-      "layman": "How many products are available for sale"
+      "layman": "How many items are in stock"
     },
     {
       "jargon": "Pricing",
-      "layman": "How much products cost"
+      "layman": "How much a product costs"
     }
   ],
   "methodologies": [
     {
       "jargon": "Empirical investigation",
-      "layman": "Real-world data study"
+      "layman": "Real-world data collection and analysis"
     },
     {
       "jargon": "Tracking sellers and transactions",
-      "layman": "Monitoring online sales data"
+      "layman": "Monitoring online sales activity"
     },
     {
       "jargon": "34-week period",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Global supply chain management",
-      "layman": "Controlling how products move worldwide"
+      "layman": "Managing how products move worldwide"
     },
     {
       "jargon": "Channel control strategies",
-      "layman": "Methods to manage sales channels"
+      "layman": "Methods to control sales channels"
     }
   ],
   "outcomes": [
     {
       "jargon": "Less expensive styles have more sellers",
-      "layman": "Cheaper products attract more sellers"
+      "layman": "Cheaper items sold by more people"
     },
     {
-      "jargon": "More sellers when product availability is high",
-      "layman": "More sellers when items are available"
+      "jargon": "Higher number of gray market sellers with availability",
+      "layman": "More sellers when products are available"
     },
     {
-      "jargon": "Pricing has no effect on transaction volume",
-      "layman": "Price doesn't affect how many sales happen"
+      "jargon": "Product availability has little effect on transactions",
+      "layman": "Stock presence doesn\u2019t increase sales much"
     },
     {
-      "jargon": "Product availability affects seller count",
-      "layman": "More stock leads to more sellers"
+      "jargon": "Pricing significantly impacts sales volume",
+      "layman": "Price strongly affects how many sales happen"
     },
     {
-      "jargon": "Transaction quantities are not impacted by availability",
-      "layman": "Sales volume stays the same regardless of stock"
+      "jargon": "Brand owners face supply chain challenges",
+      "layman": "Brands struggle to control product flow"
     }
   ]
 }

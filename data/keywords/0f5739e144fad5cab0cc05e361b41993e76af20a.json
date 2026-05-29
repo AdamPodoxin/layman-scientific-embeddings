@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Retail payment services",
-      "layman": "Payment methods for everyday purchases"
+      "layman": "Payment methods like bank transfers or mobile payments"
     },
     {
       "jargon": "Consumption bundle",
@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Capabilities",
-      "layman": "Skills people have to use new tech"
+      "layman": "Skills or abilities to use a service"
     },
     {
       "jargon": "Preferences",
-      "layman": "Favors people have for certain services"
+      "layman": "People's likes and choices"
     },
     {
       "jargon": "Innovation",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Trial-and-error",
-      "layman": "Testing things until they work"
+      "jargon": "Trial-and-error learning",
+      "layman": "Trying things out and learning from mistakes"
     },
     {
-      "jargon": "Learning by consuming",
-      "layman": "Getting better by using something"
-    },
-    {
-      "jargon": "Evolution of capabilities",
-      "layman": "Skills growing over time"
+      "jargon": " Consumption routines",
+      "layman": "Regular habits of how people use services"
     },
     {
       "jargon": "Empirical evidence",
       "layman": "Real-world data from observations"
     },
     {
-      "jargon": "Patterns of use",
-      "layman": "How people actually use services"
+      "jargon": "Evolution of capabilities",
+      "layman": "How abilities grow over time"
+    },
+    {
+      "jargon": "Demand patterns",
+      "layman": "How often people use services"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Demand for banking technologies",
-      "layman": "People's interest in banking tools"
+      "jargon": "Shaped by capabilities and preferences",
+      "layman": "Influenced by skills and choices"
+    },
+    {
+      "jargon": "Discovery process",
+      "layman": "Process of finding out through experience"
     },
     {
       "jargon": "Interwoven evolution",
-      "layman": "How skills and choices grow together"
+      "layman": "How things change together over time"
     },
     {
-      "jargon": "Consumption routines",
-      "layman": "Regular ways people spend money"
+      "jargon": "Use patterns",
+      "layman": "How people actually use services"
     },
     {
-      "jargon": "Discovery processes",
-      "layman": "Finding new ways through experience"
-    },
-    {
-      "jargon": "Shaped by demand",
-      "layman": "Influenced by what people choose"
+      "jargon": "Behavioral adaptation",
+      "layman": "Changing habits over time"
     }
   ]
 }

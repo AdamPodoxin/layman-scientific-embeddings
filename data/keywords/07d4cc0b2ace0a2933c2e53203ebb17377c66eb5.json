@@ -6,19 +6,19 @@
     },
     {
       "jargon": "pillowed lavas",
-      "layman": "Lava that forms pillow shapes underwater"
+      "layman": "Lava formations with pillow shapes"
     },
     {
       "jargon": "hyaloclastites",
-      "layman": "Fragmented volcanic rock from water explosions"
+      "layman": "Broken lava fragments from water explosions"
     },
     {
       "jargon": "phreatomagmatic explosions",
-      "layman": "Volcano blasts from magma and water mixing"
+      "layman": "Explosions from magma and water mixing"
     },
     {
-      "jargon": "subglacial volcanoes",
-      "layman": "Volcanoes under ice caps"
+      "jargon": "monogenetic volcanoes",
+      "layman": "Single eruption events"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "magmatic differentiation",
-      "layman": "Magma changing composition over time"
+      "layman": "Magma changing chemical makeup"
+    },
+    {
+      "jargon": "subglacial eruption",
+      "layman": "Eruption under ice"
+    },
+    {
+      "jargon": "subaqueous eruption",
+      "layman": "Eruption under water"
     },
     {
       "jargon": "crystallization",
-      "layman": "Magma turning into solid crystals"
-    },
-    {
-      "jargon": "major element variations",
-      "layman": "Changes in key chemical elements"
-    },
-    {
-      "jargon": "elemental composition",
-      "layman": "What chemicals are in the rock"
+      "layman": "Lava turning into crystals"
     }
   ],
   "outcomes": [
     {
-      "jargon": "monogenetic volcanoes",
-      "layman": "One eruption per volcano"
+      "jargon": "systematic variations in major elements",
+      "layman": "Consistent changes in lava chemistry"
     },
     {
-      "jargon": "magmatic evolution",
-      "layman": "Magma becoming more evolved"
+      "jargon": "magmas differentiated and became more evolved",
+      "layman": "Magma changed over time"
     },
     {
       "jargon": "50 wt.% crystallization",
-      "layman": "Half the lava turned into crystals"
+      "layman": "50% of lava turned into crystals"
     },
     {
-      "jargon": "60\u00b0C temperature range",
-      "layman": "Temperature change of 60 degrees"
+      "jargon": "upward change in composition",
+      "layman": "Lava changed as it rose"
     },
     {
-      "jargon": "S content decrease",
-      "layman": "Sulfur levels drop upward in lava"
+      "jargon": "S content decreases upward",
+      "layman": "Sulfur drops as lava rises"
     }
   ]
 }

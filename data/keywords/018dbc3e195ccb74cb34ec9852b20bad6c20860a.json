@@ -9,8 +9,8 @@
       "layman": "Knowledge about knowledge"
     },
     {
-      "jargon": "Entrenchment information",
-      "layman": "How strong or reliable information is"
+      "jargon": "Entrenchment",
+      "layman": "How strong a belief is"
     },
     {
       "jargon": "Default reasoning",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Monotone operator",
-      "layman": "Operator that doesn't reverse results"
+      "layman": "Steady growth in reasoning"
     }
   ],
   "methodologies": [
     {
       "jargon": "Nonmonotonic framework",
-      "layman": "System that allows beliefs to change"
-    },
-    {
-      "jargon": "Least fixed point",
-      "layman": "Smallest stable conclusion point"
+      "layman": "System that updates beliefs without always being strict"
     },
     {
       "jargon": "Logical language",
-      "layman": "Formal system for expressing logic"
+      "layman": "Formal way to write reasoning rules"
+    },
+    {
+      "jargon": "Least fixed point",
+      "layman": "Smallest stable conclusion set"
     },
     {
       "jargon": "Inference based on operator",
-      "layman": "Drawing conclusions using a rule"
+      "layman": "Drawing conclusions from a rule"
     },
     {
       "jargon": "Poole-style system",
-      "layman": "Framework based on Poole's reasoning model"
+      "layman": "System based on Poole's reasoning model"
     }
   ],
   "outcomes": [
     {
       "jargon": "Consistent set of conclusions",
-      "layman": "Clear and stable results"
+      "layman": "All conclusions fit together"
     },
     {
-      "jargon": "Reliability of information",
-      "layman": "How trustworthy the data is"
+      "jargon": "Reasoning about reliability",
+      "layman": "Judging how trustworthy info is"
     },
     {
-      "jargon": "Revision strategies",
-      "layman": "Plans for updating beliefs"
+      "jargon": "Declarative description",
+      "layman": "Stating strategies clearly"
     },
     {
-      "jargon": "Consistent theories",
-      "layman": "Theories that don't contradict themselves"
+      "jargon": "Theories with consistency",
+      "layman": "Beliefs that don't contradict each other"
     },
     {
-      "jargon": "Meta-knowledge-based reasoning",
-      "layman": "Reasoning using knowledge about knowledge"
+      "jargon": "Monotone operator ensures consistency",
+      "layman": "Safe reasoning that never worsens"
     }
   ]
 }

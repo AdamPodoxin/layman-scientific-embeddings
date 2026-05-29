@@ -14,25 +14,25 @@
     },
     {
       "jargon": "Hardware-software (HWSW) design",
-      "layman": "Hardware and software together"
+      "layman": "Combined hardware and software system"
     },
     {
       "jargon": "Processing tasks",
-      "layman": "Computing jobs"
+      "layman": "Computing tasks"
     }
   ],
   "methodologies": [
     {
       "jargon": "Task partitioning",
-      "layman": "Splitting work into parts"
+      "layman": "Splitting tasks among processors"
     },
     {
       "jargon": "Processor hierarchy",
-      "layman": "Level-based processor setup"
+      "layman": "Grouping processors by function"
     },
     {
       "jargon": "Communication hierarchy",
-      "layman": "Structured data sharing"
+      "layman": "Structured data sharing between processors"
     },
     {
       "jargon": "Memory hierarchy",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Performance density",
-      "layman": "Power and speed per space"
+      "layman": "Efficiency of performance per space and power"
     }
   ],
   "outcomes": [
     {
       "jargon": "Flexibility",
-      "layman": "Ability to adapt"
+      "layman": "Ability to adapt to different tasks"
     },
     {
       "jargon": "Extensibility",
-      "layman": "Can grow or add features"
+      "layman": "Easily add new features"
     },
     {
-      "jargon": "High performance density",
-      "layman": "Strong performance in small space"
+      "jargon": "HW-SW trade-offs",
+      "layman": "Balancing hardware and software choices"
     },
     {
       "jargon": "Memory-bandwidth efficiency",
-      "layman": "Efficient use of memory speed"
+      "layman": "Optimal use of memory speed"
     },
     {
-      "jargon": "Trade-off possibilities",
-      "layman": "Balancing different needs"
+      "jargon": "High performance density",
+      "layman": "Strong performance in small space and low power"
     }
   ]
 }

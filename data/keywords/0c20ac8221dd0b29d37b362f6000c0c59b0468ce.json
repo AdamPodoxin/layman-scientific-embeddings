@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Ni(+) ions",
-      "layman": "Nickel ions"
+      "jargon": "Ni(+) ion",
+      "layman": "Nickel ion"
     },
     {
       "jargon": "aminoacetonitrile",
-      "layman": "Precursor molecule to glycine"
+      "layman": "Precursor to glycine"
     },
     {
-      "jargon": "glycine",
-      "layman": "Simple amino acid"
+      "jargon": "adduct ions",
+      "layman": "Bound ion pairs"
     },
     {
-      "jargon": "cyclic intermediate",
-      "layman": "Ring-shaped reaction stage"
+      "jargon": "hydrogen cyanide (HCN)",
+      "layman": "Hydrogen cyanide"
     },
     {
-      "jargon": "potential energy surface",
-      "layman": "Energy landscape of a reaction"
+      "jargon": "adenine",
+      "layman": "Nitrogen base in DNA"
     }
   ],
   "methodologies": [
@@ -27,16 +27,16 @@
       "layman": "Measuring ion masses"
     },
     {
-      "jargon": "mass-analyzed ion kinetic energy (MIKE)",
-      "layman": "Ion speed measurement"
+      "jargon": "MIKE spectrum",
+      "layman": "Energy pattern from ions"
     },
     {
       "jargon": "density functional theory (DFT)",
-      "layman": "Theoretical modeling of molecules"
+      "layman": "Computer model for molecular behavior"
     },
     {
-      "jargon": "B3LYP/6-311G(d,p) level",
-      "layman": "Computer simulation method"
+      "jargon": "potential energy surface (PES)",
+      "layman": "Energy landscape of reactions"
     },
     {
       "jargon": "unimolecular reactivity",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "loss of H\u2082CNH",
-      "layman": "Release of hydrogen cyanide with hydrogen"
+      "layman": "Release of hydrogen isocyanide"
+    },
+    {
+      "jargon": "cyclic intermediate",
+      "layman": "Ring-shaped reaction stage"
     },
     {
       "jargon": "bond dissociation energy",
-      "layman": "Energy needed to break a bond"
-    },
-    {
-      "jargon": "dominant loss pathway",
-      "layman": "Main reaction route"
+      "layman": "Energy needed to break bond"
     }
   ]
 }

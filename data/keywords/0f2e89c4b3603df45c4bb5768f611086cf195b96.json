@@ -5,64 +5,64 @@
       "layman": "Two neutron stars orbiting each other"
     },
     {
-      "jargon": "Quasiequilibrium states",
-      "layman": "Nearly balanced, stable states"
+      "jargon": "Irrotational flow",
+      "layman": "Flow without spinning motion"
     },
     {
-      "jargon": "Irrotational flow",
-      "layman": "Flow without rotation"
+      "jargon": "Quasiequilibrium states",
+      "layman": "Close to balance but not fully still"
     },
     {
       "jargon": "Relativistic hydrostatic equations",
-      "layman": "Equations for stable star shapes in strong gravity"
+      "layman": "Equations for gravity and pressure in fast-moving stars"
     },
     {
       "jargon": "3+1 formalism",
-      "layman": "A way to split spacetime for computer simulations"
+      "layman": "Breaking space-time into time and space slices"
     }
   ],
   "methodologies": [
     {
       "jargon": "Relativistic hydrostatic equations",
-      "layman": "Equations for stable star shapes in strong gravity"
+      "layman": "Equations for star pressure and gravity"
     },
     {
       "jargon": "Numerical relativity",
-      "layman": "Simulating gravity with computers"
+      "layman": "Computing physics using computers"
     },
     {
-      "jargon": "Post-Newtonian order",
-      "layman": "Refined approximation for gravity"
+      "jargon": "First post-Newtonian order",
+      "layman": "Small corrections to Newton's gravity"
     },
     {
-      "jargon": "Derivation of equations",
-      "layman": "Creating new mathematical rules"
+      "jargon": "Derive equations",
+      "layman": "Create new mathematical rules"
     },
     {
-      "jargon": "Computation in quasiequilibrium",
-      "layman": "Calculating stable star pairs over time"
+      "jargon": "Hydrostatic equations",
+      "layman": "Equations for fluid balance in stars"
     }
   ],
   "outcomes": [
     {
       "jargon": "Simpler and more tractable form",
-      "layman": "Easier to compute and use"
+      "layman": "Easier to compute"
     },
     {
       "jargon": "Different from previous equations",
-      "layman": "New and distinct mathematical form"
+      "layman": "New and distinct methods"
     },
     {
-      "jargon": "Hydrostatic equilibrium",
-      "layman": "Stars stay stable without collapsing"
+      "jargon": "Equilibrium irrotational binary stars",
+      "layman": "Stable, non-spinning pairs of stars"
     },
     {
-      "jargon": "First post-Newtonian order",
-      "layman": "More accurate gravity model"
+      "jargon": "Computation in numerical relativity",
+      "layman": "Simulating star behavior on computers"
     },
     {
-      "jargon": "Tractable computation",
-      "layman": "Can be calculated on computers"
+      "jargon": "Post-Newtonian order",
+      "layman": "Refined version of gravity model"
     }
   ]
 }

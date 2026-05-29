@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "British painting",
-      "layman": "British painting"
+      "layman": "Paintings by British artists"
     },
     {
       "jargon": "Walter Sickert",
@@ -35,22 +35,26 @@
       "layman": "Planned and arranged"
     },
     {
-      "jargon": "Artistic representation",
-      "layman": "Artistic depiction"
+      "jargon": "Painting",
+      "layman": "Creating artwork with paint"
     },
     {
-      "jargon": "Painting",
-      "layman": "Painting"
+      "jargon": "Real-world reference",
+      "layman": "Based on real life"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Strong reference to the real world",
-      "layman": "Real-life inspiration"
+      "jargon": "Harsh realities",
+      "layman": "Hard truths"
     },
     {
-      "jargon": "Harsh realities",
-      "layman": "Difficult truths"
+      "jargon": "Strong reference to the real world",
+      "layman": "Shows real life"
+    },
+    {
+      "jargon": "Diverse subjects",
+      "layman": "Many different topics"
     },
     {
       "jargon": "Urban environment",
@@ -58,11 +62,7 @@
     },
     {
       "jargon": "Social issues",
-      "layman": "Community problems"
-    },
-    {
-      "jargon": "Painting as a simple act",
-      "layman": "Painting as a basic practice"
+      "layman": "Problems in society"
     }
   ]
 }

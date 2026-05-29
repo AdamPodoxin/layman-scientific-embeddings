@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Visual programming environments",
-      "layman": "Visual program builders"
+      "layman": "Visual programming environments"
     },
     {
       "jargon": "Forms/3",
-      "layman": "Visual spreadsheet language"
+      "layman": "Forms/3"
     },
     {
-      "jargon": "Checkbox devices",
+      "jargon": "Checkboxes",
       "layman": "Checkboxes"
     },
     {
       "jargon": "Coloring mechanisms",
-      "layman": "Color changes"
+      "layman": "Coloring mechanisms"
     }
   ],
   "methodologies": [
     {
       "jargon": "Visual testing methodology",
-      "layman": "Testing with visuals"
+      "layman": "Visual testing methodology"
     },
     {
       "jargon": "Scaling up",
-      "layman": "Expanding to larger systems"
+      "layman": "Scaling up"
     },
     {
       "jargon": "Integrated testing",
-      "layman": "Built-in testing"
+      "layman": "Integrated testing"
     },
     {
       "jargon": "User interaction via checkboxes",
-      "layman": "Using checkboxes to test"
+      "layman": "User interaction via checkboxes"
     },
     {
       "jargon": "Formalized notions of testing",
-      "layman": "Structured testing rules"
+      "layman": "Formalized notions of testing"
     }
   ],
   "outcomes": [
     {
-      "jargon": "End-user benefits",
-      "layman": "Better for regular users"
+      "jargon": "End-user testing benefits",
+      "layman": "End-user testing benefits"
     },
     {
-      "jargon": "Testing correctness",
-      "layman": "Checking if program works"
+      "jargon": "Improved program understanding",
+      "layman": "Improved program understanding"
     },
     {
-      "jargon": "Naive level of testing",
-      "layman": "Simple testing"
+      "jargon": "Correct program validation",
+      "layman": "Correct program validation"
     },
     {
-      "jargon": "Program validation",
-      "layman": "Confirming program is correct"
+      "jargon": "Naive level of testing knowledge",
+      "layman": "Naive level of testing knowledge"
     },
     {
-      "jargon": "Improved understanding",
-      "layman": "Easier to understand programs"
+      "jargon": "Testing as primary device",
+      "layman": "Testing as primary device"
     }
   ]
 }

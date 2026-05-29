@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Intolerance of ambiguity",
-      "layman": "Difficulty with uncertainty"
+      "layman": "Hating uncertainty"
     },
     {
       "jargon": "Religious participation",
-      "layman": "Engagement in religious activities"
+      "layman": "Engaging in religious activities"
     }
   ],
   "methodologies": [
@@ -27,21 +27,12 @@
       "layman": "Growth-based view of faith"
     },
     {
-      "jargon": "Scale construction",
-      "layman": "Building a measurement tool"
-    },
-    {
       "jargon": "Reliability testing",
-      "layman": "Checking consistency of results"
+      "layman": "Checking consistency"
     },
-    {
-      "jargon": "Correlation analysis",
-      "layman": "Measuring relationships between traits"
-    },
-    {
-      "jargon": "Unidimensional measure",
-      "layman": "Single-factor measurement"
-    }
+    "unidimensional measure",
+    "construct validation",
+    "correlational analysis"
   ],
   "outcomes": [
     {
@@ -54,7 +45,7 @@
     },
     {
       "jargon": "Moderately related",
-      "layman": "Fairly connected"
+      "layman": "Slightly connected"
     },
     {
       "jargon": "Positively correlated",
@@ -62,7 +53,7 @@
     },
     {
       "jargon": "Strongest indicator of adaptive spiritual functioning",
-      "layman": "Best predictor of healthy spiritual life"
+      "layman": "Best sign of healthy spiritual behavior"
     }
   ]
 }

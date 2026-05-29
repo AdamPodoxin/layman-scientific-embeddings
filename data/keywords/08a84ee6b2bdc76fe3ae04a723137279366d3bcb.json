@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Governmentality",
-      "layman": "Way of governing through rules and practices"
+      "layman": "Way of governing through behavior"
     },
     {
       "jargon": "Pedagogical practices",
-      "layman": "Teaching methods and behaviors"
+      "layman": "Teaching methods"
+    },
+    {
+      "jargon": "Modality of government",
+      "layman": "Form of control in society"
     },
     {
       "jargon": "Modernities",
-      "layman": "Modern ways of living and organizing society"
+      "layman": "Current ways of living today"
     },
     {
       "jargon": "Self-governance",
-      "layman": "People managing themselves"
-    },
-    {
-      "jargon": "Foucault",
-      "layman": "Philosopher who studied power and education"
+      "layman": "People managing their own lives"
     }
   ],
   "methodologies": [
     {
       "jargon": "Genealogical work",
-      "layman": "Tracing how ideas evolve over time"
+      "layman": "Tracing history of ideas"
     },
     {
       "jargon": "Archaeological work",
-      "layman": "Examining historical roots of ideas"
+      "layman": "Examining past practices"
+    },
+    {
+      "jargon": "Last lectures at College de France",
+      "layman": "Final teaching at French college"
     },
     {
       "jargon": "Analysis of conduct practices",
-      "layman": "Studying how people behave in daily life"
+      "layman": "Looking at how people act"
     },
     {
-      "jargon": "Case studies",
-      "layman": "Detailed examples from real situations"
-    },
-    {
-      "jargon": "Historical interpretation",
-      "layman": "Understanding past events through context"
+      "jargon": "Examples from previous research",
+      "layman": "Real-life cases from past studies"
     }
   ],
   "outcomes": [
     {
       "jargon": "Centrality of pedagogical practices",
-      "layman": "Teaching methods are central to control"
+      "layman": "Teaching is central to control"
     },
     {
       "jargon": "Privileged conduct practices",
-      "layman": "Key ways people follow rules"
+      "layman": "Key ways of shaping behavior"
     },
     {
       "jargon": "Government of life",
-      "layman": "How society manages daily lives"
+      "layman": "Control over daily living"
     },
     {
       "jargon": "Contemporary forms of government",
-      "layman": "Modern ways of running society"
+      "layman": "Modern ways of governing"
     },
     {
-      "jargon": "Educational issues in Foucault",
-      "layman": "Teaching is hidden in his theory"
+      "jargon": "Foucault's unawareness",
+      "layman": "Foucault didn't know about this link"
     }
   ]
 }

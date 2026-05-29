@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Design decisions",
-      "layman": "Choice of design"
+      "layman": "Design choices"
     },
     {
       "jargon": "Maintenance",
-      "layman": "Future updates"
+      "layman": "Fixing software later"
     },
     {
       "jargon": "Reasoning",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Architects",
-      "layman": "Design experts"
+      "layman": "Software designers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Capturing reasoning",
-      "layman": "Recording thoughts"
+      "layman": "Recording thinking"
     },
     {
-      "jargon": "Supporting methodology",
-      "layman": "Helping with process"
-    },
-    {
-      "jargon": "Design consideration",
-      "layman": "Careful planning"
-    },
-    {
-      "jargon": "Recording decisions",
+      "jargon": "Recording design decisions",
       "layman": "Writing down choices"
     },
     {
-      "jargon": "Future maintenance",
-      "layman": "Long-term fixes"
+      "jargon": "Supporting future maintenance",
+      "layman": "Helping future fixes"
+    },
+    {
+      "jargon": "Improved methodology support",
+      "layman": "Better tools for design"
+    },
+    {
+      "jargon": "Encouraging careful consideration",
+      "layman": "Prompting thoughtful choices"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Improved methodology support",
-      "layman": "Better design tools"
+      "jargon": "Better design decisions",
+      "layman": "Wiser choices"
     },
     {
-      "jargon": "Careful design decisions",
-      "layman": "Thoughtful choices"
+      "jargon": "Improved software maintainability",
+      "layman": "Easier to fix later"
     },
     {
-      "jargon": "Better future maintenance",
-      "layman": "Easier to update later"
+      "jargon": "Encouraged design reflection",
+      "layman": "More thoughtful planning"
     },
     {
-      "jargon": "Encouraged reflection",
-      "layman": "More thoughtful thinking"
+      "jargon": "Support for long-term use",
+      "layman": "Longer-lasting software"
     },
     {
-      "jargon": "Design transparency",
-      "layman": "Clear design records"
+      "jargon": "Clearer design rationale",
+      "layman": "Clear reasons for choices"
     }
   ]
 }

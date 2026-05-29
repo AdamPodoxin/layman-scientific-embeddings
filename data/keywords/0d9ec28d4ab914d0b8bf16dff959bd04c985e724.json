@@ -2,29 +2,29 @@
   "core_entities": [
     {
       "jargon": "Complex Lagrangian",
-      "layman": "Special energy formula with imaginary numbers"
+      "layman": "Special mathematical rule for a field"
     },
     {
       "jargon": "Scalar field",
-      "layman": "Simple field filling space"
+      "layman": "Simple field that has a value at every point"
     },
     {
       "jargon": "Dark energy",
-      "layman": "Mysterious force speeding up universe expansion"
+      "layman": "Mysterious force driving universe's expansion"
     },
     {
       "jargon": "Phantom energy",
-      "layman": "Even stronger force than dark energy"
+      "layman": "Even more mysterious force than dark energy"
     },
     {
       "jargon": "PT symmetry",
-      "layman": "Symmetry between particles and their mirror images"
+      "layman": "Balance between symmetry and time reversal"
     }
   ],
   "methodologies": [
     {
       "jargon": "Generalization of quantum theory",
-      "layman": "Extending physics rules to new cases"
+      "layman": "Extending theory to new cases"
     },
     {
       "jargon": "Classical cosmological model",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Symmetry properties",
-      "layman": "Balanced physical rules under change"
+      "layman": "Balanced physical rules"
     },
     {
       "jargon": "Equations of motion",
-      "layman": "Rules describing how things move"
+      "layman": "Rules that describe how things move"
     },
     {
-      "jargon": "Non-Hermitian Hamiltonians",
-      "layman": "Energy formulas that don't follow normal rules"
+      "jargon": "Smooth transition",
+      "layman": "Gradual change over time"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Gradual change over time"
     },
     {
-      "jargon": "Purely real equations",
-      "layman": "Simple, real-number results from complex math"
+      "jargon": "Purely real equations of motion",
+      "layman": "Simple, predictable movement rules"
     },
     {
-      "jargon": "Ordinary dark energy",
-      "layman": "Normal dark energy slowing expansion"
+      "jargon": "Non-Hermitian Hamiltonians",
+      "layman": "Unusual energy rules in physics"
     },
     {
-      "jargon": "Phantom dark energy",
-      "layman": "Dark energy speeding up expansion"
+      "jargon": "Phantom cosmology",
+      "layman": "Cosmology with phantom energy"
     },
     {
-      "jargon": "Smooth transition from ordinary to phantom",
-      "layman": "Gradual shift from normal to extreme energy"
+      "jargon": "PT symmetry in classical systems",
+      "layman": "Symmetry found in classical physics too"
     }
   ]
 }

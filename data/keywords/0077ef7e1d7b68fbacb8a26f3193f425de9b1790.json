@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Social enterprises",
+      "layman": "Organisations that aim to solve social problems"
+    },
+    {
+      "jargon": "Governance structures",
+      "layman": "Rules for how organisations are run"
+    },
+    {
+      "jargon": "Stakeholders",
+      "layman": "People affected by or involved in an organisation"
+    },
+    {
+      "jargon": "Democracy",
+      "layman": "Decision-making by majority vote"
+    },
+    {
+      "jargon": "Stewardship models",
+      "layman": "Leadership focused on long-term care and responsibility"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Critical analysis",
+      "layman": "Careful evaluation of arguments and results"
+    },
+    {
+      "jargon": "Doctoral investigation",
+      "layman": "In-depth research by a PhD student"
+    },
+    {
+      "jargon": "Strategic decision making",
+      "layman": "Key choices affecting long-term success"
+    },
+    {
+      "jargon": "Engagement with stakeholders",
+      "layman": "Actively involving people in decisions"
+    },
+    {
+      "jargon": "Model comparison",
+      "layman": "Looking at different types of systems to see what works"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Paradigm shift",
+      "layman": "Major change in how something is understood"
+    },
+    {
+      "jargon": "Operational efficiency",
+      "layman": "How well an organisation runs daily tasks"
+    },
+    {
+      "jargon": "Financial sustainability",
+      "layman": "Ability to stay in business over time"
+    },
+    {
+      "jargon": "Gaps in understanding",
+      "layman": "Missing knowledge about a topic"
+    },
+    {
+      "jargon": "Lack of academic scrutiny",
+      "layman": "Insufficient professional study or research"
+    }
+  ]
+}

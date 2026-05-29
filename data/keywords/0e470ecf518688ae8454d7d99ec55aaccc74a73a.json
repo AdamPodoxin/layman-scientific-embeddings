@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Brown-Comenetz duality",
-      "layman": "Duality in homotopy theory"
+      "layman": "Duality in homotopy theory involving dual objects"
     },
     {
       "jargon": "Spanier-Whitehead duality",
-      "layman": "Duality in homotopy theory"
+      "layman": "Duality in homotopy theory involving dual objects"
     },
     {
       "jargon": "K(n)-local stable homotopy category",
-      "layman": "Special category of mathematical objects in topology"
+      "layman": "A special category of mathematical objects in topology"
     },
     {
       "jargon": "Homotopy category",
-      "layman": "Space of shapes and transformations"
+      "layman": "Mathematical space of shapes and transformations"
     },
     {
       "jargon": "Stable homotopy",
-      "layman": "Stable shapes in topology"
+      "layman": "Behavior of shapes under scaling and deformation"
     }
   ],
   "methodologies": [
     {
+      "jargon": "Proof",
+      "layman": "Logical argument showing something is true"
+    },
+    {
       "jargon": "New and simpler proof",
-      "layman": "Easier mathematical proof"
+      "layman": "Easier way of proving something"
     },
     {
       "jargon": "Relating",
-      "layman": "Connecting two ideas"
+      "layman": "Connecting two different ideas"
     },
     {
       "jargon": "Duality",
-      "layman": "Symmetrical relationship between two concepts"
-    },
-    {
-      "jargon": "Proof",
-      "layman": "Mathematical argument showing something is true"
+      "layman": "Pairing two related concepts"
     },
     {
       "jargon": "K(n)-localization",
-      "layman": "Focusing on specific mathematical features"
+      "layman": "Filtering to focus on specific mathematical features"
     }
   ],
   "outcomes": [
     {
       "jargon": "Result of Hopkins and Gross",
-      "layman": "Previously known mathematical result"
+      "layman": "A mathematical finding by two researchers"
+    },
+    {
+      "jargon": "Gross-Hopkins duality",
+      "layman": "A new dual relationship in topology"
     },
     {
       "jargon": "Relating duality",
-      "layman": "Connecting two types of duality"
+      "layman": "Connecting two types of mathematical duality"
     },
     {
       "jargon": "New proof",
-      "layman": "Better explanation of a known fact"
+      "layman": "Fresh and clearer explanation"
     },
     {
       "jargon": "Simpler proof",
-      "layman": "Easier to understand explanation"
-    },
-    {
-      "jargon": "Mathematical relationship",
-      "layman": "Link between two abstract ideas"
+      "layman": "Easier to understand and follow argument"
     }
   ]
 }

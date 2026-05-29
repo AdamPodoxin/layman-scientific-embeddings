@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Cognitive impairment",
-      "layman": "Memory problems"
+      "layman": "Memory or thinking problems"
     },
     {
-      "jargon": "Mini Mental Examination Test (MMSE)",
-      "layman": "Memory test score"
+      "jargon": "Mini Mental Examination (MMSE)",
+      "layman": "Memory test"
     },
     {
       "jargon": "Cardiomyopathies",
@@ -23,8 +23,8 @@
   ],
   "methodologies": [
     {
-      "jargon": "Mini mental examination test",
-      "layman": "Memory test"
+      "jargon": "Mini Mental Examination test",
+      "layman": "Memory test given at start and end"
     },
     {
       "jargon": "Biochemical analyses",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Ultrasound examination",
-      "layman": "Sound wave scan"
+      "layman": "Sound wave scan of organs"
     },
     {
       "jargon": "X-ray examination",
-      "layman": "X-ray scan"
+      "layman": "Radiograph of lungs and heart"
     },
     {
       "jargon": "Hormone testing",
-      "layman": "Check hormone levels"
+      "layman": "Measuring body chemicals"
     }
   ],
   "outcomes": [
     {
       "jargon": "Significant correlation",
-      "layman": "Strong connection"
+      "layman": "Strong link between two things"
     },
     {
-      "jargon": "MMSE score increased",
-      "layman": "Memory improved"
+      "jargon": "MMSE score increase",
+      "layman": "Better memory test result"
     },
     {
       "jargon": "Statistical significance",
-      "layman": "Result is reliable"
+      "layman": "Result is not due to chance"
     },
     {
-      "jargon": "Cognitive recovery",
-      "layman": "Better thinking"
+      "jargon": "No change in MMSE score",
+      "layman": "No improvement in memory"
     },
     {
-      "jargon": "No change in MMSE",
-      "layman": "No memory improvement"
+      "jargon": "Successful treatment outcomes",
+      "layman": "Disease improved"
     }
   ]
 }

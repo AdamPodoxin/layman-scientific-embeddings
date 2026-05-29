@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "S(IV)",
-      "layman": "Sulfur in +4 state"
+      "layman": "Sulfur in +4 oxidation state"
     },
     {
       "jargon": "N(III) oxoacids",
-      "layman": "Nitrogen-based acids with N in +3 state"
+      "layman": "Nitrogen compounds with +3 oxidation state"
     },
     {
       "jargon": "Hydroxylaminedisulphonate",
-      "layman": "Sulfur-nitrogen compound formed"
+      "layman": "Sulfur-nitrogen compound formed in reaction"
     },
     {
       "jargon": "Metal ions",
-      "layman": "Dissolved metal atoms"
+      "layman": "Ions like iron or manganese in solution"
     },
     {
       "jargon": "HONO",
@@ -24,11 +24,11 @@
   "methodologies": [
     {
       "jargon": "Ion-pair chromatography",
-      "layman": "Separates chemical compounds by charge"
+      "layman": "Separates chemical compounds in solution"
     },
     {
       "jargon": "Stopped-flow spectroscopy",
-      "layman": "Speeds up chemical reaction observation"
+      "layman": "Measures fast chemical reactions"
     },
     {
       "jargon": "Conventional spectroscopy",
@@ -36,7 +36,7 @@
     },
     {
       "jargon": "Empirical rate law",
-      "layman": "Rule based on experimental data"
+      "layman": "Rule based on experimental reaction speed"
     },
     {
       "jargon": "Boedeker reaction",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Product identification",
-      "layman": "Finding what chemicals are formed"
+      "layman": "Finding what chemicals are produced"
     },
     {
-      "jargon": "Sulfur-nitrogen oxides",
-      "layman": "New compounds with sulfur and nitrogen"
+      "jargon": "Product distribution",
+      "layman": "How much of each product is formed"
     },
     {
       "jargon": "Catalytic effect",
-      "layman": "Reaction speed increases with a catalyst"
+      "layman": "Reaction speed increases with iron"
     },
     {
       "jargon": "Reaction rate",
       "layman": "How fast the reaction happens"
     },
     {
-      "jargon": "pH range 3.5\u20135.2",
-      "layman": "Acidic conditions studied"
+      "jargon": "Main reactive species",
+      "layman": "Key chemicals driving the reaction"
     }
   ]
 }

@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Merged business establishments",
-      "layman": "Businesses that have combined with others"
+      "layman": "Combined businesses"
     },
     {
       "jargon": "Non-merged business establishments",
-      "layman": "Businesses that remain separate"
+      "layman": "Separate businesses"
     },
     {
       "jargon": "Private business establishments",
-      "layman": "Private companies operating independently"
+      "layman": "Private companies"
     },
     {
       "jargon": "Manufacturing businesses",
-      "layman": "Businesses that produce goods"
+      "layman": "Factories producing goods"
     },
     {
       "jargon": "Service businesses",
-      "layman": "Businesses that provide services"
+      "layman": "Businesses providing services"
     }
   ],
   "methodologies": [
     {
       "jargon": "Workplace Industrial Relations Survey",
-      "layman": "Survey of workplace relationships"
+      "layman": "Employee relations survey"
     },
     {
       "jargon": "Structural characteristics analysis",
-      "layman": "Study of business structure"
+      "layman": "Studying business structure"
     },
     {
       "jargon": "Market condition assessment",
-      "layman": "Evaluation of market environment"
+      "layman": "Checking market competition"
     },
     {
       "jargon": "Organizational features analysis",
-      "layman": "Study of business operations"
+      "layman": "Looking at company structure"
     },
     {
       "jargon": "Strategic behaviour evaluation",
-      "layman": "Analysis of business strategies"
+      "layman": "Examining business strategies"
     }
   ],
   "outcomes": [
@@ -50,31 +50,35 @@
     },
     {
       "jargon": "Small to medium size",
-      "layman": "Medium-sized companies"
+      "layman": "Mid-sized companies"
     },
     {
-      "jargon": "International market presence",
+      "jargon": "Conglomerate businesses",
+      "layman": "Large groups of different companies"
+    },
+    {
+      "jargon": "International market involvement",
       "layman": "Operating globally"
     },
     {
       "jargon": "Oligopolistic markets",
-      "layman": "Few large competitors dominate"
+      "layman": "Few major competitors"
     },
     {
-      "jargon": "Competitive operating conditions",
-      "layman": "Facing competition like others"
+      "jargon": "Competitive conditions",
+      "layman": "Facing competition"
     },
     {
       "jargon": "Restructuring strategies",
-      "layman": "Major business changes"
+      "layman": "Company reorganizing"
     },
     {
       "jargon": "Job cuts",
-      "layman": "Layoffs"
+      "layman": "Reducing staff"
     },
     {
       "jargon": "Productivity gains",
-      "layman": "Improved efficiency"
+      "layman": "Increased efficiency"
     },
     {
       "jargon": "Below-average financial performance",

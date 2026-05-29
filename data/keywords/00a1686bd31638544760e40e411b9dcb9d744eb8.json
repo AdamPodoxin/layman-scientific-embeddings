@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Command economy",
-      "layman": "Government-controlled economy"
+      "layman": "Government controls all production and prices"
     },
     {
       "jargon": "Market socialism",
-      "layman": "Economy with market rules but state control"
+      "layman": "Economy with markets but state control"
     },
     {
       "jargon": "Price reforms",
-      "layman": "Changing prices for goods and services"
+      "layman": "Changing prices to match market demand"
     },
     {
       "jargon": "Profit motivation",
-      "layman": "Encouraging people to earn money through work"
+      "layman": "Encouraging people to work for profit"
     },
     {
       "jargon": "Material incentives",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Conceptual framework",
-      "layman": "Model to organize ideas"
+      "layman": "Model to understand complex ideas"
     },
     {
       "jargon": "Empirical indicators",
-      "layman": "Measurable data to test claims"
+      "layman": "Measurable data to track changes"
     },
     {
       "jargon": "Economic restructuring",
       "layman": "Major changes to how an economy works"
     },
     {
-      "jargon": "Critical examination",
-      "layman": "Careful analysis and review"
+      "jargon": "Policy evaluation",
+      "layman": "Assessing how well a policy works"
     },
     {
-      "jargon": "Trend analysis",
-      "layman": "Looking at patterns over time"
+      "jargon": "Comparative analysis",
+      "layman": "Comparing similar systems to learn lessons"
     }
   ],
   "outcomes": [
     {
       "jargon": "Economic transformation",
-      "layman": "Change in how the economy functions"
+      "layman": "Major change in economic system"
     },
     {
-      "jargon": "Direction of reforms",
-      "layman": "Where reforms are heading"
-    },
-    {
-      "jargon": "Limitations of reforms",
-      "layman": "What reforms cannot achieve"
-    },
-    {
-      "jargon": "Movement toward market socialism",
+      "jargon": "Movement towards market socialism",
       "layman": "Shifting toward market-based economy"
     },
     {
+      "jargon": "Limited reforms",
+      "layman": "Small changes with few real impacts"
+    },
+    {
       "jargon": "Disagreement among scholars",
-      "layman": "Experts don't agree on conclusions"
+      "layman": "Experts have different opinions"
+    },
+    {
+      "jargon": "Open-door policy",
+      "layman": "Allowing limited openness to outside trade"
     }
   ]
 }

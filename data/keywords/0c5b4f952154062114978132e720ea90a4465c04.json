@@ -5,64 +5,64 @@
       "layman": "Government borrowing"
     },
     {
-      "jargon": "Market structure",
-      "layman": "How markets are organized"
+      "jargon": "Capital markets",
+      "layman": "Places where money is traded"
+    },
+    {
+      "jargon": "Borrowing costs",
+      "layman": "Interest rate paid to borrow money"
+    },
+    {
+      "jargon": "Financial intermediaries",
+      "layman": "Banks or firms that connect lenders and borrowers"
     },
     {
       "jargon": "Relationship banking",
-      "layman": "Bank-govt relationships"
-    },
-    {
-      "jargon": "Capital exports",
-      "layman": "Money sent abroad"
-    },
-    {
-      "jargon": "Baring crisis",
-      "layman": "1890 banking collapse"
+      "layman": "Banking based on long-term personal relationships"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Economic fundamentals",
-      "layman": "Basic economic factors"
-    },
-    {
-      "jargon": "Dynamic risk premia",
-      "layman": "Changing risk costs over time"
+      "jargon": "Dynamic time effects",
+      "layman": "Changing over time"
     },
     {
       "jargon": "Historical analysis",
       "layman": "Looking at past events"
     },
     {
-      "jargon": "Financial intermediaries",
-      "layman": "Banks and financial firms"
+      "jargon": "Economic fundamentals",
+      "layman": "Basic economic conditions"
     },
     {
-      "jargon": "Borrowing costs",
-      "layman": "Interest rates on loans"
+      "jargon": "Risk premia",
+      "layman": "Extra risk added to interest rates"
+    },
+    {
+      "jargon": "Crisis explanation",
+      "layman": "Understanding why a financial crisis happened"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Risk premia",
-      "layman": "Extra interest for risk"
+      "jargon": "Baring crisis",
+      "layman": "1890 financial crisis in London"
     },
     {
-      "jargon": "Market failure",
-      "layman": "Market not working well"
+      "jargon": "Market structures",
+      "layman": "How markets are organized"
     },
     {
-      "jargon": "Capital market effects",
-      "layman": "How markets influence money flow"
-    },
-    {
-      "jargon": "Time-varying effects",
+      "jargon": "Dynamic effects",
       "layman": "Effects that change over time"
     },
     {
-      "jargon": "New explanation",
-      "layman": "New understanding of events"
+      "jargon": "Irrelevance of fundamentals",
+      "layman": "Basic economics don't always matter"
+    },
+    {
+      "jargon": "Risk transmission",
+      "layman": "How risk spreads through the system"
     }
   ]
 }

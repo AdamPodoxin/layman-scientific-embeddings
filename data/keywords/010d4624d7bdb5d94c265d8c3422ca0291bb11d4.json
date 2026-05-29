@@ -13,56 +13,56 @@
       "layman": "Abilities"
     },
     {
-      "jargon": "Long-term contracts",
-      "layman": "Long-term job agreements"
+      "jargon": "Wages",
+      "layman": "Salaries"
     },
     {
       "jargon": "Mobility costs",
-      "layman": "Job switching costs"
+      "layman": "Switching job costs"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Equilibrium assignment",
-      "layman": "Balanced worker-firm matching"
+      "jargon": "Long-term contracts",
+      "layman": "Extended job agreements"
     },
     {
       "jargon": "Social preferences",
-      "layman": "People's desire to help others"
+      "layman": "Like others' well-being"
     },
     {
-      "jargon": "Perfectly substitutable skills",
-      "layman": "Skills that can replace each other"
+      "jargon": "Skill substitution",
+      "layman": "Skills can be swapped"
     },
     {
-      "jargon": "Wage dynamics",
-      "layman": "How wages change over time"
+      "jargon": "Equilibrium assignment",
+      "layman": "Balanced job matching"
     },
     {
       "jargon": "Labor market frictions",
-      "layman": "Barriers to job changes"
+      "layman": "Job market barriers"
     }
   ],
   "outcomes": [
     {
       "jargon": "Within-firm wage dispersion",
-      "layman": "Wage differences inside one company"
+      "layman": "Wage differences inside companies"
     },
     {
       "jargon": "Skill segregation",
-      "layman": "Workers grouped by skill level"
+      "layman": "Workers grouped by ability"
+    },
+    {
+      "jargon": "Wage volatility",
+      "layman": "Wage swings over time"
     },
     {
       "jargon": "Gradual promotions",
-      "layman": "Slow career advances"
+      "layman": "Slow job advances"
     },
     {
       "jargon": "Productivity-unrelated wage increases",
-      "layman": "Wage raises not based on performance"
-    },
-    {
-      "jargon": "Downward wage flexibility",
-      "layman": "Ability to reduce wages when needed"
+      "layman": "Wages go up without better performance"
     }
   ]
 }

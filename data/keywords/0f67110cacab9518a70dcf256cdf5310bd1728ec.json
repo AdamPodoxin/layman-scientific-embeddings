@@ -24,19 +24,19 @@
   "methodologies": [
     {
       "jargon": "ICTs implementation",
-      "layman": "Using digital tools in services"
+      "layman": "Using technology in justice"
     },
     {
       "jargon": "Service delivery",
-      "layman": "Providing services to people"
+      "layman": "Providing justice services"
     },
     {
-      "jargon": "Communication, cooperation and coordination",
-      "layman": "Working together across departments"
+      "jargon": "Coordination between institutions",
+      "layman": "Working together between agencies"
     },
     {
-      "jargon": "Governance reform",
-      "layman": "Improving government systems"
+      "jargon": "Government reforms",
+      "layman": "Policy changes by government"
     },
     {
       "jargon": "Framework development",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Improved service delivery",
-      "layman": "Better services for citizens"
+      "layman": "Better justice services"
     },
     {
       "jargon": "Enhanced collaboration",
-      "layman": "Better teamwork between agencies"
+      "layman": "Better teamwork among justice players"
+    },
+    {
+      "jargon": "Effective governance",
+      "layman": "Efficient government leadership"
     },
     {
       "jargon": "National scale implementation",
-      "layman": "Rolling out across the country"
+      "layman": "Used nationwide"
     },
     {
       "jargon": "Generic framework",
       "layman": "A reusable model for other countries"
-    },
-    {
-      "jargon": "Performance improvement",
-      "layman": "More efficient justice system"
     }
   ]
 }

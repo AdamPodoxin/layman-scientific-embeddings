@@ -1,12 +1,8 @@
 {
   "core_entities": [
     {
-      "jargon": "Political asylum",
-      "layman": "Legal protection for refugees"
-    },
-    {
-      "jargon": "Graphic satire",
-      "layman": "Cartoons that criticize politics"
+      "jargon": "Political satire",
+      "layman": "Humorous criticism of politics"
     },
     {
       "jargon": "Political cartoonist",
@@ -19,50 +15,54 @@
     {
       "jargon": "Biographical notes",
       "layman": "Life story details"
+    },
+    {
+      "jargon": "Graphic art",
+      "layman": "Visual illustrations"
     }
   ],
   "methodologies": [
     {
       "jargon": "Historical analysis",
-      "layman": "Looking at past events"
+      "layman": "Examining past events"
     },
     {
-      "jargon": "Artistic interpretation",
-      "layman": "Reading cartoons for meaning"
+      "jargon": "Biographical research",
+      "layman": "Researching a person's life"
     },
     {
       "jargon": "Circa 19",
       "layman": "Around 19"
     },
     {
-      "jargon": "Bibliographic references",
-      "layman": "Sources cited in the text"
+      "jargon": "Editorial cartoons",
+      "layman": "Cartoons in newspapers for commentary"
     },
     {
-      "jargon": "Life and work",
-      "layman": "How someone lived and created art"
+      "jargon": "Literary references",
+      "layman": "Cited sources in the work"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Political satire history",
-      "layman": "History of political jokes"
+      "jargon": "Life and work",
+      "layman": "Person's career and achievements"
     },
     {
-      "jargon": "Cartoonist biography",
-      "layman": "Life story of a cartoonist"
+      "jargon": "Biographical notes",
+      "layman": "Life story details"
+    },
+    {
+      "jargon": "Circa 19",
+      "layman": "Around 19"
     },
     {
       "jargon": "Editorial cartoons",
-      "layman": "News cartoons"
+      "layman": "Cartoons in newspapers for commentary"
     },
     {
-      "jargon": "Circa 19 bibl. ref.",
-      "layman": "References from around 19"
-    },
-    {
-      "jargon": "Satirical commentary",
-      "layman": "Jokes about politics"
+      "jargon": "Historical context",
+      "layman": "Background of the time period"
     }
   ]
 }

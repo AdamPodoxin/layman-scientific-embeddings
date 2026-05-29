@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Low-power devices",
-      "layman": "Energy-saving electronic devices"
+      "layman": "Devices that use little energy"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Routing requirements",
-      "layman": "Rules for how data moves in the network"
+      "jargon": "Routing protocols",
+      "layman": "Rules for sending data through a network"
     },
     {
       "jargon": "Layer-agnostic guidelines",
       "layman": "Design rules that work across network layers"
     },
     {
-      "jargon": "Protocol design",
-      "layman": "Creating network communication rules"
-    },
-    {
       "jargon": "Network formation",
-      "layman": "Setting up the network structure"
+      "layman": "How the network is built and connected"
     },
     {
-      "jargon": "Topologies maintenance",
+      "jargon": "Topology maintenance",
       "layman": "Keeping the network structure stable"
+    },
+    {
+      "jargon": "Protocol design",
+      "layman": "Creating new network rules"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Low-power characteristics",
-      "layman": "Devices use very little energy"
+      "jargon": "Routing requirements",
+      "layman": "What is needed for data delivery"
     },
     {
-      "jargon": "Link characteristics",
-      "layman": "Properties of device connections"
+      "jargon": "Network characteristics",
+      "layman": "Key features of the network"
+    },
+    {
+      "jargon": "Device compatibility",
+      "layman": "Devices working together"
     },
     {
       "jargon": "Design space",
-      "layman": "Possible options for network design"
+      "layman": "Range of possible network solutions"
     },
     {
-      "jargon": "General guidelines",
-      "layman": "Broad recommendations for routing"
-    },
-    {
-      "jargon": "Further analysis",
-      "layman": "More in-depth study needed"
+      "jargon": "Layer-agnostic",
+      "layman": "Works across different technical layers"
     }
   ]
 }

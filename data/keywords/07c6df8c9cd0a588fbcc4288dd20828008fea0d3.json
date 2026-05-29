@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Politics",
-      "layman": "Government and power"
+      "layman": "Government and state systems"
     },
     {
       "jargon": "Law",
-      "layman": "Rules of society"
+      "layman": "Rules and regulations"
     },
     {
       "jargon": "State",
-      "layman": "Government system"
+      "layman": "Government or nation"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Careful examination"
     },
     {
-      "jargon": "Interpretation",
-      "layman": "Understanding meaning"
+      "jargon": "Interdisciplinary dialogue",
+      "layman": "Multiple fields discussing together"
     },
     {
-      "jargon": "Philosophical exploration",
-      "layman": "Deep thinking about ideas"
+      "jargon": "Philosophical interpretation",
+      "layman": "Explaining ideas through reasoning"
     },
     {
-      "jargon": "Scholarly engagement",
-      "layman": "Academic discussion"
+      "jargon": "Scholarly exploration",
+      "layman": "In-depth study by experts"
     },
     {
-      "jargon": "International perspectives",
-      "layman": "Global viewpoints"
+      "jargon": "Analytical essay",
+      "layman": "Written breakdown of an idea"
     }
   ],
   "outcomes": [
     {
       "jargon": "Key contributions",
-      "layman": "Main ideas"
+      "layman": "Major ideas shared"
     },
     {
-      "jargon": "Analytical exploration",
-      "layman": "In-depth study"
+      "jargon": "Conceptual development",
+      "layman": "New ideas formed"
     },
     {
-      "jargon": "Philosophical insights",
-      "layman": "Deep understanding"
+      "jargon": "Philosophical synthesis",
+      "layman": "Big picture understanding"
     },
     {
       "jargon": "Theoretical framework",
-      "layman": "Big idea structure"
+      "layman": "Structured set of beliefs"
     },
     {
-      "jargon": "Interdisciplinary dialogue",
-      "layman": "Cross-field discussion"
+      "jargon": "Interpretive depth",
+      "layman": "Deeper understanding of meaning"
     }
   ]
 }

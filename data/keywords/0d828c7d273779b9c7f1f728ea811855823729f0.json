@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Estuaries",
+      "layman": "Mixing zones of river and sea"
+    },
+    {
+      "jargon": "Coastal systems",
+      "layman": "Beaches and shorelines"
+    },
+    {
+      "jargon": "Land claim",
+      "layman": "Land ownership rights"
+    },
+    {
+      "jargon": "Coastal defence",
+      "layman": "Shore protection measures"
+    },
+    {
+      "jargon": "Industrial use",
+      "layman": "Factories along coasts"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Coastal management frameworks",
+      "layman": "Rules for managing coasts"
+    },
+    {
+      "jargon": "Physical regime",
+      "layman": "Natural forces shaping coasts"
+    },
+    {
+      "jargon": "Coastal development",
+      "layman": "Building new structures near shore"
+    },
+    {
+      "jargon": "Tourism development",
+      "layman": "Setting up tourist activities by shore"
+    },
+    {
+      "jargon": "Indirect impacts",
+      "layman": "Side effects of development"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Land claim",
+      "layman": "Land ownership claims"
+    },
+    {
+      "jargon": "Coastal defence",
+      "layman": "Damage prevention at shorelines"
+    },
+    {
+      "jargon": "Industrial use",
+      "layman": "Factories using coast space"
+    },
+    {
+      "jargon": "Tourism causes",
+      "layman": "Tourism driving changes"
+    },
+    {
+      "jargon": "Management frameworks",
+      "layman": "Structured coast rules"
+    }
+  ]
+}

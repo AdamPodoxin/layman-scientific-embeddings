@@ -6,15 +6,15 @@
     },
     {
       "jargon": "countable graph",
-      "layman": "graph with countably many points"
+      "layman": "graph with finite or infinite but countable vertices"
     },
     {
       "jargon": "universal graph",
-      "layman": "graph that contains all others"
+      "layman": "graph that contains all others as parts"
     },
     {
       "jargon": "spanned subgraph",
-      "layman": "part of a graph that follows its structure"
+      "layman": "part of a graph formed by selected connections"
     },
     {
       "jargon": "cardinal",
@@ -24,15 +24,15 @@
   "methodologies": [
     {
       "jargon": "embedding theorems",
-      "layman": "rules for fitting one graph into another"
+      "layman": "rules for fitting one structure into another"
     },
     {
       "jargon": "negative partition relations",
-      "layman": "conditions that prevent division of graphs"
+      "layman": "conditions where certain groupings fail"
     },
     {
-      "jargon": "isomorphic",
-      "layman": "same structure, different labels"
+      "jargon": "establishing a relation",
+      "layman": "proving a specific mathematical rule holds"
     },
     {
       "jargon": "generalization",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "problem formulation",
-      "layman": "defining a scientific question"
+      "layman": "setting up a scientific question"
     }
   ],
   "outcomes": [
     {
-      "jargon": "universal for countable graphs",
-      "layman": "contains all small graphs"
+      "jargon": "every countable graph is isomorphic to a subgraph",
+      "layman": "all small graphs fit inside one large one"
     },
     {
-      "jargon": "establishing negative partition relations",
-      "layman": "proving certain graph divisions fail"
+      "jargon": "positive result for finite cardinals",
+      "layman": "works for small infinite sets"
     },
     {
-      "jargon": "cannot be generalized for higher cardinals",
-      "layman": "fails for larger infinite sets"
+      "jargon": "cannot be generalized to higher cardinals",
+      "layman": "fails for larger infinite sizes"
     },
     {
-      "jargon": "solved or modified problems",
-      "layman": "original questions answered or changed"
+      "jargon": "S. Shelah's remark",
+      "layman": "important insight from a leading mathematician"
     },
     {
-      "jargon": "important remark",
-      "layman": "key insight from a leading expert"
+      "jargon": "problems solved or modified",
+      "layman": "some old questions are now answered or changed"
     }
   ]
 }

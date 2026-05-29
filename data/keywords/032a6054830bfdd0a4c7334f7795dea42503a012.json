@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Marine environments",
-      "layman": "Ocean areas"
+      "layman": "Sea and ocean areas"
     },
     {
       "jargon": "Human radiation exposure",
-      "layman": "People being exposed to radiation"
+      "layman": "People getting radiation from outside"
     },
     {
       "jargon": "Radio-isotopes",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Oceanography",
-      "layman": "Study of the oceans"
+      "layman": "Study of oceans"
     }
   ],
   "methodologies": [
     {
       "jargon": "Critical path analysis",
-      "layman": "Planning to track key steps"
+      "layman": "Mapping risks and timelines"
+    },
+    {
+      "jargon": "Neutron activation analysis",
+      "layman": "Testing materials with neutrons"
     },
     {
       "jargon": "Labelled environments",
       "layman": "Using tagged substances to track changes"
     },
     {
-      "jargon": "Neutron activation analysis",
-      "layman": "Testing materials with neutrons to detect elements"
-    },
-    {
       "jargon": "Reactor propulsion systems",
-      "layman": "Nuclear-powered ships"
+      "layman": "Nuclear engines for ships"
     },
     {
       "jargon": "Isotope power sources",
-      "layman": "Devices that generate power from radioactive decay"
+      "layman": "Power from radioactive decay"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Basic physical, chemical and biological data",
-      "layman": "Fundamental ocean science data"
+      "layman": "Key data about nature and life"
     },
     {
       "jargon": "Rational exploitation of marine resources",
       "layman": "Smart use of ocean resources"
     },
     {
-      "jargon": "Stimulus to marine pollution methodology",
-      "layman": "Push for better pollution study methods"
+      "jargon": "Pollution methodology",
+      "layman": "Methods to study pollution"
     },
     {
-      "jargon": "Advantages of labelled environments",
-      "layman": "Benefits of using tagged substances in studies"
+      "jargon": "Increased role in oceanography",
+      "layman": "More use in ocean studies"
     }
   ]
 }

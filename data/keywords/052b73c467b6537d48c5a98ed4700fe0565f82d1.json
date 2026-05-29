@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Research methods",
-      "layman": "Ways to gather and analyze information"
+      "layman": "Ways to gather historical evidence"
     },
     {
       "jargon": "Professor Jay Lockenour",
@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Library resources",
-      "layman": "Books and tools in the library"
+      "layman": "Tools available in the library"
     },
     {
-      "jargon": "Course materials",
-      "layman": "Class handouts and readings"
+      "jargon": "Academic course",
+      "layman": "University class"
     }
   ],
   "methodologies": [
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Research methods",
-      "layman": "Ways to gather and analyze information"
+      "layman": "Ways to gather historical evidence"
     },
     {
       "jargon": "Critical analysis",
@@ -36,33 +36,33 @@
     },
     {
       "jargon": "Primary sources",
-      "layman": "Original documents from the time"
+      "layman": "Original historical documents"
     },
     {
-      "jargon": "Secondary sources",
-      "layman": "Books or articles about history"
+      "jargon": "Historical interpretation",
+      "layman": "Understanding past events through context"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Historical understanding",
-      "layman": "Clearer view of the past"
+      "jargon": "Well-structured arguments",
+      "layman": "Clear and logical reasoning"
     },
     {
-      "jargon": "Methodological critique",
-      "layman": "Evaluating research techniques"
+      "jargon": "Scholarly consensus",
+      "layman": "Agreement among experts"
     },
     {
-      "jargon": "Scholarly debate",
-      "layman": "Disagreement among historians"
+      "jargon": "Improved research practices",
+      "layman": "Better ways of doing research"
     },
     {
-      "jargon": "Evidence-based conclusions",
-      "layman": "Findings from facts"
+      "jargon": "Informed historical understanding",
+      "layman": "Deeper knowledge of the past"
     },
     {
-      "jargon": "Research validity",
-      "layman": "Whether the research is reliable"
+      "jargon": "Course support",
+      "layman": "Resources to help students succeed"
     }
   ]
 }

@@ -10,59 +10,59 @@
     },
     {
       "jargon": "labor market",
-      "layman": "job market"
+      "layman": "job market where workers and employers meet"
     },
     {
       "jargon": "undereducation",
-      "layman": "people with too little training for jobs"
+      "layman": "people with less education than needed for jobs"
     },
     {
       "jargon": "over-education",
-      "layman": "people with too much training for jobs"
+      "layman": "people with more education than needed for jobs"
     }
   ],
   "methodologies": [
     {
-      "jargon": "microeconomic analysis",
-      "layman": "close look at individual choices"
+      "jargon": "cost-effectiveness analysis",
+      "layman": "measuring how much money is saved or spent for each unit of benefit"
     },
     {
-      "jargon": "cost-effectiveness estimation",
-      "layman": "measuring how much money is saved per unit of education"
+      "jargon": "microeconomic analysis",
+      "layman": "studying small individual decisions in economy"
     },
     {
       "jargon": "theoretical modeling",
-      "layman": "building math models of education systems"
+      "layman": "building imaginary models to explain real-world issues"
     },
     {
-      "jargon": "labor demand analysis",
-      "layman": "studying how many workers employers need"
+      "jargon": "policy recommendations",
+      "layman": "suggested actions for governments to take"
     },
     {
-      "jargon": "social conflict analysis",
-      "layman": "studying how society's tensions affect jobs"
+      "jargon": "socialization role",
+      "layman": "how education shapes people's values and behaviors"
     }
   ],
   "outcomes": [
     {
       "jargon": "returns to investment",
-      "layman": "how much money education brings back"
+      "layman": "benefits gained from spending money on education"
     },
     {
       "jargon": "productivity increase",
-      "layman": "higher output from workers"
+      "layman": "workers become more efficient"
     },
     {
       "jargon": "income foregone",
-      "layman": "money lost by not working"
+      "layman": "money not earned because someone didn't go to school"
     },
     {
-      "jargon": "socialization role",
-      "layman": "education teaches values and norms"
+      "jargon": "structural changes in labor market",
+      "layman": "jobs and industries change over time"
     },
     {
-      "jargon": "policy recommendations",
-      "layman": "specific advice for education decisions"
+      "jargon": "social conflicts",
+      "layman": "disagreements between groups in society"
     }
   ]
 }

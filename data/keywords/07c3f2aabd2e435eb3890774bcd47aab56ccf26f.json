@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Cognition",
-      "layman": "Thinking styles"
+      "layman": "Thinking style"
     },
     {
       "jargon": "Trait psychology",
@@ -18,25 +18,25 @@
     },
     {
       "jargon": "Field-dependence",
-      "layman": "Depends on surroundings"
+      "layman": "Attends to surroundings"
     }
   ],
   "methodologies": [
     {
       "jargon": "Historical perspectives",
-      "layman": "Past views on topics"
+      "layman": "Past views"
     },
     {
       "jargon": "Contemporary perspectives",
-      "layman": "Current views on topics"
+      "layman": "Current views"
     },
     {
       "jargon": "Methodological hurdles",
-      "layman": "Research method problems"
+      "layman": "Research barriers"
     },
     {
       "jargon": "Interactionism",
-      "layman": "How traits and thoughts interact"
+      "layman": "Relationship between factors"
     },
     {
       "jargon": "Theoretical integration",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Separate vineyards",
-      "layman": "Distinct areas"
+      "layman": "Separate fields"
     },
     {
       "jargon": "Future research proposals",
-      "layman": "New research plans"
+      "layman": "New study ideas"
     }
   ]
 }

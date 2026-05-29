@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Negative social capital",
-      "layman": "Harmful social connections"
+      "layman": "Bad social connections"
     },
     {
       "jargon": "Welfare regime",
-      "layman": "Government's social safety system"
+      "layman": "Government\u2019s social safety system"
     },
     {
       "jargon": "Helping behavior",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Case study",
-      "layman": "In-depth country analysis"
+      "layman": "In-depth look at one country"
     },
     {
       "jargon": "Cross-country comparison",
-      "layman": "Comparing countries"
+      "layman": "Comparing different countries"
     },
     {
       "jargon": "Within-country comparison",
-      "layman": "Comparing groups in one country"
+      "layman": "Comparing groups in the same country"
     },
     {
       "jargon": "Measure distribution",
-      "layman": "Track how things are spread"
+      "layman": "Track how often behavior happens"
     },
     {
       "jargon": "Interpret as credit slip",
-      "layman": "See helping as social credit"
+      "layman": "See help as a social credit"
     }
   ],
   "outcomes": [
     {
       "jargon": "Detrimental consequences",
-      "layman": "Harmful effects"
+      "layman": "Harmful results"
     },
     {
       "jargon": "Consistent results",
       "layman": "Same findings across cases"
     },
     {
-      "jargon": "Confidence in democracy",
-      "layman": "Trust in democratic government"
+      "jargon": "Impact on confidence in democracy",
+      "layman": "Affects trust in democracy"
     },
     {
-      "jargon": "Micro mechanisms",
-      "layman": "Small, hidden factors"
+      "jargon": "Negative effect",
+      "layman": "Harmful result"
     },
     {
-      "jargon": "Effect on political legitimacy",
-      "layman": "Impact on public trust"
+      "jargon": "Effect measured",
+      "layman": "Result was observed and recorded"
     }
   ]
 }

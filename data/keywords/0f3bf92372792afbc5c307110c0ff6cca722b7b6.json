@@ -2,51 +2,51 @@
   "core_entities": [
     {
       "jargon": "Heuristic algorithms",
-      "layman": "Smart shortcuts for solving hard problems"
+      "layman": "Smart guesses to solve hard problems"
     },
     {
       "jargon": "NP-hard problems",
-      "layman": "Very hard problems that take a long time to solve"
+      "layman": "Very hard problems that take too long to solve exactly"
     },
     {
       "jargon": "Multi-genome alignment",
-      "layman": "Matching DNA across many species"
+      "layman": "Matching DNA from multiple species"
     },
     {
       "jargon": "Protein-protein interaction networks",
-      "layman": "Maps of how proteins connect and work together"
+      "layman": "Web of proteins that work together"
     },
     {
       "jargon": "Colorful connected graph detection",
-      "layman": "Finding linked groups in complex protein maps"
+      "layman": "Finding connected groups with colored links"
     }
   ],
   "methodologies": [
     {
       "jargon": "Framework for designing",
-      "layman": "Step-by-step plan to build solutions"
+      "layman": "System for building solutions"
     },
     {
-      "jargon": "Validating heuristic algorithms",
-      "layman": "Testing if shortcuts give good answers"
+      "jargon": "Framework for validating",
+      "layman": "System for testing accuracy"
     },
     {
       "jargon": "Implicit hitting set problems",
-      "layman": "Finding key elements in hidden sets"
+      "layman": "Finding small sets that cover all cases"
     },
     {
       "jargon": "Analysis of interaction networks",
       "layman": "Studying how proteins connect"
     },
     {
-      "jargon": "Application areas",
-      "layman": "Real-world uses like biology or engineering"
+      "jargon": "Algorithm validation",
+      "layman": "Checking if the algorithm works well"
     }
   ],
   "outcomes": [
     {
       "jargon": "NP-hard problems",
-      "layman": "Problems that are extremely difficult to solve exactly"
+      "layman": "Problems that are extremely difficult to solve"
     },
     {
       "jargon": "Multi-genome alignment",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Colorful connected graph detection",
-      "layman": "Finding meaningful protein clusters"
+      "layman": "Finding connected groups with specific colors"
     },
     {
-      "jargon": "Implicit hitting set problems",
-      "layman": "Identifying essential components in complex systems"
+      "jargon": "Protein-protein interaction networks",
+      "layman": "Mapping protein connections"
     },
     {
-      "jargon": "Framework validation",
-      "layman": "Proving the method works in practice"
+      "jargon": "Heuristic solution",
+      "layman": "A good enough answer in time"
     }
   ]
 }

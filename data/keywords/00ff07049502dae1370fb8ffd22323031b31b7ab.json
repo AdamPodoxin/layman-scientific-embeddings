@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Context-aware recommender systems",
-      "layman": "Systems that consider user context"
+      "layman": "Recommendations based on context"
     },
     {
       "jargon": "Multi-criteria recommender systems",
-      "layman": "Systems using multiple user preferences"
+      "layman": "Recommendations based on multiple factors"
     },
     {
-      "jargon": "Educational data",
-      "layman": "Learning-related data"
+      "jargon": "Educational learning",
+      "layman": "Learning in schools or classrooms"
     },
     {
       "jargon": "User preferences",
-      "layman": "What users like or want"
+      "layman": "What users like or value"
     },
     {
-      "jargon": "Recommendations",
-      "layman": "Suggested items or content"
+      "jargon": "Contexts",
+      "layman": "Situation factors like time or location"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Integration of context-awareness and multi-criteria decision making",
-      "layman": "Combining context and user preferences"
+      "jargon": "Integrating context-awareness and multi-criteria decision making",
+      "layman": "Combining context and preferences for better choices"
+    },
+    {
+      "jargon": "Educational data",
+      "layman": "Data from learning activities"
     },
     {
       "jargon": "Experimental results",
-      "layman": "Tested outcomes"
-    },
-    {
-      "jargon": "Case study",
-      "layman": "Study based on real examples"
+      "layman": "Tested findings from experiments"
     },
     {
       "jargon": "Domain generalization",
-      "layman": "Applying results to other areas"
+      "layman": "Applying solution to other areas"
     },
     {
-      "jargon": "Recommender system",
-      "layman": "System that suggests content"
+      "jargon": "Recommendation strategies",
+      "layman": "Methods for suggesting items"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Better suggestions"
     },
     {
-      "jargon": "Improved recommendation performance",
-      "layman": "Better results in suggestions"
-    },
-    {
       "jargon": "Real-world applications",
-      "layman": "Used in real life"
-    },
-    {
-      "jargon": "Generalization to other domains",
-      "layman": "Works in different areas"
+      "layman": "Used in real-life situations"
     },
     {
       "jargon": "First attempt",
-      "layman": "Initial and pioneering effort"
+      "layman": "First time trying this approach"
+    },
+    {
+      "jargon": "Generalized to other domains",
+      "layman": "Works in different areas too"
+    },
+    {
+      "jargon": "User tastes",
+      "layman": "User interests and likes"
     }
   ]
 }

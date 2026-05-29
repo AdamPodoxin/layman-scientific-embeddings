@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "B\u00af s 0 meson",
-      "layman": "B-bar-s meson"
+      "jargon": "Bs\u00af0 meson",
+      "layman": "B-meson"
     },
     {
-      "jargon": "D s2 *+ meson",
-      "layman": "D-s2-star-plus meson"
+      "jargon": "D_s2*+ meson",
+      "layman": "D-meson"
     },
     {
-      "jargon": "D s1 +(2536) meson",
-      "layman": "D-s1-plus meson"
+      "jargon": "D_s1+(2536) meson",
+      "layman": "D-meson"
     },
     {
-      "jargon": "D0K+ system",
-      "layman": "D-zero K-plus pair"
+      "jargon": "D0 meson",
+      "layman": "D-meson"
     },
     {
-      "jargon": "X\u03bc-v\u00af",
-      "layman": "Muon and antineutrino pair"
+      "jargon": "K+ meson",
+      "layman": "K-meson"
     }
   ],
   "methodologies": [
     {
       "jargon": "Semileptonic decays",
-      "layman": "Particle decays involving muons"
-    },
-    {
-      "jargon": "Proton\u2013proton collisions",
-      "layman": "Protons smashing together"
+      "layman": "Particle decays involving a lepton"
     },
     {
       "jargon": "LHCb detector",
-      "layman": "Particle detector at LHC"
+      "layman": "Particle detector at CERN"
     },
     {
-      "jargon": "Mass spectrum analysis",
-      "layman": "Looking at mass peaks in data"
+      "jargon": "Proton\u2013proton collisions",
+      "layman": "Smashing protons together"
     },
     {
-      "jargon": "Branching fraction measurement",
-      "layman": "Measuring decay probability"
+      "jargon": "Center-of-mass energy",
+      "layman": "Energy at collision center"
+    },
+    {
+      "jargon": "Mass spectrum",
+      "layman": "Plot of particle masses"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Branching fraction",
-      "layman": "Chance of a decay happening"
+      "jargon": "Branching fractions",
+      "layman": "Decay rates"
     },
     {
-      "jargon": "Mass measurement",
-      "layman": "Measured particle weight"
+      "jargon": "Measured mass",
+      "layman": "Exact mass found"
     },
     {
-      "jargon": "Width measurement",
-      "layman": "Particle lifetime estimate"
+      "jargon": "Width",
+      "layman": "Particle lifetime"
     },
     {
       "jargon": "Statistical uncertainty",
-      "layman": "Data variation due to randomness"
+      "layman": "Data variation"
     },
     {
       "jargon": "Systematic uncertainty",
-      "layman": "Error from experimental setup"
+      "layman": "Measurement bias"
     }
   ]
 }

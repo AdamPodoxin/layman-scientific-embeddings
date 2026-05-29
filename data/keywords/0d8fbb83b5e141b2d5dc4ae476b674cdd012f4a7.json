@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Accelerated mirror",
-      "layman": "Moving mirror"
+      "layman": "Mirroring surface moving faster than light"
     },
     {
       "jargon": "Field condensate",
-      "layman": "Condensed field near surface"
+      "layman": "A concentrated field state"
     },
     {
       "jargon": "Massive fields",
-      "layman": "Heavy field types"
+      "layman": "Fields with real mass"
     },
     {
       "jargon": "Gravitational field",
-      "layman": "Gravity field"
+      "layman": "Area where gravity is felt"
     },
     {
       "jargon": "Bekenstein entropy bound",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Observer-dependent effect",
-      "layman": "Effect seen only by certain observers"
+      "jargon": "Observer-dependent effects",
+      "layman": "Effects based on observer's motion"
     },
     {
       "jargon": "Inertial observers",
-      "layman": "Non-accelerating observers"
+      "layman": "Observers in straight-line motion"
+    },
+    {
+      "jargon": "Formation mechanism",
+      "layman": "How the condensate forms"
     },
     {
       "jargon": "Localization",
-      "layman": "Concentration in one place"
+      "layman": "How things are confined close to surface"
     },
     {
-      "jargon": "Field formation",
-      "layman": "Field building up"
-    },
-    {
-      "jargon": "Entropy bound analysis",
-      "layman": "Checking information limits"
+      "jargon": "Viewpoint of observer",
+      "layman": "Perspective from which something is seen"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Formation of field condensate",
-      "layman": "Field forms near mirror"
+      "jargon": "Condensate formation",
+      "layman": "Field clumps near surface"
     },
     {
-      "jargon": "Detection by inertial observers",
-      "layman": "Non-moving observers see it too"
+      "jargon": "Observer-independent effect",
+      "layman": "Same result for all observers"
     },
     {
-      "jargon": "Agreement with Bekenstein's bound",
+      "jargon": "Agreement with entropy bound",
       "layman": "Matches known information limit"
     },
     {
-      "jargon": "Non-observer-dependent effect",
-      "layman": "Seen by all observers"
+      "jargon": "Field localization",
+      "layman": "Field stays close to mirror"
     },
     {
-      "jargon": "Surface field localization",
-      "layman": "Field stays close to mirror"
+      "jargon": "Gravitational field sensation",
+      "layman": "Feeling of gravity at mirror surface"
     }
   ]
 }

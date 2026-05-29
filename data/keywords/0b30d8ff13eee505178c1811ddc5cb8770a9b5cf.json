@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Uninformed buyers",
-      "layman": "Buyers without information"
-    },
-    {
-      "jargon": "Informed seller",
-      "layman": "Seller who knows the true value"
-    },
-    {
-      "jargon": "Liquidity shock",
-      "layman": "Sudden loss of market funds"
+      "jargon": "Price transparency",
+      "layman": "Clear pricing"
     },
     {
       "jargon": "Private information",
       "layman": "Hidden knowledge"
     },
     {
-      "jargon": "Dynamic market",
-      "layman": "Changing market over time"
+      "jargon": "Correlated values",
+      "layman": "Similar valuations"
+    },
+    {
+      "jargon": "Liquidity shock",
+      "layman": "Sudden money shortage"
+    },
+    {
+      "jargon": "Uninformed buyers",
+      "layman": "Buyers without knowledge"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Equilibrium analysis",
-      "layman": "Finding stable market outcomes"
+      "jargon": "Dynamic market analysis",
+      "layman": "Long-term market study"
     },
     {
-      "jargon": "Compete inter- and intra-temporarily",
-      "layman": "Compete across and within time periods"
+      "jargon": "Equilibrium",
+      "layman": "Stable trading state"
     },
     {
-      "jargon": "Public versus private price offers",
-      "layman": "Offering prices openly or secretly"
+      "jargon": "Compete inter-temporally",
+      "layman": "Compete over time"
     },
     {
-      "jargon": "Trade timing with deadline",
-      "layman": "Trading before a fixed end time"
+      "jargon": "Intra-temporal competition",
+      "layman": "Rivalry during the same time"
     },
     {
-      "jargon": "Market breakdown",
-      "layman": "Market stops trading"
+      "jargon": "Public versus private offers",
+      "layman": "Open vs. secret pricing"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Equilibria coincide",
-      "layman": "Both options reach same result"
-    },
-    {
       "jargon": "Pareto-dominance",
-      "layman": "One option is better for all"
-    },
-    {
-      "jargon": "Efficiency loss",
-      "layman": "Wasted trading potential"
-    },
-    {
-      "jargon": "Trade never stops",
-      "layman": "Trading continues without end"
+      "layman": "Better for all"
     },
     {
       "jargon": "Market breakdown",
-      "layman": "Market stops trading"
+      "layman": "Trading stops"
+    },
+    {
+      "jargon": "Efficiency loss",
+      "layman": "Wasted opportunity"
+    },
+    {
+      "jargon": "Trade never stops",
+      "layman": "Trading continues"
+    },
+    {
+      "jargon": "Infrequent offers",
+      "layman": "Rare price announcements"
     }
   ]
 }

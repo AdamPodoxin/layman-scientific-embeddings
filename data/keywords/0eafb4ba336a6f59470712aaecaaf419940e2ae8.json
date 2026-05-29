@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Graphical representation",
-      "layman": "Visual diagram"
+      "layman": "Visual search map"
     },
     {
       "jargon": "Search process",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Graphical representation",
-      "layman": "Visual diagram"
+      "layman": "Visual search map"
     },
     {
-      "jargon": "System design",
-      "layman": "Building a system"
+      "jargon": "Interface design",
+      "layman": "Building user-friendly screens"
     },
     {
-      "jargon": "User manipulation",
-      "layman": "Letting users change things"
+      "jargon": "User interaction",
+      "layman": "How users touch and move the system"
     },
     {
-      "jargon": "Dialogue notation",
-      "layman": "Using interface to support talk"
+      "jargon": "Dialogue support",
+      "layman": "Enabling conversation between users"
     },
     {
       "jargon": "Help-giving",
-      "layman": "Offering help to others"
+      "layman": "One user helping another"
     }
   ],
   "outcomes": [
     {
       "jargon": "Improved effectiveness",
-      "layman": "Better results"
-    },
-    {
-      "jargon": "User learning",
-      "layman": "Users learn more"
-    },
-    {
-      "jargon": "Recovery from failure",
-      "layman": "Fixing when things go wrong"
-    },
-    {
-      "jargon": "Support for intelligent agents",
-      "layman": "Helping smart tools work"
+      "layman": "Better search results"
     },
     {
       "jargon": "Active support",
       "layman": "System helps users directly"
+    },
+    {
+      "jargon": "Recovery from failure",
+      "layman": "Fixing mistakes after errors"
+    },
+    {
+      "jargon": "User discussion",
+      "layman": "Users talking about search steps"
+    },
+    {
+      "jargon": "Support for intelligent agents",
+      "layman": "Fixing when systems fail"
     }
   ]
 }

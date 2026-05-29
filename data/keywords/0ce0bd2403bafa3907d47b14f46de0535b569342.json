@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Element concentration catalogues in ecosystems",
-      "layman": "Global maps of element levels in ecosystems"
+      "layman": "Maps of element levels in ecosystems"
     },
     {
       "jargon": "Synthetic reference systems",
-      "layman": "Standardized chemical samples"
+      "layman": "Standard chemical samples"
     },
     {
       "jargon": "Ecosystem compartments",
-      "layman": "Different parts of an ecosystem"
+      "layman": "Parts of ecosystems"
     },
     {
       "jargon": "Tropical and subtropical systems",
-      "layman": "Warm climate ecosystems"
+      "layman": "Hot climate ecosystems"
     },
     {
       "jargon": "Plant materials",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Biogeochemical perspective",
-      "layman": "Study of element cycles in nature"
+      "layman": "How elements move in nature"
     },
     {
       "jargon": "Data collection",
-      "layman": "Gathering environmental measurements"
+      "layman": "Gathering environmental data"
     },
     {
       "jargon": "Comparative analysis",
-      "layman": "Comparing different ecosystems"
+      "layman": "Comparing different systems"
     }
   ],
   "outcomes": [
     {
-      "jargon": "World-wide distribution of elements",
-      "layman": "Global spread of elements"
+      "jargon": "Element distribution",
+      "layman": "Where elements are found"
     },
     {
-      "jargon": "Concentrations of individual elements",
-      "layman": "How much of each element is present"
+      "jargon": "Toxicity levels",
+      "layman": "How harmful elements are"
     },
     {
-      "jargon": "Toxicity and nutrient effects",
-      "layman": "Harmful or helpful element impacts"
+      "jargon": "Nutrient physiology",
+      "layman": "How plants use nutrients"
     },
     {
-      "jargon": "Element reactions in systems",
-      "layman": "How elements interact in nature"
+      "jargon": "Element effects and reactions",
+      "layman": "How elements act in ecosystems"
     },
     {
-      "jargon": "Northern hemisphere data bias",
-      "layman": "Missing data from warm regions"
+      "jargon": "Northern hemisphere data",
+      "layman": "Data from northern regions"
     }
   ]
 }

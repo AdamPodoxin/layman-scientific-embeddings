@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Customer relationship management",
-      "layman": "Customer relationship management"
+      "layman": "Managing customer relationships"
     },
     {
       "jargon": "Multinational corporations",
-      "layman": "Companies operating in many countries"
+      "layman": "Large companies in many countries"
     },
     {
       "jargon": "Knowledge management",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Learning relationships",
-      "layman": "Ongoing customer learning"
+      "layman": "Building relationships for learning"
     },
     {
       "jargon": "Global knowledge stock",
@@ -24,23 +24,23 @@
   "methodologies": [
     {
       "jargon": "Strategic approach",
-      "layman": "Long-term business plan"
+      "layman": "Long-term business strategy"
     },
     {
       "jargon": "Technological dimension",
-      "layman": "Tech-based system"
+      "layman": "Tech tools and systems"
     },
     {
       "jargon": "Information and communication technologies",
-      "layman": "IT tools for sharing data"
-    },
-    {
-      "jargon": "Knowledge acquisition",
-      "layman": "Gathering company knowledge"
+      "layman": "Data and communication tools"
     },
     {
       "jargon": "Local market demands",
-      "layman": "Customer needs in a region"
+      "layman": "Needs of local customers"
+    },
+    {
+      "jargon": "Knowledge acquisition",
+      "layman": "Gaining new knowledge"
     }
   ],
   "outcomes": [
@@ -50,7 +50,7 @@
     },
     {
       "jargon": "Learning capability",
-      "layman": "Ability to learn from customers"
+      "layman": "Ability to learn and improve"
     },
     {
       "jargon": "Improved knowledge processes",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Accurate market understanding",
-      "layman": "Clear view of customer needs"
+      "layman": "Correct view of market needs"
     },
     {
       "jargon": "Regional market insights",
-      "layman": "Understanding of local markets"
+      "layman": "Understanding different regions' needs"
     }
   ]
 }

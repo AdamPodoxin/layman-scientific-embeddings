@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Tour Perspective",
-      "layman": "Body-centered space description"
+      "layman": "Imaginary tour of space"
     },
     {
       "jargon": "Map Perspective",
       "layman": "Top-down space description"
     },
     {
-      "jargon": "Spatial description",
-      "layman": "How space is described"
-    },
-    {
       "jargon": "Apartment layout",
-      "layman": "Room arrangement"
+      "layman": "How rooms are arranged"
     },
     {
       "jargon": "Plan drawings",
       "layman": "Floor plans"
+    },
+    {
+      "jargon": "Spatial relations",
+      "layman": "How places are connected"
     }
   ],
   "methodologies": [
     {
       "jargon": "Pilot experiment",
-      "layman": "Small test study"
+      "layman": "Small test to check ideas"
     },
     {
       "jargon": "Oral spatial description",
-      "layman": "Verbal space explanation"
+      "layman": "Telling how space looks verbally"
     },
     {
       "jargon": "Formal knowledge",
-      "layman": "Structured learning"
+      "layman": "Official training or skills"
     },
     {
-      "jargon": "Participant response",
-      "layman": "People's answers"
+      "jargon": "Questionnaires",
+      "layman": "Written questions to gather answers"
     },
     {
-      "jargon": "Spatial relations",
-      "layman": "How things are positioned relative to each other"
+      "jargon": "Actual experience of space",
+      "layman": "Personal experience in a place"
     }
   ],
   "outcomes": [
     {
       "jargon": "Tour perspective dominates",
-      "layman": "People describe space as if walking through it"
+      "layman": "People describe space as a walk"
     },
     {
-      "jargon": "Map perspective used",
-      "layman": "People describe space from above"
+      "jargon": "Map perspective used in ideal space",
+      "layman": "People describe ideal space from above"
     },
     {
-      "jargon": "Formal knowledge does not override",
-      "layman": "Training doesn't change natural description style"
+      "jargon": "Formal knowledge doesn't override tour perspective",
+      "layman": "Training doesn't stop people from describing space like walking"
     },
     {
       "jargon": "Tour perspective linked to experience",
-      "layman": "Describing space depends on actual experience"
+      "layman": "People describe space the way they've experienced it"
     },
     {
-      "jargon": "Ideal apartment description",
-      "layman": "Description of a perfect apartment"
+      "jargon": "Architects still use tour perspective",
+      "layman": "Even trained architects describe space like walking"
     }
   ]
 }

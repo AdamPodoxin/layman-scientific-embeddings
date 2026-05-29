@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Flip-chip packaging",
-      "layman": "Chip mounting method"
+      "layman": "Chip mounting with direct connections"
     },
     {
-      "jargon": "Conductive adhesives",
+      "jargon": "Conducting adhesives",
       "layman": "Adhesives that conduct electricity"
     },
     {
       "jargon": "Polymer dielectric films",
-      "layman": "Electric-insulating polymer films"
+      "layman": "Electric insulation films made of polymers"
     },
     {
       "jargon": "Encapsulants",
-      "layman": "Protective coatings"
+      "layman": "Protective coatings for electronics"
     },
     {
       "jargon": "Metal-polymer interfaces",
-      "layman": "Where metal and polymer meet"
+      "layman": "Where metal and plastic meet"
     }
   ],
   "methodologies": [
     {
       "jargon": "Characterization techniques",
-      "layman": "Testing methods"
+      "layman": "Tools to examine material properties"
     },
     {
       "jargon": "Particle shape analysis",
-      "layman": "Measuring particle forms"
+      "layman": "Measuring how particles are shaped"
     },
     {
       "jargon": "Curing in electric field",
-      "layman": "Heating with electric field"
+      "layman": "Heating and bonding with electric field"
     },
     {
-      "jargon": "Thermal and mechanical property testing",
+      "jargon": "Thermal and mechanical testing",
       "layman": "Testing heat and strength"
     },
     {
       "jargon": "Failure mechanism analysis",
-      "layman": "Studying how things break"
+      "layman": "Studying how things break down"
     }
   ],
   "outcomes": [
     {
       "jargon": "Conducting pathways",
-      "layman": "Electric connections formed"
+      "layman": "Electrical connections formed"
     },
     {
       "jargon": "Improved adhesion",
-      "layman": "Better sticking"
+      "layman": "Better sticking between materials"
     },
     {
-      "jargon": "Thin film characterization",
-      "layman": "Testing thin layers"
+      "jargon": "Thermal and mechanical properties",
+      "layman": "Heat and strength behavior"
     },
     {
       "jargon": "Reliability testing",
-      "layman": "Testing durability"
+      "layman": "Testing how long things last"
     },
     {
-      "jargon": "Polymer-based package performance",
-      "layman": "How well polymer packages work"
+      "jargon": "Failure mechanisms",
+      "layman": "How parts break or fail"
     }
   ]
 }

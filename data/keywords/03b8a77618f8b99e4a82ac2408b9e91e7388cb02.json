@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Light dynamical quarks",
-      "layman": "Light quarks that move and interact"
+      "jargon": "Light quark",
+      "layman": "Light quark"
     },
     {
-      "jargon": "Hadron physics",
-      "layman": "Study of particles made of quarks"
+      "jargon": "Hadron",
+      "layman": "Particle made of quarks"
     },
     {
       "jargon": "QCD",
-      "layman": "Theory of how quarks bind"
+      "layman": "Theory of strong force"
     },
     {
       "jargon": "Scalar form factor",
-      "layman": "Measure of how particles interact in decay"
+      "layman": "Measure of particle properties in decay"
     },
     {
       "jargon": "Kmu3 decay",
-      "layman": "Type of particle decay involving kaons"
+      "layman": "Type of kaon decay"
     }
   ],
   "methodologies": [
@@ -28,22 +28,26 @@
     },
     {
       "jargon": "NA48 experiment",
-      "layman": "Particle collision study at CERN"
+      "layman": "Particle detector study"
     },
     {
       "jargon": "KTeV experiment",
-      "layman": "Particle decay study at Fermilab"
+      "layman": "Particle detector study"
+    },
+    {
+      "jargon": "Dynamical quarks",
+      "layman": "Quarks that move and interact in simulation"
     },
     {
       "jargon": "Effective low energy theory",
-      "layman": "Simple model for slow particle interactions"
-    },
-    {
-      "jargon": "Progress in lattice simulations",
-      "layman": "Improved computer-based quark modeling"
+      "layman": "Simple model for weak force at low energy"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Progress in lattice QCD",
+      "layman": "Better computer models of quarks"
+    },
     {
       "jargon": "Puzzling results",
       "layman": "Unexplained findings"
@@ -53,16 +57,12 @@
       "layman": "New physics not yet explained"
     },
     {
-      "jargon": "Significance of progress",
-      "layman": "Important advances in understanding"
-    },
-    {
-      "jargon": "Face value interpretation",
-      "layman": "Taking results at first glance"
-    },
-    {
       "jargon": "Scalar form factor measurements",
-      "layman": "Data on how particles behave in decay"
+      "layman": "Measurements of decay properties"
+    },
+    {
+      "jargon": "Indicate inconsistency with Standard Model",
+      "layman": "Seems to contradict known rules"
     }
   ]
 }

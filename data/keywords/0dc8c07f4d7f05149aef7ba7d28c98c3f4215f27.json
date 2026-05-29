@@ -6,55 +6,55 @@
     },
     {
       "jargon": "Spark plasma sintering (SPS)",
-      "layman": "Sintering with electric plasma"
+      "layman": "Quick heating and pressing to form solid"
     },
     {
       "jargon": "Amorphous structure",
-      "layman": "No fixed crystal shape"
+      "layman": "Glassy, non-crystalline form"
     },
     {
       "jargon": "Lithium disilicate structure",
-      "layman": "Lithium and silicon compound"
+      "layman": "Silica compound with lithium"
     },
     {
-      "jargon": "Quenched glass",
-      "layman": "Rapidly cooled glass"
+      "jargon": "Quenched glass (-q)",
+      "layman": "Quick-cooled glass sample"
     }
   ],
   "methodologies": [
     {
       "jargon": "Spark plasma sintering (SPS)",
-      "layman": "Sintering with electric plasma"
+      "layman": "Quick heating and pressing to form solid"
     },
     {
       "jargon": "Differential scanning calorimetry (DSC)",
-      "layman": "Heat change measurement"
+      "layman": "Measures heat changes during heating"
     },
     {
       "jargon": "X-ray diffraction (XRD)",
-      "layman": "Crystal structure analysis"
+      "layman": "Scans crystal patterns in materials"
     },
     {
       "jargon": "Impedance/gain-phase analyzer",
-      "layman": "Electrical property tester"
+      "layman": "Measures electrical behavior over time"
     },
     {
       "jargon": "Heat treatment",
-      "layman": "Heating to change material structure"
+      "layman": "Heating to change material properties"
     }
   ],
   "outcomes": [
     {
       "jargon": "High mechanical strength",
-      "layman": "Sturdy material"
+      "layman": "Resists breaking easily"
     },
     {
       "jargon": "Chemical stability",
-      "layman": "Resists chemical changes"
+      "layman": "Doesn't react with other substances"
     },
     {
       "jargon": "High transparency",
-      "layman": "Clear and see-through"
+      "layman": "Allows light to pass through"
     },
     {
       "jargon": "Similar dielectric peaks",
@@ -62,11 +62,27 @@
     },
     {
       "jargon": "DC activation energy",
-      "layman": "Energy needed for DC current flow"
+      "layman": "Energy needed for steady current flow"
     },
     {
       "jargon": "AC activation energy",
-      "layman": "Energy needed for alternating current flow"
+      "layman": "Energy needed for alternating current"
+    },
+    {
+      "jargon": "Amorphous structure after heat treatment",
+      "layman": "Remains glassy after heating"
+    },
+    {
+      "jargon": "Lithium-ion conducting oxide glass",
+      "layman": "Glass that lets lithium ions move easily"
+    },
+    {
+      "jargon": "Fast ionic conductor",
+      "layman": "Allows ions to move quickly"
+    },
+    {
+      "jargon": "Low-temperature performance",
+      "layman": "Works well even when cold"
     }
   ]
 }

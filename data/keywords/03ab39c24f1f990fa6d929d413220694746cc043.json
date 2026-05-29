@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Symposium",
-      "layman": "Scientific meeting"
+      "layman": "Group discussion meeting"
     },
     {
       "jargon": "Audience questions",
       "layman": "Questions from attendees"
     },
     {
-      "jargon": "Research design",
-      "layman": "Plan for scientific study"
+      "jargon": "Research participants",
+      "layman": "Scientists involved in study"
     }
   ],
   "methodologies": [
@@ -27,20 +27,20 @@
       "layman": "Group discussion with experts"
     },
     {
-      "jargon": "Summarizing talks",
-      "layman": "Putting together key points from presentations"
+      "jargon": "Summary of talks",
+      "layman": "Condensed overview of presentations"
     },
     {
       "jargon": "Audience engagement",
-      "layman": "Interacting with attendees"
+      "layman": "Interacting with audience"
     },
     {
-      "jargon": "Scientific sponsorship",
-      "layman": "Organizing by scientific groups"
+      "jargon": "Research design",
+      "layman": "Planning experiments"
     },
     {
-      "jargon": "Systematic zoology",
-      "layman": "Study of animal classification"
+      "jargon": "Organizational planning",
+      "layman": "Setting up research structure"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Importance in evolution"
     },
     {
-      "jargon": "Research insight",
-      "layman": "New understanding from study"
+      "jargon": "Complex problems",
+      "layman": "Difficult issues"
     },
     {
-      "jargon": "Complex problems",
-      "layman": "Difficult scientific issues"
+      "jargon": "Valuable insight",
+      "layman": "Useful understanding"
     },
     {
       "jargon": "Future research design",
-      "layman": "Plans for future studies"
+      "layman": "Planned future studies"
     },
     {
       "jargon": "Scientific collaboration",
-      "layman": "Working together across groups"
+      "layman": "Working together in science"
     }
   ]
 }

@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Linearizability",
-      "layman": "Instant data access across all nodes"
+      "layman": "Immediate data access"
     },
     {
       "jargon": "Eventual consistency",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Weak consistency",
-      "layman": "Data changes not immediately visible"
+      "layman": "Delayed data updates"
     }
   ],
   "methodologies": [
     {
       "jargon": "Partial order",
-      "layman": "Ranking of consistency levels"
+      "layman": "Ranking consistency types"
     },
     {
       "jargon": "Semantic strength",
-      "layman": "How strict a consistency rule is"
+      "layman": "How strict a consistency model is"
     },
     {
       "jargon": "System mapping",
-      "layman": "Matching theories to real systems"
+      "layman": "Matching models to real systems"
     },
     {
-      "jargon": "Definition refinement",
-      "layman": "Clarifying unclear terms"
+      "jargon": "Definition clarification",
+      "layman": "Making definitions clearer"
     },
     {
       "jargon": "Notion overview",
-      "layman": "Summarizing different consistency types"
+      "layman": "Reviewing different consistency types"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Over 50 consistency notions",
-      "layman": "Many different data reliability models"
+      "jargon": "More than 50 consistency notions",
+      "layman": "Many different consistency types"
     },
     {
-      "jargon": "Ambiguous definitions clarified",
+      "jargon": "Ambiguous definitions resolved",
       "layman": "Unclear rules made clear"
     },
     {
-      "jargon": "Partial order established",
-      "layman": "Consistency levels ranked from strong to weak"
+      "jargon": "Ordering of consistency models",
+      "layman": "Strength rankings of consistency"
     },
     {
-      "jargon": "Practical systems mapped",
-      "layman": "Real-world systems linked to theories"
+      "jargon": "Practical system mapping",
+      "layman": "Linking models to real systems"
     },
     {
-      "jargon": "Non-transactional focus",
-      "layman": "Single-object data changes only"
+      "jargon": "Non-transactional scope",
+      "layman": "Focus on single data updates"
     }
   ]
 }

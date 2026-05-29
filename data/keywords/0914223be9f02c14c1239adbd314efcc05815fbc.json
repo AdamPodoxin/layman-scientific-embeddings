@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Linear finite range potential",
-      "layman": "Limited, straight-line force field"
+      "layman": "Limited, sloped force field"
     },
     {
       "jargon": "Bound state",
-      "layman": "Stable energy level"
+      "layman": "Stable energy trap"
     },
     {
       "jargon": "Quark-confining potential",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Triangular well",
-      "layman": "Triangular-shaped energy trap"
+      "layman": "Triangle-shaped energy well"
     }
   ],
   "methodologies": [
     {
       "jargon": "Transcendental eigenvalue equation",
-      "layman": "Complex math equation for energy levels"
+      "layman": "Special math equation to find energy levels"
     },
     {
       "jargon": "Numerical solution",
-      "layman": "Solving with computers"
+      "layman": "Computer-based math solving"
     },
     {
       "jargon": "Energy spectrum",
       "layman": "List of possible energy levels"
     },
     {
-      "jargon": "Attractive potential",
-      "layman": "Force pulling things together"
+      "jargon": "Solve numerically",
+      "layman": "Use computer to find answers"
     },
     {
-      "jargon": "Finite range",
-      "layman": "Limited distance of influence"
+      "jargon": "Attractive potential",
+      "layman": "Force pulling things together"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Energy levels found"
     },
     {
-      "jargon": "Potential significance in particle physics",
-      "layman": "Important for understanding particles"
+      "jargon": "Finite range",
+      "layman": "Limited space for the force"
     },
     {
-      "jargon": "Exciting applications in electronics",
-      "layman": "Useful in electronic devices"
+      "jargon": "Bound states",
+      "layman": "Particles trapped in energy well"
     },
     {
-      "jargon": "Intricate equation",
-      "layman": "Complex and hard to solve"
+      "jargon": "Potential significance",
+      "layman": "Important in science and tech"
     }
   ]
 }

@@ -6,41 +6,41 @@
     },
     {
       "jargon": "Classical equivalential calculus",
-      "layman": "Logic system using only equivalence"
-    },
-    {
-      "jargon": "Single axiom",
-      "layman": "One rule that can generate all rules"
+      "layman": "System of logical rules using only equivalence"
     },
     {
       "jargon": "EpEEEpqErqr",
       "layman": "A specific logical formula"
     },
     {
+      "jargon": "Single axiom",
+      "layman": "One rule that can generate all other rules"
+    },
+    {
       "jargon": "Shortest single axioms",
-      "layman": "Smallest possible logical rules"
+      "layman": "Briefest possible logical rules"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Rules of substitution",
-      "layman": "Replacing parts of a formula"
+      "jargon": "Rules of substitution and detachment",
+      "layman": "Logical rules for replacing and deriving new statements"
     },
     {
-      "jargon": "Rules of detachment",
-      "layman": "Removing parts to derive new truths"
+      "jargon": "Search for single axioms",
+      "layman": "Looking for one simple rule"
     },
     {
-      "jargon": "Search for axioms",
-      "layman": "Looking for simple rules that work"
+      "jargon": "Seventy-year search",
+      "layman": "Long-term investigation spanning decades"
     },
     {
-      "jargon": "Seventy years of research",
-      "layman": "Long-term investigation"
+      "jargon": "Completing a search",
+      "layman": "Finishing a long-standing investigation"
     },
     {
-      "jargon": "Logical derivation",
-      "layman": "Building conclusions from logic"
+      "jargon": "Formal logic system",
+      "layman": "Set of mathematical rules for reasoning"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Yes, it works"
     },
     {
-      "jargon": "Completes a search",
-      "layman": "Finishes the investigation"
+      "jargon": "All eleven-symbol axioms found",
+      "layman": "All short logical rules identified"
     },
     {
-      "jargon": "All eleven-symbol axioms",
-      "layman": "All possible short rules found"
+      "jargon": "Open question resolved",
+      "layman": "A long-standing mystery solved"
     },
     {
-      "jargon": "Open question",
-      "layman": "Unknown problem"
+      "jargon": "Completion of search",
+      "layman": "The search is now finished"
     },
     {
-      "jargon": "Final confirmation",
-      "layman": "Final proof that it works"
+      "jargon": "Single axiom confirmed",
+      "layman": "One rule proven sufficient"
     }
   ]
 }

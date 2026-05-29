@@ -6,41 +6,41 @@
     },
     {
       "jargon": "Compactifications",
-      "layman": "Extended closed spaces"
-    },
-    {
-      "jargon": "CW complexes",
-      "layman": "Built-up geometric shapes"
+      "layman": "Expanded closed spaces"
     },
     {
       "jargon": "Non-finitely dominated complexes",
-      "layman": "Complex shapes not fully controlled"
+      "layman": "Complex shapes not easily simplified"
     },
     {
-      "jargon": "L? S2",
-      "layman": "L attached to a sphere"
+      "jargon": "CW complexes",
+      "layman": "Piecewise built shapes"
+    },
+    {
+      "jargon": "L ? S2",
+      "layman": "L connected to a sphere"
     }
   ],
   "methodologies": [
     {
       "jargon": "Conjectures",
-      "layman": "Hypotheses about patterns"
+      "layman": "Hypotheses about math rules"
     },
     {
       "jargon": "Extension dimension",
-      "layman": "How space can be extended"
+      "layman": "How space extends"
     },
     {
       "jargon": "Finite type",
-      "layman": "Limited structure type"
-    },
-    {
-      "jargon": "Fundamental group",
-      "layman": "Basic loop structure"
+      "layman": "Limited structure"
     },
     {
       "jargon": "Finite fundamental group",
-      "layman": "Group with finite elements"
+      "layman": "Simplest loop structure"
+    },
+    {
+      "jargon": "Analyzing topological properties",
+      "layman": "Studying shape behavior"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Not valid",
-      "layman": "Not true"
+      "layman": "False"
     },
     {
       "jargon": "Finite fundamental group",
-      "layman": "Finite group of loops"
+      "layman": "Simple loop pattern"
     },
     {
       "jargon": "Not finitely dominated",
-      "layman": "Not fully controlled"
+      "layman": "Cannot be reduced to finite size"
     }
   ]
 }

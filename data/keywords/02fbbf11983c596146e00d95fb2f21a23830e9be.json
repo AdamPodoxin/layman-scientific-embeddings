@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Relational signature",
-      "layman": "Set of relations defining structure"
+      "layman": "Structure defining relationships"
     },
     {
-      "jargon": "Reducts",
-      "layman": "Simplified versions of algebras"
+      "jargon": "Multisorted algebras",
+      "layman": "Algebras with multiple types"
     },
     {
       "jargon": "Positive existential algebras",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Quantifier-free algebras",
-      "layman": "Algebras without logical quantifiers"
+      "layman": "Algebras without quantifiers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Universal axioms",
-      "layman": "General rules that apply broadly"
+      "layman": "Rules that apply broadly"
     },
     {
       "jargon": "Embedding",
-      "layman": "Placing one system inside another"
+      "layman": "Fitting into a larger system"
+    },
+    {
+      "jargon": "Restrict attention",
+      "layman": "Limit focus to specific cases"
+    },
+    {
+      "jargon": "Add function symbols",
+      "layman": "Include new operations"
     },
     {
       "jargon": "Modular argument",
-      "layman": "Step-by-step, flexible reasoning"
-    },
-    {
-      "jargon": "Restricting attention",
-      "layman": "Focusing on specific cases"
-    },
-    {
-      "jargon": "Adding function symbols",
-      "layman": "Including new operations in system"
+      "layman": "Flexible, component-based reasoning"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Embeds into first order algebra",
-      "layman": "Can be placed inside a logical algebra"
+      "layman": "Fits inside logical structure"
     },
     {
       "jargon": "Relationship to theories",
       "layman": "Connection to logical theories"
     },
     {
-      "jargon": "Operations on relations",
-      "layman": "Actions on data connections"
+      "jargon": "Positive existential formulas",
+      "layman": "Formulas without negation or quantifiers"
     },
     {
-      "jargon": "Multisorted algebras",
-      "layman": "Algebras with multiple types of elements"
+      "jargon": "Quantifier-free formulas",
+      "layman": "Formulas without variables or quantifiers"
     }
   ]
 }

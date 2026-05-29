@@ -14,17 +14,17 @@
     },
     {
       "jargon": "Distributed memory architectures",
-      "layman": "Networked computers sharing memory"
+      "layman": "Computing systems with separate memory"
     },
     {
-      "jargon": "Math libraries",
-      "layman": "Mathematical toolkits"
+      "jargon": "High performance math libraries",
+      "layman": "Fast math toolkits"
     }
   ],
   "methodologies": [
     {
       "jargon": "Parallel computing",
-      "layman": "Splitting work across multiple processors"
+      "layman": "Dividing work to run at the same time"
     },
     {
       "jargon": "Modular design",
@@ -32,15 +32,15 @@
     },
     {
       "jargon": "Communication backends",
-      "layman": "Tools for computers to talk to each other"
+      "layman": "Systems for data sharing between parts"
+    },
+    {
+      "jargon": "Isoefficiency analysis",
+      "layman": "Testing how well performance scales"
     },
     {
       "jargon": "Empirical analysis",
       "layman": "Real-world data testing"
-    },
-    {
-      "jargon": "Isoefficiency analysis",
-      "layman": "Testing how well performance scales with size"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Scalability",
-      "layman": "Works well with large problems"
-    },
-    {
-      "jargon": "Performance drops",
-      "layman": "Slower than expected"
+      "layman": "Works well with large numbers of processors"
     },
     {
       "jargon": "Theoretical peak performance",
-      "layman": "Maximum possible speed"
+      "layman": "Maximum possible speed of a system"
     },
     {
-      "jargon": "Supercomputers",
-      "layman": "Very powerful computers"
+      "jargon": "Performance drop",
+      "layman": "Slower than expected"
+    },
+    {
+      "jargon": "Compared to C and MPI",
+      "layman": "Matches or beats traditional methods"
     }
   ]
 }

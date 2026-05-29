@@ -2,63 +2,63 @@
   "core_entities": [
     {
       "jargon": "Business processes",
-      "layman": "Company workflows"
+      "layman": "Business processes"
     },
     {
       "jargon": "Organizational resources",
-      "layman": "Company documents and tools"
+      "layman": "Company documents and systems"
     },
     {
       "jargon": "Legal documents repositories",
       "layman": "Places where laws are stored"
     },
     {
-      "jargon": "Standards and regulations",
-      "layman": "Rules and guidelines"
+      "jargon": "Standards",
+      "layman": "Official rules for operations"
     },
     {
-      "jargon": "Business process frameworks",
-      "layman": "Process templates used in companies"
+      "jargon": "Regulations",
+      "layman": "Government rules"
     }
   ],
   "methodologies": [
     {
       "jargon": "Knowledge extraction",
-      "layman": "Pulling out useful info"
+      "layman": "Pulling info from sources"
     },
     {
       "jargon": "Ontology storage",
-      "layman": "Storing knowledge in structured format"
+      "layman": "Storing facts in structured format"
+    },
+    {
+      "jargon": "Service model design",
+      "layman": "Designing a system to deliver services"
+    },
+    {
+      "jargon": "Embedding knowledge",
+      "layman": "Putting knowledge into systems"
+    },
+    {
+      "jargon": "Machine-readable format",
+      "layman": "Format computers can read"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Accurate process model",
+      "layman": "Realistic business process map"
+    },
+    {
+      "jargon": "External and internal sources",
+      "layman": "Data from inside and outside the company"
     },
     {
       "jargon": "Machine-readable format",
       "layman": "Format computers can read"
     },
     {
-      "jargon": "External and internal sources",
-      "layman": "Inside and outside company data"
-    },
-    {
-      "jargon": "Process modeling phase",
-      "layman": "Step to design workflows"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Accurate and realistic process model",
-      "layman": "Realistic workflow design"
-    },
-    {
-      "jargon": "Embedded knowledge",
-      "layman": "Knowledge built into systems"
-    },
-    {
-      "jargon": "Service model design",
-      "layman": "Designed knowledge system"
-    },
-    {
-      "jargon": "Machine-readable knowledge",
-      "layman": "Knowledge computers can use"
+      "jargon": "Knowledge representation",
+      "layman": "How knowledge is shown"
     },
     {
       "jargon": "Initial analysis phase",

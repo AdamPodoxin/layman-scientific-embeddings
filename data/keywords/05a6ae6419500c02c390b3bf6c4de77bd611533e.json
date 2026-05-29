@@ -1,20 +1,20 @@
 {
   "core_entities": [
     {
-      "jargon": "Recursive functions",
-      "layman": "Repeating functions"
+      "jargon": "Real-valued recursive functions",
+      "layman": "Functions that work with real numbers"
+    },
+    {
+      "jargon": "Integer-valued recursive functions",
+      "layman": "Functions that use whole numbers"
     },
     {
       "jargon": "Differential recursion operator",
-      "layman": "Operator that solves changing problems"
+      "layman": "Operator that solves equations using rates of change"
     },
     {
-      "jargon": "Partial functions",
-      "layman": "Functions that don't always work for all inputs"
-    },
-    {
-      "jargon": "Analytic functions",
-      "layman": "Smoothly changing functions"
+      "jargon": "Primitive recursive functions",
+      "layman": "Simple recursive functions built step by step"
     },
     {
       "jargon": "Differentially algebraic functions",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Initial value problems",
-      "layman": "Problems with starting conditions"
+      "layman": "Problems solved with starting values"
     },
     {
       "jargon": "Computable analysis",
-      "layman": "Studying what can be computed exactly"
+      "layman": "Mathematical analysis using computation rules"
     },
     {
-      "jargon": "Analog computation",
-      "layman": "Computing with continuous values"
+      "jargon": "Partial functions",
+      "layman": "Functions that don't always give an output"
     },
     {
-      "jargon": "Behavior of operators",
-      "layman": "How operations act on functions"
+      "jargon": "Analogy with integer functions",
+      "layman": "Using whole-number rules to build real-number rules"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Well-behavedness",
-      "layman": "Stable and predictable behavior"
-    },
-    {
-      "jargon": "Too big to relate to differentially algebraic functions",
-      "layman": "Too large to connect to known types of functions"
+      "jargon": "Analytic functions",
+      "layman": "Smooth and well-behaved functions"
     },
     {
       "jargon": "Strongly computable",
-      "layman": "Can be computed precisely"
+      "layman": "Can be calculated exactly by a machine"
+    },
+    {
+      "jargon": "Too big to relate to differentially algebraic functions",
+      "layman": "Too large to match differential equations functions"
+    },
+    {
+      "jargon": "No link to Shannon's model",
+      "layman": "Doesn't connect to early analog computing ideas"
     },
     {
       "jargon": "Technical inaccuracies",
-      "layman": "Errors in original work"
-    },
-    {
-      "jargon": "Shannon's model of analog computation",
-      "layman": "Shannon's idea of continuous computing"
+      "layman": "Errors in original scientific statements"
     }
   ]
 }

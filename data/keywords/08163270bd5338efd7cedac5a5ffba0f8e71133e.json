@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Bounded languages",
+      "jargon": "bounded languages",
       "layman": "Languages with limits"
     },
     {
-      "jargon": "Semilinear Parikh mapping",
-      "layman": "Pattern of symbol counts in language"
+      "jargon": "semilinear Parikh mappings",
+      "layman": "Patterns in word frequencies"
     },
     {
       "jargon": "EDTOL languages",
-      "layman": "Languages built step-by-step with rules"
+      "layman": "A type of language in computer theory"
     },
     {
-      "jargon": "Bounded context-free languages",
-      "layman": "Languages with limited context rules"
+      "jargon": "context-free languages",
+      "layman": "Language-like structures in grammar"
     },
     {
-      "jargon": "Finite intersections",
-      "layman": "Multiple language overlaps"
+      "jargon": "finite intersections",
+      "layman": "Grouping multiple sets together"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Prove",
+      "jargon": "prove",
       "layman": "Show is true"
     },
     {
-      "jargon": "Main proof argument",
-      "layman": "Key logic used to prove"
+      "jargon": "main proof argument",
+      "layman": "Key reasoning in the proof"
     },
     {
-      "jargon": "Establish",
+      "jargon": "establish",
       "layman": "Confirm or verify"
     },
     {
-      "jargon": "Complements of intersections",
-      "layman": "What's left when parts are removed"
+      "jargon": "complements",
+      "layman": "Opposite sets"
     },
     {
-      "jargon": "Semilinear mapping",
-      "layman": "Counting patterns in strings"
+      "jargon": "intersection",
+      "layman": "Shared part of two groups"
     }
   ],
   "outcomes": [
     {
       "jargon": "EDTOL language",
-      "layman": "Resulting language with step rules"
+      "layman": "A specific kind of formal language"
     },
     {
-      "jargon": "All finite intersections are EDTOL",
-      "layman": "Overlapping languages follow rules"
+      "jargon": "finite intersections of bounded context-free languages",
+      "layman": "Limited combinations of grammar rules"
     },
     {
-      "jargon": "Complements of intersections are EDTOL",
-      "layman": "Opposite cases also follow rules"
+      "jargon": "complements of these intersections",
+      "layman": "Opposite of combined rules"
     },
     {
-      "jargon": "Strictly bounded language",
-      "layman": "Language with clear limits"
+      "jargon": "strictly bounded language",
+      "layman": "Language with strict size limits"
     },
     {
-      "jargon": "Parikh mapping",
-      "layman": "Count how many times symbols appear"
+      "jargon": "semilinear mapping",
+      "layman": "Pattern of counts that follow a rule"
     }
   ]
 }

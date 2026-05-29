@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Employee memory",
-      "layman": "What employees know personally"
+      "layman": "What employees know"
+    },
+    {
+      "jargon": "Corporate databases",
+      "layman": "Company's stored information"
     },
     {
       "jargon": "Corporate portals",
-      "layman": "Company's online information hubs"
-    },
-    {
-      "jargon": "Email correspondence",
-      "layman": "Email messages within the company"
+      "layman": "Company's online info hubs"
     }
   ],
   "methodologies": [
     {
       "jargon": "Integration processes",
-      "layman": "Combining different knowledge sources"
+      "layman": "Combining different systems"
     },
     {
       "jargon": "Mathematical models",
-      "layman": "Equations to predict outcomes"
-    },
-    {
-      "jargon": "Software development",
-      "layman": "Building digital tools"
+      "layman": "Equations to predict behavior"
     },
     {
       "jargon": "Implementation",
-      "layman": "Putting a system into use"
+      "layman": "Putting a plan into action"
+    },
+    {
+      "jargon": "Management software",
+      "layman": "Software to manage data"
     },
     {
       "jargon": "Knowledge accumulation",
-      "layman": "Building up company knowledge over time"
+      "layman": "Building up company knowledge"
     }
   ],
   "outcomes": [
     {
+      "jargon": "Uncontrolled information growth",
+      "layman": "Too much data without order"
+    },
+    {
+      "jargon": "Knowledge usage problems",
+      "layman": "Hard to find useful info"
+    },
+    {
+      "jargon": "Improved intellectual capital management",
+      "layman": "Better use of company knowledge"
+    },
+    {
+      "jargon": "Staff adaptation",
+      "layman": "Employees adjusting to changes"
+    },
+    {
       "jargon": "Effective functioning of the company",
       "layman": "Company runs smoothly"
-    },
-    {
-      "jargon": "Growth in information accumulation",
-      "layman": "More data builds up"
-    },
-    {
-      "jargon": "Problems with information use",
-      "layman": "Difficulties using knowledge"
-    },
-    {
-      "jargon": "Improved management",
-      "layman": "Better control of knowledge"
-    },
-    {
-      "jargon": "Distributed learning environment implemented",
-      "layman": "Online learning system is live"
     }
   ]
 }

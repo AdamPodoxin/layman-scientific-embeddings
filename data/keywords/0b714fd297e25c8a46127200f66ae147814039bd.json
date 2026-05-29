@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Adolescent",
-      "layman": "Teenager"
+      "layman": "Young teenager"
     },
     {
       "jargon": "Parent-child relationship",
-      "layman": "Bond between parent and child"
+      "layman": "Connection between parents and children"
     },
     {
-      "jargon": "Emotional crisis",
-      "layman": "Major emotional struggle"
+      "jargon": "Young man",
+      "layman": "Young man"
     },
     {
-      "jargon": "Peer relationships",
-      "layman": "Relationships with friends"
+      "jargon": "Peer",
+      "layman": "Same-age friend"
     },
     {
-      "jargon": "Father-son dynamic",
-      "layman": "Father and son connection"
+      "jargon": "Father",
+      "layman": "Father"
     }
   ],
   "methodologies": [
     {
       "jargon": "Psychodynamic perspective",
-      "layman": "Focus on unconscious emotions and early experiences"
+      "layman": "Focus on unconscious emotions and relationships"
     },
     {
       "jargon": "Clinical work",
       "layman": "Therapeutic intervention"
     },
     {
+      "jargon": "Emotional crisis",
+      "layman": "Strong emotional struggle"
+    },
+    {
       "jargon": "Contextualization",
-      "layman": "Placing events in a broader life picture"
+      "layman": "Placing events in life\u2019s bigger picture"
     },
     {
-      "jargon": "Case study",
-      "layman": "In-depth look at one person's situation"
-    },
-    {
-      "jargon": "Developmental trajectory",
-      "layman": "Path of growth over time"
+      "jargon": "Development",
+      "layman": "Growth over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "School refusal",
-      "layman": "Refusing to go to school"
+      "jargon": "Emotional crisis",
+      "layman": "Emotional crisis"
+    },
+    {
+      "jargon": "Relationship to males",
+      "layman": "Connection with male peers or father"
     },
     {
       "jargon": "Anxious engagement",
-      "layman": "Worrying interaction with others"
+      "layman": "Worried or fearful interaction"
     },
     {
-      "jargon": "Emotional growth",
-      "layman": "Improving emotional skills"
-    },
-    {
-      "jargon": "Family dynamics",
-      "layman": "Patterns in family interactions"
+      "jargon": "Growth as a young man",
+      "layman": "Personal development"
     },
     {
       "jargon": "Life context",
-      "layman": "Full picture of a person's life"
+      "layman": "Life situation or background"
     }
   ]
 }

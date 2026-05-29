@@ -2,15 +2,11 @@
   "core_entities": [
     {
       "jargon": "Lock-free concurrent algorithms",
-      "layman": "Algorithms that allow threads to make progress without blocking"
+      "layman": "Algorithms that allow operations to progress without blocking"
     },
     {
       "jargon": "Wait-free algorithms",
-      "layman": "Algorithms that guarantee all operations complete quickly"
-    },
-    {
-      "jargon": "Concurrent operations",
-      "layman": "Multiple tasks running at the same time"
+      "layman": "Algorithms that guarantee all operations always finish"
     },
     {
       "jargon": "Stochastic scheduler",
@@ -18,51 +14,55 @@
     },
     {
       "jargon": "Markov chain",
-      "layman": "Math model for how systems change over time"
+      "layman": "Math model of random state changes"
+    },
+    {
+      "jargon": "Concurrent operations",
+      "layman": "Tasks running at the same time"
     }
   ],
   "methodologies": [
     {
       "jargon": "Markov chain lifting",
-      "layman": "Linking individual task progress to system-wide progress"
+      "layman": "Comparing task progress across systems"
+    },
+    {
+      "jargon": "Stochastic modeling",
+      "layman": "Modeling behavior using probabilities"
     },
     {
       "jargon": "Performance analysis",
-      "layman": "Measuring how fast tasks complete"
+      "layman": "Measuring how fast systems work"
+    },
+    {
+      "jargon": "Progress guarantee analysis",
+      "layman": "Testing if operations finish as expected"
     },
     {
       "jargon": "Scheduling conditions",
-      "layman": "Rules for how tasks are assigned to processors"
-    },
-    {
-      "jargon": "Progress guarantee",
-      "layman": "Ensuring operations don't stall"
-    },
-    {
-      "jargon": "Asymptotic behavior",
-      "layman": "Long-term performance trends"
+      "layman": "How tasks are assigned over time"
     }
   ],
   "outcomes": [
     {
       "jargon": "Wait-free progress with probability 1",
-      "layman": "Operations complete reliably over time"
+      "layman": "Operations complete almost always"
     },
     {
       "jargon": "Average number of steps",
-      "layman": "Typical time until a task finishes"
+      "layman": "Typical time until task finishes"
     },
     {
       "jargon": "Efficient algorithms",
-      "layman": "Fast and practical solutions"
+      "layman": "Fast-running algorithms"
     },
     {
-      "jargon": "Commercial hardware architectures",
-      "layman": "Real-world computer systems"
+      "jargon": "Non-blocking commercial code",
+      "layman": "Common code that doesn't stop others"
     },
     {
-      "jargon": "Stochastic model",
-      "layman": "Model based on expected, not worst-case, performance"
+      "jargon": "General subset of lock-free algorithms",
+      "layman": "Most common types of these algorithms"
     }
   ]
 }

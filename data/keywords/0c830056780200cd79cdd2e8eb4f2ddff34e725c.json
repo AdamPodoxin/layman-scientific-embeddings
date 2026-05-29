@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "bromonium ion",
-      "layman": "Bromine-containing positive ion"
+      "layman": "Bromine-containing intermediate"
     },
     {
       "jargon": "\u03b2-bromocarbenium ion",
-      "layman": "Bromine and carbon positive ion"
+      "layman": "Bromine-carbon intermediate"
     },
     {
       "jargon": "alkenes",
-      "layman": "Double-bonded carbon molecules"
-    },
-    {
-      "jargon": "reactive intermediates",
-      "layman": "Short-lived chemical species"
+      "layman": "Double-bonded hydrocarbons"
     },
     {
       "jargon": "solvent",
-      "layman": "Liquid environment around chemicals"
+      "layman": "Liquid environment"
+    },
+    {
+      "jargon": "reactive intermediates",
+      "layman": "Short-lived reaction building blocks"
     }
   ],
   "methodologies": [
     {
       "jargon": "kinetic studies",
-      "layman": "Speed of reactions measured"
+      "layman": "Rate measurements"
     },
     {
       "jargon": "stereochemical studies",
-      "layman": "Spatial arrangement of atoms observed"
+      "layman": "Spatial arrangement analysis"
     },
     {
       "jargon": "theoretical investigations",
-      "layman": "Computer simulations of reactions"
+      "layman": "Computer simulations"
     },
     {
       "jargon": "bromine addition",
-      "layman": "Bromine attaching to double bonds"
+      "layman": "Adding bromine to a double bond"
     },
     {
       "jargon": "rate of formation",
-      "layman": "How fast a reaction starts"
+      "layman": "How fast something forms"
     }
   ],
   "outcomes": [
     {
       "jargon": "rate of formation",
-      "layman": "How fast ions form"
+      "layman": "How fast the ion appears"
     },
     {
       "jargon": "subsequent evolution",
-      "layman": "How ions change over time"
+      "layman": "How the ion changes over time"
     },
     {
-      "jargon": "solvent effects",
-      "layman": "How liquid changes reaction behavior"
+      "jargon": "solvent influence",
+      "layman": "How liquid changes the reaction"
     },
     {
-      "jargon": "kinetic data",
-      "layman": "Reaction speed measurements"
+      "jargon": "stereochemistry",
+      "layman": "Spatial orientation of molecules"
     },
     {
-      "jargon": "stereochemical outcomes",
-      "layman": "3D structure of reaction products"
+      "jargon": "ionic intermediates",
+      "layman": "Temporary charged species"
     }
   ]
 }

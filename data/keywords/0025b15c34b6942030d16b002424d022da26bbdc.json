@@ -9,38 +9,38 @@
       "layman": "Formulas that refer to themselves"
     },
     {
-      "jargon": "Utility function",
-      "layman": "Measure of usefulness"
-    },
-    {
-      "jargon": "Initial proof searcher",
-      "layman": "First program that finds proofs"
+      "jargon": "Proof searcher",
+      "layman": "System that finds proofs"
     },
     {
       "jargon": "Self-rewrite",
-      "layman": "Changing its own code"
+      "layman": "Code that changes itself"
+    },
+    {
+      "jargon": "Utility function",
+      "layman": "Measure of usefulness"
     }
   ],
   "methodologies": [
+    {
+      "jargon": "Self-improving",
+      "layman": "Improves itself"
+    },
     {
       "jargon": "Proof search",
       "layman": "Searching for mathematical proofs"
     },
     {
       "jargon": "Computable proof techniques",
-      "layman": "Provable methods for solving problems"
+      "layman": "Methods that can generate proofs"
+    },
+    {
+      "jargon": "Rewriting code",
+      "layman": "Changing program code"
     },
     {
       "jargon": "Systematic testing",
-      "layman": "Methodical checking of options"
-    },
-    {
-      "jargon": "Self-improvement through rewriting",
-      "layman": "Improving itself by changing code"
-    },
-    {
-      "jargon": "Optimally efficient problem solving",
-      "layman": "Solving problems with minimal effort"
+      "layman": "Methodical evaluation"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "No local maxima",
-      "layman": "Never gets stuck in a suboptimal state"
-    },
-    {
-      "jargon": "Provable speed-ups",
-      "layman": "Speed improvements that can be shown to work"
-    },
-    {
-      "jargon": "Reduction of slowdowns",
-      "layman": "Fixing hidden delays"
+      "layman": "Never gets stuck in a suboptimal spot"
     },
     {
       "jargon": "Optimal order of complexity",
-      "layman": "Most efficient in terms of resources"
+      "layman": "Most efficient complexity"
+    },
+    {
+      "jargon": "Optimally reduces slowdowns",
+      "layman": "Removes performance delays"
+    },
+    {
+      "jargon": "Provable speed-ups",
+      "layman": "Speed improvements with proof support"
     }
   ]
 }

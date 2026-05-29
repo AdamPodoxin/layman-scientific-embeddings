@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Globalization",
-      "layman": "Worldwide connection"
+      "layman": "Worldwide connections"
     },
     {
       "jargon": "Undergraduate students",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Identity construction",
-      "layman": "Forming one's self-image"
+      "layman": "How people form their sense of self"
+    },
+    {
+      "jargon": "Global interconnectedness",
+      "layman": "Being linked across countries"
     },
     {
       "jargon": "Developed world",
       "layman": "Advanced economies"
-    },
-    {
-      "jargon": "Emerging world",
-      "layman": "Rapidly growing economies"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Interconnected world",
-      "layman": "Networked global environment"
+      "jargon": "Cite",
+      "layman": "Reference sources"
     },
     {
-      "jargon": "Anxiety",
-      "layman": "Worry"
+      "jargon": "Analyze",
+      "layman": "Examine data or ideas"
     },
     {
-      "jargon": "Disequilibrium",
-      "layman": "Imbalance"
+      "jargon": "Construct",
+      "layman": "Build or form ideas"
     },
     {
-      "jargon": "Cultural comparison",
-      "layman": "Comparing cultures"
+      "jargon": "Compare",
+      "layman": "Look at differences between things"
     },
     {
-      "jargon": "Pedagogical adaptation",
-      "layman": "Changing teaching methods"
+      "jargon": "Inherit",
+      "layman": "Receive from the past"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Global flatness",
-      "layman": "World feels flat and connected"
+      "jargon": "Generalized sense of disequilibrium",
+      "layman": "Widespread feeling of instability"
     },
     {
-      "jargon": "Increased opportunity",
+      "jargon": "Increased opportunities",
       "layman": "More chances for success"
     },
     {
-      "jargon": "Generalized anxiety",
-      "layman": "Widespread worry"
+      "jargon": "Heightened anxiety",
+      "layman": "Greater worry"
     },
     {
-      "jargon": "Sense of disequilibrium",
-      "layman": "Feeling of imbalance"
+      "jargon": "Flat world",
+      "layman": "World with fewer boundaries"
     },
     {
-      "jargon": "Identity formation",
-      "layman": "Building personal identity"
+      "jargon": "Interconnected world",
+      "layman": "A world where things are linked"
     }
   ]
 }

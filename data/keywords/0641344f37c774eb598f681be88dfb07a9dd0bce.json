@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "religious change",
-      "layman": "shifts in religious beliefs or practices"
+      "jargon": "Religious change",
+      "layman": "Shifts in religious beliefs or practices"
     },
     {
-      "jargon": "secularization theories",
-      "layman": "ideas about religion declining in society"
+      "jargon": "Secularization theories",
+      "layman": "Ideas about religion declining in society"
     },
     {
-      "jargon": "religious regulation",
-      "layman": "rules governing religious activities"
+      "jargon": "Religious regulation",
+      "layman": "Government control over religion"
     },
     {
-      "jargon": "subsidies",
-      "layman": "financial support for religion"
+      "jargon": "Subsidies",
+      "layman": "Financial support for religious groups"
     },
     {
-      "jargon": "negative sanctions",
-      "layman": "punishments for religious behavior"
+      "jargon": "Restriction",
+      "layman": "Limits placed on religious activities"
     }
   ],
   "methodologies": [
     {
-      "jargon": "theoretical approaches",
-      "layman": "ways of thinking about a topic"
+      "jargon": "Theoretical approaches",
+      "layman": "Scientific ideas used to explain things"
     },
     {
-      "jargon": "literature on religious change",
-      "layman": "existing studies on religion changing"
+      "jargon": "Literature on religious change",
+      "layman": "Existing studies on religion shifting"
     },
     {
-      "jargon": "analysis of key variables",
-      "layman": "examining factors that matter"
+      "jargon": "Analysis of variables",
+      "layman": "Examining factors that affect change"
     },
     {
-      "jargon": "expansion of concepts",
-      "layman": "adding new ideas to existing theories"
+      "jargon": "Application to China",
+      "layman": "Using theories on Chinese religious context"
     },
     {
-      "jargon": "application to China",
-      "layman": "using theories on Chinese context"
+      "jargon": "Expansion of concepts",
+      "layman": "Adding new ideas to old theories"
     }
   ],
   "outcomes": [
     {
-      "jargon": "differences in religion",
-      "layman": "variations in religious practices"
+      "jargon": "Assumptions concerning demand for religion",
+      "layman": "Beliefs about why people need religion"
     },
     {
-      "jargon": "demand for religion",
-      "layman": "people's need for religious belief"
+      "jargon": "Non-state positive reinforcements",
+      "layman": "Non-governmental supportive actions"
     },
     {
-      "jargon": "religiously-legitimated rules",
-      "layman": "rules supported by religion"
+      "jargon": "Negative sanctions",
+      "layman": "Punishments for religious actions"
     },
     {
-      "jargon": "non-state positive reinforcements",
-      "layman": "non-governmental rewards for religious behavior"
+      "jargon": "Religiously-legitimated rules",
+      "layman": "Rules supported by religious authority"
     },
     {
-      "jargon": "near-future situation",
-      "layman": "what religion might look like soon"
+      "jargon": "Near-future situation of religion in China",
+      "layman": "What religion might be like in China soon"
     }
   ]
 }

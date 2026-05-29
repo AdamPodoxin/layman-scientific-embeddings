@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Self-help vernacular architectural system",
-      "layman": "Local building style using community knowledge"
+      "layman": "Local building style done by residents"
     },
     {
       "jargon": "Plantation-dominated land tenure system",
-      "layman": "Land system based on large farms"
+      "layman": "Land system based on plantations"
     },
     {
       "jargon": "Movable chattel housing",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Bridgetown metropolitan",
-      "layman": "City area of Barbados"
+      "layman": "City area of Bridgetown"
     }
   ],
   "methodologies": [
     {
       "jargon": "Socio-geographical analysis",
-      "layman": "Study of social and location patterns"
-    },
-    {
-      "jargon": "Comprehensive analysis",
-      "layman": "Detailed investigation"
+      "layman": "Study of social patterns in locations"
     },
     {
       "jargon": "Historical forces",
       "layman": "Past events shaping today"
     },
     {
-      "jargon": "Evolution",
-      "layman": "Change over time"
+      "jargon": "Comprehensive analysis",
+      "layman": "Full review of data"
     },
     {
       "jargon": "Land tenure system",
-      "layman": "How land is owned and used"
+      "layman": "How land ownership is managed"
+    },
+    {
+      "jargon": "Evolution of housing",
+      "layman": "Change over time in housing types"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Marked variations in urban housing quality",
-      "layman": "Big differences in home quality"
+      "jargon": "Marked variations in housing quality",
+      "layman": "Big differences in housing quality"
     },
     {
       "jargon": "Insecurity of tenure",
       "layman": "Fear of losing land or home"
     },
     {
-      "jargon": "Housing improvement efforts",
-      "layman": "Attempts to upgrade homes"
+      "jargon": "Progressive self-help",
+      "layman": "Gradual improvement by local people"
     },
     {
-      "jargon": "Distinctive form of housing",
+      "jargon": "Distinctive housing form",
       "layman": "Unique type of home"
     },
     {
-      "jargon": "First ever comprehensive analysis",
-      "layman": "First full study of housing conditions"
+      "jargon": "First-ever comprehensive analysis",
+      "layman": "First full study of the topic"
     }
   ]
 }

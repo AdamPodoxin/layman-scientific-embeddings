@@ -1,8 +1,12 @@
 {
   "core_entities": [
     {
-      "jargon": "Master's Degree in Electronics Engineering",
-      "layman": "Advanced electronics engineering program"
+      "jargon": "Master's Degree",
+      "layman": "Advanced university degree"
+    },
+    {
+      "jargon": "Electronics Engineering",
+      "layman": "Engineering focused on electronic systems"
     },
     {
       "jargon": "University of La Laguna",
@@ -13,12 +17,8 @@
       "layman": "Course structure"
     },
     {
-      "jargon": "Electronics Engineering",
-      "layman": "Engineering of electronic systems"
-    },
-    {
       "jargon": "Spanish regulations",
-      "layman": "Spanish education rules"
+      "layman": "Legal requirements of Spain"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Submitting a plan for approval"
     },
     {
-      "jargon": "Compliance check",
-      "layman": "Ensuring rules are followed"
+      "jargon": "Compliance review",
+      "layman": "Checking if rules are followed"
+    },
+    {
+      "jargon": "Academic structure design",
+      "layman": "Planning course layout"
     },
     {
       "jargon": "Regulatory alignment",
-      "layman": "Matching with official standards"
+      "layman": "Matching with official rules"
     },
     {
-      "jargon": "Academic program design",
-      "layman": "Designing a course plan"
-    },
-    {
-      "jargon": "Educational framework",
-      "layman": "Structure of teaching and learning"
+      "jargon": "Degree approval process",
+      "layman": "Formal approval of the program"
     }
   ],
   "outcomes": [
     {
       "jargon": "New MDEE program",
-      "layman": "New engineering degree"
-    },
-    {
-      "jargon": "Approval by university bodies",
-      "layman": "University approval"
-    },
-    {
-      "jargon": "Curriculum compliance",
-      "layman": "Meeting required standards"
-    },
-    {
-      "jargon": "Educational offering",
-      "layman": "New course offering"
+      "layman": "New engineering program"
     },
     {
       "jargon": "Regulatory compliance",
-      "layman": "Following legal rules"
+      "layman": "Meeting all legal standards"
+    },
+    {
+      "jargon": "Degree submission",
+      "layman": "Sending the program for review"
+    },
+    {
+      "jargon": "Educational framework",
+      "layman": "Course system for students"
+    },
+    {
+      "jargon": "Curriculum approval",
+      "layman": "Acceptance of course plan"
     }
   ]
 }

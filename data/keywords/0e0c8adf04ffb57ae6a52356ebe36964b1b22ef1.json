@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Schenkerian theory",
-      "layman": "Theory of tonal structure"
+      "layman": "Musical theory about tonal structure"
     },
     {
       "jargon": "Empirical knowledge",
-      "layman": "Observations-based understanding"
+      "layman": "Knowledge from observation and data"
     },
     {
-      "jargon": "New Musicology",
-      "layman": "Study of music as culture"
+      "jargon": "Aesthetic properties",
+      "layman": "What makes music pleasing"
     },
     {
-      "jargon": "Naturalized music theory",
-      "layman": "Music theory rooted in natural laws"
+      "jargon": "Non-aesthetic properties",
+      "layman": "Musical features that aren't about beauty"
     }
   ],
   "methodologies": [
     {
       "jargon": "Large-scale tonal closure experiments",
-      "layman": "Testing musical completion in long pieces"
+      "layman": "Testing how people feel music completes"
+    },
+    {
+      "jargon": "Testing the limits of Schenker's theory",
+      "layman": "Checking how well the theory predicts behavior"
     },
     {
       "jargon": "Empirical testing",
-      "layman": "Testing with real data"
+      "layman": "Using real data to test ideas"
     },
     {
       "jargon": "Analytical discourse",
-      "layman": "Interpretation of music"
+      "layman": "Discussing music in a structured way"
     },
     {
-      "jargon": "Cognitive psychology",
-      "layman": "How the mind processes music"
-    },
-    {
-      "jargon": "Model testing",
-      "layman": "Checking if a theory fits real music"
+      "jargon": "Naturalization",
+      "layman": "Connecting music to real-world patterns"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Even split in preferences",
-      "layman": "Equal liking for open and closed music"
+      "jargon": "Even division of preferences",
+      "layman": "People split equally in opinion"
     },
     {
-      "jargon": "Testable limits",
-      "layman": "Clear boundaries for a theory"
+      "jargon": "Falsifiable model",
+      "layman": "Theory that can be proven wrong"
     },
     {
       "jargon": "Methodological problems",
       "layman": "Flaws in how theories are tested"
     },
     {
-      "jargon": "Epistemological issues",
-      "layman": "Questions about how knowledge is formed"
+      "jargon": "Coherent epistemic guidelines",
+      "layman": "Clear rules for how knowledge is built"
     },
     {
-      "jargon": "Open empiric question",
-      "layman": "Still unknown, needs more testing"
+      "jargon": "Empiric question",
+      "layman": "A question that can be answered by observation"
     }
   ]
 }

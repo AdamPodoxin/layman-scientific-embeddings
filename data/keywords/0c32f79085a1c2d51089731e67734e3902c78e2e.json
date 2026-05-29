@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Grain boundaries",
-      "layman": "Lines between crystal pieces"
+      "layman": "Lines between crystal sections"
     },
     {
       "jargon": "\u03b2-Cu particles",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Optical microscope",
-      "layman": "Magnifying glass for materials"
+      "layman": "Magnifying glass for seeing small details"
     },
     {
       "jargon": "Electric resistivity test",
-      "layman": "Measures how well material conducts electricity"
+      "layman": "Measuring how well a material conducts electricity"
     },
     {
       "jargon": "SEM",
-      "layman": "High-resolution surface imaging"
+      "layman": "High-resolution imaging of surfaces"
     },
     {
       "jargon": "Hardness test",
-      "layman": "Tests how tough a material is"
+      "layman": "Testing how resistant a material is to deformation"
     },
     {
       "jargon": "Aging treatment",
-      "layman": "Heat exposure over time"
+      "layman": "Slow heating and cooling process over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Electric resistivity decreased rapidly",
-      "layman": "Electrical resistance dropped quickly"
+      "jargon": "Electric resistivity decreased",
+      "layman": "Electrical resistance dropped"
     },
     {
-      "jargon": "Reached a constant value after minimum",
-      "layman": "Stabilized after dropping"
-    },
-    {
-      "jargon": "Fine particles precipitated",
-      "layman": "Small crystals formed"
+      "jargon": "Reached a constant value",
+      "layman": "Stabilized after initial change"
     },
     {
       "jargon": "Cu supersaturation",
-      "layman": "Too much copper in silver"
+      "layman": "Too much copper in silver at first"
     },
     {
-      "jargon": "Nodule formation significantly retarded",
+      "jargon": "Nodule formation retarded",
       "layman": "Lump formation slowed down"
+    },
+    {
+      "jargon": "Precipitated particles",
+      "layman": "Small crystals formed inside material"
     }
   ]
 }

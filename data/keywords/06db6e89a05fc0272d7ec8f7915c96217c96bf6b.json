@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "chronic kidney disease",
-      "layman": "kidney disease that lasts a long time"
+      "jargon": "Chronic kidney disease",
+      "layman": "Long-term kidney damage"
     },
     {
-      "jargon": "hospital admissions",
-      "layman": "visits to hospital"
+      "jargon": "Cardiovascular disease",
+      "layman": "Heart and blood vessel disease"
     },
     {
-      "jargon": "cardiovascular disease",
-      "layman": "heart or blood vessel disease"
+      "jargon": "Hospital admissions",
+      "layman": "Hospital visits due to illness"
     },
     {
-      "jargon": "renal team",
-      "layman": "kidney care team"
+      "jargon": "Renal team",
+      "layman": "Kidney care team"
     },
     {
-      "jargon": "general practice records",
-      "layman": "doctor's office records"
+      "jargon": "General practice records",
+      "layman": "GP medical records"
     }
   ],
   "methodologies": [
     {
-      "jargon": "prospective cohort study",
-      "layman": "long-term study following patients over time"
+      "jargon": "Prospective cohort study",
+      "layman": "Long-term follow-up of patients over time"
     },
     {
-      "jargon": "observational study",
-      "layman": "study watching patients without changing their treatment"
+      "jargon": "Observational study",
+      "layman": "Watching patients without changing care"
     },
     {
-      "jargon": "Hospital Episode Statistics database",
-      "layman": "hospital records system"
+      "jargon": "Hospital Episode Statistics",
+      "layman": "Hospital records system"
     },
     {
       "jargon": "Quality and Outcomes Framework",
-      "layman": "national health care quality standards"
+      "layman": "National healthcare quality standards"
     },
     {
-      "jargon": "multicentre cohort study",
-      "layman": "study across many hospitals"
+      "jargon": "Multicentre cohort study",
+      "layman": "Study across many hospitals"
     }
   ],
   "outcomes": [
     {
-      "jargon": "hospital readmission rates",
-      "layman": "how often patients return to hospital"
+      "jargon": "Hospital readmission rates",
+      "layman": "How often patients return to hospital"
     },
     {
-      "jargon": "mortality",
-      "layman": "death rate"
+      "jargon": "Mortality data",
+      "layman": "Death rate tracking"
     },
     {
-      "jargon": "evidence-based treatments",
-      "layman": "treatments proven to work in studies"
+      "jargon": "Comorbidities",
+      "layman": "Other health conditions present"
     },
     {
-      "jargon": "adverse effects",
-      "layman": "harmful side effects"
+      "jargon": "Treatment disparities",
+      "layman": "Uneven access to treatments"
     },
     {
-      "jargon": "concurrent comorbidities",
-      "layman": "other health problems at the same time"
+      "jargon": "Adverse effects",
+      "layman": "Harmful side effects"
     }
   ]
 }

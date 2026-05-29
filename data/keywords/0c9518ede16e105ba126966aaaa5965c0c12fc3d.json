@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Analog and mixed-signal (AMS) models",
-      "layman": "Models for circuits with both analog and digital parts"
+      "layman": "Models for mixed electronic signals"
     },
     {
       "jargon": "Behavioral models",
       "layman": "How circuits behave over time"
     },
     {
-      "jargon": "Model functionality",
-      "layman": "What a circuit is supposed to do"
+      "jargon": "Specification",
+      "layman": "Design instructions"
     },
     {
       "jargon": "Expert system",
-      "layman": "Computer system that mimics expert decision-making"
+      "layman": "Smart system that mimics expert decisions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Case-based reasoning",
-      "layman": "Solving problems by using past examples"
-    },
-    {
-      "jargon": "Library of previously developed models",
-      "layman": "Collection of saved circuit designs"
+      "layman": "Using past examples to make decisions"
     },
     {
       "jargon": "Model synthesis",
-      "layman": "Creating a new model from existing ones"
+      "layman": "Building new models from existing ones"
+    },
+    {
+      "jargon": "Library of previously developed models",
+      "layman": "Collection of saved models"
     },
     {
       "jargon": "Top-down design methodologies",
-      "layman": "Designing from overall goal to details"
+      "layman": "Starting with a high-level design"
     },
     {
-      "jargon": "Automatic generation",
-      "layman": "Creating models without human input"
+      "jargon": "Manipulation of models",
+      "layman": "Adjusting models to fit new needs"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Automatically generated models",
+      "layman": "Models created without human input"
+    },
     {
       "jargon": "Expert quality",
       "layman": "As good as a human expert's work"
     },
     {
-      "jargon": "Automatically generated models",
-      "layman": "Models made by computer"
+      "jargon": "Model functionality representation",
+      "layman": "How a model performs described"
     },
     {
-      "jargon": "Synthesized model",
-      "layman": "New model built from examples"
+      "jargon": "Behavioral model synthesis",
+      "layman": "Creating models that behave accurately"
     },
     {
-      "jargon": "Functional representation",
-      "layman": "Clear description of what the model does"
-    },
-    {
-      "jargon": "Behavioral accuracy",
-      "layman": "How well the model matches real behavior"
+      "jargon": "Design automation",
+      "layman": "Automating circuit design processes"
     }
   ]
 }

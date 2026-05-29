@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "DiffServ networks",
-      "layman": "Networks with quality-of-service features"
+      "layman": "Networks that manage data traffic quality"
     },
     {
-      "jargon": "Control architecture",
-      "layman": "System for managing network settings"
+      "jargon": "QoS provisioning",
+      "layman": "Setting quality of service levels"
     },
     {
-      "jargon": "Policy-based approach",
-      "layman": "Rules-based network management"
-    },
-    {
-      "jargon": "DiffServ nodes",
-      "layman": "Network devices that handle traffic"
+      "jargon": "Control nodes",
+      "layman": "Network devices that manage traffic"
     },
     {
       "jargon": "API",
-      "layman": "Interface for device control"
+      "layman": "Set of tools to control devices remotely"
+    },
+    {
+      "jargon": "Policy-based approach",
+      "layman": "System that follows set rules for control"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Customized configuration",
-      "layman": "Tailored network setup"
+      "layman": "Tailored setup for each network"
     },
     {
-      "jargon": "Flexible control",
-      "layman": "Adaptable network management"
+      "jargon": "Flexible control architecture",
+      "layman": "Adaptable network control design"
     },
     {
       "jargon": "Client/server policy",
-      "layman": "Central control with device requests"
+      "layman": "Central system controls network devices"
     },
     {
-      "jargon": "Node instrumentation",
-      "layman": "Monitoring and setting up network devices"
+      "jargon": "Minimum control functions",
+      "layman": "Basic commands available to manage devices"
     }
   ],
   "outcomes": [
     {
       "jargon": "Efficient control",
-      "layman": "Smooth network management"
+      "layman": "Smooth and fast network management"
     },
     {
-      "jargon": "Scalable QoS provisioning",
-      "layman": "Growing network with stable service levels"
+      "jargon": "Scalable QoS",
+      "layman": "Quality service that works well at large scale"
     },
     {
       "jargon": "Reduced complexity",
       "layman": "Simpler network management"
     },
     {
-      "jargon": "Flexible configuration",
-      "layman": "Adjustable network settings"
+      "jargon": "Customized management",
+      "layman": "Personalized network settings"
     },
     {
-      "jargon": "Customized management",
-      "layman": "Personalized network control"
+      "jargon": "Distributed control architecture",
+      "layman": "Control spread across the network"
     }
   ]
 }

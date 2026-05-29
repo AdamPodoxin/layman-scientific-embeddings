@@ -24,19 +24,19 @@
   "methodologies": [
     {
       "jargon": "Maximal analytic extension",
-      "layman": "Extending the model to include all possible solutions"
+      "layman": "Extending the model as far as possible mathematically"
     },
     {
       "jargon": "Euclidean approach",
-      "layman": "Using flat space math for quantum analysis"
+      "layman": "Using flat space math for analysis"
     },
     {
-      "jargon": "Quantum aspects analysis",
-      "layman": "Studying quantum behavior in gravity"
+      "jargon": "Quantum aspects",
+      "layman": "Quantum behavior study"
     },
     {
-      "jargon": "Thermodynamics discussion",
-      "layman": "Studying heat and energy in spacetime"
+      "jargon": "Thermodynamics",
+      "layman": "Study of heat and energy in spacetime"
     },
     {
       "jargon": "Exact solution",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Nature of singularities",
-      "layman": "How singularities behave"
+      "layman": "Type of infinities in the model"
     },
     {
       "jargon": "Gravitational field",
-      "layman": "How gravity is produced"
+      "layman": "Strength of gravity around the mass"
     },
     {
-      "jargon": "Quantum aspects",
-      "layman": "Quantum effects in gravity"
+      "jargon": "Background spacetime",
+      "layman": "Set environment for gravity"
     },
     {
-      "jargon": "Thermodynamics of spacetime",
-      "layman": "Heat-like behavior of space and time"
+      "jargon": "Quantum analysis",
+      "layman": "Quantum effects found in gravity"
     },
     {
-      "jargon": "Analytic extension",
-      "layman": "How the model extends beyond known limits"
+      "jargon": "Thermodynamic properties",
+      "layman": "Energy and heat of spacetime"
     }
   ]
 }

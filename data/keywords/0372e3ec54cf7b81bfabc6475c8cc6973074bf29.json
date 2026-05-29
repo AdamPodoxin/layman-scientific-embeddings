@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Diamond particle reinforced molten alloy",
-      "layman": "Material with diamond particles in molten metal"
+      "layman": "Material with diamond particles in liquid metal"
     },
     {
       "jargon": "Molten alloy",
@@ -18,25 +18,25 @@
     },
     {
       "jargon": "Diluent",
-      "layman": "Liquid filler to adjust consistency"
+      "layman": "Material that thickens or fills space"
     }
   ],
   "methodologies": [
     {
       "jargon": "Surface treatment",
-      "layman": "Coating particles to improve bonding"
+      "layman": "Coating particles before mixing"
     },
     {
       "jargon": "Coating with tungsten layers",
-      "layman": "Adding tungsten layer to diamond surface"
+      "layman": "Adding tungsten to diamond surface"
     },
     {
       "jargon": "Adding diamond particles to liquid metal",
-      "layman": "Mixing diamond into liquid metal"
+      "layman": "Mixing diamond into molten metal"
     },
     {
       "jargon": "Preparation method",
-      "layman": "Step-by-step making process"
+      "layman": "Step-by-step process to make material"
     },
     {
       "jargon": "Dispersion process",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Improved interface bonding strength",
-      "layman": "Stronger connection between materials"
+      "layman": "Stronger connection between parts"
     },
     {
       "jargon": "Better dispersion of diamond particles",
-      "layman": "Diamonds spread evenly"
+      "layman": "Diamonds spread evenly in metal"
     },
     {
       "jargon": "High thermal conductivity",
-      "layman": "Excellent heat transfer"
+      "layman": "Great at conducting heat"
     },
     {
       "jargon": "High thermal stability",
-      "layman": "Stays stable at high temperatures"
+      "layman": "Stays stable at high heat"
     },
     {
-      "jargon": "Simple operation",
-      "layman": "Easy to use and make"
+      "jargon": "Effective in heat dissipation",
+      "layman": "Good at removing heat from devices"
     }
   ]
 }

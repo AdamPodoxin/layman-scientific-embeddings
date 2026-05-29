@@ -6,11 +6,11 @@
     },
     {
       "jargon": "BPP",
-      "layman": "Efficient probabilistic algorithms"
+      "layman": "Efficiently solvable problems with high accuracy"
     },
     {
       "jargon": "PSPACE",
-      "layman": "Complexity class for problems with large memory needs"
+      "layman": "Problems solvable with lots of memory"
     },
     {
       "jargon": "P/poly",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Polynomial-time truth-table reducibility",
-      "layman": "Reduction using efficient computation"
+      "layman": "Reducing problems using efficient computation"
     },
     {
       "jargon": "Proof in extensions of ZF",
-      "layman": "Proving statements in stronger mathematical systems"
+      "layman": "Extending logical rules to prove statements"
     },
     {
       "jargon": "Efficient reducibility",
-      "layman": "Reducing problems using fast methods"
+      "layman": "Reducing one problem to another quickly"
     },
     {
-      "jargon": "Investigation of upper bounds",
-      "layman": "Testing limits of known results"
+      "jargon": "Circuit complexity",
+      "layman": "How complex a digital circuit needs to be"
     },
     {
-      "jargon": "Characterization of complexity classes",
-      "layman": "Defining classes by their problem difficulty"
+      "jargon": "Arithmetic statements",
+      "layman": "Mathematical claims about numbers"
     }
   ],
   "outcomes": [
     {
       "jargon": "C lies between BPP and PSPACE",
-      "layman": "A middle complexity class exists"
+      "layman": "C is harder than BPP but easier than PSPACE"
     },
     {
       "jargon": "BPP C PSPACE \\ P/poly",
-      "layman": "The class is above probabilistic models with advice"
+      "layman": "C is not in P/poly, and lies above BPP"
     },
     {
-      "jargon": "Conjecture that C = BPP = P",
-      "layman": "Guess that all these classes are equal"
+      "jargon": "C = BPP = P",
+      "layman": "All three classes are equal"
+    },
+    {
+      "jargon": "Undecidable set",
+      "layman": "Set with no algorithm to decide membership"
     },
     {
       "jargon": "Equality of BPP and P",
-      "layman": "Probabilistic and deterministic computation are same"
-    },
-    {
-      "jargon": "True statements in arithmetic",
-      "layman": "Valid mathematical facts about numbers"
+      "layman": "Proving efficient randomness equals deterministic computation"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Ventricular tachycardia",
-      "layman": "Rapid heartbeats from the lower chambers"
+      "layman": "Fast heart rhythm from the lower chambers"
     },
     {
       "jargon": "Congenital heart disease",
-      "layman": "Heart defects present at birth"
+      "layman": "Heart condition present at birth"
     },
     {
       "jargon": "Palliative repair",
@@ -14,33 +14,33 @@
     },
     {
       "jargon": "Cardioverter-defibrillator",
-      "layman": "Device that shocks the heart to restore rhythm"
+      "layman": "Device that stops dangerous heart rhythms"
     },
     {
-      "jargon": "Electrophysiology studies",
-      "layman": "Tests to map heart electrical activity"
+      "jargon": "Echocardiography",
+      "layman": "Heart ultrasound"
     }
   ],
   "methodologies": [
     {
       "jargon": "Echocardiography",
-      "layman": "Ultrasound of the heart"
+      "layman": "Heart ultrasound"
     },
     {
       "jargon": "Cardiac catheterization",
-      "layman": "Tube inserted into heart to measure pressure"
+      "layman": "Tube test to measure heart pressure"
+    },
+    {
+      "jargon": "Electrophysiology studies",
+      "layman": "Test to map heart electrical signals"
     },
     {
       "jargon": "Risk assessment",
-      "layman": "Evaluating how likely a problem is"
+      "layman": "Determining how likely a problem is"
     },
     {
       "jargon": "Medical management",
-      "layman": "Medicine-based treatment"
-    },
-    {
-      "jargon": "Implantation",
-      "layman": "Putting a device in the body"
+      "layman": "Treating with medications"
     }
   ],
   "outcomes": [
@@ -49,16 +49,16 @@
       "layman": "Early health problems"
     },
     {
-      "jargon": "Intermediate morbidity",
-      "layman": "Health issues in the middle term"
+      "jargon": "Intermediate mortality",
+      "layman": "Death in middle-term recovery"
     },
     {
       "jargon": "Late mortality",
-      "layman": "Death after a long time"
+      "layman": "Death after long-term follow-up"
     },
     {
       "jargon": "Postoperative VT",
-      "layman": "Rapid heartbeats after surgery"
+      "layman": "Fast heart rhythm after surgery"
     },
     {
       "jargon": "Long-term management",

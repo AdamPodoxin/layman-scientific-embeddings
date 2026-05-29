@@ -2,19 +2,19 @@
   "core_entities": [
     {
       "jargon": "Web architecture",
-      "layman": "Web structure"
+      "layman": "Structure of the web"
     },
     {
       "jargon": "Search engines",
-      "layman": "Search tools"
+      "layman": "Tools that find web pages"
     },
     {
       "jargon": "Photo-sharing",
-      "layman": "Sharing photos"
+      "layman": "Sharing photos online"
     },
     {
       "jargon": "Financial transactions",
-      "layman": "Money transfers"
+      "layman": "Money exchanges online"
     },
     {
       "jargon": "APIs",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Build on top of",
-      "layman": "Add software to existing systems"
+      "jargon": "Build a program on top of the Web",
+      "layman": "Create software using web tools"
+    },
+    {
+      "jargon": "Write software that serves users fairly",
+      "layman": "Make software that's fair to users"
+    },
+    {
+      "jargon": "Bolt on an API as an afterthought",
+      "layman": "Add API late without planning"
     },
     {
       "jargon": "Co-exist peacefully",
       "layman": "Work together without conflict"
     },
     {
-      "jargon": "Program on top of the Web",
-      "layman": "Create software using the Web"
-    },
-    {
-      "jargon": "Bolted on top",
-      "layman": "Added later without planning"
-    },
-    {
-      "jargon": "Supporting applications",
-      "layman": "Apps that use the Web"
+      "jargon": "Support everything from photo-sharing to financial transactions",
+      "layman": "Support many different uses"
     }
   ],
   "outcomes": [
     {
-      "jargon": "What it got right",
-      "layman": "What works well"
+      "jargon": "What the Web got right",
+      "layman": "What worked well"
     },
     {
-      "jargon": "What it got wrong",
-      "layman": "What fails or misfires"
+      "jargon": "What the Web got wrong",
+      "layman": "What failed or was flawed"
     },
     {
-      "jargon": "Why it is the way it is",
-      "layman": "Reasons for current design"
+      "jargon": "Why the Web is the way it is",
+      "layman": "Reasons for its current form"
     },
     {
-      "jargon": "Fairly serves users",
-      "layman": "Helps users fairly"
+      "jargon": "User and search engine co-existence",
+      "layman": "Users and search tools work together"
     },
     {
-      "jargon": "Developers building on top",
-      "layman": "Others creating new tools"
+      "jargon": "Fairly serve immediate users and developers",
+      "layman": "Be fair to both users and builders"
     }
   ]
 }

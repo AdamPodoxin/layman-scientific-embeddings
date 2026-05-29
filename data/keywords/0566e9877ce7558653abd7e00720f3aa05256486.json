@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Logical connectives",
+      "layman": "Logic operators"
+    },
+    {
+      "jargon": "Symbolic logic",
+      "layman": "Written logic rules"
+    },
+    {
+      "jargon": "Computer functions",
+      "layman": "Computer tasks"
+    },
+    {
+      "jargon": "Logical elements",
+      "layman": "Logic circuits"
+    },
+    {
+      "jargon": "Assembly and compiler languages",
+      "layman": "Program code languages"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Algebraic manipulation",
+      "layman": "Math-like logic operations"
+    },
+    {
+      "jargon": "Logical design",
+      "layman": "Designing logic circuits"
+    },
+    {
+      "jargon": "Timing problems",
+      "layman": "Synchronization issues"
+    },
+    {
+      "jargon": "Minimization",
+      "layman": "Simplifying logic"
+    },
+    {
+      "jargon": "Circuit analysis",
+      "layman": "Studying circuit behavior"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Symbol manipulation",
+      "layman": "Working with symbols"
+    },
+    {
+      "jargon": "Formulation of algorithms",
+      "layman": "Creating step-by-step solutions"
+    },
+    {
+      "jargon": "Hardware design",
+      "layman": "Building computer parts"
+    },
+    {
+      "jargon": "Software design",
+      "layman": "Creating computer programs"
+    },
+    {
+      "jargon": "Logical consistency",
+      "layman": "No contradictions in logic"
+    }
+  ]
+}

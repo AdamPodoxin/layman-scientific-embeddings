@@ -5,20 +5,20 @@
       "layman": "Normal matter like stars and planets"
     },
     {
-      "jargon": "Universe",
-      "layman": "Everything that exists"
+      "jargon": "Cosmic baryon asymmetry",
+      "layman": "More matter than antimatter in the universe"
     },
     {
-      "jargon": "Asymmetry",
-      "layman": "Imbalance between things"
+      "jargon": "Universe",
+      "layman": "Everything in space and time"
+    },
+    {
+      "jargon": "Antimatter",
+      "layman": "Matter with opposite properties"
     },
     {
       "jargon": "Baryons",
       "layman": "Particles like protons and neutrons"
-    },
-    {
-      "jargon": "Cosmic baryon density",
-      "layman": "Amount of normal matter in space"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Mathematical modeling"
     },
     {
-      "jargon": "Particle physics simulations",
-      "layman": "Computer models of subatomic particles"
+      "jargon": "Thermal history",
+      "layman": "How temperature changed over time"
+    },
+    {
+      "jargon": "Particle interactions",
+      "layman": "How particles collide and change"
+    },
+    {
+      "jargon": "Symmetry-breaking",
+      "layman": "A balance that tips one way"
     },
     {
       "jargon": "Cosmological models",
-      "layman": "Theories about the universe's evolution"
-    },
-    {
-      "jargon": "Thermodynamic equilibrium",
-      "layman": "State where energy and matter are balanced"
-    },
-    {
-      "jargon": "Early universe conditions",
-      "layman": "Conditions right after the Big Bang"
+      "layman": "Theoretical descriptions of the universe"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Baryonic asymmetry",
-      "layman": "More matter than antimatter"
-    },
-    {
-      "jargon": "Observed asymmetry",
-      "layman": "What we see in the universe"
-    },
-    {
-      "jargon": "Antimatter",
-      "layman": "Matter with opposite charge"
+      "jargon": "Observed baryonic asymmetry",
+      "layman": "More matter than antimatter found"
     },
     {
       "jargon": "Matter-antimatter imbalance",
-      "layman": "More matter than antimatter"
+      "layman": "Matter survived, antimatter didn't"
     },
     {
-      "jargon": "Cosmic matter dominance",
-      "layman": "Matter is what makes up the universe"
+      "jargon": "Cosmic structure formation",
+      "layman": "How galaxies formed"
+    },
+    {
+      "jargon": "Primordial nucleosynthesis",
+      "layman": "Formation of first atomic nuclei"
+    },
+    {
+      "jargon": "Asymmetry in particle decay",
+      "layman": "Some particles decay differently than their antimatter twins"
     }
   ]
 }

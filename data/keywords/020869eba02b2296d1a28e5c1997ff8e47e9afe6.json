@@ -6,41 +6,41 @@
     },
     {
       "jargon": "Average case hardness",
-      "layman": "Hardness on average, not just in worst cases"
+      "layman": "Hardness on typical inputs"
     },
     {
       "jargon": "Search problem R",
-      "layman": "Problem with solutions to find"
+      "layman": "Problem with input and solution"
     },
     {
       "jargon": "Polynomial-time sampler",
-      "layman": "Fast algorithm that picks examples"
+      "layman": "Fast random input generator"
     },
     {
       "jargon": "Instance-solution pairs",
-      "layman": "Problem and its solution together"
+      "layman": "Input and matching answer"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Sampler S",
-      "layman": "Algorithm that generates hard problems"
+      "jargon": "Samplers that output instances",
+      "layman": "Generates hard inputs only"
     },
     {
-      "jargon": "Modifying a sampler",
-      "layman": "Changing a problem generator to include solutions"
+      "jargon": "Modifying samplers",
+      "layman": "Changing input generators"
+    },
+    {
+      "jargon": "Polynomial-time transformation",
+      "layman": "Fast conversion between types"
     },
     {
       "jargon": "Distribution on instances",
-      "layman": "Pattern of problem types generated"
+      "layman": "Pattern of generated inputs"
     },
     {
       "jargon": "Randomness complexity",
-      "layman": "Amount of random input needed"
-    },
-    {
-      "jargon": "Polynomial-time",
-      "layman": "Runs in reasonable time for large inputs"
+      "layman": "Amount of random bits used"
     }
   ],
   "outcomes": [
@@ -49,16 +49,16 @@
       "layman": "Secure functions can be built"
     },
     {
-      "jargon": "Hard instances exist",
-      "layman": "Some problems are hard to solve"
-    },
-    {
-      "jargon": "No such sampler S*",
-      "layman": "No fast method to generate pairs"
+      "jargon": "No such sampler exists",
+      "layman": "No solution pairs can be generated"
     },
     {
       "jargon": "Distribution dominates",
-      "layman": "One pattern is stronger than another"
+      "layman": "New pattern matches original pattern"
+    },
+    {
+      "jargon": "Hard problem exists",
+      "layman": "Some problem is inherently hard"
     },
     {
       "jargon": "Generic approach fails",

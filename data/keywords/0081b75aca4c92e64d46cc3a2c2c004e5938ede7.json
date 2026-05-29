@@ -9,38 +9,38 @@
       "layman": "Simple cells"
     },
     {
-      "jargon": "Archaea",
-      "layman": "Ancient microorganisms"
+      "jargon": "Archaea domain",
+      "layman": "Ancient bacterial-like life"
     },
     {
       "jargon": "\u03b1-Proteobacteria",
-      "layman": "A type of bacteria"
+      "layman": "Type of bacteria"
     },
     {
       "jargon": "Candidatus Lokiarcheaota",
-      "layman": "A newly found ancient archaeal group"
+      "layman": "Ancient archaea discovered in deep rock"
     }
   ],
   "methodologies": [
     {
       "jargon": "Phylogenetics",
-      "layman": "Evolutionary tree analysis"
+      "layman": "Building evolutionary family trees"
     },
     {
       "jargon": "Paleogeology",
-      "layman": "Studying ancient Earth conditions"
+      "layman": "Studying ancient Earth structures"
     },
     {
       "jargon": "Cell biology",
-      "layman": "Study of cell structure and function"
+      "layman": "Study of cell structures and functions"
     },
     {
       "jargon": "Microbial diversity",
-      "layman": "Variety of microbes in environment"
+      "layman": "Variety of microorganisms"
     },
     {
       "jargon": "Compartmentalisation",
-      "layman": "Cellular division inside cells"
+      "layman": "Cellular separation into chambers"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Origin of complex cells"
     },
     {
-      "jargon": "Time frame of emergence",
-      "layman": "When complex cells appeared"
+      "jargon": "Time frame of origin",
+      "layman": "When complex cells first appeared"
     },
     {
       "jargon": "Precise ancestral lineages",
-      "layman": "Exact origins of complex cells"
+      "layman": "Exact ancestors of complex cells"
     },
     {
-      "jargon": "Key cellular processes",
-      "layman": "Core cell functions"
+      "jargon": "Biological features of contributors",
+      "layman": "Key traits from ancestor cells"
     },
     {
-      "jargon": "Discriminatory data",
-      "layman": "Clear evidence to distinguish models"
+      "jargon": "Pinpointing origins of cellular processes",
+      "layman": "Tracing roots of key cell functions"
     }
   ]
 }

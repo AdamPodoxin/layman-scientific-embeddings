@@ -5,10 +5,6 @@
       "layman": "Manganese dioxide"
     },
     {
-      "jargon": "Metal oxides",
-      "layman": "Metal-based compounds with oxygen"
-    },
-    {
       "jargon": "Aluminum oxide",
       "layman": "Aluminum oxide"
     },
@@ -19,38 +15,29 @@
     {
       "jargon": "Titanium dioxide",
       "layman": "Titanium dioxide"
+    },
+    {
+      "jargon": "Triclosan",
+      "layman": "Triclosan"
     }
   ],
   "methodologies": [
     {
       "jargon": "SEM images",
-      "layman": "Microscope images of surfaces"
+      "layman": "Close-up photos of surfaces"
     },
     {
       "jargon": "Pseudofirst-order kinetics",
-      "layman": "Reaction speed measured over time"
+      "layman": "Rate of reaction measured over time"
     },
-    {
-      "jargon": "Surface complexation",
-      "layman": "Molecules sticking to surfaces"
-    },
-    {
-      "jargon": "Precipitation",
-      "layman": "Substances forming solid clumps"
-    },
-    {
-      "jargon": "Adsorption",
-      "layman": "Substances sticking to surfaces"
-    }
+    "heteroaggregation",
+    "surface complexation",
+    "precipitation"
   ],
   "outcomes": [
     {
-      "jargon": "Oxidative reactivity",
-      "layman": "Ability to cause oxidation"
-    },
-    {
       "jargon": "Inhibitory effect",
-      "layman": "Reduced activity"
+      "layman": "Reduces reactivity"
     },
     {
       "jargon": "Rate-limiting step",
@@ -61,8 +48,12 @@
       "layman": "Movement of electrons"
     },
     {
-      "jargon": "Heteroaggregation",
-      "layman": "Different particles sticking together"
+      "jargon": "Adsorption behavior",
+      "layman": "Molecule sticking to surface"
+    },
+    {
+      "jargon": "Kinetic results",
+      "layman": "Speed of chemical reaction found"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "copper(I) glutathione complexes",
-      "layman": "Copper-glutathione complexes"
+      "jargon": "Glutathione",
+      "layman": "Cellular antioxidant"
     },
     {
-      "jargon": "glutathione",
-      "layman": "Glutathione"
+      "jargon": "Copper(I)",
+      "layman": "Copper ion"
     },
     {
-      "jargon": "thiolate sulfur",
-      "layman": "Sulfur in thiol form"
+      "jargon": "Copper(II)",
+      "layman": "Copper ion"
     },
     {
-      "jargon": "Cu(II)",
-      "layman": "Copper(II)"
+      "jargon": "Thiolate sulfur",
+      "layman": "Sulfur group in a protein"
     },
     {
-      "jargon": "Cu(I)",
-      "layman": "Copper(I)"
+      "jargon": "Polymeric Cu(I)-glutathione complexes",
+      "layman": "Chain-like copper-glutathione molecules"
     }
   ],
   "methodologies": [
     {
-      "jargon": "1H-NMR and 13C-NMR spectroscopy",
-      "layman": "Magnetic resonance to see molecular structure"
+      "jargon": "1H-NMR spectroscopy",
+      "layman": "Magnetic test of hydrogen atoms"
+    },
+    {
+      "jargon": "13C-NMR spectroscopy",
+      "layman": "Magnetic test of carbon atoms"
     },
     {
       "jargon": "X-ray absorption spectroscopy",
-      "layman": "X-ray technique to see atom positions"
+      "layman": "X-ray test of copper atoms"
     },
     {
-      "jargon": "pH values",
-      "layman": "Acidity or alkalinity levels"
+      "jargon": "Stoichiometry",
+      "layman": "Molecule ratio"
     },
     {
-      "jargon": "molar ratios",
-      "layman": "Amounts of chemicals relative to each other"
-    },
-    {
-      "jargon": "rate of exchange",
-      "layman": "How fast molecules swap places"
+      "jargon": "Rate of exchange",
+      "layman": "How fast molecules swap"
     }
   ],
   "outcomes": [
     {
       "jargon": "1:1 stoichiometry",
-      "layman": "One copper to one glutathione"
+      "layman": "One copper per one glutathione"
     },
     {
       "jargon": "3.1\u00b10.3 sulfur atoms",
-      "layman": "About three sulfur atoms bonded"
+      "layman": "Three sulfur atoms around copper"
     },
     {
       "jargon": "0.222 nm coordination distance",
-      "layman": "Sulfur atoms at 0.222 nm from copper"
+      "layman": "Sulfur atoms at 0.222 nanometers from copper"
     },
     {
-      "jargon": "high thermodynamic stability",
-      "layman": "Very strong bond"
+      "jargon": "High thermodynamic stability",
+      "layman": "Strong bond that is hard to break"
     },
     {
-      "jargon": "kinetic lability",
-      "layman": "Quick to break and reform"
+      "jargon": "Kinetic lability",
+      "layman": "Easy to swap despite strong bond"
     }
   ]
 }

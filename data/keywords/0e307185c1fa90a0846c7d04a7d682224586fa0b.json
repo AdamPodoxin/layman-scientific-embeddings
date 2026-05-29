@@ -1,24 +1,24 @@
 {
   "core_entities": [
     {
-      "jargon": "Manet's portrait",
-      "layman": "Painting of Jeanne Duval"
-    },
-    {
       "jargon": "Jeanne Duval",
-      "layman": "Woman depicted in the painting"
-    },
-    {
-      "jargon": "Baudelaire's poetry",
-      "layman": "Poems by Baudelaire"
+      "layman": "Jeanne Duval"
     },
     {
       "jargon": "Empress Eugenie",
-      "layman": "Queen of France during the Second Empire"
+      "layman": "Empress Eugenie"
+    },
+    {
+      "jargon": "Baudelaire",
+      "layman": "Baudelaire"
+    },
+    {
+      "jargon": "Manet's portrait",
+      "layman": "Manet's painting"
     },
     {
       "jargon": "Second Empire France",
-      "layman": "France under imperial rule"
+      "layman": "France under the Second Empire"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Political debate",
-      "layman": "Public discussion on politics"
+      "layman": "Public arguments about politics"
     },
     {
       "jargon": "Discourse",
       "layman": "Conversation about ideas"
     },
     {
-      "jargon": "Artistic interpretation",
-      "layman": "How art reflects ideas"
+      "jargon": "Portrayal in art",
+      "layman": "How people are shown in paintings"
     },
     {
-      "jargon": "Visual composition",
-      "layman": "How elements are arranged in a painting"
+      "jargon": "Gender boundaries",
+      "layman": "Rules about how men and women should act"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Women having power"
     },
     {
-      "jargon": "Gender boundaries",
-      "layman": "Rules about gender roles"
-    },
-    {
       "jargon": "Suppressed dissent",
-      "layman": "Opposing views hidden from public"
+      "layman": "Strong opinions that were not expressed"
     },
     {
       "jargon": "Skirt dominance",
-      "layman": "Skirt taking center stage in the painting"
+      "layman": "The skirt taking center stage"
     },
     {
       "jargon": "Exploration of dissent",
-      "layman": "Looking at views that were not accepted"
+      "layman": "Looking at views that were ignored"
+    },
+    {
+      "jargon": "Blurred gender boundaries",
+      "layman": "Gender lines becoming unclear"
     }
   ]
 }

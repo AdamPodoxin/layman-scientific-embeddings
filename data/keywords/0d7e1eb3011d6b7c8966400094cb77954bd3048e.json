@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Sustainability principles",
+      "layman": "Rules for long-term environmental balance"
+    },
+    {
+      "jargon": "Mechanical engineering undergraduate programme",
+      "layman": "College course in mechanical engineering"
+    },
+    {
+      "jargon": "Design function",
+      "layman": "Creating a product from start to end"
+    },
+    {
+      "jargon": "Product life cycle",
+      "layman": "A product's journey from start to end"
+    },
+    {
+      "jargon": "Degree program",
+      "layman": "A full academic course"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Integration into curriculum",
+      "layman": "Adding sustainability to courses"
+    },
+    {
+      "jargon": "Design-based teaching",
+      "layman": "Teaching through product design"
+    },
+    {
+      "jargon": "Cradle to grave",
+      "layman": "From start to end of product life"
+    },
+    {
+      "jargon": "Curriculum modification",
+      "layman": "Changing course structure"
+    },
+    {
+      "jargon": "Educational framework",
+      "layman": "Teaching structure or plan"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Minority of modules reference sustainability",
+      "layman": "Few courses mention sustainability"
+    },
+    {
+      "jargon": "Sustainability can only be taught through design",
+      "layman": "Design is the best way to teach sustainability"
+    },
+    {
+      "jargon": "Standard engineering themes",
+      "layman": "Common course topics like cars or machines"
+    },
+    {
+      "jargon": "Whole degree courses on sustainability",
+      "layman": "Sustainability could be a full course"
+    },
+    {
+      "jargon": "Fundamental element of all courses",
+      "layman": "Sustainability must be central to all classes"
+    }
+  ]
+}

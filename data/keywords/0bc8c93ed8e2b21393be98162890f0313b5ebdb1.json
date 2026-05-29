@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Sexual citizenship",
-      "layman": "Rights to be recognized as a sexual group"
+      "layman": "Right to equal treatment in society"
     },
     {
       "jargon": "Civil Partnership Act",
-      "layman": "Law allowing same-sex couples to form partnerships"
+      "layman": "Legal partnership for same-sex couples"
     },
     {
       "jargon": "Equality Regulations (Sexual Orientation) 2007",
-      "layman": "Rules banning discrimination based on sexual orientation"
+      "layman": "Rules to protect gay and lesbian people"
     },
     {
-      "jargon": "Lesbian, gay, bisexual, and transgender (LGBT)",
-      "layman": "LGBT people"
+      "jargon": "Lesbian, gay, bisexual and transgender (LGBT)",
+      "layman": "People from diverse sexual and gender identities"
     },
     {
       "jargon": "Local government",
-      "layman": "City or town councils"
+      "layman": "City or town level authorities"
     }
   ],
   "methodologies": [
     {
       "jargon": "ESRC funded study",
-      "layman": "Research supported by government grant"
+      "layman": "Government-funded research project"
     },
     {
       "jargon": "Political agendas",
-      "layman": "Goals of political movements"
+      "layman": "Goals of political groups"
     },
     {
       "jargon": "Policy making",
-      "layman": "Decisions about laws and rules"
+      "layman": "Decisions on rules and laws"
     },
     {
       "jargon": "Feminist critiques",
-      "layman": "Women's perspectives on social issues"
+      "layman": "Critical analysis from feminist perspectives"
     },
     {
       "jargon": "Theoretical work",
-      "layman": "Academic ideas developed from theory"
+      "layman": "Building on existing ideas and theories"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Demands for belonging",
-      "layman": "Seeking acceptance in society"
+      "layman": "Seeking to be accepted in society"
     },
     {
-      "jargon": "Shifts in social movements",
-      "layman": "Changes in how groups fight for rights"
+      "jargon": "Institutional exclusion",
+      "layman": "Systemic rejection by old rules"
     },
     {
-      "jargon": "Changes in policy and practice",
-      "layman": "New rules and actions in government"
+      "jargon": "Equal rights of citizenship",
+      "layman": "Same legal rights as everyone else"
     },
     {
-      "jargon": "Limits to sexual citizenship",
-      "layman": "Boundaries in how LGBTQ+ people are treated equally"
+      "jargon": "Changes in practice",
+      "layman": "Shifts in how things are done in real life"
     }
   ]
 }

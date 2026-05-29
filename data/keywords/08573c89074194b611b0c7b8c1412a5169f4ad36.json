@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Delft design method",
+      "layman": "Hydraulic engineering design approach"
+    },
+    {
+      "jargon": "Design phases",
+      "layman": "Steps in engineering design"
+    },
+    {
+      "jargon": "Engineering design projects",
+      "layman": "Engineering design tasks"
+    },
+    {
+      "jargon": "Hydraulic engineers",
+      "layman": "Engineers who design water systems"
+    },
+    {
+      "jargon": "Educational purposes",
+      "layman": "Teaching uses"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Logical order",
+      "layman": "Clear sequence of steps"
+    },
+    {
+      "jargon": "Conscious application",
+      "layman": "Mindful use of methods"
+    },
+    {
+      "jargon": "Integrated approach",
+      "layman": "Connected, unified process"
+    },
+    {
+      "jargon": "Streamlining",
+      "layman": "Making processes smoother"
+    },
+    {
+      "jargon": "Feedback incorporation",
+      "layman": "Adding input to improve"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Enhanced application",
+      "layman": "Better use in practice"
+    },
+    {
+      "jargon": "Improved awareness",
+      "layman": "Greater understanding"
+    },
+    {
+      "jargon": "Application tuning",
+      "layman": "Fine-tuning of methods"
+    },
+    {
+      "jargon": "Stimulated discussion",
+      "layman": "Encouraged debate"
+    },
+    {
+      "jargon": "Next version update",
+      "layman": "Future improvement release"
+    }
+  ]
+}

@@ -10,11 +10,11 @@
     },
     {
       "jargon": "John Singer Sargent",
-      "layman": "Famous painter"
+      "layman": "John Singer Sargent"
     },
     {
-      "jargon": "Religious opposition",
-      "layman": "Resistance to religious content"
+      "jargon": "Religious institutions",
+      "layman": "Religious organizations"
     },
     {
       "jargon": "Spirituality",
@@ -23,46 +23,46 @@
   ],
   "methodologies": [
     {
-      "jargon": "Reconstruction",
-      "layman": "Putting things back together"
+      "jargon": "Public reception analysis",
+      "layman": "Studying how the public responded"
     },
     {
-      "jargon": "Reception analysis",
-      "layman": "Studying how people responded"
+      "jargon": "Artistic conception",
+      "layman": "Planning the artwork"
     },
     {
-      "jargon": "Public representation",
-      "layman": "Displaying ideas in public spaces"
+      "jargon": "Reproduction in media",
+      "layman": "Images used in books and glass"
     },
     {
-      "jargon": "Artistic investment",
-      "layman": "Artist's deep personal involvement"
+      "jargon": "Cultural engagement",
+      "layman": "People interacting with the art"
     },
     {
-      "jargon": "Cultural exchanges",
-      "layman": "Sharing ideas between cultures"
+      "jargon": "Visual narrative",
+      "layman": "Story told through images"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Unfinished project",
-      "layman": "Work left incomplete"
+      "jargon": "Artistic truncation",
+      "layman": "Project cut short"
     },
     {
-      "jargon": "Narrative redirection",
-      "layman": "Story changed in meaning"
+      "jargon": "Religious opposition",
+      "layman": "Resistance from religious groups"
     },
     {
       "jargon": "Public popularity",
-      "layman": "Widespread public appeal"
+      "layman": "Widespread public admiration"
     },
     {
-      "jargon": "Diverse religious interpretations",
-      "layman": "Many different religious views"
+      "jargon": "Personal subjectivity",
+      "layman": "Individual beliefs"
     },
     {
-      "jargon": "Modern belief privacy",
-      "layman": "Personal faith, not public religion"
+      "jargon": "Cultural exchange",
+      "layman": "Sharing of ideas across groups"
     }
   ]
 }

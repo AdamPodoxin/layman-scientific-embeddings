@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Turbo-prop airliner",
-      "layman": "Jet-powered plane with propellers"
+      "layman": "Airplane with turbine engines"
     },
     {
       "jargon": "Flight-testing",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "Electrical components",
-      "layman": "Electrical parts"
+      "layman": "Power parts"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Electrical system design",
-      "layman": "Planning power system"
-    },
-    {
-      "jargon": "Propulsion system",
-      "layman": "Engine and power delivery"
+      "layman": "Designing the power setup"
     },
     {
       "jargon": "Power distribution",
-      "layman": "Sending power to parts of the plane"
+      "layman": "Routing electricity around the plane"
     },
     {
       "jargon": "System integration",
       "layman": "Putting systems together"
+    },
+    {
+      "jargon": "Performance evaluation",
+      "layman": "Checking how well it works"
     }
   ],
   "outcomes": [
     {
       "jargon": "Flight-testing",
-      "layman": "Plane tested in air"
+      "layman": "Test flights underway"
     },
     {
-      "jargon": "Operational reliability",
-      "layman": "System works well"
+      "jargon": "Improved efficiency",
+      "layman": "More fuel-efficient"
     },
     {
-      "jargon": "Power efficiency",
-      "layman": "Good power use"
+      "jargon": "Stable power output",
+      "layman": "Reliable electricity"
     },
     {
-      "jargon": "Electrical performance",
-      "layman": "Power system works well"
+      "jargon": "Operational readiness",
+      "layman": "Ready for use"
     },
     {
-      "jargon": "System safety",
-      "layman": "No risks in operation"
+      "jargon": "Electrical reliability",
+      "layman": "No power failures"
     }
   ]
 }

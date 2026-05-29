@@ -10,29 +10,29 @@
     },
     {
       "jargon": "Turner\u2019s typed predicate logic",
-      "layman": "Logical system for reasoning about properties"
+      "layman": "Formal logic system for meaning and types"
     },
     {
       "jargon": "Property theory",
       "layman": "Theory of how properties work in language"
     },
     {
-      "jargon": "Lambda-calculus",
-      "layman": "Mathematical system for functions and computation"
+      "jargon": "Untyped lambda-calculus",
+      "layman": "Simple model for computation without types"
     }
   ],
   "methodologies": [
     {
       "jargon": "Formulate",
-      "layman": "Create a formal system"
+      "layman": "Create or define a system"
     },
     {
       "jargon": "Operational interpretation",
-      "layman": "Give a practical meaning to a concept"
+      "layman": "Give a practical way to use or compute something"
     },
     {
       "jargon": "Fine-grained intensionality",
-      "layman": "Detailed way of tracking how things are expressed"
+      "layman": "Detailed way of capturing how things are expressed"
     },
     {
       "jargon": "Federation of languages",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Model of computation",
-      "layman": "Mathematical way to simulate computing"
+      "layman": "Representation of how processes compute"
     }
   ],
   "outcomes": [
     {
       "jargon": "Elegant presentation",
-      "layman": "Clean and simple explanation"
+      "layman": "Clear and simple explanation"
     },
     {
       "jargon": "No need for federation",
-      "layman": "No need to combine multiple systems"
+      "layman": "Can work without combining systems"
     },
     {
-      "jargon": "Expressions as terms",
-      "layman": "Statements act like computation units"
+      "jargon": "Expressions as lambda-terms",
+      "layman": "Language expressions act like computation steps"
+    },
+    {
+      "jargon": "Corresponds to Fox and Lappin\u2019s theory",
+      "layman": "Matches existing linguistic theory"
     },
     {
       "jargon": "Operational account",
-      "layman": "Practical explanation of how it works"
-    },
-    {
-      "jargon": "Theory corresponds to Fox and Lappin",
-      "layman": "Matches existing linguistic theory"
+      "layman": "How things work in practice"
     }
   ]
 }

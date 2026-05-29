@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Housing market",
-      "layman": "Group of people buying and selling homes"
+      "layman": "Where homes are bought and sold"
     },
     {
-      "jargon": "Owner-occupied housing",
-      "layman": "Homes owned and lived in"
+      "jargon": "Property owners",
+      "layman": "People who own homes"
     }
   ],
   "methodologies": [
     {
       "jargon": "Taxing capital gains",
-      "layman": "Imposing tax on home profit"
+      "layman": "Imposing tax on home sale profits"
     },
     {
-      "jargon": "Price swings",
-      "layman": "Large changes in home prices"
+      "jargon": "Price variations",
+      "layman": "Changes in home prices"
     },
     {
-      "jargon": "Redistribution",
-      "layman": "Moving wealth between groups"
+      "jargon": "Market redistribution",
+      "layman": "Shifting wealth between buyers and sellers"
     },
     {
       "jargon": "Simple settings",
-      "layman": "Basic scenarios"
+      "layman": "Basic economic models"
     },
     {
-      "jargon": "Modeling",
-      "layman": "Simulating outcomes in a simplified way"
+      "jargon": "Economic modeling",
+      "layman": "Simulating market behavior"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Larger price swings",
-      "layman": "More extreme home price changes"
+      "jargon": "Bigger price swings",
+      "layman": "Larger price fluctuations"
     },
     {
       "jargon": "No redistribution",
-      "layman": "No shift in wealth between buyers and sellers"
+      "layman": "No wealth shift between groups"
     },
     {
-      "jargon": "Tax fails to curb redistribution",
-      "layman": "Tax doesn't reduce wealth gap"
+      "jargon": "Price instability",
+      "layman": "Unstable home prices"
     },
     {
-      "jargon": "Market instability",
-      "layman": "Unstable housing prices"
+      "jargon": "Failure to curb redistribution",
+      "layman": "Cannot stop wealth shifts"
     },
     {
-      "jargon": "Proposals rejected",
-      "layman": "Suggested taxes are not effective"
+      "jargon": "Non-impact on market balance",
+      "layman": "Doesn't fix market unfairness"
     }
   ]
 }

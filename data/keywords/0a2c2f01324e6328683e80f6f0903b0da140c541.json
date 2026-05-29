@@ -2,29 +2,29 @@
   "core_entities": [
     {
       "jargon": "Singular value decomposition",
-      "layman": "Math tool to break down data into key parts"
+      "layman": "Math tool that breaks data into simple parts"
     },
     {
       "jargon": "Watermark",
-      "layman": "Hidden digital signature"
+      "layman": "Hidden message in media"
     },
     {
       "jargon": "Human visual system",
-      "layman": "Human eye and brain for seeing"
+      "layman": "How humans see images"
     },
     {
       "jargon": "Binary sequence",
-      "layman": "String of 0s and 1s"
+      "layman": "Sequence of 0s and 1s"
     },
     {
       "jargon": "Intentional attacks",
-      "layman": "Deliberate attempts to remove or alter data"
+      "layman": "Deliberate attempts to tamper with data"
     }
   ],
   "methodologies": [
     {
       "jargon": "Linear programming",
-      "layman": "Optimization using math equations"
+      "layman": "Optimizing math model with constraints"
     },
     {
       "jargon": "Embedding framework",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "SVD-based embedding",
-      "layman": "Using SVD to hide data in images"
+      "layman": "Using SVD to hide messages"
     },
     {
-      "jargon": "Visual imperceptibility constraint",
-      "layman": "Rule to keep changes invisible"
+      "jargon": "Visual imperceptibility",
+      "layman": "Not noticeable to human eyes"
     },
     {
-      "jargon": "Human visual models",
-      "layman": "How humans see and perceive images"
+      "jargon": "Thresholds driven by human visual models",
+      "layman": "Limits of what the eye can detect"
     }
   ],
   "outcomes": [
     {
       "jargon": "Highest possible energy",
-      "layman": "Strongest signal without being noticed"
+      "layman": "Strongest hidden signal"
     },
     {
       "jargon": "Robust to attacks",
-      "layman": "Stays intact even after changes"
+      "layman": "Stays intact after changes"
+    },
+    {
+      "jargon": "Transparent watermarking",
+      "layman": "Watermark that doesn't distort image"
     },
     {
       "jargon": "Just noticeable thresholds",
-      "layman": "Point where changes become visible"
+      "layman": "Minimum change humans can see"
     },
     {
-      "jargon": "Spatial domain",
-      "layman": "Image as pixels in space"
-    },
-    {
-      "jargon": "Linear domain",
-      "layman": "Image in mathematical lines and vectors"
+      "jargon": "Spatial and linear domains",
+      "layman": "Image and data space analysis"
     }
   ]
 }

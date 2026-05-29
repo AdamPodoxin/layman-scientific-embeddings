@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Frame-dragging",
-      "layman": "Spinning space-time"
+      "layman": "Spinning space-time dragged by mass"
     },
     {
       "jargon": "Gravitomagnetic field",
-      "layman": "Gravity's magnetic-like effect"
+      "layman": "Magnetic-like force from spinning mass"
     },
     {
       "jargon": "LAGEOS satellites",
-      "layman": "Laser-ranged satellites"
+      "layman": "Satellites with reflective surfaces"
+    },
+    {
+      "jargon": "Earth's spin",
+      "layman": "Earth rotating on its axis"
     },
     {
       "jargon": "Lense-Thirring effect",
-      "layman": "Spinning Earth's gravity pull"
-    },
-    {
-      "jargon": "Earth's mass-energy currents",
-      "layman": "Earth's mass and energy flow"
+      "layman": "Space-time twist from Earth's spin"
     }
   ],
   "methodologies": [
@@ -39,8 +39,8 @@
       "layman": "Very accurate observation"
     },
     {
-      "jargon": "Gravitation tests",
-      "layman": "Testing gravity rules"
+      "jargon": "Satellite tracking",
+      "layman": "Following satellite movement"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "1% accuracy",
-      "layman": "Extremely precise"
+      "layman": "Very precise, within 1%"
     },
     {
       "jargon": "Lense-Thirring effect exists",
       "layman": "Effect is real"
     },
     {
-      "jargon": "Value within ~20% of prediction",
+      "jargon": "Value within 20% of prediction",
       "layman": "Matches theory closely"
     },
     {
-      "jargon": "Fully confirms previous measurements",
-      "layman": "Matches past results"
+      "jargon": "Full confirmation of prediction",
+      "layman": "Theory is confirmed"
     }
   ]
 }

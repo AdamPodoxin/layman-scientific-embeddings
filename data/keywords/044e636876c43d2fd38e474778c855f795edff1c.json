@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Electrical and Computer Engineering program",
-      "layman": "Engineering program for electricity and computers"
+      "layman": "Engineering degree combining electronics and computing"
     },
     {
       "jargon": "Combined degree program",
-      "layman": "Program that gives two degrees at once"
+      "layman": "Degree that combines two fields"
     },
     {
-      "jargon": "Liberal arts public university",
-      "layman": "College focused on broad studies, public-funded"
+      "jargon": "Department",
+      "layman": "Academic unit or group"
+    },
+    {
+      "jargon": "Traditionally liberal arts public university",
+      "layman": "University focused on humanities and sciences with public funding"
     },
     {
       "jargon": "Curriculum",
-      "layman": "Course plan"
-    },
-    {
-      "jargon": "Faculty",
-      "layman": "University professors"
+      "layman": "Course plan or schedule"
     }
   ],
   "methodologies": [
     {
       "jargon": "Program approval process",
-      "layman": "Steps to get the program approved"
+      "layman": "Review to get official permission"
     },
     {
       "jargon": "Academic integration",
-      "layman": "Adding the program into the college structure"
-    },
-    {
-      "jargon": "Curriculum design",
-      "layman": "Planning the course sequence"
+      "layman": "Adding the program into the school's structure"
     },
     {
       "jargon": "Faculty hiring",
-      "layman": "Hiring professors for the program"
+      "layman": "Hiring teachers and instructors"
     },
     {
-      "jargon": "Facility design",
-      "layman": "Planning the building spaces needed"
+      "jargon": "Facilities design",
+      "layman": "Planning buildings and labs"
+    },
+    {
+      "jargon": "Institutional support",
+      "layman": "University resources and backing"
     }
   ],
   "outcomes": [
     {
       "jargon": "Successful integration",
-      "layman": "Program fits well into the university"
-    },
-    {
-      "jargon": "Institutional support",
-      "layman": "University provides resources"
+      "layman": "Program fits well in the university"
     },
     {
       "jargon": "Student recruitment",
-      "layman": "Attracting students to join"
+      "layman": "Getting students to join"
     },
     {
       "jargon": "Student retention",
       "layman": "Keeping students enrolled"
     },
     {
-      "jargon": "Resources needed",
-      "layman": "Funding and materials required"
+      "jargon": "Resource allocation",
+      "layman": "Setting aside money and support"
+    },
+    {
+      "jargon": "Academic infrastructure",
+      "layman": "School's system for teaching and administration"
     }
   ]
 }

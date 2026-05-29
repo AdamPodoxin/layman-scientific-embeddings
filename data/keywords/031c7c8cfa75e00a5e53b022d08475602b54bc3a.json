@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Lollard Bible",
-      "layman": "Lollard Bible"
+      "layman": "Popular Bible copy in the 1400s"
     },
     {
       "jargon": "Renaissance grammar schools",
-      "layman": "Grammar schools of the Renaissance"
+      "layman": "Schools teaching classical Latin"
     },
     {
       "jargon": "Classical education",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "Colloquial idiom",
-      "layman": "Everyday speech"
+      "layman": "Everyday language"
     },
     {
       "jargon": "Lower orders",
-      "layman": "Peasantry"
+      "layman": "Peasants and rural workers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Suppression of religious texts",
-      "layman": "Banning of religious books"
+      "layman": "Banning access to books"
     },
     {
       "jargon": "Formation of grammar schools",
-      "layman": "Setting up of grammar schools"
+      "layman": "Creating schools for education"
+    },
+    {
+      "jargon": "Classical tradition",
+      "layman": "Using ancient knowledge as model"
     },
     {
       "jargon": "Philosophical discussion",
-      "layman": "Talking about philosophy"
+      "layman": "Thinking about ideas in detail"
     },
     {
-      "jargon": "Autobiographical writing",
-      "layman": "Writing about one\u2019s life"
-    },
-    {
-      "jargon": "Cultural gap",
-      "layman": "Gap in culture between groups"
+      "jargon": "Autobiography",
+      "layman": "Writing about one\u2019s own life"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Lack of literacy spur",
-      "layman": "No motivation for reading"
-    },
-    {
       "jargon": "Cultural and linguistic gap",
-      "layman": "Language and culture divide"
+      "layman": "Growing divide in language use"
     },
     {
       "jargon": "Bridging the gap",
-      "layman": "Connecting different groups"
+      "layman": "Connecting different language groups"
     },
     {
       "jargon": "Avoiding figurative language",
-      "layman": "Using plain language"
+      "layman": "Using simple, direct words"
     },
     {
-      "jargon": "Servants\u2019 stories",
-      "layman": "Stories from servants"
+      "jargon": "Fondness for servants\u2019 stories",
+      "layman": "Valuing common people's tales"
+    },
+    {
+      "jargon": "Literacy for lower orders",
+      "layman": "Learning to read for ordinary people"
     }
   ]
 }

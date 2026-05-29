@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Topographical art",
-      "layman": "Detailed landscape drawings"
-    },
-    {
-      "jargon": "Amateur artists",
-      "layman": "Non-professional artists"
+      "layman": "Maps showing land features"
     },
     {
       "jargon": "Ligurian landscape",
       "layman": "Landscape of Liguria, Italy"
     },
     {
+      "jargon": "Amateur artists",
+      "layman": "Non-professional artists"
+    },
+    {
       "jargon": "Historical cartography",
       "layman": "Old maps from the past"
     },
     {
-      "jargon": "Foreign tourists",
-      "layman": "Travelers from outside"
+      "jargon": "Oral history",
+      "layman": "People's personal stories passed down"
     }
   ],
   "methodologies": [
     {
       "jargon": "Multidisciplinary approach",
-      "layman": "Using many different fields of study"
+      "layman": "Using many different fields together"
     },
     {
       "jargon": "Field surveys",
-      "layman": "On-site visits and observations"
+      "layman": "Walking surveys of land"
     },
     {
-      "jargon": "Oral history",
-      "layman": "Interviews with people's memories"
+      "jargon": "Precise location",
+      "layman": "Exact place identification"
     },
     {
-      "jargon": "Written documents",
-      "layman": "Old records and papers"
+      "jargon": "Examination of views",
+      "layman": "Looking at what was seen in drawings"
     },
     {
-      "jargon": "Precise location determination",
-      "layman": "Finding exact places on a map"
+      "jargon": "Identification of views",
+      "layman": "Finding and recognizing scenes in art"
     }
   ],
   "outcomes": [
     {
       "jargon": "Landscape perception",
-      "layman": "How people saw the landscape"
+      "layman": "How people saw the land"
     },
     {
       "jargon": "Cultural context",
-      "layman": "The background of the time and place"
+      "layman": "Background of the time and place"
+    },
+    {
+      "jargon": "Value of art for history",
+      "layman": "Art helps understand the past"
     },
     {
       "jargon": "Interrogation of drawings",
       "layman": "Analyzing drawings deeply"
     },
     {
-      "jargon": "Value addition",
-      "layman": "Adding more meaning to the study"
-    },
-    {
       "jargon": "Understanding of place",
-      "layman": "Better grasp of the location's meaning"
+      "layman": "Knowing what a place was like"
     }
   ]
 }

@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Broken chiral symmetry",
-      "layman": "Symmetry that is not preserved in nature"
+      "layman": "Symmetry that is no longer present"
     },
     {
       "jargon": "Neutron star",
-      "layman": "Dead star made of neutron matter"
+      "layman": "Dead star made of dense matter"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Real time formalism",
-      "layman": "Method to study time-dependent processes"
+      "layman": "Method to study particle behavior over time"
     },
     {
       "jargon": "Feynman gauge",
-      "layman": "Choice of mathematical setup for calculations"
+      "layman": "Mathematical choice for calculations"
     },
     {
       "jargon": "One-loop dispersion relations",
-      "layman": "First-level energy behavior calculation"
+      "layman": "First-level energy calculations"
     },
     {
       "jargon": "Energy expansion",
-      "layman": "Breaking energy into small parts to study"
+      "layman": "Gradual increase in energy analysis"
     }
   ],
   "outcomes": [
     {
       "jargon": "Dispersion relations",
-      "layman": "How particles move with energy"
+      "layman": "How particles travel at different energies"
     },
     {
       "jargon": "Effective masses",
       "layman": "Apparent mass in hot or dense matter"
     },
     {
-      "jargon": "Quasi-nucleon excitations",
-      "layman": "Nucleon-like particles in hot matter"
+      "jargon": "Leading order",
+      "layman": "Main contribution in calculations"
     },
     {
-      "jargon": "Quasi-pion excitations",
-      "layman": "Pion-like particles in hot matter"
+      "jargon": "Quasi-nucleon",
+      "layman": "Nucleon-like particle in hot matter"
     },
     {
-      "jargon": "Leading order in T and \u03bc_f",
-      "layman": "Main effect from temperature and density"
+      "jargon": "Quasi-pion",
+      "layman": "Pion-like particle in hot matter"
     }
   ]
 }

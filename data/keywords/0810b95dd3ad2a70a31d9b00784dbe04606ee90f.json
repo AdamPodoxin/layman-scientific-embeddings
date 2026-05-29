@@ -1,12 +1,8 @@
 {
   "core_entities": [
     {
-      "jargon": "Engineering education",
-      "layman": "Training in engineering"
-    },
-    {
       "jargon": "Undergraduate enterprise",
-      "layman": "Bachelor's level engineering program"
+      "layman": "Bachelor's degree program"
     },
     {
       "jargon": "Graduate study",
@@ -18,7 +14,11 @@
     },
     {
       "jargon": "Energy revolution",
-      "layman": "Major shift in energy production and use"
+      "layman": "Big shift in energy production and use"
+    },
+    {
+      "jargon": "Interdisciplinary programs",
+      "layman": "Projects combining different fields of study"
     }
   ],
   "methodologies": [
@@ -27,20 +27,20 @@
       "layman": "Designing course content"
     },
     {
-      "jargon": "Interdisciplinary programs",
-      "layman": "Combining different fields of study"
+      "jargon": "Educational shifts",
+      "layman": "Changes in how education is delivered"
     },
     {
-      "jargon": "Educational shift",
-      "layman": "Changing how engineering is taught"
+      "jargon": "Program restructuring",
+      "layman": "Changing the structure of degree programs"
     },
     {
       "jargon": "Graduate degree expansion",
       "layman": "Growing focus on advanced degrees"
     },
     {
-      "jargon": "Current forces",
-      "layman": "Major trends shaping education"
+      "jargon": "Student assessment",
+      "layman": "Evaluating student learning progress"
     }
   ],
   "outcomes": [
@@ -57,12 +57,12 @@
       "layman": "Difficulties in advanced degree programs"
     },
     {
-      "jargon": "Interdisciplinary challenges",
-      "layman": "Problems in combining fields"
+      "jargon": "Interdisciplinary integration",
+      "layman": "Combining subjects to solve complex problems"
     },
     {
-      "jargon": "Rapid changes in engineering education",
-      "layman": "Fast transformation in how engineering is taught"
+      "jargon": "Rapid educational changes",
+      "layman": "Fast evolution in how engineering is taught"
     }
   ]
 }

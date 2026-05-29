@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Genome sequencing",
-      "layman": "Reading DNA instructions"
+      "layman": "Reading DNA code"
     },
     {
       "jargon": "Short reads",
@@ -10,43 +10,43 @@
     },
     {
       "jargon": "Reference genome",
-      "layman": "Standard DNA blueprint"
+      "layman": "Standard DNA map"
     },
     {
       "jargon": "FPGA",
-      "layman": "Specialized hardware chip"
+      "layman": "Special chip for fast computing"
     },
     {
       "jargon": "Hardware accelerators",
-      "layman": "Faster computing devices"
+      "layman": "Fast specialized computing tools"
     }
   ],
   "methodologies": [
     {
       "jargon": "Map-Reduce framework",
-      "layman": "Divide-and-conquer computing"
+      "layman": "Divide-and-conquer computing method"
+    },
+    {
+      "jargon": "Read-mapping algorithm",
+      "layman": "Matching DNA fragments to reference"
     },
     {
       "jargon": "Preprocessing reference genomes",
-      "layman": "Preparing DNA template"
+      "layman": "Preparing standard DNA data"
     },
     {
       "jargon": "Iterative jobs",
       "layman": "Repeated processing steps"
     },
     {
-      "jargon": "Read-mapping algorithm",
-      "layman": "Matching DNA fragments"
-    },
-    {
       "jargon": "Theoretical speedup analysis",
-      "layman": "Predicting faster performance"
+      "layman": "Calculating potential speed increases"
     }
   ],
   "outcomes": [
     {
       "jargon": "Shorten response interval",
-      "layman": "Faster results"
+      "layman": "Reduce waiting time"
     },
     {
       "jargon": "Expedite the task",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Reduce average waiting time",
-      "layman": "Less waiting time"
+      "layman": "Cut down wait time"
     },
     {
       "jargon": "Efficient potential",
-      "layman": "Good performance promise"
+      "layman": "Good performance possible"
     },
     {
       "jargon": "Large scale short reads applications",
-      "layman": "Big DNA data use cases"
+      "layman": "Big DNA data tasks"
     }
   ]
 }

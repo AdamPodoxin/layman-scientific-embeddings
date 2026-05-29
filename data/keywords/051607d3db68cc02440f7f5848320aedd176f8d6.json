@@ -1,52 +1,52 @@
 {
   "core_entities": [
     {
-      "jargon": "Deaf biographers",
-      "layman": "Writers who are deaf"
+      "jargon": "Deafness",
+      "layman": "Being unable to hear"
     },
     {
-      "jargon": "French deaf community",
-      "layman": "Deaf people in France"
+      "jargon": "Biographers",
+      "layman": "Writers who tell people's lives"
     },
     {
-      "jargon": "Auguste Bebian",
-      "layman": "Deaf educator"
+      "jargon": "National Institute for the Deaf",
+      "layman": "School for deaf people in Paris"
     },
     {
-      "jargon": "Abbe de l'Epee",
-      "layman": "Deaf education pioneer"
+      "jargon": "Helen Keller",
+      "layman": "Deaf-blind person"
     },
     {
-      "jargon": "Abbe Sicard",
-      "layman": "Deaf education figure"
+      "jargon": "French-Canadian pioneer women",
+      "layman": "Women who moved from France to Canada and started new lives"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Biographical writing",
-      "layman": "Writing someone's life story"
-    },
-    {
-      "jargon": "Historical analysis",
-      "layman": "Looking at past events"
+      "jargon": "Biography",
+      "layman": "Writing a person's life story"
     },
     {
       "jargon": "Personal narrative",
-      "layman": "Sharing personal experiences"
+      "layman": "A story from someone's own life"
+    },
+    {
+      "jargon": "Artistic representation",
+      "layman": "Showing people through stories or images"
     },
     {
       "jargon": "Cultural exploration",
-      "layman": "Exploring different cultures"
+      "layman": "Exploring how different cultures see each other"
     },
     {
       "jargon": "Self-reflection",
-      "layman": "Thinking about oneself"
+      "layman": "Thinking about one's own feelings and identity"
     }
   ],
   "outcomes": [
     {
       "jargon": "Assimilation into society",
-      "layman": "Becoming like the hearing world"
+      "layman": "Becoming like non-deaf people"
     },
     {
       "jargon": "Personal identity",
@@ -57,12 +57,12 @@
       "layman": "Mixed feelings about being deaf"
     },
     {
-      "jargon": "Heroic representation",
-      "layman": "Portraying people as role models"
+      "jargon": "Cultural divide",
+      "layman": "Difference between deaf and hearing worlds"
     },
     {
-      "jargon": "Crossing the cultural divide",
-      "layman": "Bridging deaf and hearing worlds"
+      "jargon": "Heroic representation",
+      "layman": "Showing people as role models"
     }
   ]
 }

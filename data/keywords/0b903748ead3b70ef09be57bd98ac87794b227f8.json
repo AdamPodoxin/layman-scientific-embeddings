@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Multidimensional geometric models",
-      "layman": "Shapes in more than three dimensions"
+      "layman": "Higher-dimensional space shapes"
     },
     {
       "jargon": "S-matrix",
-      "layman": "Tool to describe how particles interact"
+      "layman": "Math tool for predicting particle collisions"
     },
     {
       "jargon": "Lagrangian",
-      "layman": "Mathematical description of energy in a system"
+      "layman": "Math that describes physical action"
     }
   ],
   "methodologies": [
     {
       "jargon": "Binary geometrophysics",
-      "layman": "Geometry-based model using two parts"
+      "layman": "Two-part geometry for physics"
     },
     {
       "jargon": "Kaluza-Klein models",
-      "layman": "Adding extra dimensions to explain forces"
+      "layman": "Extra dimensions for forces"
     },
     {
       "jargon": "Fokker-Feynman action-at-a-distance",
-      "layman": "Forces acting instantly across space"
+      "layman": "Force acting instantly across space"
     },
     {
       "jargon": "Modified S-matrix theory",
-      "layman": "Changed version of interaction prediction model"
+      "layman": "Changed version of collision prediction tool"
     },
     {
       "jargon": "Algebraic description",
-      "layman": "Using math equations to describe geometry"
+      "layman": "Mathematical formulas to describe shape"
     }
   ],
   "outcomes": [
     {
       "jargon": "Transition from microworld geometrophysics",
-      "layman": "Shift from tiny-scale geometry to normal physics"
+      "layman": "Shift from small-scale geometry to normal physics"
     },
     {
       "jargon": "Prototype of S-matrix",
-      "layman": "Model that combines interaction rules"
+      "layman": "Model that combines force and action"
     },
     {
       "jargon": "Prototype of physical action",
-      "layman": "Model showing energy behavior in forces"
+      "layman": "Model showing how forces work"
     },
     {
       "jargon": "Prototype of multidimensional metric",
-      "layman": "Model showing distance in higher dimensions"
+      "layman": "Model of distance in higher dimensions"
     },
     {
-      "jargon": "Conventional physical theory in classical spacetime",
-      "layman": "Standard physics in normal space and time"
+      "jargon": "Conventional physical theory",
+      "layman": "Normal physics in regular space and time"
     }
   ]
 }

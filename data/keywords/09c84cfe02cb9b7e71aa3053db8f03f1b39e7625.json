@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Second-harmonic generation",
-      "layman": "Light doubling"
+      "layman": "Light doubling effect"
     },
     {
       "jargon": "Isotropic fluids",
@@ -10,37 +10,37 @@
     },
     {
       "jargon": "Multipolar approximation",
-      "layman": "Multiple polarization levels"
+      "layman": "Multiple charge interactions"
     },
     {
       "jargon": "Quantum electrodynamics",
-      "layman": "Quantum light-matter interaction"
+      "layman": "Theory of light and particles"
     },
     {
-      "jargon": "Harmonic generation",
-      "layman": "Light creating new frequencies"
+      "jargon": "Molecular theory",
+      "layman": "Molecular-level explanation"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Molecular theory of harmonic generation",
-      "layman": "Model explaining light interactions in molecules"
-    },
-    {
-      "jargon": "Quantum electrodynamics framework",
-      "layman": "Quantum-based light-matter rules"
+      "jargon": "Quantum electrodynamics",
+      "layman": "Theory of light and particles"
     },
     {
       "jargon": "Multipolar approximation",
-      "layman": "Step-by-step polarization analysis"
+      "layman": "Modeling multiple charge effects"
+    },
+    {
+      "jargon": "Molecular theory of harmonic generation",
+      "layman": "Using molecules to explain light effects"
     },
     {
       "jargon": "Proof",
-      "layman": "Mathematical confirmation"
+      "layman": "Mathematical demonstration"
     },
     {
       "jargon": "Level of approximation",
-      "layman": "How closely a model matches reality"
+      "layman": "How closely the model matches reality"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "All levels of multipolar approximation",
-      "layman": "All possible polarization cases"
+      "layman": "All possible models fail"
     },
     {
-      "jargon": "Proved",
-      "layman": "Confirmed by math"
+      "jargon": "Proved in isotropic fluids",
+      "layman": "Confirmed in uniform liquids"
     },
     {
-      "jargon": "Isotropic fluids",
-      "layman": "Uniform liquids"
+      "jargon": "Quantum electrodynamics framework",
+      "layman": "Based on light-particle laws"
     },
     {
-      "jargon": "No contribution",
-      "layman": "No effect at all"
+      "jargon": "No multipolar contribution",
+      "layman": "No multiple charge effects"
     }
   ]
 }

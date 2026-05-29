@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Chlorine dioxide",
-      "layman": "A chlorine-based chemical"
+      "layman": "Chlorine dioxide gas in water"
     },
     {
       "jargon": "Amino acids",
@@ -18,21 +18,21 @@
     },
     {
       "jargon": "Proteins",
-      "layman": "Large biological molecules"
+      "layman": "Large biological molecules in living things"
     }
   ],
   "methodologies": [
     {
       "jargon": "Iodometric technique",
-      "layman": "Chemical test using iodine"
+      "layman": "Chemical measurement using iodine"
     },
     {
       "jargon": "Spectrophotometric technique",
-      "layman": "Color-based measurement"
+      "layman": "Measuring color changes to detect reactions"
     },
     {
       "jargon": "DPD titrimetric technique",
-      "layman": "Test using a dye to measure chlorine byproducts"
+      "layman": "Method to identify chlorine byproducts"
     },
     {
       "jargon": "First order kinetics",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Pseudo-first order kinetics",
-      "layman": "Reaction appears slow at first, then speeds up"
+      "layman": "Seems like first order but with one constant factor"
     }
   ],
   "outcomes": [
     {
       "jargon": "Chlorinated derivatives",
-      "layman": "Chemically changed amino acids"
+      "layman": "Chemically altered amino acids"
     },
     {
-      "jargon": "Decomposition of chlorinated species",
-      "layman": "Breakdown of chlorine byproducts"
+      "jargon": "Decomposition of chlorinated products",
+      "layman": "Breakdown of chlorine products"
     },
     {
       "jargon": "pH dependent rate",
-      "layman": "Reaction speed changes with acidity or alkalinity"
-    },
-    {
-      "jargon": "Only few amino acids react with ClO2",
-      "layman": "Most amino acids don't react with chlorine dioxide"
+      "layman": "Reaction speed changes with acidity"
     },
     {
       "jargon": "Rapid reaction with peptides and proteins",
-      "layman": "Fast chemical reaction with protein-like molecules"
+      "layman": "Quick reaction with proteins and short chains"
+    },
+    {
+      "jargon": "Limited reaction with aqueous ClO2",
+      "layman": "Few amino acids react with chlorine dioxide"
     }
   ]
 }

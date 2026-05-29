@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Customer segments",
-      "layman": "Groups of buyers"
+      "layman": "Types of buyers"
     },
     {
-      "jargon": "Channels",
+      "jargon": "Distribution channels",
       "layman": "Sales paths"
     },
     {
       "jargon": "Discount superstore",
-      "layman": "Cheap store"
+      "layman": "Cheap retail store"
     },
     {
       "jargon": "Pricey boutique",
-      "layman": "Expensive shop"
+      "layman": "Expensive specialty store"
     },
     {
-      "jargon": "Buying process",
-      "layman": "Steps to purchase"
+      "jargon": "Value poaching",
+      "layman": "Stealing value from another channel"
     }
   ],
   "methodologies": [
     {
       "jargon": "Go-to-market strategy",
-      "layman": "Sales plan"
+      "layman": "How a company launches products"
     },
     {
-      "jargon": "Value poaching",
-      "layman": "Stealing value from rivals"
+      "jargon": "Channel selection",
+      "layman": "Choosing where to sell"
     },
     {
-      "jargon": "Channel pathways",
-      "layman": "Routes between stores"
+      "jargon": "Customer journey mapping",
+      "layman": "Tracking how buyers move through steps"
     },
     {
-      "jargon": "Customer behavior design",
-      "layman": "Designing for how people act"
+      "jargon": "Cross-channel pathway design",
+      "layman": "Designing paths across sales channels"
     },
     {
-      "jargon": "Market segmentation",
-      "layman": "Dividing buyers into groups"
+      "jargon": "Buyer behavior analysis",
+      "layman": "Studying how customers make decisions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Value poaching",
-      "layman": "Customers switching to better deals"
+      "layman": "Stealing value from another channel"
     },
     {
-      "jargon": "Higher margin sales",
-      "layman": "More profit from sales"
+      "jargon": "Increased customer sophistication",
+      "layman": "Customers make better choices"
     },
     {
-      "jargon": "High-touch services",
-      "layman": "Personalized service"
+      "jargon": "Aggressive price hunting",
+      "layman": "Searching for better deals"
     },
     {
-      "jargon": "Aggressive bargain hunting",
-      "layman": "Actively seeking cheap deals"
+      "jargon": "Greater information access",
+      "layman": "More data available to customers"
     },
     {
-      "jargon": "Sophisticated marketing awareness",
-      "layman": "Knowing how companies market"
+      "jargon": "Shift in mindset",
+      "layman": "Changing how companies think about customers"
     }
   ]
 }

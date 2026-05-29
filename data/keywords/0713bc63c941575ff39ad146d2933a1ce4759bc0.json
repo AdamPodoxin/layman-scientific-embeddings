@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Occupational unions",
+      "layman": "Worker unions"
+    },
+    {
+      "jargon": "Industrial relations",
+      "layman": "Workplace relationships"
+    },
+    {
+      "jargon": "Collective contracts",
+      "layman": "Group workplace agreements"
+    },
+    {
+      "jargon": "Employers",
+      "layman": "Company managers"
+    },
+    {
+      "jargon": "Interests aggregation",
+      "layman": "Combining worker concerns"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Recruitment of members",
+      "layman": "Hiring workers to join"
+    },
+    {
+      "jargon": "Representation versus external actors",
+      "layman": "Unions vs. outside groups"
+    },
+    {
+      "jargon": "Analysis of conditions to act",
+      "layman": "Studying when unions can operate"
+    },
+    {
+      "jargon": "Evaluation of long-term goals",
+      "layman": "Looking at future union aims"
+    },
+    {
+      "jargon": "Consequences analysis",
+      "layman": "Examining effects of union actions"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Empirical impact",
+      "layman": "Real-world influence"
+    },
+    {
+      "jargon": "Stability of industrial relations",
+      "layman": "Strong workplace harmony"
+    },
+    {
+      "jargon": "Autonomous collective contracts",
+      "layman": "Self-managed workplace deals"
+    },
+    {
+      "jargon": "Direct consequences",
+      "layman": "Immediate effects on unions"
+    },
+    {
+      "jargon": "Indirect consequences",
+      "layman": "Effects on other workers or consumers"
+    }
+  ]
+}

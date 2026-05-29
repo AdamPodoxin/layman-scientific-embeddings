@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Consumer sector",
-      "layman": "Homebuyers group"
+      "layman": "Home buyers"
     },
     {
       "jargon": "Developer sector",
-      "layman": "Real estate builders"
+      "layman": "Real estate developers"
     },
     {
       "jargon": "Housing market",
-      "layman": "Home price system"
+      "layman": "Real estate market"
     },
     {
       "jargon": "Residential policies",
-      "layman": "Home ownership rules"
+      "layman": "Government housing rules"
     }
   ],
   "methodologies": [
     {
       "jargon": "System dynamics model",
-      "layman": "Market behavior simulation"
+      "layman": "Simulation of market behavior"
     },
     {
-      "jargon": "Intra-sector relationships",
-      "layman": "Internal connections within groups"
+      "jargon": "Intra-relationships",
+      "layman": "Internal connections within sectors"
     },
     {
-      "jargon": "Inter-sector interactions",
-      "layman": "Connections between market groups"
+      "jargon": "Inter-relationships",
+      "layman": "Connections between sectors"
     },
     {
       "jargon": "Predictive modeling",
-      "layman": "Forecasting future prices"
+      "layman": "Forecasting market behavior"
     },
     {
       "jargon": "Data-driven analysis",
-      "layman": "Using data to understand trends"
+      "layman": "Using data to understand patterns"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Price prediction",
-      "layman": "Forecasting home prices"
+      "jargon": "Housing price influences",
+      "layman": "What drives home prices"
+    },
+    {
+      "jargon": "Market behaviors",
+      "layman": "How the market moves"
     },
     {
       "jargon": "Policy support",
-      "layman": "Helps governments make decisions"
+      "layman": "Helps government make decisions"
     },
     {
-      "jargon": "Investment guidance",
-      "layman": "Advice for developers on where to build"
+      "jargon": "Investment decisions",
+      "layman": "Guides developer choices"
     },
     {
       "jargon": "Rational consumption",
-      "layman": "Smart home buying choices"
-    },
-    {
-      "jargon": "Market behavior",
-      "layman": "How the market reacts to changes"
+      "layman": "Helps buyers make smart choices"
     }
   ]
 }

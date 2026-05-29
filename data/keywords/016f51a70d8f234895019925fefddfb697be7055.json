@@ -1,42 +1,42 @@
 {
   "core_entities": [
     {
-      "jargon": "Public-private partnership (PPP)",
-      "layman": "Collaboration between government and businesses"
+      "jargon": "Public-private cooperation",
+      "layman": "Collaboration between government and private companies"
     },
     {
       "jargon": "Workforce",
-      "layman": "People who work in an industry"
+      "layman": "People who do jobs"
     },
     {
       "jargon": "Labor efficiency",
       "layman": "How well workers use their time and skills"
     },
     {
-      "jargon": "National Development Plan",
-      "layman": "Government's plan for national growth"
+      "jargon": "Motorcycle manufacturing industry",
+      "layman": "Businesses that make motorcycles"
     },
     {
-      "jargon": "National Education Plan",
-      "layman": "Government's plan for education improvement"
+      "jargon": "National Development Plan",
+      "layman": "Government plan for country growth"
     }
   ],
   "methodologies": [
     {
       "jargon": "In-depth interviews",
-      "layman": "One-on-one talks with experts"
+      "layman": "One-on-one conversations with experts"
     },
     {
       "jargon": "Focus group discussions",
-      "layman": "Group talks with experts to gather opinions"
+      "layman": "Group talks with experts"
     },
     {
       "jargon": "Questionnaires",
-      "layman": "Surveys given to collect data"
+      "layman": "Surveys sent to people"
     },
     {
       "jargon": "Quantitative analysis",
-      "layman": "Statistical data analysis"
+      "layman": "Numbers-based data analysis"
     },
     {
       "jargon": "Educational reform",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Low level of labor efficiency",
-      "layman": "Workers are not using their skills well"
+      "layman": "Workers are not using time well"
     },
     {
-      "jargon": "Job performance with vocational education",
-      "layman": "Vocational workers do not perform well"
+      "jargon": "Job performance at least and moderate levels",
+      "layman": "Workers do basic to fair jobs"
     },
     {
-      "jargon": "Job performance with Bachelor degrees",
-      "layman": "University grads perform only moderately"
+      "jargon": "Bachelor degree holders have low and moderate performance",
+      "layman": "College grads do not do well at work"
     },
     {
-      "jargon": "Operational problems and continuity",
-      "layman": "Work processes face ongoing issues"
+      "jargon": "Vocational education has poor performance",
+      "layman": "Training programs lead to weak job results"
     },
     {
-      "jargon": "New model of PPP",
-      "layman": "New government-business cooperation plan"
+      "jargon": "New PPP model needed",
+      "layman": "A better government-business plan is required"
     }
   ]
 }

@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Multimedia content",
-      "layman": "Audio and video material"
+      "layman": "Audio and video materials"
     },
     {
       "jargon": "Semantic meaning",
-      "layman": "Underlying message or intent"
+      "layman": "Deep meaning behind data"
     },
     {
       "jargon": "Ontologies",
@@ -18,21 +18,21 @@
     },
     {
       "jargon": "Scientific research communities",
-      "layman": "Groups of scientists working together"
+      "layman": "Groups of scientists doing research"
     }
   ],
   "methodologies": [
     {
       "jargon": "Semantic web technologies",
-      "layman": "Web tools for understanding meaning"
+      "layman": "Web tools for meaning-based searches"
     },
     {
       "jargon": "Automatic segmentation",
-      "layman": "Splitting content into parts automatically"
+      "layman": "Splitting media into parts automatically"
     },
     {
       "jargon": "Low-level feature recognition",
-      "layman": "Detecting basic visual or audio patterns"
+      "layman": "Identifying basic patterns in media"
     },
     {
       "jargon": "Knowledge reasoning",
@@ -40,7 +40,7 @@
     },
     {
       "jargon": "Inferencing rules",
-      "layman": "Rules to deduce new facts from known ones"
+      "layman": "Rules for making predictions from facts"
     }
   ],
   "outcomes": [
@@ -50,11 +50,11 @@
     },
     {
       "jargon": "Automatic filtering",
-      "layman": "Sorting content automatically"
+      "layman": "Quickly sorting content by features"
     },
     {
       "jargon": "Machine processing",
-      "layman": "Computers analyzing content"
+      "layman": "Computers analyzing data"
     },
     {
       "jargon": "Interpretation of multimedia",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Assimilation of resources",
-      "layman": "Integrating content into systems"
+      "layman": "Combining content for easier use"
     }
   ]
 }

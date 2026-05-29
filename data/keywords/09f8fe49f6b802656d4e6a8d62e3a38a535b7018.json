@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Travel writings",
-      "layman": "Journeys written down"
+      "layman": "Journeys and travel accounts"
     },
     {
       "jargon": "Travel fellowship",
@@ -10,33 +10,33 @@
     },
     {
       "jargon": "Diary record",
-      "layman": "Personal journal"
+      "layman": "Personal journal entries"
+    },
+    {
+      "jargon": "European travellers",
+      "layman": "Travelers from Europe"
     },
     {
       "jargon": "Orientalist forces",
       "layman": "Western views of Eastern cultures"
-    },
-    {
-      "jargon": "Historical narratives",
-      "layman": "Stories about the past"
     }
   ],
   "methodologies": [
     {
       "jargon": "Comparative reading",
-      "layman": "Comparing different texts"
+      "layman": "Comparing different versions"
     },
     {
-      "jargon": "Interrogating",
-      "layman": "Examining closely"
+      "jargon": "Interrogating gender roles",
+      "layman": "Looking at how gender affects behavior"
     },
     {
       "jargon": "Narrative analysis",
-      "layman": "Studying stories"
+      "layman": "Analyzing stories"
     },
     {
-      "jargon": "Gender analysis",
-      "layman": "Looking at gender differences"
+      "jargon": "Historical narratives",
+      "layman": "Past stories told about events"
     },
     {
       "jargon": "Subjectivity",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Gender makes a difference",
-      "layman": "Women experience things differently"
+      "layman": "Gender changes how people see things"
     },
     {
-      "jargon": "Relationship to empire",
-      "layman": "How people see imperial power"
+      "jargon": "Link to empire",
+      "layman": "Connection to colonial power"
     },
     {
       "jargon": "West's relationship to the East",
-      "layman": "Western view of Eastern countries"
+      "layman": "How West sees East"
     },
     {
-      "jargon": "Identity evident",
-      "layman": "Clear sense of self shown"
+      "jargon": "Identity in travel",
+      "layman": "Who one feels they are during travel"
     },
     {
-      "jargon": "Discourses produced",
-      "layman": "Stories and ideas created"
+      "jargon": "Traveler's perspective",
+      "layman": "How someone sees a place"
     }
   ]
 }

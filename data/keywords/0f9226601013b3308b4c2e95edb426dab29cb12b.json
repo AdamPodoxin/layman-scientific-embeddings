@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Cryptographic key",
-      "layman": "Secret code for access"
+      "layman": "Secret code key"
     },
     {
       "jargon": "Role hierarchy",
-      "layman": "Level-based access structure"
+      "layman": "Level-based user roles"
     },
     {
       "jargon": "Hash function",
-      "layman": "Code that scrambles data"
+      "layman": "One-way code maker"
     },
     {
       "jargon": "Access control",
       "layman": "Who can do what"
     },
     {
-      "jargon": "Dynamic access control",
-      "layman": "Changing access rules over time"
+      "jargon": "Dynamic access",
+      "layman": "Changing access rules"
     }
   ],
   "methodologies": [
     {
       "jargon": "Key assignment",
-      "layman": "Assigning secret codes"
+      "layman": "Assigning secret keys"
     },
     {
       "jargon": "Key derivation",
-      "layman": "Creating keys from rules"
+      "layman": "Creating keys from others"
     },
     {
       "jargon": "One-way hash functions",
-      "layman": "Scrambling data that can't be reversed"
+      "layman": "Irreversible code functions"
     },
     {
-      "jargon": "Role relationships",
-      "layman": "How roles connect to each other"
+      "jargon": "Role modification",
+      "layman": "Changing role links"
     },
     {
-      "jargon": "Adding/deleting roles",
-      "layman": "Adding or removing access levels"
+      "jargon": "Hierarchical updates",
+      "layman": "Updating role structure"
     }
   ],
   "outcomes": [
     {
       "jargon": "Efficient key assignment",
-      "layman": "Fast and smart key setup"
+      "layman": "Fast key setup"
     },
     {
       "jargon": "Limited number of keys",
-      "layman": "Fewer secret codes used"
+      "layman": "Few secret keys used"
     },
     {
-      "jargon": "Solves access control",
-      "layman": "Fixes who can access what"
+      "jargon": "Dynamic access control",
+      "layman": "Can update permissions on the fly"
     },
     {
-      "jargon": "Resolves dynamic changes",
-      "layman": "Handles changing access rules"
+      "jargon": "Add/delete roles",
+      "layman": "Add or remove user roles"
     },
     {
-      "jargon": "Secure access",
-      "layman": "Safe access to data"
+      "jargon": "Modify role relationships",
+      "layman": "Change how roles connect"
     }
   ]
 }

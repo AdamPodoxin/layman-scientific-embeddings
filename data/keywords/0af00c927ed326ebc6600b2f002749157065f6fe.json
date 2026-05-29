@@ -2,66 +2,66 @@
   "core_entities": [
     {
       "jargon": "Neutron star",
-      "layman": "Dead star made of neutrons"
-    },
-    {
-      "jargon": "Nuclear matter equilibrium density",
-      "layman": "Normal density of atomic nuclei"
+      "layman": "City-sized star made of neutrons"
     },
     {
       "jargon": "Equation of state",
-      "layman": "Rule linking pressure and density in stars"
+      "layman": "Rule linking pressure and density in matter"
+    },
+    {
+      "jargon": "Nuclear matter equilibrium density",
+      "layman": "Normal density of nuclear material"
+    },
+    {
+      "jargon": "Core-crust interface",
+      "layman": "Border between star's core and outer layer"
     },
     {
       "jargon": "Moment of inertia",
-      "layman": "How hard it is to spin a star"
-    },
-    {
-      "jargon": "Binding energy",
-      "layman": "Energy holding a star together"
+      "layman": "Resistance to spinning"
     }
   ],
   "methodologies": [
     {
       "jargon": "Observational perspectives",
-      "layman": "Studying stars with telescopes"
+      "layman": "Studying stars through observations"
     },
     {
       "jargon": "Einstein's equations",
       "layman": "Rules of gravity in space"
     },
     {
-      "jargon": "Buchdahl solution",
-      "layman": "Simple model of star shape"
-    },
-    {
-      "jargon": "Tolman solution",
-      "layman": "Simple model of star spin"
+      "jargon": "Buchdahl and Tolman solutions",
+      "layman": "Simple models of star structure"
     },
     {
       "jargon": "Analytic solutions",
-      "layman": "Simple math models of real physics"
+      "layman": "Mathematical formulas that describe behavior"
+    },
+    {
+      "jargon": "Density dependence of symmetry energy",
+      "layman": "How pressure changes with density"
     }
   ],
   "outcomes": [
     {
       "jargon": "Neutron star radius",
-      "layman": "Size of a neutron star"
+      "layman": "Size of the neutron star"
     },
     {
       "jargon": "Pressure near nuclear density",
-      "layman": "Force inside a star at normal nuclear density"
+      "layman": "Pressure in the core of the star"
     },
     {
       "jargon": "Radius independent of mass",
-      "layman": "Size doesn't change with weight"
+      "layman": "Size doesn't change much with weight"
     },
     {
       "jargon": "Extreme softening",
-      "layman": "Very weak pressure at high density"
+      "layman": "Material collapses easily under pressure"
     },
     {
-      "jargon": "Universal functions",
+      "jargon": "Universal functions of compactness",
       "layman": "Same patterns across different stars"
     }
   ]

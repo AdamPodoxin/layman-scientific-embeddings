@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Automatic light control",
-      "layman": "Lighting that turns on/off by itself"
+      "layman": "Lighting that turns on/off automatically"
     },
     {
       "jargon": "Failure handling",
-      "layman": "System that deals with errors"
+      "layman": "System response to errors"
     },
     {
-      "jargon": "System services",
-      "layman": "Background system functions"
+      "jargon": "Services",
+      "layman": "Support functions in the system"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Refine ground model",
-      "layman": "Improve model for real use"
+      "jargon": "Capture requirements",
+      "layman": "Get clear needs from users"
     },
     {
-      "jargon": "Capture informal requirements",
-      "layman": "Turn vague needs into clear plans"
+      "jargon": "Model refinement",
+      "layman": "Improve the model step by step"
     },
+    {
+      "jargon": "Formulate using domain terminology",
+      "layman": "Use real-world language to build the model"
+    },
+    {
+      "jargon": "High-level simulation",
+      "layman": "Test the model without real code"
+    },
+    {
+      "jargon": "Executable model",
+      "layman": "A model that can run and act"
+    }
+  ],
+  "outcomes": [
     {
       "jargon": "Remove inconsistencies",
       "layman": "Fix conflicting details"
     },
     {
       "jargon": "Eliminate ambiguities",
-      "layman": "Clear up unclear parts"
+      "layman": "Clear up unclear points"
+    },
+    {
+      "jargon": "Handle incomplete parts",
+      "layman": "Fill in missing information"
+    },
+    {
+      "jargon": "Bridge gap between domains",
+      "layman": "Connect user needs to system design"
     },
     {
       "jargon": "Avoid formal overhead",
       "layman": "Keep it simple, no complex math"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Executable model",
-      "layman": "Model that can run simulations"
-    },
-    {
-      "jargon": "High-level simulation",
-      "layman": "Testing system behavior without code"
-    },
-    {
-      "jargon": "Test and debugging",
-      "layman": "Check and fix system errors"
-    },
-    {
-      "jargon": "Application-domain-oriented terminology",
-      "layman": "Language from the real-world use"
-    },
-    {
-      "jargon": "Bridge gap between views",
-      "layman": "Connect user needs to system design"
     }
   ]
 }

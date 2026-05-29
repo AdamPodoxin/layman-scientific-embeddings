@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Wetland",
-      "layman": "Wetland"
+      "layman": "Marshy land with water"
     },
     {
       "jargon": "Hongzhe Lake",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Environment quality",
-      "layman": "Environmental health"
+      "layman": "Health of the surroundings"
     },
     {
       "jargon": "Natural properties",
@@ -23,24 +23,24 @@
   ],
   "methodologies": [
     {
-      "jargon": "Analysis",
-      "layman": "Study and evaluation"
+      "jargon": "Analysized",
+      "layman": "Analyzed"
     },
     {
       "jargon": "Construction planning",
-      "layman": "Designing development plans"
+      "layman": "Building plans"
     },
     {
-      "jargon": "Impact assessment",
-      "layman": "Checking effects of changes"
+      "jargon": "Proposed",
+      "layman": "Suggested"
     },
     {
       "jargon": "Sustainable development",
-      "layman": "Long-term environmental balance"
+      "layman": "Long-term healthy growth"
     },
     {
-      "jargon": "Proposed planning",
-      "layman": "Suggested development plan"
+      "jargon": "Impact analysis",
+      "layman": "Study of influences"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Range",
-      "layman": "Area covered"
+      "layman": "Extent"
     },
     {
       "jargon": "Environmental quality",
-      "layman": "Environmental health"
+      "layman": "Cleanliness of environment"
     },
     {
       "jargon": "Biodiversity impact",
       "layman": "Effect on variety of life"
     },
     {
-      "jargon": "Sustainable development suggestions",
-      "layman": "Advice for long-term balance"
+      "jargon": "Planning proposal",
+      "layman": "Recommended plan"
     }
   ]
 }

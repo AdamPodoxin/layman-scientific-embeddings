@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Economic agents",
-      "layman": "Individuals or businesses making economic choices"
+      "layman": "Individuals or firms making economic decisions"
     },
     {
       "jargon": "Countercyclical fiscal policy",
       "layman": "Government spending to balance economic ups and downs"
     },
     {
+      "jargon": "Paternalistic corrections",
+      "layman": "Government fixing people's choices for them"
+    },
+    {
       "jargon": "Imaginary goods",
-      "layman": "Goods people want but can't afford or don't truly need"
+      "layman": "Goods people think they want but don't truly need"
     },
     {
       "jargon": "Planning mentality",
-      "layman": "Belief that governments can plan economies better than markets"
-    },
-    {
-      "jargon": "Public ignorance",
-      "layman": "Government's lack of knowledge about economic realities"
+      "layman": "Belief that government can plan better than markets"
     }
   ],
   "methodologies": [
     {
       "jargon": "Corrective learning mechanisms",
-      "layman": "Market adjustments after mistakes"
+      "layman": "Markets learning from mistakes"
+    },
+    {
+      "jargon": "Public-ignorance problems",
+      "layman": "Government's lack of full knowledge when making decisions"
     },
     {
       "jargon": "Public-choice analysis",
-      "layman": "Studying how government decisions are made"
+      "layman": "Studying government behavior like individuals do"
     },
     {
-      "jargon": "Paternalistic corrections",
-      "layman": "Government fixing people's choices for them"
+      "jargon": "Peer endorsement",
+      "layman": "Experts supporting a policy without knowing details"
     },
     {
-      "jargon": "Government intervention",
-      "layman": "Government stepping in to manage markets"
-    },
-    {
-      "jargon": "Economic planning",
-      "layman": "Government designing economic systems"
+      "jargon": "Fiscal policy adjustments",
+      "layman": "Changing taxes or spending to fix economy"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Market self-correction",
-      "layman": "Markets fix errors on their own"
+      "jargon": "Market correction of consumer errors",
+      "layman": "Markets fix mistakes people make"
     },
     {
-      "jargon": "Public-ignorance problems",
-      "layman": "Government fails due to poor knowledge"
+      "jargon": "Government inefficiency in cycle correction",
+      "layman": "Government fails to fix economic swings"
     },
     {
-      "jargon": "Leftist economic ideas",
-      "layman": "Economic views favoring government control"
+      "jargon": "Abandonment of public ignorance",
+      "layman": "Hayek stopped focusing on government's knowledge gap"
     },
     {
-      "jargon": "Government failure to correct cycles",
-      "layman": "Government can't fix economic downturns"
+      "jargon": "Popularity of planning schemes",
+      "layman": "Many people supported government-led planning"
     },
     {
-      "jargon": "Hayek's abandonment of public ignorance",
-      "layman": "Hayek focused on planning instead of government knowledge limits"
+      "jargon": "Leftist ideas",
+      "layman": "Ideas favoring government planning and control"
     }
   ]
 }

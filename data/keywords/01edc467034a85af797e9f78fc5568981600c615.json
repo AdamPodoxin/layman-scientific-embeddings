@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Rod-flower like ZnO",
-      "layman": "Flower-shaped zinc oxide"
+      "layman": "Flower-shaped zinc oxide structures"
     },
     {
       "jargon": "Nanorods",
@@ -18,13 +18,13 @@
     },
     {
       "jargon": "Hydrothermal conditions",
-      "layman": "Heat and water-based setup conditions"
+      "layman": "Temperature and time settings during growth"
     }
   ],
   "methodologies": [
     {
       "jargon": "Surfactant-assisted hydrothermal process",
-      "layman": "Chemical process using surfactant in hot water"
+      "layman": "Process using helper chemicals in water heat"
     },
     {
       "jargon": "Thermal decomposition",
@@ -32,11 +32,11 @@
     },
     {
       "jargon": "Morphology tailoring",
-      "layman": "Shaping structure by adjusting conditions"
+      "layman": "Changing shape with settings"
     },
     {
       "jargon": "Reaction mechanism",
-      "layman": "How the chemical reaction works"
+      "layman": "How the material forms step by step"
     },
     {
       "jargon": "Gas sensing test",
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Length to diameter ratio of 20",
-      "layman": "Rod is 20 times longer than wide"
+      "layman": "Rods are much longer than wide"
     },
     {
       "jargon": "Excellent gas sensing properties",
-      "layman": "Great at detecting gases"
+      "layman": "Great ability to detect gases"
     },
     {
-      "jargon": "Crucial role of Zn2+ concentration",
-      "layman": "Zinc amount is key to growth"
+      "jargon": "Cascading nucleation",
+      "layman": "Formation starts in clusters"
     },
     {
-      "jargon": "Nucleation of microstructures",
-      "layman": "Starting point for structure formation"
+      "jargon": "Zn2+ concentration crucial",
+      "layman": "Zinc level is key to structure formation"
     }
   ]
 }

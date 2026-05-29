@@ -10,7 +10,7 @@
     },
     {
       "jargon": "Professional identity",
-      "layman": "Sense of being a professional"
+      "layman": "How someone sees themselves in a job"
     },
     {
       "jargon": "Student conference",
@@ -18,7 +18,7 @@
     },
     {
       "jargon": "WITS choir",
-      "layman": "WITS choir"
+      "layman": "Award-winning student choir"
     }
   ],
   "methodologies": [
@@ -31,16 +31,16 @@
       "layman": "Thinking after an experience"
     },
     {
-      "jargon": "Peer interaction",
-      "layman": "Talking with peers"
+      "jargon": "Peer observation",
+      "layman": "Watching others to learn"
     },
     {
-      "jargon": "Lecture-based learning",
-      "layman": "Learning from a lecture"
+      "jargon": "Self-assessment",
+      "layman": "Evaluating oneself"
     },
     {
-      "jargon": "Practical application",
-      "layman": "Hands-on learning"
+      "jargon": "Immersive participation",
+      "layman": "Getting involved deeply in an activity"
     }
   ],
   "outcomes": [
@@ -53,16 +53,16 @@
       "layman": "Better understanding of self"
     },
     {
-      "jargon": "Enhanced self-capabilities",
+      "jargon": "Enhanced capability perception",
       "layman": "Feeling more capable"
     },
     {
       "jargon": "Euphoric feeling",
-      "layman": "Excited emotional state"
+      "layman": "Intense happy emotion"
     },
     {
-      "jargon": "Opportunity to contribute",
-      "layman": "Chance to make a difference"
+      "jargon": "Special moment in time",
+      "layman": "Unique and meaningful experience"
     }
   ]
 }

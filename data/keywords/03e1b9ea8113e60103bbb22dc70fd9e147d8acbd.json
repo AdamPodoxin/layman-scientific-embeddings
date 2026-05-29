@@ -31,38 +31,38 @@
       "layman": "Mathematical examination of data"
     },
     {
-      "jargon": "Regression analysis",
-      "layman": "Testing relationships in data"
-    },
-    {
       "jargon": "Market development",
       "layman": "Improvement in business markets"
     },
     {
       "jargon": "Government quality improvement",
       "layman": "Better government performance"
+    },
+    {
+      "jargon": "Regional development",
+      "layman": "Growth in a specific area"
     }
   ],
   "outcomes": [
     {
       "jargon": "Less influenced by profitability",
-      "layman": "Not affected by profits"
+      "layman": "Less affected by profit levels"
     },
     {
       "jargon": "Invest less efficiently",
-      "layman": "Waste more money on growth"
+      "layman": "Waste more investment resources"
     },
     {
       "jargon": "Negative impact reduced",
-      "layman": "Bad effect gets smaller"
+      "layman": "Harm decreases"
     },
     {
-      "jargon": "Tangibility",
-      "layman": "How real or physical something is"
+      "jargon": "Violation factor in debt markets",
+      "layman": "Damages loan fairness"
     },
     {
-      "jargon": "Regional development",
-      "layman": "Better growth in a region"
+      "jargon": "Access to abnormal debt",
+      "layman": "Gets unusual loans"
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Effective field theories",
+      "layman": "Simplified models of nature"
+    },
+    {
+      "jargon": "Chiral Lagrangian field theory",
+      "layman": "Theory for strong nuclear forces"
+    },
+    {
+      "jargon": "Landau Fermi liquid theory",
+      "layman": "Theory for how particles behave in dense matter"
+    },
+    {
+      "jargon": "Nuclear matter",
+      "layman": "Nuclear material under pressure"
+    },
+    {
+      "jargon": "Dense hadronic matter",
+      "layman": "Dense material made of hadrons"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Brown-Rho scaling",
+      "layman": "Mass and strength change with density"
+    },
+    {
+      "jargon": "Electroweak responses",
+      "layman": "How nuclei react to weak forces"
+    },
+    {
+      "jargon": "Strong responses",
+      "layman": "How nuclei react to strong forces"
+    },
+    {
+      "jargon": "Mean field",
+      "layman": "Average behavior of particles in a group"
+    },
+    {
+      "jargon": "Extrapolation",
+      "layman": "Extending results to higher densities"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Fluctuations on vacuum",
+      "layman": "Small changes in empty space"
+    },
+    {
+      "jargon": "Fixed point theory",
+      "layman": "Stable theory at extreme conditions"
+    },
+    {
+      "jargon": "In-medium structure",
+      "layman": "Structure inside dense matter"
+    },
+    {
+      "jargon": "Heavy-ion collisions",
+      "layman": "Colliding heavy atomic nuclei"
+    },
+    {
+      "jargon": "Compact stars",
+      "layman": "Dense stars like neutron stars"
+    }
+  ]
+}

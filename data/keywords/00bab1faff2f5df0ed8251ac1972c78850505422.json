@@ -9,60 +9,60 @@
       "layman": "Gringo programs"
     },
     {
+      "jargon": "Infinitary propositional formulas",
+      "layman": "Infinite logic formulas"
+    },
+    {
       "jargon": "Local variables",
       "layman": "Local variables"
     },
     {
       "jargon": "Conditional literals",
       "layman": "Conditional literals"
-    },
-    {
-      "jargon": "Aggregates",
-      "layman": "Aggregates"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Infinitary propositional formulas",
-      "layman": "Infinite logical statements"
+      "jargon": "Translate into infinitary propositional formulas",
+      "layman": "Convert to infinite logic formulas"
     },
     {
       "jargon": "Natural deduction",
-      "layman": "Logical reasoning steps"
+      "layman": "Logical reasoning process"
     },
     {
       "jargon": "Equivalent transformations",
-      "layman": "Same meaning, different form"
+      "layman": "Same result changes"
     },
     {
-      "jargon": "Translation",
-      "layman": "Converting to another form"
+      "jargon": "Stable model definition",
+      "layman": "Stable model definition"
     },
     {
-      "jargon": "Semantics definition",
-      "layman": "Defining meaning"
+      "jargon": "Program semantics",
+      "layman": "How programs mean things"
     }
   ],
   "outcomes": [
     {
       "jargon": "Precise semantics",
-      "layman": "Clear meaning"
+      "layman": "Exact meaning"
     },
     {
-      "jargon": "Informal comments",
-      "layman": "Simple explanations"
+      "jargon": "Informal explanations",
+      "layman": "Simple user hints"
     },
     {
-      "jargon": "User's intuition",
-      "layman": "User's gut feeling"
+      "jargon": "User intuition",
+      "layman": "User gut feeling"
     },
     {
-      "jargon": "Natural deduction",
-      "layman": "Logical reasoning steps"
+      "jargon": "Equivalent transformations",
+      "layman": "Same result changes"
     },
     {
-      "jargon": "Stable model explanation",
-      "layman": "Clear explanation of stable model"
+      "jargon": "Natural deduction in logic",
+      "layman": "Logical proof steps"
     }
   ]
 }

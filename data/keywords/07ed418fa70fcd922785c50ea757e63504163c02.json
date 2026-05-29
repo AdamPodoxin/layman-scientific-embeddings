@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Linear logic",
-      "layman": "Logic that tracks resource use"
+      "layman": "Logic that tracks resource usage"
     },
     {
       "jargon": "Proof nets",
@@ -18,13 +18,13 @@
     },
     {
       "jargon": "Danos-Regnier criterion",
-      "layman": "Rule to check if a proof net is valid"
+      "layman": "Rule to check if a proof is valid"
     }
   ],
   "methodologies": [
     {
       "jargon": "Algebraic semantics",
-      "layman": "Using math structures to explain logic"
+      "layman": "Using algebra to explain logic"
     },
     {
       "jargon": "Graph-theoretic decomposition",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Girard\u2019s translation",
-      "layman": "Method to convert classical logic to intuitionistic logic"
+      "layman": "Converting classical logic to intuitionistic logic"
     },
     {
       "jargon": "Phase semantics",
-      "layman": "Logic interpreted through phase spaces"
+      "layman": "Modeling logic through phase spaces"
     },
     {
-      "jargon": "Correctness proof",
-      "layman": "Demonstrating a method works properly"
+      "jargon": "Proof net verification",
+      "layman": "Checking if a proof graph is correct"
     }
   ],
   "outcomes": [
     {
       "jargon": "O(n\u00b2)-time algorithm",
-      "layman": "Fast test for proof net validity"
+      "layman": "Fast test for proof correctness"
     },
     {
-      "jargon": "Correct proof net",
-      "layman": "Valid logical proof structure"
-    },
-    {
-      "jargon": "Existence of algorithm",
-      "layman": "A method to check proofs efficiently"
+      "jargon": "Correctness of proof nets",
+      "layman": "A proof is valid and sound"
     },
     {
       "jargon": "Graph decomposition lemma",
-      "layman": "Rule for breaking down proof graphs"
+      "layman": "Key rule for breaking down graphs"
     },
     {
-      "jargon": "Correctness of Danos-Regnier criterion",
-      "layman": "Proven rule for valid proofs"
+      "jargon": "Existence of algorithm",
+      "layman": "A method to detect valid proofs"
+    },
+    {
+      "jargon": "Girard\u2019s announcement",
+      "layman": "Original claim about proof verification"
     }
   ]
 }

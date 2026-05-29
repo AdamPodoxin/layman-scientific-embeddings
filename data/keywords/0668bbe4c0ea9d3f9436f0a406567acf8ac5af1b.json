@@ -5,12 +5,12 @@
       "layman": "Laughter"
     },
     {
-      "jargon": "Classical Antiquity",
+      "jargon": "Classical antiquity",
       "layman": "Ancient Greece and Rome"
     },
     {
       "jargon": "European cultures",
-      "layman": "European societies"
+      "layman": "Western cultures"
     },
     {
       "jargon": "Salzburg Symposium",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Seili Island symposia",
-      "layman": "Laughter talks on Suomi island"
+      "layman": "Finnish laughter studies meetings"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Comparative aspect",
+      "jargon": "Comparative analysis",
       "layman": "Comparing different cultures"
     },
     {
-      "jargon": "Symposium",
-      "layman": "Academic discussion meeting"
+      "jargon": "Interdisciplinary conferences",
+      "layman": "Conferences with multiple fields"
     },
     {
-      "jargon": "Interdisciplinary approach",
-      "layman": "Combining different fields of study"
+      "jargon": "Organizing symposia",
+      "layman": "Putting on academic meetings"
     },
     {
-      "jargon": "Conference organization",
-      "layman": "Planning and running a conference"
+      "jargon": "Historical study",
+      "layman": "Looking at the past"
     },
     {
-      "jargon": "Historical analysis",
-      "layman": "Studying the past to understand changes"
+      "jargon": "Philosophical examination",
+      "layman": "Thinking deeply about ideas"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Global interest"
     },
     {
-      "jargon": "Cultural discussion",
-      "layman": "People talking about culture"
-    },
-    {
       "jargon": "Academic conferences",
-      "layman": "Scholarly gatherings"
+      "layman": "Scholarly meetings"
     },
     {
-      "jargon": "Comparative studies",
-      "layman": "Side-by-side comparisons"
+      "jargon": "Comparative aspects",
+      "layman": "Looking at similarities across cultures"
     },
     {
-      "jargon": "Historical continuity",
-      "layman": "Same patterns over time"
+      "jargon": "Cultural continuity",
+      "layman": "Laughter in old and modern times"
+    },
+    {
+      "jargon": "Historical patterns",
+      "layman": "How laughter changed over time"
     }
   ]
 }

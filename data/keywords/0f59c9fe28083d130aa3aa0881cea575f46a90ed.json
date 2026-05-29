@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Overlapping generations",
-      "layman": "Different age groups in economy"
+      "layman": "Generations living and working together over time"
     },
     {
-      "jargon": "Equilibrium fluctuations",
-      "layman": "Economic swings around stability"
+      "jargon": "Unemployment",
+      "layman": "People without jobs"
     },
     {
-      "jargon": "Unemployment at low wages",
-      "layman": "People without jobs at low pay"
+      "jargon": "Wage indexation",
+      "layman": "Wages adjusted to inflation"
     },
     {
-      "jargon": "Redistributive policies",
-      "layman": "Policies that shift wealth between groups"
+      "jargon": "Public expenditures",
+      "layman": "Government spending"
     }
   ],
   "methodologies": [
     {
       "jargon": "Dynamic models",
-      "layman": "Models that show changes over time"
+      "layman": "Models showing changes over time"
+    },
+    {
+      "jargon": "Equilibrium fluctuations",
+      "layman": "Price and output changes in stable markets"
     },
     {
       "jargon": "Neoclassical growth",
       "layman": "Economic growth model based on savings and productivity"
     },
     {
-      "jargon": "Partial wage indexation",
-      "layman": "Only some wages adjust to inflation"
+      "jargon": "Redistributive policies",
+      "layman": "Policies that transfer money between groups"
     },
     {
       "jargon": "Equilibrium analysis",
-      "layman": "Studying stable economic states"
-    },
-    {
-      "jargon": "Public expenditures",
-      "layman": "Government spending on services"
+      "layman": "Studying how markets reach balance"
     }
   ],
   "outcomes": [
     {
       "jargon": "Unemployment at low wages",
-      "layman": "High joblessness at low pay"
+      "layman": "Jobless people earning low pay"
     },
     {
-      "jargon": "Redistributive policies",
-      "layman": "Wealth moved from rich to poor"
+      "jargon": "Partial wage indexation",
+      "layman": "Only some wages adjust for inflation"
     },
     {
-      "jargon": "Public expenditures",
-      "layman": "Government spends more than before"
+      "jargon": "Economic fluctuations",
+      "layman": "Spikes and drops in the economy"
     },
     {
-      "jargon": "Equilibrium fluctuations",
-      "layman": "Economy wobbles without crashing"
+      "jargon": "Static equilibrium models",
+      "layman": "Models assuming no change over time"
     },
     {
-      "jargon": "Wage indexation",
-      "layman": "Wages rise with inflation"
+      "jargon": "Temporary equilibrium models",
+      "layman": "Models that only work for short periods"
     }
   ]
 }

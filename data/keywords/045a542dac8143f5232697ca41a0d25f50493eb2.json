@@ -2,41 +2,41 @@
   "core_entities": [
     {
       "jargon": "Social problems",
-      "layman": "Unfair or harmful conditions in society"
+      "layman": "Unjust or harmful conditions in society"
     },
     {
       "jargon": "Claims-making activities",
-      "layman": "People demanding change about issues"
+      "layman": "People's efforts to point out injustices"
     },
     {
       "jargon": "Social conditions",
-      "layman": "Ways society is structured"
+      "layman": "Ways of life in society"
     },
     {
-      "jargon": "Individuals or groups",
-      "layman": "People or communities"
+      "jargon": "Groups",
+      "layman": "People working together"
     },
     {
-      "jargon": "Social facts",
-      "layman": "Real societal outcomes"
+      "jargon": "Individuals",
+      "layman": "Single people"
     }
   ],
   "methodologies": [
     {
       "jargon": "Review of literature",
-      "layman": "Checking existing research"
-    },
-    {
-      "jargon": "Theoretical development",
-      "layman": "Building new ideas in sociology"
+      "layman": "Examining past research"
     },
     {
       "jargon": "Empirical study",
-      "layman": "Research based on real-world data"
+      "layman": "Research based on observation"
     },
     {
-      "jargon": "Course teaching",
-      "layman": "Teaching students about social issues"
+      "jargon": "Theoretical development",
+      "layman": "Building new ideas in science"
+    },
+    {
+      "jargon": "Course instruction",
+      "layman": "Teaching in classes"
     },
     {
       "jargon": "Systematic statement",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "Absence of theory",
-      "layman": "No clear explanation or rules"
+      "jargon": "Coherent theory",
+      "layman": "Logical and connected explanation"
     },
     {
-      "jargon": "Coherent theory",
-      "layman": "Clear, logical explanation"
+      "jargon": "Social facts",
+      "layman": "Real things people experience"
     },
     {
       "jargon": "Service course",
-      "layman": "Class for general awareness"
+      "layman": "Class for general knowledge"
     },
     {
-      "jargon": "Textbook dominance",
-      "layman": "Textbooks control what is taught"
+      "jargon": "Sociology of race relations",
+      "layman": "Study of race and society"
     },
     {
-      "jargon": "Controversial view",
-      "layman": "Debated or disputed opinion"
+      "jargon": "Social pathologies",
+      "layman": "Bad or unhealthy social issues"
     }
   ]
 }

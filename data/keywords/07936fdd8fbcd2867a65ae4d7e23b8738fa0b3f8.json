@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Democratic life",
-      "layman": "Free and equal society"
+      "layman": "Fair and equal society"
     },
     {
       "jargon": "Modern humanism",
-      "layman": "Belief in human worth and dignity"
+      "layman": "Belief in human dignity and value"
     },
     {
       "jargon": "Sunny Memories",
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Moral discourse",
-      "layman": "Ethical discussions"
+      "layman": "Discussion of right and wrong"
     },
     {
       "jargon": "Nineteenth-century reformism",
@@ -36,11 +36,11 @@
     },
     {
       "jargon": "Political philosophy",
-      "layman": "Ideas about government and justice"
+      "layman": "Beliefs about government and society"
     },
     {
-      "jargon": "Articulation",
-      "layman": "Clear expression of ideas"
+      "jargon": "Human model of excellence",
+      "layman": "Ideal of human potential"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Surpassing excellence",
-      "layman": "Going beyond ordinary good"
-    },
-    {
-      "jargon": "Human model",
-      "layman": "Human as ideal example"
+      "layman": "Exceeding standard performance"
     },
     {
       "jargon": "Familiarity with reformism",
       "layman": "Understanding of social change efforts"
+    },
+    {
+      "jargon": "America envisioned",
+      "layman": "Imagined future of the U.S."
     }
   ]
 }

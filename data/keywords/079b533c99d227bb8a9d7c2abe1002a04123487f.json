@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Immigration policy",
-      "layman": "Rules on who can enter a country"
+      "layman": "Rules on who can enter and stay"
     },
     {
       "jargon": "Nationality code",
-      "layman": "Rules on citizenship"
+      "layman": "Rules for who is a citizen"
     },
     {
       "jargon": "Illegal immigrants",
@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Integration",
-      "layman": "Becoming part of a society"
+      "layman": "Becoming part of the society"
     }
   ],
   "methodologies": [
     {
       "jargon": "Data analysis",
-      "layman": "Looking at information to find patterns"
+      "layman": "Looking at statistics"
     },
     {
-      "jargon": "Policy modification",
-      "layman": "Changing laws or rules"
+      "jargon": "Policy review",
+      "layman": "Checking existing rules"
     },
     {
-      "jargon": "Scenario analysis",
-      "layman": "Testing possible future situations"
+      "jargon": "Scenario modeling",
+      "layman": "Creating possible future situations"
     },
     {
-      "jargon": "Legal return process",
-      "layman": "Process to send people back legally"
+      "jargon": "Law modification",
+      "layman": "Changing legal rules"
     },
     {
-      "jargon": "Societal integration",
-      "layman": "Helping newcomers fit in"
+      "jargon": "Public inquiry",
+      "layman": "Official questioning of public opinion"
     }
   ],
   "outcomes": [
@@ -50,7 +50,11 @@
     },
     {
       "jargon": "Growing weight of Islam",
-      "layman": "Increasing Muslim presence"
+      "layman": "Rising Muslim presence"
+    },
+    {
+      "jargon": "Return of illegal immigrants",
+      "layman": "Sending back unauthorized people"
     },
     {
       "jargon": "Integration success",
@@ -59,10 +63,6 @@
     {
       "jargon": "Policy reform",
       "layman": "Changed government rules"
-    },
-    {
-      "jargon": "Return of illegal immigrants",
-      "layman": "Sending back unauthorized residents"
     }
   ]
 }

@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Economic thought",
-      "layman": "Ideas about how economies work"
+      "layman": "Economic ideas"
     },
     {
       "jargon": "Theoretical systems",
-      "layman": "Complete economic models"
+      "layman": "Economic models"
     },
     {
       "jargon": "Intellectual climate",
-      "layman": "The environment of ideas and beliefs"
+      "layman": "Economic thinking environment"
     },
     {
-      "jargon": "Historical development",
-      "layman": "How ideas have changed over time"
+      "jargon": "Midieval economics",
+      "layman": "Economic ideas from medieval times"
     },
     {
-      "jargon": "Economic theories",
-      "layman": "Explanations of economic behavior"
+      "jargon": "Contemporary economics",
+      "layman": "Modern economic ideas"
     }
   ],
   "methodologies": [
     {
       "jargon": "History-of-ideas approach",
-      "layman": "Studying how ideas evolved"
+      "layman": "Tracing how economic ideas evolved"
     },
     {
-      "jargon": "Contextual analysis",
-      "layman": "Understanding the background of ideas"
+      "jargon": "Historical context analysis",
+      "layman": "Studying when and why ideas appeared"
     },
     {
       "jargon": "Theoretical reconstruction",
-      "layman": "Building back how theories were formed"
+      "layman": "Building back past economic theories"
     },
     {
-      "jargon": "Comparative survey",
-      "layman": "Looking at different theories side by side"
+      "jargon": "Conceptual mapping",
+      "layman": "Linking ideas to their origins"
     },
     {
-      "jargon": "Intellectual history",
-      "layman": "Tracing the development of ideas over time"
+      "jargon": "Ideas development process",
+      "layman": "How economic ideas grow over time"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Contemporary developments",
-      "layman": "Modern economic ideas"
+      "jargon": "Development of theories",
+      "layman": "New economic theories formed"
     },
     {
-      "jargon": "Remarkable growth in research",
-      "layman": "Big increase in studies"
+      "jargon": "Intellectual evolution",
+      "layman": "Economic thinking changed over time"
     },
     {
-      "jargon": "Fundamental ideas",
-      "layman": "Core economic principles"
+      "jargon": "Theoretical innovation",
+      "layman": "New economic models created"
     },
     {
-      "jargon": "Theoretical evolution",
-      "layman": "How theories changed and developed"
+      "jargon": "Research growth",
+      "layman": "More studies in economics"
     },
     {
-      "jargon": "New economic theories",
-      "layman": "Updated economic explanations"
+      "jargon": "Contextual understanding",
+      "layman": "Seeing why ideas were created"
     }
   ]
 }

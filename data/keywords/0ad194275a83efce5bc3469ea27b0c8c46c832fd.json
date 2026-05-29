@@ -1,52 +1,52 @@
 {
   "core_entities": [
     {
-      "jargon": "Mineral facies",
-      "layman": "Types of minerals"
-    },
-    {
       "jargon": "Pelitic rocks",
       "layman": "Clay-rich rocks"
     },
     {
       "jargon": "Andalusite",
-      "layman": "Hard mineral"
+      "layman": "Hard mineral in metamorphosed rocks"
     },
     {
       "jargon": "Cordierite",
-      "layman": "Hard mineral"
+      "layman": "Mineral formed in hot rock changes"
     },
     {
       "jargon": "Staurolite",
-      "layman": "Hard mineral"
+      "layman": "Mineral formed at high heat"
+    },
+    {
+      "jargon": "Garnet",
+      "layman": "Dark gem-like mineral in rocks"
     }
   ],
   "methodologies": [
     {
       "jargon": "Regional metamorphism",
-      "layman": "Widespread rock transformation"
+      "layman": "Large-scale rock transformation"
     },
     {
       "jargon": "Mineral assemblages",
-      "layman": "Groups of minerals together"
+      "layman": "Groups of minerals found together"
     },
     {
       "jargon": "Isograd forming reactions",
-      "layman": "Reactions marking grade changes"
+      "layman": "Chemical changes at specific temperature zones"
     },
     {
       "jargon": "Bulk rock analyses",
-      "layman": "Overall rock composition tests"
+      "layman": "Testing whole rock composition"
     },
     {
       "jargon": "Mineral analyses",
-      "layman": "Testing mineral makeup"
+      "layman": "Checking mineral makeup"
     }
   ],
   "outcomes": [
     {
       "jargon": "Biotite zone",
-      "layman": "Low-grade mineral zone"
+      "layman": "Low-grade rock zone"
     },
     {
       "jargon": "Cordierite zone",
@@ -54,11 +54,11 @@
     },
     {
       "jargon": "Andalusite zone",
-      "layman": "Higher-grade mineral zone"
+      "layman": "Higher-grade rock zone"
     },
     {
       "jargon": "Staurolite zone",
-      "layman": "Highest-grade mineral zone"
+      "layman": "High-grade mineral zone"
     },
     {
       "jargon": "Mg enrichment",

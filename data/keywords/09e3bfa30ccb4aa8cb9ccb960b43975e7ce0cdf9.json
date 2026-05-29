@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Fermat's last theorem",
+      "layman": "Fermat's last theorem"
+    },
+    {
+      "jargon": "Dynamical system",
+      "layman": "System that changes over time"
+    },
+    {
+      "jargon": "Smale horseshoe",
+      "layman": "Chaotic pattern in motion"
+    },
+    {
+      "jargon": "Hamiltonian system",
+      "layman": "Energy-conserving system"
+    },
+    {
+      "jargon": "Complexity class \\({\\mathfrak C}_{U,1}\\)",
+      "layman": "Simplest complexity category"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Computational method",
+      "layman": "Computer-based analysis"
+    },
+    {
+      "jargon": "Proof of chaos",
+      "layman": "Showing a system is chaotic"
+    },
+    {
+      "jargon": "Classifying proofs",
+      "layman": "Sorting proof difficulty"
+    },
+    {
+      "jargon": "Dynamical system analysis",
+      "layman": "Studying how systems evolve"
+    },
+    {
+      "jargon": "Hamiltonian system modeling",
+      "layman": "Building energy-based motion models"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "System is chaotic",
+      "layman": "System behaves unpredictably"
+    },
+    {
+      "jargon": "Proof in class \\({\\mathfrak C}_{U,1}\\)",
+      "layman": "The proof is very simple"
+    },
+    {
+      "jargon": "Existence of two-dimensional Hamiltonian system",
+      "layman": "A specific motion system exists"
+    },
+    {
+      "jargon": "Smale horseshoe exists",
+      "layman": "A known chaotic pattern appears"
+    },
+    {
+      "jargon": "Lowest complexity class",
+      "layman": "Simplest possible complexity level"
+    }
+  ]
+}

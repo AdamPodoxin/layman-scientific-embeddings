@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Brand portfolio",
-      "layman": "Set of brands a company owns"
+      "layman": "Collection of brands"
     },
     {
       "jargon": "Consumer markets",
-      "layman": "Markets where people buy goods"
+      "layman": "Places where consumers buy goods"
     },
     {
       "jargon": "Firm performance",
-      "layman": "How well a company is doing"
+      "layman": "How well a company does"
     },
     {
-      "jargon": "Marketing effectiveness",
-      "layman": "How well a company retains customers"
+      "jargon": "Market share",
+      "layman": "Percentage of market a company holds"
     },
     {
-      "jargon": "Financial performance",
-      "layman": "Company's financial health"
+      "jargon": "Tobin's q",
+      "layman": "Measure of company value"
     }
   ],
   "methodologies": [
     {
       "jargon": "Regression analysis",
-      "layman": "Statistical testing of relationships"
+      "layman": "Statistical comparison"
     },
     {
-      "jargon": "Controlled for industry characteristics",
-      "layman": "Accounted for industry differences"
+      "jargon": "Data from American Customer Satisfaction Index",
+      "layman": "Customer satisfaction data"
     },
     {
-      "jargon": "Longitudinal data analysis",
-      "layman": "Looking at data over time"
+      "jargon": "Control for industry characteristics",
+      "layman": "Account for industry differences"
     },
     {
-      "jargon": "Secondary data sources",
-      "layman": "Using existing data from other sources"
+      "jargon": "Longitudinal data",
+      "layman": "Data over time"
     },
     {
-      "jargon": "Multivariate analysis",
-      "layman": "Testing many variables at once"
+      "jargon": "Cross-sectional analysis",
+      "layman": "Snapshot across companies"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Market share",
-      "layman": "Percentage of customers a company has"
+      "jargon": "Marketing effectiveness",
+      "layman": "How well marketing works"
     },
     {
-      "jargon": "Consumer loyalty",
-      "layman": "Customers staying with a brand"
+      "jargon": "Marketing efficiency",
+      "layman": "How well marketing uses money"
     },
     {
-      "jargon": "Advertising spending to sales ratio",
-      "layman": "How much ad money vs. sales"
+      "jargon": "Financial performance",
+      "layman": "Company\u2019s financial results"
     },
     {
-      "jargon": "Selling, general, and administrative expenses to sales ratio",
-      "layman": "Operating costs relative to sales"
+      "jargon": "Cash flow variability",
+      "layman": "How much cash flow changes"
     },
     {
-      "jargon": "Tobin\u2019s q",
-      "layman": "Measure of company value vs. investment"
+      "jargon": "Significant variance",
+      "layman": "Strong pattern in results"
     }
   ]
 }

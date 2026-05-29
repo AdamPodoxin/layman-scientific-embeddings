@@ -5,20 +5,20 @@
       "layman": "Spanish novelist"
     },
     {
-      "jargon": "La Fontana de Oro",
-      "layman": "Historical novel"
+      "jargon": "Historical fable",
+      "layman": "Story set in the past"
+    },
+    {
+      "jargon": "Novel cycles",
+      "layman": "Series of novels"
     },
     {
       "jargon": "Fortunata y Jacinta",
       "layman": "Masterpiece novel"
     },
     {
-      "jargon": "European novel",
-      "layman": "Novel as a literary form"
-    },
-    {
-      "jargon": "Nineteenth century novel",
-      "layman": "1800s literary style"
+      "jargon": "Nineteenth-century novel",
+      "layman": "Novel from the 1800s"
     }
   ],
   "methodologies": [
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Genre tracing",
-      "layman": "Following literary trends"
+      "layman": "Following genre trends"
     },
     {
-      "jargon": "Historical fable",
-      "layman": "Fiction based on history"
+      "jargon": "Textual analysis",
+      "layman": "Examining written works"
     },
     {
-      "jargon": "Literary cycle",
-      "layman": "Series of connected novels"
+      "jargon": "Print-on-demand",
+      "layman": "Reprinting books on demand"
     }
   ],
   "outcomes": [
     {
       "jargon": "Artistic growth",
-      "layman": "Improved writing style"
+      "layman": "Improvement in writing style"
     },
     {
       "jargon": "Masterpiece",
-      "layman": "Most celebrated work"
+      "layman": "Most outstanding work"
     },
     {
-      "jargon": "Critical study",
-      "layman": "Scholarly evaluation"
+      "jargon": "Scholarly heritage",
+      "layman": "Important academic history"
     },
     {
-      "jargon": "Genre tracing",
-      "layman": "Identified literary patterns"
+      "jargon": "Durable paperback editions",
+      "layman": "Long-lasting book versions"
     },
     {
-      "jargon": "Print-on-demand",
-      "layman": "Reprinting books efficiently"
+      "jargon": "Increased access",
+      "layman": "Better availability"
     }
   ]
 }

@@ -6,25 +6,25 @@
     },
     {
       "jargon": "Probabilities",
-      "layman": "Chances"
+      "layman": "Chances of events"
     },
     {
       "jargon": "Chances",
-      "layman": "Chances"
+      "layman": "Chances of events"
     },
     {
       "jargon": "David Lewis\u2019s sense",
-      "layman": "David Lewis\u2019s idea of chances"
+      "layman": "David Lewis\u2019s concept of chance"
     },
     {
-      "jargon": "Epistemic interpretation",
-      "layman": "Knowledge-based interpretation"
+      "jargon": "Epistemically",
+      "layman": "Based on knowledge or belief"
     }
   ],
   "methodologies": [
     {
       "jargon": "Precise formulation",
-      "layman": "Clear explanation"
+      "layman": "Clear definition"
     },
     {
       "jargon": "Raise objections",
@@ -35,12 +35,12 @@
       "layman": "Assign chances to events"
     },
     {
-      "jargon": "Overcome objections",
-      "layman": "Fix the problems"
+      "jargon": "Conclude",
+      "layman": "Final judgment"
     },
     {
-      "jargon": "Epistemic interpretation",
-      "layman": "Knowledge-based interpretation"
+      "jargon": "Overcome objections",
+      "layman": "Fix or resolve problems"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Major problems"
     },
     {
-      "jargon": "Only at the price of",
-      "layman": "Only if we change the view"
+      "jargon": "Epistemic interpretation",
+      "layman": "Chance based on knowledge"
     },
     {
-      "jargon": "Interpret probabilities epistemically",
-      "layman": "See probabilities as based on knowledge"
+      "jargon": "Interpret probabilities as chances",
+      "layman": "Chances are real possibilities"
     },
     {
-      "jargon": "Suggested interpretation",
-      "layman": "Proposed idea"
+      "jargon": "Chance in statistical mechanics",
+      "layman": "Chance in physical systems"
     },
     {
-      "jargon": "Conclude",
-      "layman": "Final judgment"
+      "jargon": "Price of interpretation",
+      "layman": "Cost of accepting the view"
     }
   ]
 }

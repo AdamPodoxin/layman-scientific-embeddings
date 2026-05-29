@@ -1,16 +1,16 @@
 {
   "core_entities": [
     {
-      "jargon": "Epistemic logic",
-      "layman": "Logic of knowledge and belief"
+      "jargon": "Moore sentence",
+      "layman": "I know p but don't know p"
     },
     {
       "jargon": "Pointed model",
-      "layman": "Specific scenario in a knowledge model"
+      "layman": "Specific situation in a logical scenario"
     },
     {
-      "jargon": "Moore sentence",
-      "layman": "Statement that something is true but unknown"
+      "jargon": "Epistemic logic",
+      "layman": "Logic of knowledge and belief"
     },
     {
       "jargon": "Single agent",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Introspective agent",
-      "layman": "Agent who reflects on their own beliefs"
+      "layman": "Agent who knows what they know"
     }
   ],
   "methodologies": [
     {
       "jargon": "Syntactic characterization",
-      "layman": "Rules for identifying formulas"
+      "layman": "Rules for how formulas are built"
     },
     {
       "jargon": "Semantic evaluation",
-      "layman": "Testing truth in scenarios"
+      "layman": "Testing truth in models"
     },
     {
       "jargon": "Deleting false points",
-      "layman": "Removing situations where a statement is false"
+      "layman": "Removing impossible situations"
     },
     {
       "jargon": "Extending S5",
-      "layman": "Adding logical rules to knowledge system"
+      "layman": "Adding rules to knowledge system"
     },
     {
-      "jargon": "KD45 logic",
-      "layman": "Knowledge and belief system with self-reflection"
+      "jargon": "Analyzing self-refutation",
+      "layman": "Checking if a statement contradicts itself"
     }
   ],
   "outcomes": [
     {
       "jargon": "Successful formula",
-      "layman": "Formula that stays true after removing false cases"
+      "layman": "Stays true after removing false cases"
     },
     {
       "jargon": "Self-refuting formula",
-      "layman": "Formula that contradicts itself"
+      "layman": "Contradicts itself when evaluated"
     },
     {
       "jargon": "Unsuccessfulness",
-      "layman": "Failure to remain true in all cases"
+      "layman": "Fails to stay true after deletion"
     },
     {
       "jargon": "Cartesian formulas",
-      "layman": "Formulas that avoid self-contradiction"
+      "layman": "Never lead to contradiction"
     },
     {
       "jargon": "Learnable formulas",
-      "layman": "Formulas that can be learned from experience"
+      "layman": "Can be learned by the agent"
     }
   ]
 }

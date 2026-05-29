@@ -2,41 +2,41 @@
   "core_entities": [
     {
       "jargon": "Malaria parasites",
-      "layman": "Malaria-causing organisms"
+      "layman": "Malaria parasites"
     },
     {
       "jargon": "Host genes",
-      "layman": "Genes in the human body"
+      "layman": "Host genes"
     },
     {
       "jargon": "Pathogen genes",
-      "layman": "Genes in disease-causing organisms"
+      "layman": "Parasite genes"
     },
     {
       "jargon": "Virulence",
-      "layman": "Disease severity"
+      "layman": "Disease strength"
     },
     {
-      "jargon": "Resistance",
-      "layman": "Ability to avoid infection"
+      "jargon": "Genotypes",
+      "layman": "Gene combinations"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Genetic analysis",
-      "layman": "Studying DNA patterns"
+      "jargon": "Gene mutation",
+      "layman": "Gene change"
     },
     {
       "jargon": "Gene recombination",
-      "layman": "Genes mixing to form new combinations"
-    },
-    {
-      "jargon": "Mutation",
-      "layman": "Genetic changes over time"
+      "layman": "Gene mixing"
     },
     {
       "jargon": "Co-evolution",
-      "layman": "Both species changing together over time"
+      "layman": "Mutual gene changes over time"
+    },
+    {
+      "jargon": "Genetic analysis",
+      "layman": "Studying gene patterns"
     },
     {
       "jargon": "Population genetics",
@@ -50,7 +50,7 @@
     },
     {
       "jargon": "Mild infection",
-      "layman": "Minor illness"
+      "layman": "Light illness"
     },
     {
       "jargon": "Severe infection",
@@ -61,8 +61,8 @@
       "layman": "Malaria affecting the brain"
     },
     {
-      "jargon": "Gene spread in populations",
-      "layman": "Genes becoming more common"
+      "jargon": "Resistance or susceptibility",
+      "layman": "Immune defense level"
     }
   ]
 }

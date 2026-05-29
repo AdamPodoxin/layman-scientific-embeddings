@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "integrated circuit chip",
-      "layman": "microchip"
+      "layman": "computer chip"
     },
     {
-      "jargon": "contact pads",
-      "layman": "chip connection points"
+      "jargon": "contact pad",
+      "layman": "connection point"
     },
     {
       "jargon": "planar insulation card",
@@ -14,55 +14,55 @@
     },
     {
       "jargon": "dielectric material",
-      "layman": "non-conductive material"
+      "layman": "non-conducting material"
     },
     {
-      "jargon": "fine wires",
-      "layman": "thin metal wires"
+      "jargon": "fine wire",
+      "layman": "thin wire"
     }
   ],
   "methodologies": [
     {
-      "jargon": "multi-level test probe assembly",
-      "layman": "complex testing setup"
+      "jargon": "test probe assembly",
+      "layman": "device for testing"
     },
     {
       "jargon": "cantilever",
-      "layman": "wire extending from a support"
+      "layman": "beam that extends and bends"
+    },
+    {
+      "jargon": "traces",
+      "layman": "wires on a board"
+    },
+    {
+      "jargon": "connectable to external testing equipment",
+      "layman": "plugs into test machine"
     },
     {
       "jargon": "double bent needle",
-      "layman": "wire bent into a point"
-    },
-    {
-      "jargon": "tapered leading end",
-      "layman": "narrowed tip end"
-    },
-    {
-      "jargon": "radial array",
-      "layman": "circular arrangement of wires"
+      "layman": "bent tip for contact"
     }
   ],
   "outcomes": [
     {
       "jargon": "inwardly displaced pads",
-      "layman": "some pads closer to center"
+      "layman": "some pads shifted in"
     },
     {
       "jargon": "engages a respective contact pad",
-      "layman": "touches a chip connection"
-    },
-    {
-      "jargon": "connected to external testing equipment",
-      "layman": "linked to test machine"
+      "layman": "touches a connection spot"
     },
     {
       "jargon": "disposed below the central region",
       "layman": "placed under center"
     },
     {
-      "jargon": "supported on a flat face",
-      "layman": "placed on a flat surface"
+      "jargon": "radial array of fine wires",
+      "layman": "circle of thin wires"
+    },
+    {
+      "jargon": "first and second radial array",
+      "layman": "two circles of wires"
     }
   ]
 }

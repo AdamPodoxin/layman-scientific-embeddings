@@ -6,25 +6,25 @@
     },
     {
       "jargon": "Local gauge invariance",
-      "layman": "Symmetry in physical laws under local changes"
+      "layman": "Symmetry in physical laws"
     },
     {
       "jargon": "Gravitational field",
-      "layman": "Field that carries gravity"
+      "layman": "Force field of gravity"
     },
     {
       "jargon": "Gauge field",
-      "layman": "Field that mediates forces"
+      "layman": "Field that carries force"
     },
     {
       "jargon": "Cosmological constant",
-      "layman": "Constant in space that affects universe expansion"
+      "layman": "Constant in universe expansion"
     }
   ],
   "methodologies": [
     {
       "jargon": "Leading order approximation",
-      "layman": "Simplest version of a complex model"
+      "layman": "Simplest version of the theory"
     },
     {
       "jargon": "Classical tests",
@@ -32,25 +32,25 @@
     },
     {
       "jargon": "Renormalizable quantum theory",
-      "layman": "Theory that can handle infinite values"
-    },
-    {
-      "jargon": "Field equations",
-      "layman": "Math rules for how forces behave"
+      "layman": "Theory that fixes infinite predictions"
     },
     {
       "jargon": "Formulated based on symmetry",
-      "layman": "Built using fundamental balance rules"
+      "layman": "Built from physical symmetry rules"
+    },
+    {
+      "jargon": "Field equation",
+      "layman": "Equation describing field behavior"
     }
   ],
   "outcomes": [
     {
       "jargon": "Newton\u2019s theory of gravity",
-      "layman": "Old gravity law for everyday motion"
+      "layman": "Predicts gravity like Newton"
     },
     {
       "jargon": "Einstein-like field equation",
-      "layman": "Gravity rule similar to Einstein's"
+      "layman": "Similar to Einstein\u2019s gravity formulas"
     },
     {
       "jargon": "Same theoretical predictions",
@@ -62,7 +62,7 @@
     },
     {
       "jargon": "Renormalizable",
-      "layman": "Can be used in quantum calculations without breaking down"
+      "layman": "Works without mathematical failure"
     }
   ]
 }

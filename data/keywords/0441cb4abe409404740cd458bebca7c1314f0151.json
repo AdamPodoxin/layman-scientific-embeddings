@@ -9,60 +9,60 @@
       "layman": "National story"
     },
     {
-      "jargon": "Historical religious conceptions",
-      "layman": "Beliefs about history and religion"
+      "jargon": "Historical conceptions",
+      "layman": "Historical beliefs"
     },
     {
       "jargon": "Modern Hinduism",
-      "layman": "Contemporary Hindu beliefs"
+      "layman": "Contemporary Hinduism"
     },
     {
-      "jargon": "Sh.A. Ghosh",
-      "layman": "Sh.A. Ghosh"
+      "jargon": "Sh. A. Ghosh",
+      "layman": "Sh. A. Ghosh"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Analysis of preconditions",
-      "layman": "Examining background factors"
+      "jargon": "Analysis",
+      "layman": "Examining"
+    },
+    {
+      "jargon": "Social analysis",
+      "layman": "Looking at society"
+    },
+    {
+      "jargon": "Ideological preconditions",
+      "layman": "Foundations of beliefs"
     },
     {
       "jargon": "Comprehensive characterization",
       "layman": "Detailed description"
     },
     {
-      "jargon": "Process of modernization",
-      "layman": "Change over time"
-    },
-    {
-      "jargon": "Ideological preconditions",
-      "layman": "Ideas that shape beliefs"
-    },
-    {
-      "jargon": "Formation of religious concepts",
-      "layman": "Creating new religious ideas"
+      "jargon": "Formation process",
+      "layman": "How something develops"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Creation of a new national myth",
-      "layman": "New national story"
+      "jargon": "New religious concepts",
+      "layman": "New spiritual ideas"
     },
     {
-      "jargon": "Modernization of religious consciousness",
-      "layman": "Updated spiritual awareness"
+      "jargon": "Modernization process",
+      "layman": "Change over time"
     },
     {
-      "jargon": "New religious concepts of history",
-      "layman": "New beliefs about history"
+      "jargon": "Creation of national myth",
+      "layman": "Creation of national story"
     },
     {
-      "jargon": "Formation of new religious ideas",
-      "layman": "New religious beliefs"
+      "jargon": "Religious history",
+      "layman": "Spiritual history"
     },
     {
-      "jargon": "Development of historical consciousness",
-      "layman": "Growing awareness of history"
+      "jargon": "New religious historical consciousness",
+      "layman": "New spiritual history awareness"
     }
   ]
 }

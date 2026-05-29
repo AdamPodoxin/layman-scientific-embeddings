@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Computational problems",
-      "layman": "Tasks a machine must solve"
+      "layman": "Tasks that need to be solved by machines"
     },
     {
       "jargon": "Interactive games",
-      "layman": "Games between machine and environment"
+      "layman": "Games between a machine and environment"
+    },
+    {
+      "jargon": "Computational environment",
+      "layman": "The outside world that challenges a machine"
     },
     {
       "jargon": "Machine",
-      "layman": "Computing device"
-    },
-    {
-      "jargon": "Environment",
-      "layman": "External conditions or inputs"
+      "layman": "A computer system or device"
     },
     {
       "jargon": "Elementary problems",
-      "layman": "Basic computational tasks"
+      "layman": "Basic tasks or questions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Soundness and completeness proof",
-      "layman": "Proof that system correctly captures valid rules"
+      "layman": "Proving a logical system is correct and complete"
     },
     {
       "jargon": "Deductive propositional system",
-      "layman": "Logical system for deriving truths"
+      "layman": "Logical system for reasoning about problems"
     },
     {
       "jargon": "Parallel operations",
-      "layman": "Running tasks at the same time"
+      "layman": "Running multiple tasks at once"
     },
     {
       "jargon": "Choice operations",
-      "layman": "Deciding between different options"
+      "layman": "Choosing between different tasks"
     },
     {
       "jargon": "Axiomatization",
-      "layman": "Creating a set of rules for a system"
+      "layman": "Breaking down rules into a formal system"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Problems that can always be solved"
     },
     {
-      "jargon": "Valid formulas",
-      "layman": "True logical statements in the system"
+      "jargon": "Valid logical formulas",
+      "layman": "Logical rules that always hold true"
     },
     {
-      "jargon": "Logical operators",
-      "layman": "Rules for combining problems"
+      "jargon": "Winning strategies",
+      "layman": "Plans that guarantee success in a game"
     },
     {
-      "jargon": "Computability logic",
-      "layman": "Theory of what can be computed"
+      "jargon": "Natural fragments",
+      "layman": "Simple parts of a complex system"
     },
     {
-      "jargon": "Fragments of valid formulas",
-      "layman": "Smaller parts of logical truths"
+      "jargon": "Formal theory of computability",
+      "layman": "A clear way to describe what can be computed"
     }
   ]
 }

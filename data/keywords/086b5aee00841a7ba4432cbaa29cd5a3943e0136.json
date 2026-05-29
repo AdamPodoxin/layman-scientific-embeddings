@@ -13,56 +13,56 @@
       "layman": "Boeing 777"
     },
     {
-      "jargon": "Systems engineering",
-      "layman": "Managing complex projects"
+      "jargon": "Modern jet transports",
+      "layman": "Big, fast passenger planes"
     },
     {
-      "jargon": "Large jet transports",
-      "layman": "Big passenger airplanes"
+      "jargon": "Systems engineering discipline",
+      "layman": "Framework for managing complex projects"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Systems engineering discipline",
-      "layman": "Structured project management"
+      "jargon": "Systems engineering concepts",
+      "layman": "Tools to manage complexity"
     },
     {
-      "jargon": "Design process",
-      "layman": "Creating blueprints"
+      "jargon": "Design problem",
+      "layman": "Creating a solution from scratch"
     },
     {
-      "jargon": "Cost and cycle time management",
-      "layman": "Controlling expenses and speed"
+      "jargon": "Management of size and complexity",
+      "layman": "Handling big and messy projects"
     },
     {
-      "jargon": "Testing to limits",
-      "layman": "Pushing systems to their max"
+      "jargon": "Development process",
+      "layman": "How something is built step by step"
     },
     {
-      "jargon": "Business issues integration",
-      "layman": "Balancing profits and speed"
+      "jargon": "Cost and cycle time",
+      "layman": "Budget and speed of delivery"
     }
   ],
   "outcomes": [
+    {
+      "jargon": "Advances in systems development",
+      "layman": "Improved ways of building systems"
+    },
     {
       "jargon": "Excellence in engineering",
       "layman": "High-quality results"
     },
     {
-      "jargon": "Advances in development process",
-      "layman": "Better ways to build"
-    },
-    {
       "jargon": "Lessons learned",
-      "layman": "Key takeaways from experience"
+      "layman": "Knowledge gained from experience"
     },
     {
-      "jargon": "Insights for defence applications",
-      "layman": "Useful for military projects"
+      "jargon": "Insights for commercial and defence applications",
+      "layman": "Apply lessons to other areas"
     },
     {
-      "jargon": "Meeting business demands",
-      "layman": "Delivering on cost and time"
+      "jargon": "Testing to limits",
+      "layman": "Pushing methods to their highest challenge"
     }
   ]
 }

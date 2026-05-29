@@ -1,7 +1,7 @@
 {
   "core_entities": [
     {
-      "jargon": "5-dimensional spacetime",
+      "jargon": "5-dimensional space-time",
       "layman": "Space and time with an extra dimension"
     },
     {
@@ -9,26 +9,22 @@
       "layman": "Universe filled with ordinary matter"
     },
     {
-      "jargon": "Rest mass",
-      "layman": "Mass when not moving"
+      "jargon": "Rest mass of a particle",
+      "layman": "Mass of a particle when not moving"
     },
     {
       "jargon": "Cosmological time",
-      "layman": "Time in the universe's history"
+      "layman": "Time in the context of the universe's expansion"
     },
     {
-      "jargon": "Particle",
-      "layman": "Tiny building block of matter"
+      "jargon": "Einstein equations",
+      "layman": "Mathematical laws for gravity and space"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Einstein equations",
-      "layman": "Math rules for gravity and space"
-    },
-    {
       "jargon": "Cosmological solutions",
-      "layman": "Math models of the universe's shape"
+      "layman": "Mathematical models of the universe"
     },
     {
       "jargon": "Comparison with experiment",
@@ -36,21 +32,25 @@
     },
     {
       "jargon": "Hypothetical relation",
-      "layman": "Possible connection between two things"
+      "layman": "Supposed connection between two things"
     },
     {
-      "jargon": "Test",
-      "layman": "Check if a theory is true"
+      "jargon": "Einstein equation solutions",
+      "layman": "Solving gravity equations for the universe"
+    },
+    {
+      "jargon": "Test of dependence",
+      "layman": "Check if one thing changes with another"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Strongly refutes",
-      "layman": "Clearly disproves"
+      "jargon": "Rest mass dependence on cosmological time",
+      "layman": "Mass changes over time in the universe"
     },
     {
-      "jargon": "Dependence on cosmological time",
-      "layman": "Mass changing over time"
+      "jargon": "Strongly refuted",
+      "layman": "Clearly disproven"
     },
     {
       "jargon": "Experimental data",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Implied dependence",
-      "layman": "Suggested connection"
+      "layman": "Suggested connection that isn't true"
     },
     {
       "jargon": "Cosmological solutions",
-      "layman": "Math models of the universe"
+      "layman": "Valid mathematical models of the universe"
     }
   ]
 }

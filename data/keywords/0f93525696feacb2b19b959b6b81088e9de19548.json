@@ -6,11 +6,11 @@
     },
     {
       "jargon": "Autogenous hypotheses",
-      "layman": "Models where cells evolve slowly on their own"
+      "layman": "Cells evolving slowly on their own"
     },
     {
       "jargon": "Symbiogenic hypotheses",
-      "layman": "Models where new cells form from merging organisms"
+      "layman": "Cells forming through symbiosis"
     },
     {
       "jargon": "Symbiosis",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Omics data",
-      "layman": "All types of biological data from cells"
+      "layman": "Large sets of biological data"
     }
   ],
   "methodologies": [
     {
       "jargon": "Omics data",
-      "layman": "All types of biological data from cells"
-    },
-    {
-      "jargon": "Large and diverse suites of data",
-      "layman": "Wide range of scientific measurements"
+      "layman": "Big biological data sets"
     },
     {
       "jargon": "Inference",
-      "layman": "Drawing conclusions from data"
+      "layman": "Drawing conclusions from evidence"
+    },
+    {
+      "jargon": "Data integration",
+      "layman": "Combining different kinds of data"
+    },
+    {
+      "jargon": "Literature review",
+      "layman": "Reviewing scientific papers"
     },
     {
       "jargon": "Modeling",
-      "layman": "Creating scientific simulations"
-    },
-    {
-      "jargon": "Data analysis",
-      "layman": "Looking for patterns in data"
+      "layman": "Creating scientific predictions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Autogeneous hypotheses are a poor fit",
-      "layman": "Slow-evolution models don't match data"
+      "layman": "Slow evolution theory doesn't match data"
     },
     {
-      "jargon": "Origin of eukaryotic cells occurred in a single symbiosis",
-      "layman": "Complex cells formed from one merger"
-    },
-    {
-      "jargon": "Multiple kinds of data support the ring of life",
-      "layman": "Many types of evidence backs the theory"
-    },
-    {
-      "jargon": "Symbiogenic models are better supported",
-      "layman": "Merging models fit the data better"
-    },
-    {
-      "jargon": "Single symbiosis event",
+      "jargon": "Single symbiosis",
       "layman": "One major joining event"
+    },
+    {
+      "jargon": "Support for ring of life",
+      "layman": "Evidence for evolutionary connections"
+    },
+    {
+      "jargon": "Origin of eukaryotic cells",
+      "layman": "How complex cells began"
+    },
+    {
+      "jargon": "Multiple kinds of data",
+      "layman": "Many types of evidence"
     }
   ]
 }

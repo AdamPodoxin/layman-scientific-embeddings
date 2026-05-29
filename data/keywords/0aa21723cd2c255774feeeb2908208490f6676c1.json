@@ -2,37 +2,37 @@
   "core_entities": [
     {
       "jargon": "One-dimensional quantum systems",
-      "layman": "Particles in a line"
+      "layman": "Particles in a single line"
     },
     {
       "jargon": "Nontrivial spatial asymptotics",
-      "layman": "Unusual behavior at edges"
+      "layman": "Unusual behavior at distance"
     },
     {
       "jargon": "Schrodinger operator",
-      "layman": "Mathematical model for quantum energy"
+      "layman": "Equation for quantum behavior"
     },
     {
       "jargon": "Reflectionless potentials",
-      "layman": "Potentials with no reflection"
+      "layman": "Potentials that let particles pass without bouncing"
     },
     {
       "jargon": "Solitons",
-      "layman": "Stable particle-like waves"
+      "layman": "Stable wave packets that don't spread"
     }
   ],
   "methodologies": [
     {
       "jargon": "Stationary scattering theory",
-      "layman": "Stable way to study particle interactions"
+      "layman": "Studying how particles scatter in steady state"
     },
     {
       "jargon": "Single (Crum-Darboux) commutation",
-      "layman": "Adding energy levels to waves"
+      "layman": "Adding energy levels with one step"
     },
     {
       "jargon": "Double commutation method",
-      "layman": "Adding two energy levels to waves"
+      "layman": "Adding energy levels with two steps"
     },
     {
       "jargon": "Spectral multiplicities",
@@ -40,29 +40,29 @@
     },
     {
       "jargon": "Diagonal Green's function",
-      "layman": "Tool to track wave behavior"
+      "layman": "Tool to see how waves behave at a point"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Reflectionless potentials",
-      "layman": "No reflection of waves"
+      "jargon": "Reflectionless potentials in terms of spectral multiplicities",
+      "layman": "No bouncing when particles pass through"
+    },
+    {
+      "jargon": "Background potential must be reflectionless",
+      "layman": "Starting setup must allow full passage"
     },
     {
       "jargon": "Insert eigenvalues into spectral gaps",
-      "layman": "Place energy levels in empty zones"
+      "layman": "Place energy levels in empty ranges"
     },
     {
-      "jargon": "Background potential is reflectionless",
-      "layman": "Base wave has no reflection"
+      "jargon": "Produce reflectionless potentials",
+      "layman": "Create perfect passage for waves"
     },
     {
-      "jargon": "Impurity scattering in half-crystals",
-      "layman": "Defects scatter waves in half-materials"
-    },
-    {
-      "jargon": "Charge transport in mesoscopic devices",
-      "layman": "Electric current in tiny quantum devices"
+      "jargon": "Applications in impurity scattering",
+      "layman": "Used in studying defects in materials"
     }
   ]
 }

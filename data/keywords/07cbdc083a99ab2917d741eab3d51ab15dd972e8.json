@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Real estate markets",
+      "layman": "Property markets"
+    },
+    {
+      "jargon": "Foreign entities",
+      "layman": "Foreign companies or investors"
+    },
+    {
+      "jargon": "Asset Management Corporations",
+      "layman": "Firms that manage property investments"
+    },
+    {
+      "jargon": "Non-performing loans",
+      "layman": "Bad loans that aren't repaid"
+    },
+    {
+      "jargon": "Real estate valuation",
+      "layman": "How much property is worth"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Market opening",
+      "layman": "Allowing foreign investment"
+    },
+    {
+      "jargon": "Standardizing valuation methods",
+      "layman": "Using same rules to value property"
+    },
+    {
+      "jargon": "Securitizing assets",
+      "layman": "Turning property into investable shares"
+    },
+    {
+      "jargon": "Market reorganization",
+      "layman": "Rearranging how the market operates"
+    },
+    {
+      "jargon": "Transparency improvements",
+      "layman": "Making market data clearer"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Short-term turbulence",
+      "layman": "Market instability in the short term"
+    },
+    {
+      "jargon": "Value discrepancies",
+      "layman": "Big differences in property prices"
+    },
+    {
+      "jargon": "Market depression",
+      "layman": "Decline in property values"
+    },
+    {
+      "jargon": "Value disparities",
+      "layman": "Uneven property value distribution"
+    },
+    {
+      "jargon": "Long-run economic effects",
+      "layman": "Future economic results"
+    }
+  ]
+}

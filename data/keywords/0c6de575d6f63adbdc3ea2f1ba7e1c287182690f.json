@@ -10,7 +10,7 @@
     },
     {
       "jargon": "West German painting",
-      "layman": "Art from western Germany"
+      "layman": "Painting from 1980s West Germany"
     },
     {
       "jargon": "Third Reich",
@@ -18,51 +18,51 @@
     },
     {
       "jargon": "Neo-expressionism",
-      "layman": "Bold, emotional art style"
+      "layman": "Wild, expressive art style"
     }
   ],
   "methodologies": [
     {
       "jargon": "Chance as natural process",
-      "layman": "Randomness as a natural thing"
+      "layman": "Randomness as a natural part of nature"
     },
     {
       "jargon": "Reappropriation",
-      "layman": "Taking back control of something old"
+      "layman": "Taking back something previously used in a negative way"
     },
     {
-      "jargon": "Ideological recuperation",
-      "layman": "Using a belief system to justify something"
+      "jargon": "Ideological recuperations",
+      "layman": "Reusing ideas with new, often political, meaning"
     },
     {
-      "jargon": "Return to figuration",
-      "layman": "Going back to realistic images"
+      "jargon": "Contextual siting",
+      "layman": "Placing art within its historical background"
     },
     {
-      "jargon": "Cultural discourses",
-      "layman": "Public conversations about culture"
+      "jargon": "Visual intervention",
+      "layman": "Changing the look of an image to make a point"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Critical intervention",
-      "layman": "Major change in art context"
-    },
-    {
-      "jargon": "Redefined landscape",
-      "layman": "New meaning for landscape art"
-    },
-    {
-      "jargon": "Countering ideological uses",
-      "layman": "Challenging political uses of art"
-    },
-    {
       "jargon": "Return to figuration",
-      "layman": "Realistic art style comes back"
+      "layman": "Going back to representational art"
     },
     {
-      "jargon": "Reinterpretation of randomness",
-      "layman": "New way of seeing chance"
+      "jargon": "Critical intervention",
+      "layman": "A meaningful challenge to existing ideas"
+    },
+    {
+      "jargon": "Refined landscape",
+      "layman": "Landscapes redefined by the artist"
+    },
+    {
+      "jargon": "Ideological counterpoint",
+      "layman": "Opposing political ideas in art"
+    },
+    {
+      "jargon": "Resurfacing of Germany's past",
+      "layman": "Germany\u2019s historical memories coming back into focus"
     }
   ]
 }

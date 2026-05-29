@@ -9,60 +9,60 @@
       "layman": "Version control system"
     },
     {
-      "jargon": "Open source",
-      "layman": "Free software with public code"
-    },
-    {
       "jargon": "Undergraduate students",
       "layman": "College students"
     },
     {
       "jargon": "TkSVN",
       "layman": "GUI tool for Subversion"
+    },
+    {
+      "jargon": "Open source software",
+      "layman": "Free software with public code"
     }
   ],
   "methodologies": [
     {
       "jargon": "Shelling out to the command line",
-      "layman": "Using text commands instead of a GUI"
+      "layman": "Using text commands instead of buttons"
     },
     {
-      "jargon": "Project implementation",
-      "layman": "Building the project"
+      "jargon": "GUI frontend",
+      "layman": "Visual interface for software"
     },
     {
       "jargon": "Course materials",
       "layman": "Teaching resources"
     },
     {
-      "jargon": "GUI frontend",
-      "layman": "User-friendly interface"
+      "jargon": "Project implementation",
+      "layman": "Building the software project"
     },
     {
-      "jargon": "Version control system",
-      "layman": "Tool that tracks file changes"
+      "jargon": "Version control",
+      "layman": "Tracking changes to code"
     }
   ],
   "outcomes": [
     {
       "jargon": "Three teams",
-      "layman": "Three groups of students"
+      "layman": "Three student groups"
     },
     {
       "jargon": "One team used TkSVN",
-      "layman": "One group used a GUI tool"
+      "layman": "One group used a pre-made GUI tool"
+    },
+    {
+      "jargon": "Download of course materials",
+      "layman": "Available for others to use"
     },
     {
       "jargon": "Project implementation provided",
       "layman": "Final project shared"
     },
     {
-      "jargon": "Course materials provided",
-      "layman": "Teaching materials shared"
-    },
-    {
-      "jargon": "Students built a GUI",
-      "layman": "Students created a visual interface"
+      "jargon": "Software engineering course",
+      "layman": "Class on building software"
     }
   ]
 }

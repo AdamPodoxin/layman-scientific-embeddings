@@ -2,29 +2,29 @@
   "core_entities": [
     {
       "jargon": "Vaporware",
-      "layman": "Unreleased product announced early"
+      "layman": "Unreleased products promised but not delivered"
     },
     {
-      "jargon": "New product announcement",
-      "layman": "Company says a new product is coming"
+      "jargon": "New product announcements",
+      "layman": "Promises of new products"
+    },
+    {
+      "jargon": "Firms",
+      "layman": "Companies"
     },
     {
       "jargon": "Market availability",
-      "layman": "When a product is actually sold"
-    },
-    {
-      "jargon": "Competitors",
-      "layman": "Other companies making similar products"
+      "layman": "When products are actually available"
     },
     {
       "jargon": "Dominant firm",
-      "layman": "Big company with most market power"
+      "layman": "Big company with strong market power"
     }
   ],
   "methodologies": [
     {
       "jargon": "Game-theoretic model",
-      "layman": "Model of companies playing a strategic game"
+      "layman": "Strategy model between companies"
     },
     {
       "jargon": "Empirical data analysis",
@@ -32,37 +32,37 @@
     },
     {
       "jargon": "Preannouncement timing",
-      "layman": "When a company announces before release"
+      "layman": "When a company first announces a product"
     },
     {
       "jargon": "Introduction timing",
       "layman": "When a product actually launches"
     },
     {
-      "jargon": "Antitrust case",
-      "layman": "Legal case about fair competition"
+      "jargon": "Strategic signaling",
+      "layman": "Using promises to influence rivals"
     }
   ],
   "outcomes": [
     {
       "jargon": "Intentional vaporware",
-      "layman": "Deliberate early product announcement"
+      "layman": "Deliberate false promises"
+    },
+    {
+      "jargon": "Deter entry",
+      "layman": "Stop competitors from entering"
     },
     {
       "jargon": "Product development costs",
-      "layman": "Money spent to build a product"
+      "layman": "Money spent making a product"
     },
     {
-      "jargon": "Entry deterrence",
-      "layman": "Preventing rivals from entering the market"
+      "jargon": "Anticompetitive behavior",
+      "layman": "Actions that hurt competition"
     },
     {
-      "jargon": "Strategic signal",
-      "layman": "Message sent to influence rivals"
-    },
-    {
-      "jargon": "Curvilinear relationship",
-      "layman": "Non-linear pattern in data"
+      "jargon": "Predatory practices",
+      "layman": "Actions meant to destroy rivals"
     }
   ]
 }

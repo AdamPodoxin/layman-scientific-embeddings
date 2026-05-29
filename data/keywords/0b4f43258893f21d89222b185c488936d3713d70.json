@@ -14,11 +14,11 @@
     },
     {
       "jargon": "Fossil energies",
-      "layman": "Coal, oil, and gas"
+      "layman": "Fossil fuels"
     },
     {
       "jargon": "Energy-intensive industry",
-      "layman": "Factories using a lot of energy"
+      "layman": "Heavy industries using lots of energy"
     }
   ],
   "methodologies": [
@@ -31,38 +31,38 @@
       "layman": "Buying and selling carbon allowances"
     },
     {
-      "jargon": "Reduction targets",
-      "layman": "Set emission goals"
+      "jargon": "Compliance with reduction targets",
+      "layman": "Meeting emission goals"
     },
     {
       "jargon": "Allowances for CO2-emissions",
-      "layman": "Permits to emit carbon"
+      "layman": "Permitted carbon emissions"
     },
     {
-      "jargon": "Labour cost reduction",
-      "layman": "Lowering worker costs to boost jobs"
+      "jargon": "Lowering non-wage labour costs",
+      "layman": "Reducing costs not tied to wages"
     }
   ],
   "outcomes": [
     {
       "jargon": "Double burden for industry",
-      "layman": "Too many costs on businesses"
+      "layman": "Same costs from two systems"
     },
     {
       "jargon": "Complementary instruments",
-      "layman": "Work together well"
+      "layman": "Tools that work together"
     },
     {
-      "jargon": "Emission reduction",
-      "layman": "Less pollution"
+      "jargon": "Reduction targets",
+      "layman": "Emission limits to meet"
     },
     {
       "jargon": "Switching to renewable energies",
-      "layman": "Using clean energy"
+      "layman": "Moving to clean energy"
     },
     {
-      "jargon": "Stimulating employment",
-      "layman": "Helping create jobs"
+      "jargon": "Economic instruments",
+      "layman": "Financial tools to change behavior"
     }
   ]
 }

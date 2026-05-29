@@ -24,19 +24,19 @@
   "methodologies": [
     {
       "jargon": "Parametric approach",
-      "layman": "General method for different cases"
-    },
-    {
-      "jargon": "Axiomatic analysis",
-      "layman": "Mathematical foundation study"
+      "layman": "General method that works across cases"
     },
     {
       "jargon": "Unification algorithms",
-      "layman": "Rules to match and combine data"
+      "layman": "Rules for matching values"
     },
     {
       "jargon": "Constraint-solving",
-      "layman": "Finding valid solutions under rules"
+      "layman": "Finding solutions that fit rules"
+    },
+    {
+      "jargon": "Axiomatic analysis",
+      "layman": "Building rules from first principles"
     },
     {
       "jargon": "Negative counterparts",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
+      "jargon": "General constraints",
+      "layman": "Broader rule types"
+    },
+    {
       "jargon": "Extended results",
       "layman": "Broader findings"
     },
     {
-      "jargon": "General constraints",
-      "layman": "Wider rule types applied"
-    },
-    {
       "jargon": "Equality and membership",
-      "layman": "Rules for what is equal or included"
+      "layman": "Matching and belonging rules"
     },
     {
       "jargon": "Negative constraints",
-      "layman": "Rules about what is not allowed"
+      "layman": "Rules about absence"
     },
     {
       "jargon": "Uniform approach",
-      "layman": "One method for all types"
+      "layman": "One method that fits all cases"
     }
   ]
 }

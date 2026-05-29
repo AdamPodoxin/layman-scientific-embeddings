@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Ramsey theory",
-      "layman": "Mathematics of order in chaos"
+      "layman": "Mathematical principle about patterns in groups"
     },
     {
       "jargon": "Dynamical systems",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Static theorems",
-      "layman": "Fixed mathematical rules"
+      "layman": "Fixed, unchanging mathematical rules"
     },
     {
       "jargon": "Ergodic theory",
-      "layman": "Long-term average behavior of systems"
+      "layman": "Study of long-term average behavior in systems"
     },
     {
-      "jargon": "Dynamical counterparts",
-      "layman": "Moving versions of static rules"
+      "jargon": "Open questions",
+      "layman": "Unknown problems needing answers"
     }
   ],
   "methodologies": [
     {
       "jargon": "Dynamical approach",
-      "layman": "Using motion to study stability"
+      "layman": "Using movement and change to study patterns"
     },
     {
       "jargon": "Survey recent developments",
-      "layman": "Reviewing new advances"
+      "layman": "Reviewing new discoveries"
     },
     {
       "jargon": "Formulate conjectures",
-      "layman": "Propose unproven ideas"
+      "layman": "Make educated guesses about what might be true"
     },
     {
-      "jargon": "Open questions",
-      "layman": "Unanswered problems"
+      "jargon": "Classical results",
+      "layman": "Well-known established findings"
     },
     {
       "jargon": "Mathematical modeling",
-      "layman": "Creating simplified systems to study real-world patterns"
+      "layman": "Using math to represent real-world patterns"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Classical results",
-      "layman": "Well-known findings"
-    },
-    {
       "jargon": "Natural open questions",
-      "layman": "Unsolved mysteries"
+      "layman": "Unanswered problems in the field"
     },
     {
-      "jargon": "Theorems",
-      "layman": "Proven mathematical truths"
+      "jargon": "Theoretical connections",
+      "layman": "Links between different areas of math"
+    },
+    {
+      "jargon": "Static theorems with dynamical proofs",
+      "layman": "Proving fixed rules using changing systems"
     },
     {
       "jargon": "Dynamical counterparts",
-      "layman": "Moving versions of static rules"
+      "layman": "Moving versions of static results"
     },
     {
-      "jargon": "Conjectures",
-      "layman": "Hypotheses not yet proven"
+      "jargon": "Formulate conjectures",
+      "layman": "Make new predictions based on current knowledge"
     }
   ]
 }

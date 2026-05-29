@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Eutectic Ag-Cu alloys",
-      "layman": "Specific silver-copper mixtures"
+      "layman": "Special silver-copper melts that form at a specific temperature"
     },
     {
       "jargon": "Ti2O (s)",
       "layman": "Titanium dioxide solid"
     },
     {
-      "jargon": "ThO2-8 pct Y2O3 electrolyte",
-      "layman": "Special oxide medium"
+      "jargon": "A12O3 or ZrO2 crucible",
+      "layman": "Oxygen-containing container for melting metals"
     }
   ],
   "methodologies": [
     {
       "jargon": "Galvanic cell technique",
-      "layman": "Electrochemical measurement method"
+      "layman": "Electrochemical method to measure activity"
     },
     {
       "jargon": "Oxygen potential measurement",
-      "layman": "Measuring oxygen level in melt"
+      "layman": "Measuring oxygen level in a melt"
     },
     {
       "jargon": "Free energy of formation",
-      "layman": "Energy to form a compound"
+      "layman": "Energy needed to form a compound"
     },
     {
       "jargon": "Equilibrium oxide phase",
-      "layman": "Stable oxide layer formed"
+      "layman": "Stable oxide layer formed at balance"
     },
     {
       "jargon": "Activity coefficient",
-      "layman": "How much a substance behaves differently in mix"
+      "layman": "How much a substance deviates from ideal mixing"
     }
   ],
   "outcomes": [
     {
       "jargon": "Positive deviation from ideal solution",
-      "layman": "Mix behaves more than expected"
+      "layman": "Mixing is less predictable than expected"
     },
     {
-      "jargon": "Activity coefficient of 6.5",
-      "layman": "Ti is 6.5 times more active"
+      "jargon": "Activity coefficient of about 6.5",
+      "layman": "Ti behaves 6.5 times more strongly in mix than pure"
     },
     {
-      "jargon": "Ti activity coefficient 20 times higher in liquid Ag",
-      "layman": "Ti much more active in pure silver"
+      "jargon": "Activity coefficient 20 times higher in liquid Ag",
+      "layman": "Ti behaves much more strongly in pure silver"
     },
     {
-      "jargon": "Indium and Sn do not increase Ti activity",
-      "layman": "Indium and tin don\u2019t affect Ti behavior"
+      "jargon": "Indium and Sn did not increase activity",
+      "layman": "Adding indium or tin has no effect"
     },
     {
       "jargon": "Silver increases Ti activity",
-      "layman": "Silver boosts titanium behavior"
+      "layman": "Silver makes titanium more active"
     }
   ]
 }

@@ -5,42 +5,42 @@
       "layman": "Learning from different types of data"
     },
     {
-      "jargon": "Active learning",
-      "layman": "Learning by selecting the most useful examples"
-    },
-    {
-      "jargon": "Labeled data",
-      "layman": "Data with known correct answers"
-    },
-    {
       "jargon": "Views",
-      "layman": "Different ways of seeing the same thing"
+      "layman": "Different ways of seeing data"
+    },
+    {
+      "jargon": "Target concept",
+      "layman": "What the system is trying to learn"
     },
     {
       "jargon": "Robot navigation",
-      "layman": "Robot moving around avoiding obstacles"
+      "layman": "Robot moving around safely"
+    },
+    {
+      "jargon": "Sonar sensors",
+      "layman": "Sound-based sensors for detecting objects"
     }
   ],
   "methodologies": [
     {
       "jargon": "Co-Testing",
-      "layman": "Ask questions when different views disagree"
+      "layman": "Learning from disagreements between data types"
     },
     {
-      "jargon": "Co-EMT",
-      "layman": "Mixes learning from mistakes and unlabeled data"
-    },
-    {
-      "jargon": "View validation",
-      "layman": "Checks if views work for new tasks"
+      "jargon": "Active learning",
+      "layman": "Choosing which data to label next"
     },
     {
       "jargon": "Semi-supervised learning",
       "layman": "Learning from both labeled and unlabeled data"
     },
     {
-      "jargon": "Wrapper induction",
-      "layman": "Building a tool to fit a learning task"
+      "jargon": "Co-EMT",
+      "layman": "Robust learning that mixes different methods"
+    },
+    {
+      "jargon": "View validation",
+      "layman": "Checking if data types work together"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Performs better than current methods"
     },
     {
+      "jargon": "Unreliable views",
+      "layman": "Inconsistent or conflicting data types"
+    },
+    {
       "jargon": "High accuracy predictions",
       "layman": "Correct predictions most of the time"
     },
     {
-      "jargon": "Reduced need for labeled data",
-      "layman": "Less data needed for training"
-    },
-    {
-      "jargon": "Unreliable performance",
-      "layman": "Gives wrong or inconsistent results"
-    },
-    {
       "jargon": "Modest training data",
-      "layman": "Small amount of data to learn from"
+      "layman": "Few data points to train the system"
+    },
+    {
+      "jargon": "Disjoint sets of features",
+      "layman": "Separate sets of data that each can learn the concept"
     }
   ]
 }

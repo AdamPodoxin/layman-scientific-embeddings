@@ -17,30 +17,30 @@
       "layman": "EU project for vocational training"
     },
     {
-      "jargon": "Quality evaluation",
-      "layman": "Measuring course quality"
+      "jargon": "Quality system",
+      "layman": "System for evaluating course quality"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Euclidian distance",
-      "layman": "Straight-line difference between points"
+      "jargon": "Euclidean distance",
+      "layman": "Measures straight-line difference"
     },
     {
       "jargon": "Hamming distance",
-      "layman": "Number of differences between two sets"
+      "layman": "Counts character mismatches"
     },
     {
       "jargon": "Levenshtein distance",
-      "layman": "Number of edits to change one text to another"
+      "layman": "Measures word edits needed"
     },
     {
       "jargon": "Distance calculus",
-      "layman": "Mathematical method to measure differences"
+      "layman": "Math to compare differences"
     },
     {
       "jargon": "Standard evaluation templates",
-      "layman": "Standard checklists for course review"
+      "layman": "Pre-made quality checklists"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Benchmark for quality"
     },
     {
-      "jargon": "Optimal concept",
-      "layman": "Best possible course idea"
+      "jargon": "Optimal concept(s)",
+      "layman": "Best possible learning idea"
     },
     {
-      "jargon": "Quality set evaluation indicators",
-      "layman": "Measures of course quality"
+      "jargon": "Quality evaluation",
+      "layman": "How good the course is"
     },
     {
-      "jargon": "Case study",
-      "layman": "Real-world example used to test ideas"
+      "jargon": "Course content value",
+      "layman": "Value of the learning material"
     },
     {
-      "jargon": "Benefits of method",
-      "layman": "Advantages of using the new approach"
+      "jargon": "Benefits of the method",
+      "layman": "Advantages of the approach"
     }
   ]
 }

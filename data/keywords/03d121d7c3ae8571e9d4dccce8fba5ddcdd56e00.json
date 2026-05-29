@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Inhomogeneous cosmologies",
-      "layman": "Universe with uneven structures"
+      "layman": "Universe with uneven structure"
     },
     {
       "jargon": "Anisotropic models",
-      "layman": "Models with different properties in different directions"
+      "layman": "Models with different directions"
     },
     {
       "jargon": "Homogeneous models",
-      "layman": "Uniform universe models"
+      "layman": "Equal everywhere models"
     },
     {
       "jargon": "Exact solutions",
       "layman": "Precise mathematical answers"
     },
     {
-      "jargon": "Cosmological structures",
-      "layman": "Large-scale features of the universe"
+      "jargon": "Cosmic structures",
+      "layman": "Features in the universe"
     }
   ],
   "methodologies": [
     {
       "jargon": "Mathematical classification",
-      "layman": "Organizing solutions by math patterns"
+      "layman": "Categorizing by math rules"
     },
     {
       "jargon": "Perturbation theory",
-      "layman": "Small changes to standard models"
+      "layman": "Small changes analysis"
     },
     {
-      "jargon": "Solutions classification",
-      "layman": "Categorizing possible universe models"
+      "jargon": "Solution organization",
+      "layman": "Grouping solutions by type"
     },
     {
-      "jargon": "Review papers",
-      "layman": "Summaries of existing research"
+      "jargon": "Review surveys",
+      "layman": "Summary of existing work"
     },
     {
-      "jargon": "Solitonic models",
-      "layman": "Models with stable, localized features"
+      "jargon": "Modeling",
+      "layman": "Creating simplified universe versions"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Implications of anisotropic models",
-      "layman": "Effects of non-uniform universe"
+      "jargon": "Implications",
+      "layman": "Effects or consequences"
     },
     {
-      "jargon": "Standard homogeneous models",
-      "layman": "Commonly used uniform models"
+      "jargon": "Predictive power",
+      "layman": "Ability to make forecasts"
     },
     {
-      "jargon": "Exact solutions",
-      "layman": "Precise mathematical answers"
+      "jargon": "Structure formation",
+      "layman": "How patterns form"
     },
     {
-      "jargon": "Mathematical scheme",
-      "layman": "Organized framework for analysis"
+      "jargon": "Acosmic models",
+      "layman": "Alternative universe shapes"
     },
     {
-      "jargon": "Inhomogeneous structures",
-      "layman": "Uneven features in the cosmos"
+      "jargon": "Solutions classification",
+      "layman": "Grouping patterns by behavior"
     }
   ]
 }

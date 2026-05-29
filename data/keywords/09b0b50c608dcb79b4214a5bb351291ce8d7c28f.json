@@ -6,7 +6,7 @@
     },
     {
       "jargon": "Claustrophobia",
-      "layman": "Fear of enclosed spaces"
+      "layman": "Fear of confined spaces"
     },
     {
       "jargon": "Shell shock",
@@ -14,33 +14,33 @@
     },
     {
       "jargon": "Spatial alienation",
-      "layman": "Feeling disconnected from space"
+      "layman": "Feeling disconnected from place"
     },
     {
       "jargon": "Virtual reality",
-      "layman": "Immersive digital environments"
+      "layman": "Digital simulations of real environments"
     }
   ],
   "methodologies": [
     {
       "jargon": "Spatial warping",
-      "layman": "Distorting perception of space"
+      "layman": "Distorting space in art or mind"
     },
     {
       "jargon": "Genre-breaking",
-      "layman": "Mixing art forms unexpectedly"
+      "layman": "Mixing different art forms"
     },
     {
       "jargon": "Digital techniques",
-      "layman": "Modern tech for design"
+      "layman": "Computer-based design tools"
     },
     {
-      "jargon": "Perspective distortion",
-      "layman": "Bending how space appears"
+      "jargon": "Perspective manipulation",
+      "layman": "Altering how space is seen"
     },
     {
-      "jargon": "Architectural experimentation",
-      "layman": "Trying new building designs"
+      "jargon": "Theoretical tracing",
+      "layman": "Following ideas over time"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Spatial estrangement",
-      "layman": "Feeling out of place in space"
+      "layman": "Feeling out of place"
+    },
+    {
+      "jargon": "New forms of architecture",
+      "layman": "Unconventional building designs"
+    },
+    {
+      "jargon": "Subjective experience",
+      "layman": "How people feel in space"
     },
     {
       "jargon": "Placelessness",
-      "layman": "Lack of sense of belonging"
-    },
-    {
-      "jargon": "New forms of space",
-      "layman": "Unusual spatial experiences"
-    },
-    {
-      "jargon": "Transformation of subject",
-      "layman": "Change in self through space"
+      "layman": "Lack of sense of location"
     }
   ]
 }

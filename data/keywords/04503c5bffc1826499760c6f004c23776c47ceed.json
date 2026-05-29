@@ -5,20 +5,17 @@
       "layman": "Cancer in the rectum"
     },
     {
-      "jargon": "Health-related quality of life (HR-QOL)",
-      "layman": "Overall well-being after illness"
-    },
-    {
       "jargon": "Bowel function",
-      "layman": "Stool movement and digestion"
+      "layman": "Digestive system performance"
+    },
+    "health-related quality of life (HR-QOL)",
+    {
+      "jargon": "Cancer survivors",
+      "layman": "People living after cancer treatment"
     },
     {
-      "jargon": "Patient and partner",
-      "layman": "Cancer survivor and their spouse"
-    },
-    {
-      "jargon": "Survivorship",
-      "layman": "Life after cancer treatment"
+      "jargon": "Partners",
+      "layman": "Spouses or significant others"
     }
   ],
   "methodologies": [
@@ -28,7 +25,7 @@
     },
     {
       "jargon": "Purposive sampling",
-      "layman": "Selecting participants based on relevance"
+      "layman": "Selecting participants based on relevant characteristics"
     },
     {
       "jargon": "Semi-structured interviews",
@@ -39,8 +36,8 @@
       "layman": "Systematic review of interview themes"
     },
     {
-      "jargon": "Face-to-face interviews",
-      "layman": "In-person conversations"
+      "jargon": "Survivorship follow-up",
+      "layman": "Ongoing checks after cancer treatment"
     }
   ],
   "outcomes": [
@@ -50,19 +47,19 @@
     },
     {
       "jargon": "Symptom unpredictability",
-      "layman": "Symptoms come and go without warning"
+      "layman": "Symptoms that come and go without pattern"
     },
     {
       "jargon": "Nutrition intolerances",
-      "layman": "Trouble eating certain foods"
+      "layman": "Trouble with certain foods"
     },
     {
       "jargon": "Social concerns",
-      "layman": "Difficulty in social situations"
+      "layman": "Issues with social situations"
     },
     {
       "jargon": "Work and financial strains",
-      "layman": "Job and money problems after treatment"
+      "layman": "Stress at work and money problems"
     }
   ]
 }

@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
+      "jargon": "Business incubation",
+      "layman": "Support program for new businesses"
+    },
+    {
       "jargon": "Entrepreneurship",
       "layman": "Starting new businesses"
     },
     {
-      "jargon": "Business incubation",
-      "layman": "Supporting new businesses"
-    },
-    {
       "jargon": "Economic growth",
-      "layman": "Money and jobs increasing"
+      "layman": "Improvement in national economy"
     },
     {
-      "jargon": "Innovation",
-      "layman": "New ideas or products"
+      "jargon": "Knowledge economy",
+      "layman": "Economy based on knowledge and innovation"
     },
     {
-      "jargon": "Sustainable incomes",
-      "layman": "Stable and long-term earnings"
+      "jargon": "Sustainable income",
+      "layman": "Income that lasts over time"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Business incubation",
-      "layman": "Supporting new businesses"
+      "jargon": "Innovation ecosystem",
+      "layman": "Network that supports innovation"
     },
     {
-      "jargon": "Economic reformulation",
-      "layman": "Changing how the economy works"
+      "jargon": "Reformulate economic model",
+      "layman": "Change how the economy grows"
     },
     {
-      "jargon": "Knowledge integration",
-      "layman": "Using new knowledge in business"
+      "jargon": "Investment in startups",
+      "layman": "Putting money into new businesses"
     },
     {
-      "jargon": "Innovation cycle",
-      "layman": "Loop of creating and improving ideas"
+      "jargon": "Virtuous development cycle",
+      "layman": "Positive feedback loop of growth"
     },
     {
-      "jargon": "Reinvestment",
-      "layman": "Putting money back into growth"
+      "jargon": "Policy reform",
+      "layman": "Changing government rules for growth"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Competitiveness",
-      "layman": "Being able to win in the market"
+      "jargon": "Improved quality of life",
+      "layman": "Better living conditions"
     },
     {
-      "jargon": "Sustainable incomes",
-      "layman": "Stable and long-term earnings"
+      "jargon": "Increased enterprise competitiveness",
+      "layman": "Better business performance"
     },
     {
-      "jargon": "Tax revenues",
-      "layman": "Money from taxes used for public good"
-    },
-    {
-      "jargon": "Virtuous development circle",
-      "layman": "Positive cycle of growth"
+      "jargon": "Sustainable tax revenues",
+      "layman": "Steady government income"
     },
     {
       "jargon": "Social and economic gains",
-      "layman": "Better lives and stronger economy"
+      "layman": "Wider societal benefits"
+    },
+    {
+      "jargon": "Alleviated environmental problems",
+      "layman": "Reduced pollution and damage"
     }
   ]
 }

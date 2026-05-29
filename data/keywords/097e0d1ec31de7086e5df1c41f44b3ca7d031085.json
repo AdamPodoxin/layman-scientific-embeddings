@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Mineral resources",
-      "layman": "Natural rocks with valuable minerals"
+      "layman": "Natural rocks with valuable metals"
     },
     {
       "jargon": "Agricultural geochemistry",
-      "layman": "Chemicals in soil for farming"
+      "layman": "Chemistry of soil for farming"
     },
     {
-      "jargon": "Rational land use",
-      "layman": "Smart use of land for people and nature"
+      "jargon": "Land use",
+      "layman": "How land is used, like farming or city building"
     }
   ],
   "methodologies": [
@@ -27,26 +27,26 @@
       "layman": "Mapping of nature and chemicals in land"
     },
     {
-      "jargon": "Investigation of environmental geochemical baseline",
-      "layman": "Checking natural chemical levels"
+      "jargon": "Investigation",
+      "layman": "Checking and measuring things"
     },
     {
-      "jargon": "Prognosis of mineral resources",
-      "layman": "Predicting where minerals are found"
-    },
-    {
-      "jargon": "Research on agricultural geochemistry",
-      "layman": "Studying soil chemicals for crops"
+      "jargon": "Prognosis",
+      "layman": "Predicting what might happen"
     },
     {
       "jargon": "Regional programming",
-      "layman": "Planning for areas based on needs"
+      "layman": "Planning for areas based on data"
+    },
+    {
+      "jargon": "Rational land use",
+      "layman": "Smart use of land"
     }
   ],
   "outcomes": [
     {
       "jargon": "Rational land use",
-      "layman": "Smart use of land for people and nature"
+      "layman": "Smart use of land"
     },
     {
       "jargon": "Environmental geochemical baseline",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Prognosis of mineral resources",
-      "layman": "Predicting where minerals are found"
+      "layman": "Prediction of where minerals are"
     },
     {
       "jargon": "Research on agricultural geochemistry",
-      "layman": "Studying soil chemicals for crops"
+      "layman": "Study of soil chemistry for farms"
     },
     {
-      "jargon": "Human health related to environment",
-      "layman": "Health impact of natural chemicals"
+      "jargon": "Human health related",
+      "layman": "Impact on people's health"
     }
   ]
 }

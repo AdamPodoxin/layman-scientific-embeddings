@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Dark energy",
-      "layman": "Mysterious energy driving universe expansion"
+      "layman": "Mysterious energy in space"
     },
     {
       "jargon": "Equation of state",
-      "layman": "How pressure relates to energy density"
+      "layman": "How energy behaves in space"
     },
     {
       "jargon": "Cosmological constant",
-      "layman": "Constant energy filling space"
+      "layman": "Standard energy fill of universe"
     },
     {
       "jargon": "Quintessence",
-      "layman": "Dynamic energy field"
+      "layman": "Type of dark energy field"
     },
     {
       "jargon": "Supernovae",
-      "layman": "Exploding stars"
+      "layman": "Bright exploding stars"
     }
   ],
   "methodologies": [
     {
       "jargon": "Nonparametric method",
-      "layman": "No fixed assumptions about shape"
+      "layman": "No fixed assumptions method"
     },
     {
-      "jargon": "Data re-analysis",
-      "layman": "Re-examining old data"
+      "jargon": "Fitting methods",
+      "layman": "Assigning values to models"
+    },
+    {
+      "jargon": "Data analysis",
+      "layman": "Examining data patterns"
+    },
+    {
+      "jargon": "Re-analyzed data",
+      "layman": "Previously reviewed data"
     },
     {
       "jargon": "Parameter uncertainty",
-      "layman": "Uncertainty in model inputs"
-    },
-    {
-      "jargon": "Statistical fitting",
-      "layman": "Matching data to models"
-    },
-    {
-      "jargon": "Cosmic microwave background",
-      "layman": "Faint light from early universe"
+      "layman": "Uncertainty in measurements"
     }
   ],
   "outcomes": [
     {
       "jargon": "w < \u22121",
-      "layman": "Energy pressure stronger than expected"
+      "layman": "Energy behaves more explosively"
     },
     {
       "jargon": "w = \u22121",
-      "layman": "Perfectly constant energy"
+      "layman": "Energy stays constant over time"
     },
     {
-      "jargon": "Ruled out models",
-      "layman": "Certain theories are eliminated"
+      "jargon": "Ruled out",
+      "layman": "Model is no longer possible"
     },
     {
-      "jargon": "Low resolution data",
-      "layman": "Limited data quality"
+      "jargon": "Strong indication",
+      "layman": "Clear hint from data"
     },
     {
       "jargon": "Mean value of w",
-      "layman": "Average measured energy ratio"
+      "layman": "Average value of energy ratio"
     }
   ]
 }

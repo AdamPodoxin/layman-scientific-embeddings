@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Cloud VMs",
-      "layman": "Cloud VMs"
-    },
-    {
-      "jargon": "High-performance computing applications",
-      "layman": "Performance apps"
+      "layman": "Cloud virtual machines"
     },
     {
       "jargon": "Performance ranks",
       "layman": "Performance rankings"
+    },
+    {
+      "jargon": "High-performance computing applications",
+      "layman": "High-performance computing apps"
     }
   ],
   "methodologies": [
@@ -31,16 +31,16 @@
       "layman": "Testing using containers"
     },
     {
-      "jargon": "Hybrid benchmarking",
-      "layman": "Mix of fast and past data testing"
+      "jargon": "Hybrid benchmarking mode",
+      "layman": "Combined testing method"
     },
     {
-      "jargon": "VM portion benchmarking",
-      "layman": "Testing part of a VM"
+      "jargon": "Historic data integration",
+      "layman": "Using past data"
     },
     {
-      "jargon": "Historic data use",
-      "layman": "Using past test results"
+      "jargon": "Portion-based VM testing",
+      "layman": "Testing only parts of VM"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "Over 90% accuracy",
-      "layman": "More than 90% correct"
+      "layman": "More than 90% accurate"
     },
     {
       "jargon": "86% accuracy",
-      "layman": "86% correct"
+      "layman": "86% accurate"
     },
     {
       "jargon": "Improved correlation",
-      "layman": "Better match to real results"
+      "layman": "Better match to real performance"
     },
     {
-      "jargon": "Near real-time use",
-      "layman": "Used almost instantly"
+      "jargon": "Near real-time benchmarking",
+      "layman": "Fast enough for real-time use"
     }
   ]
 }

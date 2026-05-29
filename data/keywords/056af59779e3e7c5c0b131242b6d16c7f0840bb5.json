@@ -9,12 +9,12 @@
       "layman": "Path in complex space"
     },
     {
-      "jargon": "Tachyon",
-      "layman": "Faster-than-light particle"
+      "jargon": "Tachyon-antitachyon interaction",
+      "layman": "Particle-antiparticle collision"
     },
     {
-      "jargon": "Vortex in complex space",
-      "layman": "Interaction point in quantum space"
+      "jargon": "Vortices in complex space",
+      "layman": "Whirls in quantum space"
     },
     {
       "jargon": "Quantum vacuum",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Fourier transform",
-      "layman": "Math tool to convert space to wave data"
+      "layman": "Math tool to switch between space and frequency"
     },
     {
-      "jargon": "Schr\u00f6dinger equation",
-      "layman": "Equation that describes quantum motion"
+      "jargon": "Schr\u00f6dinger's equation",
+      "layman": "Rule for how quantum states evolve"
     },
     {
       "jargon": "Imaginary diffusion",
-      "layman": "Quantum spreading with imaginary factor"
+      "layman": "Fake spread in quantum motion"
     },
     {
       "jargon": "Uncertainty relation",
-      "layman": "Limit on knowing position and speed"
+      "layman": "Can't know position and speed exactly"
     },
     {
-      "jargon": "Complex conjugate trajectory",
-      "layman": "Mirror path of a quantum path"
+      "jargon": "Probability density",
+      "layman": "How likely a particle is at a place"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Probability density P = \u03a8\u03a8*",
-      "layman": "Chance of finding a particle"
+      "jargon": "\u2206p\u2206x \u223c h",
+      "layman": "Position and speed can't both be certain"
     },
     {
-      "jargon": "Exponential decay in time",
-      "layman": "Wave fades over time"
+      "jargon": "\u03a8\u03a8*",
+      "layman": "Particle's chance of being somewhere"
     },
     {
-      "jargon": "No potential energy (U=0)",
-      "layman": "No external forces acting"
+      "jargon": "exp{\u2212iqk\u00b2t}",
+      "layman": "How quantum state fades over time"
     },
     {
-      "jargon": "Heisenberg uncertainty",
-      "layman": "Can't know both position and speed exactly"
+      "jargon": "Unbounded space",
+      "layman": "Infinite open space"
     },
     {
-      "jargon": "Solution \u03a8(t,k) = \u03a8\u2080(k) exp{\u2212iqk\u00b2t}",
-      "layman": "Wave evolves over time in a specific way"
+      "jargon": "Wave number k",
+      "layman": "How wiggly a wave is"
     }
   ]
 }

@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Spin-offs",
+      "layman": "New firms created from existing ones"
+    },
+    {
+      "jargon": "Workers",
+      "layman": "People with new ideas"
+    },
+    {
+      "jargon": "Firms",
+      "layman": "Companies doing business"
+    },
+    {
+      "jargon": "Ideas",
+      "layman": "New project concepts"
+    },
+    {
+      "jargon": "Adverse selection",
+      "layman": "Bad information in transactions"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Market for ideas",
+      "layman": "Trading of ideas between firms"
+    },
+    {
+      "jargon": "Private information",
+      "layman": "Secret knowledge held by workers"
+    },
+    {
+      "jargon": "Price contingent on information",
+      "layman": "Price based on hidden details"
+    },
+    {
+      "jargon": "Implementation cost",
+      "layman": "Cost to start a new firm"
+    },
+    {
+      "jargon": "Zero expected profits",
+      "layman": "No profit expected from selling ideas"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Scale independence",
+      "layman": "Growth doesn't depend on size"
+    },
+    {
+      "jargon": "Invariant distribution",
+      "layman": "Same pattern of firm sizes over time"
+    },
+    {
+      "jargon": "Firm entry process",
+      "layman": "How new companies start"
+    },
+    {
+      "jargon": "Firm growth process",
+      "layman": "How companies expand"
+    },
+    {
+      "jargon": "Resemblance to US economy",
+      "layman": "Matches real-world company patterns"
+    }
+  ]
+}

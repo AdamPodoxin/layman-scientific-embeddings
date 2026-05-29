@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Heroism",
-      "layman": "Acts of bravery"
+      "layman": "Acting bravely for others"
     },
     {
       "jargon": "Goodness",
       "layman": "Kindness and morality"
     },
     {
-      "jargon": "People",
-      "layman": "Individuals in a society"
+      "jargon": "Chinese society",
+      "layman": "China's social culture"
     },
     {
-      "jargon": "China",
-      "layman": "China"
+      "jargon": "People",
+      "layman": "Individuals in a culture"
     }
   ],
   "methodologies": [
     {
       "jargon": "Cultural observation",
-      "layman": "Watching cultural behavior"
+      "layman": "Watching behaviors in culture"
     },
     {
-      "jargon": "Social analysis",
-      "layman": "Studying social patterns"
+      "jargon": "Social modeling",
+      "layman": "People copying each other's actions"
     },
     {
-      "jargon": "Icon identification",
-      "layman": "Spotting admired figures"
+      "jargon": "Cultural analysis",
+      "layman": "Studying culture deeply"
     },
     {
-      "jargon": "Cross-cultural comparison",
-      "layman": "Comparing cultures"
+      "jargon": "Ethnographic study",
+      "layman": "Field study of traditions"
     },
     {
-      "jargon": "Narrative analysis",
-      "layman": "Studying stories and legends"
+      "jargon": "Pattern recognition",
+      "layman": "Spotting repeated behaviors"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Stand out",
-      "layman": "Become notable"
+      "jargon": "Iconic figures",
+      "layman": "Well-known positive role models"
     },
     {
-      "jargon": "Representation",
-      "layman": "Showcase of values"
-    },
-    {
-      "jargon": "Cultural heroism",
-      "layman": "Bravery in stories"
-    },
-    {
-      "jargon": "National pride",
-      "layman": "Pride in one's country"
+      "jargon": "Cultural representation",
+      "layman": "How culture shows its values"
     },
     {
       "jargon": "Collective admiration",
-      "layman": "People respect each other"
+      "layman": "People praise one another"
+    },
+    {
+      "jargon": "Normative behavior",
+      "layman": "Commonly accepted actions"
+    },
+    {
+      "jargon": "Social identity",
+      "layman": "Who people feel they are in society"
     }
   ]
 }

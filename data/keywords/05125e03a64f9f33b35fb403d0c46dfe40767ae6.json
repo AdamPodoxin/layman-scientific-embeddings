@@ -10,47 +10,43 @@
     },
     {
       "jargon": "Robotics and Automation",
-      "layman": "Field of machines that move and perform tasks"
-    },
-    {
-      "jargon": "Research community",
-      "layman": "Group of scientists working together"
+      "layman": "Field of robotics and automation"
     },
     {
       "jargon": "Publication",
-      "layman": "Scientific journal or paper"
+      "layman": "Journal or magazine"
+    },
+    {
+      "jargon": "International community",
+      "layman": "Global research group"
     }
   ],
   "methodologies": [
     {
       "jargon": "Convened",
-      "layman": "Called together to discuss"
-    },
-    {
-      "jargon": "Stepped back",
-      "layman": "Looked at the bigger picture"
-    },
-    {
-      "jargon": "Conceived",
-      "layman": "Thought of or created from scratch"
+      "layman": "Organized a meeting"
     },
     {
       "jargon": "Worked closely",
-      "layman": "Collaborated tightly"
+      "layman": "Collaborated intensely"
+    },
+    {
+      "jargon": "Stepped back",
+      "layman": "Paused to reflect"
     },
     {
       "jargon": "Concluded",
       "layman": "Reached a final decision"
+    },
+    {
+      "jargon": "Expanded community",
+      "layman": "Grew the group of researchers"
     }
   ],
   "outcomes": [
     {
       "jargon": "New publication",
       "layman": "New journal launched"
-    },
-    {
-      "jargon": "Expanded community",
-      "layman": "More people joined the field"
     },
     {
       "jargon": "Essential to expand",
@@ -62,7 +58,11 @@
     },
     {
       "jargon": "Co-founder",
-      "layman": "Helped start something new"
+      "layman": "Joint founder"
+    },
+    {
+      "jargon": "Future trajectory",
+      "layman": "Future path of research"
     }
   ]
 }

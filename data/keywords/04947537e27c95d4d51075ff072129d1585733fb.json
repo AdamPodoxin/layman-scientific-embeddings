@@ -10,11 +10,11 @@
     },
     {
       "jargon": "Soviet bloc",
-      "layman": "Soviet-aligned countries"
+      "layman": "Soviet-controlled countries"
     },
     {
-      "jargon": "Western bloc",
-      "layman": "Western-aligned countries"
+      "jargon": "West",
+      "layman": "Western powers"
     },
     {
       "jargon": "Germany",
@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Political tensions",
-      "layman": "Political tensions"
+      "layman": "Mounting disagreements"
     },
     {
       "jargon": "Strategic location",
-      "layman": "Strategic location"
+      "layman": "Key geographical position"
     },
     {
-      "jargon": "Geographical division",
-      "layman": "Division by geography"
-    },
-    {
-      "jargon": "International politics",
-      "layman": "Global politics"
+      "jargon": "Division",
+      "layman": "Split between two sides"
     },
     {
       "jargon": "Concessions",
-      "layman": "Agreements or compromises"
+      "layman": "Agreements to give in"
+    },
+    {
+      "jargon": "International politics",
+      "layman": "Global diplomatic actions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Brink of open combat",
-      "layman": "Near war"
+      "layman": "Near war situation"
     },
     {
-      "jargon": "Symbol in political struggle",
-      "layman": "Symbol of conflict"
+      "jargon": "Symbol in geopolitical struggle",
+      "layman": "Key image in power fight"
     },
     {
-      "jargon": "Sharply divided",
-      "layman": "Still split"
+      "jargon": "Geographically important",
+      "layman": "Strategically vital"
     },
     {
-      "jargon": "Muted political role",
-      "layman": "Less important now"
+      "jargon": "Mutated political status",
+      "layman": "Still divided"
     },
     {
-      "jargon": "Essentially unchanged",
-      "layman": "Still the same"
+      "jargon": "Postwar dispute",
+      "layman": "Conflict after the war"
     }
   ]
 }

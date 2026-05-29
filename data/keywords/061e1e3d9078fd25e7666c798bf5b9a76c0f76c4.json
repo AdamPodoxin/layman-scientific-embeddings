@@ -5,42 +5,42 @@
       "layman": "Natural landscape"
     },
     {
-      "jargon": "Man-induced changes",
-      "layman": "Human-caused changes"
-    },
-    {
       "jargon": "Oases",
       "layman": "Green areas in deserts"
     },
     {
+      "jargon": "Man-induced changes",
+      "layman": "Human-made landscape changes"
+    },
+    {
       "jargon": "Natural landscape",
-      "layman": "Natural landscape"
+      "layman": "Wild, untouched land"
     },
     {
       "jargon": "Artificial, technological environment",
-      "layman": "Man-made technology environment"
+      "layman": "Human-made technology areas"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Creation of oases",
-      "layman": "Building green spaces in deserts"
-    },
-    {
-      "jargon": "Differentiation",
-      "layman": "Separating types"
-    },
-    {
-      "jargon": "Analysis of landscape structure",
-      "layman": "Studying landscape patterns"
-    },
-    {
-      "jargon": "Environmental assessment",
-      "layman": "Evaluating environmental changes"
-    },
-    {
       "jargon": "Contend",
       "layman": "Argue a point"
+    },
+    {
+      "jargon": "Differentiate",
+      "layman": "Tell the difference between"
+    },
+    {
+      "jargon": "Create",
+      "layman": "Build or form"
+    },
+    {
+      "jargon": "Analyze",
+      "layman": "Study carefully"
+    },
+    {
+      "jargon": "Respond to",
+      "layman": "Reply to a claim"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Man-altered natural environment",
-      "layman": "Changed natural surroundings"
+      "layman": "Natural land changed by humans"
     },
     {
       "jargon": "Man-created artificial environment",
-      "layman": "Human-made technology areas"
+      "layman": "Human-built technology zones"
     },
     {
-      "jargon": "Landscape structure",
-      "layman": "How the land is arranged"
+      "jargon": "Structure of the landscape",
+      "layman": "Overall layout of land"
     }
   ]
 }

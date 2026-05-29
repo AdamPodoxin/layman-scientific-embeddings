@@ -2,55 +2,55 @@
   "core_entities": [
     {
       "jargon": "Ethnicity",
-      "layman": "Ethnicity"
+      "layman": "Shared cultural background"
     },
     {
       "jargon": "Religion",
-      "layman": "Religion"
+      "layman": "Belief system"
     },
     {
       "jargon": "Tradition",
-      "layman": "Tradition"
+      "layman": "Long-standing customs"
     },
     {
       "jargon": "Social capital",
-      "layman": "Social connections"
+      "layman": "Trust among people"
     },
     {
       "jargon": "Post-materialism",
-      "layman": "Focus on personal values over material needs"
+      "layman": "Focus on quality of life"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Cultural enquiry",
-      "layman": "Studying culture through research"
+      "jargon": "Cultural analysis",
+      "layman": "Studying culture through observation"
     },
     {
       "jargon": "Verstehen",
-      "layman": "Understanding through perspective"
+      "layman": "Understanding meaning from a person's view"
     },
     {
       "jargon": "Value-orientation enquiry",
       "layman": "Exploring people's core beliefs"
     },
     {
-      "jargon": "Gender and sexuality analysis",
-      "layman": "Studying gender and sexual identities"
+      "jargon": "Gender and homosexuality analysis",
+      "layman": "Looking at gender and sexual identity"
     },
     {
       "jargon": "Cultural conflict exploration",
-      "layman": "Investigating cultural clashes"
+      "layman": "Investigating cultural disputes"
     }
   ],
   "outcomes": [
     {
       "jargon": "Lack of modernization",
-      "layman": "Slow change in society"
+      "layman": "Stagnation in change"
     },
     {
       "jargon": "Self-expression values",
-      "layman": "Desire for personal freedom"
+      "layman": "Desire to express oneself"
     },
     {
       "jargon": "Happiness or life satisfaction",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Culture and ecology",
-      "layman": "Culture and environment connection"
+      "layman": "Culture and environment relationship"
     },
     {
       "jargon": "Globalization values",
-      "layman": "Values shaped by global trends"
+      "layman": "Values shaped by global connections"
     }
   ]
 }

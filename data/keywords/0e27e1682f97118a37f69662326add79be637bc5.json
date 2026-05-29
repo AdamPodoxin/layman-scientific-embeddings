@@ -2,11 +2,15 @@
   "core_entities": [
     {
       "jargon": "Government regulation",
-      "layman": "Government rules for products"
+      "layman": "Government rules"
     },
     {
-      "jargon": "Product quality standard",
-      "layman": "Minimum quality level for products"
+      "jargon": "Self-regulation",
+      "layman": "Firms setting their own rules"
+    },
+    {
+      "jargon": "Product quality",
+      "layman": "How good a product is"
     },
     {
       "jargon": "Firm",
@@ -14,55 +18,51 @@
     },
     {
       "jargon": "Nonmarket threats",
-      "layman": "Outside pressures not from markets"
-    },
-    {
-      "jargon": "Trial attorneys",
-      "layman": "Lawyers who sue over damages"
+      "layman": "Public backlash or lawsuits"
     }
   ],
   "methodologies": [
     {
       "jargon": "Game-theoretic model",
-      "layman": "Model of strategic choices between players"
+      "layman": "Model of competitive choices"
     },
     {
       "jargon": "Enforcement abilities",
-      "layman": "Power to punish or check violations"
-    },
-    {
-      "jargon": "Self-regulation",
-      "layman": "Companies setting their own rules"
-    },
-    {
-      "jargon": "Market value of products",
-      "layman": "How much products are worth in sales"
-    },
-    {
-      "jargon": "Nonmarket environment",
-      "layman": "Public and social pressures outside markets"
-    }
-  ],
-  "outcomes": [
-    {
-      "jargon": "Firms engage in self-regulation",
-      "layman": "Companies voluntarily follow quality rules"
-    },
-    {
-      "jargon": "Government mandate without enforcement",
-      "layman": "Government sets rules but can't enforce them"
+      "layman": "Power to enforce rules"
     },
     {
       "jargon": "Product-induced damages",
       "layman": "Harm caused by a product"
     },
     {
-      "jargon": "Consumer activism",
-      "layman": "Public campaigns against companies"
+      "jargon": "Investigatory activities",
+      "layman": "Investigations into a product"
     },
     {
+      "jargon": "Publicity activities",
+      "layman": "Spreading news about a product"
+    }
+  ],
+  "outcomes": [
+    {
       "jargon": "Equilibrium results",
-      "layman": "Stable outcomes where all parties act rationally"
+      "layman": "Stable decision outcomes"
+    },
+    {
+      "jargon": "Firms voluntarily comply",
+      "layman": "Companies follow rules without being forced"
+    },
+    {
+      "jargon": "Meaningful self-regulation",
+      "layman": "Real effort to set high standards"
+    },
+    {
+      "jargon": "Market value of products",
+      "layman": "How much people are willing to pay"
+    },
+    {
+      "jargon": "Nature of nonmarket environment",
+      "layman": "How public and legal pressures shape decisions"
     }
   ]
 }

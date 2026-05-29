@@ -18,25 +18,25 @@
     },
     {
       "jargon": "Aggregate functions",
-      "layman": "Sum or average calculations"
+      "layman": "Summary calculations"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Functional causes",
-      "layman": "Cause based on function and effect"
+      "jargon": "Causality framework",
+      "layman": "Cause-explanation system"
     },
     {
-      "jargon": "Provenance",
-      "layman": "Origin tracking"
+      "jargon": "Functional causes",
+      "layman": "Refined cause model"
+    },
+    {
+      "jargon": "Provenance modeling",
+      "layman": "Tracking data origins"
     },
     {
       "jargon": "Query plan",
-      "layman": "Step-by-step database process"
-    },
-    {
-      "jargon": "Causality framework",
-      "layman": "Cause-effect model"
+      "layman": "Database processing steps"
     },
     {
       "jargon": "Complexity results",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Graded responsibility",
-      "layman": "Different levels of blame"
+      "layman": "Degree of blame or contribution"
     },
     {
-      "jargon": "Ranked causes",
-      "layman": "Cause order by importance"
+      "jargon": "Cause ranking",
+      "layman": "Sorting causes by importance"
     },
     {
-      "jargon": "Explanations",
-      "layman": "Why results happen"
+      "jargon": "Explanations in data",
+      "layman": "Reasons from input data"
     },
     {
-      "jargon": "Uniform application",
-      "layman": "Same rules for all cases"
+      "jargon": "Explanations in operations",
+      "layman": "Reasons from query steps"
     },
     {
-      "jargon": "Polynomial algorithms",
-      "layman": "Fast calculation methods"
+      "jargon": "Tractable algorithms",
+      "layman": "Efficient computation methods"
     }
   ]
 }

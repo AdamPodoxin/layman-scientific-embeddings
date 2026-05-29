@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Two-Higgs extensions",
-      "layman": "Models with extra Higgs fields"
+      "layman": "More versions of the Higgs field"
     },
     {
       "jargon": "Quasi-topological solitons",
-      "layman": "Nearly topological stable structures"
+      "layman": "Nearly topological stable waves"
     },
     {
       "jargon": "Field theoretical models",
-      "layman": "Mathematical physics models"
+      "layman": "Mathematical descriptions of nature"
     },
     {
-      "jargon": "Condensed matter physics",
-      "layman": "Physics of solids and materials"
+      "jargon": "Condensed matter systems",
+      "layman": "Solid or liquid materials"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Search for",
-      "layman": "Look for"
+      "jargon": "Search for solitons",
+      "layman": "Look for stable wave patterns"
     },
     {
       "jargon": "Realistic field theoretical models",
-      "layman": "Realistic physics simulations"
+      "layman": "Use realistic physics math models"
     },
     {
-      "jargon": "Various dimensions",
-      "layman": "Different spatial sizes"
+      "jargon": "Physical and condensed matter systems",
+      "layman": "Study both particles and materials"
     },
     {
-      "jargon": "Experimental search",
-      "layman": "Testing in experiments"
+      "jargon": "Field theory",
+      "layman": "Mathematical framework for forces"
     },
     {
-      "jargon": "Theoretical modeling",
-      "layman": "Building physics models"
+      "jargon": "Dimensional solitons",
+      "layman": "Solitons in different sizes or forms"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Status of our search",
-      "layman": "Current results of the search"
+      "jargon": "Quasi-topological solitons of various dimensions",
+      "layman": "Stable waves in multiple forms"
     },
     {
-      "jargon": "Various dimensions",
-      "layman": "Multiple sizes detected"
-    },
-    {
-      "jargon": "Quasi-topological solitons",
-      "layman": "Stable structures found"
+      "jargon": "Status of search",
+      "layman": "Current results of the study"
     },
     {
       "jargon": "Realistic field theoretical models",
-      "layman": "Models that match reality"
+      "layman": "Developed physics models for real systems"
     },
     {
-      "jargon": "Elementary particle physics",
-      "layman": "Study of fundamental particles"
+      "jargon": "Report on search",
+      "layman": "Summary of findings"
+    },
+    {
+      "jargon": "Various dimensions",
+      "layman": "Different sizes or shapes"
     }
   ]
 }

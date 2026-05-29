@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Atomic matter waves",
-      "layman": "Particles acting like waves"
-    },
-    {
-      "jargon": "Quantum mechanics",
-      "layman": "Rules of tiny particles"
+      "layman": "Particles behaving like waves"
     },
     {
       "jargon": "Stimulated light forces",
-      "layman": "Light forces that push atoms"
+      "layman": "Light forces that guide atoms"
     },
     {
       "jargon": "Bose-Einstein condensates",
       "layman": "Ultra-cold atom clouds"
     },
     {
-      "jargon": "Which way problem",
-      "layman": "Can we tell which path a particle took?"
+      "jargon": "Quantum decoherence",
+      "layman": "Loss of quantum behavior due to environment"
+    },
+    {
+      "jargon": "Which-way problem",
+      "layman": "Can we know which path a particle took?"
     }
   ],
   "methodologies": [
     {
       "jargon": "Coherent manipulation",
-      "layman": "Precise control of waves"
-    },
-    {
-      "jargon": "Quantum decoherence",
-      "layman": "Loss of quantum behavior"
+      "layman": "Precise control of quantum waves"
     },
     {
       "jargon": "Matter wave amplification",
-      "layman": "Boosting atomic waves"
+      "layman": "Boosting atomic wave signals"
     },
     {
-      "jargon": "Stimulated light forces",
-      "layman": "Light forces that push atoms"
+      "jargon": "Quantum interference",
+      "layman": "Waves overlapping and canceling or reinforcing"
     },
     {
-      "jargon": "Coherent amplification",
-      "layman": "Stronger atomic wave signals"
+      "jargon": "Optical trapping",
+      "layman": "Using light to hold atoms"
+    },
+    {
+      "jargon": "Cooled atom systems",
+      "layman": "Atoms cooled to near absolute zero"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Which way problem",
-      "layman": "Can we tell which path a particle took?"
-    },
-    {
-      "jargon": "Origins of quantum decoherence",
-      "layman": "Why quantum effects fade"
-    },
-    {
       "jargon": "Coherent amplification of matter waves",
-      "layman": "Stronger atomic wave signals"
+      "layman": "Stronger atomic waves without noise"
     },
     {
-      "jargon": "Old quantum problems",
-      "layman": "Classic quantum puzzles"
+      "jargon": "New results on quantum decoherence",
+      "layman": "New insights into wave collapse"
     },
     {
-      "jargon": "New results",
-      "layman": "New discoveries"
+      "jargon": "Resolutions to the which-way problem",
+      "layman": "Answers to how paths are traced"
+    },
+    {
+      "jargon": "Test of old quantum theories",
+      "layman": "Verification of early quantum ideas"
+    },
+    {
+      "jargon": "Stimulated light manipulation",
+      "layman": "Success in guiding atoms with light"
     }
   ]
 }

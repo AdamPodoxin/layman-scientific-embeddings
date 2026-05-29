@@ -1,0 +1,68 @@
+{
+  "core_entities": [
+    {
+      "jargon": "Distributed systems",
+      "layman": "Networked systems"
+    },
+    {
+      "jargon": "Use cases",
+      "layman": "User actions"
+    },
+    {
+      "jargon": "Finite state machine",
+      "layman": "Machine with states and transitions"
+    },
+    {
+      "jargon": "Communication between objects",
+      "layman": "Object messaging"
+    },
+    {
+      "jargon": "Architectural assumptions",
+      "layman": "System design rules"
+    }
+  ],
+  "methodologies": [
+    {
+      "jargon": "Scenario-based process",
+      "layman": "Scenario-driven method"
+    },
+    {
+      "jargon": "Formal specification",
+      "layman": "Precise system description"
+    },
+    {
+      "jargon": "Composition of scenarios",
+      "layman": "Combining event sequences"
+    },
+    {
+      "jargon": "Reorganization of use cases",
+      "layman": "Reworking user actions"
+    },
+    {
+      "jargon": "Derive communicating FSM",
+      "layman": "Create system interaction map"
+    }
+  ],
+  "outcomes": [
+    {
+      "jargon": "Complete specification",
+      "layman": "Full system design"
+    },
+    {
+      "jargon": "Race conditions",
+      "layman": "Unexpected event timing"
+    },
+    {
+      "jargon": "Global finite state machine",
+      "layman": "One shared system map"
+    },
+    {
+      "jargon": "Communicating FSM per object",
+      "layman": "Object-specific interaction flow"
+    },
+    {
+      "jargon": "Coverage of scenario combinations",
+      "layman": "All possible event paths covered"
+    }
+  ]
+}

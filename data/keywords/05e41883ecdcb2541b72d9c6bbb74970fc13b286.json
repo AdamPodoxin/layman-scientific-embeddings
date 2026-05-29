@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "Proterozoic sulfide deposits",
-      "layman": "Ancient metal-rich rock layers"
+      "layman": "Ancient metal-rich rocks"
     },
     {
       "jargon": "Lead isotopic compositions",
-      "layman": "Different types of lead atoms"
+      "layman": "Different types of lead based on age"
     },
     {
       "jargon": "Phanerozoic lead component",
-      "layman": "Recent lead from later time"
+      "layman": "Younger lead from later Earth period"
     },
     {
       "jargon": "Caledonian orogeny",
       "layman": "Mountain-building event"
     },
     {
-      "jargon": "Fault, fracture, and shear zones",
-      "layman": "Cracks and breaks in rock"
+      "jargon": "Fault and shear zones",
+      "layman": "Cracks and fractures in rock"
     }
   ],
   "methodologies": [
     {
       "jargon": "Lead isotope analysis",
-      "layman": "Testing lead types in rocks"
+      "layman": "Measuring lead types to find age clues"
+    },
+    {
+      "jargon": "Metal content measurement",
+      "layman": "Testing how much metal is present"
     },
     {
       "jargon": "Geological deformation",
-      "layman": "Rock bending and breaking"
+      "layman": "Rocks being bent or cracked"
     },
     {
-      "jargon": "Metal leaching",
-      "layman": "Metals being washed out of rock"
-    },
-    {
-      "jargon": "Fluid flow along faults",
+      "jargon": "Fluid flow along fractures",
       "layman": "Liquid moving through cracks"
     },
     {
-      "jargon": "Metal precipitation",
-      "layman": "Metals forming in solution"
+      "jargon": "Isotopic mixing line",
+      "layman": "A pattern showing mixed lead sources"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Mixing line in Pb isotope diagram",
-      "layman": "Lead types mixed together"
-    },
-    {
       "jargon": "Radiogenic lead component",
-      "layman": "Lead with more radioactive atoms"
+      "layman": "Lead with high age-related signature"
     },
     {
-      "jargon": "Higher lead, zinc, and gold contents",
-      "layman": "More metals in broken zones"
+      "jargon": "Higher lead, zinc, and gold content",
+      "layman": "More metals in crack zones"
     },
     {
-      "jargon": "Metals introduced at a later event",
-      "layman": "Metals added later in time"
+      "jargon": "Metals introduced later",
+      "layman": "Metals added after the main formation"
     },
     {
-      "jargon": "Proterozoic deposits as metal traps",
-      "layman": "Old rocks caught metals"
+      "jargon": "Metal trapping in fractures",
+      "layman": "Metals getting stuck in cracks"
+    },
+    {
+      "jargon": "Metal additions during orogeny",
+      "layman": "Metals added during mountain-building"
     }
   ]
 }

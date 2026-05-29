@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "muon",
-      "layman": "muon"
+      "jargon": "Muon",
+      "layman": "Heavy electron"
     },
     {
-      "jargon": "standard model",
-      "layman": "current theory of particles and forces"
+      "jargon": "Standard Model",
+      "layman": "Main theory of particle physics"
     },
     {
       "jargon": "TeV scale gravity",
-      "layman": "gravity at very high energy levels"
+      "layman": "Gravity at very high energy levels"
     },
     {
-      "jargon": "supersymmetric model",
-      "layman": "theoretical model with hidden particles"
+      "jargon": "Supersymmetric model",
+      "layman": "Model with hidden particle partners"
     },
     {
       "jargon": "Z boson",
-      "layman": "force carrier for weak interactions"
+      "layman": "Particle that carries weak force"
     }
   ],
   "methodologies": [
     {
-      "jargon": "muon g-2 measurement",
-      "layman": "measuring muon's magnetic behavior"
+      "jargon": "Muon g-2 measurement",
+      "layman": "Measuring muon's wobble property"
     },
     {
-      "jargon": "precision measurement",
-      "layman": "very accurate measurement"
+      "jargon": "Precision measurement",
+      "layman": "Ultra-accurate data collection"
     },
     {
-      "jargon": "explicit constraint",
-      "layman": "clear limit applied to calculations"
+      "jargon": "Theoretical prediction",
+      "layman": "Calculating expected result"
     },
     {
-      "jargon": "prediction for muon g-2",
-      "layman": "expected value of muon's magnetic property"
+      "jargon": "Constraint from Z boson mass",
+      "layman": "Using Z boson data to limit possibilities"
     },
     {
-      "jargon": "alter significantly",
-      "layman": "change noticeably"
+      "jargon": "Model comparison",
+      "layman": "Testing which theory fits best"
     }
   ],
   "outcomes": [
     {
-      "jargon": "underlying structure",
-      "layman": "basic building blocks of nature"
+      "jargon": "Altered standard model prediction",
+      "layman": "Predicted result changes"
     },
     {
-      "jargon": "hierarchy problem",
-      "layman": "mystery of why forces differ so much"
+      "jargon": "Significant deviation",
+      "layman": "Big difference from expected"
     },
     {
-      "jargon": "new physics",
-      "layman": "unknown laws of nature"
+      "jargon": "New physics signal",
+      "layman": "Sign of unknown forces"
     },
     {
-      "jargon": "significant alteration",
-      "layman": "large change in expected value"
+      "jargon": "Hierarchy problem",
+      "layman": "Why particles have such different masses"
     },
     {
-      "jargon": "Z boson mass",
-      "layman": "mass of a key force particle"
+      "jargon": "Experimental tension",
+      "layman": "Lab results don't match theory"
     }
   ]
 }

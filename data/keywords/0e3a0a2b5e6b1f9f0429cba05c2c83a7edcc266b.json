@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Walking technicolor theories",
-      "layman": "Theories about strong forces in particles"
+      "layman": "Theories about how particles interact in a specific way"
+    },
+    {
+      "jargon": "Vacuum polarization function",
+      "layman": "How empty space changes under influence of particles"
     },
     {
       "jargon": "Perturbative vacuum polarization function",
-      "layman": "Particle interaction function in vacuum"
-    },
-    {
-      "jargon": "Analytic continuation by duality",
-      "layman": "Duality-based math technique"
+      "layman": "Perturbative version of how empty space changes"
     },
     {
       "jargon": "Technicolor theories",
-      "layman": "Theories about strong force particles"
+      "layman": "Theories about how forces work without fundamental particles"
     }
   ],
   "methodologies": [
     {
       "jargon": "Analytic Continuation by Duality (ACD)",
-      "layman": "Duality-based math technique"
+      "layman": "Math trick using duality to extend results"
     },
     {
-      "jargon": "Vacuum polarization function",
-      "layman": "How particles affect empty space"
+      "jargon": "Apply ACD technique",
+      "layman": "Use the mathematical technique"
     },
     {
-      "jargon": "Perturbative approach",
-      "layman": "Small disturbance calculations"
+      "jargon": "Estimate S",
+      "layman": "Guess the value of the angle factor"
     },
     {
-      "jargon": "Estimation using ACD",
-      "layman": "Using ACD to guess values"
+      "jargon": "Evaluate analytic continuation",
+      "layman": "Check if math works smoothly"
     },
     {
-      "jargon": "Mathematical continuation",
-      "layman": "Extending math beyond original range"
+      "jargon": "Find well-known result",
+      "layman": "Find a known accepted answer"
     }
   ],
   "outcomes": [
     {
       "jargon": "S = 1/6\u03c0",
-      "layman": "Angle value of 1/6\u03c0"
+      "layman": "Angle factor equals one-sixth pi"
     },
     {
-      "jargon": "Fails to reproduce result",
-      "layman": "Doesn't match known value"
+      "jargon": "ACD fails to reproduce S=1/6\u03c0",
+      "layman": "Method doesn't give correct answer"
     },
     {
-      "jargon": "Reliability questioned",
-      "layman": "Trust in method is in doubt"
+      "jargon": "Reliability of ACD technique questioned",
+      "layman": "Confidence in the method is challenged"
     },
     {
-      "jargon": "Well-known result",
-      "layman": "Established value"
+      "jargon": "ACD estimate of S questioned",
+      "layman": "The estimated value of S is in doubt"
     },
     {
-      "jargon": "Estimate of S",
-      "layman": "Guess for angle factor"
+      "jargon": "Does not match known result",
+      "layman": "Doesn't match expected value"
     }
   ]
 }

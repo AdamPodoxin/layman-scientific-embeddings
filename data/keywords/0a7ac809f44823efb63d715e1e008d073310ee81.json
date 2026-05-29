@@ -2,67 +2,67 @@
   "core_entities": [
     {
       "jargon": "commitment protocols",
-      "layman": "Promise to keep a secret"
+      "layman": "Promise to reveal later"
     },
     {
       "jargon": "zero-knowledge protocols",
-      "layman": "Prove something without revealing it"
+      "layman": "Prove something without revealing details"
     },
     {
       "jargon": "function evaluation protocols",
-      "layman": "Compute a function without seeing inputs"
+      "layman": "Computing a function without sharing inputs"
     },
     {
       "jargon": "random oracle",
       "layman": "Perfectly random lookup table"
     },
     {
-      "jargon": "common reference string",
-      "layman": "Shared secret string"
+      "jargon": "universal composable security",
+      "layman": "Secure against any protocol combination"
     }
   ],
   "methodologies": [
     {
       "jargon": "universally composable security",
-      "layman": "Works securely in any setting"
+      "layman": "Works in any security situation"
     },
     {
       "jargon": "interactive setting",
-      "layman": "Protocols that exchange messages"
+      "layman": "Real-time communication between parties"
     },
     {
       "jargon": "non-interactive setting",
-      "layman": "Protocols that don't exchange messages"
+      "layman": "No back-and-forth communication"
     },
     {
-      "jargon": "random oracle model",
-      "layman": "Security tested with random functions"
+      "jargon": "common reference string model",
+      "layman": "Shared secret string used by all"
     },
     {
       "jargon": "programmable reference string",
-      "layman": "Customizable shared secret"
+      "layman": "Controllable shared secret"
     }
   ],
   "outcomes": [
     {
       "jargon": "stronger composable security",
-      "layman": "Safer when used with other protocols"
+      "layman": "Safer in complex protocol mixes"
     },
     {
       "jargon": "efficient protocols",
-      "layman": "Fast and low-resource"
+      "layman": "Fast and low-cost to run"
     },
     {
       "jargon": "no trusted setup",
       "layman": "No need for pre-shared secrets"
     },
     {
-      "jargon": "security in arbitrary protocols",
-      "layman": "Safe even when many protocols use it"
+      "jargon": "security in same oracle use",
+      "layman": "Safe even when many protocols share the same tool"
     },
     {
-      "jargon": "better efficiency than Lindell's protocols",
-      "layman": "Faster than best-known methods"
+      "jargon": "outperforms Lindell protocols",
+      "layman": "Better than known secure methods in efficiency"
     }
   ]
 }

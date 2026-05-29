@@ -24,45 +24,45 @@
   "methodologies": [
     {
       "jargon": "Cladograms",
-      "layman": "Family tree of species"
+      "layman": "Evolutionary family trees"
     },
     {
       "jargon": "Molecular genetic cladograms",
-      "layman": "DNA-based family trees"
+      "layman": "DNA-based evolutionary trees"
     },
     {
-      "jargon": "rbcL gene sequences",
-      "layman": "Plant leaf-related DNA data"
+      "jargon": "rbcL gene sequencing",
+      "layman": "Leaf-related DNA testing"
     },
     {
-      "jargon": "18S rRNA sequences",
-      "layman": "Cellular RNA data from nuclei"
+      "jargon": "18S rRNA sequencing",
+      "layman": "Small ribosomal RNA testing"
     },
     {
-      "jargon": "28S rRNA sequences",
-      "layman": "Large ribosomal RNA data"
+      "jargon": "28S rRNA sequencing",
+      "layman": "Large ribosomal RNA testing"
     }
   ],
   "outcomes": [
     {
       "jargon": "Root of Gnetales near Coniferales",
-      "layman": "Gnetales close to conifers"
+      "layman": "Gnetales close to pines"
     },
     {
       "jargon": "Gnetales as sistergroup to Angiosperms",
       "layman": "Gnetales related to flowering plants"
     },
     {
-      "jargon": "Chemical evidence failed",
+      "jargon": "Ordinary chemical evidence failed",
       "layman": "Chemical tests didn't help"
     },
     {
       "jargon": "Essential oil flavor supports family relations",
-      "layman": "Oil taste matches plant groupings"
+      "layman": "Smell helps link plant families"
     },
     {
-      "jargon": "New material updated 1999 cladograms",
-      "layman": "Old DNA trees were revised with new data"
+      "jargon": "New material updates phylogeny",
+      "layman": "New data changes evolutionary view"
     }
   ]
 }

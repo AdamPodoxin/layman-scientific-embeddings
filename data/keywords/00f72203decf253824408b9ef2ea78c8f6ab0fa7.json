@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Animal body plans",
-      "layman": "Basic body structures"
+      "layman": "Basic body shapes"
     },
     {
       "jargon": "Developmental mechanisms",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Evolutionary patterns",
-      "layman": "How traits change over time"
+      "layman": "How forms change over time"
     },
     {
       "jargon": "Phylogenetic relationships",
-      "layman": "Evolutionary family trees"
+      "layman": "Evolutionary family tree"
     },
     {
-      "jargon": "Molecular biologists",
-      "layman": "Scientists studying genes"
+      "jargon": "Geneticists",
+      "layman": "Scientists who study genes"
     }
   ],
   "methodologies": [
     {
       "jargon": "Comparative biology",
-      "layman": "Comparing species to find similarities"
+      "layman": "Comparing species to learn about evolution"
     },
     {
       "jargon": "Functional biology",
-      "layman": "Studying how organisms work"
+      "layman": "Studying how biological parts work"
     },
     {
-      "jargon": "Experimental discipline",
-      "layman": "Scientific testing and research"
+      "jargon": "Phylogenetic analysis",
+      "layman": "Tracing evolutionary lineages"
     },
     {
-      "jargon": "Paleontological data",
-      "layman": "Fossil evidence"
+      "jargon": "Developmental experiments",
+      "layman": "Testing how embryos develop"
     },
     {
-      "jargon": "Genetic analysis",
-      "layman": "Studying DNA to learn about traits"
+      "jargon": "Molecular biology",
+      "layman": "Studying genes and molecules"
     }
   ],
   "outcomes": [
     {
       "jargon": "Tremendous diversity",
-      "layman": "Wide variety of forms"
+      "layman": "Massive range of forms"
     },
     {
       "jargon": "Interplay between development and evolution",
-      "layman": "How growth and change work together"
+      "layman": "Growth and change work together"
     },
     {
       "jargon": "Integrated approach",
-      "layman": "Combining different science methods"
+      "layman": "Combining different study methods"
     },
     {
-      "jargon": "Research questions and hypotheses",
-      "layman": "Scientific problems and guesses"
+      "jargon": "Evolution within body plans",
+      "layman": "Change over time within basic shapes"
     },
     {
-      "jargon": "Evolution of animal forms",
-      "layman": "How animals changed over time"
+      "jargon": "Rise of experimental discipline",
+      "layman": "Growing field of study"
     }
   ]
 }

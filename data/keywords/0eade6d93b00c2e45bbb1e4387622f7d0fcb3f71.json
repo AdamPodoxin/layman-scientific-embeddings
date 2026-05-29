@@ -5,20 +5,20 @@
       "layman": "Dialogue between different religions"
     },
     {
-      "jargon": "Creative forms",
-      "layman": "Artistic expressions"
-    },
-    {
       "jargon": "Literature",
       "layman": "Books and stories"
     },
     {
+      "jargon": "Creative forms",
+      "layman": "Artistic expression"
+    },
+    {
       "jargon": "Jewish novelist",
-      "layman": "Jewish writer of novels"
+      "layman": "A writer from Jewish background"
     },
     {
       "jargon": "Christian playwright",
-      "layman": "Christian writer of plays"
+      "layman": "A writer of plays from Christian background"
     }
   ],
   "methodologies": [
@@ -28,19 +28,19 @@
     },
     {
       "jargon": "Interviews",
-      "layman": "Talks with people"
+      "layman": "Talking with people"
     },
     {
       "jargon": "Analytical reflections",
-      "layman": "Thinking deeply about findings"
+      "layman": "Thinking deeply about a topic"
+    },
+    {
+      "jargon": "Creative engagement",
+      "layman": "Using art to connect"
     },
     {
       "jargon": "Holistic approach",
       "layman": "Looking at the whole picture"
-    },
-    {
-      "jargon": "Personal and creative arena",
-      "layman": "A personal space for creative expression"
     }
   ],
   "outcomes": [
@@ -61,8 +61,8 @@
       "layman": "Real-life evidence"
     },
     {
-      "jargon": "Creative forms of dialogue",
-      "layman": "Artistic ways to talk across religions"
+      "jargon": "Personal and creative arena",
+      "layman": "A space for individual and artistic expression"
     }
   ]
 }

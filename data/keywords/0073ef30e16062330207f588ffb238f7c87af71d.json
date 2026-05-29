@@ -10,33 +10,33 @@
     },
     {
       "jargon": "Functional programming languages",
-      "layman": "Programming languages based on functions"
+      "layman": "Languages that use functions as building blocks"
     },
     {
-      "jargon": "Arithmetical computations",
-      "layman": "Mathematical calculations"
+      "jargon": "Recursive functions",
+      "layman": "Functions that call themselves"
     },
     {
-      "jargon": "Logical computations",
-      "layman": "Reasoning and true/false decisions"
+      "jargon": "Unnamed functions",
+      "layman": "Functions without names"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Define recursive functions",
-      "layman": "Create functions that call themselves"
+      "jargon": "Arithmetical computations",
+      "layman": "Math operations like addition and multiplication"
     },
     {
-      "jargon": "Perform computations",
-      "layman": "Carry out math or logic steps"
+      "jargon": "Logical computations",
+      "layman": "Reasoning with true and false"
     },
     {
-      "jargon": "Apply function abstraction",
-      "layman": "Use functions without naming them"
+      "jargon": "Defining recursive functions",
+      "layman": "Creating functions that refer to themselves"
     },
     {
       "jargon": "Beta reduction",
-      "layman": "Simplify expressions by applying functions"
+      "layman": "Applying a function to its argument"
     },
     {
       "jargon": "Function application",
@@ -45,24 +45,24 @@
   ],
   "outcomes": [
     {
-      "jargon": "Named functions",
-      "layman": "Functions with names"
-    },
-    {
-      "jargon": "Self-reference",
-      "layman": "A function referring to itself"
-    },
-    {
       "jargon": "Theoretical foundation",
-      "layman": "Strong base for new ideas"
+      "layman": "Strong base for programming ideas"
     },
     {
-      "jargon": "Unnamed functions",
-      "layman": "Functions without names"
+      "jargon": "Named functions",
+      "layman": "Functions with names for easy reference"
     },
     {
-      "jargon": "Computational power",
-      "layman": "Ability to perform any calculation"
+      "jargon": "Self-reference without names",
+      "layman": "Calling a function without giving it a name"
+    },
+    {
+      "jargon": "Computational model",
+      "layman": "Model showing how calculations work"
+    },
+    {
+      "jargon": "Mathematical properties",
+      "layman": "Rules that define how things behave"
     }
   ]
 }

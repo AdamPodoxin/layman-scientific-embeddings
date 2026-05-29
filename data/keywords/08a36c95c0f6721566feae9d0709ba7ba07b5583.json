@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Abductive logic programming",
-      "layman": "Logic programming with assumptions"
+      "layman": "Logic system that guesses missing facts"
     },
     {
       "jargon": "Predicate definitions",
-      "layman": "Logic rules"
+      "layman": "Rules for defining facts"
     },
     {
       "jargon": "Abducibles",
-      "layman": "Assumptions in logic"
+      "layman": "Unknown facts to be explained"
     },
     {
       "jargon": "Planning problems",
-      "layman": "Decision problems involving steps"
+      "layman": "Tasks needing step-by-step decisions"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Logic programming paradigm",
+      "jargon": "Logic programming",
       "layman": "Programming with logical rules"
     },
     {
       "jargon": "Non-monotonic semantics",
-      "layman": "Rules that can change with new info"
+      "layman": "Rules that can change when new info comes in"
     },
     {
-      "jargon": "Constraint-based reasoning",
-      "layman": "Using limits to find solutions"
-    },
-    {
-      "jargon": "Rule sets",
-      "layman": "Collections of logic rules"
+      "jargon": "Constraint rules",
+      "layman": "Rules that limit possible solutions"
     },
     {
       "jargon": "Declarative approach",
       "layman": "Stating what to solve, not how"
+    },
+    {
+      "jargon": "Rule set",
+      "layman": "Set of logical instructions"
     }
   ],
   "outcomes": [
     {
       "jargon": "Combinatorial problems",
-      "layman": "Complex choices with many options"
+      "layman": "Complex problems with many options"
     },
     {
       "jargon": "Search problems",
-      "layman": "Finding solutions through exploration"
+      "layman": "Problems requiring finding a path"
     },
     {
       "jargon": "Standard paradigm",
-      "layman": "Traditional logic programming"
+      "layman": "Traditional way of programming"
     },
     {
       "jargon": "Smooth extension",
-      "layman": "Natural extension without major change"
+      "layman": "Natural improvement of existing methods"
     },
     {
       "jargon": "Radical departure",
-      "layman": "Complete shift from traditional methods"
+      "layman": "Total change from old methods"
     }
   ]
 }

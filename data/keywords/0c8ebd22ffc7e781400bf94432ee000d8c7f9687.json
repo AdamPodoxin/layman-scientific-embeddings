@@ -6,47 +6,47 @@
     },
     {
       "jargon": "Call-Put duality",
-      "layman": "Symmetry between call and put options"
+      "layman": "Symmetry between buying and selling options"
     },
     {
-      "jargon": "Payoff function",
-      "layman": "Profit outcome rule"
+      "jargon": "Call-Put payoff",
+      "layman": "Profit from buying or selling options"
     },
     {
       "jargon": "Monotonicity",
-      "layman": "Steady increase or decrease"
+      "layman": "Increasing or decreasing without oscillation"
     },
     {
       "jargon": "Concavity",
-      "layman": "Curving downward shape"
+      "layman": "Curving downward like a valley"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Analytical form",
-      "layman": "Mathematical formula"
-    },
-    {
-      "jargon": "Optimal strategy",
-      "layman": "Best decision rule"
-    },
-    {
       "jargon": "Monotonicity and concavity assumptions",
-      "layman": "Simple shape rules for payoff"
+      "layman": "Basic shape rules for payoff function"
+    },
+    {
+      "jargon": "Analytical form",
+      "layman": "Mathematical formula used in calculations"
     },
     {
       "jargon": "Derivation",
-      "layman": "Logical step-by-step proof"
+      "layman": "Step-by-step math proof"
+    },
+    {
+      "jargon": "Optimal strategy",
+      "layman": "Best decision for an investor"
     },
     {
       "jargon": "Generalization",
-      "layman": "Extending to broader cases"
+      "layman": "Extension to new cases"
     }
   ],
   "outcomes": [
     {
       "jargon": "Duality still holds",
-      "layman": "Symmetry remains valid"
+      "layman": "Same result for both sides"
     },
     {
       "jargon": "Calculations easier",
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Specific analytical form not crucial",
-      "layman": "Exact formula isn't needed"
+      "layman": "Exact shape doesn't matter"
     },
     {
-      "jargon": "Optimal strategy known explicitly",
-      "layman": "Best action is clearly defined"
+      "jargon": "Known optimal strategy",
+      "layman": "Best choice is clearly defined"
     },
     {
-      "jargon": "Call-Put duality equality",
-      "layman": "Equal value between call and put"
+      "jargon": "Payoff function replaced",
+      "layman": "Profit pattern changed"
     }
   ]
 }

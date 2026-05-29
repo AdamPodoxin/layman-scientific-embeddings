@@ -6,63 +6,63 @@
     },
     {
       "jargon": "Special functions of modern physics",
-      "layman": "Mathematical functions in physics"
-    },
-    {
-      "jargon": "Differential equations",
-      "layman": "Equations describing change"
+      "layman": "Mathematical functions used in physics"
     },
     {
       "jargon": "Recursion relations",
-      "layman": "Mathematical patterns that repeat"
+      "layman": "Rules linking one value to another"
     },
     {
-      "jargon": "Well-known special functions",
-      "layman": "Famous mathematical functions in physics"
+      "jargon": "Differential equations",
+      "layman": "Equations describing how things change"
+    },
+    {
+      "jargon": "Special functions",
+      "layman": "Unique mathematical functions in physics"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Applied supersymmetric quantum mechanics",
-      "layman": "Using symmetry to solve physics problems"
+      "jargon": "Supersymmetric quantum mechanics",
+      "layman": "Quantum theory using symmetry rules"
+    },
+    {
+      "jargon": "Apply methods to differential equations",
+      "layman": "Using math rules on change equations"
     },
     {
       "jargon": "Generate recursion relations",
-      "layman": "Find repeating patterns in math"
+      "layman": "Create linking rules between values"
     },
     {
       "jargon": "Explore special functions",
-      "layman": "Study mathematical functions in physics"
+      "layman": "Investigate mathematical physics functions"
     },
     {
       "jargon": "Extend to other functions",
-      "layman": "Apply method to new cases"
-    },
-    {
-      "jargon": "Analyze differential equations",
-      "layman": "Study equations that describe change"
+      "layman": "Apply to new types of functions"
     }
   ],
   "outcomes": [
     {
       "jargon": "New recursion relations",
-      "layman": "New repeating patterns"
+      "layman": "New linking rules"
     },
     {
       "jargon": "Apparent new or forgotten relations",
-      "layman": "Missing or lost patterns"
+      "layman": "Missing or lost mathematical rules"
     },
     {
       "jargon": "Insight into special functions",
-      "layman": "Better understanding of functions"
+      "layman": "Better understanding of physics functions"
     },
     {
       "jargon": "Not available in handbooks",
-      "layman": "Not in standard references"
+      "layman": "Missing from standard references"
     },
     {
-      "jargon": "Generate new mathematical insights",
-      "layman": "Discover new mathematical truths"
+      "jargon": "Generates new mathematical relationships",
+      "layman": "Produces new connections"
     }
   ]
 }

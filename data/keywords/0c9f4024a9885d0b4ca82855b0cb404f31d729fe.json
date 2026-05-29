@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
+      "jargon": "Equation of state",
+      "layman": "Rule linking pressure, temperature, and density"
+    },
+    {
+      "jargon": "Quark-gluon plasma",
+      "layman": "Hot soup of basic building blocks of matter"
+    },
+    {
       "jargon": "Nuclear matter",
       "layman": "Material inside atomic nuclei"
     },
     {
-      "jargon": "Quark-gluon plasma",
-      "layman": "Hot soup of quarks and gluons"
-    },
-    {
       "jargon": "Pb+Pb collisions",
-      "layman": "Lead-lead particle collisions"
+      "layman": "Collisions between lead nuclei"
     },
     {
-      "jargon": "Pion pairs",
-      "layman": "Pairs of pion particles"
-    },
-    {
-      "jargon": "Space-time geometries",
-      "layman": "Shapes of space and time"
+      "jargon": "Bose-Einstein correlation functions",
+      "layman": "Patterns in how pions move together"
     }
   ],
   "methodologies": [
     {
       "jargon": "Relativistic hydrodynamical model",
-      "layman": "Model of fluid-like nuclear behavior"
-    },
-    {
-      "jargon": "HYLANDER-C",
-      "layman": "Hydrodynamics model used in simulation"
-    },
-    {
-      "jargon": "Bose-Einstein correlation functions",
-      "layman": "Measure of particle pair clustering"
+      "layman": "Fluid model for nuclear collisions"
     },
     {
       "jargon": "Momentum spectra",
-      "layman": "Distribution of particle speeds"
+      "layman": "How particles are spread in momentum"
+    },
+    {
+      "jargon": "Hydrodynamical analysis",
+      "layman": "Using fluid flow to study collisions"
     },
     {
       "jargon": "Phase transition",
       "layman": "Change from one state to another"
+    },
+    {
+      "jargon": "Single and double inclusive spectra",
+      "layman": "Counting particles by energy and pairs"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Equation of state",
-      "layman": "Rule for how matter behaves under pressure"
+      "jargon": "Space-time geometries",
+      "layman": "Shapes of collision events"
     },
     {
-      "jargon": "Preliminary data",
-      "layman": "Early experimental results"
+      "jargon": "Data reproduction",
+      "layman": "Matching experimental results with models"
     },
     {
-      "jargon": "Strongly different geometries",
-      "layman": "Very different space-time shapes"
+      "jargon": "Different equations of state",
+      "layman": "Two different rules for nuclear matter"
     },
     {
-      "jargon": "Significant sensitivity",
-      "layman": "Clear response to changes"
+      "jargon": "Strongly different space-time geometries",
+      "layman": "Very different collision shapes"
     },
     {
-      "jargon": "Reproduce data",
-      "layman": "Match experimental results"
+      "jargon": "Significant sensitivity to equations of state",
+      "layman": "Results still change with model choice"
     }
   ]
 }

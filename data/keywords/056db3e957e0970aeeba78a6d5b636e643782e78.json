@@ -2,11 +2,11 @@
   "core_entities": [
     {
       "jargon": "Name-passing process calculi",
-      "layman": "Systems that pass names between processes"
+      "layman": "Systems for passing names between processes"
     },
     {
       "jargon": "Cryptographic primitives",
-      "layman": "Basic security tools"
+      "layman": "Basic building blocks of encryption"
     },
     {
       "jargon": "High-level process calculi",
@@ -14,7 +14,7 @@
     },
     {
       "jargon": "Process models",
-      "layman": "Models of how processes interact"
+      "layman": "Models of how systems interact"
     },
     {
       "jargon": "Security protocols",
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Literature review",
-      "layman": "Examining past research"
+      "layman": "Check of past research"
     },
     {
-      "jargon": "Roadmap selection",
-      "layman": "Choosing key approaches to focus on"
-    },
-    {
-      "jargon": "Extension with cryptographic primitives",
-      "layman": "Adding security tools to models"
+      "jargon": "Extension of calculi",
+      "layman": "Adding features to models"
     },
     {
       "jargon": "Coherent presentation",
-      "layman": "Clear and unified explanation"
+      "layman": "Clear and logical organization"
+    },
+    {
+      "jargon": "Roadmap selection",
+      "layman": "Choosing a path based on goals"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Exhaustive survey",
-      "layman": "Complete coverage"
+      "jargon": "Exhaustive coverage",
+      "layman": "Complete inclusion of all options"
     },
     {
-      "jargon": "Omitted approaches",
-      "layman": "Left-out methods"
+      "jargon": "Growth of literature",
+      "layman": "Rapid increase in research"
     },
     {
-      "jargon": "Growing literature",
-      "layman": "Rapidly expanding research"
+      "jargon": "Main ideas introduced",
+      "layman": "Core concepts explained"
     },
     {
-      "jargon": "Insufficient coverage",
-      "layman": "Incomplete scope"
+      "jargon": "Insight for further reading",
+      "layman": "Clarity to help learn more"
     },
     {
-      "jargon": "Sufficient insight",
-      "layman": "Enough understanding for further study"
+      "jargon": "Omission of non-fitting approaches",
+      "layman": "Excluding mismatched methods"
     }
   ]
 }

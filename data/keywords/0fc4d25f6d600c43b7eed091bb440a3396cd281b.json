@@ -2,11 +2,7 @@
   "core_entities": [
     {
       "jargon": "Genetic Programming",
-      "layman": "Evolutionary computer programming"
-    },
-    {
-      "jargon": "Search space",
-      "layman": "All possible solutions in a problem"
+      "layman": "Evolutionary algorithm for writing programs"
     },
     {
       "jargon": "Introns",
@@ -14,55 +10,59 @@
     },
     {
       "jargon": "Grammar rules",
-      "layman": "Rules for building valid programs"
+      "layman": "Structural patterns in code"
+    },
+    {
+      "jargon": "Search space",
+      "layman": "All possible solutions in a problem"
     },
     {
       "jargon": "Probability distribution",
-      "layman": "Chance-based data pattern"
+      "layman": "Likelihood of different outcomes"
     }
   ],
   "methodologies": [
     {
       "jargon": "PBIL",
-      "layman": "Evolution using probability rules"
-    },
-    {
-      "jargon": "Distribution-based evolution",
-      "layman": "Evolution using statistics instead of populations"
+      "layman": "Evolution based on probability rules"
     },
     {
       "jargon": "Grammar-based genetic programming",
-      "layman": "Building programs using rule structures"
+      "layman": "Growing programs with structured rules"
+    },
+    {
+      "jargon": "Distribution-based evolution",
+      "layman": "Evolution using probabilities instead of population"
     },
     {
       "jargon": "Program evolution framework",
-      "layman": "System that grows and improves code over time"
+      "layman": "System for growing computer programs"
     },
     {
       "jargon": "Real-world like problem",
-      "layman": "Problem that mimics real-life situations"
+      "layman": "Practical test scenario"
     }
   ],
   "outcomes": [
     {
       "jargon": "Intron growth",
-      "layman": "Unwanted code expansion"
+      "layman": "Unneeded code growing too large"
     },
     {
       "jargon": "Computer resources demand",
-      "layman": "High memory and CPU use"
+      "layman": "High use of memory and processing power"
+    },
+    {
+      "jargon": "Massive growth of non-coding segments",
+      "layman": "Large amounts of useless code building up"
     },
     {
       "jargon": "Practical solution",
       "layman": "Workable fix for the problem"
     },
     {
-      "jargon": "Massive growth of non-coding segments",
-      "layman": "Too much useless code"
-    },
-    {
-      "jargon": "Efficient search",
-      "layman": "Faster, smarter solution finding"
+      "jargon": "Efficient program discovery",
+      "layman": "Finding good programs without wasting resources"
     }
   ]
 }

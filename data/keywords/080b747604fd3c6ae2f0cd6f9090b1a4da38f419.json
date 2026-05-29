@@ -9,16 +9,16 @@
       "layman": "Point in a network"
     },
     {
-      "jargon": "Neighbor",
-      "layman": "Connected point"
+      "jargon": "Edge",
+      "layman": "Link between points"
     },
     {
       "jargon": "Regular graph",
-      "layman": "Equal connections for each point"
+      "layman": "Graph with equal connections"
     },
     {
-      "jargon": "Common neighbor",
-      "layman": "Shared connection between two points"
+      "jargon": "Common neighbors",
+      "layman": "Shared connections between points"
     }
   ],
   "methodologies": [
@@ -28,29 +28,29 @@
     },
     {
       "jargon": "Generalization",
-      "layman": "Extending the rule to more cases"
+      "layman": "Extending a rule to broader cases"
     },
     {
       "jargon": "Algebraic methods",
-      "layman": "Mathematical equations and formulas"
+      "layman": "Mathematical tools for solving problems"
     },
     {
       "jargon": "Natural assumption",
-      "layman": "Simple and logical rule"
+      "layman": "Logical extension of existing rules"
     },
     {
-      "jargon": "Proof by contradiction",
-      "layman": "Showing a rule must be true by assuming it's false"
+      "jargon": "Proof by induction",
+      "layman": "Building truth step by step"
     }
   ],
   "outcomes": [
     {
       "jargon": "Friendship Theorem",
-      "layman": "All connections form a regular pattern"
+      "layman": "Every person has one best friend"
     },
     {
-      "jargon": "Every pair has \u22652 common neighbors",
-      "layman": "Each pair shares at least two links"
+      "jargon": "Every pair of nodes has \u22652 common neighbors",
+      "layman": "Each group shares at least two links"
     },
     {
       "jargon": "Graph is regular",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Purely combinatorial proof",
-      "layman": "Proof using only counting rules"
+      "layman": "Proved with counting rules only"
     },
     {
       "jargon": "Generalized friendship condition",
-      "layman": "Extended rule for shared connections"
+      "layman": "Broader rule about shared links"
     }
   ]
 }

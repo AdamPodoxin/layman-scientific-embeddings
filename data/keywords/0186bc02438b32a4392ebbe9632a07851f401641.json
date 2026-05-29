@@ -2,23 +2,23 @@
   "core_entities": [
     {
       "jargon": "Alfred Chandler",
-      "layman": "Business history scholar"
+      "layman": "Business historian"
     },
     {
       "jargon": "Big business",
       "layman": "Large corporations"
     },
     {
-      "jargon": "Strategy and Structure",
-      "layman": "How companies plan and grow"
+      "jargon": "Strategic structure",
+      "layman": "Business strategy and organization"
     },
     {
-      "jargon": "The Visible Hand",
-      "layman": "Big companies guiding markets"
+      "jargon": "Corporate scale",
+      "layman": "Size of a company"
     },
     {
-      "jargon": "Scale and Scope",
-      "layman": "Size and range of business operations"
+      "jargon": "Business history",
+      "layman": "History of businesses"
     }
   ],
   "methodologies": [
@@ -31,38 +31,38 @@
       "layman": "Group of written articles"
     },
     {
+      "jargon": "Introduction to a book",
+      "layman": "Overview of a book"
+    },
+    {
       "jargon": "Table of contents",
-      "layman": "Outline of a book's sections"
+      "layman": "List of book sections"
     },
     {
-      "jargon": "Introduction",
-      "layman": "Starting explanation of a book"
-    },
-    {
-      "jargon": "Historical theory",
-      "layman": "Explained pattern over time"
+      "jargon": "Scholarly analysis",
+      "layman": "Careful examination of ideas"
     }
   ],
   "outcomes": [
     {
       "jargon": "Evolution of theory",
-      "layman": "Theory changes over time"
+      "layman": "Theory grows over time"
     },
     {
-      "jargon": "Enormous contribution",
-      "layman": "Major impact on the field"
+      "jargon": "Major contribution",
+      "layman": "Big impact on the field"
     },
     {
-      "jargon": "Scholarship",
-      "layman": "Academic research"
+      "jargon": "Historical theory",
+      "layman": "Explanation of how history works"
     },
     {
-      "jargon": "Collection of essays",
-      "layman": "Group of written ideas"
+      "jargon": "Acclaimed status",
+      "layman": "Highly respected"
     },
     {
-      "jargon": "Major books",
-      "layman": "Key works in the field"
+      "jargon": "Scholarly recognition",
+      "layman": "Accepted by experts"
     }
   ]
 }

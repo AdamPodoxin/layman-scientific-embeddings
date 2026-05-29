@@ -6,29 +6,29 @@
     },
     {
       "jargon": "Computer-based information management tools",
-      "layman": "Digital tools for organizing data"
+      "layman": "Digital tools to organize data"
     },
     {
       "jargon": "Bibliometrics",
-      "layman": "Study of scientific publications"
+      "layman": "Study of research publications"
+    },
+    {
+      "jargon": "Interdisciplinary communications",
+      "layman": "Collaboration across fields"
     },
     {
       "jargon": "Information flooding",
       "layman": "Overload of information"
-    },
-    {
-      "jargon": "Innovation",
-      "layman": "New ideas or solutions"
     }
   ],
   "methodologies": [
     {
       "jargon": "Expert-based approaches",
-      "layman": "Relies on expert knowledge"
+      "layman": "Expert-driven decisions"
     },
     {
       "jargon": "Computer-based approach",
-      "layman": "Uses computers to manage data"
+      "layman": "Using computers to manage data"
     },
     {
       "jargon": "Information structuring",
@@ -36,21 +36,21 @@
     },
     {
       "jargon": "Indicator highlighting",
-      "layman": "Spotting key signals in data"
+      "layman": "Spotting key trends"
     },
     {
       "jargon": "Bibliometrics application",
-      "layman": "Using data analysis on publications"
+      "layman": "Using data analysis on papers"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Interdisciplinary communications",
-      "layman": "Cross-field collaboration"
+      "jargon": "Innovation support",
+      "layman": "Helps create new ideas"
     },
     {
       "jargon": "Efficient complement",
-      "layman": "Helps work better alongside experts"
+      "layman": "Works well alongside experts"
     },
     {
       "jargon": "Structured information",
@@ -58,11 +58,11 @@
     },
     {
       "jargon": "Important indicators",
-      "layman": "Key signals that matter"
+      "layman": "Key signals from data"
     },
     {
-      "jargon": "Support for innovation",
-      "layman": "Helps create new solutions"
+      "jargon": "Scale of information",
+      "layman": "Large volume of data"
     }
   ]
 }

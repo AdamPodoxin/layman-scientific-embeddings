@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "functional requirements",
-      "layman": "What the system must do"
+      "layman": "What the system does"
     },
     {
       "jargon": "non-functional requirements",
       "layman": "How well the system works"
     },
     {
+      "jargon": "machine learning methods",
+      "layman": "AI tools for pattern recognition"
+    },
+    {
       "jargon": "natural language",
       "layman": "Regular human language"
     },
     {
-      "jargon": "machine learning",
-      "layman": "Computer learning from data"
-    },
-    {
       "jargon": "preprocessing",
-      "layman": "Cleaning and preparing data"
+      "layman": "Cleaning and standardizing text"
     }
   ],
   "methodologies": [
     {
       "jargon": "automated classification",
-      "layman": "Computer sorting of text"
+      "layman": "Computer-based sorting"
     },
     {
       "jargon": "Latent Dirichlet Allocation",
-      "layman": "Topic discovery in text"
+      "layman": "Topic-finding AI method"
     },
     {
       "jargon": "Biterm Topic Modeling",
-      "layman": "Finding topics in text pairs"
+      "layman": "Word-pair topic detection"
     },
     {
       "jargon": "Na\u00efve Bayes",
-      "layman": "Simple text prediction model"
+      "layman": "Simple probability-based prediction"
     },
     {
-      "jargon": "standardization",
-      "layman": "Making data consistent"
+      "jargon": "standardization and normalization",
+      "layman": "Making text consistent"
     }
   ],
   "outcomes": [
@@ -50,19 +50,19 @@
     },
     {
       "jargon": "significant differences",
-      "layman": "Clear differences in results"
+      "layman": "Clear performance gaps"
     },
     {
-      "jargon": "sub-categories",
-      "layman": "Smaller groups of types"
+      "jargon": "sub-classification",
+      "layman": "Sorting into smaller groups"
     },
     {
       "jargon": "625 requirements",
-      "layman": "625 pieces of system needs"
+      "layman": "625 written needs studied"
     },
     {
-      "jargon": "controlled vocabulary",
-      "layman": "Standard list of words"
+      "jargon": "OpenScience tera-PROMISE repository",
+      "layman": "Database of real project needs"
     }
   ]
 }

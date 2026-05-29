@@ -6,19 +6,19 @@
     },
     {
       "jargon": "Unital C*-algebra",
-      "layman": "Special kind of algebra with identity"
+      "layman": "Type of algebra with a unit element"
     },
     {
       "jargon": "Amenability",
-      "layman": "Property of symmetry in group behavior"
+      "layman": "Property of mathematical systems with symmetry"
     },
     {
       "jargon": "Banach algebra",
-      "layman": "Mathematical space with operations and norms"
+      "layman": "Algebra with well-defined size measures"
     },
     {
       "jargon": "C*-algebra",
-      "layman": "Algebra with special norm and star operation"
+      "layman": "Mathematical system for operations on functions"
     }
   ],
   "methodologies": [
@@ -27,42 +27,42 @@
       "layman": "Clear and direct explanation"
     },
     {
+      "jargon": "(2n)-weak amenability",
+      "layman": "A weaker form of symmetry property"
+    },
+    {
       "jargon": "Mathematical theorem",
       "layman": "A proven statement in math"
     },
     {
-      "jargon": "(2n)-weak amenability",
-      "layman": "A weak form of symmetry in math"
-    },
-    {
       "jargon": "Algebraic structure",
-      "layman": "Set of rules for combining elements"
+      "layman": "Framework for combining elements"
     },
     {
-      "jargon": "Normed space",
-      "layman": "Space with size measurements"
+      "jargon": "Verification",
+      "layman": "Checking correctness of a result"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Proof given",
-      "layman": "Result is established"
+      "jargon": "(2n)-weak amenability",
+      "layman": "Mathematical symmetry under certain conditions"
     },
     {
-      "jargon": "Weak amenability",
-      "layman": "Mild symmetry property"
+      "jargon": "Proof of amenability",
+      "layman": "Demonstrated symmetry property"
     },
     {
-      "jargon": "Mathematical structure proven",
-      "layman": "Mathematical rule confirmed"
+      "jargon": "Triangular algebra T",
+      "layman": "Constructed mathematical object"
     },
     {
-      "jargon": "Theorem on amenability",
-      "layman": "A symmetry rule is shown to hold"
+      "jargon": "Algebraic composition",
+      "layman": "Combining operations in math"
     },
     {
-      "jargon": "T = [(A A) (0 A)]",
-      "layman": "A specific mathematical setup"
+      "jargon": "Structure stability",
+      "layman": "Consistency in mathematical operations"
     }
   ]
 }

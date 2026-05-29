@@ -1,8 +1,8 @@
 {
   "core_entities": [
     {
-      "jargon": "Spontaneous symmetry breaking",
-      "layman": "Symmetry that appears broken"
+      "jargon": "Spontaneous Symmetry Breaking",
+      "layman": "Symmetry that appears to vanish in reality"
     },
     {
       "jargon": "Scalar boson",
@@ -13,12 +13,12 @@
       "layman": "Force-carrying particle"
     },
     {
-      "jargon": "Fermion masses",
-      "layman": "Particle masses from interactions"
+      "jargon": "Fermion",
+      "layman": "Particle that makes up matter"
     },
     {
       "jargon": "Electroweak theory",
-      "layman": "Theory unifying electromagnetism and weak force"
+      "layman": "Theory unifying electricity and weak force"
     }
   ],
   "methodologies": [
@@ -28,7 +28,7 @@
     },
     {
       "jargon": "Spontaneous symmetry breaking in field theory",
-      "layman": "Symmetry loss in physical fields"
+      "layman": "Symmetry loss in physics fields"
     },
     {
       "jargon": "Nambu-Goldstone boson",
@@ -39,30 +39,30 @@
       "layman": "Symmetry breaking through interactions"
     },
     {
-      "jargon": "Standard model",
-      "layman": "Theory of fundamental particles and forces"
+      "jargon": "Fermion masses",
+      "layman": "Masses of matter particles"
     }
   ],
   "outcomes": [
     {
       "jargon": "Massive scalar boson",
-      "layman": "Heavy particle with mass"
-    },
-    {
-      "jargon": "Fermion masses generated",
-      "layman": "Particles gain mass through mechanism"
+      "layman": "Heavy particle that gives mass"
     },
     {
       "jargon": "Vector boson masses",
-      "layman": "Force particles acquire mass"
+      "layman": "Force particles that gain mass"
     },
     {
-      "jargon": "Nambu-Goldstone boson fate",
-      "layman": "Massless particle disappears"
+      "jargon": "Electroweak theory and standard model",
+      "layman": "Framework for fundamental forces"
     },
     {
-      "jargon": "Electroweak symmetry breaking",
-      "layman": "Electromagnetism and weak force split"
+      "jargon": "Standard model",
+      "layman": "Theory of all known particles and forces"
+    },
+    {
+      "jargon": "Why is the mechanism needed?",
+      "layman": "Why must mass exist in particles?"
     }
   ]
 }

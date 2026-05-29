@@ -1,68 +1,68 @@
 {
   "core_entities": [
     {
-      "jargon": "Osmolytes",
-      "layman": "Small molecules in cells"
+      "jargon": "osmolytes",
+      "layman": "small molecules"
     },
     {
-      "jargon": "Proteins",
-      "layman": "Cellular workhorses"
+      "jargon": "proteins",
+      "layman": "biological proteins"
     },
     {
-      "jargon": "Silica",
-      "layman": "Silica surface"
+      "jargon": "silica",
+      "layman": "silica surface"
     },
     {
-      "jargon": "Silanol groups",
-      "layman": "Silicon-based surface groups"
+      "jargon": "silanol groups",
+      "layman": "silanol groups"
     },
     {
-      "jargon": "Protons",
-      "layman": "Hydrogen ions"
+      "jargon": "surface charge",
+      "layman": "surface charge"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Frequency modulation-AFM",
-      "layman": "Ultra-precise surface measurement"
-    },
-    {
-      "jargon": "Interfacial viscosity measurement",
-      "layman": "Measure liquid stickiness at surface"
+      "jargon": "frequency modulation-AFM",
+      "layman": "high-resolution surface measurement"
     },
     {
       "jargon": "Gouy-Chapman-Stern model",
-      "layman": "Surface charge prediction model"
+      "layman": "surface charge prediction model"
     },
     {
-      "jargon": "Surface reaction constants",
-      "layman": "Rates of surface chemical reactions"
+      "jargon": "interfacial liquid viscosity",
+      "layman": "surface fluid thickness measurement"
     },
     {
-      "jargon": "Dielectric constant",
-      "layman": "Material's ability to store electric fields"
+      "jargon": "surface reaction constants",
+      "layman": "chemical reaction rates at surface"
+    },
+    {
+      "jargon": "deprotonation",
+      "layman": "loss of hydrogen ion from surface"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Surface charge enhancement",
-      "layman": "Surface becomes more charged"
+      "jargon": "50% increase in surface charge",
+      "layman": "surface charge increases sharply"
     },
     {
-      "jargon": "pH equivalent change",
-      "layman": "Charge change like pH shift"
+      "jargon": "4-unit pH increase",
+      "layman": "stronger negative surface charge"
     },
     {
-      "jargon": "Surface charge neutralization",
-      "layman": "Surface charge disappears"
+      "jargon": "2-unit pH reduction",
+      "layman": "surface charge weakens"
     },
     {
-      "jargon": "4-fold overestimation",
-      "layman": "Model misses the real effect"
+      "jargon": "dielectric constant change",
+      "layman": "material\u2019s ability to store electric field"
     },
     {
-      "jargon": "Coulomb interactions",
-      "layman": "Electrical forces between charges"
+      "jargon": "4 times too large effect",
+      "layman": "model cannot explain the result"
     }
   ]
 }

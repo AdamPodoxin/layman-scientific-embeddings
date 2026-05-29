@@ -18,29 +18,29 @@
     },
     {
       "jargon": "Department of Technical Communication",
-      "layman": "Team that teaches writing and speaking"
+      "layman": "Group teaching engineering writing"
     }
   ],
   "methodologies": [
     {
       "jargon": "Curricular integration",
-      "layman": "Mixing writing with engineering lessons"
+      "layman": "Mixing courses together"
     },
     {
       "jargon": "Educational reform",
-      "layman": "Changing how engineering is taught"
+      "layman": "Changing how classes are taught"
     },
     {
-      "jargon": "Curriculum redesign",
-      "layman": "Rewriting course structure"
+      "jargon": "Writing and speaking instruction",
+      "layman": "Teaching how to write and speak"
     },
     {
-      "jargon": "Pedagogical approach",
-      "layman": "Teaching method used"
+      "jargon": "Curriculum design",
+      "layman": "Planning the course structure"
     },
     {
-      "jargon": "Instructional integration",
-      "layman": "Combining teaching topics"
+      "jargon": "Educational initiative",
+      "layman": "New teaching program"
     }
   ],
   "outcomes": [
@@ -49,20 +49,20 @@
       "layman": "Clear and useful messages"
     },
     {
+      "jargon": "Unusual integration",
+      "layman": "Rarely done together"
+    },
+    {
       "jargon": "Critical skill",
       "layman": "Important ability"
     },
     {
-      "jargon": "Unusual integration",
-      "layman": "Rare combination of subjects"
-    },
-    {
-      "jargon": "Enhanced engineering education",
-      "layman": "Better engineering training"
-    },
-    {
       "jargon": "Level of integration",
-      "layman": "How well subjects are combined"
+      "layman": "How well topics are combined"
+    },
+    {
+      "jargon": "Educational change",
+      "layman": "Shift in how students learn"
     }
   ]
 }

@@ -2,7 +2,7 @@
   "core_entities": [
     {
       "jargon": "Public-coin communication protocol",
-      "layman": "Communication protocol with shared random bits"
+      "layman": "Communication with shared random bits"
     },
     {
       "jargon": "Private randomness",
@@ -10,59 +10,59 @@
     },
     {
       "jargon": "Interactive communication",
-      "layman": "Two-way conversation between parties"
+      "layman": "Back-and-forth message exchange"
+    },
+    {
+      "jargon": "Bounded-round protocols",
+      "layman": "Protocols with fixed number of messages"
     },
     {
       "jargon": "Information complexity",
-      "layman": "Amount of information shared between parties"
-    },
-    {
-      "jargon": "Bounded-round protocol",
-      "layman": "Communication with a fixed number of rounds"
+      "layman": "How much information is shared"
     }
   ],
   "methodologies": [
     {
       "jargon": "Reverse Newman\u2019s Theorem",
-      "layman": "Turning private randomness into public randomness"
+      "layman": "Turn private randomness into public randomness"
     },
     {
       "jargon": "Compression of interactive communication",
-      "layman": "Reducing communication without losing info"
-    },
-    {
-      "jargon": "Slepian\u2013Wolf coding theorem",
-      "layman": "Sharing data efficiently when parts are independent"
+      "layman": "Simplify message exchange without losing info"
     },
     {
       "jargon": "Direct-sum theorems",
-      "layman": "Adding tasks increases total communication"
+      "layman": "Multiple tasks add up in difficulty"
+    },
+    {
+      "jargon": "Slepian\u2013Wolf coding",
+      "layman": "Share data efficiently when parties have partial info"
     },
     {
       "jargon": "One-shot variant",
-      "layman": "Single-instance application of a rule"
+      "layman": "Single-use version of a theory"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Preserving information revealed to each player",
-      "layman": "Keeping each party\u2019s private info intact"
+      "jargon": "Preserving information revealed",
+      "layman": "Keep shared info unchanged"
     },
     {
       "jargon": "Full compression of interactive communication",
-      "layman": "Complete reduction in communication needed"
+      "layman": "All messages can be drastically reduced"
     },
     {
       "jargon": "Fully-general direct-sum theorems",
-      "layman": "Stronger rules for combining communication tasks"
+      "layman": "Stronger rules for multiple tasks"
     },
     {
       "jargon": "New direct-sum theorems",
-      "layman": "Better rules for multiple communication tasks"
+      "layman": "Better rules for combining tasks"
     },
     {
-      "jargon": "Bounded-round setting",
-      "layman": "Limited number of exchanges between parties"
+      "jargon": "Public randomness protocol",
+      "layman": "Protocol where both parties share random bits"
     }
   ]
 }

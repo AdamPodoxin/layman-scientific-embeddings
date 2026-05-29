@@ -2,15 +2,15 @@
   "core_entities": [
     {
       "jargon": "In2O3:Pd nanocomposite films",
-      "layman": "Mixed oxide and metal film"
-    },
-    {
-      "jargon": "Palladium nanoparticles",
-      "layman": "Tiny metal particles"
+      "layman": "Mixed oxide-palladium thin films"
     },
     {
       "jargon": "Indium oxide matrix",
-      "layman": "Base oxide structure"
+      "layman": "Oxide base material"
+    },
+    {
+      "jargon": "Palladium nanoparticles",
+      "layman": "Tiny palladium particles"
     },
     {
       "jargon": "Amorphous films",
@@ -18,13 +18,13 @@
     },
     {
       "jargon": "Crystalline nanocomposites",
-      "layman": "Ordered, structured films"
+      "layman": "Ordered thin film structures"
     }
   ],
   "methodologies": [
     {
       "jargon": "Combinatorial chemistry",
-      "layman": "Testing many compositions at once"
+      "layman": "Testing many mixtures at once"
     },
     {
       "jargon": "Co-sputtering",
@@ -46,23 +46,23 @@
   "outcomes": [
     {
       "jargon": "Thermoelectric power factor",
-      "layman": "Energy conversion efficiency"
+      "layman": "Heat-to-electricity efficiency"
     },
     {
       "jargon": "Equiaxed grain growth",
-      "layman": "Uniform crystal growth"
+      "layman": "Even, round crystal growth"
     },
     {
       "jargon": "Spherulitic growth",
       "layman": "Ball-like crystal growth"
     },
     {
-      "jargon": "Threshold palladium loading",
-      "layman": "Critical metal amount"
+      "jargon": "Optimal palladium loading",
+      "layman": "Best amount of palladium"
     },
     {
-      "jargon": "Abnormal grain growth",
-      "layman": "Unusual crystal expansion"
+      "jargon": "Abrupt transition",
+      "layman": "Sudden change in behavior"
     }
   ]
 }

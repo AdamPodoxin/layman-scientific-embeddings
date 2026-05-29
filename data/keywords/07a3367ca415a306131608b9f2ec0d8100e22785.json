@@ -10,15 +10,15 @@
     },
     {
       "jargon": "Critical theory",
-      "layman": "Critical analysis of society"
+      "layman": "Philosophy that questions social norms"
     },
     {
       "jargon": "Heidegger",
-      "layman": "Philosopher who studied being"
+      "layman": "Philosopher who studied existence"
     },
     {
       "jargon": "Frankfurt School",
-      "layman": "Group of social critics"
+      "layman": "Group of social thinkers focused on critique"
     }
   ],
   "methodologies": [
@@ -28,41 +28,41 @@
     },
     {
       "jargon": "Critique",
-      "layman": "Critical examination"
+      "layman": "Analysis of flaws in systems"
     },
     {
       "jargon": "Reconciliation",
-      "layman": "Putting together different ideas"
+      "layman": "Bringing together different views"
     },
     {
-      "jargon": "Kantian critique",
-      "layman": "Critical analysis based on Kant's philosophy"
+      "jargon": "Kantian philosophy",
+      "layman": "Thinking based on Kant's ideas about reason"
     },
     {
-      "jargon": "Lacanian perspective",
-      "layman": "View through Lacan's psychoanalytic lens"
+      "jargon": "Habermas and rationality",
+      "layman": "How rational discourse shapes society"
     }
   ],
   "outcomes": [
     {
-      "jargon": "Critical theory and reconciliation",
-      "layman": "Harmonizing different critical views"
-    },
-    {
-      "jargon": "Heidegger and Marxism",
-      "layman": "Linking existential philosophy with economic critique"
-    },
-    {
-      "jargon": "Psychoanalysis and critical theory",
-      "layman": "Connecting mental processes to social critique"
-    },
-    {
-      "jargon": "Heidegger and psychotherapy",
-      "layman": "Applying philosophy to mental health"
+      "jargon": "Ontology and critique",
+      "layman": "Understanding existence through criticism"
     },
     {
       "jargon": "Adorno and Heidegger",
-      "layman": "Comparing two thinkers on society and being"
+      "layman": "Link between their philosophical ideas"
+    },
+    {
+      "jargon": "Critical theory and reconciliation",
+      "layman": "Unifying differing critical approaches"
+    },
+    {
+      "jargon": "Kant and critical theory",
+      "layman": "Foundations of modern critical thought"
+    },
+    {
+      "jargon": "Psychoanalysis and critical theory",
+      "layman": "Application of mind theories to critique society"
     }
   ]
 }

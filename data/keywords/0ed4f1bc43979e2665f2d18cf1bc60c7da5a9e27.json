@@ -6,63 +6,60 @@
     },
     {
       "jargon": "Energy efficiency",
-      "layman": "Using less energy for the same output"
+      "layman": "Reducing energy use"
     },
     {
       "jargon": "Cost recovery",
-      "layman": "Getting back the money spent"
+      "layman": "Getting back the costs"
     },
     {
       "jargon": "Sales volume",
-      "layman": "Amount of products or services sold"
+      "layman": "Amount of products sold"
     },
     {
       "jargon": "Distributed resources",
-      "layman": "Energy sources spread across many locations"
+      "layman": "Small local energy sources"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Implementing policies",
-      "layman": "Putting new rules into action"
+      "jargon": "Policy implementation",
+      "layman": "Setting and enforcing rules"
     },
     {
-      "jargon": "Removing disincentives",
-      "layman": "Taking away bad incentives"
+      "jargon": "Regulatory policies",
+      "layman": "Government rules for energy"
+    },
+    "regulatory policies",
+    {
+      "jargon": "Cost-effective investments",
+      "layman": "Smart spending that saves money"
     },
     {
-      "jargon": "Investments in energy efficiency",
-      "layman": "Spending money to save energy"
-    },
-    {
-      "jargon": "Regulatory actions",
-      "layman": "Government rules and decisions"
-    },
-    {
-      "jargon": "State-level policies",
-      "layman": "Policies set by individual states"
+      "jargon": "Incentive removal",
+      "layman": "Taking away financial rewards"
     }
   ],
   "outcomes": [
     {
       "jargon": "Conflict of interest",
-      "layman": "Personal gain vs. public good"
+      "layman": "Bias in decision-making"
     },
     {
-      "jargon": "Cost-effective energy efficiency",
-      "layman": "Energy saving that is affordable"
+      "jargon": "Disincentives",
+      "layman": "Damaging financial pressures"
     },
     {
-      "jargon": "Inherent conflict",
-      "layman": "Built-in contradiction"
+      "jargon": "Investments in efficiency",
+      "layman": "Spending on energy savings"
     },
     {
-      "jargon": "Solved",
-      "layman": "Resolved"
+      "jargon": "Energy efficiency gains",
+      "layman": "Better energy use results"
     },
     {
-      "jargon": "Energy efficiency investments",
-      "layman": "Money spent to reduce energy use"
+      "jargon": "Policy removal of barriers",
+      "layman": "Rules paving the way for savings"
     }
   ]
 }

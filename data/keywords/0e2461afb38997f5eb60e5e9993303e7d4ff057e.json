@@ -2,45 +2,45 @@
   "core_entities": [
     {
       "jargon": "Acute coronary syndromes",
-      "layman": "Heart attacks or severe heart problems"
+      "layman": "Heart attacks or similar heart problems"
     },
     {
       "jargon": "Electrocardiographic findings",
-      "layman": "Heart's electrical pattern at first check"
+      "layman": "Heart's electrical pattern at the start"
     },
     {
       "jargon": "ST-elevation",
-      "layman": "Raised heart electrical signal"
+      "layman": "Striking change in heart's electrical signal"
     },
     {
-      "jargon": "Non-STE",
-      "layman": "No raised heart signal"
+      "jargon": "Non-ST-elevation",
+      "layman": "Mild or no clear change in heart signal"
     },
     {
       "jargon": "Non-diagnostic ECG abnormalities",
-      "layman": "ECG can't clearly show heart issue"
+      "layman": "ECG that cannot clearly show heart issue"
     }
   ],
   "methodologies": [
     {
-      "jargon": "Retrospective cohort study",
-      "layman": "Looking back at patient records"
+      "jargon": "Retrospective study",
+      "layman": "Looking back at past patient records"
     },
     {
       "jargon": "Adjusting for risk factors",
-      "layman": "Accounting for age, sex, and other health issues"
+      "layman": "Correcting for age, sex, and other factors"
     },
     {
-      "jargon": "Enrollment of survivors",
-      "layman": "Including patients who survived the first 24 hours"
+      "jargon": "Enrolling patients",
+      "layman": "Including study participants"
     },
     {
-      "jargon": "ECG and biochemical indices",
-      "layman": "Heart test and blood markers for heart damage"
+      "jargon": "Categorizing ECG results",
+      "layman": "Sorting ECG types into groups"
     },
     {
-      "jargon": "Categorization of ECG findings",
-      "layman": "Grouping ECG results into types"
+      "jargon": "Biochemical indices of myocardial damage",
+      "layman": "Blood tests for heart tissue injury"
     }
   ],
   "outcomes": [
@@ -54,15 +54,15 @@
     },
     {
       "jargon": "Event rate",
-      "layman": "How often something bad happens"
+      "layman": "Chance of a major health event"
     },
     {
       "jargon": "Death or re-hospitalization due to CVD",
       "layman": "Dying or going back to hospital for heart issues"
     },
     {
-      "jargon": "Risk of dying",
-      "layman": "Chance of dying"
+      "jargon": "Risk ratio of 3.3",
+      "layman": "3.3 times higher risk of dying"
     }
   ]
 }
