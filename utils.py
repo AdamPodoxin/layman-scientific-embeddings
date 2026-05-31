@@ -1,11 +1,15 @@
+import unsloth
+
 from pathlib import Path
 import argparse
 import math
 
+from unsloth import FastSentenceTransformer
+
 import pandas as pd
 import torch
 from datasets import Dataset, DatasetDict, concatenate_datasets, load_from_disk
-from peft import LoraConfig, PeftModel, TaskType
+from peft import PeftModel
 from sentence_transformers import SentenceTransformer
 from transformers import BitsAndBytesConfig
 
@@ -35,17 +39,25 @@ VANILLA_PAIR_TYPES_FILTERED = (VANILLA_PAIR_TYPES - frozenset({
     "layman-layman",
 }))
 
-DEFAULT_LORA_CONFIG = LoraConfig(
-    task_type=TaskType.FEATURE_EXTRACTION,
-    inference_mode=False,
-    r=16,
-    lora_alpha=16,
-    lora_dropout=0.05,
-    target_modules="all-linear",
-    bias="none",
-    use_qalora=True,
-    use_rslora=True,
-)
+QWEN_LORA_TARGET_MODULES = [
+    "q_proj",
+    "k_proj",
+    "v_proj",
+    "o_proj",
+    "gate_proj",
+    "up_proj",
+    "down_proj",
+]
+
+UNSLOTH_LORA_KWARGS = {
+    "r": 16,
+    "lora_alpha": 16,
+    "lora_dropout": 0.05,
+    "bias": "none",
+    "use_gradient_checkpointing": "unsloth",
+    "task_type": "FEATURE_EXTRACTION",
+    "target_modules": QWEN_LORA_TARGET_MODULES,
+}
 
 
 def load_pairs_dataset(path: Path | str = PAIRS_PATH) -> DatasetDict:
@@ -158,30 +170,55 @@ def load_qwen_base_bf16(device: str = "cuda") -> SentenceTransformer:
     )
 
 
-def load_qwen_for_training(use_4bit: bool = True) -> SentenceTransformer:
+def _set_transformer_auto_model(transformer_module, model) -> None:
+    if isinstance(getattr(type(transformer_module), "auto_model", None), property):
+        transformer_module.model = model
+    else:
+        transformer_module.auto_model = model
+
+
+def load_qwen_unsloth_base(use_4bit: bool = True) -> SentenceTransformer:
     if use_4bit:
-        return load_qwen_base_4bit()
-    return load_qwen_base_bf16()
+        return FastSentenceTransformer.from_pretrained(
+            QWEN_MODEL_ID,
+            load_in_4bit=True,
+            load_in_16bit=False,
+            full_finetuning=False,
+        )
+    return FastSentenceTransformer.from_pretrained(
+        QWEN_MODEL_ID,
+        load_in_4bit=False,
+        load_in_16bit=True,
+        dtype=torch.bfloat16,
+        full_finetuning=False,
+    )
 
 
-def add_lora_adapter(model: SentenceTransformer) -> SentenceTransformer:
-    model.add_adapter(DEFAULT_LORA_CONFIG)
-    model.set_adapter("default")
+def add_unsloth_lora_adapter(model: SentenceTransformer) -> SentenceTransformer:
+    model = FastSentenceTransformer.get_peft_model(model, **UNSLOTH_LORA_KWARGS)
+    model.bfloat16()
     return model
 
 
-def load_qwen_with_lora_adapter(
+def load_qwen_unsloth_for_training(use_4bit: bool = True) -> SentenceTransformer:
+    model = load_qwen_unsloth_base(use_4bit=use_4bit)
+    return add_unsloth_lora_adapter(model)
+
+
+def load_qwen_unsloth_with_lora_adapter(
     adapter_path: Path | str,
     use_4bit: bool = True,
     is_trainable: bool = False,
 ) -> SentenceTransformer:
-    model = load_qwen_for_training(use_4bit=use_4bit)
+    model = load_qwen_unsloth_base(use_4bit=use_4bit)
     first_module = model._first_module()
-    first_module.auto_model = PeftModel.from_pretrained(
+    peft_model = PeftModel.from_pretrained(
         first_module.auto_model,
         str(adapter_path),
         is_trainable=is_trainable,
     )
+    _set_transformer_auto_model(first_module, peft_model)
+    model.bfloat16()
     return model
 
 
@@ -189,14 +226,14 @@ def is_lora_adapter_path(model_path: Path) -> bool:
     return (model_path / "adapter_config.json").exists()
 
 
-def load_vanilla_qwen_for_second_stage(
+def load_vanilla_qwen_unsloth_for_second_stage(
     vanilla_path: Path | str,
     use_4bit: bool = True,
 ) -> SentenceTransformer:
     vanilla_path = Path(vanilla_path)
 
     if is_lora_adapter_path(vanilla_path):
-        return load_qwen_with_lora_adapter(
+        return load_qwen_unsloth_with_lora_adapter(
             vanilla_path,
             use_4bit=use_4bit,
             is_trainable=True,
@@ -208,28 +245,48 @@ def load_vanilla_qwen_for_second_stage(
             "Use an adapter checkpoint or pass --bf16-lora."
         )
 
-    model = SentenceTransformer(str(vanilla_path), device="cuda")
-    add_lora_adapter(model)
-    return model
+    model = FastSentenceTransformer.from_pretrained(
+        str(vanilla_path),
+        load_in_16bit=True,
+        dtype=torch.bfloat16,
+        full_finetuning=False,
+    )
+    return add_unsloth_lora_adapter(model)
 
 
 def merge_lora_and_save(model: SentenceTransformer, output_path: Path | str) -> Path:
     output_path = Path(output_path)
+    if hasattr(model, "save_pretrained_merged"):
+        model.save_pretrained_merged(str(output_path))
+        return output_path
+
     first_module = model._first_module()
     if isinstance(first_module.auto_model, PeftModel):
-        first_module.auto_model = first_module.auto_model.merge_and_unload()
+        merged = first_module.auto_model.merge_and_unload()
+        _set_transformer_auto_model(first_module, merged)
     model.save_pretrained(output_path)
     return output_path
 
 
-def load_finetuned_qwen(model_path: Path | str) -> SentenceTransformer:
-    if isinstance(model_path, str):
-        model_path = Path(model_path)
+def load_finetuned_qwen(
+    model_path: Path | str,
+    use_4bit: bool = True,
+) -> SentenceTransformer:
+    model_path = Path(model_path)
 
     if is_lora_adapter_path(model_path):
-        return load_qwen_with_lora_adapter(model_path, use_4bit=True, is_trainable=False)
+        return FastSentenceTransformer.from_pretrained(
+            str(model_path),
+            for_inference=True,
+            load_in_4bit=use_4bit,
+            load_in_16bit=not use_4bit,
+        )
 
-    return SentenceTransformer(str(model_path), device="cuda")
+    return FastSentenceTransformer.from_pretrained(
+        str(model_path),
+        for_inference=True,
+        load_in_16bit=True,
+    )
 
 
 def add_qwen_training_args(parser: argparse.ArgumentParser) -> None:

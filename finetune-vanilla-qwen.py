@@ -1,3 +1,5 @@
+import unsloth
+
 import argparse
 from pathlib import Path
 
@@ -12,11 +14,10 @@ from sentence_transformers.sentence_transformer.training_args import BatchSample
 from utils import (
     VANILLA_PAIR_TYPES,
     VANILLA_PAIR_TYPES_FILTERED,
-    add_lora_adapter,
     add_qwen_training_args,
     get_qwen_optimizer,
     load_pairs_dataset,
-    load_qwen_for_training,
+    load_qwen_unsloth_for_training,
     merge_lora_and_save,
     prepare_vanilla_qwen_datasets,
 )
@@ -82,8 +83,7 @@ def main():
         layman_jargon_weight=args.layman_jargon_weight,
     )
 
-    model = load_qwen_for_training(use_4bit=use_4bit)
-    add_lora_adapter(model)
+    model = load_qwen_unsloth_for_training(use_4bit=use_4bit)
 
     column_prompts = {
         "anchor": model.prompts.get("query", ""),

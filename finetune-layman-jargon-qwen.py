@@ -1,3 +1,5 @@
+import unsloth
+
 import argparse
 from pathlib import Path
 
@@ -14,7 +16,7 @@ from utils import (
     clean_pairs_for_training,
     get_qwen_optimizer,
     load_pairs_dataset,
-    load_vanilla_qwen_for_second_stage,
+    load_vanilla_qwen_unsloth_for_second_stage,
     merge_lora_and_save,
 )
 
@@ -72,7 +74,7 @@ def main():
     train_dataset = clean_pairs_for_training(pairs_dataset["train"], {"layman-jargon"})
     val_dataset = clean_pairs_for_training(pairs_dataset["val"], {"layman-jargon"})
 
-    model = load_vanilla_qwen_for_second_stage(
+    model = load_vanilla_qwen_unsloth_for_second_stage(
         args.vanilla_model_path,
         use_4bit=use_4bit,
     )
