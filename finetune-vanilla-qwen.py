@@ -23,19 +23,15 @@ from utils import (
 )
 
 
-# layman-jargon + doc-keyword pairs, excluding jargon-jargon and layman-layman
-NUM_PAIRS_PER_ABSTRACT = (15 * 15) + (15 * 4)
-NUM_ABSTRACTS_IN_BATCH = 10
-MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
-
 LEARNING_RATE = 1e-5
 WEIGHT_DECAY = 1e-4
-BATCH_SIZE = 16
+# Tuned for 16GB VRAM (RTX 2000 Ada): bf16 LoRA + large physical batch.
+BATCH_SIZE = 192
+MINI_BATCH_SIZE = BATCH_SIZE
+GRADIENT_ACCUMULATION_STEPS = 1
 
-PROP_PAIRS_TO_TAKE = 0.25
+PROP_PAIRS_TO_TAKE = 1.00
 LAYMAN_JARGON_WEIGHT = 2
-
-MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
 OUTPUT_MODEL_PATH = Path("models/vanilla-qwen")
 
@@ -60,6 +56,12 @@ def parse_args() -> argparse.Namespace:
         default=LAYMAN_JARGON_WEIGHT,
         help="Repeat layman-jargon pairs this many times to upweight them",
     )
+    parser.add_argument(
+        "--4bit-lora",
+        dest="four_bit_lora",
+        action="store_true",
+        help="Use 4-bit quantization (saves VRAM but underutilizes a 16GB GPU)",
+    )
     return parser.parse_args()
 
 
@@ -72,7 +74,8 @@ def get_document_prompt(model: SentenceTransformer) -> str:
 
 def main():
     args = parse_args()
-    use_4bit = not args.bf16_lora
+    # bf16 LoRA by default; 4-bit leaves ~90% of a 16GB GPU idle on this model.
+    use_4bit = args.four_bit_lora and not args.bf16_lora
     pair_types = VANILLA_PAIR_TYPES if args.include_same_language_pairs else VANILLA_PAIR_TYPES_FILTERED
 
     pairs_dataset = load_pairs_dataset()
@@ -109,8 +112,8 @@ def main():
         per_device_train_batch_size=BATCH_SIZE,
         per_device_eval_batch_size=BATCH_SIZE,
 
-        gradient_accumulation_steps=4,
-        gradient_checkpointing=True,
+        gradient_accumulation_steps=GRADIENT_ACCUMULATION_STEPS,
+        gradient_checkpointing=False,
 
         fp16=False,
         bf16=True,

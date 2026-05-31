@@ -50,8 +50,8 @@ QWEN_LORA_TARGET_MODULES = [
 ]
 
 UNSLOTH_LORA_KWARGS = {
-    "r": 16,
-    "lora_alpha": 16,
+    "r": 64,
+    "lora_alpha": 64,
     "lora_dropout": 0.05,
     "bias": "none",
     "use_gradient_checkpointing": "unsloth",
