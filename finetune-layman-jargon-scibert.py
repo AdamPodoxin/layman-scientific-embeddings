@@ -6,12 +6,9 @@ from sentence_transformers import (
     )
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from datasets import DatasetDict, load_from_disk
 
+from utils import load_pairs_dataset, clean_pairs_for_training
 
-DATA_PATH = Path("data")
-
-LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
 MODELS_PATH = Path("models")
 VANILLA_FINETUNED_MODEL_PATH = MODELS_PATH / "vanilla-scibert"
@@ -28,10 +25,9 @@ BATCH_SIZE = 32
 
 
 def main():
-    layman_jargon_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_JARGON_PAIRS_PATH))
-    
-    train_dataset = layman_jargon_pairs_dataset["train"]
-    val_dataset = layman_jargon_pairs_dataset["val"]
+    pairs_dataset = load_pairs_dataset()
+    train_dataset = clean_pairs_for_training(pairs_dataset["train"], {"layman-jargon"})
+    val_dataset = clean_pairs_for_training(pairs_dataset["val"], {"layman-jargon"})
 
     model = SentenceTransformer(str(VANILLA_FINETUNED_MODEL_PATH))
 
@@ -53,6 +49,9 @@ def main():
 
         per_device_train_batch_size=BATCH_SIZE,
         per_device_eval_batch_size=BATCH_SIZE,
+
+        fp16=False,
+        bf16=True,
     )
 
     trainer = SentenceTransformerTrainer(

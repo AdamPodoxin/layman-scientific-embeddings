@@ -223,3 +223,4 @@ test.ipynb
 **/cache-*.arrow
 pyrightconfig.json
 .vscode/*
+unsloth_compiled_cache/*

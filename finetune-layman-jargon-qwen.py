@@ -1,19 +1,25 @@
+import unsloth
+
+import argparse
 from pathlib import Path
-import torch
-from transformers import BitsAndBytesConfig
+
 from sentence_transformers import (
-        SentenceTransformer, 
-        SentenceTransformerTrainer, 
-        SentenceTransformerTrainingArguments,
-    )
+    SentenceTransformer,
+    SentenceTransformerTrainer,
+    SentenceTransformerTrainingArguments,
+)
 from sentence_transformers.sentence_transformer import losses
 from sentence_transformers.sentence_transformer.training_args import BatchSamplers
-from datasets import DatasetDict, load_from_disk
 
+from utils import (
+    add_qwen_training_args,
+    clean_pairs_for_training,
+    get_qwen_optimizer,
+    load_pairs_dataset,
+    load_vanilla_qwen_unsloth_for_second_stage,
+    merge_lora_and_save,
+)
 
-DATA_PATH = Path("data")
-
-LAYMAN_JARGON_PAIRS_PATH = DATA_PATH / "pairs" / "layman-jargon"
 
 MODEL_ID = "unsloth/Qwen3-Embedding-0.6B"
 
@@ -26,9 +32,27 @@ NUM_PAIRS_PER_ABSTRACT = 15 * 15
 NUM_ABSTRACTS_IN_BATCH = 10
 MINI_BATCH_SIZE = NUM_PAIRS_PER_ABSTRACT * NUM_ABSTRACTS_IN_BATCH
 
-LEARNING_RATE = 2e-4
+LEARNING_RATE = 1e-5
 WEIGHT_DECAY = 1e-4
 BATCH_SIZE = 16
+
+
+def parse_args() -> argparse.Namespace:
+    parser = argparse.ArgumentParser(description="Fine-tune Qwen LoRA on layman-jargon pairs")
+    add_qwen_training_args(parser)
+    parser.add_argument(
+        "--vanilla-model-path",
+        type=Path,
+        default=VANILLA_FINETUNED_MODEL_PATH,
+        help="Path to the vanilla fine-tuned LoRA adapter or merged model",
+    )
+    parser.add_argument(
+        "--output-path",
+        type=Path,
+        default=OUTPUT_MODEL_PATH,
+        help="Directory to save the fine-tuned model",
+    )
+    return parser.parse_args()
 
 
 def get_document_prompt(model: SentenceTransformer) -> str:
@@ -38,28 +62,30 @@ def get_document_prompt(model: SentenceTransformer) -> str:
     return ""
 
 
+def count_trainable_parameters(model: SentenceTransformer) -> int:
+    return sum(p.numel() for p in model.parameters() if p.requires_grad)
+
+
 def main():
-    layman_jargon_pairs_dataset: DatasetDict = load_from_disk(str(LAYMAN_JARGON_PAIRS_PATH))
-    
-    train_dataset = layman_jargon_pairs_dataset["train"]
+    args = parse_args()
+    use_4bit = not args.bf16_lora
 
-    bnb_config = BitsAndBytesConfig(
-        load_in_4bit=True,
-        bnb_4bit_quant_type="nf4",
-        bnb_4bit_compute_dtype=torch.bfloat16,
-        bnb_4bit_use_double_quant=True,
+    pairs_dataset = load_pairs_dataset()
+    train_dataset = clean_pairs_for_training(pairs_dataset["train"], {"layman-jargon"})
+    val_dataset = clean_pairs_for_training(pairs_dataset["val"], {"layman-jargon"})
+
+    model = load_vanilla_qwen_unsloth_for_second_stage(
+        args.vanilla_model_path,
+        use_4bit=use_4bit,
     )
 
-    model = SentenceTransformer(
-        MODEL_ID,
-        model_kwargs={
-            "quantization_config": bnb_config,
-            "device_map": "auto",
-        }
-    )
-
-    model.load_adapter(str(VANILLA_FINETUNED_MODEL_PATH), adapter_name="default", is_trainable=True)
-    model.set_adapter("default")
+    trainable_params = count_trainable_parameters(model)
+    if trainable_params == 0:
+        raise RuntimeError(
+            "No trainable parameters after loading vanilla adapter. "
+            "Check that is_trainable=True and the adapter path is valid."
+        )
+    print(f"Trainable parameters: {trainable_params:,}")
 
     column_prompts = {
         "anchor": model.prompts.get("query", ""),
@@ -68,20 +94,23 @@ def main():
 
     loss = losses.CachedMultipleNegativesRankingLoss(model, mini_batch_size=MINI_BATCH_SIZE)
 
-    args = SentenceTransformerTrainingArguments(
-        output_dir=OUTPUT_MODEL_PATH,
+    args_training = SentenceTransformerTrainingArguments(
+        output_dir=args.output_path,
 
         learning_rate=LEARNING_RATE,
         weight_decay=WEIGHT_DECAY,
         batch_sampler=BatchSamplers.NO_DUPLICATES,
 
+        eval_strategy="epoch",
         save_strategy="epoch",
+        load_best_model_at_end=True,
+        metric_for_best_model="eval_loss",
         save_total_limit=1,
         save_only_model=True,
 
         per_device_train_batch_size=BATCH_SIZE,
         per_device_eval_batch_size=BATCH_SIZE,
-        
+
         gradient_accumulation_steps=4,
         gradient_checkpointing=True,
 
@@ -90,7 +119,7 @@ def main():
 
         dataloader_num_workers=4,
         dataloader_pin_memory=True,
-        optim="paged_adamw_8bit",
+        optim=get_qwen_optimizer(use_4bit),
         prompts=column_prompts,
         router_mapping={"anchor": "query", "positive": "document"},
     )
@@ -98,13 +127,17 @@ def main():
     trainer = SentenceTransformerTrainer(
         model=model,
         train_dataset=train_dataset,
+        eval_dataset=val_dataset,
         loss=loss,
-        args=args,
+        args=args_training,
     )
 
     trainer.train()
 
-    model.save_pretrained(OUTPUT_MODEL_PATH)
+    if args.merge_lora:
+        merge_lora_and_save(model, args.output_path)
+    else:
+        trainer.save_model()
 
 
 if __name__ == "__main__":

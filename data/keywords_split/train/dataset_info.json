@@ -1,0 +1,53 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "doc_id": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "keywords": {
+      "core_entities": {
+        "feature": {
+          "jargon": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "layman": {
+            "dtype": "string",
+            "_type": "Value"
+          }
+        },
+        "_type": "List"
+      },
+      "methodologies": {
+        "feature": {
+          "jargon": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "layman": {
+            "dtype": "string",
+            "_type": "Value"
+          }
+        },
+        "_type": "List"
+      },
+      "outcomes": {
+        "feature": {
+          "jargon": {
+            "dtype": "string",
+            "_type": "Value"
+          },
+          "layman": {
+            "dtype": "string",
+            "_type": "Value"
+          }
+        },
+        "_type": "List"
+      }
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
